@@ -1,0 +1,1824 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FullSpectrum.News — See every shade of the story</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #FAFAF8;
+            --bg-secondary: #FFFFFF;
+            --bg-card: #FFFFFF;
+            --text-primary: #1A1A1A;
+            --text-secondary: #5A5A5A;
+            --text-muted: #8A8A8A;
+            --border-color: #E5E5E3;
+            --accent: #2D2D2D;
+            --left-color: #3B82F6;
+            --left-bg: rgba(59, 130, 246, 0.08);
+            --center-color: #9CA3AF;
+            --right-color: #EF4444;
+            --right-bg: rgba(239, 68, 68, 0.08);
+            --optimistic-color: #10B981;
+            --optimistic-bg: rgba(16, 185, 129, 0.08);
+            --pessimistic-color: #6B7280;
+            --pessimistic-bg: rgba(107, 114, 128, 0.08);
+            --shadow-sm: 0 1px 2px rgba(0,0,0,0.04);
+            --shadow-md: 0 4px 12px rgba(0,0,0,0.06);
+            --shadow-lg: 0 8px 30px rgba(0,0,0,0.08);
+            --radius: 12px;
+            --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        [data-theme="dark"] {
+            --bg-primary: #0F0F0F;
+            --bg-secondary: #1A1A1A;
+            --bg-card: #1F1F1F;
+            --text-primary: #F5F5F5;
+            --text-secondary: #A0A0A0;
+            --text-muted: #666666;
+            --border-color: #2A2A2A;
+            --accent: #FFFFFF;
+            --left-bg: rgba(59, 130, 246, 0.15);
+            --right-bg: rgba(239, 68, 68, 0.15);
+            --optimistic-bg: rgba(16, 185, 129, 0.15);
+            --pessimistic-bg: rgba(107, 114, 128, 0.15);
+            --shadow-sm: 0 1px 2px rgba(0,0,0,0.2);
+            --shadow-md: 0 4px 12px rgba(0,0,0,0.3);
+            --shadow-lg: 0 8px 30px rgba(0,0,0,0.4);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            transition: background var(--transition), color var(--transition);
+            overflow-x: hidden;
+        }
+
+        /* Header */
+        header {
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border-color);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(10px);
+        }
+
+        .header-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 1.25rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo-group { display: flex; flex-direction: column; gap: 0.15rem; }
+
+        .logo {
+            font-family: 'Instrument Serif', Georgia, serif;
+            font-size: 1.75rem;
+            font-weight: 400;
+            letter-spacing: -0.02em;
+            color: var(--text-primary);
+            text-decoration: none;
+        }
+
+        .logo span {
+            background: linear-gradient(90deg, var(--left-color), var(--center-color), var(--right-color));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .tagline { font-size: 0.8rem; color: var(--text-muted); font-style: italic; }
+
+        .header-actions { display: flex; align-items: center; gap: 1.5rem; }
+
+        .how-it-works-link {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 6px;
+            transition: all var(--transition);
+            border: 1px solid transparent;
+        }
+
+        .how-it-works-link:hover {
+            color: var(--text-primary);
+            background: var(--bg-primary);
+            border-color: var(--border-color);
+        }
+
+        .theme-toggle {
+            width: 44px; height: 44px;
+            border-radius: 50%;
+            border: 1px solid var(--border-color);
+            background: var(--bg-card);
+            cursor: pointer;
+            display: flex; align-items: center; justify-content: center;
+            transition: all var(--transition);
+        }
+
+        .theme-toggle:hover { border-color: var(--text-muted); transform: scale(1.05); }
+        .theme-toggle svg { width: 20px; height: 20px; color: var(--text-secondary); }
+        .sun-icon { display: none; }
+        .moon-icon { display: block; }
+        [data-theme="dark"] .sun-icon { display: block; }
+        [data-theme="dark"] .moon-icon { display: none; }
+
+        /* Region Tabs */
+        .region-tabs-container {
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border-color);
+            position: sticky;
+            top: 76px;
+            z-index: 99;
+        }
+
+        .region-tabs {
+            max-width: 700px;
+            margin: 0 auto;
+            display: flex;
+            gap: 0.5rem;
+            padding: 0.75rem 1.5rem;
+            overflow-x: auto;
+            justify-content: center;
+        }
+
+        .region-tab {
+            display: flex; align-items: center; gap: 0.5rem;
+            padding: 0.6rem 1.25rem;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            background: var(--bg-card);
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all var(--transition);
+            white-space: nowrap;
+        }
+
+        .region-tab:hover { border-color: var(--text-muted); color: var(--text-primary); }
+        .region-tab.active { background: var(--accent); color: var(--bg-card); border-color: var(--accent); }
+        .region-tab .flag { font-size: 1.1rem; }
+
+        /* Main Content */
+        main {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem 4rem;
+            overflow: visible;
+        }
+
+        /* Featured Story */
+        .featured-story {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+            padding: 2rem;
+            padding-top: 2.5rem;
+            margin-bottom: 1.5rem;
+            box-shadow: var(--shadow-md);
+            overflow: visible;
+        }
+
+        .featured-header {
+            margin-bottom: 1.5rem;
+        }
+
+        .featured-label {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .featured-headline {
+            font-family: 'Instrument Serif', Georgia, serif;
+            font-size: 1.5rem;
+            line-height: 1.3;
+            color: var(--text-primary);
+        }
+
+        .featured-summary {
+            font-size: 0.95rem;
+            color: var(--text-secondary);
+            margin-top: 0.5rem;
+            line-height: 1.6;
+        }
+
+        /* Matrix Grid */
+        .matrix-container {
+            margin-top: 1.5rem;
+            margin-bottom: 1rem;
+            overflow: visible;
+        }
+
+        .matrix-wrapper {
+            display: flex;
+            gap: 0.5rem;
+            overflow: visible;
+        }
+
+        .matrix-y-axis {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 0.5rem 0;
+            width: 80px;
+            flex-shrink: 0;
+        }
+
+        .y-label {
+            font-size: 0.8rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-muted);
+            text-align: right;
+            padding-right: 0.75rem;
+        }
+
+        .y-label.top { color: var(--optimistic-color); }
+        .y-label.bottom { color: var(--pessimistic-color); }
+
+        .matrix-main {
+            flex: 1;
+        }
+
+        .matrix-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-rows: repeat(3, 1fr);
+            gap: 2px;
+            background: var(--border-color);
+            border-radius: 8px;
+            min-height: 240px;
+            isolation: isolate;
+            overflow: visible;
+            margin-top: 60px;
+            margin-bottom: 60px;
+        }
+
+        .matrix-cell {
+            position: relative;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            padding: 10px;
+            background: var(--bg-card);
+            transition: background var(--transition);
+            overflow: visible;
+        }
+
+        /* Rounded corners for edge cells */
+        .matrix-cell:nth-child(1) { border-top-left-radius: 6px; }
+        .matrix-cell:nth-child(3) { border-top-right-radius: 6px; }
+        .matrix-cell:nth-child(7) { border-bottom-left-radius: 6px; }
+        .matrix-cell:nth-child(9) { border-bottom-right-radius: 6px; }
+
+        /* Color coding for cells */
+        .matrix-cell.left-optimistic { background: linear-gradient(135deg, var(--left-bg), var(--optimistic-bg)); }
+        .matrix-cell.center-optimistic { background: var(--optimistic-bg); }
+        .matrix-cell.right-optimistic { background: linear-gradient(135deg, var(--optimistic-bg), var(--right-bg)); }
+        .matrix-cell.left-neutral { background: var(--left-bg); }
+        .matrix-cell.center-neutral { background: var(--bg-card); }
+        .matrix-cell.right-neutral { background: var(--right-bg); }
+        .matrix-cell.left-pessimistic { background: linear-gradient(135deg, var(--left-bg), var(--pessimistic-bg)); }
+        .matrix-cell.center-pessimistic { background: var(--pessimistic-bg); }
+        .matrix-cell.right-pessimistic { background: linear-gradient(135deg, var(--pessimistic-bg), var(--right-bg)); }
+
+        .matrix-x-axis {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            padding: 0.75rem 0 0;
+            margin-left: 80px;
+        }
+
+        .x-label {
+            font-size: 0.8rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-muted);
+        }
+
+        .x-label.left { color: var(--left-color); text-align: left; }
+        .x-label.center { text-align: center; }
+        .x-label.right { color: var(--right-color); text-align: right; }
+
+        /* Source Logo */
+        .source-logo {
+            position: relative;
+            width: 36px;
+            height: 36px;
+            border-radius: 8px;
+            background: var(--bg-secondary);
+            border: 2px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all var(--transition);
+            text-decoration: none;
+            overflow: visible;
+        }
+
+        .source-logo:hover {
+            transform: scale(1.15);
+            border-color: var(--accent);
+            box-shadow: var(--shadow-md);
+            z-index: 100;
+        }
+
+        .source-logo .logo-img {
+            width: 20px;
+            height: 20px;
+            object-fit: contain;
+            border-radius: 2px;
+        }
+
+        .source-logo .logo-initials {
+            font-size: 0.65rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            letter-spacing: -0.02em;
+            display: none;
+        }
+
+        .source-logo.show-initials .logo-img {
+            display: none;
+        }
+
+        .source-logo.show-initials .logo-initials {
+            display: flex;
+        }
+
+        /* Tooltip - appears above by default */
+        .tooltip {
+            position: absolute;
+            bottom: calc(100% + 8px);
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--accent);
+            color: var(--bg-card);
+            padding: 0.6rem 0.85rem;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: 400;
+            width: 200px;
+            text-align: center;
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.2s ease, visibility 0.2s ease;
+            pointer-events: none;
+            z-index: 9999;
+            box-shadow: var(--shadow-lg);
+            white-space: normal;
+        }
+
+        .tooltip::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 6px solid transparent;
+            border-top-color: var(--accent);
+        }
+
+        /* Top row - tooltip appears below */
+        .matrix-cell:nth-child(-n+3) .tooltip {
+            bottom: auto;
+            top: calc(100% + 8px);
+        }
+
+        .matrix-cell:nth-child(-n+3) .tooltip::after {
+            top: auto;
+            bottom: 100%;
+            border-top-color: transparent;
+            border-bottom-color: var(--accent);
+        }
+
+        .source-logo:hover .tooltip {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .tooltip-source {
+            font-weight: 600;
+            margin-bottom: 0.25rem;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            opacity: 0.8;
+        }
+
+        .tooltip-headline {
+            font-size: 0.8rem;
+            line-height: 1.4;
+        }
+
+        /* Empty cell indicator */
+        .empty-cell {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            opacity: 0.4;
+        }
+
+        /* Other Stories Grid */
+        .other-stories {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 0.75rem;
+        }
+
+        .story-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+            padding: 1.25rem;
+            cursor: pointer;
+            transition: all var(--transition);
+            box-shadow: var(--shadow-sm);
+        }
+
+        .story-card:hover {
+            border-color: var(--text-muted);
+            box-shadow: var(--shadow-md);
+            transform: translateY(-2px);
+        }
+
+        .story-card-number {
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .story-card-headline {
+            font-family: 'Instrument Serif', Georgia, serif;
+            font-size: 1.05rem;
+            line-height: 1.3;
+            color: var(--text-primary);
+            margin-bottom: 0.75rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        /* Mini Matrix */
+        .mini-matrix {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-rows: repeat(3, 1fr);
+            gap: 1px;
+            background: var(--border-color);
+            border-radius: 4px;
+            overflow: hidden;
+            height: 54px;
+        }
+
+        .mini-cell {
+            background: var(--bg-card);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 2px;
+            flex-wrap: wrap;
+            padding: 2px;
+        }
+
+        .mini-cell.left-optimistic { background: linear-gradient(135deg, var(--left-bg), var(--optimistic-bg)); }
+        .mini-cell.center-optimistic { background: var(--optimistic-bg); }
+        .mini-cell.right-optimistic { background: linear-gradient(135deg, var(--optimistic-bg), var(--right-bg)); }
+        .mini-cell.left-neutral { background: var(--left-bg); }
+        .mini-cell.center-neutral { background: var(--bg-card); }
+        .mini-cell.right-neutral { background: var(--right-bg); }
+        .mini-cell.left-pessimistic { background: linear-gradient(135deg, var(--left-bg), var(--pessimistic-bg)); }
+        .mini-cell.center-pessimistic { background: var(--pessimistic-bg); }
+        .mini-cell.right-pessimistic { background: linear-gradient(135deg, var(--pessimistic-bg), var(--right-bg)); }
+
+        .mini-dot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: var(--accent);
+            opacity: 0.6;
+        }
+
+        /* Modal */
+        .modal-overlay {
+            position: fixed; inset: 0;
+            background: rgba(0,0,0,0.5);
+            backdrop-filter: blur(4px);
+            z-index: 1000;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+
+        .modal-overlay.open { display: flex; }
+
+        .modal {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            max-width: 600px;
+            width: 100%;
+            max-height: 80vh;
+            overflow-y: auto;
+            box-shadow: var(--shadow-lg);
+        }
+
+        .modal-header {
+            padding: 1.5rem 1.5rem 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .modal-title { font-family: 'Instrument Serif', Georgia, serif; font-size: 1.5rem; }
+
+        .modal-close {
+            width: 36px; height: 36px;
+            border: none;
+            background: var(--bg-primary);
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex; align-items: center; justify-content: center;
+            color: var(--text-secondary);
+            transition: all var(--transition);
+        }
+
+        .modal-close:hover { background: var(--border-color); color: var(--text-primary); }
+
+        .modal-content { padding: 1.5rem; }
+        .modal-content h3 { font-family: 'Instrument Serif', Georgia, serif; font-size: 1.1rem; margin: 1.5rem 0 0.75rem; color: var(--text-primary); }
+        .modal-content h3:first-child { margin-top: 0; }
+        .modal-content p { color: var(--text-secondary); font-size: 0.95rem; margin-bottom: 0.75rem; }
+
+        .matrix-legend {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 0.5rem;
+            margin: 1rem 0;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 4px;
+        }
+
+        .legend-color.left { background: var(--left-bg); border: 1px solid var(--left-color); }
+        .legend-color.center { background: var(--bg-card); border: 1px solid var(--border-color); }
+        .legend-color.right { background: var(--right-bg); border: 1px solid var(--right-color); }
+
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            border-top: 1px solid var(--border-color);
+        }
+
+        /* Responsive */
+        @media (max-width: 640px) {
+            .header-inner { padding: 1rem; }
+            .logo { font-size: 1.4rem; }
+            .region-tabs { padding: 0.5rem 1rem; gap: 0.4rem; justify-content: flex-start; }
+            .region-tab { padding: 0.5rem 0.9rem; font-size: 0.8rem; }
+            main { padding: 1rem 0.75rem 3rem; }
+            .featured-story { padding: 1rem; cursor: pointer; }
+            .featured-headline { font-size: 1.15rem; }
+            .featured-summary { font-size: 0.85rem; }
+            .other-stories { grid-template-columns: 1fr; gap: 0.6rem; }
+            .story-card { padding: 1rem; }
+            .story-card-headline { font-size: 0.95rem; }
+            .source-logo { width: 28px; height: 28px; }
+            .source-logo .logo-initials { font-size: 0.55rem; }
+            .source-logo .logo-img { width: 16px; height: 16px; }
+            .matrix-container { margin-top: 1rem; }
+            .matrix-grid { min-height: 150px; margin-top: 40px; margin-bottom: 40px; }
+            .matrix-y-axis { width: 60px; }
+            .matrix-x-axis { margin-left: 60px; }
+            .y-label { font-size: 0.7rem; padding-right: 0.5rem; }
+            .x-label { font-size: 0.7rem; }
+            .matrix-cell { padding: 6px; gap: 4px; }
+            .tooltip { display: none; }
+            .mini-matrix { height: 45px; }
+            .mini-dot { width: 5px; height: 5px; }
+        }
+
+        /* Summary Dialog */
+        .summary-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 2000;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem;
+        }
+
+        .summary-overlay.open {
+            display: flex;
+        }
+
+        .summary-dialog {
+            background: var(--bg-card);
+            border-radius: 12px;
+            border: 1px solid var(--border-color);
+            width: 100%;
+            max-width: 700px;
+            max-height: 90vh;
+            overflow-y: auto;
+            box-shadow: var(--shadow-lg);
+        }
+
+        .summary-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            padding: 1.5rem 1.5rem 1rem;
+            border-bottom: 1px solid var(--border-color);
+            position: sticky;
+            top: 0;
+            background: var(--bg-card);
+            z-index: 10;
+        }
+
+        .summary-header-content { flex: 1; padding-right: 1rem; }
+
+        .summary-label {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+
+        .summary-title {
+            font-family: 'Instrument Serif', Georgia, serif;
+            font-size: 1.25rem;
+            line-height: 1.3;
+            color: var(--text-primary);
+        }
+
+        .summary-close {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            border: 1px solid var(--border-color);
+            background: var(--bg-secondary);
+            color: var(--text-secondary);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            flex-shrink: 0;
+            transition: all var(--transition);
+        }
+
+        .summary-close:hover {
+            background: var(--border-color);
+            color: var(--text-primary);
+        }
+
+        .summary-content { padding: 1.5rem; }
+
+        .summary-section-label {
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-muted);
+            margin-bottom: 0.75rem;
+        }
+
+        /* Summary Mini Grid */
+        .summary-grid-container { margin-bottom: 1.75rem; }
+
+        .summary-grid-wrapper { display: flex; gap: 0.5rem; }
+
+        .summary-grid-y-axis {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            width: 75px;
+            padding: 0.25rem 0;
+        }
+
+        .summary-grid-y-label {
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            text-align: right;
+            padding-right: 0.5rem;
+        }
+
+        .summary-grid-y-label.top { color: var(--optimistic-color); }
+        .summary-grid-y-label.bottom { color: var(--pessimistic-color); }
+
+        .summary-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-rows: repeat(3, 1fr);
+            gap: 2px;
+            background: var(--border-color);
+            border-radius: 8px;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        .summary-grid-cell {
+            background: var(--bg-secondary);
+            padding: 0.6rem 0.5rem;
+            font-size: 0.7rem;
+            line-height: 1.35;
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            font-style: italic;
+        }
+
+        .summary-grid-cell.empty {
+            color: var(--text-muted);
+            opacity: 0.5;
+        }
+
+        .summary-grid-cell:nth-child(1) { background: linear-gradient(135deg, var(--left-bg), var(--optimistic-bg)); }
+        .summary-grid-cell:nth-child(2) { background: var(--optimistic-bg); }
+        .summary-grid-cell:nth-child(3) { background: linear-gradient(135deg, var(--optimistic-bg), var(--right-bg)); }
+        .summary-grid-cell:nth-child(4) { background: var(--left-bg); }
+        .summary-grid-cell:nth-child(5) { background: var(--bg-secondary); }
+        .summary-grid-cell:nth-child(6) { background: var(--right-bg); }
+        .summary-grid-cell:nth-child(7) { background: linear-gradient(135deg, var(--left-bg), var(--pessimistic-bg)); }
+        .summary-grid-cell:nth-child(8) { background: var(--pessimistic-bg); }
+        .summary-grid-cell:nth-child(9) { background: linear-gradient(135deg, var(--pessimistic-bg), var(--right-bg)); }
+
+        .summary-grid-x-axis {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            margin-left: 75px;
+            padding-top: 0.5rem;
+        }
+
+        .summary-grid-x-label {
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: var(--text-muted);
+        }
+
+        .summary-grid-x-label.left { color: var(--left-color); text-align: left; }
+        .summary-grid-x-label.center { text-align: center; }
+        .summary-grid-x-label.right { color: var(--right-color); text-align: right; }
+
+        /* Contrasts Section */
+        .contrasts-section { margin-bottom: 1.5rem; }
+
+        .contrast-item {
+            background: var(--bg-secondary);
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 0.75rem;
+            border-left: 3px solid var(--border-color);
+        }
+
+        .contrast-item.optimists { border-left-color: var(--optimistic-color); }
+        .contrast-item.pessimists { border-left-color: var(--pessimistic-color); }
+        .contrast-item.divide { border-left-color: var(--accent); }
+
+        .contrast-label {
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.4rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .contrast-label .dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+        }
+
+        .contrast-item.optimists .contrast-label { color: var(--optimistic-color); }
+        .contrast-item.optimists .dot { background: var(--optimistic-color); }
+        .contrast-item.pessimists .contrast-label { color: var(--pessimistic-color); }
+        .contrast-item.pessimists .dot { background: var(--pessimistic-color); }
+        .contrast-item.divide .contrast-label { color: var(--text-primary); }
+        .contrast-item.divide .dot { background: linear-gradient(90deg, var(--left-color), var(--right-color)); }
+
+        .contrast-text {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        /* Language Section */
+        .language-section {
+            background: var(--bg-secondary);
+            border-radius: 8px;
+            padding: 1rem;
+        }
+
+        .language-row {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .language-row:last-child { margin-bottom: 0; }
+
+        .language-label {
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            width: 80px;
+            flex-shrink: 0;
+            padding-top: 0.2rem;
+        }
+
+        .language-label.optimistic { color: var(--optimistic-color); }
+        .language-label.pessimistic { color: var(--pessimistic-color); }
+
+        .language-words {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+        }
+
+        .word-tag {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            padding: 0.25rem 0.6rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+        }
+
+        /* Mobile Dialog */
+        @media (max-width: 640px) {
+            .summary-overlay { padding: 0; }
+            .summary-dialog { 
+                max-width: 100%; 
+                max-height: 100vh; 
+                border-radius: 0;
+                height: 100%;
+            }
+            .summary-header { padding: 1rem; }
+            .summary-title { font-size: 1.1rem; }
+            .summary-content { padding: 1rem; }
+            .summary-grid-y-axis { width: 55px; }
+            .summary-grid-y-label { font-size: 0.6rem; }
+            .summary-grid-x-axis { margin-left: 55px; }
+            .summary-grid-x-label { font-size: 0.6rem; }
+            .summary-grid-cell { font-size: 0.6rem; padding: 0.4rem 0.3rem; }
+            .contrast-item { padding: 0.75rem; }
+            .contrast-text { font-size: 0.8rem; }
+            .language-row { flex-direction: column; gap: 0.5rem; }
+            .language-label { width: auto; }
+        }
+
+        /* Clickable featured story */
+        .featured-story.clickable {
+            cursor: pointer;
+            transition: border-color var(--transition);
+        }
+
+        .featured-story.clickable:hover {
+            border-color: var(--text-muted);
+        }
+
+        .click-hint {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 1rem;
+            text-align: center;
+            opacity: 0.7;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: var(--text-muted);
+        }
+
+        .loading-spinner {
+            width: 32px; height: 32px;
+            border: 3px solid var(--border-color);
+            border-top-color: var(--accent);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+
+        @keyframes spin { to { transform: rotate(360deg); } }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-inner">
+            <div class="logo-group">
+                <a href="/" class="logo">Full<span>Spectrum</span>.News</a>
+                <span class="tagline">See every shade of the story</span>
+            </div>
+            <div class="header-actions">
+                <a href="#" class="how-it-works-link" id="howItWorksBtn">How it works</a>
+                <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+                    <svg class="moon-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/>
+                    </svg>
+                    <svg class="sun-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <div class="region-tabs-container">
+        <div class="region-tabs">
+            <button class="region-tab active" data-region="global"><span class="flag">🌍</span> Global</button>
+            <button class="region-tab" data-region="us"><span class="flag">🇺🇸</span> United States</button>
+            <button class="region-tab" data-region="singapore"><span class="flag">🇸🇬</span> Singapore</button>
+            <button class="region-tab" data-region="india"><span class="flag">🇮🇳</span> India</button>
+        </div>
+    </div>
+
+    <main>
+        <div id="featuredStory"></div>
+        <div class="other-stories" id="otherStories"></div>
+    </main>
+
+    <footer>
+        <p>FullSpectrum.News — Bringing you balanced perspectives from around the world.</p>
+    </footer>
+
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal">
+            <div class="modal-header">
+                <h2 class="modal-title">How It Works</h2>
+                <button class="modal-close" id="modalClose">
+                    <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-content">
+                <h3>The Spectrum Matrix</h3>
+                <p>Each story is visualized on a 3×3 matrix showing how different sources cover it. Source logos are plotted based on their political leaning and tone.</p>
+                
+                <h3>Reading the Matrix</h3>
+                <p><strong>Horizontal axis (Political):</strong> Left-leaning sources on the left, centrist in the middle, right-leaning on the right.</p>
+                <p><strong>Vertical axis (Tone):</strong> Optimistic coverage at the top, neutral in the middle, pessimistic at the bottom.</p>
+                
+                <div class="matrix-legend">
+                    <div class="legend-item"><div class="legend-color left"></div> Left-leaning</div>
+                    <div class="legend-item"><div class="legend-color center"></div> Centrist</div>
+                    <div class="legend-item"><div class="legend-color right"></div> Right-leaning</div>
+                </div>
+
+                <h3>Interacting</h3>
+                <p><strong>Hover</strong> on a source logo to see their headline. <strong>Click</strong> to read the full article.</p>
+                <p>Click on any smaller story card to make it the featured story.</p>
+                
+                <h3>Regional Coverage</h3>
+                <p>Use the tabs to switch between Global, US, Singapore, and India news. Stories are updated twice daily at 10 AM and 9 PM Singapore Time.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Summary Dialog -->
+    <div class="summary-overlay" id="summaryOverlay">
+        <div class="summary-dialog" id="summaryDialog">
+            <div class="summary-header">
+                <div class="summary-header-content">
+                    <div class="summary-label">Coverage Analysis</div>
+                    <h2 class="summary-title" id="summaryTitle"></h2>
+                </div>
+                <button class="summary-close" id="summaryClose">×</button>
+            </div>
+            <div class="summary-content" id="summaryContent">
+                <!-- Content filled by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const sampleNewsData = {
+            "generatedAt": "2026-01-07T10:00:00+08:00",
+            "regions": {
+                "global": {
+                    "name": "Global",
+                    "stories": [
+                        {
+                            "id": "global-1",
+                            "neutralHeadline": "World Leaders Gather for Climate Summit in Paris",
+                            "neutralSummary": "Heads of state from over 100 countries convene to discuss new emissions targets and climate financing mechanisms.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "The Guardian", "initials": "TG", "domain": "theguardian.com", "headline": "Historic Climate Summit Brings Hope for Planet's Future", "url": "https://www.theguardian.com/environment" },
+                                { "political": "left", "tone": "optimistic", "source": "HuffPost", "initials": "HP", "domain": "huffpost.com", "headline": "World Unites: Climate Summit Signals New Era of Action", "url": "https://www.huffpost.com/news/world-news" },
+                                { "political": "left", "tone": "neutral", "source": "BBC", "initials": "BBC", "domain": "bbc.com", "headline": "Climate Summit Opens with Ambitious Agenda", "url": "https://www.bbc.com/news/world" },
+                                { "political": "left", "tone": "neutral", "source": "NPR", "initials": "NPR", "domain": "npr.org", "headline": "Paris Summit Tackles Climate Goals", "url": "https://www.npr.org/sections/world/" },
+                                { "political": "center", "tone": "optimistic", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Nations Unite on Climate Action at Paris Summit", "url": "https://www.reuters.com/world/" },
+                                { "political": "center", "tone": "neutral", "source": "AP", "initials": "AP", "domain": "apnews.com", "headline": "Climate Summit Begins with 100+ Nations Present", "url": "https://apnews.com/world-news" },
+                                { "political": "center", "tone": "neutral", "source": "AFP", "initials": "AFP", "domain": "afp.com", "headline": "World Leaders Convene for Climate Talks", "url": "https://www.afp.com/en" },
+                                { "political": "center", "tone": "pessimistic", "source": "Bloomberg", "initials": "BB", "domain": "bloomberg.com", "headline": "Climate Summit Faces Implementation Hurdles", "url": "https://www.bloomberg.com/news" },
+                                { "political": "right", "tone": "neutral", "source": "WSJ", "initials": "WSJ", "domain": "wsj.com", "headline": "Climate Summit Addresses Economic Trade-offs", "url": "https://www.wsj.com/world" },
+                                { "political": "right", "tone": "pessimistic", "source": "Fox News", "initials": "FN", "domain": "foxnews.com", "headline": "Climate Summit Costs Raise Concerns for Taxpayers", "url": "https://www.foxnews.com/world" },
+                                { "political": "right", "tone": "pessimistic", "source": "NY Post", "initials": "NYP", "domain": "nypost.com", "headline": "Critics Question Climate Summit Spending", "url": "https://nypost.com/news/" }
+                            ]
+                        },
+                        {
+                            "id": "global-2",
+                            "neutralHeadline": "Global Tech Firms Report Strong AI Revenue Growth",
+                            "neutralSummary": "Major technology companies announce quarterly results showing significant gains in AI products.",
+                            "versions": [
+                                { "political": "left", "tone": "neutral", "source": "NPR", "initials": "NPR", "domain": "npr.org", "headline": "AI Revenue Surges at Major Tech Companies", "url": "https://www.npr.org/sections/technology/" },
+                                { "political": "left", "tone": "pessimistic", "source": "The Guardian", "initials": "TG", "domain": "theguardian.com", "headline": "AI Boom Raises Questions About Job Displacement", "url": "https://www.theguardian.com/technology" },
+                                { "political": "center", "tone": "optimistic", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Tech Giants See AI Boom Continue", "url": "https://www.reuters.com/technology/" },
+                                { "political": "center", "tone": "neutral", "source": "AP", "initials": "AP", "domain": "apnews.com", "headline": "AI Drives Tech Earnings Higher", "url": "https://apnews.com/technology" },
+                                { "political": "right", "tone": "optimistic", "source": "WSJ", "initials": "WSJ", "domain": "wsj.com", "headline": "AI Investment Paying Off for Tech Sector", "url": "https://www.wsj.com/tech" },
+                                { "political": "right", "tone": "neutral", "source": "The Hill", "initials": "TH", "domain": "thehill.com", "headline": "Tech Earnings Show AI Investment Returns", "url": "https://thehill.com/policy/technology/" }
+                            ]
+                        },
+                        {
+                            "id": "global-3",
+                            "neutralHeadline": "Central Banks Coordinate on Interest Rate Strategy",
+                            "neutralSummary": "Federal Reserve and ECB signal alignment on monetary policy approach.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "NPR", "initials": "NPR", "domain": "npr.org", "headline": "Rate Stability Outlook Improves for Consumers", "url": "https://www.npr.org/sections/business/" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Fed, ECB Signal Coordinated Rate Approach", "url": "https://www.reuters.com/markets/" },
+                                { "political": "center", "tone": "neutral", "source": "Bloomberg", "initials": "BB", "domain": "bloomberg.com", "headline": "Central Banks Align on Monetary Policy", "url": "https://www.bloomberg.com/markets" },
+                                { "political": "right", "tone": "pessimistic", "source": "Fox News", "initials": "FN", "domain": "foxnews.com", "headline": "Central Banks Face Policy Pressure", "url": "https://www.foxnews.com/category/us/economy" },
+                                { "political": "right", "tone": "neutral", "source": "WSJ", "initials": "WSJ", "domain": "wsj.com", "headline": "Fed-ECB Coordination Signals Caution", "url": "https://www.wsj.com/economy" }
+                            ]
+                        },
+                        {
+                            "id": "global-4",
+                            "neutralHeadline": "International Space Station Marks 25 Years",
+                            "neutralSummary": "NASA and partners celebrate milestone of continuous human presence in orbit.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "The Guardian", "initials": "TG", "domain": "theguardian.com", "headline": "25 Years of International Space Cooperation", "url": "https://www.theguardian.com/science" },
+                                { "political": "left", "tone": "optimistic", "source": "BBC", "initials": "BBC", "domain": "bbc.com", "headline": "ISS Anniversary Celebrates Global Unity", "url": "https://www.bbc.com/news/science-environment" },
+                                { "political": "center", "tone": "optimistic", "source": "AP", "initials": "AP", "domain": "apnews.com", "headline": "ISS Celebrates Quarter Century of Discovery", "url": "https://apnews.com/science" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Space Station Marks 25-Year Milestone", "url": "https://www.reuters.com/lifestyle/science/" },
+                                { "political": "right", "tone": "neutral", "source": "Fox News", "initials": "FN", "domain": "foxnews.com", "headline": "NASA Celebrates 25 Years of ISS", "url": "https://www.foxnews.com/science" }
+                            ]
+                        },
+                        {
+                            "id": "global-5",
+                            "neutralHeadline": "WHO Updates Global Health Guidelines",
+                            "neutralSummary": "World Health Organization releases revised recommendations for disease prevention.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "BBC", "initials": "BBC", "domain": "bbc.com", "headline": "New WHO Guidelines Strengthen Prevention", "url": "https://www.bbc.com/news/health" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "WHO Issues Updated Health Standards", "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/" },
+                                { "political": "center", "tone": "neutral", "source": "AP", "initials": "AP", "domain": "apnews.com", "headline": "Global Health Guidelines Revised", "url": "https://apnews.com/health" },
+                                { "political": "right", "tone": "neutral", "source": "WSJ", "initials": "WSJ", "domain": "wsj.com", "headline": "WHO Revises Global Health Framework", "url": "https://www.wsj.com/health" },
+                                { "political": "right", "tone": "pessimistic", "source": "NY Post", "initials": "NYP", "domain": "nypost.com", "headline": "WHO Guidelines Face Implementation Questions", "url": "https://nypost.com/tag/world-health-organization/" }
+                            ]
+                        },
+                        {
+                            "id": "global-6",
+                            "neutralHeadline": "Global Trade Agreement Reaches Final Stage",
+                            "neutralSummary": "Major economies finalize terms of comprehensive trade deal covering digital commerce.",
+                            "versions": [
+                                { "political": "left", "tone": "neutral", "source": "The Guardian", "initials": "TG", "domain": "theguardian.com", "headline": "Trade Deal Includes Labor Protections", "url": "https://www.theguardian.com/business" },
+                                { "political": "center", "tone": "optimistic", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Historic Trade Deal Nears Completion", "url": "https://www.reuters.com/business/" },
+                                { "political": "center", "tone": "neutral", "source": "Bloomberg", "initials": "BB", "domain": "bloomberg.com", "headline": "Digital Trade Agreement Finalized", "url": "https://www.bloomberg.com/politics" },
+                                { "political": "right", "tone": "optimistic", "source": "WSJ", "initials": "WSJ", "domain": "wsj.com", "headline": "Trade Deal Opens New Markets", "url": "https://www.wsj.com/politics" }
+                            ]
+                        },
+                        {
+                            "id": "global-7",
+                            "neutralHeadline": "Renewable Energy Investment Hits Record High",
+                            "neutralSummary": "Global investment in clean energy surpasses fossil fuels for first time.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "The Guardian", "initials": "TG", "domain": "theguardian.com", "headline": "Clean Energy Revolution Accelerates", "url": "https://www.theguardian.com/environment/energy" },
+                                { "political": "left", "tone": "optimistic", "source": "HuffPost", "initials": "HP", "domain": "huffpost.com", "headline": "Renewables Triumph: Investment Hits Record", "url": "https://www.huffpost.com/impact/green" },
+                                { "political": "center", "tone": "optimistic", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Clean Energy Investment Surpasses Fossil Fuels", "url": "https://www.reuters.com/business/energy/" },
+                                { "political": "center", "tone": "neutral", "source": "AP", "initials": "AP", "domain": "apnews.com", "headline": "Renewable Energy Sees Record Investment", "url": "https://apnews.com/climate-and-environment" },
+                                { "political": "right", "tone": "neutral", "source": "WSJ", "initials": "WSJ", "domain": "wsj.com", "headline": "Energy Investment Shifts Toward Renewables", "url": "https://www.wsj.com/business/energy-oil" },
+                                { "political": "right", "tone": "pessimistic", "source": "Fox News", "initials": "FN", "domain": "foxnews.com", "headline": "Renewable Push Raises Grid Reliability Concerns", "url": "https://www.foxnews.com/category/us/environment/energy" }
+                            ]
+                        },
+                        {
+                            "id": "global-8",
+                            "neutralHeadline": "UN Security Council Addresses Regional Conflict",
+                            "neutralSummary": "Security Council convenes emergency session to discuss peacekeeping options.",
+                            "versions": [
+                                { "political": "left", "tone": "neutral", "source": "BBC", "initials": "BBC", "domain": "bbc.com", "headline": "UN Seeks Diplomatic Solution to Conflict", "url": "https://www.bbc.com/news/world" },
+                                { "political": "left", "tone": "pessimistic", "source": "The Guardian", "initials": "TG", "domain": "theguardian.com", "headline": "UN Struggles with Regional Crisis Response", "url": "https://www.theguardian.com/world" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Security Council Weighs Peacekeeping Options", "url": "https://www.reuters.com/world/" },
+                                { "political": "center", "tone": "neutral", "source": "AP", "initials": "AP", "domain": "apnews.com", "headline": "UN Convenes Emergency Session on Conflict", "url": "https://apnews.com/united-nations" },
+                                { "political": "right", "tone": "pessimistic", "source": "Fox News", "initials": "FN", "domain": "foxnews.com", "headline": "UN Response Criticized as Too Slow", "url": "https://www.foxnews.com/category/world/united-nations" }
+                            ]
+                        },
+                        {
+                            "id": "global-9",
+                            "neutralHeadline": "Global Chip Shortage Shows Signs of Easing",
+                            "neutralSummary": "Semiconductor supply chain improvements reported as new factories come online.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "NPR", "initials": "NPR", "domain": "npr.org", "headline": "Chip Shortage Relief in Sight for Consumers", "url": "https://www.npr.org/sections/technology/" },
+                                { "political": "center", "tone": "optimistic", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Semiconductor Supply Chain Improving", "url": "https://www.reuters.com/technology/" },
+                                { "political": "center", "tone": "neutral", "source": "Bloomberg", "initials": "BB", "domain": "bloomberg.com", "headline": "New Chip Factories Ease Supply Concerns", "url": "https://www.bloomberg.com/technology" },
+                                { "political": "right", "tone": "neutral", "source": "WSJ", "initials": "WSJ", "domain": "wsj.com", "headline": "Chip Industry Capacity Expands", "url": "https://www.wsj.com/tech" }
+                            ]
+                        }
+                    ]
+                },
+                "us": {
+                    "name": "United States",
+                    "stories": [
+                        {
+                            "id": "us-1",
+                            "neutralHeadline": "Congress Debates Infrastructure Funding Package",
+                            "neutralSummary": "Lawmakers discuss proposed $500 billion infrastructure bill covering transportation and broadband.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "MSNBC", "initials": "MS", "domain": "msnbc.com", "headline": "Infrastructure Bill Promises Jobs Boom", "url": "https://www.msnbc.com/politics" },
+                                { "political": "left", "tone": "optimistic", "source": "HuffPost", "initials": "HP", "domain": "huffpost.com", "headline": "Historic Infrastructure Investment Within Reach", "url": "https://www.huffpost.com/news/politics" },
+                                { "political": "left", "tone": "neutral", "source": "NYT", "initials": "NYT", "domain": "nytimes.com", "headline": "Infrastructure Package Advances in House", "url": "https://www.nytimes.com/section/politics" },
+                                { "political": "left", "tone": "neutral", "source": "WaPo", "initials": "WP", "domain": "washingtonpost.com", "headline": "Congress Moves on Infrastructure Bill", "url": "https://www.washingtonpost.com/politics/" },
+                                { "political": "center", "tone": "neutral", "source": "AP", "initials": "AP", "domain": "apnews.com", "headline": "Infrastructure Bill Faces Key Votes", "url": "https://apnews.com/politics" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "US Infrastructure Package in Final Stages", "url": "https://www.reuters.com/world/us/" },
+                                { "political": "right", "tone": "neutral", "source": "WSJ", "initials": "WSJ", "domain": "wsj.com", "headline": "Infrastructure Plan Weighs Costs and Benefits", "url": "https://www.wsj.com/politics" },
+                                { "political": "right", "tone": "pessimistic", "source": "Fox News", "initials": "FN", "domain": "foxnews.com", "headline": "Infrastructure Spending Draws GOP Criticism", "url": "https://www.foxnews.com/politics" },
+                                { "political": "right", "tone": "pessimistic", "source": "NY Post", "initials": "NYP", "domain": "nypost.com", "headline": "Taxpayers Question Infrastructure Price Tag", "url": "https://nypost.com/tag/infrastructure/" }
+                            ]
+                        },
+                        {
+                            "id": "us-2",
+                            "neutralHeadline": "Supreme Court to Hear Major Business Case",
+                            "neutralSummary": "Justices will review case that could reshape federal agency authority.",
+                            "versions": [
+                                { "political": "left", "tone": "pessimistic", "source": "MSNBC", "initials": "MS", "domain": "msnbc.com", "headline": "Supreme Court Case Threatens Regulatory Protections", "url": "https://www.msnbc.com/rachel-maddow-show" },
+                                { "political": "left", "tone": "neutral", "source": "NYT", "initials": "NYT", "domain": "nytimes.com", "headline": "Supreme Court Takes Up Regulatory Power Case", "url": "https://www.nytimes.com/section/us" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "High Court to Review Agency Authority", "url": "https://www.reuters.com/legal/" },
+                                { "political": "center", "tone": "neutral", "source": "AP", "initials": "AP", "domain": "apnews.com", "headline": "Supreme Court Accepts Business Regulation Case", "url": "https://apnews.com/hub/us-supreme-court" },
+                                { "political": "right", "tone": "optimistic", "source": "WSJ", "initials": "WSJ", "domain": "wsj.com", "headline": "Business Groups Welcome Court Review", "url": "https://www.wsj.com/news/us" },
+                                { "political": "right", "tone": "optimistic", "source": "Fox News", "initials": "FN", "domain": "foxnews.com", "headline": "Court to Address Federal Overreach", "url": "https://www.foxnews.com/category/politics/judiciary/supreme-court" }
+                            ]
+                        },
+                        {
+                            "id": "us-3",
+                            "neutralHeadline": "Tech Layoffs Continue Across Silicon Valley",
+                            "neutralSummary": "Major tech companies announce additional workforce reductions.",
+                            "versions": [
+                                { "political": "left", "tone": "pessimistic", "source": "WaPo", "initials": "WP", "domain": "washingtonpost.com", "headline": "Tech Workers Face Uncertain Future", "url": "https://www.washingtonpost.com/technology/" },
+                                { "political": "left", "tone": "pessimistic", "source": "HuffPost", "initials": "HP", "domain": "huffpost.com", "headline": "Silicon Valley Layoffs Devastate Families", "url": "https://www.huffpost.com/news/business" },
+                                { "political": "center", "tone": "neutral", "source": "AP", "initials": "AP", "domain": "apnews.com", "headline": "Tech Sector Restructuring Continues", "url": "https://apnews.com/technology" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "More Tech Layoffs Announced", "url": "https://www.reuters.com/technology/" },
+                                { "political": "right", "tone": "neutral", "source": "The Hill", "initials": "TH", "domain": "thehill.com", "headline": "Tech Industry Adjusts to New Reality", "url": "https://thehill.com/policy/technology/" },
+                                { "political": "right", "tone": "neutral", "source": "WSJ", "initials": "WSJ", "domain": "wsj.com", "headline": "Tech Firms Trim Workforce", "url": "https://www.wsj.com/tech" }
+                            ]
+                        },
+                        {
+                            "id": "us-4",
+                            "neutralHeadline": "Federal Reserve Maintains Interest Rates",
+                            "neutralSummary": "Central bank holds rates steady, signals data-dependent approach.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "NPR", "initials": "NPR", "domain": "npr.org", "headline": "Rate Hold Brings Relief to Borrowers", "url": "https://www.npr.org/sections/business/" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Fed Holds Rates, Eyes Economic Data", "url": "https://www.reuters.com/markets/" },
+                                { "political": "center", "tone": "neutral", "source": "Bloomberg", "initials": "BB", "domain": "bloomberg.com", "headline": "Federal Reserve Pauses Rate Hikes", "url": "https://www.bloomberg.com/markets" },
+                                { "political": "right", "tone": "neutral", "source": "WSJ", "initials": "WSJ", "domain": "wsj.com", "headline": "Fed Signals Cautious Approach", "url": "https://www.wsj.com/economy" }
+                            ]
+                        },
+                        {
+                            "id": "us-5",
+                            "neutralHeadline": "Election Security Measures Announced",
+                            "neutralSummary": "Officials outline cybersecurity protocols for upcoming election cycle.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "NYT", "initials": "NYT", "domain": "nytimes.com", "headline": "Officials Strengthen Election Defenses", "url": "https://www.nytimes.com/section/politics" },
+                                { "political": "left", "tone": "neutral", "source": "WaPo", "initials": "WP", "domain": "washingtonpost.com", "headline": "New Election Security Measures Unveiled", "url": "https://www.washingtonpost.com/politics/" },
+                                { "political": "center", "tone": "neutral", "source": "AP", "initials": "AP", "domain": "apnews.com", "headline": "Election Security Plans Detailed", "url": "https://apnews.com/politics" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "US Outlines Election Cybersecurity", "url": "https://www.reuters.com/world/us/" },
+                                { "political": "right", "tone": "pessimistic", "source": "Fox News", "initials": "FN", "domain": "foxnews.com", "headline": "Election Security Concerns Persist", "url": "https://www.foxnews.com/politics" },
+                                { "political": "right", "tone": "neutral", "source": "NY Post", "initials": "NYP", "domain": "nypost.com", "headline": "Officials Address Election Security", "url": "https://nypost.com/tag/elections/" }
+                            ]
+                        },
+                        {
+                            "id": "us-6",
+                            "neutralHeadline": "Healthcare Costs Rise Faster Than Inflation",
+                            "neutralSummary": "New data shows medical expenses outpacing general price increases.",
+                            "versions": [
+                                { "political": "left", "tone": "pessimistic", "source": "MSNBC", "initials": "MS", "domain": "msnbc.com", "headline": "Healthcare Crisis: Costs Spiral Out of Control", "url": "https://www.msnbc.com/" },
+                                { "political": "left", "tone": "neutral", "source": "NPR", "initials": "NPR", "domain": "npr.org", "headline": "Healthcare Costs Outpace Inflation", "url": "https://www.npr.org/sections/health/" },
+                                { "political": "center", "tone": "neutral", "source": "AP", "initials": "AP", "domain": "apnews.com", "headline": "Medical Costs Rise Above Inflation Rate", "url": "https://apnews.com/health" },
+                                { "political": "right", "tone": "neutral", "source": "WSJ", "initials": "WSJ", "domain": "wsj.com", "headline": "Healthcare Spending Trends Higher", "url": "https://www.wsj.com/health" }
+                            ]
+                        },
+                        {
+                            "id": "us-7",
+                            "neutralHeadline": "Immigration Policy Changes Take Effect",
+                            "neutralSummary": "New border processing rules begin implementation this week.",
+                            "versions": [
+                                { "political": "left", "tone": "pessimistic", "source": "HuffPost", "initials": "HP", "domain": "huffpost.com", "headline": "Harsh Immigration Rules Take Effect", "url": "https://www.huffpost.com/news/politics" },
+                                { "political": "left", "tone": "neutral", "source": "NYT", "initials": "NYT", "domain": "nytimes.com", "headline": "Border Policy Shift Begins", "url": "https://www.nytimes.com/section/us" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "New Immigration Rules Implemented", "url": "https://www.reuters.com/world/us/" },
+                                { "political": "right", "tone": "optimistic", "source": "Fox News", "initials": "FN", "domain": "foxnews.com", "headline": "Border Security Measures Strengthened", "url": "https://www.foxnews.com/category/us/immigration" },
+                                { "political": "right", "tone": "optimistic", "source": "NY Post", "initials": "NYP", "domain": "nypost.com", "headline": "Immigration Enforcement Gets Boost", "url": "https://nypost.com/tag/immigration/" }
+                            ]
+                        },
+                        {
+                            "id": "us-8",
+                            "neutralHeadline": "Housing Market Shows Mixed Signals",
+                            "neutralSummary": "Home sales vary by region as mortgage rates stabilize.",
+                            "versions": [
+                                { "political": "left", "tone": "pessimistic", "source": "WaPo", "initials": "WP", "domain": "washingtonpost.com", "headline": "Housing Affordability Crisis Deepens", "url": "https://www.washingtonpost.com/business/" },
+                                { "political": "center", "tone": "neutral", "source": "AP", "initials": "AP", "domain": "apnews.com", "headline": "Housing Market Sends Mixed Signals", "url": "https://apnews.com/business" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "US Home Sales Show Regional Variation", "url": "https://www.reuters.com/markets/" },
+                                { "political": "right", "tone": "neutral", "source": "WSJ", "initials": "WSJ", "domain": "wsj.com", "headline": "Mortgage Rates Stabilize, Market Adjusts", "url": "https://www.wsj.com/real-estate" }
+                            ]
+                        },
+                        {
+                            "id": "us-9",
+                            "neutralHeadline": "Education Funding Bill Advances in Senate",
+                            "neutralSummary": "Bipartisan support emerges for increased school funding proposal.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "NPR", "initials": "NPR", "domain": "npr.org", "headline": "Education Funding Boost Gains Momentum", "url": "https://www.npr.org/sections/education/" },
+                                { "political": "left", "tone": "optimistic", "source": "MSNBC", "initials": "MS", "domain": "msnbc.com", "headline": "Historic School Funding Bill Advances", "url": "https://www.msnbc.com/" },
+                                { "political": "center", "tone": "neutral", "source": "AP", "initials": "AP", "domain": "apnews.com", "headline": "Education Bill Moves Forward in Senate", "url": "https://apnews.com/education" },
+                                { "political": "right", "tone": "neutral", "source": "The Hill", "initials": "TH", "domain": "thehill.com", "headline": "Senate Debates Education Spending", "url": "https://thehill.com/homenews/education/" }
+                            ]
+                        }
+                    ]
+                },
+                "singapore": {
+                    "name": "Singapore",
+                    "stories": [
+                        {
+                            "id": "sg-1",
+                            "neutralHeadline": "Singapore Budget 2026 Focuses on Digital Economy",
+                            "neutralSummary": "Government announces investments in technology infrastructure and workforce training.",
+                            "versions": [
+                                { "political": "center", "tone": "optimistic", "source": "Straits Times", "initials": "ST", "domain": "straitstimes.com", "headline": "Budget 2026: Bold Digital Push", "url": "https://www.straitstimes.com/singapore" },
+                                { "political": "center", "tone": "optimistic", "source": "Today", "initials": "TD", "domain": "todayonline.com", "headline": "Singapore Doubles Down on Digital Future", "url": "https://www.todayonline.com/singapore" },
+                                { "political": "center", "tone": "neutral", "source": "CNA", "initials": "CNA", "domain": "channelnewsasia.com", "headline": "Budget Prioritizes Tech Investment", "url": "https://www.channelnewsasia.com/singapore" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Singapore Budget Focuses on Technology", "url": "https://www.reuters.com/world/asia-pacific/" },
+                                { "political": "center", "tone": "neutral", "source": "Bloomberg", "initials": "BB", "domain": "bloomberg.com", "headline": "Singapore Invests in Digital Economy", "url": "https://www.bloomberg.com/asia" }
+                            ]
+                        },
+                        {
+                            "id": "sg-2",
+                            "neutralHeadline": "MRT Network Expansion Plans Revealed",
+                            "neutralSummary": "LTA announces next phase of rail development connecting new areas.",
+                            "versions": [
+                                { "political": "center", "tone": "optimistic", "source": "Straits Times", "initials": "ST", "domain": "straitstimes.com", "headline": "New MRT Lines to Boost Connectivity", "url": "https://www.straitstimes.com/singapore" },
+                                { "political": "center", "tone": "optimistic", "source": "Today", "initials": "TD", "domain": "todayonline.com", "headline": "MRT Expansion Brings Rail Closer to Homes", "url": "https://www.todayonline.com/singapore" },
+                                { "political": "center", "tone": "neutral", "source": "CNA", "initials": "CNA", "domain": "channelnewsasia.com", "headline": "LTA Unveils MRT Expansion Timeline", "url": "https://www.channelnewsasia.com/singapore" }
+                            ]
+                        },
+                        {
+                            "id": "sg-3",
+                            "neutralHeadline": "Housing Prices Show Signs of Stabilization",
+                            "neutralSummary": "Property data indicates cooling measures taking effect.",
+                            "versions": [
+                                { "political": "center", "tone": "optimistic", "source": "Straits Times", "initials": "ST", "domain": "straitstimes.com", "headline": "Housing Market Cooling Brings Relief", "url": "https://www.straitstimes.com/business/property" },
+                                { "political": "center", "tone": "neutral", "source": "CNA", "initials": "CNA", "domain": "channelnewsasia.com", "headline": "Property Prices Stabilize After Measures", "url": "https://www.channelnewsasia.com/singapore" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Singapore Property Prices Stabilize", "url": "https://www.reuters.com/world/asia-pacific/" },
+                                { "political": "center", "tone": "neutral", "source": "Bloomberg", "initials": "BB", "domain": "bloomberg.com", "headline": "Singapore Housing Market Levels Off", "url": "https://www.bloomberg.com/asia" }
+                            ]
+                        },
+                        {
+                            "id": "sg-4",
+                            "neutralHeadline": "Singapore Airlines Reports Record Numbers",
+                            "neutralSummary": "National carrier announces strong travel demand recovery.",
+                            "versions": [
+                                { "political": "center", "tone": "optimistic", "source": "Straits Times", "initials": "ST", "domain": "straitstimes.com", "headline": "SIA Soars with Record Passengers", "url": "https://www.straitstimes.com/business/companies-markets" },
+                                { "political": "center", "tone": "optimistic", "source": "CNA", "initials": "CNA", "domain": "channelnewsasia.com", "headline": "Singapore Airlines Posts Strong Recovery", "url": "https://www.channelnewsasia.com/business" },
+                                { "political": "center", "tone": "optimistic", "source": "Today", "initials": "TD", "domain": "todayonline.com", "headline": "SIA Celebrates Record Travel Demand", "url": "https://www.todayonline.com/singapore" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Singapore Airlines Reports Record Quarter", "url": "https://www.reuters.com/business/" }
+                            ]
+                        },
+                        {
+                            "id": "sg-5",
+                            "neutralHeadline": "Regional Trade Partnerships Strengthened",
+                            "neutralSummary": "New agreements signed with ASEAN partners.",
+                            "versions": [
+                                { "political": "center", "tone": "optimistic", "source": "Straits Times", "initials": "ST", "domain": "straitstimes.com", "headline": "Singapore Deepens ASEAN Trade Ties", "url": "https://www.straitstimes.com/asia" },
+                                { "political": "center", "tone": "neutral", "source": "CNA", "initials": "CNA", "domain": "channelnewsasia.com", "headline": "New ASEAN Trade Agreements Signed", "url": "https://www.channelnewsasia.com/asia" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Singapore Signs Regional Trade Deals", "url": "https://www.reuters.com/world/asia-pacific/" }
+                            ]
+                        },
+                        {
+                            "id": "sg-6",
+                            "neutralHeadline": "Changi Airport Terminal 5 Construction Update",
+                            "neutralSummary": "Major infrastructure project reaches new milestone ahead of schedule.",
+                            "versions": [
+                                { "political": "center", "tone": "optimistic", "source": "Straits Times", "initials": "ST", "domain": "straitstimes.com", "headline": "T5 Construction Ahead of Schedule", "url": "https://www.straitstimes.com/singapore" },
+                                { "political": "center", "tone": "optimistic", "source": "CNA", "initials": "CNA", "domain": "channelnewsasia.com", "headline": "Changi T5 Reaches Major Milestone", "url": "https://www.channelnewsasia.com/singapore" },
+                                { "political": "center", "tone": "neutral", "source": "Today", "initials": "TD", "domain": "todayonline.com", "headline": "Terminal 5 Progress Update Released", "url": "https://www.todayonline.com/singapore" }
+                            ]
+                        },
+                        {
+                            "id": "sg-7",
+                            "neutralHeadline": "Singapore Launches New Green Finance Initiative",
+                            "neutralSummary": "MAS introduces framework for sustainable investment products.",
+                            "versions": [
+                                { "political": "center", "tone": "optimistic", "source": "Straits Times", "initials": "ST", "domain": "straitstimes.com", "headline": "Singapore Leads in Green Finance", "url": "https://www.straitstimes.com/business/banking" },
+                                { "political": "center", "tone": "neutral", "source": "Bloomberg", "initials": "BB", "domain": "bloomberg.com", "headline": "MAS Unveils Green Finance Framework", "url": "https://www.bloomberg.com/asia" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Singapore Launches Sustainable Finance Rules", "url": "https://www.reuters.com/business/" }
+                            ]
+                        },
+                        {
+                            "id": "sg-8",
+                            "neutralHeadline": "Healthcare Capacity Expansion Announced",
+                            "neutralSummary": "MOH reveals plans for new medical facilities and staff recruitment.",
+                            "versions": [
+                                { "political": "center", "tone": "optimistic", "source": "Straits Times", "initials": "ST", "domain": "straitstimes.com", "headline": "Healthcare Boost: New Facilities Planned", "url": "https://www.straitstimes.com/singapore" },
+                                { "political": "center", "tone": "neutral", "source": "CNA", "initials": "CNA", "domain": "channelnewsasia.com", "headline": "MOH Announces Healthcare Expansion", "url": "https://www.channelnewsasia.com/singapore" },
+                                { "political": "center", "tone": "neutral", "source": "Today", "initials": "TD", "domain": "todayonline.com", "headline": "More Healthcare Capacity Coming", "url": "https://www.todayonline.com/singapore" }
+                            ]
+                        },
+                        {
+                            "id": "sg-9",
+                            "neutralHeadline": "Singapore Tech Startups Attract Record Funding",
+                            "neutralSummary": "Venture capital investment in local startups reaches all-time high.",
+                            "versions": [
+                                { "political": "center", "tone": "optimistic", "source": "Straits Times", "initials": "ST", "domain": "straitstimes.com", "headline": "Startup Boom: Record VC Funding Flows", "url": "https://www.straitstimes.com/business" },
+                                { "political": "center", "tone": "optimistic", "source": "CNA", "initials": "CNA", "domain": "channelnewsasia.com", "headline": "Singapore Startups See Funding Surge", "url": "https://www.channelnewsasia.com/business" },
+                                { "political": "center", "tone": "neutral", "source": "Bloomberg", "initials": "BB", "domain": "bloomberg.com", "headline": "Singapore VC Investment Hits Record", "url": "https://www.bloomberg.com/asia" }
+                            ]
+                        }
+                    ]
+                },
+                "india": {
+                    "name": "India",
+                    "stories": [
+                        {
+                            "id": "in-1",
+                            "neutralHeadline": "Union Budget Boosts Infrastructure Spending",
+                            "neutralSummary": "Finance Ministry announces major investments in roads, railways, and urban development.",
+                            "versions": [
+                                { "political": "left", "tone": "neutral", "source": "The Hindu", "initials": "TH", "domain": "thehindu.com", "headline": "Budget Prioritizes Infrastructure Growth", "url": "https://www.thehindu.com/business/Economy/" },
+                                { "political": "left", "tone": "neutral", "source": "NDTV", "initials": "NDTV", "domain": "ndtv.com", "headline": "Infrastructure Gets Budget Boost", "url": "https://www.ndtv.com/business" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "India Budget Increases Capital Spending", "url": "https://www.reuters.com/world/india/" },
+                                { "political": "center", "tone": "optimistic", "source": "ET", "initials": "ET", "domain": "economictimes.indiatimes.com", "headline": "Budget Signals Strong Growth Focus", "url": "https://economictimes.indiatimes.com/news/economy" },
+                                { "political": "center", "tone": "neutral", "source": "TOI", "initials": "TOI", "domain": "timesofindia.indiatimes.com", "headline": "Budget Balances Growth and Prudence", "url": "https://timesofindia.indiatimes.com/business" },
+                                { "political": "center", "tone": "neutral", "source": "HT", "initials": "HT", "domain": "hindustantimes.com", "headline": "Infrastructure Spending Gets Major Push", "url": "https://www.hindustantimes.com/business/" },
+                                { "political": "right", "tone": "optimistic", "source": "Republic", "initials": "REP", "domain": "republicworld.com", "headline": "Budget Delivers on Development Promise", "url": "https://www.republicworld.com/india-news/" }
+                            ]
+                        },
+                        {
+                            "id": "in-2",
+                            "neutralHeadline": "Tech Sector Sees Strong Export Growth",
+                            "neutralSummary": "IT services exports reach new high as global demand continues.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "The Hindu", "initials": "TH", "domain": "thehindu.com", "headline": "IT Exports Power Economic Growth", "url": "https://www.thehindu.com/business/" },
+                                { "political": "center", "tone": "optimistic", "source": "ET", "initials": "ET", "domain": "economictimes.indiatimes.com", "headline": "India IT Exports Hit Record High", "url": "https://economictimes.indiatimes.com/tech/technology" },
+                                { "political": "center", "tone": "optimistic", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "Indian Tech Exports Continue Surge", "url": "https://www.reuters.com/technology/" },
+                                { "political": "center", "tone": "neutral", "source": "TOI", "initials": "TOI", "domain": "timesofindia.indiatimes.com", "headline": "Tech Exports Show Strong Growth", "url": "https://timesofindia.indiatimes.com/business" },
+                                { "political": "center", "tone": "neutral", "source": "Bloomberg", "initials": "BB", "domain": "bloomberg.com", "headline": "India IT Services Exports Rise", "url": "https://www.bloomberg.com/asia" }
+                            ]
+                        },
+                        {
+                            "id": "in-3",
+                            "neutralHeadline": "Monsoon Forecast Predicts Normal Rainfall",
+                            "neutralSummary": "IMD forecasts average monsoon season for agricultural regions.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "The Hindu", "initials": "TH", "domain": "thehindu.com", "headline": "Good Monsoon News for Farmers", "url": "https://www.thehindu.com/sci-tech/agriculture/" },
+                                { "political": "center", "tone": "neutral", "source": "TOI", "initials": "TOI", "domain": "timesofindia.indiatimes.com", "headline": "IMD Forecasts Normal Monsoon", "url": "https://timesofindia.indiatimes.com/india" },
+                                { "political": "center", "tone": "optimistic", "source": "ET", "initials": "ET", "domain": "economictimes.indiatimes.com", "headline": "Normal Monsoon to Support Agriculture", "url": "https://economictimes.indiatimes.com/news/economy/agriculture" },
+                                { "political": "center", "tone": "neutral", "source": "HT", "initials": "HT", "domain": "hindustantimes.com", "headline": "Monsoon Expected to Be Normal: IMD", "url": "https://www.hindustantimes.com/india-news/" }
+                            ]
+                        },
+                        {
+                            "id": "in-4",
+                            "neutralHeadline": "Delhi Metro Expansion Reaches Milestone",
+                            "neutralSummary": "Capital's metro network crosses 400km mark.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "The Hindu", "initials": "TH", "domain": "thehindu.com", "headline": "Metro Expansion Continues Apace", "url": "https://www.thehindu.com/news/cities/Delhi/" },
+                                { "political": "center", "tone": "optimistic", "source": "TOI", "initials": "TOI", "domain": "timesofindia.indiatimes.com", "headline": "Delhi Metro Crosses 400km Milestone", "url": "https://timesofindia.indiatimes.com/city/delhi" },
+                                { "political": "center", "tone": "optimistic", "source": "HT", "initials": "HT", "domain": "hindustantimes.com", "headline": "Delhi Metro Network Reaches New Heights", "url": "https://www.hindustantimes.com/cities/delhi-news/" },
+                                { "political": "center", "tone": "neutral", "source": "NDTV", "initials": "NDTV", "domain": "ndtv.com", "headline": "Delhi Metro Marks 400km Achievement", "url": "https://www.ndtv.com/delhi-news" }
+                            ]
+                        },
+                        {
+                            "id": "in-5",
+                            "neutralHeadline": "RBI Maintains Repo Rate",
+                            "neutralSummary": "Reserve Bank holds benchmark rate steady amid inflation monitoring.",
+                            "versions": [
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "RBI Holds Rates, Watches Inflation", "url": "https://www.reuters.com/world/india/" },
+                                { "political": "center", "tone": "optimistic", "source": "ET", "initials": "ET", "domain": "economictimes.indiatimes.com", "headline": "RBI Rate Hold Supports Growth", "url": "https://economictimes.indiatimes.com/markets" },
+                                { "political": "center", "tone": "neutral", "source": "Bloomberg", "initials": "BB", "domain": "bloomberg.com", "headline": "India Central Bank Maintains Rates", "url": "https://www.bloomberg.com/asia" },
+                                { "political": "center", "tone": "neutral", "source": "TOI", "initials": "TOI", "domain": "timesofindia.indiatimes.com", "headline": "RBI Keeps Repo Rate Unchanged", "url": "https://timesofindia.indiatimes.com/business" }
+                            ]
+                        },
+                        {
+                            "id": "in-6",
+                            "neutralHeadline": "Electric Vehicle Sales Surge in India",
+                            "neutralSummary": "EV adoption accelerates as new models enter the market.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "The Hindu", "initials": "TH", "domain": "thehindu.com", "headline": "India's Electric Revolution Accelerates", "url": "https://www.thehindu.com/business/Industry/" },
+                                { "political": "center", "tone": "optimistic", "source": "ET", "initials": "ET", "domain": "economictimes.indiatimes.com", "headline": "EV Sales Hit Record Numbers", "url": "https://economictimes.indiatimes.com/industry/auto" },
+                                { "political": "center", "tone": "optimistic", "source": "TOI", "initials": "TOI", "domain": "timesofindia.indiatimes.com", "headline": "Electric Vehicles Gain Traction", "url": "https://timesofindia.indiatimes.com/auto" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "India EV Market Shows Strong Growth", "url": "https://www.reuters.com/world/india/" }
+                            ]
+                        },
+                        {
+                            "id": "in-7",
+                            "neutralHeadline": "India-UAE Trade Agreement Expands",
+                            "neutralSummary": "Bilateral trade deal enhanced with new sectors added.",
+                            "versions": [
+                                { "political": "center", "tone": "optimistic", "source": "ET", "initials": "ET", "domain": "economictimes.indiatimes.com", "headline": "India-UAE Trade Ties Strengthen", "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "India, UAE Expand Trade Agreement", "url": "https://www.reuters.com/world/india/" },
+                                { "political": "center", "tone": "neutral", "source": "TOI", "initials": "TOI", "domain": "timesofindia.indiatimes.com", "headline": "Bilateral Trade Deal Gets Boost", "url": "https://timesofindia.indiatimes.com/business" },
+                                { "political": "right", "tone": "optimistic", "source": "Republic", "initials": "REP", "domain": "republicworld.com", "headline": "Historic Trade Win for India", "url": "https://www.republicworld.com/business-news/" }
+                            ]
+                        },
+                        {
+                            "id": "in-8",
+                            "neutralHeadline": "ISRO Announces New Space Mission",
+                            "neutralSummary": "Space agency reveals plans for ambitious lunar exploration project.",
+                            "versions": [
+                                { "political": "left", "tone": "optimistic", "source": "The Hindu", "initials": "TH", "domain": "thehindu.com", "headline": "ISRO Sets Sights on Moon Again", "url": "https://www.thehindu.com/sci-tech/science/" },
+                                { "political": "center", "tone": "optimistic", "source": "TOI", "initials": "TOI", "domain": "timesofindia.indiatimes.com", "headline": "India's Space Dreams Expand", "url": "https://timesofindia.indiatimes.com/science" },
+                                { "political": "center", "tone": "optimistic", "source": "NDTV", "initials": "NDTV", "domain": "ndtv.com", "headline": "ISRO Announces Ambitious Lunar Mission", "url": "https://www.ndtv.com/science" },
+                                { "political": "right", "tone": "optimistic", "source": "Republic", "initials": "REP", "domain": "republicworld.com", "headline": "India to Lead Next Space Frontier", "url": "https://www.republicworld.com/science/" }
+                            ]
+                        },
+                        {
+                            "id": "in-9",
+                            "neutralHeadline": "Manufacturing Sector Growth Continues",
+                            "neutralSummary": "PMI data shows sustained expansion in industrial production.",
+                            "versions": [
+                                { "political": "center", "tone": "optimistic", "source": "ET", "initials": "ET", "domain": "economictimes.indiatimes.com", "headline": "Manufacturing Boom Continues", "url": "https://economictimes.indiatimes.com/news/economy/indicators" },
+                                { "political": "center", "tone": "neutral", "source": "Reuters", "initials": "R", "domain": "reuters.com", "headline": "India Manufacturing PMI Shows Growth", "url": "https://www.reuters.com/world/india/" },
+                                { "political": "center", "tone": "neutral", "source": "Bloomberg", "initials": "BB", "domain": "bloomberg.com", "headline": "India Factory Output Expands", "url": "https://www.bloomberg.com/asia" },
+                                { "political": "center", "tone": "neutral", "source": "TOI", "initials": "TOI", "domain": "timesofindia.indiatimes.com", "headline": "Industrial Growth Remains Steady", "url": "https://timesofindia.indiatimes.com/business" }
+                            ]
+                        }
+                    ]
+                }
+            }
+        };
+
+        let currentData = sampleNewsData;
+        let currentRegion = 'global';
+        let featuredStoryIndex = 0;
+
+        function getDomainFromUrl(url) {
+            try {
+                const hostname = new URL(url).hostname;
+                return hostname.replace('www.', '');
+            } catch {
+                return '';
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            loadTheme();
+            renderPage();
+            setupEventListeners();
+        });
+
+        function loadTheme() {
+            const savedTheme = localStorage.getItem('theme') || 'dark';
+            document.documentElement.setAttribute('data-theme', savedTheme);
+        }
+
+        function toggleTheme() {
+            const current = document.documentElement.getAttribute('data-theme');
+            const next = current === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+
+        function getCellClass(political, tone) {
+            return `${political}-${tone}`;
+        }
+
+        function getSourcesInCell(versions, political, tone) {
+            return versions.filter(v => v.political === political && v.tone === tone);
+        }
+
+        function renderMatrix(story, isLarge = true) {
+            const positions = ['left', 'center', 'right'];
+            const tones = ['optimistic', 'neutral', 'pessimistic'];
+            
+            let cellsHtml = '';
+            tones.forEach((tone, rowIndex) => {
+                positions.forEach(political => {
+                    const sources = getSourcesInCell(story.versions, political, tone);
+                    const cellClass = getCellClass(political, tone);
+                    
+                    if (isLarge) {
+                        const sourcesHtml = sources.length > 0 
+                            ? sources.map(s => {
+                                const domain = s.domain || getDomainFromUrl(s.url);
+                                return `
+                                <a href="${s.url}" target="_blank" rel="noopener noreferrer" class="source-logo" title="${s.source}">
+                                    <img class="logo-img" src="https://www.google.com/s2/favicons?domain=${domain}&sz=128" alt="${s.source}" onerror="this.parentElement.classList.add('show-initials');">
+                                    <span class="logo-initials">${s.initials}</span>
+                                    <div class="tooltip">
+                                        <div class="tooltip-source">${s.source}</div>
+                                        <div class="tooltip-headline">${s.headline}</div>
+                                    </div>
+                                </a>
+                            `}).join('')
+                            : '<span class="empty-cell">—</span>';
+                        
+                        cellsHtml += `<div class="matrix-cell ${cellClass}">${sourcesHtml}</div>`;
+                    } else {
+                        const dotsHtml = sources.map(() => '<div class="mini-dot"></div>').join('');
+                        cellsHtml += `<div class="mini-cell ${cellClass}">${dotsHtml}</div>`;
+                    }
+                });
+            });
+            
+            if (isLarge) {
+                return `
+                    <div class="matrix-container">
+                        <div class="matrix-wrapper">
+                            <div class="matrix-y-axis">
+                                <span class="y-label top">Optimistic</span>
+                                <span class="y-label">Neutral</span>
+                                <span class="y-label bottom">Pessimistic</span>
+                            </div>
+                            <div class="matrix-main">
+                                <div class="matrix-grid">${cellsHtml}</div>
+                            </div>
+                        </div>
+                        <div class="matrix-x-axis">
+                            <span class="x-label left">Left</span>
+                            <span class="x-label center">Center</span>
+                            <span class="x-label right">Right</span>
+                        </div>
+                    </div>
+                `;
+            } else {
+                return `<div class="mini-matrix">${cellsHtml}</div>`;
+            }
+        }
+
+        function renderFeaturedStory(story) {
+            return `
+                <div class="featured-story clickable" id="featuredCard">
+                    <div class="featured-header">
+                        <div>
+                            <div class="featured-label">Featured Story</div>
+                            <h1 class="featured-headline">${story.neutralHeadline}</h1>
+                            <p class="featured-summary">${story.neutralSummary}</p>
+                        </div>
+                    </div>
+                    ${renderMatrix(story, true)}
+                    <div class="click-hint">Click anywhere to see coverage analysis</div>
+                </div>
+            `;
+        }
+
+        function renderStoryCard(story, index) {
+            return `
+                <div class="story-card" data-index="${index}">
+                    <div class="story-card-number">Story #${index + 1}</div>
+                    <h3 class="story-card-headline">${story.neutralHeadline}</h3>
+                    ${renderMatrix(story, false)}
+                </div>
+            `;
+        }
+
+        function renderPage() {
+            const regionData = currentData.regions[currentRegion];
+            if (!regionData || !regionData.stories || regionData.stories.length === 0) {
+                document.getElementById('featuredStory').innerHTML = '<div class="loading"><p>No stories available</p></div>';
+                document.getElementById('otherStories').innerHTML = '';
+                return;
+            }
+
+            const stories = regionData.stories;
+            const featured = stories[featuredStoryIndex];
+            
+            document.getElementById('featuredStory').innerHTML = renderFeaturedStory(featured);
+            
+            const otherStoriesHtml = stories
+                .map((story, index) => index !== featuredStoryIndex ? renderStoryCard(story, index) : '')
+                .filter(html => html)
+                .join('');
+            
+            document.getElementById('otherStories').innerHTML = otherStoriesHtml;
+
+            document.querySelectorAll('.story-card').forEach(card => {
+                card.addEventListener('click', () => {
+                    const newIndex = parseInt(card.dataset.index);
+                    featuredStoryIndex = newIndex;
+                    renderPage();
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                });
+            });
+
+            // Add click handler for featured card (opens summary dialog)
+            const featuredCard = document.getElementById('featuredCard');
+            if (featuredCard) {
+                featuredCard.addEventListener('click', (e) => {
+                    // Don't open dialog if clicking on source logo links
+                    if (e.target.closest('.source-logo')) return;
+                    openSummaryDialog(featured);
+                });
+            }
+        }
+
+        function switchRegion(region) {
+            currentRegion = region;
+            featuredStoryIndex = 0;
+            document.querySelectorAll('.region-tab').forEach(tab => {
+                tab.classList.toggle('active', tab.dataset.region === region);
+            });
+            renderPage();
+        }
+
+        function setupEventListeners() {
+            document.getElementById('themeToggle').addEventListener('click', toggleTheme);
+
+            document.querySelectorAll('.region-tab').forEach(tab => {
+                tab.addEventListener('click', () => switchRegion(tab.dataset.region));
+            });
+
+            const modal = document.getElementById('modalOverlay');
+            document.getElementById('howItWorksBtn').addEventListener('click', (e) => {
+                e.preventDefault();
+                modal.classList.add('open');
+            });
+            document.getElementById('modalClose').addEventListener('click', () => modal.classList.remove('open'));
+            modal.addEventListener('click', (e) => { if (e.target === modal) modal.classList.remove('open'); });
+            
+            // Summary dialog event listeners
+            const summaryOverlay = document.getElementById('summaryOverlay');
+            document.getElementById('summaryClose').addEventListener('click', closeSummaryDialog);
+            summaryOverlay.addEventListener('click', (e) => { 
+                if (e.target === summaryOverlay) closeSummaryDialog(); 
+            });
+            
+            document.addEventListener('keydown', (e) => { 
+                if (e.key === 'Escape') {
+                    modal.classList.remove('open');
+                    closeSummaryDialog();
+                }
+            });
+        }
+
+        function openSummaryDialog(story) {
+            document.getElementById('summaryTitle').textContent = story.neutralHeadline;
+            document.getElementById('summaryContent').innerHTML = renderSummaryContent(story);
+            document.getElementById('summaryOverlay').classList.add('open');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeSummaryDialog() {
+            document.getElementById('summaryOverlay').classList.remove('open');
+            document.body.style.overflow = '';
+        }
+
+        function getThemeForCell(versions, political, tone) {
+            const match = versions.find(v => v.political === political && v.tone === tone);
+            return match ? `"${match.headline}"` : '—';
+        }
+
+        function renderSummaryContent(story) {
+            const versions = story.versions;
+            const analysis = story.analysis || generateDefaultAnalysis(story);
+
+            // Build mini grid
+            const gridCells = [
+                ['left', 'optimistic'], ['center', 'optimistic'], ['right', 'optimistic'],
+                ['left', 'neutral'], ['center', 'neutral'], ['right', 'neutral'],
+                ['left', 'pessimistic'], ['center', 'pessimistic'], ['right', 'pessimistic']
+            ].map(([political, tone]) => {
+                const theme = getThemeForCell(versions, political, tone);
+                const isEmpty = theme === '—';
+                return `<div class="summary-grid-cell ${isEmpty ? 'empty' : ''}">${theme}</div>`;
+            }).join('');
+
+            return `
+                <!-- Mini Grid -->
+                <div class="summary-grid-container">
+                    <div class="summary-section-label">Coverage Themes Across Spectrum</div>
+                    <div class="summary-grid-wrapper">
+                        <div class="summary-grid-y-axis">
+                            <span class="summary-grid-y-label top">Optimistic</span>
+                            <span class="summary-grid-y-label">Neutral</span>
+                            <span class="summary-grid-y-label bottom">Pessimistic</span>
+                        </div>
+                        <div class="summary-grid">${gridCells}</div>
+                    </div>
+                    <div class="summary-grid-x-axis">
+                        <span class="summary-grid-x-label left">Left</span>
+                        <span class="summary-grid-x-label center">Center</span>
+                        <span class="summary-grid-x-label right">Right</span>
+                    </div>
+                </div>
+
+                <!-- Key Contrasts -->
+                <div class="contrasts-section">
+                    <div class="summary-section-label">Key Contrasts</div>
+                    
+                    <div class="contrast-item optimists">
+                        <div class="contrast-label"><span class="dot"></span> Optimists (Left & Right)</div>
+                        <div class="contrast-text">${analysis.optimists}</div>
+                    </div>
+
+                    <div class="contrast-item pessimists">
+                        <div class="contrast-label"><span class="dot"></span> Pessimists (Left & Right)</div>
+                        <div class="contrast-text">${analysis.pessimists}</div>
+                    </div>
+
+                    <div class="contrast-item divide">
+                        <div class="contrast-label"><span class="dot"></span> Left vs Right Divide</div>
+                        <div class="contrast-text">${analysis.divide}</div>
+                    </div>
+                </div>
+
+                <!-- Language Patterns -->
+                <div class="language-section">
+                    <div class="summary-section-label" style="margin-bottom: 0.75rem;">Language Patterns</div>
+                    
+                    <div class="language-row">
+                        <div class="language-label optimistic">Optimistic</div>
+                        <div class="language-words">
+                            ${analysis.optimisticWords.map(w => `<span class="word-tag">${w}</span>`).join('')}
+                        </div>
+                    </div>
+
+                    <div class="language-row">
+                        <div class="language-label pessimistic">Pessimistic</div>
+                        <div class="language-words">
+                            ${analysis.pessimisticWords.map(w => `<span class="word-tag">${w}</span>`).join('')}
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function generateDefaultAnalysis(story) {
+            // Extract words from headlines for basic analysis
+            const versions = story.versions;
+            const optimisticHeadlines = versions.filter(v => v.tone === 'optimistic').map(v => v.headline).join(' ');
+            const pessimisticHeadlines = versions.filter(v => v.tone === 'pessimistic').map(v => v.headline).join(' ');
+            const leftHeadlines = versions.filter(v => v.political === 'left').map(v => v.headline).join(' ');
+            const rightHeadlines = versions.filter(v => v.political === 'right').map(v => v.headline).join(' ');
+
+            return {
+                optimists: "Focus on potential for progress, opportunity, and positive outcomes. Both left and right optimists see reasons for hope, though they emphasize different benefits.",
+                pessimists: "Express concerns about implementation challenges, costs, or unintended consequences. Left pessimists often want more action; right pessimists question the approach.",
+                divide: "Left sources tend to frame the story through social impact and collective benefit. Right sources emphasize economic considerations, individual costs, and practical constraints.",
+                optimisticWords: extractKeyWords(optimisticHeadlines, ['hope', 'progress', 'success', 'growth', 'historic', 'breakthrough', 'unity', 'opportunity', 'record', 'boost']),
+                pessimisticWords: extractKeyWords(pessimisticHeadlines, ['concern', 'crisis', 'cost', 'risk', 'threat', 'challenge', 'criticism', 'question', 'hurdle', 'burden'])
+            };
+        }
+
+        function extractKeyWords(text, defaultWords) {
+            const words = text.toLowerCase();
+            const found = defaultWords.filter(w => words.includes(w));
+            return found.length >= 3 ? found.slice(0, 5) : defaultWords.slice(0, 5);
+        }
+
+        async function loadNewsData() {
+            try {
+                const response = await fetch('news_data.json');
+                if (response.ok) {
+                    currentData = await response.json();
+                    renderPage();
+                }
+            } catch (e) {
+                console.log('Using sample data');
+            }
+        }
+    </script>
+</body>
+</html>
