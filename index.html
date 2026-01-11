@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en" data-theme="dark">
 <head>
@@ -1786,20 +1787,128 @@
         }
 
         function generateDefaultAnalysis(story) {
-            // Extract words from headlines for basic analysis
             const versions = story.versions;
-            const optimisticHeadlines = versions.filter(v => v.tone === 'optimistic').map(v => v.headline).join(' ');
-            const pessimisticHeadlines = versions.filter(v => v.tone === 'pessimistic').map(v => v.headline).join(' ');
-            const leftHeadlines = versions.filter(v => v.political === 'left').map(v => v.headline).join(' ');
-            const rightHeadlines = versions.filter(v => v.political === 'right').map(v => v.headline).join(' ');
-
+            
+            // Group headlines by political leaning and tone
+            const leftOptimistic = versions.filter(v => v.political === 'left' && v.tone === 'optimistic').map(v => v.headline);
+            const leftPessimistic = versions.filter(v => v.political === 'left' && v.tone === 'pessimistic').map(v => v.headline);
+            const rightOptimistic = versions.filter(v => v.political === 'right' && v.tone === 'optimistic').map(v => v.headline);
+            const rightPessimistic = versions.filter(v => v.political === 'right' && v.tone === 'pessimistic').map(v => v.headline);
+            const leftAll = versions.filter(v => v.political === 'left').map(v => v.headline);
+            const rightAll = versions.filter(v => v.political === 'right').map(v => v.headline);
+            const optimisticAll = versions.filter(v => v.tone === 'optimistic').map(v => v.headline);
+            const pessimisticAll = versions.filter(v => v.tone === 'pessimistic').map(v => v.headline);
+            
+            // Generate story-specific contrasts
+            let optimistsText = "Focus on potential benefits and positive outcomes.";
+            let pessimistsText = "Raise concerns about risks, costs, or challenges.";
+            let divideText = "Left and right sources frame the story through different lenses.";
+            
+            // Optimists analysis
+            if (leftOptimistic.length > 0 && rightOptimistic.length > 0) {
+                optimistsText = `Left optimists highlight "${extractKeyPhrase(leftOptimistic[0])}" while right optimists emphasize "${extractKeyPhrase(rightOptimistic[0])}" — both see opportunity but from different angles.`;
+            } else if (optimisticAll.length > 0) {
+                optimistsText = `Optimistic sources frame this as "${extractKeyPhrase(optimisticAll[0])}" — focusing on progress, opportunity, or positive momentum.`;
+            }
+            
+            // Pessimists analysis
+            if (leftPessimistic.length > 0 && rightPessimistic.length > 0) {
+                pessimistsText = `Left concerns center on "${extractKeyPhrase(leftPessimistic[0])}" while right concerns focus on "${extractKeyPhrase(rightPessimistic[0])}" — criticism from opposite directions.`;
+            } else if (pessimisticAll.length > 0) {
+                pessimistsText = `Critical sources emphasize "${extractKeyPhrase(pessimisticAll[0])}" — highlighting risks, costs, or potential downsides.`;
+            }
+            
+            // Left vs Right divide
+            if (leftAll.length > 0 && rightAll.length > 0) {
+                const leftFocus = extractKeyPhrase(leftAll[0]);
+                const rightFocus = extractKeyPhrase(rightAll[0]);
+                divideText = `Left sources lead with "${leftFocus}" emphasizing social or collective impact. Right sources lead with "${rightFocus}" emphasizing economic or individual considerations.`;
+            }
+            
+            // Extract contextual phrases from headlines
+            const optimisticPhrases = extractPhrases(optimisticAll);
+            const pessimisticPhrases = extractPhrases(pessimisticAll);
+            
             return {
-                optimists: "Focus on potential for progress, opportunity, and positive outcomes. Both left and right optimists see reasons for hope, though they emphasize different benefits.",
-                pessimists: "Express concerns about implementation challenges, costs, or unintended consequences. Left pessimists often want more action; right pessimists question the approach.",
-                divide: "Left sources tend to frame the story through social impact and collective benefit. Right sources emphasize economic considerations, individual costs, and practical constraints.",
-                optimisticWords: extractKeyWords(optimisticHeadlines, ['hope', 'progress', 'success', 'growth', 'historic', 'breakthrough', 'unity', 'opportunity', 'record', 'boost']),
-                pessimisticWords: extractKeyWords(pessimisticHeadlines, ['concern', 'crisis', 'cost', 'risk', 'threat', 'challenge', 'criticism', 'question', 'hurdle', 'burden'])
+                optimists: optimistsText,
+                pessimists: pessimistsText,
+                divide: divideText,
+                optimisticWords: optimisticPhrases.length > 0 ? optimisticPhrases : ['positive outlook', 'progress noted', 'opportunity seen'],
+                pessimisticWords: pessimisticPhrases.length > 0 ? pessimisticPhrases : ['concerns raised', 'challenges ahead', 'risks highlighted']
             };
+        }
+
+        function extractKeyPhrase(headline) {
+            if (!headline) return 'this development';
+            // Extract a meaningful portion of the headline (first ~5-7 words or up to a comma/colon)
+            const cleaned = headline.replace(/^["']|["']$/g, '');
+            const parts = cleaned.split(/[,:—–-]/);
+            let phrase = parts[0].trim();
+            
+            // If too long, take first 6 words
+            const words = phrase.split(' ');
+            if (words.length > 7) {
+                phrase = words.slice(0, 6).join(' ') + '...';
+            }
+            return phrase.toLowerCase();
+        }
+
+        function extractPhrases(headlines) {
+            if (!headlines || headlines.length === 0) return [];
+            
+            const phrases = [];
+            const allText = headlines.join(' ').toLowerCase();
+            
+            // Look for meaningful 2-3 word phrases
+            const phrasePatterns = [
+                // Optimistic patterns
+                { pattern: /historic\s+\w+/gi, type: 'optimistic' },
+                { pattern: /breakthrough\s+\w+/gi, type: 'optimistic' },
+                { pattern: /record\s+\w+/gi, type: 'optimistic' },
+                { pattern: /\w+\s+surge[sd]?/gi, type: 'optimistic' },
+                { pattern: /\w+\s+boom/gi, type: 'optimistic' },
+                { pattern: /strong\s+\w+/gi, type: 'optimistic' },
+                { pattern: /major\s+\w+/gi, type: 'optimistic' },
+                { pattern: /new\s+era/gi, type: 'optimistic' },
+                { pattern: /hope\s+for\s+\w+/gi, type: 'optimistic' },
+                { pattern: /unity\s+\w+/gi, type: 'optimistic' },
+                
+                // Pessimistic patterns
+                { pattern: /\w+\s+concerns?/gi, type: 'pessimistic' },
+                { pattern: /\w+\s+crisis/gi, type: 'pessimistic' },
+                { pattern: /\w+\s+threat/gi, type: 'pessimistic' },
+                { pattern: /raises?\s+\w+/gi, type: 'pessimistic' },
+                { pattern: /questions?\s+\w+/gi, type: 'pessimistic' },
+                { pattern: /critics?\s+\w+/gi, type: 'pessimistic' },
+                { pattern: /\w+\s+challenges?/gi, type: 'pessimistic' },
+                { pattern: /costs?\s+\w+/gi, type: 'pessimistic' },
+                { pattern: /faces?\s+\w+/gi, type: 'pessimistic' },
+                { pattern: /\w+\s+hurdles?/gi, type: 'pessimistic' },
+            ];
+            
+            for (const { pattern } of phrasePatterns) {
+                const matches = allText.match(pattern);
+                if (matches) {
+                    for (const match of matches) {
+                        const cleaned = match.trim().replace(/\s+/g, ' ');
+                        if (cleaned.length > 4 && cleaned.length < 25 && !phrases.includes(cleaned)) {
+                            phrases.push(cleaned);
+                        }
+                    }
+                }
+            }
+            
+            // Fallback: extract key noun phrases if no patterns matched
+            if (phrases.length === 0) {
+                for (const headline of headlines.slice(0, 3)) {
+                    const words = headline.toLowerCase().split(' ').slice(0, 3).join(' ');
+                    if (words.length > 5) {
+                        phrases.push(words);
+                    }
+                }
+            }
+            
+            return phrases.slice(0, 5);
         }
 
         function extractKeyWords(text, defaultWords) {
@@ -1810,13 +1919,22 @@
 
         async function loadNewsData() {
             try {
+                console.log('Attempting to load news_data.json...');
                 const response = await fetch('news_data.json');
                 if (response.ok) {
                     currentData = await response.json();
+                    console.log('Loaded live news data:', currentData.generatedAt);
+                    // Debug: Log first article URL
+                    const firstStory = currentData.regions?.global?.stories?.[0];
+                    if (firstStory && firstStory.versions?.[0]) {
+                        console.log('Sample URL:', firstStory.versions[0].url);
+                    }
                     renderPage();
+                } else {
+                    console.log('news_data.json not found, using sample data');
                 }
             } catch (e) {
-                console.log('Using sample data');
+                console.log('Error loading news_data.json, using sample data:', e);
             }
         }
     </script>
