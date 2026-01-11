@@ -1506,8 +1506,8 @@
 
         document.addEventListener('DOMContentLoaded', () => {
             loadTheme();
-            renderPage();
             setupEventListeners();
+            loadNewsData(); // This fetches live data and calls renderPage()
         });
 
         function loadTheme() {
@@ -1920,22 +1920,25 @@
         async function loadNewsData() {
             try {
                 console.log('Attempting to load news_data.json...');
-                const response = await fetch('news_data.json');
+                // Add cache-busting parameter to avoid stale cached responses
+                const cacheBuster = new Date().getTime();
+                const response = await fetch(`news_data.json?v=${cacheBuster}`);
                 if (response.ok) {
                     currentData = await response.json();
-                    console.log('Loaded live news data:', currentData.generatedAt);
+                    console.log('✅ Loaded live news data:', currentData.generatedAt);
                     // Debug: Log first article URL
                     const firstStory = currentData.regions?.global?.stories?.[0];
                     if (firstStory && firstStory.versions?.[0]) {
                         console.log('Sample URL:', firstStory.versions[0].url);
                     }
-                    renderPage();
                 } else {
-                    console.log('news_data.json not found, using sample data');
+                    console.log('⚠️ news_data.json not found (status: ' + response.status + '), using sample data');
                 }
             } catch (e) {
-                console.log('Error loading news_data.json, using sample data:', e);
+                console.log('⚠️ Error loading news_data.json, using sample data:', e);
             }
+            // Always render the page (with live or sample data)
+            renderPage();
         }
     </script>
 </body>
