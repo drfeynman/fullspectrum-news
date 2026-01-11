@@ -55,15 +55,6 @@ jobs:
           cd ${{ github.workspace }}
           python scripts/build_news.py
       
-      - name: Check for changes
-        id: check_changes
-        run: |
-          if git diff --quiet news_data.json; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-          else
-            echo "changed=true" >> $GITHUB_OUTPUT
-          fi
-      
       - name: Commit updated news data
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
