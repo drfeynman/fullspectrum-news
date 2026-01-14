@@ -1,22 +1,31 @@
 {
-  "generatedAt": "2026-01-14T03:29:36.316225+00:00",
+  "generatedAt": "2026-01-14T13:44:28.839371+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Iran protests death toll tops 2,000, activists say, in worst upheaval since 1979 revolution",
-          "neutralSummary": "US-based activists said the death toll in the Iranian government's crackdown on the largest protest movement since the 1979 revolution had passed 2,000. While an enduring internet blackout has made it impossible to know the full scale of the violence, some Iranians have been able to report what they",
+          "neutralHeadline": "Thailand: At least 29 dead as crane collapses onto train",
+          "neutralSummary": "Thailand: At least 29 dead as crane collapses onto train",
           "versions": [
             {
               "political": "left",
               "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "At least 22 killed as crane collapses on train in Thailand",
+              "url": "https://www.theguardian.com/world/2026/jan/14/thailand-train-crane-accident-deaths"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Trump Says Iran Wants To Negotiate As The Death Toll In Protests Rises To At Least 646",
-              "url": "https://www.huffpost.com/entry/iran-protests-trump-negotiate-death-toll_n_696562f6e4b0f5f77ec85fb9"
+              "headline": "Construction Crane Falls On Passenger Train In Thailand, Killing At Least 22",
+              "url": "https://www.huffpost.com/entry/thailand-construction-crane-train-accident_n_69672439e4b09c0a939c4b64"
             },
             {
               "political": "left",
@@ -24,8 +33,60 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "More than 2,000 people reported killed at Iran protests as Trump says 'help is on its way'",
-              "url": "https://www.bbc.com/news/articles/cr57vmznmd9o?at_medium=RSS&at_campaign=rss"
+              "headline": "At least 32 killed after crane collapses on train in Thailand",
+              "url": "https://www.bbc.com/news/articles/ceqz7v1507ro?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "A construction crane falls onto a moving train in Thailand, killing at least 30 people",
+              "url": "https://www.npr.org/2026/01/14/g-s1-105943/construction-crane-falls-onto-moving-train-thailand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Thailand: At least 29 dead as crane collapses onto train",
+              "url": "https://www.france24.com/en/video/20260114-thailand-at-least-29-dead-as-crane-collapses-onto-train"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Multiple people killed after construction crane falls, derails train in Thailand",
+              "url": "https://www.foxnews.com/world/multiple-people-killed-after-construction-crane-falls-derails-train-thailand"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "The Death Toll From A Crackdown On Protests In Iran Jumps To At Least 2,571, Activists Say",
+          "neutralSummary": "The demonstrations began a little over two weeks ago in anger over Iran’s ailing economy and soon targeted the theocracy, particularly 86-year-old Supreme Leader Ayatollah Ali Khamenei.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "The Death Toll From A Crackdown On Protests In Iran Jumps To At Least 2,571, Activists Say",
+              "url": "https://www.huffpost.com/entry/death-toll-nationwide-protests-iran-spikes-2000-activists-say_n_6966541ae4b09c0a939bb01c"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "The death toll from a crackdown on protests in Iran jumps to over 2,500, activists say",
+              "url": "https://www.npr.org/2026/01/14/g-s1-105949/death-toll-crackdown-protests-iran"
             },
             {
               "political": "left",
@@ -33,17 +94,8 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Iran protests LIVE: Tehran says Trump encouraging political destabilisation",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/1/14/iran-protests-live-tehran-says-trump-encouraging-political-destabilisation?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Iran protests death toll tops 2,000, activists say, in worst upheaval since 1979 revolution",
-              "url": "https://www.france24.com/en/asia-pacific/20260113-iran-protests-death-toll-tops-2-000-activists-say-in-worst-upheaval-since-1979-revolution"
+              "headline": "Iran’s judiciary to speed up trials of accused in protests crackdown",
+              "url": "https://www.aljazeera.com/news/2026/1/14/irans-judiciary-to-speed-up-trials-of-accused-in-protests-crackdown?traffic_source=rss"
             },
             {
               "political": "right",
@@ -57,9 +109,9 @@
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "South Korea's special prosecutor seeks death penalty for ex-president Yoon over martial law bid",
-          "neutralSummary": "South Korea's special prosecutor seeks death penalty for ex-president Yoon over martial law bid&nbsp;&nbsp;CNBCYoon Suk Yeol: S Korea prosecutors seek death penalty over failed insurrection attempt&nbsp;&nbsp;BBCSouth Korea prosecutors seek death penalty for ex-President Yoon&nbsp;&nbsp;Al JazeeraDe",
+          "id": "global-3",
+          "neutralHeadline": "South Korean prosecutors demand death penalty for former president Yoon Suk Yeol",
+          "neutralSummary": "Yoon is on trial for insurrection charges, after trying to declare martial law in late 2024South Korean prosecutors have demanded the death penalty for former president Yoon Suk Yeol over his failed martial law declaration in December 2024, in the first insurrection trial of a Korean head of state i",
           "versions": [
             {
               "political": "left",
@@ -73,45 +125,27 @@
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Prosecutors seek death penalty for ex-South Korean president Yoon",
-              "url": "https://www.bbc.com/news/articles/cq6vyqq5r0do?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNBC",
-              "initials": "C",
+              "source": "New York Times",
+              "initials": "NYT",
               "domain": "news.google.com",
-              "headline": "South Korea's special prosecutor seeks death penalty for ex-president Yoon over martial law bid",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFViaE5kZ0J2Vnd5bTBsR1pSdFF3ZjczSFpDOGRVNVNybkdEVXd3Rk9SQnRiVFlrZzdxN2ljSGpON3psdmI2UlVleTNLaTlIQ1kxV2ItS3JlVWlvVGVrVjFDdHhBdkNmUlJBUU9EeGN5UTk2eHp3Z3NWd0JrQjdvVGV3UUhSWjkxc0JIVXVGTURVSlJNT2F4dnZrVkhONDBuQU5Bd3Y2N1IzejFhdE1MRUZscGNKSVVEdEI2ZA?oc=5"
+              "headline": "Prosecutors Seek Death Penalty for Former South Korea President",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ2xFT0Q2ZnRnQ3BWUS0wNm1xUnlfcklaWGtKQll3dERFcjdzdkZtSDZxa2NPbEFiMWJBdGVzQUVEbVpPelJwRkdQMERqRktKYTMxSWhSX0FEaDFfVVJkeDFvRjNvYk1nZkM2UmN0RENya3J6ODZKcXNCdnluV05lZVUyc0I2cjZI?oc=5"
             },
             {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "South Korea prosecutors seek death penalty for ex-President Yoon",
-              "url": "https://www.aljazeera.com/news/2026/1/13/south-korea-prosecutors-seek-death-penalty-for-ex-president-yoon?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "South Korean prosecutors demand death penalty for ex-leader Yoon",
-              "url": "https://www.france24.com/en/south-korean-prosecutors-demand-death-penalty-for-ex-leader-yoon"
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "South Korean prosecutor seeks death penalty for ex-President Yoon over martial law declaration: 'Self-coup'",
+              "url": "https://www.foxnews.com/world/south-korean-prosecutor-seeks-death-penalty-ex-president-yoon-over-martial-law-declaration-self-coup"
             }
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "'We choose Denmark,' says Greenland PM ahead of W. House talks",
-          "neutralSummary": "Greenland would choose to remain Danish over a US takeover, its leader said Tuesday, ahead of crunch White House talks on the future of the Arctic island which President Donald Trump has repeatedly threatened. FRANCE 24's Emerald Maxwell reports.",
+          "id": "global-4",
+          "neutralHeadline": "Iran calls for fast trials of protesters despite Trump’s warning",
+          "neutralSummary": "Iran's judiciary chief on Wednesday called for fast-track trials for detained protesters, despite US President Donald Trump's threat of \"very strong action\" if the Islamic republic goes ahead with executions. It came as the verified death toll of people killed in a crackdown on protesters passed the",
           "versions": [
             {
               "political": "left",
@@ -119,9 +153,68 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "We choose Denmark over US, Greenland's PM says",
-              "url": "https://www.bbc.com/news/articles/c4g3kw5ezepo?at_medium=RSS&at_campaign=rss"
+              "headline": "Trump vows 'very strong action' if Iran executes protesters",
+              "url": "https://www.bbc.com/news/articles/cqj2qgw8w08o?at_medium=RSS&at_campaign=rss"
             },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Trump’s neo-con turn on Iran",
+              "url": "https://www.aljazeera.com/opinions/2026/1/14/trumps-neo-con-turn-on-iran?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Iran calls for fast trials of protesters despite Trump’s warning",
+              "url": "https://www.france24.com/en/iran-calls-for-fast-trials-of-protesters-despite-trump-s-warning"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Vance to meet Danish and Greenlandic officials in Washington on Wednesday",
+          "neutralSummary": "US Vice President JD Vance is scheduled to meet Denmark’s foreign minister and Greenland’s counterpart in Washington this Wednesday to discuss the Arctic island, a semiautonomous territory of Denmark, a NATO ally of the United States. On Tuesday, officials from Denmark and Greenland presented a unit",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Vance to meet Danish and Greenlandic officials in Washington on Wednesday",
+              "url": "https://www.npr.org/2026/01/14/g-s1-105936/vance-to-meet-danish-greenland-officials"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Vance to meet Danish and Greenlandic officials in Washington on Wednesday",
+              "url": "https://www.france24.com/en/vance-to-meet-danish-and-greenlandic-officials-in-washington-on-wednesday"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Vance to meet Danish and Greenlandic officials in Washington as locals say Greenland is not for sale",
+              "url": "https://nypost.com/2026/01/14/us-news/vance-to-meet-danish-and-greenlandic-officials-in-washington-as-locals-say-greenland-is-not-for-sale/"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "Apprehension in Denmark ahead of talks about Greenland with Vance",
+          "neutralSummary": "Leaders from Denmark and Greenland will meet with top U.S. officials in Washington on Wednesday to try to find a way out of a crisis caused by President Trump repeated demands to annex Greenland.",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
@@ -132,15 +225,6 @@
               "url": "https://www.npr.org/2026/01/13/nx-s1-5675921/apprehension-in-denmark-ahead-of-talks-about-greenland-with-vance"
             },
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "'We choose Denmark,' says Greenland PM ahead of W. House talks",
-              "url": "https://www.france24.com/en/we-choose-denmark-says-greenland-pm-ahead-of-w-house-talks"
-            },
-            {
               "political": "right",
               "tone": "neutral",
               "source": "Fox News",
@@ -148,138 +232,81 @@
               "domain": "foxnews.com",
               "headline": "Greenland's prime minister says 'we choose Denmark' over the US",
               "url": "https://www.foxnews.com/world/greenlands-prime-minister-says-we-choose-denmark-over-us"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Trump administration ends temporary protected status for Somalis in US",
-          "neutralSummary": "Critics condemn ‘bigoted attack’ as Trump bids to revoke citizenship of naturalized immigrants convicted of fraud The Trump administration is terminating temporary protected status (TPS) for Somalis living in the United States, giving hundreds of people two months to leave the country or face deport",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Trump administration ends temporary protected status for Somalis in US",
-              "url": "https://www.theguardian.com/us-news/2026/jan/13/trump-administration-ends-tps-somalia"
             },
             {
-              "political": "left",
+              "political": "right",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Trump administration moves to end deportation protection for Somalis",
-              "url": "https://www.bbc.com/news/articles/cz0p9ld5egjo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Carney heads to Beijing as Trump’s America First agenda forces Canada into trade rethink",
-          "neutralSummary": "Canada’s PM seeks to smooth over past ructions in relationship with China as trade war takes its tollDuring the final stretch of Canada’s spring election campaign, Mark Carney told a debate audience that China was the country’s “biggest geopolitical risk”. He pointed to its attempts to meddle in ele",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Carney heads to Beijing as Trump’s America First agenda forces Canada into trade rethink",
-              "url": "https://www.theguardian.com/world/2026/jan/12/carney-heads-to-beijing-as-trump-america-first-agenda-forces-canada-into-trade-rethink"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Trump says trade agreement with Mexico, Canada ‘irrelevant’ to US",
-              "url": "https://www.aljazeera.com/economy/2026/1/13/trump-says-trade-agreement-with-mexico-canada-irrelevant-to-us?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Le Pen blames European Parliament in appeal that could decide political fate",
-          "neutralSummary": "\"We had no sense of having committed an offence,\" France's far-right leader tells an appeal to overturn a ban from contesting the next election.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Le Pen blames European Parliament in appeal that could decide political fate",
-              "url": "https://www.bbc.com/news/articles/c62vnvx2x2po?at_medium=RSS&at_campaign=rss"
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Trump insists ‘US needs Greenland’ and ‘anything less is unacceptable’ ahead of high-stakes talks",
+              "url": "https://nypost.com/2026/01/14/us-news/trump-insists-us-needs-greenland-and-anything-less-is-unacceptable-ahead-of-high-stakes-talks/"
             }
           ]
         },
         {
           "id": "global-7",
-          "neutralHeadline": "Myanmar says Rohingya genocide case at world court is 'flawed and unfounded'",
-          "neutralSummary": "Myanmar’s foreign ministry said on Wednesday that a genocide case at the International Court of Justice over its treatment of the mostly Muslim Rohingya minority was “flawed and unfounded”. The court began three weeks of hearings on Monday on allegations brought by The Gambia over a 2017 military cr",
+          "neutralHeadline": "China announces record $1tn trade surplus despite Trump tariffs",
+          "neutralSummary": "Beijing reported the largest-ever trade surplus at $1.19tn as China diversified its trade.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "China announces record $1tn trade surplus despite Trump tariffs",
+              "url": "https://www.bbc.com/news/articles/c9wx1v84rzyo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "UN International Court of Justice to hear 1st genocide case in over a decade",
-              "url": "https://www.npr.org/2026/01/13/nx-s1-5675142/un-international-court-of-justice-to-hear-1st-genocide-case-in-over-a-decade"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Myanmar says Rohingya genocide case at world court is 'flawed and unfounded'",
-              "url": "https://www.france24.com/en/asia-pacific/20260114-myanmar-rohingya-genocide-icj"
+              "headline": "China's trade surplus surges 20% to a record $1.2 trillion, even with Trump's tariffs",
+              "url": "https://www.npr.org/2026/01/14/nx-s1-5677029/chinas-trade-surplus-surges-1-2-trillion-trump-tariffs"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Trump administration labels 3 Muslim Brotherhood branches as terrorist organizations",
-          "neutralSummary": "Trump administration labels 3 Muslim Brotherhood branches as terrorist organizations&nbsp;&nbsp;AP NewsTrump ad­min­is­tration labels 3 Muslim Broth­erhood branches as terrorist or­ga­ni­za­tions&nbsp;&nbsp;Spectrum NewsUS labels Muslim Brotherhood in Egypt, Lebanon, Jordan as ‘terrorists’&nbsp;&nbs",
+          "neutralHeadline": "China urges Canada to break from U.S. influence as Carney visits Beijing",
+          "neutralSummary": "China urges Canada to break from U.S. influence as Carney visits Beijing&nbsp;&nbsp;PBSMark Carney Heads to Beijing to Discuss Canada-China Relations as U.S. Outlook Darkens&nbsp;&nbsp;The New York TimesCanada’s Carney Lands in Beijing as China Urges Removing Tariffs&nbsp;&nbsp;Bloomberg.comChina's",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
+              "source": "PBS",
+              "initials": "P",
               "domain": "news.google.com",
-              "headline": "Trump administration labels 3 Muslim Brotherhood branches as terrorist organizations",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVlKdkl0OHRKRC1mTFJnanYtaHhieGpxYVlGZU5qNDRfalNhbWVSQ0d6dDVLaUNUTzk5WjhaZUxSSnhlTDQzdy1MVUEzTFBUV0JzUDItcHByMXVPZk9zZHhtS3FwTzhYTWFzMHVFZExMalVUUF92Z092VlpjWGQtcndLX2xMWFpNdTdvQW04QVpNdzNhcDUyNU9BUDVsZHRaeVBwRnh5RGMzMkYyY1pYYUEtc25pcUw0N0E?oc=5"
+              "headline": "China urges Canada to break from U.S. influence as Carney visits Beijing",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnhFdHA1bHlUWVZid1JESzJPRW1Xa0RyVEtJUDdxTUE2ZU8zVV92Q1M4M19lUVA3ZFRVVnVFRTVtZldTenBiRHZwNnYtTlN0ampkd2Y4aDhORVNjNVVuWGRzWEwzQ0VXbjdkeDA0MFJaX3VCQWM0b0JhanItZlByY2MwQ1dwRkw3WG92UXRnR3E2Y1dTVDg5UGRldlcyVTZkSlkwYlVfYUlyd9IBrwFBVV95cUxPMzNybkk4Nlp5MnJwQnMwSG85UjFDRVFvY2otaFBOaVF4YVA3WmRaNVlzX1Boby1sc3hfZVk2VVZ5QkNlbTUtVktBT0hoV1ZTTy1sMjN4MUhfOWdzckdvbzJsYXZzNzllMHdoMnM3ZC1NWWpqSjd4OUJtU2ZFZTU3T05SSmx6OHdzb2Y3bHNIWTh4TVZQSnFzMzd1UTVSNE9UeGd4d2tZeGNPTWpZZlZR?oc=5"
             },
             {
-              "political": "right",
+              "political": "center",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump admin labels Muslim Brotherhood branches as terrorist organizations",
-              "url": "https://www.foxnews.com/world/trump-admin-labels-muslim-brotherhood-branches-terrorist-organizations"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Canada’s Carney Lands in Beijing as China Urges Removing Tariffs",
+              "url": "https://www.bloomberg.com/news/articles/2026-01-14/canada-s-carney-lands-in-beijing-as-china-urges-removing-tariffs"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "US civil rights pioneer Claudette Colvin dies at 86",
-          "neutralSummary": "Claudette Colvin, who refused to give up her seat on a segregated Alabama bus in 1955, months before Rosa Parks, has died aged 86, her foundation said on Tuesday. Colvin was 15 at the time. Her foundation said she left a legacy of courage that helped change American history.",
+          "neutralHeadline": "Drones 'hunt' for Starlink users in Iran as internet blackout continues",
+          "neutralSummary": "PRESS REVIEW – Wednesday, January 14, 2026: In Iran, an internet blackout continues as Iranians try to reach the outside world. It's a similar story in Uganda, where the internet has been cut off ahead of presidential elections there. Also, in the UK, the UK Independence Party has submitted its new",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Unsung US civil rights pioneer Claudette Colvin dies, aged 86",
-              "url": "https://www.aljazeera.com/news/2026/1/14/unsung-us-civil-rights-pioneer-claudette-colvin-dies-aged-86?traffic_source=rss"
+              "source": "CNN",
+              "initials": "CNN",
+              "domain": "news.google.com",
+              "headline": "Access to Elon Musk’s Starlink internet service is now free in Iran as regime continues brutal crackdown on protests",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92bDJCRVBiMjBacXh5TEdBNDl2OEpySDhheEZETUtnUGZuVG82OHRQOTlkUXZWMWNSbkt6ODdOXzgxRm5ybHR2SDFsaDBMMEFhYmU4Y1lvVHhHZFNRWlVXNl9jOXRneDdjdmRqS1ltWUNhLThUb19OOA?oc=5"
             },
             {
               "political": "center",
@@ -287,8 +314,8 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "US civil rights pioneer Claudette Colvin dies at 86",
-              "url": "https://www.france24.com/en/americas/20260113-claudette-colvin-us-civil-rights-pioneer-dead"
+              "headline": "Drones 'hunt' for Starlink users in Iran as internet blackout continues",
+              "url": "https://www.france24.com/en/tv-shows/press-review/20260114-drones-hunt-for-starlink-users-in-iran-as-internet-blackout-continues"
             }
           ]
         }
@@ -299,8 +326,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Trump slams Powell amid federal probe: ‘Either corrupt or incompetent’",
-          "neutralSummary": "President Trump criticized Federal Reserve Chair Jerome Powell amid a Department of Justice (DOJ) probe into the central bank’s ongoing renovations. “He’s either corrupt or incompetent,” Trump told CBS News’s Tony Dokoupil, referring to the price tag and time frame of the project, during an intervie",
+          "neutralHeadline": "Trump’s Venezuela Policy Isn’t The Checkmate On China He Says It Is",
+          "neutralSummary": "Amid the administration’s claims to be solidifying America’s influence in its neighborhood, Washington’s shock moves may actually cede ground to Beijing.",
           "versions": [
             {
               "political": "left",
@@ -308,67 +335,33 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "GOP Lawmakers Blast Trump's Probe Of Federal Reserve Chair Jerome Powell",
-              "url": "https://www.huffpost.com/entry/jerome-powell-donald-trump-probe_n_69651c79e4b030a990814991"
+              "headline": "Trump’s Venezuela Policy Isn’t The Checkmate On China He Says It Is",
+              "url": "https://www.huffpost.com/entry/trump-venezuela-china_n_6966f238e4b09c0a939c363d"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "The Supreme Court made Trump’s attack on Jerome Powell possible",
-              "url": "https://www.vox.com/politics/474910/supreme-court-trump-immunity-jerome-powell"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "A Top Fed Official Says the Trump Administration’s Threats Are ‘About Monetary Policy’",
+              "url": "https://www.nytimes.com/2026/01/14/us/politics/kashkari-fed-interest-rates.html"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump slams Powell amid federal probe: ‘Either corrupt or incompetent’",
-              "url": "https://thehill.com/homenews/administration/5687769-trump-slams-powell-amid-federal-probe-either-corrupt-or-incompetent/"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "Trump administration says Venezuela has released jailed US citizens",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5odGtyOFNNajRyRGxaYzkwcUxvalhPdnZWUXd5c3FYeFlwWEs2UTVaZ3o5aEJoQ2FSNkhVR09HTHRxR3Yyd3NsZ2gwa292bEJPSEY5Q005ekNBQdIBX0FVX3lxTFB5LVJ4c2RqVGhjVXhjYVA0cGNIS0ttQXhYakhEa3J4Y1FRWF9QQUUwakFfaGExYnZBd3QwejVrR0JsaXpUS2xMYU1jdlE4MW1EM3pfaU5iQTM3TVNhZmRj?oc=5"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "‘Violence And Intimidation’: Illinois Sues Trump Over Immigration Enforcement",
-          "neutralSummary": "The people of Illinois are being intimidated and terrorized by the Trump administration’s “coordinated campaign of violence” in the state, Gov. JB Pritzker says.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "‘Violence And Intimidation’: Illinois Sues Trump Over Immigration Enforcement",
-              "url": "https://www.huffpost.com/entry/violence-and-intimidation-illinois-sues-trump-over-immigration-enforcement_n_69655dcce4b0365ff4dfc706"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Minnesota sues DHS, ICE over immigration enforcement",
-              "url": "https://www.washingtonpost.com/nation/2026/01/12/minnesota-immigration-lawsuit-ice-dhs/"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Minnesota sues over Trump's ICE enforcement. And, SCOTUS hears trans athlete cases",
-              "url": "https://www.npr.org/2026/01/13/g-s1-105846/up-first-newsletter-trump-iran-minneapolis-ice-shooting-scotus-trans-sports"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Claudette Colvin, Who Refused to Give Her Bus Seat to a White Woman, Dies at 86",
-          "neutralSummary": "Her defiance of Jim Crow laws in 1955 made her a star witness in a landmark segregation suit, but her act was overshadowed months later when Rosa Parks made history with a similar stand.",
+          "neutralHeadline": "Slotkin says she’s under federal investigation over illegal orders video",
+          "neutralSummary": "Sen. Elissa Slotkin (D-Mich.) said Tuesday that she’s under federal investigation for participating in a video last year, where she and other Democrats with military and intelligence backgrounds urged troops to defy illegal orders. “Facts matter little, but the threat matters quite a bit,” she told",
           "versions": [
             {
               "political": "left",
@@ -376,17 +369,42 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Claudette Colvin, Who Refused to Give Her Bus Seat to a White Woman, Dies at 86",
-              "url": "https://www.nytimes.com/2026/01/13/us/politics/claudette-colvin-dead.html"
+              "headline": "Senator Says Prosecutors Are Investigating Her After Video About Illegal Orders",
+              "url": "https://www.nytimes.com/2026/01/13/us/politics/slotkin-pirro-trump-justice-dept-video.html"
             },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Slotkin says she’s under federal investigation over illegal orders video",
+              "url": "https://thehill.com/homenews/senate/5688182-slotkin-federal-investigation-illegal-orders-video/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Dem senator says she's under federal investigation over 'unlawful orders' video",
+              "url": "https://www.foxnews.com/politics/dem-senator-says-shes-under-federal-investigation-over-unlawful-orders-video"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "The scariest thing about Iran&#8217;s crackdown",
+          "neutralSummary": "In Iran, a series of massacres may be taking place out of sight. More than 12,000 people are thought dead as anti-regime protests enter their third week, according to news reports from the country on Tuesday.&#160; The protests, which began in late December, initially centered on economic issues but",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Claudette Colvin, unsung civil rights pioneer, dies at 86",
-              "url": "https://www.washingtonpost.com/obituaries/2026/01/13/claudette-colvin-dead-civil-rights/"
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "The scariest thing about Iran&#8217;s crackdown",
+              "url": "https://www.vox.com/politics/475084/iran-protests-death-toll-internet-blackout-trump"
             },
             {
               "political": "left",
@@ -394,63 +412,38 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Claudette Colvin, who refused to move seats on a bus at start of civil rights movement, dies",
-              "url": "https://www.npr.org/2026/01/13/g-s1-105927/claudette-colvin-obituary-montgomery-bus-civil-rights"
+              "headline": "The death toll from a crackdown on protests in Iran jumps to over 2,500, activists say",
+              "url": "https://www.npr.org/2026/01/14/g-s1-105949/death-toll-crackdown-protests-iran"
             }
           ]
         },
         {
           "id": "us-4",
-          "neutralHeadline": "CNN's Harry Enten: Trump Is Totally 'Losing The Political Fight' Against Powell",
-          "neutralSummary": "The network's data chief said Americans \"vigorously disagree\" with Trump as he ramps up his feud with the Fed chair.",
+          "neutralHeadline": "Trump tariff decision shadows Supreme Court, with unease palpable",
+          "neutralSummary": "Antsy&#160;lobbyists and lawyers, a buzzy press corps and the onslaught of news stories about&#160;the fate of&#160;President&#160;Trump&#8216;s tariffs could lead one to believe&#160;it&#8217;s&#160;the Supreme Court&#8217;s&#160;opinion season climax&#160;—&#160;but&#160;it&#8217;s&#160;only the b",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "CNN's Harry Enten: Trump Is Totally 'Losing The Political Fight' Against Powell",
-              "url": "https://www.huffpost.com/entry/cnn-harry-enten-trump-jerome-powell-federal-reserve-doj_n_6965875be4b0365ff4dfd507"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "Vox",
               "initials": "VOX",
               "domain": "vox.com",
-              "headline": "The enormous stakes of Donald Trump’s fight with Jerome Powell",
-              "url": "https://www.vox.com/policy/474960/donald-trump-jerome-powell-fed-economic-stakes"
+              "headline": "The Supreme Court is about to confront its most embarrassing decision",
+              "url": "https://www.vox.com/politics/474923/supreme-court-second-amendment-guns-wolford-lopez"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump tariff decision shadows Supreme Court, with unease palpable",
+              "url": "https://thehill.com/newsletters/the-gavel/5687399-trump-tariffs-supreme-court/"
             }
           ]
         },
         {
           "id": "us-5",
-          "neutralHeadline": "Sen. Mark Kelly Sues Pete Hegseth Over Censure",
-          "neutralSummary": "Defense Secretary Pete Hegseth wants to reduce the senator's pay and rank in an act of retaliation, a new lawsuit alleges.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Sen. Mark Kelly Sues Pete Hegseth Over Censure",
-              "url": "https://www.huffpost.com/entry/mark-kelly-sues-pete-hegseth-over-censure_n_69654521e4b0f5f77ec84a3f"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Pete Hegseth Hits Back At ‘Captain’ Mark Kelly: He ‘Knows Exactly What He Did’",
-              "url": "https://www.dailywire.com/news/pete-hegseth-hits-back-at-captain-mark-kelly-he-knows-exactly-what-he-did"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
           "neutralHeadline": "Trump Raises Middle Finger at Heckler in Michigan Ford Factory Tour",
           "neutralSummary": "A White House spokesman said the president “gave an appropriate and unambiguous response.”",
           "versions": [
@@ -462,20 +455,11 @@
               "domain": "nytimes.com",
               "headline": "Trump Raises Middle Finger at Heckler in Michigan Ford Factory Tour",
               "url": "https://www.nytimes.com/2026/01/13/us/politics/trump-heckler-middle-finger.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump flips off Ford factory worker who yelled ‘pedophile protector’",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4417766/trump-flips-off-ford-factory-worker/"
             }
           ]
         },
         {
-          "id": "us-7",
+          "id": "us-6",
           "neutralHeadline": "Analysis: Trump Supports Protesters in Iran, but Not in Minneapolis",
           "neutralSummary": "The split-screen television images of mass demonstrations in Minneapolis and Tehran have highlighted the president’s disparate views of democracy and popular dissent.",
           "versions": [
@@ -494,38 +478,13 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Trump pledges ‘very strong action’ if Iran begins hanging protesters",
-              "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4417857/trump-very-strong-action-iran-hanging-protesters/"
+              "headline": "With Iran poised to begin mass executions of protesters, Trump under pressure to act",
+              "url": "https://www.washingtonexaminer.com/daily-on-defense/4418087/with-iran-poised-to-begin-mass-executions-of-protesters-trump-under-pressure-to-act/"
             }
           ]
         },
         {
-          "id": "us-8",
-          "neutralHeadline": "Rubio argues US cannot return Venezuelans despite court order",
-          "neutralSummary": "Secretary of State Marco Rubio told a federal judge he is unable to locate the more than 100 Venezuelans the Trump administration sent to be imprisoned in El Salvador, arguing against further hearings with the men as it would jeopardize &#8220;extraordinarily delicate” discussions with Venezuela&#82",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Rubio says court hearings no longer possible for deported Venezuelans",
-              "url": "https://www.washingtonpost.com/dc-md-va/2026/01/13/rubio-venezuela-immigration-boasberg/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Rubio argues US cannot return Venezuelans despite court order",
-              "url": "https://thehill.com/policy/international/5687715-rubio-venezuela-prisoners-return/"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
+          "id": "us-7",
           "neutralHeadline": "South Carolina says the Revolutionary War was won there. But was it?",
           "neutralSummary": "Four historians told The Washington Post that while the British were defeated in Yorktown, Virginia — not in South Carolina — the full story is more complicated.",
           "versions": [
@@ -548,6 +507,56 @@
               "url": "https://www.foxnews.com/politics/south-carolina-gop-lawmakers-introduce-bill-criminalize-abortion-murder"
             }
           ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Trump: Anything less than Greenland ‘in the hands of’ US ‘unacceptable’",
+          "neutralSummary": "President Trump said early Wednesday that anything less than U.S. control of Greenland would be “unacceptable” “The United States needs Greenland for the purpose of National Security. It is vital for the Golden Dome that we are building. NATO should be leading the way for us to get it. IF WE DON’T,",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump: Anything less than Greenland ‘in the hands of’ US ‘unacceptable’",
+              "url": "https://thehill.com/homenews/administration/5688188-donald-trump-greenland-ownership/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Trump insists ‘US needs Greenland’ and ‘anything less is unacceptable’ ahead of high-stakes talks",
+              "url": "https://nypost.com/2026/01/14/us-news/trump-insists-us-needs-greenland-and-anything-less-is-unacceptable-ahead-of-high-stakes-talks/"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Trump ending federal funding to sanctuary cities, states",
+          "neutralSummary": "President Trump announced early Wednesday that his administration will strip federal funding from sanctuary cities and states, in line with policies he promoted on the campaign trail. “EFFECTIVE FEBRUARY FIRST, NO MORE PAYMENTS WILL BE MADE BY THE FEDERAL GOVERNMENT TO STATES FOR THEIR CORRUPT CRIMI",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump ending federal funding to sanctuary cities, states",
+              "url": "https://thehill.com/homenews/administration/5688157-donald-trump-sanctuary-city-funding/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "President Trump Vows To Cut Sanctuary City Funding Starting February 1",
+              "url": "https://www.dailywire.com/news/president-trump-vows-to-cut-sanctuary-city-funding-starting-february-1"
+            }
+          ]
         }
       ]
     },
@@ -556,8 +565,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "South Korean prosecutors demand death penalty for ex-leader Yoon",
-          "neutralSummary": "It is highly unlikely that a death sentence handed down to Yoon Suk Yeol will be carried out, however, as South Korea has had an unofficial moratorium on executions since 1997.",
+          "neutralHeadline": "CNA Explains: The impeachment bid against Taiwan’s Lai – and why it’s unlikely to succeed",
+          "neutralSummary": "The proceedings stem from a political standoff over amendments to a local government spending law passed by Taiwan’s opposition-controlled legislature last November.&nbsp;",
           "versions": [
             {
               "political": "center",
@@ -565,17 +574,24 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "South Korean prosecutors demand death penalty for ex-leader Yoon",
-              "url": "https://www.channelnewsasia.com/east-asia/south-korean-prosecutors-demand-death-penalty-ex-leader-yoon-5855971"
-            },
+              "headline": "CNA Explains: The impeachment bid against Taiwan’s Lai – and why it’s unlikely to succeed",
+              "url": "https://www.channelnewsasia.com/east-asia/taiwan-president-william-lai-impeachment-bid-dpp-kmt-unlikely-succeed-5858436"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "Japan and South Korea leaders got jamming to K-pop beats, social media buzzes with jokes and praises",
+          "neutralSummary": "Drawing a parallel with bilateral ties, South Korean President Lee Jae Myung said on X that South Korea and Japan had learned to respect each other's differences and adjust to one another's rhythm, deepening cooperation over time.",
+          "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Koreaboo",
-              "initials": "K",
-              "domain": "news.google.com",
-              "headline": "Death Penalty Requested For Former South Korean President Yoon Suk Yeol",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXJtV05LRHdRZTB0T0RZcTlPRjdQRDV3TFZ0SUl2WXRpS3czMlQ4LTJMSDZlOWI2QmMtYzNqbHk4UGktM3g0aWljVnVDeDhvX3l6blZQSGc1b0IwcGd3ZDVpQ1hEMVBCRmhpMkY2dy1Xdi1VT2lzQmJ6alVMTEM5NWpzb2czUDhhQkhEem01WQ?oc=5"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Japan and South Korea leaders got jamming to K-pop beats, social media buzzes with jokes and praises",
+              "url": "https://www.channelnewsasia.com/asia/sanae-takaichi-lee-jae-myung-drumming-japan-south-korea-5857431"
             },
             {
               "political": "left",
@@ -583,70 +599,70 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Prosecutors seek death penalty for ex-South Korean president Yoon",
-              "url": "https://www.bbc.com/news/articles/cq6vyqq5r0do?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-2",
-          "neutralHeadline": "Ex-actor Edmund Chen charged with grievously injuring motorcyclist in traffic accident",
-          "neutralSummary": "He is expected to plead guilty on Jan 29.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Ex-actor Edmund Chen charged with grievously injuring motorcyclist in traffic accident",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/ex-actor-edmund-chen-charged-with-grievously-injuring-motorcyclist-in-traffic-accident"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Former actor Edmund Chen charged over careless driving, grievously hurting motorcyclist",
-              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGtBOUdvWHZYNUlZd1JRMFJNanlsV0xjUS1oVDh5ZktWRHQ1RUdDZ0pjZmZWMHBqTS1wOTlDbldDa2dQMkp4WnVKU3pCSHJLeGhYZE9nNk53TnRvSGRkcXJqelY3VjRaM2piUmVGVFNhZXFYN0UtSFJqcW1WUUxIR25ucjUwb3hQdk9YUWduX1U4ek54bi1WTVV2YmNsYTVsNmd1VFRTYVF2VW5yeTRDZ0Mxdks5T0lJcnlaR1pMNnYzQWludnREdjFMM0wzWFp5V3c?oc=5"
+              "headline": "K-pop drum duet between Japan and South Korea's leaders caps off summit talks",
+              "url": "https://www.bbc.com/news/articles/c0lx49z8ly6o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Over 4 months’ jail for man who forced friend to drink urine over missing money",
-          "neutralSummary": "The DPP described Cheong Wee Kiat's act of making the victim drink urine as “unnatural and deeply humiliating”.",
+          "neutralHeadline": "Thailand crane collapses onto train, killing 32",
+          "neutralSummary": "The crane, which was working on a high-speed rail project, had collapsed and hit the passenger train, causing it to derail and briefly catch fire.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Over 4 months’ jail for man who forced friend to drink urine over missing money",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/over-4-months-jail-for-man-who-forced-friend-to-drink-urine-over-owed-money"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Thailand crane collapses onto train, killing 32",
+              "url": "https://www.channelnewsasia.com/asia/crane-falls-train-thailand-northeast-22-dead-5857516"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "At least 32 killed after crane collapses on train in Thailand",
+              "url": "https://www.bbc.com/news/articles/ceqz7v1507ro?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Traveller caught at Woodlands Checkpoint trying to smuggle in drugs by disguising them as pet food",
-          "neutralSummary": "A total of 1,462g of heroin and 1,442g of Ice were found.",
+          "neutralHeadline": "Asian markets mixed, Tokyo up on election speculation",
+          "neutralSummary": "Asian markets mixed, Tokyo up on election speculation",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Traveller caught at Woodlands Checkpoint trying to smuggle in drugs by disguising them as pet food",
-              "url": "https://www.straitstimes.com/singapore/traveller-caught-at-woodlands-checkpoint-trying-to-smuggle-in-drugs-by-disguising-them-as-pet-food"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Asian markets mixed, Tokyo up on election speculation",
+              "url": "https://www.channelnewsasia.com/business/asian-markets-mixed-tokyo-up-election-speculation-5857506"
             }
           ]
         },
         {
           "id": "singapore-5",
+          "neutralHeadline": "Man who filled Singapore car with subsidised RON95 petrol in Johor fined US$2,200 for obscuring number plate",
+          "neutralSummary": "Long Sa Kow, who is a 63-year-old Singapore permanent resident, pleaded guilty to obscuring the registration number plate of this car.&nbsp;\n&nbsp;",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Man who filled Singapore car with subsidised RON95 petrol in Johor fined US$2,200 for obscuring number plate",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-johor-ron95-fuel-singaporean-pr-petrol-station-court-5857371"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
           "neutralHeadline": "Malaysia eyes bigger role in rare earths, but industry players warn ambitions may outpace reality",
           "neutralSummary": "More than 16 million tonnes of rare earth deposits are believed to lie beneath forest reserves and mountain ranges across Peninsular Malaysia.&nbsp;",
           "versions": [
@@ -662,64 +678,7 @@
           ]
         },
         {
-          "id": "singapore-6",
-          "neutralHeadline": "Four things to watch as Malaysia’s UMNO kicks off annual gathering",
-          "neutralSummary": "Set to draw over 6,000 delegates, the meeting comes at a critical juncture for the party, which turns 80 this year.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Four things to watch as Malaysia’s UMNO kicks off annual gathering",
-              "url": "https://www.channelnewsasia.com/asia/umno-general-assembly-four-things-watch-5855576"
-            }
-          ]
-        },
-        {
           "id": "singapore-7",
-          "neutralHeadline": "IN FOCUS: In this China-Russia border town, travellers are back but why aren’t locals thrilled yet?",
-          "neutralSummary": "Day trippers and tourists might be returning, but merchants in China’s northeastern Suifenhe town tell CNA the long-awaited spending boom has yet to materialise.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "IN FOCUS: In this China-Russia border town, travellers are back but why aren’t locals thrilled yet?",
-              "url": "https://www.channelnewsasia.com/east-asia/china-russia-border-town-suifenhe-economy-geopolitics-5848611"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "Indonesia central bank to continue intervening to defend depreciating rupiah",
-          "neutralSummary": "Indonesia central bank to continue intervening to defend depreciating rupiah",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Indonesia central bank to continue intervening to defend depreciating rupiah",
-              "url": "https://www.channelnewsasia.com/business/indonesia-central-bank-continue-intervening-defend-depreciating-rupiah-5857336"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Indonesia Central Bank in Market as Rupiah Nears Record Low",
-              "url": "https://www.bloomberg.com/news/articles/2026-01-14/usd-idr-indonesia-central-bank-in-market-as-rupiah-approaches-record-low"
-            }
-          ]
-        },
-        {
-          "id": "singapore-9",
           "neutralHeadline": "US approves Nvidia H200 chip exports to China with some conditions",
           "neutralSummary": "US approves Nvidia H200 chip exports to China with some conditions",
           "versions": [
@@ -742,6 +701,56 @@
               "url": "https://www.bbc.com/news/articles/cg4erx1n04lo?at_medium=RSS&at_campaign=rss"
             }
           ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "Death Penalty Requested For Former South Korean President Yoon Suk Yeol",
+          "neutralSummary": "Death Penalty Requested For Former South Korean President Yoon Suk Yeol&nbsp;&nbsp;KoreabooYoon Suk Yeol: S Korea prosecutors seek death penalty over failed insurrection attempt&nbsp;&nbsp;BBCProsecutors Seek Death Penalty for Korea’s Yoon Over Martial Law&nbsp;&nbsp;Bloomberg.comSouth Korea’s Yoon",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Koreaboo",
+              "initials": "K",
+              "domain": "news.google.com",
+              "headline": "Death Penalty Requested For Former South Korean President Yoon Suk Yeol",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXJtV05LRHdRZTB0T0RZcTlPRjdQRDV3TFZ0SUl2WXRpS3czMlQ4LTJMSDZlOWI2QmMtYzNqbHk4UGktM3g0aWljVnVDeDhvX3l6blZQSGc1b0IwcGd3ZDVpQ1hEMVBCRmhpMkY2dy1Xdi1VT2lzQmJ6alVMTEM5NWpzb2czUDhhQkhEem01WQ?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Prosecutors seek death penalty for ex-South Korean president Yoon",
+              "url": "https://www.bbc.com/news/articles/cq6vyqq5r0do?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
+          "neutralHeadline": "Canada’s Carney Lands in Beijing as China Urges Removing Tariffs",
+          "neutralSummary": "Prime Minister Mark Carney landed in Beijing on Wednesday for the first state visit from a Canadian leader in eight years, as Chinese state media called on Ottawa to lift tariffs on the nation’s exports.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Canada’s Carney Lands in Beijing as China Urges Removing Tariffs",
+              "url": "https://www.bloomberg.com/news/articles/2026-01-14/canada-s-carney-lands-in-beijing-as-china-urges-removing-tariffs"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Canada's Mark Carney faces delicate balancing act in China visit",
+              "url": "https://www.bbc.com/news/articles/c98pj370mjjo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
         }
       ]
     },
@@ -750,67 +759,78 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "'Strong action': Trump warns Iran against 'hanging' protestors",
-          "neutralSummary": "US President Donald Trump issued a stern warning to Iran, vowing strong action if authorities proceed with executions amid widespread protests.  Trump stated that the US would respond forcefully if hangings commence, emphasizing that killing thousands of people would have severe consequences for Ira",
+          "neutralHeadline": "Zubeen Garg death: Singer was drunk, declined life jacket; 'no foul play', say Singapore cops",
+          "neutralSummary": "Zubeen Garg death: Singer was drunk, declined life jacket; 'no foul play', say Singapore cops",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "US will take ‘very strong action’ if Iran hangs protesters: Trump’s warning to Tehran",
-              "url": "https://indianexpress.com/article/world/trump-iran-us-strong-action-hang-protesters-10472378/"
+              "tone": "pessimistic",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Zubeen Garg's death: Singer was drunk, had declined life jacket, Coroner’s court told in Singapore",
+              "url": "https://www.thehindu.com/news/national/zubeen-gargs-death-singer-was-drunk-had-declined-life-jacket-coroners-court-told-in-singapore/article70509730.ece"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Strong action': Trump warns Iran against 'hanging' protestors",
-              "url": "https://timesofindia.indiatimes.com/world/us/well-see-how-thats-going-to-work-out-trump-warns-iran-against-hanging-protestors-threatens-very-strong-action/articleshow/126515579.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "After Sabarimala gold theft; Kerala HC orders vigilance probe; Rs 35L ‘ghee scam’ under lens",
-          "neutralSummary": "The Kerala High Court has ordered a vigilance probe into alleged misappropriation of over Rs 35 lakh from the sale of leftover ghee at Sabarimala. The court directed the vigilance director to form a team and register a crime based on a report highlighting discrepancies in fund remittance from ghee p",
-          "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Already besieged by ‘gold theft’ case, Sabarimala management faces another scandal – over ghee sales",
-              "url": "https://indianexpress.com/article/india/already-besieged-by-gold-theft-case-sabarimala-management-faces-another-scandal-over-ghee-sales-10472090/"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Singapore Cops Say Zubeen Garg Not Murdered, Declined Life Jacket: Report",
+              "url": "https://www.ndtv.com/india-news/singapore-cops-say-zubeen-garg-not-murdered-declined-life-jacket-report-10749498#publisher=newsstand"
             },
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "After Sabarimala gold theft; Kerala HC orders vigilance probe; Rs 35L ‘ghee scam’ under lens",
-              "url": "https://timesofindia.indiatimes.com/city/kochi/hc-orders-vigilance-probe-into-sabarimala-ghee-sale-fund-misappropriation/articleshow/126509916.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Too many global shocks: What's India's plan?",
-          "neutralSummary": "Too many global shocks: What's India's plan?",
-          "versions": [
+              "headline": "Zubeen Garg death: Singer was drunk, declined life jacket; 'no foul play', say Singapore cops",
+              "url": "https://timesofindia.indiatimes.com/india/zubeen-garg-death-singer-was-drunk-declined-life-jacket-what-singapore-cops-uncovered/articleshow/126526769.cms"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "'Zubeen Garg was drunk, declined life jacket': Singapore police to court on singer's death",
+              "url": "https://www.hindustantimes.com/india-news/zubeen-garg-was-drunk-declined-life-jacket-singapore-police-to-court-on-singers-death-101768392028855.html"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Economic Times",
               "initials": "ET",
-              "domain": "forms.gle",
-              "headline": "Too many global shocks: What's India's plan?",
-              "url": "https://forms.gle/HK2Vh9aga1Cu8NvC7"
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Zubeen Garg was drunk, declined life jacket: Court",
+              "url": "https://economictimes.indiatimes.com/news/india/singer-zubeen-garg-was-drunk-had-declined-life-jacket-coroners-court-told-in-singapore/articleshow/126527276.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "'Leave Iran': India's stark advisory amid threat of US attack; protests spread",
+          "neutralSummary": "India has issued an advisory urging its citizens in Iran to depart immediately due to escalating regional tensions and internal protests. The advisory, released by the Indian embassy in Tehran, advises students, pilgrims, business persons, and tourists to leave by available transport, including comm",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Leave Iran': India's stark advisory amid threat of US attack; protests spread",
+              "url": "https://timesofindia.indiatimes.com/india/leave-iran-indias-stark-advisory-amid-threat-of-us-attack-protests-spread/articleshow/126524206.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Leave Iran, says India in new advisory to 10,000 citizens living in the country",
+              "url": "https://www.hindustantimes.com/india-news/leave-iran-says-india-in-new-advisory-to-10-000-citizens-living-in-the-country-101768394204500.html"
             },
             {
               "political": "right",
@@ -818,15 +838,140 @@
               "source": "Swarajya",
               "initials": "SWR",
               "domain": "swarajyamag.com",
-              "headline": "India's Inevitability In The New Global Order",
-              "url": "https://swarajyamag.com/world/indias-inevitability-in-the-new-global-order"
+              "headline": "Indian Embassy In Tehran Issues Fresh Advisory Urging Nationals To Leave Iran Amid Escalating Protests",
+              "url": "https://swarajyamag.com/news-brief/indian-embassy-in-tehran-issues-fresh-advisory-urging-nationals-to-leave-iran-amid-escalating-protests"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "'40 yrs of warning': Indian envoy flays Canada over inaction on terrorism - watch",
+          "neutralSummary": "'40 yrs of warning': Indian envoy flays Canada over inaction on terrorism - watch",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Indian envoy dismisses Canada's allegations in 2023 on killing of Sikh separatist leader",
+              "url": "https://www.thehindu.com/news/national/indian-envoy-dismisses-canadas-allegations-in-2023-on-killing-of-sikh-separatist-leader/article70509811.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'40 yrs of warning': Indian envoy flays Canada over inaction on terrorism - watch",
+              "url": "https://timesofindia.indiatimes.com/india/40-years-of-warnings-indian-envoy-to-canada-calls-out-decades-of-inaction-on-terrorism-watch/articleshow/126528057.cms"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "India slips to 3rd as refiners cut Russian crude buys",
-          "neutralSummary": "India slips to 3rd as refiners cut Russian crude buys",
+          "neutralHeadline": "As Protests Rage, Centre \"Strongly Advises\" Indians Against Going To Iran",
+          "neutralSummary": "The protests have since spread to all 31 provinces.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "As Protests Rage, Centre \"Strongly Advises\" Indians Against Going To Iran",
+              "url": "https://www.ndtv.com/india-news/avoid-iran-travel-until-further-notice-foreign-ministry-advises-indians-10749483#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Iran protests LIVE: Centre advises Indian nationals against travel to Iran",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRXJ6ZDZ1VEhrQUQ1R05DNHNPdkhCMkNhSEs3MGZvbkJZWXdWZVFzdi0zazdKVVE2QnpfazlvRUpnOXh6TkVFTENTZkM3LU0zTkRUNXRnRkFLRWNwTHVfNmFYUzJDR1pSVlZtVTlIWTFQclBzSVlpNkZ2VnkwX25nMXR2RXNmd3kzZHhkcC1mNmxob3gxbVV5RXdLX2I1MVZTYnJRU1dOS2tLSTZVTkNCYkxNTmxxY25IQ0NWWWh4WjdqXzlp?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Trump pushes for US control of Greenland",
+          "neutralSummary": "Trump pushes for US control of Greenland",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "'Anything Less Than US Control Of Greenland Is Unacceptable': Trump",
+              "url": "https://www.ndtv.com/world-news/anything-less-than-us-control-of-greenland-is-unacceptable-trump-10749463#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Trump pushes for US control of Greenland",
+              "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-says-anything-less-than-having-greenland-in-the-united-states-hands-is-unacceptable/articleshow/126527418.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Mamata vs ED: Agency says 'nothing seized'; HC disposes off TMC's plea — what happened in court",
+          "neutralSummary": "Mamata vs ED: Agency says 'nothing seized'; HC disposes off TMC's plea — what happened in court",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Mamata vs ED: Agency says 'nothing seized'; HC disposes off TMC's plea — what happened in court",
+              "url": "https://timesofindia.indiatimes.com/india/mamata-vs-ed-hc-disposes-off-tmcs-plea-as-agency-says-nothing-seized-what-happened-during-hearing/articleshow/126526349.cms"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "Calcutta High Court Disposes Of TMC’s Plea In I-PAC ED Raids Case After Agency Confirms Nothing Was Seized",
+              "url": "https://swarajyamag.com/news-brief/calcutta-high-court-disposed-of-tmcs-plea-in-i-pac-ed-raids-case-after-agency-confirmed-nothing-was-seized"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "SC grants bail to accused in Mahant Narendra Giri death case",
+          "neutralSummary": "SC grants bail to accused in Mahant Narendra Giri death case",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "SC grants bail to accused in Mahant Narendra Giri death case",
+              "url": "https://www.hindustantimes.com/india-news/sc-grants-bail-to-accused-in-mahant-narendra-giri-death-case-101768381609897.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Live Law",
+              "initials": "LL",
+              "domain": "news.google.com",
+              "headline": "'Trial Likely To Take Time To Conclude' : Supreme Court Grants Bail To Accused In Mahant Narendra Giri...",
+              "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOd0tQbUJKZDV1NmU4Nnc0SWJvUFJzTllhc05JbXNKWU52SU9weXN0LUZUMS1sR1ZUU3BFbnZNdFJQT3ptSFhpX0FraE5UcFVrQ3Atc01zYk9HNngxZk5NSzVNX3dNdlNSbmRkVkx0elkycXFQMlFsVWU0TkxRY3lJeW80TWZ1cTc1MERTbmFmckdjZ2pLYVJaQ0M1VE44eE53dFIweUVFLVZ1SDBKV0stRDE5em5hWkZrNVo0ZnBxZ3llSEI5a0Y0QnBBNFByY3JCVTlBRXcyZVF4SUtFLXpEUXlRTnBRc2fSAewBQVVfeXFMTy1MQTV2V1VjZVpNZU9CSU9fRGRLbUIwNFNvY3hsZnZGMV9VR09OOGFQdWpfUnp1Y0NUNXJlTEc1RG5QbXdnaUJ1SEE2c1RvbVY2UUstcnk1UnNjMmRyUkhQUkRpUWxFX01pRy1xcEkxMFB5QWdCYkhnWHVEeUs2LWZiVXNKdjluS2xxTTFleWF6LU00dDJQdkRKTS1KcGJWVERLeWZZdnFtYi10bFdtSmVlRFgyUUZXV01kOVVwWlFmeHdzQ0p0dE4zTFV5aC1BWkRCdTFDQV92a3FWUnloOHlSbmlvOWtnU2lKYW0?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Iran warns neighbours of strikes on US bases",
+          "neutralSummary": "Iran warns neighbours of strikes on US bases",
           "versions": [
             {
               "political": "center",
@@ -834,115 +979,42 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "India slips to 3rd as refiners cut Russian crude buys",
-              "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-slips-to-third-as-major-refiners-tap-the-brakes-on-russian-crude/articleshow/126502143.cms"
+              "headline": "Iran warns neighbours of strikes on US bases",
+              "url": "https://economictimes.indiatimes.com/news/defence/iran-warns-neighbours-it-could-strike-us-bases-if-washington-intervenes-in-protests/articleshow/126526299.cms"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "India's import of Russian crude drops 29% month-on-month",
-              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWXEweTNIN2RiM2RSYmp0LWw4T243SzRyRm9qRGFwY19GNVVkcGYzR2Y1YXNjX2ZCaUI3aVJwMWk2S1JGeEs0eG5xNWMxUHV3enhoZ01yaXBmS2plVkg1ZEhWWHFodHoxS2NuSUUtWGwxNWJQWmQ3bHR1V194WmpCWUJxamNNYlFPZS1mMGlxQ3N0bU9mRWg5UFhCSTB6d3YxSlNnWlB5eWNBTzl2Q2M0ZTdZVnpzX1NqaGk4SE04U1k4YWRGLTNweTdGQWtHdEFOWW5jZ2hLcw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "What led to Pakistan's surrender during Op Sindoor? Army chief Upendra Dwivedi speaks of '2 turning points' | India News",
-          "neutralSummary": "What led to Pakistan's surrender during Op Sindoor? Army chief Upendra Dwivedi speaks of '2 turning points' | India News&nbsp;&nbsp;Hindustan TimesPakistan sent Sindoor SOS after seeing Indian forces’ movement; 8 terror camps still active along Pakistan-side of border: Army chief&nbsp;&nbsp;Times of",
-          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "news.google.com",
-              "headline": "What led to Pakistan's surrender during Op Sindoor? Army chief Upendra Dwivedi speaks of '2 turning points' | India News",
-              "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbllic0cwYUlLWlhoeGNTV29zS0dKQUFXa1BvR1FpR1p0ZHJZOHJjbUJEMENlbTZ5LVFUdlA2T01Fbk9OUWgyV1oxNl8xTGFhVUswMnNsQTVsRWFySjJxT1VQWGlOYXJpdjJqWlNvQ1VGUksxRm5LYjBhUGo0NFlWZFd4ZGhGSVlPT3RZZW15NFlMaGVMbEw5bkp6SGZOWDR0aVJUMDY4Mmw3Vk1hMm16TGRQTm1sX0k2Qk12UnhvS0FBR0NhbjdzVnNGSUlFdXdnVlVwTkdDR3B3T2VhT0JUS0NaRldUbG5ERklnZUwwUS1UZzlSclhXdFNn?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Swarajya",
-              "initials": "SWR",
-              "domain": "swarajyamag.com",
-              "headline": "Army Chief Reveals India Was Fully Prepared For Ground Offensive During Operation Sindoor Against Pakistan",
-              "url": "https://swarajyamag.com/news-brief/army-chief-reveals-india-was-fully-prepared-for-ground-offensive-during-operation-sindoor-against-pakistan"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Australia Moves India Into Highest-Risk Category For Student Visas Citing 'Emerging Integrity Risks'",
-          "neutralSummary": "Australia has reclassified India into its highest-risk category for student visa applications.",
-          "versions": [
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Swarajya",
-              "initials": "SWR",
-              "domain": "swarajyamag.com",
-              "headline": "Australia Moves India Into Highest-Risk Category For Student Visas Citing 'Emerging Integrity Risks'",
-              "url": "https://swarajyamag.com/news-brief/australia-moves-india-into-highest-risk-category-for-student-visas-citing-emerging-integrity-risks"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "Australia places India in ‘highest risk’ category for student visa applications days after fake degree scam busted in Kerala. Here’s what happened",
-              "url": "https://www.opindia.com/2026/01/australia-places-india-in-highest-risk-category-for-student-visa-applications-days-after-fake-degree-scam-busted-in-kerala-heres-what-happened/"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "At dawn over Hyderabad, two hot air balloons drift to shape city’s tourism plans",
-          "neutralSummary": "At dawn over Hyderabad, two hot air balloons drift to shape city’s tourism plans",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "At dawn over Hyderabad, two hot air balloons drift to shape city’s tourism plans",
-              "url": "https://www.thehindu.com/news/cities/Hyderabad/at-dawn-over-hyderabad-two-hot-air-balloons-drift-to-shape-citys-tourism-plans/article70507947.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Are India’s small towns being increasingly urbanised? | Explained",
-          "neutralSummary": "Are small towns an alternative to the over-accumulation witnessed in the country’s metro cities?",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Are India’s small towns being increasingly urbanised? | Explained",
-              "url": "https://www.thehindu.com/news/national/are-indias-small-towns-being-increasingly-urbanised-explained/article70506747.ece"
+              "headline": "Iran protests LIVE: Over 2,500 dead; Iran warns UAE, Saudi Arabia, Turkey of strikes on US bases if attacked",
+              "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVW9PZ2E5Ykx5TnJ5cGVKdjZyTUpJN3VSSGJBN0Z5U1hrb2MxYkZJLWo0bXk1MXFlcnY5Vm5Mci1EOUZiWGlxRWd2VlRBLWV0SGJSVGZHZnJwRUpqRkpsbENZV2N0QkJFbTR6N2NZeFY1eERBUEZVc0FvZm1LTU9jbWpGc0FrZGJ5enZWN3BHbEwtZVFXeXRob0hZR3FLbGYtTkNlRXk3dlJ5WVNaWGEzaW1rU2dHZGxDcWZRR1FSNzZ6c1haeUJKR2FOUjZjbXJjbGtEWlBzQnVwVUxOcjgyNFRiM3dqVVpIZm8xNzRBbjBaUFFrTzBxQnh6T1dIV1N1Rl82REtFc25RQVJ0d0cw?oc=5"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Five new diarrhoea cases detected in Indore; no clarity over 'death audit' report",
-          "neutralSummary": "A total of 436 patients were admitted to hospitals since the vomiting and diarrhoea outbreak, triggered by supply of contaminated drinking water in the locality on December 29, of which 403 were discharged after recovery",
+          "neutralHeadline": "Zepto, Swiggy too drop '10-minute delivery' claims",
+          "neutralSummary": "Zepto, Swiggy too drop '10-minute delivery' claims",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Five new diarrhoea cases detected in Indore; no clarity over 'death audit' report",
-              "url": "https://www.thehindu.com/news/national/madhya-pradesh/five-new-diarrhoea-cases-detected-in-indore-no-clarity-over-death-audit-report/article70507926.ece"
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Zepto, Swiggy too drop '10-minute delivery' claims",
+              "url": "https://economictimes.indiatimes.com/industry/services/retail/zepto-swiggy-blinkit-drop-10-minute-delivery-claims-on-govts-order-quick-commerce/articleshow/126522030.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "India Pushes Back on 10-Minute Delivery",
+              "url": "https://www.bloomberg.com/news/videos/2026-01-14/india-pushes-back-on-10-minute-delivery-video"
             }
           ]
         }
