@@ -1,56 +1,13 @@
 {
-  "generatedAt": "2026-01-13T13:46:18.723611+00:00",
+  "generatedAt": "2026-01-14T03:29:36.316225+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Malaysia blocks Elon Musk’s Grok AI over fake, sexualised images",
-          "neutralSummary": "Country follows Indonesia in restricting access after global outcry over X’s AI toolMalaysia has become the second country to temporarily block access to Elon Musk’s Grok after a global outcry over the AI tool and its ability to produce fake, sexualised images.Malaysia said it would restrict access",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Malaysia blocks Elon Musk’s Grok AI over fake, sexualised images",
-              "url": "https://www.theguardian.com/technology/2026/jan/12/malaysia-blocks-elon-musk-grok-ai-fake-sexualised-images-indonesia-x-chatbot"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Elon Musk's X faces bans and investigations over nonconsensual bikini images",
-              "url": "https://www.npr.org/2026/01/12/nx-s1-5672579/grok-women-children-bikini-elon-musk"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "Elon Musk’s X probed by UK watchdog over Grok deepfakes",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYnRZaWlnUVpiWGNfcllRNTNJeXdYZWhweEdvYzdzbEhXSXhBRFg1VDljYnl2Z3UwQXZLSXFCX1BnRTBwakYzdFo5ZHdhMjlZZVNVeVVqWUljamFJd0FTd21mTlRHMW9WZFcwa05OWEh2aUpZZ2wtZldYdV8wLWVJVDBBRGN2ZHN4TFJfSzZydGxoYzFMa3JqSm5NSlY?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "UK targets Elon Musk’s X with fines and possible ban over Grok deepfake abuse",
-              "url": "https://www.foxnews.com/world/uk-targets-elon-musks-x-fines-possible-ban-over-grok-deepfake-abuse"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Trump Says Iran Wants To Negotiate As The Death Toll In Protests Rises To At Least 599",
-          "neutralSummary": "Trump says Iran wants to negotiate with the U.S. after his threat to strike the country over its crackdown on protesters.",
+          "neutralHeadline": "Iran protests death toll tops 2,000, activists say, in worst upheaval since 1979 revolution",
+          "neutralSummary": "US-based activists said the death toll in the Iranian government's crackdown on the largest protest movement since the 1979 revolution had passed 2,000. While an enduring internet blackout has made it impossible to know the full scale of the violence, some Iranians have been able to report what they",
           "versions": [
             {
               "political": "left",
@@ -58,17 +15,35 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Trump Says Iran Wants To Negotiate As The Death Toll In Protests Rises To At Least 599",
+              "headline": "Trump Says Iran Wants To Negotiate As The Death Toll In Protests Rises To At Least 646",
               "url": "https://www.huffpost.com/entry/iran-protests-trump-negotiate-death-toll_n_696562f6e4b0f5f77ec85fb9"
             },
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Rubbish landslide death toll in Philippines rises to 11",
-              "url": "https://www.bbc.com/news/articles/c9wxg4e09jzo?at_medium=RSS&at_campaign=rss"
+              "headline": "More than 2,000 people reported killed at Iran protests as Trump says 'help is on its way'",
+              "url": "https://www.bbc.com/news/articles/cr57vmznmd9o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Iran protests LIVE: Tehran says Trump encouraging political destabilisation",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/1/14/iran-protests-live-tehran-says-trump-encouraging-political-destabilisation?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Iran protests death toll tops 2,000, activists say, in worst upheaval since 1979 revolution",
+              "url": "https://www.france24.com/en/asia-pacific/20260113-iran-protests-death-toll-tops-2-000-activists-say-in-worst-upheaval-since-1979-revolution"
             },
             {
               "political": "right",
@@ -76,24 +51,85 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Iran’s ‘distinctive’ drone deployment sees death toll soar amid violent protests",
-              "url": "https://www.foxnews.com/world/irans-distinctive-drone-deployment-sees-death-toll-soar-amid-violent-protests"
+              "headline": "Iran state TV acknowledges 'a lot of martyrs' as death toll surpasses 3,000: report",
+              "url": "https://www.foxnews.com/world/iran-state-tv-acknowledges-a-lot-martyrs-death-toll-surpasses-3000-report"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "South Korea's special prosecutor seeks death penalty for ex-president Yoon over martial law bid",
+          "neutralSummary": "South Korea's special prosecutor seeks death penalty for ex-president Yoon over martial law bid&nbsp;&nbsp;CNBCYoon Suk Yeol: S Korea prosecutors seek death penalty over failed insurrection attempt&nbsp;&nbsp;BBCSouth Korea prosecutors seek death penalty for ex-President Yoon&nbsp;&nbsp;Al JazeeraDe",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "South Korean prosecutors demand death penalty for former president Yoon Suk Yeol",
+              "url": "https://www.theguardian.com/world/2026/jan/13/south-korean-prosecutors-demand-death-penalty-for-former-president-yoon-suk-yeol"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Prosecutors seek death penalty for ex-South Korean president Yoon",
+              "url": "https://www.bbc.com/news/articles/cq6vyqq5r0do?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNBC",
+              "initials": "C",
+              "domain": "news.google.com",
+              "headline": "South Korea's special prosecutor seeks death penalty for ex-president Yoon over martial law bid",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFViaE5kZ0J2Vnd5bTBsR1pSdFF3ZjczSFpDOGRVNVNybkdEVXd3Rk9SQnRiVFlrZzdxN2ljSGpON3psdmI2UlVleTNLaTlIQ1kxV2ItS3JlVWlvVGVrVjFDdHhBdkNmUlJBUU9EeGN5UTk2eHp3Z3NWd0JrQjdvVGV3UUhSWjkxc0JIVXVGTURVSlJNT2F4dnZrVkhONDBuQU5Bd3Y2N1IzejFhdE1MRUZscGNKSVVEdEI2ZA?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "South Korea prosecutors seek death penalty for ex-President Yoon",
+              "url": "https://www.aljazeera.com/news/2026/1/13/south-korea-prosecutors-seek-death-penalty-for-ex-president-yoon?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "South Korean prosecutors demand death penalty for ex-leader Yoon",
+              "url": "https://www.france24.com/en/south-korean-prosecutors-demand-death-penalty-for-ex-leader-yoon"
             }
           ]
         },
         {
           "id": "global-3",
-          "neutralHeadline": "Death of Chimamanda Ngozi Adichie's son sheds light on Nigeria's quality of care",
-          "neutralSummary": "An investigation has been ordered into the circumstance under which the toddler son of the award-winning Nigerian writer, Chimamanda Ngozi Adichie died at a leading hospital in Lagos. The writer has blamed the death of her 21-month-old twin son on medical negligence. The incident is the latest in a",
+          "neutralHeadline": "'We choose Denmark,' says Greenland PM ahead of W. House talks",
+          "neutralSummary": "Greenland would choose to remain Danish over a US takeover, its leader said Tuesday, ahead of crunch White House talks on the future of the Arctic island which President Donald Trump has repeatedly threatened. FRANCE 24's Emerald Maxwell reports.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Author Chimamanda Ngozi Adichie accuses Lagos hospital of negligence after son’s death",
-              "url": "https://www.theguardian.com/books/2026/jan/12/chimamanda-ngozi-adichie-accuses-lagos-hospital-negligence-son-death"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "We choose Denmark over US, Greenland's PM says",
+              "url": "https://www.bbc.com/news/articles/c4g3kw5ezepo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Apprehension in Denmark ahead of talks about Greenland with Vance",
+              "url": "https://www.npr.org/2026/01/13/nx-s1-5675921/apprehension-in-denmark-ahead-of-talks-about-greenland-with-vance"
             },
             {
               "political": "center",
@@ -101,15 +137,24 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Death of Chimamanda Ngozi Adichie's son sheds light on Nigeria's quality of care",
-              "url": "https://www.france24.com/en/death-of-chimamanda-ngozi-adichie-s-son-sheds-light-on-nigeria-s-quality-of-care"
+              "headline": "'We choose Denmark,' says Greenland PM ahead of W. House talks",
+              "url": "https://www.france24.com/en/we-choose-denmark-says-greenland-pm-ahead-of-w-house-talks"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Greenland's prime minister says 'we choose Denmark' over the US",
+              "url": "https://www.foxnews.com/world/greenlands-prime-minister-says-we-choose-denmark-over-us"
             }
           ]
         },
         {
           "id": "global-4",
-          "neutralHeadline": "The Problem with Trump’s Venezuela Plan",
-          "neutralSummary": "The Problem with Trump’s Venezuela Plan&nbsp;&nbsp;The Free PressOpinion | Trump wisely takes a go-slow approach to Venezuelan democracy&nbsp;&nbsp;The Washington PostOpinion | Trump Has Declared Premature Victory in Venezuela&nbsp;&nbsp;The New York TimesAbduction of Venezuela’s Maduro illegal desp",
+          "neutralHeadline": "Trump administration ends temporary protected status for Somalis in US",
+          "neutralSummary": "Critics condemn ‘bigoted attack’ as Trump bids to revoke citizenship of naturalized immigrants convicted of fraud The Trump administration is terminating temporary protected status (TPS) for Somalis living in the United States, giving hundreds of people two months to leave the country or face deport",
           "versions": [
             {
               "political": "left",
@@ -117,17 +162,17 @@
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "US plan to exploit Venezuela’s oil could eat up 13% of carbon budget to keep 1.5C limit",
-              "url": "https://www.theguardian.com/environment/2026/jan/12/us-plan-to-exploit-venezuelas-oil-could-eat-up-13-of-carbon-budget-to-keep-15c-limit"
+              "headline": "Trump administration ends temporary protected status for Somalis in US",
+              "url": "https://www.theguardian.com/us-news/2026/jan/13/trump-administration-ends-tps-somalia"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "The Free Press",
-              "initials": "TF",
-              "domain": "news.google.com",
-              "headline": "The Problem with Trump’s Venezuela Plan",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VR01rbDRaMWZKLTFTNnQxcm1PcTRmelpFVHFpUTQ5THJ4QnctT0dmX0dJMEp3S1ZRSVZtaEctMTUydlBLM1lMNHdHSEpybV9IcVZhMUFLOGNNNjhkcE5zcDhBeGdtR2RZ?oc=5"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Trump administration moves to end deportation protection for Somalis",
+              "url": "https://www.bbc.com/news/articles/cz0p9ld5egjo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
@@ -144,97 +189,47 @@
               "domain": "theguardian.com",
               "headline": "Carney heads to Beijing as Trump’s America First agenda forces Canada into trade rethink",
               "url": "https://www.theguardian.com/world/2026/jan/12/carney-heads-to-beijing-as-trump-america-first-agenda-forces-canada-into-trade-rethink"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Trump says trade agreement with Mexico, Canada ‘irrelevant’ to US",
+              "url": "https://www.aljazeera.com/economy/2026/1/13/trump-says-trade-agreement-with-mexico-canada-irrelevant-to-us?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "Death Toll In Crackdown On Protests In Iran Spikes To At Least 544, Activists Say",
-          "neutralSummary": "Tehran also warned that the U.S. military and Israel would be “legitimate targets” if America uses force to protect demonstrators.",
+          "neutralHeadline": "Le Pen blames European Parliament in appeal that could decide political fate",
+          "neutralSummary": "\"We had no sense of having committed an offence,\" France's far-right leader tells an appeal to overturn a ban from contesting the next election.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Death Toll In Crackdown On Protests In Iran Spikes To At Least 544, Activists Say",
-              "url": "https://www.huffpost.com/entry/ap-ml-iran-protests-israel-usa-targets-threat_n_6963a86ee4b0957c8f1c6632"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Iran warns U.S. and Israel against military actions after deadly protests crackdown",
-              "url": "https://www.npr.org/2026/01/12/nx-s1-5673918/iran-warns-u-s-and-israel-against-military-actions-after-deadly-protests-crackdown"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Le Pen blames European Parliament in appeal that could decide political fate",
+              "url": "https://www.bbc.com/news/articles/c62vnvx2x2po?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "global-7",
-          "neutralHeadline": "Trump briefed on military and covert options for Iran, sources say",
-          "neutralSummary": "The US president also imposes a 25% tariff on countries that \"do business\" with Tehran, while Iran's foreign minister says his country is \"ready for war\".",
+          "neutralHeadline": "Myanmar says Rohingya genocide case at world court is 'flawed and unfounded'",
+          "neutralSummary": "Myanmar’s foreign ministry said on Wednesday that a genocide case at the International Court of Justice over its treatment of the mostly Muslim Rohingya minority was “flawed and unfounded”. The court began three weeks of hearings on Monday on allegations brought by The Gambia over a 2017 military cr",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Trump briefed on military and covert options for Iran, sources say",
-              "url": "https://www.bbc.com/news/articles/clyev0kpk77o?at_medium=RSS&at_campaign=rss"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Trump continues to threaten military action against Iran",
-              "url": "https://www.npr.org/2026/01/13/nx-s1-5674819/trump-continues-to-threaten-military-action-against-iran"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Global Central Bankers Show ‘Full Solidarity’ With Fed’s Powell",
-          "neutralSummary": "Global central bankers threw their support behind Chairman Jerome Powell after the Trump administration ratcheted up its already unprecedented pressure campaign against the Federal Reserve.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "World central bank chiefs 'stand in solidarity' with US Fed chair Powell",
-              "url": "https://www.bbc.com/news/articles/c041dp0z95yo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Global Central Bankers Show ‘Full Solidarity’ With Fed’s Powell",
-              "url": "https://www.bloomberg.com/news/articles/2026-01-13/global-central-bankers-in-full-solidarity-with-fed-s-powell"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Corsica: Former nationalist leader shot dead at his mother’s funeral",
-          "neutralSummary": "Alain Orsoni, who led the separatist Corsican Movement for Self-Determination before becoming the president of Corsican football club ‍AC Ajaccio, was killed by a long-range shot at his mother's funeral on the French island.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Hunt for gunman after Corsican exile is shot dead at mother's funeral",
-              "url": "https://www.bbc.com/news/articles/c0mk80lyw09o?at_medium=RSS&at_campaign=rss"
+              "headline": "UN International Court of Justice to hear 1st genocide case in over a decade",
+              "url": "https://www.npr.org/2026/01/13/nx-s1-5675142/un-international-court-of-justice-to-hear-1st-genocide-case-in-over-a-decade"
             },
             {
               "political": "center",
@@ -242,8 +237,58 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Corsica: Former nationalist leader shot dead at his mother’s funeral",
-              "url": "https://www.france24.com/en/video/20260113-corsica-former-nationalist-leader-shot-dead-at-his-mother-s-funeral-1"
+              "headline": "Myanmar says Rohingya genocide case at world court is 'flawed and unfounded'",
+              "url": "https://www.france24.com/en/asia-pacific/20260114-myanmar-rohingya-genocide-icj"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Trump administration labels 3 Muslim Brotherhood branches as terrorist organizations",
+          "neutralSummary": "Trump administration labels 3 Muslim Brotherhood branches as terrorist organizations&nbsp;&nbsp;AP NewsTrump ad­min­is­tration labels 3 Muslim Broth­erhood branches as terrorist or­ga­ni­za­tions&nbsp;&nbsp;Spectrum NewsUS labels Muslim Brotherhood in Egypt, Lebanon, Jordan as ‘terrorists’&nbsp;&nbs",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Trump administration labels 3 Muslim Brotherhood branches as terrorist organizations",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVlKdkl0OHRKRC1mTFJnanYtaHhieGpxYVlGZU5qNDRfalNhbWVSQ0d6dDVLaUNUTzk5WjhaZUxSSnhlTDQzdy1MVUEzTFBUV0JzUDItcHByMXVPZk9zZHhtS3FwTzhYTWFzMHVFZExMalVUUF92Z092VlpjWGQtcndLX2xMWFpNdTdvQW04QVpNdzNhcDUyNU9BUDVsZHRaeVBwRnh5RGMzMkYyY1pYYUEtc25pcUw0N0E?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump admin labels Muslim Brotherhood branches as terrorist organizations",
+              "url": "https://www.foxnews.com/world/trump-admin-labels-muslim-brotherhood-branches-terrorist-organizations"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "US civil rights pioneer Claudette Colvin dies at 86",
+          "neutralSummary": "Claudette Colvin, who refused to give up her seat on a segregated Alabama bus in 1955, months before Rosa Parks, has died aged 86, her foundation said on Tuesday. Colvin was 15 at the time. Her foundation said she left a legacy of courage that helped change American history.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Unsung US civil rights pioneer Claudette Colvin dies, aged 86",
+              "url": "https://www.aljazeera.com/news/2026/1/14/unsung-us-civil-rights-pioneer-claudette-colvin-dies-aged-86?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "US civil rights pioneer Claudette Colvin dies at 86",
+              "url": "https://www.france24.com/en/americas/20260113-claudette-colvin-us-civil-rights-pioneer-dead"
             }
           ]
         }
@@ -254,17 +299,26 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Supreme Court to rule on women’s sports, biological realities",
-          "neutralSummary": "If the law proves unable to distinguish male from female in school sports, how can we expect clarity in prisons, shelters or restrooms?",
+          "neutralHeadline": "Trump slams Powell amid federal probe: ‘Either corrupt or incompetent’",
+          "neutralSummary": "President Trump criticized Federal Reserve Chair Jerome Powell amid a Department of Justice (DOJ) probe into the central bank’s ongoing renovations. “He’s either corrupt or incompetent,” Trump told CBS News’s Tony Dokoupil, referring to the price tag and time frame of the project, during an intervie",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "A conservative Supreme Court tackles the question of trans women in school sports",
-              "url": "https://www.npr.org/2026/01/13/nx-s1-5648524/supreme-court-trans-women-school-sports"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "GOP Lawmakers Blast Trump's Probe Of Federal Reserve Chair Jerome Powell",
+              "url": "https://www.huffpost.com/entry/jerome-powell-donald-trump-probe_n_69651c79e4b030a990814991"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "The Supreme Court made Trump’s attack on Jerome Powell possible",
+              "url": "https://www.vox.com/politics/474910/supreme-court-trump-immunity-jerome-powell"
             },
             {
               "political": "center",
@@ -272,24 +326,15 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Supreme Court to rule on women’s sports, biological realities",
-              "url": "https://thehill.com/opinion/education/5684674-supreme-court-to-rule-on-womens-sports-biological-realities/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Republican governors urge justices to defend women's sports as Supreme Court hears key case",
-              "url": "https://www.foxnews.com/politics/republican-governors-urge-justices-defend-womens-sports-supreme-court-hears-key-case"
+              "headline": "Trump slams Powell amid federal probe: ‘Either corrupt or incompetent’",
+              "url": "https://thehill.com/homenews/administration/5687769-trump-slams-powell-amid-federal-probe-either-corrupt-or-incompetent/"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "Minnesota Democrats Are Demanding A Broader Investigation Into Renee Good's Shooting",
-          "neutralSummary": "Two of Minnesota’s leading Democrats say the investigation into the fatal shooting of a woman by a federal immigration officer shouldn’t be handled solely by the federal government.",
+          "neutralHeadline": "‘Violence And Intimidation’: Illinois Sues Trump Over Immigration Enforcement",
+          "neutralSummary": "The people of Illinois are being intimidated and terrorized by the Trump administration’s “coordinated campaign of violence” in the state, Gov. JB Pritzker says.",
           "versions": [
             {
               "political": "left",
@@ -297,192 +342,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Minnesota Democrats Are Demanding A Broader Investigation Into Renee Good's Shooting",
-              "url": "https://www.huffpost.com/entry/ap-us-immigration-enforcement-minnesota-democrats-ice-killing_n_6963e9c8e4b0d17dc0fc1c34"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Suggests Renee Good’s ‘Disrespectful’ Attitude Justified Fatal ICE Shooting",
-              "url": "https://www.nytimes.com/2026/01/12/us/politics/trump-shooting-renee-good-ice.html"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Arrest made in alleged arson fire at historic Mississippi synagogue",
-          "neutralSummary": "Arrest made in alleged arson fire at historic Mississippi synagogue&nbsp;&nbsp;ABC NewsFBI: Arson suspect admitted to starting fire at Mississippi’s largest synagogue ‘due to building’s Jewish ties’&nbsp;&nbsp;CNNMississippi synagogue arson suspect's dad turns him in after laughing confession, FBI s",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Arson suspect attacked Mississippi synagogue for its ‘Jewish ties,’ FBI says",
-              "url": "https://www.washingtonpost.com/nation/2026/01/12/mississippi-synagogue-arrest-arson-fire/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "ABC News",
-              "initials": "AN",
-              "domain": "news.google.com",
-              "headline": "Arrest made in alleged arson fire at historic Mississippi synagogue",
-              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVl9VcEV0VzNxMkRLNC1ZRkV4RmNfZF9nSFJSR0pXeDhlbFlVT3ZDeVc5M3NaQl9TckFWTjJCYXFKeFNSZFhzalhXZjB0SS05SHlaazlNTW5iRzBtazc3RDJkMXhLQlVsU1ZPMUxzRjloX3FMNDVTdGNUc2tZY01SZHZxT3Q3QnpINF9TVFdwZmR4SzFDLTdsTUlxNUdwLWRHYTE2SlNySDQ5d9IBrwFBVV95cUxNdzlGVlhjOGt4TzNIWk0yOWJsWktKNXpUbnoyMXl6WnRacUd5aDBfdC1xa1N1TFVRRWxMTWhqcC1qYmVFcDVGSTdiTXNDZDBKTXVSaFlEVGNTRUNwbHNSLUJkY195RXM4MTlTS0RtVFVKVlUyeXBzNjBpbzdUVXJUQkJEdXliaFdySDVWX05MNGphXzNKVHZEcEE4Sy1FUlp4ZVpabFYxQWl6U2RoYktN?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Mississippi Synagogue Arson Suspect Laughed During Chilling Confession",
-              "url": "https://www.dailywire.com/news/mississippi-synagogue-arson-suspect-laughed-during-chilling-confession"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Democrat Mary Peltola Launches Senate Bid In Alaska",
-          "neutralSummary": "Party leaders view her candidacy as key to winning Senate control.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Democrat Mary Peltola Launches Senate Bid In Alaska",
-              "url": "https://www.huffpost.com/entry/democrat-mary-peltola-senate-bid-alaska_n_69645947e4b0dfe68aa7e4cf"
-            },
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "Former Rep. Mary Peltola jumps into Alaska Senate race",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2JaZjRTLWU4WGxob01wRjV1cm5wZkNsY1diZVN0aGtPNGwtaXJqaVNHUFpWaGlUM0t3S3lLaVhNMk52d1RQVDNCbG1lSUEtRU14VENJVlF6OVcxQlRrQXloRkZsQk5ueDhCRXVxVFpacFVoUC15ZjVIS01OYTRlMzlvWG1SaVNiWU5hMlh3?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Kristi Noem Falsely Claims ICE Agent Was 'Ran Into' Before Deadly Shooting In Minneapolis",
-          "neutralSummary": "The secretary of Homeland Security continues to baselessly contend that Renee Good committed \"an act of domestic terrorism.\"",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Kristi Noem Falsely Claims ICE Agent Was 'Ran Into' Before Deadly Shooting In Minneapolis",
-              "url": "https://www.huffpost.com/entry/kristi-noem-falsely-claims-ice-agent-was-ran-into-before-deadly-shooting-in-minneapolis_n_6963e2c6e4b019b837332a3e"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Rep Ro Khanna demands prosecution of ICE agent in Minneapolis fatal shooting",
-              "url": "https://www.foxnews.com/politics/rep-ro-khanna-demands-prosecution-ice-agent-minneapolis-fatal-shooting"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "The Supreme Court is about to confront its most embarrassing decision",
-          "neutralSummary": "Judges rarely complain openly about the Supreme Court, for the same reason that most people do not publicly chastise their bosses. Attacking your boss is a good way to ensure that your own work will be discounted — or worse. So it’s remarkable just how many judges have published opinions criticizing",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "The Supreme Court is about to confront its most embarrassing decision",
-              "url": "https://www.vox.com/politics/474923/supreme-court-second-amendment-guns-wolford-lopez"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Why This 15-Year-Old’s Case Is at the Supreme Court",
-              "url": "https://www.nytimes.com/video/us/politics/100000010635319/why-this-15-year-olds-case-is-at-the-supreme-court.html"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Trump’s war on the Federal Reserve heads to the Supreme Court next week",
-          "neutralSummary": "On Sunday evening, Federal Reserve chair Jerome Powell posted an unusual video message to the nation, revealing that the Trump administration opened a criminal investigation into him — ostensibly because of a dispute over renovations to a Federal Reserve building. In reality, this investigation is a",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Trump’s war on the Federal Reserve heads to the Supreme Court next week",
-              "url": "https://www.vox.com/politics/474897/supreme-court-federal-reserve-jerome-powell-lisa-cook"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "What to know about Trump's ugly feud with the Federal Reserve",
-              "url": "https://www.npr.org/2026/01/13/nx-s1-5674777/trump-federal-reserve-jerome-powell"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Supreme Court to hear arguments over transgender athlete bans",
-          "neutralSummary": "The Supreme Court on Tuesday will take on whether states can ban transgender girls competing on girl’s and women’s school sports teams. At the high-stakes oral argument, Idaho and West Virginia will defend their bans against challenges from transgender athletes.&#160; “We are here because Idaho and",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Supreme Court to Hear Challenges to State Bans on Transgender Athletes",
-              "url": "https://www.nytimes.com/2026/01/13/us/politics/supreme-court-transgender-athletes.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Supreme Court to hear arguments over transgender athlete bans",
-              "url": "https://thehill.com/homenews/5685421-transgender-athletes-supreme-court-case/"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Trump Officials Are Sending 1,000 More Immigration Officers to Minnesota",
-          "neutralSummary": "The Customs and Border Protection officers are joining 2,000 other officers and agents at the Department of Homeland Security who have recently been deployed to the Minneapolis region.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Officials Are Sending 1,000 More Immigration Officers to Minnesota",
-              "url": "https://www.nytimes.com/2026/01/12/us/politics/border-patrol-minnesota-surge.html"
+              "headline": "‘Violence And Intimidation’: Illinois Sues Trump Over Immigration Enforcement",
+              "url": "https://www.huffpost.com/entry/violence-and-intimidation-illinois-sues-trump-over-immigration-enforcement_n_69655dcce4b0365ff4dfc706"
             },
             {
               "political": "left",
@@ -492,6 +353,199 @@
               "domain": "washingtonpost.com",
               "headline": "Minnesota sues DHS, ICE over immigration enforcement",
               "url": "https://www.washingtonpost.com/nation/2026/01/12/minnesota-immigration-lawsuit-ice-dhs/"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Minnesota sues over Trump's ICE enforcement. And, SCOTUS hears trans athlete cases",
+              "url": "https://www.npr.org/2026/01/13/g-s1-105846/up-first-newsletter-trump-iran-minneapolis-ice-shooting-scotus-trans-sports"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Claudette Colvin, Who Refused to Give Her Bus Seat to a White Woman, Dies at 86",
+          "neutralSummary": "Her defiance of Jim Crow laws in 1955 made her a star witness in a landmark segregation suit, but her act was overshadowed months later when Rosa Parks made history with a similar stand.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Claudette Colvin, Who Refused to Give Her Bus Seat to a White Woman, Dies at 86",
+              "url": "https://www.nytimes.com/2026/01/13/us/politics/claudette-colvin-dead.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Claudette Colvin, unsung civil rights pioneer, dies at 86",
+              "url": "https://www.washingtonpost.com/obituaries/2026/01/13/claudette-colvin-dead-civil-rights/"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Claudette Colvin, who refused to move seats on a bus at start of civil rights movement, dies",
+              "url": "https://www.npr.org/2026/01/13/g-s1-105927/claudette-colvin-obituary-montgomery-bus-civil-rights"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "CNN's Harry Enten: Trump Is Totally 'Losing The Political Fight' Against Powell",
+          "neutralSummary": "The network's data chief said Americans \"vigorously disagree\" with Trump as he ramps up his feud with the Fed chair.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "CNN's Harry Enten: Trump Is Totally 'Losing The Political Fight' Against Powell",
+              "url": "https://www.huffpost.com/entry/cnn-harry-enten-trump-jerome-powell-federal-reserve-doj_n_6965875be4b0365ff4dfd507"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "The enormous stakes of Donald Trump’s fight with Jerome Powell",
+              "url": "https://www.vox.com/policy/474960/donald-trump-jerome-powell-fed-economic-stakes"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Sen. Mark Kelly Sues Pete Hegseth Over Censure",
+          "neutralSummary": "Defense Secretary Pete Hegseth wants to reduce the senator's pay and rank in an act of retaliation, a new lawsuit alleges.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Sen. Mark Kelly Sues Pete Hegseth Over Censure",
+              "url": "https://www.huffpost.com/entry/mark-kelly-sues-pete-hegseth-over-censure_n_69654521e4b0f5f77ec84a3f"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Pete Hegseth Hits Back At ‘Captain’ Mark Kelly: He ‘Knows Exactly What He Did’",
+              "url": "https://www.dailywire.com/news/pete-hegseth-hits-back-at-captain-mark-kelly-he-knows-exactly-what-he-did"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Trump Raises Middle Finger at Heckler in Michigan Ford Factory Tour",
+          "neutralSummary": "A White House spokesman said the president “gave an appropriate and unambiguous response.”",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Raises Middle Finger at Heckler in Michigan Ford Factory Tour",
+              "url": "https://www.nytimes.com/2026/01/13/us/politics/trump-heckler-middle-finger.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump flips off Ford factory worker who yelled ‘pedophile protector’",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4417766/trump-flips-off-ford-factory-worker/"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Analysis: Trump Supports Protesters in Iran, but Not in Minneapolis",
+          "neutralSummary": "The split-screen television images of mass demonstrations in Minneapolis and Tehran have highlighted the president’s disparate views of democracy and popular dissent.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Analysis: Trump Supports Protesters in Iran, but Not in Minneapolis",
+              "url": "https://www.nytimes.com/2026/01/13/us/politics/trump-protesters-iran-minnesota.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump pledges ‘very strong action’ if Iran begins hanging protesters",
+              "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4417857/trump-very-strong-action-iran-hanging-protesters/"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Rubio argues US cannot return Venezuelans despite court order",
+          "neutralSummary": "Secretary of State Marco Rubio told a federal judge he is unable to locate the more than 100 Venezuelans the Trump administration sent to be imprisoned in El Salvador, arguing against further hearings with the men as it would jeopardize &#8220;extraordinarily delicate” discussions with Venezuela&#82",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Rubio says court hearings no longer possible for deported Venezuelans",
+              "url": "https://www.washingtonpost.com/dc-md-va/2026/01/13/rubio-venezuela-immigration-boasberg/"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Rubio argues US cannot return Venezuelans despite court order",
+              "url": "https://thehill.com/policy/international/5687715-rubio-venezuela-prisoners-return/"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "South Carolina says the Revolutionary War was won there. But was it?",
+          "neutralSummary": "Four historians told The Washington Post that while the British were defeated in Yorktown, Virginia — not in South Carolina — the full story is more complicated.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "South Carolina says the Revolutionary War was won there. But was it?",
+              "url": "https://www.washingtonpost.com/nation/2026/01/13/south-carolina-revolutionary-war-yorktown/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "South Carolina GOP lawmakers introduce bill to criminalize abortion as murder",
+              "url": "https://www.foxnews.com/politics/south-carolina-gop-lawmakers-introduce-bill-criminalize-abortion-murder"
             }
           ]
         }
@@ -502,8 +556,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "South Korea prosecutor seeks death penalty for ex-president Yoon over martial law",
-          "neutralSummary": "Yoon ‍Suk Yeol is accused ⁠of ‍masterminding an insurrection, with the punishment for the crime&nbsp;extending up to the death penalty under South Korean ⁠law.",
+          "neutralHeadline": "South Korean prosecutors demand death penalty for ex-leader Yoon",
+          "neutralSummary": "It is highly unlikely that a death sentence handed down to Yoon Suk Yeol will be carried out, however, as South Korea has had an unofficial moratorium on executions since 1997.",
           "versions": [
             {
               "political": "center",
@@ -511,8 +565,17 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "South Korea prosecutor seeks death penalty for ex-president Yoon over martial law",
-              "url": "https://www.channelnewsasia.com/east-asia/south-korea-prosecutor-seeks-death-penalty-ex-president-yoon-over-martial-law-5855971"
+              "headline": "South Korean prosecutors demand death penalty for ex-leader Yoon",
+              "url": "https://www.channelnewsasia.com/east-asia/south-korean-prosecutors-demand-death-penalty-ex-leader-yoon-5855971"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Koreaboo",
+              "initials": "K",
+              "domain": "news.google.com",
+              "headline": "Death Penalty Requested For Former South Korean President Yoon Suk Yeol",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXJtV05LRHdRZTB0T0RZcTlPRjdQRDV3TFZ0SUl2WXRpS3czMlQ4LTJMSDZlOWI2QmMtYzNqbHk4UGktM3g0aWljVnVDeDhvX3l6blZQSGc1b0IwcGd3ZDVpQ1hEMVBCRmhpMkY2dy1Xdi1VT2lzQmJ6alVMTEM5NWpzb2czUDhhQkhEem01WQ?oc=5"
             },
             {
               "political": "left",
@@ -527,8 +590,8 @@
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Police to apply to distribute $1.5m in seized assets to claimants in Genneva gold scam: Shanmugam",
-          "neutralSummary": "The Singapore-registered firm racked up more than $40 million in losses for customers.",
+          "neutralHeadline": "Ex-actor Edmund Chen charged with grievously injuring motorcyclist in traffic accident",
+          "neutralSummary": "He is expected to plead guilty on Jan 29.",
           "versions": [
             {
               "political": "center",
@@ -536,8 +599,17 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Police to apply to distribute $1.5m in seized assets to claimants in Genneva gold scam: Shanmugam",
-              "url": "https://www.straitstimes.com/singapore/politics/police-to-apply-to-distribute-1-5m-in-seized-assets-to-claimants-in-genneva-gold-scam-shanmugam"
+              "headline": "Ex-actor Edmund Chen charged with grievously injuring motorcyclist in traffic accident",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/ex-actor-edmund-chen-charged-with-grievously-injuring-motorcyclist-in-traffic-accident"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Former actor Edmund Chen charged over careless driving, grievously hurting motorcyclist",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGtBOUdvWHZYNUlZd1JRMFJNanlsV0xjUS1oVDh5ZktWRHQ1RUdDZ0pjZmZWMHBqTS1wOTlDbldDa2dQMkp4WnVKU3pCSHJLeGhYZE9nNk53TnRvSGRkcXJqelY3VjRaM2piUmVGVFNhZXFYN0UtSFJqcW1WUUxIR25ucjUwb3hQdk9YUWduX1U4ek54bi1WTVV2YmNsYTVsNmd1VFRTYVF2VW5yeTRDZ0Mxdks5T0lJcnlaR1pMNnYzQWludnREdjFMM0wzWFp5V3c?oc=5"
             }
           ]
         },
@@ -559,38 +631,6 @@
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "260 workers received $600,000 in salary relief after their firms were wound up",
-          "neutralSummary": "MOM does not track the total number of workers with unpaid wages arising from corporate liquidations.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "260 workers received $600,000 in salary relief after their firms were wound up",
-              "url": "https://www.straitstimes.com/singapore/politics/260-workers-receive-600000-in-salary-relief-after-their-firms-were-wound-up"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "MRT delay on Circle Line between Bishan and Buona Vista stations during evening peak hour",
-          "neutralSummary": "Service in both directions are affected.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "MRT delay on Circle Line between Bishan and Buona Vista stations during evening peak hour",
-              "url": "https://www.straitstimes.com/singapore/mrt-delay-on-circle-line-between-bishan-and-buona-vista-stations-during-evening-peak-hour"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
           "neutralHeadline": "Traveller caught at Woodlands Checkpoint trying to smuggle in drugs by disguising them as pet food",
           "neutralSummary": "A total of 1,462g of heroin and 1,442g of Ice were found.",
           "versions": [
@@ -606,50 +646,100 @@
           ]
         },
         {
-          "id": "singapore-7",
-          "neutralHeadline": "OCD (Part 2): 4-day treatment and the Bergen approach",
-          "neutralSummary": "The science of getting unstuck from OCD in four days.",
+          "id": "singapore-5",
+          "neutralHeadline": "Malaysia eyes bigger role in rare earths, but industry players warn ambitions may outpace reality",
+          "neutralSummary": "More than 16 million tonnes of rare earth deposits are believed to lie beneath forest reserves and mountain ranges across Peninsular Malaysia.&nbsp;",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "OCD (Part 2): 4-day treatment and the Bergen approach",
-              "url": "https://www.straitstimes.com/singapore/health/ocd-part-2-the-hidden-reality-and-a-new-way-out"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Malaysia eyes bigger role in rare earths, but industry players warn ambitions may outpace reality",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-rare-earths-mining-supply-chain-export-ban-lynas-china-geopolitics-5855041"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Four things to watch as Malaysia’s UMNO kicks off annual gathering",
+          "neutralSummary": "Set to draw over 6,000 delegates, the meeting comes at a critical juncture for the party, which turns 80 this year.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Four things to watch as Malaysia’s UMNO kicks off annual gathering",
+              "url": "https://www.channelnewsasia.com/asia/umno-general-assembly-four-things-watch-5855576"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "IN FOCUS: In this China-Russia border town, travellers are back but why aren’t locals thrilled yet?",
+          "neutralSummary": "Day trippers and tourists might be returning, but merchants in China’s northeastern Suifenhe town tell CNA the long-awaited spending boom has yet to materialise.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "IN FOCUS: In this China-Russia border town, travellers are back but why aren’t locals thrilled yet?",
+              "url": "https://www.channelnewsasia.com/east-asia/china-russia-border-town-suifenhe-economy-geopolitics-5848611"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Ride-hailing app Gojek back up after ‘temporary service disruption’ during peak hour rush",
-          "neutralSummary": "On outage tracking website Downdetector, about 65 cases were reported at around 5.30pm.",
+          "neutralHeadline": "Indonesia central bank to continue intervening to defend depreciating rupiah",
+          "neutralSummary": "Indonesia central bank to continue intervening to defend depreciating rupiah",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Ride-hailing app Gojek back up after ‘temporary service disruption’ during peak hour rush",
-              "url": "https://www.straitstimes.com/singapore/ride-hailing-app-gojek-on-the-blink-amid-peak-hour-rush"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Indonesia central bank to continue intervening to defend depreciating rupiah",
+              "url": "https://www.channelnewsasia.com/business/indonesia-central-bank-continue-intervening-defend-depreciating-rupiah-5857336"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Indonesia Central Bank in Market as Rupiah Nears Record Low",
+              "url": "https://www.bloomberg.com/news/articles/2026-01-14/usd-idr-indonesia-central-bank-in-market-as-rupiah-approaches-record-low"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "2025 another record year for S’pore’s port as containers handled, vessel arrivals hit new highs",
-          "neutralSummary": "While records were achieved, the amount of cargo handled by the port fell by 1.4%.",
+          "neutralHeadline": "US approves Nvidia H200 chip exports to China with some conditions",
+          "neutralSummary": "US approves Nvidia H200 chip exports to China with some conditions",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "2025 another record year for S’pore’s port as containers handled, vessel arrivals hit new highs",
-              "url": "https://www.straitstimes.com/singapore/transport/2025-another-record-year-for-spores-port-as-containers-handled-vessel-arrivals-hit-new-highs"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "US approves Nvidia H200 chip exports to China with some conditions",
+              "url": "https://www.channelnewsasia.com/business/us-approves-nvidia-h200-chip-exports-china-some-conditions-5856941"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "US approves sale of Nvidia's advanced AI chips to China",
+              "url": "https://www.bbc.com/news/articles/cg4erx1n04lo?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
@@ -660,18 +750,134 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Australia Puts India In 'Highest-Risk' Tier For Student Visas. What It Means",
-          "neutralSummary": "Australia has reclassified India to the highest-risk category for student visas",
+          "neutralHeadline": "'Strong action': Trump warns Iran against 'hanging' protestors",
+          "neutralSummary": "US President Donald Trump issued a stern warning to Iran, vowing strong action if authorities proceed with executions amid widespread protests.  Trump stated that the US would respond forcefully if hangings commence, emphasizing that killing thousands of people would have severe consequences for Ira",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Australia Puts India In 'Highest-Risk' Tier For Student Visas. What It Means",
-              "url": "https://www.ndtv.com/world-news/australia-puts-india-in-highest-risk-tier-for-student-visas-what-it-means-10742601#publisher=newsstand"
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "US will take ‘very strong action’ if Iran hangs protesters: Trump’s warning to Tehran",
+              "url": "https://indianexpress.com/article/world/trump-iran-us-strong-action-hang-protesters-10472378/"
             },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Strong action': Trump warns Iran against 'hanging' protestors",
+              "url": "https://timesofindia.indiatimes.com/world/us/well-see-how-thats-going-to-work-out-trump-warns-iran-against-hanging-protestors-threatens-very-strong-action/articleshow/126515579.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "After Sabarimala gold theft; Kerala HC orders vigilance probe; Rs 35L ‘ghee scam’ under lens",
+          "neutralSummary": "The Kerala High Court has ordered a vigilance probe into alleged misappropriation of over Rs 35 lakh from the sale of leftover ghee at Sabarimala. The court directed the vigilance director to form a team and register a crime based on a report highlighting discrepancies in fund remittance from ghee p",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Already besieged by ‘gold theft’ case, Sabarimala management faces another scandal – over ghee sales",
+              "url": "https://indianexpress.com/article/india/already-besieged-by-gold-theft-case-sabarimala-management-faces-another-scandal-over-ghee-sales-10472090/"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "After Sabarimala gold theft; Kerala HC orders vigilance probe; Rs 35L ‘ghee scam’ under lens",
+              "url": "https://timesofindia.indiatimes.com/city/kochi/hc-orders-vigilance-probe-into-sabarimala-ghee-sale-fund-misappropriation/articleshow/126509916.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Too many global shocks: What's India's plan?",
+          "neutralSummary": "Too many global shocks: What's India's plan?",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "forms.gle",
+              "headline": "Too many global shocks: What's India's plan?",
+              "url": "https://forms.gle/HK2Vh9aga1Cu8NvC7"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "India's Inevitability In The New Global Order",
+              "url": "https://swarajyamag.com/world/indias-inevitability-in-the-new-global-order"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "India slips to 3rd as refiners cut Russian crude buys",
+          "neutralSummary": "India slips to 3rd as refiners cut Russian crude buys",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "India slips to 3rd as refiners cut Russian crude buys",
+              "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-slips-to-third-as-major-refiners-tap-the-brakes-on-russian-crude/articleshow/126502143.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "India's import of Russian crude drops 29% month-on-month",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWXEweTNIN2RiM2RSYmp0LWw4T243SzRyRm9qRGFwY19GNVVkcGYzR2Y1YXNjX2ZCaUI3aVJwMWk2S1JGeEs0eG5xNWMxUHV3enhoZ01yaXBmS2plVkg1ZEhWWHFodHoxS2NuSUUtWGwxNWJQWmQ3bHR1V194WmpCWUJxamNNYlFPZS1mMGlxQ3N0bU9mRWg5UFhCSTB6d3YxSlNnWlB5eWNBTzl2Q2M0ZTdZVnpzX1NqaGk4SE04U1k4YWRGLTNweTdGQWtHdEFOWW5jZ2hLcw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "What led to Pakistan's surrender during Op Sindoor? Army chief Upendra Dwivedi speaks of '2 turning points' | India News",
+          "neutralSummary": "What led to Pakistan's surrender during Op Sindoor? Army chief Upendra Dwivedi speaks of '2 turning points' | India News&nbsp;&nbsp;Hindustan TimesPakistan sent Sindoor SOS after seeing Indian forces’ movement; 8 terror camps still active along Pakistan-side of border: Army chief&nbsp;&nbsp;Times of",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "news.google.com",
+              "headline": "What led to Pakistan's surrender during Op Sindoor? Army chief Upendra Dwivedi speaks of '2 turning points' | India News",
+              "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbllic0cwYUlLWlhoeGNTV29zS0dKQUFXa1BvR1FpR1p0ZHJZOHJjbUJEMENlbTZ5LVFUdlA2T01Fbk9OUWgyV1oxNl8xTGFhVUswMnNsQTVsRWFySjJxT1VQWGlOYXJpdjJqWlNvQ1VGUksxRm5LYjBhUGo0NFlWZFd4ZGhGSVlPT3RZZW15NFlMaGVMbEw5bkp6SGZOWDR0aVJUMDY4Mmw3Vk1hMm16TGRQTm1sX0k2Qk12UnhvS0FBR0NhbjdzVnNGSUlFdXdnVlVwTkdDR3B3T2VhT0JUS0NaRldUbG5ERklnZUwwUS1UZzlSclhXdFNn?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "Army Chief Reveals India Was Fully Prepared For Ground Offensive During Operation Sindoor Against Pakistan",
+              "url": "https://swarajyamag.com/news-brief/army-chief-reveals-india-was-fully-prepared-for-ground-offensive-during-operation-sindoor-against-pakistan"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Australia Moves India Into Highest-Risk Category For Student Visas Citing 'Emerging Integrity Risks'",
+          "neutralSummary": "Australia has reclassified India into its highest-risk category for student visa applications.",
+          "versions": [
             {
               "political": "right",
               "tone": "neutral",
@@ -693,125 +899,9 @@
           ]
         },
         {
-          "id": "india-2",
-          "neutralHeadline": "J&amp;K: 5 govt employees sacked over 'terror links'; 85 dismissed since 2020",
-          "neutralSummary": "J&amp;K: 5 govt employees sacked over 'terror links'; 85 dismissed since 2020",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Lt Governor Manoj Sinha Sacks 5 J&K Government Employees For Terror Links",
-              "url": "https://www.ndtv.com/india-news/jammu-and-kashmir-lt-governor-manoj-sinha-sacks-5-j-k-government-employees-for-terror-links-10742433#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "J&amp;K: 5 govt employees sacked over 'terror links'; 85 dismissed since 2020",
-              "url": "https://timesofindia.indiatimes.com/india/major-crackdown-jk-lg-manoj-sinha-sacks-five-govt-employees-over-alleged-terror-links-85-dismissed-since-2021/articleshow/126502232.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Five Jammu and Kashmir government employees sacked over suspected terror links: Who are they?",
-              "url": "https://www.hindustantimes.com/india-news/five-jammu-and-kashmir-government-employees-sacked-over-suspected-terror-links-who-are-they-101768304412013.html"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Rial Collapse Protests: Iran faces largest unrest in decades; over 600 killed, 10,000 arrested",
-          "neutralSummary": "Iran faces widespread unrest fueled by economic collapse, not ideology. The rial's sharp decline triggered strikes and protests across all provinces, impacting ordinary citizens and the middle class. This broad-based challenge, marked by significant deaths and arrests, strikes at the regime's core a",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Nearly 2,000 People Killed In Iran Protests, Says Official",
-              "url": "https://www.ndtv.com/world-news/nearly-2-000-people-killed-in-iran-protests-says-official-10742567#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Rial Collapse Protests: Iran faces largest unrest in decades; over 600 killed, 10,000 arrested",
-              "url": "https://timesofindia.indiatimes.com/business/international-business/currency-shock-will-a-collapsing-rial-be-undoing-of-irans-supreme-leader-khamenei/articleshow/126503562.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "'BJP-EC nexus': Mamata says poll body deleted 54 lakh 'genuine voters', plan to remove 1 cr more",
-          "neutralSummary": "West Bengal chief minister Mamata Banerjee accused the Election Commission of unilaterally deleting 54 lakh names from draft electoral rolls, alleging a BJP-EC nexus. She claimed genuine voters, including women who changed surnames, were removed without notice, possibly using AI tools. Banerjee furt",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "EC deleted 54 lakh ‘genuine voters’ in West Bengal without giving them chance to defend themselves: Mamata",
-              "url": "https://indianexpress.com/article/cities/kolkata/ec-deleted-genuine-voters-west-bengal-mamata-banerjee-10471609/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'BJP-EC nexus': Mamata says poll body deleted 54 lakh 'genuine voters', plan to remove 1 cr more",
-              "url": "https://timesofindia.indiatimes.com/india/bjp-ec-nexus-mamata-says-poll-body-deleted-54-lakh-genuine-voters-claims-plan-to-remove-1-crore-more/articleshow/126505739.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "MCC holds capacity-building workshop for sanitation workers",
-          "neutralSummary": "MCC holds capacity-building workshop for sanitation workers",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "MCC holds capacity-building workshop for sanitation workers",
-              "url": "https://www.thehindu.com/news/national/karnataka/mcc-holds-capacity-building-workshop-for-sanitation-workers/article70504906.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Raise questions about injustice suffered by North Karnataka under successive govts, says MLA",
-          "neutralSummary": "Asif (Raju) Sait was speaking at an event organised by Belagavi Journalists Association members to felicitate journalists",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Raise questions about injustice suffered by North Karnataka under successive govts, says MLA",
-              "url": "https://www.thehindu.com/news/national/karnataka/raise-questions-about-injustice-suffered-by-north-karnataka-under-successive-govts-says-mla/article70501442.ece"
-            }
-          ]
-        },
-        {
           "id": "india-7",
-          "neutralHeadline": "SIT to probe defamatory content targeting woman IAS officer",
-          "neutralSummary": "The team will function under the supervision of Hyderabad Police Commissioner V.C. Sajjanar and is headed by Joint Commissioner of Police (North Range) N. Swetha",
+          "neutralHeadline": "At dawn over Hyderabad, two hot air balloons drift to shape city’s tourism plans",
+          "neutralSummary": "At dawn over Hyderabad, two hot air balloons drift to shape city’s tourism plans",
           "versions": [
             {
               "political": "left",
@@ -819,15 +909,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "SIT to probe defamatory content targeting woman IAS officer",
-              "url": "https://www.thehindu.com/news/national/telangana/sit-to-probe-defamatory-content-targeting-woman-ias-officer/article70504983.ece"
+              "headline": "At dawn over Hyderabad, two hot air balloons drift to shape city’s tourism plans",
+              "url": "https://www.thehindu.com/news/cities/Hyderabad/at-dawn-over-hyderabad-two-hot-air-balloons-drift-to-shape-citys-tourism-plans/article70507947.ece"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "GBA elections will be held within SC deadline: DKS",
-          "neutralSummary": "GBA elections will be held within SC deadline: DKS",
+          "neutralHeadline": "Are India’s small towns being increasingly urbanised? | Explained",
+          "neutralSummary": "Are small towns an alternative to the over-accumulation witnessed in the country’s metro cities?",
           "versions": [
             {
               "political": "left",
@@ -835,15 +925,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "GBA elections will be held within SC deadline: DKS",
-              "url": "https://www.thehindu.com/news/national/karnataka/gba-elections-will-be-held-within-sc-deadline-dks/article70505114.ece"
+              "headline": "Are India’s small towns being increasingly urbanised? | Explained",
+              "url": "https://www.thehindu.com/news/national/are-indias-small-towns-being-increasingly-urbanised-explained/article70506747.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Six-day theatre festival begins in Shivamogga on January 14",
-          "neutralSummary": "Six-day theatre festival begins in Shivamogga on January 14",
+          "neutralHeadline": "Five new diarrhoea cases detected in Indore; no clarity over 'death audit' report",
+          "neutralSummary": "A total of 436 patients were admitted to hospitals since the vomiting and diarrhoea outbreak, triggered by supply of contaminated drinking water in the locality on December 29, of which 403 were discharged after recovery",
           "versions": [
             {
               "political": "left",
@@ -851,8 +941,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Six-day theatre festival begins in Shivamogga on January 14",
-              "url": "https://www.thehindu.com/news/national/karnataka/six-day-theatre-festival-begins-in-shivamogga-on-january-14/article70504899.ece"
+              "headline": "Five new diarrhoea cases detected in Indore; no clarity over 'death audit' report",
+              "url": "https://www.thehindu.com/news/national/madhya-pradesh/five-new-diarrhoea-cases-detected-in-indore-no-clarity-over-death-audit-report/article70507926.ece"
             }
           ]
         }
