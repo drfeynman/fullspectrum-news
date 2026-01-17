@@ -1,45 +1,11 @@
 {
-  "generatedAt": "2026-01-16T13:41:50.897315+00:00",
+  "generatedAt": "2026-01-17T03:16:25.381017+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Venezuela's opposition leader Machado presents Trump with her Nobel Peace Prize",
-          "neutralSummary": "Less than two weeks after the US operation that led to Venezuelan President Nicolas Maduro's capture, the country's opposition leader Maria Corina Machado presented Donald Trump with her Nobel Peace Prize. The move comes as the US president has repeatedly said he does not think she is fit to lead Ve",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Machado gives her Nobel Peace Prize to Trump",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/machado-gives-her-nobel-peace-prize-to-trump?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Venezuela's opposition leader Machado presents Trump with her Nobel Peace Prize",
-              "url": "https://www.france24.com/en/video/20260116-venezuela-s-opposition-leader-machado-presents-trump-with-her-nobel-peace-prize-1"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Venezuelan opposition leader María Corina Machado reveals why she gave Trump her Nobel Peace Prize medal",
-              "url": "https://nypost.com/2026/01/16/us-news/venezuelan-opposition-leader-maria-corina-machado-reveals-why-she-gave-trump-her-nobel-peace-prize-medal/"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
           "neutralHeadline": "South Korea sentences ex-president to five years in first martial law verdict",
           "neutralSummary": "Yoon Suk Yeol’s conviction for obstructing own arrest separate from main trial that could lead to death penaltyA South Korean court has sentenced former president Yoon Suk Yeol to five years in prison for mobilising presidential security forces to block his own arrest and abusing his powers. It is t",
           "versions": [
@@ -51,6 +17,15 @@
               "domain": "theguardian.com",
               "headline": "South Korea sentences ex-president to five years in first martial law verdict",
               "url": "https://www.theguardian.com/world/2026/jan/16/south-korea-sentences-ex-president-yoon-suk-yeol-five-years-first-martial-law-verdict"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "South Korean Court Sentences Ex-President Yoon Suk Yeol To 5 Years In Prison Over Martial Law",
+              "url": "https://www.huffpost.com/entry/south-korean-court-sentences-yoon-to-5-years-in-prison_n_696a0ee8e4b018dc941d55e9"
             },
             {
               "political": "left",
@@ -73,18 +48,18 @@
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’",
-          "neutralSummary": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’&nbsp;&nbsp;UN NewsUS warns Iran that ‘all options are on the table’ in emergency UN meeting&nbsp;&nbsp;AP NewsUS ambassador warns Iran at emergency UN meeting that Trump is 'man of action,' 'all options",
+          "id": "global-2",
+          "neutralHeadline": "Blair and Rubio among names on Gaza 'Board of Peace'",
+          "neutralSummary": "The former UK prime minister and US secretary of state will sit on the \"founding executive board\", the White House says.",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "UN News",
-              "initials": "UN",
-              "domain": "news.google.com",
-              "headline": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’",
-              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RTGhYMEt4ZW1pcmRibnN6SWhLX3NLaURtQUhjS0QtMnItdTNOM2pBYkI3TS1TLXlkREtGTjM3QnROejZOeGhudU84d2ptQXZua0E5Ukl0QQ?oc=5"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Blair and Rubio among names on Gaza 'Board of Peace'",
+              "url": "https://www.bbc.com/news/articles/c07xv92vrz2o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -92,58 +67,83 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Why is Iran’s economy failing, prompting deadly protests?",
-              "url": "https://www.aljazeera.com/features/2026/1/16/why-is-irans-economy-failing-prompting-deadly-protests?traffic_source=rss"
+              "headline": "Trump names Tony Blair, Jared Kushner to Gaza ‘Board of Peace’",
+              "url": "https://www.aljazeera.com/news/2026/1/16/trump-names-tony-blair-jared-kushner-to-gaza-board-of-peace?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Trump threatens tariffs on countries not backing US takeover of Greenland",
+          "neutralSummary": "President Donald Trump said for the first time on Friday that he might use tariffs to punish countries that \"don't go along with\" his plans for the US to acquire Greenland. European leaders have repeatedly said that the US cannot seize control of the island, which is a semi-autonomous territory of D",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Trump threatens new tariffs on countries opposed to Greenland takeover",
+              "url": "https://www.bbc.com/news/articles/c9qpy952xvno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Trump threatens tariffs on nations that ‘don’t go along’ with Greenland plans",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdmc0TktVLXBEYTRnWWhaMm9yS0RGNGFvTHkzTXI3emVEQ21fWjdNQy0tWW9EM0I1TzRncEticjRmWEt3QUxNOTVUbG5tNlp0MXVNblBZbTljTmtuOTZKbEwwZllCel9lMmNBbWhFQVNFZTRWTndVNkhjLXVYV0FLLVNfODJHT3Zhc3ExTFFBeVFiZjZJSHhN?oc=5"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Urgent appeal amid deadly crackdown: Iran Human Rights presses UN Security Council to act",
-              "url": "https://www.france24.com/en/urgent-appeal-amid-deadly-crackdown-iran-human-rights-presses-un-security-council-to-act"
+              "headline": "Trump threatens tariffs on countries not backing US takeover of Greenland",
+              "url": "https://www.france24.com/en/americas/20260116-trump-threatens-tariffs-countries-not-backing-us-takeover-of-greenland"
             }
           ]
         },
         {
           "id": "global-4",
-          "neutralHeadline": "Death of Chimamanda Ngozi Adichie’s son prompts calls for overhaul of Nigeria’s healthcare sector",
-          "neutralSummary": "Pleas for scrutiny of system fraught with accusations of negligence after one-year-old’s death in hospitalNigerians have called for urgent reforms to the healthcare sector after the death of Chimamanda Ngozi Adichie’s 21-month-old son prompted an outpouring of grief and accounts of negligence and in",
+          "neutralHeadline": "Uganda’s opposition leader ‘taken by army’ as Museveni nears re-election",
+          "neutralSummary": "Bobi Wine flown to unknown location, his party says, hours after security forces allegedly killed 10 of his campaignersThe Ugandan opposition leader Bobi Wine was taken from his house and brought to an unknown location on Friday, his party said as President Yoweri Museveni closed in on a landslide r",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "Death of Chimamanda Ngozi Adichie’s son prompts calls for overhaul of Nigeria’s healthcare sector",
-              "url": "https://www.theguardian.com/world/2026/jan/16/nigeria-call-overhaul-healthcare-sector-death-bestselling-author-toddler"
+              "headline": "Uganda’s opposition leader ‘taken by army’ as Museveni nears re-election",
+              "url": "https://www.theguardian.com/world/2026/jan/16/uganda-election-early-results-show-museveni-in-lead-as-violence-reported"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Tragic death of Adichie's young son pushes Nigeria to act on health sector failings",
-              "url": "https://www.bbc.com/news/articles/c2d70kx6nn3o?at_medium=RSS&at_campaign=rss"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Uganda’s Bobi Wine taken to unknown location in army helicopter, party says",
+              "url": "https://www.aljazeera.com/news/2026/1/16/ugandas-bobi-wine-taken-to-unknown-location-in-army-helicopter-party-says?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-5",
-          "neutralHeadline": "Julio Iglesias denies sexual abuse claims of two former female employees",
-          "neutralSummary": "Women allege Spanish singer subjected them ‘to inappropriate touching, insults and humiliation … in atmosphere of control’The Spanish singer Julio Iglesias has broken his silence over allegations that he sexually abused two women who worked in his Caribbean mansions, saying he has never “abused, coe",
+          "neutralHeadline": "CIA chief visits Maduro successor as Machado vows to become Venezuela’s president",
+          "neutralSummary": "John Ratcliffe meets Delcy Rodríguez in Caracas less than two weeks after his agents helped to oust her precedessorThe CIA chief whose agents reputedly played a key role in abducting Nicolás Maduro has flown to Venezuela to meet his successor as the sidelined opposition leader, María Corina Machado,",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "optimistic",
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "Julio Iglesias denies sexual abuse claims of two former female employees",
-              "url": "https://www.theguardian.com/world/2026/jan/16/julio-iglesias-denies-sexual-abuse-claims-of-two-former-female-employees"
+              "headline": "CIA chief visits Maduro successor as Machado vows to become Venezuela’s president",
+              "url": "https://www.theguardian.com/world/2026/jan/16/cia-chief-visits-maduro-successor-as-machado-vows-to-become-venezuelas-president"
             },
             {
               "political": "left",
@@ -151,8 +151,8 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Julio Iglesias denies sexual assault allegations",
-              "url": "https://www.bbc.com/news/articles/cdx40dxdlrqo?at_medium=RSS&at_campaign=rss"
+              "headline": "Machado vows to lead Venezuela 'when right time comes'",
+              "url": "https://www.bbc.com/news/articles/cz7y14ypg2qo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
@@ -183,8 +183,8 @@
         },
         {
           "id": "global-7",
-          "neutralHeadline": "US claims Iran halts executions of protesters amid crackdown on dissent",
-          "neutralSummary": "The United States on Thursday said Iran halted 800 executions of protesters under pressure from President Donald Trump, after Gulf allies appeared to pull him back from military action over Tehran's deadly crackdown on demonstrations. Iran was shaken over the last week by some of the biggest anti-go",
+          "neutralHeadline": "Trump Claims Killing Of Iran Protesters 'Has Stopped' Even As Tehran Signals Executions Ahead",
+          "neutralSummary": "The president on Tuesday consulted with his national security team about next steps after telling reporters he believed the killing in Iran was “significant.”",
           "versions": [
             {
               "political": "left",
@@ -196,63 +196,63 @@
               "url": "https://www.huffpost.com/entry/trump-claims-killing-iran-protesters-has-stopped-even-as-tehran-signals-executions-ahead_n_6967fdf4e4b09fa9c7971304"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "US claims Iran halts executions of protesters amid crackdown on dissent",
-              "url": "https://www.france24.com/en/us-claims-iran-halts-executions-of-protesters-amid-crackdown-on-dissent"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Top Iran prayer leader who dubbed protesters 'Trump's soldiers' calls for executions amid ongoing unrest",
+              "url": "https://www.foxnews.com/world/top-iran-prayer-leader-who-dubbed-protesters-trumps-soldiers-calls-executions-amid-ongoing-unrest"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Iran Warns Of Retaliation If Trump Administration Strikes",
-          "neutralSummary": "\"All the signals are that a U.S. attack is imminent, but that is also how this administration behaves to keep everyone on their toes,\" a Western military official told Reuters later on Wednesday.",
+          "neutralHeadline": "Iran's protests wane amid crackdown as US backs off intervention threats",
+          "neutralSummary": "The Iranian authorities' crackdown on nationwide protests has largely quieted the movement for now, residents said, as US President Donand Trump appears to have backed down from his threats of attacking Iran's leadership. Trump claimed on Friday that Iran had called off mass executions, while state",
           "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Iran Warns Of Retaliation If Trump Administration Strikes",
-              "url": "https://www.huffpost.com/entry/iran-warns-retaliation-trump-administration-strikes_n_6967e087e4b0141cc9b1fbde"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "How the Trump administration's threats to Iran are stoking tensions in the region",
-              "url": "https://www.npr.org/2026/01/15/nx-s1-5677278/how-the-trump-administrations-threats-to-iran-are-stoking-tensions-in-the-region"
+              "headline": "Iran's protests appear increasingly smothered after a deadly crackdown",
+              "url": "https://www.npr.org/2026/01/15/nx-s1-5678539/iran-protests-trump"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Iran's protests wane amid crackdown as US backs off intervention threats",
+              "url": "https://www.france24.com/en/asia-pacific/20260116-iran-protests-wane-amid-crackdown-us-backs-off-intervention-threats"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Four Arab states urged against US-Iran escalation, official says",
-          "neutralSummary": "Four Arab states urged against US-Iran escalation, official says&nbsp;&nbsp;ReutersIsrael and Arab Nations Ask Trump to Refrain From Attacking Iran&nbsp;&nbsp;The New York TimesThe Latest: Middle East allies urge Trump to hold off on Iran strikes, diplomat says&nbsp;&nbsp;The Washington PostTrump sa",
+          "neutralHeadline": "US says Canada will regret decision to allow Chinese EVs into their market",
+          "neutralSummary": "US says Canada will regret decision to allow Chinese EVs into their market&nbsp;&nbsp;ReutersMark Carney in China positions Canada for ‘the world as it is, not as we wish it’&nbsp;&nbsp;The GuardianSchatz says US ‘absolutely rolled’ by China-Canada trade deal&nbsp;&nbsp;The HillCanada, China cut tar",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Iran Warned Regional States Of Strikes On U.S. Bases If Attacked, Official Says",
-              "url": "https://www.huffpost.com/entry/iran-delivers-warning-to-us-middle-east-allies_n_69676bbee4b0d5c7db78bd37"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Reuters",
               "initials": "R",
               "domain": "news.google.com",
-              "headline": "Four Arab states urged against US-Iran escalation, official says",
-              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZzlCcGdvQ3ZKRTluM0RzU1lrN2NSQnNqQUtTcTZRbWdiaFZsS1ZCNU9zUDJkSXdFMmZCTUJiYzdZcGJrSFVzWUlwOHk5c1l6QUUtRlVJOW5vbVFvN2lxVlVWdUszQmVjODNmYkJXSEU3eERMOWRzOWo3NjJGMlNjRVNkQVlheTBzQ1JNeFNMd1hzWEFwRUROOXlGQjJiVmVNOTNFenVYRkRaYnlhTWxJUmwxa3daLTFVZmQtU2ljQQ?oc=5"
+              "headline": "US says Canada will regret decision to allow Chinese EVs into their market",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGxiTkRkODRwSjFnOXdjenFTRW5VMTk2QWZfTHgteHBsbGdBRi16Qy1mOTFhY2p4MGdmRVVMT3FDaEoteG5VZW9odFFKQmp2NUt2a0VFaGhzVWFwai1scjZrdC1NMjFReVo4a0ROU3JSemZBUi1iVjdUcERUaXpKUEcycm5IU2lpd1FtSEswNEFIOVhWWk5BLUJDcXBBWk5IamVLOFAxSEhuSlhxcWJtWWs1UEpvTlNxbUNrb19FUUVlRFBDOEhPRDNvV3o?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "US says Canada will regret decision to allow Chinese EVs into their market",
+              "url": "https://www.aljazeera.com/economy/2026/1/16/us-says-canada-will-regret-decision-to-allow-chinese-evs-into-their-market?traffic_source=rss"
             }
           ]
         }
@@ -263,9 +263,27 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Machado gave her Peace Prize to Trump. Can a Nobel be gifted?",
-          "neutralSummary": "President Trump said it was “wonderful gesture of mutual respect.” The Nobel Committee said the medal can change hands, but “the title of a Nobel Peace Prize laureate cannot.”",
+          "neutralHeadline": "Nobel Prize committee says Machado decision to give Trump award doesn’t change who won",
+          "neutralSummary": "The committee that awards the Nobel Prize said Friday that the physical symbols of the prize — a medal and diploma — can be given away, but the honor itself is “inseparably linked” to the winner. &#160; “The medal and the diploma are the physical symbols confirming that an individual or organisation",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "'Appease Prize': Critics Stunned By Venezuela's Machado Nobel Handoff To Trump",
+              "url": "https://www.huffpost.com/entry/maria-corina-machado-presented-nobel-peace-prize-trump-reactions_n_69697dd0e4b0774cc19f8eb5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Has Machado’s Nobel Prize, but Neither Got What They Really Wanted",
+              "url": "https://www.nytimes.com/2026/01/16/us/politics/trump-machado-nobel-prize.html"
+            },
             {
               "political": "left",
               "tone": "neutral",
@@ -276,63 +294,13 @@
               "url": "https://www.washingtonpost.com/politics/2026/01/16/us-trump-venezuela-machado-nobel-peace-prize-gift/"
             },
             {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Venezuelan opposition leader María Corina Machado reveals why she gave Trump her Nobel Peace Prize medal",
-              "url": "https://nypost.com/2026/01/16/us-news/venezuelan-opposition-leader-maria-corina-machado-reveals-why-she-gave-trump-her-nobel-peace-prize-medal/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Trump Ends Up With Nobel After All As Venezuela’s Machado Gifts Prize At White House",
-              "url": "https://www.dailywire.com/news/trump-ends-up-with-nobel-after-all-as-venezuelas-machado-gifts-prize-at-white-house"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Former Senator Kyrsten Sinema Accused of Affair With Member of Security Team",
-          "neutralSummary": "In a lawsuit, the ex-wife of Ms. Sinema’s onetime staff member accused her of showering him with gifts and breaking up their marriage.",
-          "versions": [
-            {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Former Senator Kyrsten Sinema Accused of Affair With Member of Security Team",
-              "url": "https://www.nytimes.com/2026/01/15/us/politics/kyrsten-sinema-affair-lawsuit.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Kyrsten Sinema Sued By Ex-Wife Of Security Guard, Alleging Affair",
-              "url": "https://www.dailywire.com/news/kyrsten-sinema-sued-by-ex-wife-of-security-guard-alleging-affair"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "GOP senators try to talk Trump down from invoking Insurrection Act in Minneapolis",
-          "neutralSummary": "Republican senators are trying to put the brakes on talk of invoking the Insurrection Act to quell angry protests against immigration officers in Minneapolis after one fatally shot a 37-year-old mother of three, Renee Good. Invoking the law, which was last updated in 1874, would allow President Trum",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Can Trump send soldiers to Minneapolis?",
-              "url": "https://www.vox.com/today-explained-newsletter/475388/insurrection-act-minneapolis-protests-trump"
+              "source": "CNN",
+              "initials": "CNN",
+              "domain": "news.google.com",
+              "headline": "Why Trump accepting Machado’s Nobel Peace Prize is no laughing matter",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fUUJMbjZ5N0xJRUluNHpLb2ZtWjJrSTdHbHozOFV4RHVYUmtncXFZVUlqeGlUWUo1X2tMOXprQldhWDEtanNTLU5FTEJORDROSWVVc0ZrbmtvT0JqLTFqV0tUMWpkRlNDZEU3NklzS2dyMVJreE9yQkU4Yw?oc=5"
             },
             {
               "political": "center",
@@ -340,16 +308,25 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "GOP senators try to talk Trump down from invoking Insurrection Act in Minneapolis",
-              "url": "https://thehill.com/homenews/senate/5692084-gop-senators-trump-insurrection-act-minneapolis/"
+              "headline": "Nobel Prize committee says Machado decision to give Trump award doesn’t change who won",
+              "url": "https://thehill.com/policy/international/5693556-nobel-prize-medal-ownership/"
             }
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "Trump threatens military action in Minneapolis. And, inside his healthcare plan",
-          "neutralSummary": "President Trump threatens to invoke the Insurrection Act in Minnesota to stop protests happening in Minneapolis. And, the president unveils what he calls a new healthcare plan.",
+          "id": "us-2",
+          "neutralHeadline": "What the ‘Federal Invasion’ of Minneapolis Looks Like on the Ground: Photos",
+          "neutralSummary": "What the ‘Federal Invasion’ of Minneapolis Looks Like on the Ground: Photos&nbsp;&nbsp;Talking Points MemoTrump’s Fight With Minnesota Is About More Than Immigration&nbsp;&nbsp;The New York TimesICE in Minnesota: Lawmakers hold field hearing on Trump's immigration actions in MN&nbsp;&nbsp;FOX 9 Minn",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Inside The Invasion Of Minneapolis",
+              "url": "https://www.huffpost.com/entry/minneapolis-trump-ice-local-resistance_n_6966ad39e4b0dd199b1aa10d"
+            },
             {
               "political": "left",
               "tone": "neutral",
@@ -360,36 +337,54 @@
               "url": "https://www.npr.org/2026/01/16/g-s1-106275/up-first-newsletter-minneapolis-protests-venezuela-opposition-trump-health-care-plan"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
+              "source": "Talking Points Memo",
+              "initials": "TP",
               "domain": "news.google.com",
-              "headline": "‘Absolutely no detail’: experts alarmed as Trump unveils healthcare plan",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGs2OVdZbGZvXzRCbUZjUGZqTEptbUkyMkpCY2tLN2Mwa0loSUViMlA2NFJJSUFhVG1NcmtUQ0tKLUUya2hfVm16TFg4WDlseDJPV2s5cTVyaTBxTmV4elhWOERwMTZNSFo2MnFuTzZnbWF3SmtQcGJIU2ZmYmI2NlR6c1FEb2dn?oc=5"
+              "headline": "What the ‘Federal Invasion’ of Minneapolis Looks Like on the Ground: Photos",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHZjd0U5bVlRLWtVa1pYUlFOc3Rnbkc1cmpfT1d6R2wwXzVEVDN0LXRCVmNrSG1xZy1XYTlBMGZCRHlTNmFjYmNYSmlOY3NwblR2WGJKUkwzbjdpeHgwR0JNS1BIbWR6blJ1RVBXVHVCYS0xaFp6M05GWmhZcmZhY1lMSXFCbkxWdWtYcXJ5aWh0RE1PWVRFbi1RdmpRR0d2OUZzT3RkLUhxX2ZPVlVV?oc=5"
             }
           ]
         },
         {
-          "id": "us-5",
-          "neutralHeadline": "With limited political power, Minnesota Democrats navigate resistance to Trump",
-          "neutralSummary": "From public pleas to lawsuits, Minnesota's Democratic leaders are trying to stop the surge of federal agents on their streets.",
+          "id": "us-3",
+          "neutralHeadline": "Rick Caruso Will Not Run for L.A. Mayor or California Governor in 2026",
+          "neutralSummary": "Mr. Caruso had the potential to shake up the contests for Los Angeles mayor or California governor.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "With limited political power, Minnesota Democrats navigate resistance to Trump",
-              "url": "https://www.npr.org/2026/01/16/nx-s1-5678565/immigration-minnesota-democrats-navigate-resistance-to-trump"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Rick Caruso Will Not Run for L.A. Mayor or California Governor in 2026",
+              "url": "https://www.nytimes.com/2026/01/16/us/rick-caruso-mayor-governor-california.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Billionaire developer Rick Caruso won’t run for California governor or LA mayor",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRUxMRnVDdEdJazUzVHducllfUHE3YlYtWDhTcVhjUzhFVnpjb3N2UVVKc3NsVEtXdEpTSDZFVUJMZU1kUmJQZGdTLXBZTXYweU9jMkpkNmRFbThKY29pM2F1NUtxN2EwUnJqVTM2a0k2RjdIdTBtMW9Rbk9aV2RTUzJac21fVjBCMmlSVUxnbGw5WWc?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Rick Caruso will not run for Calif. gov. or LA mayor: ‘extremely toxic time in politics’",
+              "url": "https://nypost.com/2026/01/16/us-news/rick-caruso-will-not-run-for-calif-gov-or-la-mayor/"
             }
           ]
         },
         {
-          "id": "us-6",
-          "neutralHeadline": "Noem names Charles Wall ICE deputy director following Sheahan resignation",
-          "neutralSummary": "ICE veteran Charles Wall takes deputy director role under Trump administration, replacing Madison Sheahan who stepped down Thursday to pursue a run for Congress.",
+          "id": "us-4",
+          "neutralHeadline": "Federal prosecutors open investigation into Walz, Frey over alleged impeding of law enforcement",
+          "neutralSummary": "Federal prosecutors are investigating Minnesota Gov. Tim Walz and Minneapolis Mayor Jacob Frey for allegedly impeding law enforcement during ICE operations.",
           "versions": [
             {
               "political": "right",
@@ -397,58 +392,17 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Noem names Charles Wall ICE deputy director following Sheahan resignation",
-              "url": "https://www.foxnews.com/politics/noem-names-charles-wall-ice-deputy-director-following-sheahan-resignation"
+              "headline": "Federal prosecutors open investigation into Walz, Frey over alleged impeding of law enforcement",
+              "url": "https://www.foxnews.com/politics/federal-prosecutors-open-investigation-walz-frey-over-alleged-impeding-law-enforcement"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Noem names Charles Wall ICE deputy director following Sheahan resignation",
-              "url": "https://nypost.com/2026/01/16/us-news/charles-wall-named-ice-deputy-director-after-sheahan-resignation/"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Violent Latin Kings gangbanger allegedly stole body armor, weapons from FBI during Minneapolis protests: AG",
-          "neutralSummary": "\"He allegedly stole FBI body armor and weaponry, in addition to a long list of prior violent crimes,\" AG Pam Bondi said in an X post, without naming him.",
-          "versions": [
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Violent Latin Kings gangbanger allegedly stole body armor, weapons from FBI during Minneapolis protests: AG",
-              "url": "https://nypost.com/2026/01/16/us-news/latin-kings-gangbanger-allegedly-stole-body-armor-weapons-from-fbi-during-minneapolis-protests/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "LIVE UPDATES: DOJ Nabs Latin Kings Member Who Stole FBI Weapon, Body Armor In Minneapolis",
-              "url": "https://www.dailywire.com/news/live-updates-ice-agent-fatally-shoots-agitator-as-chaos-erupts-in-minneapolis"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Democrats — the party of lawbreaking",
-          "neutralSummary": "Minnesota’s Democratic politicians have lost touch with reality — hardly surprising when their heads are lodged in a fundamentally dark place. Despite strong political competition to say the most clueless and incendiary things, Minneapolis Mayor Jacob Frey and Gov. Tim Walz (D-MN) might already have",
-          "versions": [
-            {
-              "political": "right",
-              "tone": "optimistic",
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Democrats — the party of lawbreaking",
-              "url": "https://www.washingtonexaminer.com/magazine/magazine-letter-from-the-editor/4420818/democrats-party-of-lawbreaking-ice-minnesota/"
+              "headline": "Tim Walz and Jacob Frey under criminal investigation by DOJ",
+              "url": "https://www.washingtonexaminer.com/news/justice/4422769/tim-walz-jacob-frey-under-criminal-investigation-doj/"
             },
             {
               "political": "right",
@@ -456,15 +410,15 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Democrats: ICE Is Just Like The Ayatollahs",
-              "url": "https://www.dailywire.com/news/democrats-ice-is-just-like-the-ayatollahs"
+              "headline": "DOJ Opens Investigation Into Tim Walz, Jacob Frey Over Suspected Conspiracy To Impede Federal Agents",
+              "url": "https://www.dailywire.com/news/doj-opens-investigation-into-tim-walz-jacob-frey-over-suspected-conspiracy-to-impede-federal-agents"
             }
           ]
         },
         {
-          "id": "us-9",
-          "neutralHeadline": "Appeals Court Reverses Decision That Freed Pro-Palestinian Activist Mahmoud Khalil",
-          "neutralSummary": "The move brings the Columbia University graduate closer to potential deportation.",
+          "id": "us-5",
+          "neutralHeadline": "Venezuelan Opposition Leader Says She Presented Her Nobel Peace Prize To Trump",
+          "neutralSummary": "Maria Corina Machado gave Trump her Nobel as part of a high-stakes charm offensive.",
           "versions": [
             {
               "political": "left",
@@ -472,8 +426,117 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Appeals Court Reverses Decision That Freed Pro-Palestinian Activist Mahmoud Khalil",
-              "url": "https://www.huffpost.com/entry/mahmoud-khalil-appeal-palestine-detention_n_6969072ee4b09fa9c797b0c1"
+              "headline": "Venezuelan Opposition Leader Says She Presented Her Nobel Peace Prize To Trump",
+              "url": "https://www.huffpost.com/entry/trump-nobel-prize-maria-corina-machado_n_69696264e4b00edae2a418cc"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Venezuelan Opposition Leader Says Next Steps Have To Address ‘The Cartel And Justice’",
+              "url": "https://www.dailywire.com/news/venezuelan-opposition-leader-says-next-steps-have-to-address-the-cartel-and-justice"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Trump is waffling on Iran strikes. Here are four possible reasons why.",
+          "neutralSummary": "Is help really “on its way” for Iran’s protesters? That’s what President Donald Trump promised in a Truth Social post earlier this week, adding that “Iranians Patriots” should “KEEP PROTESTING &#8211; TAKE OVER YOUR INSTITUTIONS!!!” Trump first threatened that the US was “locked and loaded” to launc",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Trump is waffling on Iran strikes. Here are four possible reasons why.",
+              "url": "https://www.vox.com/politics/475486/trump-iran-intervention-syria-libya-iraq"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump credits halted Iran executions for delaying military strikes",
+              "url": "https://www.foxnews.com/politics/trump-credits-halted-iran-executions-holding-off-military-strikes"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Federal judge bars ICE from retaliating against protesters in Minnesota",
+          "neutralSummary": "Federal judge bars ICE from retaliating against protesters in Minnesota&nbsp;&nbsp;AxiosJudge Restricts Immigration Agents’ Actions Toward Minnesota Protesters&nbsp;&nbsp;The New York TimesJudge limits ICE’s crowd control tactics following Minneapolis shooting&nbsp;&nbsp;PoliticoMinneapolis judge ba",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "What 3,000 federal agents are doing in Minnesota",
+              "url": "https://www.vox.com/the-logoff-newsletter-trump/475412/minneapolis-minnesota-ice-immigration-agents-violence-insurrection-act"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Axios",
+              "initials": "AX",
+              "domain": "news.google.com",
+              "headline": "Federal judge bars ICE from retaliating against protesters in Minnesota",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR1VjMmFzTER3UUh0ZTZwYUNnVng1XzBQdkZneXFhMXQyN0ZSQ3cyTnd4cDEzQkoybU13QllYcTlna25pOTh2RWdfN052bHpSd1pqbEJjYmNJWnRtelNvZXdhV3Uya1l0U0ZqSTRlYmNQUXVNZEw3MG5CSUtUY1A4WFc0dUZRUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Judge Restricts Immigration Agents’ Actions Toward Minnesota Protesters",
+          "neutralSummary": "A federal judge ordered agents not to retaliate against people “engaging in peaceful and unobstructive protest activity” in the state and not to stop drivers who are not “forcibly obstructing” officers.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Judge Restricts Immigration Agents’ Actions Toward Minnesota Protesters",
+              "url": "https://www.nytimes.com/2026/01/16/us/minnesota-ice-immigration-agents-protests.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Minneapolis judge bars DHS agents from arresting peaceful protesters",
+              "url": "https://www.washingtonpost.com/nation/2026/01/16/minneapolis-ice-protester-arrests-judge/"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Gaza ‘Board of Peace’ announced: Witkoff, Kushner among members",
+          "neutralSummary": "The White House announced Friday the composition of the “Board of Peace” tasked with implementing President Trump’s 20-point peace plan and steering Gaza’s postwar reconstruction.  The body, headed by Trump, will also include three of his closest diplomatic advisers — Secretary of State Marco Rubio,",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Announces Members for Gaza ‘Board of Peace,’ Including Rubio and Kushner",
+              "url": "https://www.nytimes.com/2026/01/16/us/politics/trump-gaza-board-peace-kushner.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Gaza ‘Board of Peace’ announced: Witkoff, Kushner among members",
+              "url": "https://thehill.com/policy/international/5693615-gaza-board-of-peace-members/"
             }
           ]
         }
@@ -484,8 +547,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "60 pupils from River Valley Primary School down with suspected food poisoning",
-          "neutralSummary": "Most of them were back in school two days later, except for four children still recovering at home.",
+          "neutralHeadline": "Extra safeguards for more sensitive medical info like mental health conditions: MOH",
+          "neutralSummary": "The additional protections include mandating a double login and closer scrutiny in audits.",
           "versions": [
             {
               "political": "center",
@@ -493,38 +556,13 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "60 pupils from River Valley Primary School down with suspected food poisoning",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/60-pupils-from-river-valley-primary-school-come-down-with-suspected-food-poisoning"
+              "headline": "Extra safeguards for more sensitive medical info like mental health conditions: MOH",
+              "url": "https://www.straitstimes.com/singapore/health/added-safeguards-for-medical-records-that-are-more-sensitive-such-as-mental-health-conditions-moh"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Catholic Junior College to move to new site near Punggol Digital District in 2034",
-          "neutralSummary": "The lease for its current Whitley Road site expires in August 2029 but it will be extended until the move takes place.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Catholic Junior College to move to new site near Punggol Digital District in 2034",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/catholic-junior-college-to-move-to-new-site-near-punggol-digital-district-in-2034"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Catholic Junior College to move to Punggol, operations tentatively targeted to start in 2034",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTBQZEtEMG9IMTJoRXY0Vld2dGoxUzlsbWVEVWRCNVFNU0xCRjFOMXJvU0VKZjY0X1kyQjU3Z2Jyal9ubkRDX2hPcEk4NmNuYVNoTEF0alN6WVVqbUQ1ZEd2MHJGZWt2bGxISEJiUzExQmc1OVl0UF8tcmRUdTdPZ2J5UmVJaU1NNWI5SUJMS2hueXpYNTI5NzlEVQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
           "neutralHeadline": "She asked the internet for help with slaughtering two pigs. Thousands turned up in support",
           "neutralSummary": "Responding to a social media post, thousands turned up at a village home in Chongqing to help an elderly man tasked with slaughtering the family pigs for Chinese New Year.",
           "versions": [
@@ -549,7 +587,7 @@
           ]
         },
         {
-          "id": "singapore-4",
+          "id": "singapore-3",
           "neutralHeadline": "South Korea's impeached leader Yoon sentenced to 5 years' jail in first martial law verdict",
           "neutralSummary": "This comes days after prosecutors in a separate case demanded Yoon be sentenced to death for his role as the \"ringleader of an insurrection\".",
           "versions": [
@@ -574,23 +612,7 @@
           ]
         },
         {
-          "id": "singapore-5",
-          "neutralHeadline": "Grok AI misuse: Victims in Indonesia, Malaysia 'angry' and 'humiliated', but is banning the tool enough?",
-          "neutralSummary": "Victims and experts say there is a need for stronger safeguards, clearer regulations and accountability.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Grok AI misuse: Victims in Indonesia, Malaysia 'angry' and 'humiliated', but is banning the tool enough?",
-              "url": "https://www.channelnewsasia.com/asia/grok-ai-ban-indonesia-malaysia-victims-explicit-ai-images-southeast-asia-bikini-sexualised-5863151"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
+          "id": "singapore-4",
           "neutralHeadline": "As it happened: South Korea's ex-president Yoon to appeal court ruling over martial law bid",
           "neutralSummary": "The verdict is the first against Yoon in the eight criminal trials over the decree he issued in late 2024 and other allegations.",
           "versions": [
@@ -606,9 +628,34 @@
           ]
         },
         {
-          "id": "singapore-7",
-          "neutralHeadline": "16 weeks’ jail for man who smuggled 5 Pomeranian puppies from Malaysia into S’pore in car boot",
-          "neutralSummary": "Bryan Peh Jia Hao was paid $250 to $300 for each dog he smuggled into Singapore.",
+          "id": "singapore-5",
+          "neutralHeadline": "News analysis: Should the position of Leader of the Opposition be institutionalised?",
+          "neutralSummary": "News analysis: Should the position of Leader of the Opposition be institutionalised?&nbsp;&nbsp;CNA",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "News analysis: Should the position of Leader of the Opposition be institutionalised?",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVhCaHVHZWcwNFlZZmZydTJfLVpoTFM3VndXSTNVNC1XZTFpU1RtWm5SWVFHUjFSS3AtWFJUOGlQbmxMck9VVThRbXc0c1dJUlpFYWd3RnpDZjM4MXVBcmNadGR6THFvTWZYNkFXMGFBT05WLW1wZUdSR2FaUnJDS0wtRTlmS0wzb1dHOVFaeW82ZHkzNUFreWpnVkNkM1NBNUdqeXd3?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Who is Pritam Singh, Singapore's former Leader of the Opposition?",
+              "url": "https://www.bbc.com/news/articles/ckgly7gj186o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Union urges public from shaming individuals after incident between passenger, SBS Transit bus captain",
+          "neutralSummary": "SBS Transit and NTWU have acknowledged that the driver's remarks were inappropriate.",
           "versions": [
             {
               "political": "center",
@@ -616,31 +663,47 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "16 weeks’ jail for man who smuggled 5 Pomeranian puppies from Malaysia into S’pore in car boot",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/16-weeks-jail-for-man-who-smuggled-5-pomeranian-puppies-from-malaysia-to-spore-in-car-boot"
+              "headline": "Union urges public from shaming individuals after incident between passenger, SBS Transit bus captain",
+              "url": "https://www.straitstimes.com/singapore/union-urges-public-from-shaming-individuals-after-incident-between-passenger-sbs-transit-bus-captain"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "S’pore start-up Strutt unveils voice-controlled autonomous mobility device",
+          "neutralSummary": "Strutt is also working to bring the ev1 to hospitals in Singapore so that patients can use them on-site.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "S’pore start-up Strutt unveils voice-controlled autonomous mobility device",
+              "url": "https://www.straitstimes.com/tech/spore-start-up-strutt-unveils-voice-controlled-autonomous-mobility-device"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Healthcare manpower will be key agenda in coming years: Ong Ye Kung",
-          "neutralSummary": "Singapore’s healthcare manpower must grow by 20% by 2030 to meet healthcare capacity expansion.",
+          "neutralHeadline": "Galloping into the Year of the Horse with fun CNY festivities in Singapore",
+          "neutralSummary": "The Year of the Horse, which begins on Feb 17, is associated with optimism, progress and opportunity.",
           "versions": [
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "optimistic",
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Healthcare manpower will be key agenda in coming years: Ong Ye Kung",
-              "url": "https://www.straitstimes.com/singapore/health/healthcare-manpower-will-be-key-agenda-in-coming-years-ong-ye-kung"
+              "headline": "Galloping into the Year of the Horse with fun CNY festivities in Singapore",
+              "url": "https://www.straitstimes.com/singapore/community/galloping-into-the-year-of-the-horse-with-fun-festivities"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Woman ordered to pay $975k in costs to 2 hospitals after losing suit over amputation of mum’s leg",
-          "neutralSummary": "The judge ordered legal costs on an indemnity basis due to the claimant's unreasonable conduct.",
+          "neutralHeadline": "S’pore study finds new way to disarm antibiotic-resistant bacteria, hasten healing of chronic wounds",
+          "neutralSummary": "The researchers aim to move towards human clinical trials after using ongoing studies in animal models.",
           "versions": [
             {
               "political": "center",
@@ -648,8 +711,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Woman ordered to pay $975k in costs to 2 hospitals after losing suit over amputation of mum’s leg",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/woman-ordered-to-pay-975k-in-costs-to-2-hospitals-after-losing-suit-over-amputation-of-mums-leg"
+              "headline": "S’pore study finds new way to disarm antibiotic-resistant bacteria, hasten healing of chronic wounds",
+              "url": "https://www.straitstimes.com/singapore/health/spore-study-finds-new-way-to-disarm-antibiotic-resistant-bacteria-speed-up-healing-of-chronic-wounds"
             }
           ]
         }
@@ -660,60 +723,33 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Capital chokes: GRAP-III reimposed in Delhi-NCR; air quality likely to turn 'severe'",
-          "neutralSummary": "Delhi-NCR faces renewed pollution crisis as authorities re-implement GRAP-III restrictions. Non-essential construction, demolition, and mining activities are halted. Vehicular curbs target older diesel and petrol models. Essential services and critical projects are exempted, with schools offering hy",
+          "neutralHeadline": "‘Exercise caution’: US FAA warns of ‘potential military activity’ over Mexico, South America",
+          "neutralSummary": "‘Exercise caution’: US FAA warns of ‘potential military activity’ over Mexico, South America",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "GRAP 3 curbs enforced in Delhi-NCR as air quality ‘very poor’; likely to turn 'severe'",
-              "url": "https://www.thehindu.com/news/cities/Delhi/delhi-ncr-grap-3-curbs-aqi-air-pollution-very-poor/article70514989.ece"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "GRAP Stage-III Measures Enforced Across Delhi As Air Quality Worsens",
-              "url": "https://www.ndtv.com/india-news/grap-stage-iii-measures-enforced-across-delhi-as-air-quality-worsens-10764838#publisher=newsstand"
+              "headline": "US Warns Of \"Military Activities\" Over Mexico, Central America",
+              "url": "https://www.ndtv.com/world-news/us-warns-of-military-activities-over-mexico-central-america-10767508#publisher=newsstand"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Capital chokes: GRAP-III reimposed in Delhi-NCR; air quality likely to turn 'severe'",
-              "url": "https://timesofindia.indiatimes.com/india/capital-chokes-grap-iii-reimposed-in-delhi-ncr-air-quality-likely-to-turn-severe/articleshow/126568498.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "GRAP-3 curbs in Delhi-NCR as air quality in 'very poor' category",
-              "url": "https://www.hindustantimes.com/india-news/grap-stage-3-measures-invoked-across-delhi-ncr-as-aqi-in-very-poor-category-101768566831212.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "GRAP III curbs in Delhi as air quality turns ‘severe’",
-              "url": "https://economictimes.indiatimes.com/news/india/grap-stage-iii-curbs-in-delhi-ncr-as-air-quality-turns-severe-whats-allowed-whats-not/articleshow/126567842.cms"
+              "headline": "‘Exercise caution’: US FAA warns of ‘potential military activity’ over Mexico, South America",
+              "url": "https://timesofindia.indiatimes.com/world/us/exercise-caution-us-faa-warns-of-potential-military-activity-over-central-south-america-gives-notice-for-60-days/articleshow/126594555.cms"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Mumbai BMC election results 2026: Uddhav Thackeray's Shiv Sena's 30-year control collapses",
-          "neutralSummary": "Early trends indicate the Mahayuti alliance, led by BJP and Eknath Shinde's Shiv Sena, is poised to end the Shiv Sena (UBT)'s 30-year dominance in the BMC. The alliance is leading in over 110 wards, with BJP showing significant strength. Similar trends are observed in Pune, where BJP is displacing t",
+          "neutralHeadline": "Nile water sharing dispute: Trump offers to mediate Egypt-Ethiopia fallout",
+          "neutralSummary": "Nile water sharing dispute: Trump offers to mediate Egypt-Ethiopia fallout",
           "versions": [
             {
               "political": "left",
@@ -721,8 +757,17 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Uddhav Thackeray's Options After Losing Control Of Richest Civic Body BMC",
-              "url": "https://www.ndtv.com/mumbai-news/uddhav-thackeray-options-after-losing-control-of-richest-civic-body-bmc-10764518#publisher=newsstand"
+              "headline": "Trump Offers Egypt To Mediate On Ethiopia Dam",
+              "url": "https://www.ndtv.com/world-news/trump-offers-egypt-to-mediate-on-ethiopia-dam-10767437#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "‘No country should control the Nile alone’: Donald Trump offers to conduct mediation talks between Egypt and Ethiopia",
+              "url": "https://indianexpress.com/article/world/nile-control-donald-trump-offers-mediation-egypt-and-ethiopia-10478682/"
             },
             {
               "political": "center",
@@ -730,49 +775,40 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Mumbai BMC election results 2026: Uddhav Thackeray's Shiv Sena's 30-year control collapses",
-              "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-bmc-election-results-2026-uddhav-thackerays-shiv-senas-30-year-control-collapses/articleshow/126561576.cms"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Swarajya",
-              "initials": "SWR",
-              "domain": "swarajyamag.com",
-              "headline": "Mumbai: BJP-Led Mahayuti Crosses Majority Mark In BMC Elections, Set To Control India's Richest Civic Body",
-              "url": "https://swarajyamag.com/politics/bjp-led-mahayuti-crosses-halfway-mark-in-mumbais-bmc-elections-as-thackeray-alliance-trails-behind"
+              "headline": "Nile water sharing dispute: Trump offers to mediate Egypt-Ethiopia fallout",
+              "url": "https://timesofindia.indiatimes.com/world/us/nile-water-sharing-dispute-trump-offers-to-mediate-egypt-ethiopia-fallout-writes-to-al-sisi/articleshow/126599922.cms"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Maharashtra civic polls record 54.77% turnout; BJP, Shiv Sena (UBT) lead in key corporations",
-          "neutralSummary": "BJP emerges as largest party in Mumbai as counting continues across 29 municipal bodies",
+          "neutralHeadline": "'Bad situation': Several Indians return from Iran amid deadly protests",
+          "neutralSummary": "'Bad situation': Several Indians return from Iran amid deadly protests",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Maharashtra civic polls record 54.77% turnout; BJP, Shiv Sena (UBT) lead in key corporations",
-              "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-civic-polls-record-5477-turnout-bjp-shiv-sena-ubt-lead-in-key-corporations/article70514652.ece"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Bad situation': Several Indians return from Iran amid deadly protests",
+              "url": "https://timesofindia.indiatimes.com/india/bad-situation-several-indians-return-from-iran-amid-deadly-protests-reunite-with-families-in-delhi/articleshow/126593179.cms"
             },
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Maharashtra civic polls: Sena UBT trumps Shiv Sena in Deputy CM Eknath Shinde’s backyard in Thane",
-              "url": "https://indianexpress.com/article/cities/mumbai/maharashtra-civic-polls-sena-ubt-trumps-shiv-sena-thane-10477984/"
+              "tone": "pessimistic",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Iran protests ‘subside’ after deadly crackdown; state media says 3,000 arrested",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVFR0T1FoRDAxb1pvQ1ZWV0tWU1BBT2ItUm9xMzd3ejJ3N2lhV0hTY2xfMnd3VU0wdnNMZzlRZm9PdUNEanhQYVNvdVQyUEc5YnFVNm5hSWgyX3RmMjlSYURPbmE2eW1leW1UT1hNdU9hX1NMck9VTjVEVHpnSjNuSzBUd0VRWURNb2JJWHVtY3NGYVFTNHcyaWdVek41Tzk3ZUdWaHJtSnZ1Wlo2Sm9sOEJseXlUUUdveG1WRUU4V0hKZUNqdVZvZnZmWVFFNDVWWEJR0gHaAUFVX3lxTFBkc1VkeGpCV2RuUW1yWXJ1cHhEY3BXVXVrRnhtd2tjWUtyYm9ZbHRTZmtza29IdUIxdlFISE5EWHdmVG95czlZbFhOTXUyRTdLUGNyRG1jRENNOWVrOFNacTROZGZOWHNNcmpDRTRTeUJROU5LR3hEbVdhLXhhWHhFN1pTT2VZdlcya3FGOHI5WHhUSTFoeFpBVWcxUE5BcHR6YW1ad2dweTd5cHpJVHhNTVpqcVI3M3Y4cld5MFNRalg4SXJ4OGtDQWV2MmtzZGVFZUV0MEw1MEd3?oc=5"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "Nearly 44,000 startups registered in 2025, highest since the launch of Startup India: PM Modi",
-          "neutralSummary": "The Prime Minister, speaking on the 10th anniversary of Startup India, said that there are now more than 2 lakh startups across the country and around 125 unicorns.",
+          "neutralHeadline": "CBI books former Punjab & Sind Bank branch heads in ₹1,621 crore mule account scam",
+          "neutralSummary": "The agency found that several individuals arranged forged and fabricated KYC documents, false rent agreements, and other fabricated supporting documents used for opening these accounts.",
           "versions": [
             {
               "political": "left",
@@ -780,15 +816,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Nearly 44,000 startups registered in 2025, highest since the launch of Startup India: PM Modi",
-              "url": "https://www.thehindu.com/news/national/nearly-44000-startups-registered-in-2025-highest-since-the-launch-of-startup-india-pm-modi/article70514683.ece"
+              "headline": "CBI books former Punjab & Sind Bank branch heads in ₹1,621 crore mule account scam",
+              "url": "https://www.thehindu.com/news/national/cbi-books-former-punjab-sind-bank-branch-heads-in-1621-crore-mule-account-scam/article70517424.ece"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "ED files chargesheet against Al Falah chairman",
-          "neutralSummary": "ED files chargesheet against Al Falah chairman",
+          "neutralHeadline": "14,000 Buses, 36,000 EV Chargers: Delhi's 4-Year Pollution Plan",
+          "neutralSummary": "Chief Minister Rekha Gupta during a high-level review meeting at the Delhi Secretariat, Friday.",
           "versions": [
             {
               "political": "left",
@@ -796,24 +832,24 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Probe Agency ED Files Chargesheet In Al Falah Money Laundering Case",
-              "url": "https://www.ndtv.com/india-news/probe-agency-ed-files-chargesheet-in-al-falah-money-laundering-case-10764782#publisher=newsstand"
+              "headline": "14,000 Buses, 36,000 EV Chargers: Delhi's 4-Year Pollution Plan",
+              "url": "https://www.ndtv.com/delhi-news/14-000-buses-36-000-ev-chargers-delhis-4-year-pollution-plan-10767529#publisher=newsstand"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "ED files chargesheet against Al Falah chairman",
-              "url": "https://economictimes.indiatimes.com/news/india/ed-files-chargesheet-against-al-falah-group-chairman-charitable-trust-in-money-laundering-case/articleshow/126568396.cms"
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "More buses, upgrading roads: Govt plan to curb pollution in four years in Delhi",
+              "url": "https://indianexpress.com/article/cities/delhi/buses-upgrading-roads-govt-plan-pollution-10478730/"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "NDTV Special: A Sneak Peek Inside India's First Vande Bharat Sleeper Trains",
-          "neutralSummary": "The debut route of this premier service will cover a distance of approximately 1,000 km.",
+          "neutralHeadline": "India-Japan talks focus on bolstering critical minerals, AI and defence ties",
+          "neutralSummary": "India and Japan announced new collaborations in critical minerals, AI, and defense to enhance economic security during a strategic dialogue in Tokyo",
           "versions": [
             {
               "political": "left",
@@ -821,92 +857,65 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "NDTV Special: A Sneak Peek Inside India's First Vande Bharat Sleeper Trains",
-              "url": "https://www.ndtv.com/india-news/high-speed-local-menu-peek-inside-indias-1st-vande-bharat-sleeper-trains-10762981#publisher=newsstand"
+              "headline": "India, Japan Launch AI Dialogue, Joint Working Group On Critical Minerals",
+              "url": "https://www.ndtv.com/world-news/india-japan-launch-ai-dialogue-joint-working-group-on-critical-minerals-10767495#publisher=newsstand"
             },
             {
-              "political": "right",
+              "political": "center",
               "tone": "neutral",
-              "source": "Swarajya",
-              "initials": "SWR",
-              "domain": "swarajyamag.com",
-              "headline": "Vande Bharat Sleeper Train Project: BHEL Begins Supply Of Key Propulsion Equipment For India's New Long-Distance Semi-High Speed Trains",
-              "url": "https://swarajyamag.com/infrastructure/vande-bharat-sleeper-train-project-bhel-begins-supply-of-key-propulsion-equipment-for-indias-new-long-distance-semi-high-speed-trains"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "India-Japan talks focus on bolstering critical minerals, AI and defence ties",
+              "url": "https://www.hindustantimes.com/india-news/indiajapan-talks-focus-on-bolstering-critical-minerals-ai-and-defence-ties-101768592878293.html"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Just days after Elon Musk said will ask for full custody; mother of his son Ashley St Clair files lawsuit",
-          "neutralSummary": "Just days after Elon Musk said will ask for full custody; mother of his son Ashley St Clair files lawsuit&nbsp;&nbsp;Times of IndiaMother of one of Elon Musk’s sons sues over Grok-generated explicit images&nbsp;&nbsp;The GuardianElon Musk’s xAI sued for generating sexual deepfakes: Reports&nbsp;&nbs",
+          "neutralHeadline": "AIMIM invites applications from candidates for upcoming municipal polls",
+          "neutralSummary": "Application forms are available for downloading from the party’s official Facebook page. They should be submitted, duly filled, along with a non-refundable demand draft of ₹3,000 drawn in favour of the party.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Who is Ashley St. Clair, the mother of one of Elon Musk’s sons suing Grok?",
-              "url": "https://indianexpress.com/article/world/elon-musk-xai-grok-ashley-st-clair-lawsuit-deepfake-images-10477678/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "Just days after Elon Musk said will ask for full custody; mother of his son Ashley St Clair files lawsuit",
-              "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNZVlkeUtUajBoczFXc2s3aUJzdXNDODR1NGxGTnVwWGVTTzV1QnBFcFBkc0ZBdlpsUF9QbWFPRWRFVmRaaWJPTG1DMldXNnpwdks0LXhYeW9XbTlZQnVNNnpWbWwwMDlBRnJJZ3ZzRlZpODlmbHpzM3R5N2R5S3JQS1dQSjdpaFRDNkh3TjJJa3dRQ0llRzdpOHlodE82WkNsNXlDRG1WVHhIYThNdzI3aWtDYTdJZjR3cDlhdHNZbml1UWR2OG9leEN2RFVTYjdULXJSUFVVYXZVeDFUamRHZDdjLTNBNm5JZHZVNGVjRF9CNVFDRkhXem9Hb0owME1Cd2w1cmFyeVVNSzBYdUJWWVQ3eU1RdnRDdVpSUDRJaDU4TDBoMGhzQWxSeVByQkwxZXB1bnN1THlFd9IBvwJBVV95cUxPdUZhU3k1dFF5Um03ZzdwdDRaRDJQamY5Z1B3RUpsUWxkUldxcVVLcVJCZWxBLXpNQTkxQURsaGtQZjZjUVg4REY4ckJQMmFZSXhCLVlvRDd5MEQzcjZSbXVOS19DZTlES1VLX2o2TVdkVGhFN010TzV6ckQwTnVkVGhyNlRMSFZ0OXYybFdoWURsWDlXWmZ3VXZMUEZNaHRyV1IwUzFTVDNCS1VvYzN2NmNadnExTWtyYXA3WGRtYkJsRUZZMmwzS0RUWnlMY2hWcUY3RVN2VWtTZGFxTGNXOFFoUzFGUHZBS0xKdkQzWm9Md0lpUkxtVGVIU3BhYXFhUF9MVGdlMFJoR0tCUTJhQ3o5R08wTFVJcUh3N2ZSbWRtY1ZXNGhuLVdkQVFFV25lZjFpTEZOYnJ5VnZLX3hj?oc=5"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "AIMIM invites applications from candidates for upcoming municipal polls",
+              "url": "https://www.thehindu.com/news/national/telangana/aimim-invites-applications-from-candidates-for-upcoming-municipal-polls/article70515617.ece"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Shrikant Pangarkar, Gauri Lankesh murder accused, wins in Jalna civic poll as independent",
-          "neutralSummary": "Shrikant Pangarkar’s candidature was announced last week, following which he said that the murder case against him has nothing to do with the election.",
+          "neutralHeadline": "From CITB to BDA, has the agency delivered on its objectives?",
+          "neutralSummary": "In this series, we look at the evolution of the BDA as it turns 50 years old",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Maharashtra municipal corporation polls: Gauri Lankesh murder case accused Shrikant Pangarkar wins from Jalna as Independent",
-              "url": "https://indianexpress.com/article/cities/mumbai/gauri-lankesh-murder-case-accused-shrikant-pangarkar-wins-jalna-independent-10477546/"
-            },
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Shrikant Pangarkar, Gauri Lankesh murder accused, wins in Jalna civic poll as independent",
-              "url": "https://www.hindustantimes.com/india-news/shrikant-pangarkar-gauri-lankesh-murder-accused-wins-in-jalna-civic-poll-independently-101768558166968.html"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "From CITB to BDA, has the agency delivered on its objectives?",
+              "url": "https://www.thehindu.com/news/cities/bangalore/from-citb-to-bda-has-the-agency-delivered-on-its-objectives/article70510426.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Maha civic polls: Mahayuti surge dents Thackeray camps; Cong falters - highlights",
-          "neutralSummary": "The Mahayuti alliance, comprising BJP and Shiv Sena, has secured a dominant performance in Maharashtra's local body elections, leading in key municipal corporations including Mumbai, Pune, and Nagpur. This victory is being hailed as a mandate for Prime Minister Modi's policies and nationalism, with",
+          "neutralHeadline": "Kashmir sees fresh snowfall in higher reaches; tourist rush triggers traffic snarls",
+          "neutralSummary": "This led to traffic jams as many visitors flocked to the resort to enjoy the snow. Numerous vehicles were stranded due to the ongoing snowfall, prompting assistance from police and CRPF personnel, officials added",
           "versions": [
             {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Maha civic polls: Mahayuti surge dents Thackeray camps; Cong falters - highlights",
-              "url": "https://timesofindia.indiatimes.com/india/maharashtra-civic-polls-results-2026-mahayuti-surge-dents-thackeray-camps-congress-falters-key-highlights/articleshow/126563983.cms"
-            },
-            {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Swarajya",
-              "initials": "SWR",
-              "domain": "swarajyamag.com",
-              "headline": "BJP-Led Mahayuti Sweeps Maharashtra Civic Polls, Ends Thackeray Family's 28-Year BMC Dominance",
-              "url": "https://swarajyamag.com/politics/bjp-led-mahayuti-sweeps-maharashtra-civic-polls-ends-thackeray-familys-28-year-bmc-dominance"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Kashmir sees fresh snowfall in higher reaches; tourist rush triggers traffic snarls",
+              "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmir-sees-fresh-snowfall-in-higher-reaches-tourist-rush-triggers-traffic-snarls/article70517427.ece"
             }
           ]
         }
