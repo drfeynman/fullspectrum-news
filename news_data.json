@@ -1,38 +1,72 @@
 {
-  "generatedAt": "2026-01-28T13:52:56.535944+00:00",
+  "generatedAt": "2026-01-29T04:00:21.829402+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Veteran Indian politician Ajit Pawar dies in plane crash",
-          "neutralSummary": "Pawar and four others died after the plane they were travelling in crashed in India's Maharashtra state.",
+          "neutralHeadline": "'Russia exaggerating gains in Ukraine to push for territorial concessions'",
+          "neutralSummary": "Speaking with FRANCE 24's Mark Owen, Christina Harward, Russia Deputy Team Lead at the Institute for the Study of War, says that the 'Russian advances are coming at a literal foot-pace' and 'this is not the picture that the Russians are trying to paint', adding that Russian casualties are astronomic",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Veteran Indian politician Ajit Pawar dies in plane crash",
-              "url": "https://www.bbc.com/news/articles/c98prmd0jl0o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "What we know about plane crash that killed Ajit Pawar",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/1/28/what-we-know-about-plane-crash-that-killed-ajit-pawar?traffic_source=rss"
+              "headline": "Russia-Ukraine war: List of key events, day 1,435",
+              "url": "https://www.aljazeera.com/news/2026/1/29/russia-ukraine-war-list-of-key-events-day-1435?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "'Russia exaggerating gains in Ukraine to push for territorial concessions'",
+              "url": "https://www.france24.com/en/russia-exaggerating-gains-in-ukraine-to-push-for-territorial-concessions"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Combined war casualties for Russia and Ukraine could hit 2 million, new report warns",
+              "url": "https://www.foxnews.com/world/combined-war-casualties-russia-ukraine-could-hit-2-million-new-report-warns"
             }
           ]
         },
         {
           "id": "global-2",
-          "neutralHeadline": "Former French senator found guilty of spiking lawmaker's drink with ecstasy in order to sexually assault her",
-          "neutralSummary": "Former French senator found guilty of spiking lawmaker's drink with ecstasy in order to sexually assault her&nbsp;&nbsp;CBS NewsFormer French Senator Convicted of Drugging a Colleague, Intending to Assault Her&nbsp;&nbsp;The New York TimesHow French ex-senator trial brings national attention to drug",
+          "neutralHeadline": "US intelligence agencies disagree with Trump’s opposition to Chagos deal, says Starmer",
+          "neutralSummary": "Downing Street sources say agreement is ‘done deal’ and will not be scuppered by US president’s U-turnUS intelligence agencies disagree with Donald Trump’s newly found opposition to the Chagos deal, Keir Starmer has said, as he underlined how the US administration had supported the deal as it bolste",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "US intelligence agencies disagree with Trump’s opposition to Chagos deal, says Starmer",
+              "url": "https://www.theguardian.com/world/2026/jan/28/us-intelligence-agencies-disagree-with-trumps-opposition-to-chagos-deal-says-starmer"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "UK reopens Chagos Islands talks with US following Trump criticism of deal: reports",
+              "url": "https://www.foxnews.com/world/uk-reopens-chagos-islands-talks-us-following-trump-criticism-deal-reports"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "US agents involved in fatal shooting of Alex Pretti in Minneapolis placed on leave",
+          "neutralSummary": "Two federal agents involved in the fatal shooting of Minneapolis protester Alex Pretti have been placed on administrative leave, a spokesperson for Customs and Border Patrol confirmed on Wednesday, describing the move as \"standard protocol\". US President Donald Trump earlier suggested he would \"de-e",
           "versions": [
             {
               "political": "left",
@@ -40,8 +74,92 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Former French senator found guilty of drugging MP",
-              "url": "https://www.bbc.com/news/articles/cy8p1mn3j29o?at_medium=RSS&at_campaign=rss"
+              "headline": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
+              "url": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "US agents involved in Alex Pretti’s killing in Minneapolis placed on leave",
+              "url": "https://www.aljazeera.com/news/2026/1/29/us-agents-involved-in-alex-prettis-killing-in-minneapolis-placed-on-leave?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "US agents involved in fatal shooting of Alex Pretti in Minneapolis placed on leave",
+              "url": "https://www.france24.com/en/americas/20260128-us-agents-involved-in-fatal-shooting-of-alex-pretti-in-minneapolis-placed-on-leave"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Panic on crowded Ukraine train - passenger describes moment of Russian drone strike",
+          "neutralSummary": "The BBC speaks to a person who was aboard a train on which five people died after it was targeted by drones.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Panic on crowded Ukraine train - passenger describes moment of Russian drone strike",
+              "url": "https://www.bbc.com/news/articles/cgjwpq4pggjo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Russian drone attack on passenger train is an ‘act of terrorism,’ Zelenskyy says",
+              "url": "https://www.foxnews.com/world/russian-drone-attack-passenger-train-act-terrorism-zelenskyy-says"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Plane crashes in Colombia, killing all 15 on board",
+          "neutralSummary": "State ariline Satena says its aircraft carrying 13 passengers and two crew \"suffered a fatal accident\".",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Plane crashes in Colombia, killing all 15 on board",
+              "url": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Commercial flight vanishes before crashing in Colombia, killing all 15 people on board, including congressman",
+              "url": "https://www.foxnews.com/world/commercial-flight-vanishes-crashing-colombia-killing-15-people-on-board-congressman"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "Are Trump's tariffs fueling a boom in trade deals for China and India?",
+          "neutralSummary": "Are Trump's tariffs fueling a boom in trade deals for China and India?&nbsp;&nbsp;CBS NewsOpinion | On China, Trump Is Rolling the Dice on America’s Future&nbsp;&nbsp;The New York Times'Pivot to China' gathers pace as Starmer lands in Beijing&nbsp;&nbsp;ReutersChina pitches itself as a reliable part",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "U.S. allies looking to China for deals as Trump threats them with tariffs",
+              "url": "https://www.npr.org/2026/01/28/nx-s1-5688905/longtime-u-s-allies-are-shifting-trade-to-asia-due-to-trumps-tariffs-and-rhetoric"
             },
             {
               "political": "center",
@@ -49,174 +167,65 @@
               "source": "CBS News",
               "initials": "CN",
               "domain": "news.google.com",
-              "headline": "Former French senator found guilty of spiking lawmaker's drink with ecstasy in order to sexually assault her",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSTJqRUhTdmFoMXpNX1BVSFQtdEF1TmlSa2lna2MzdGJmLVVkQ1MyNzNzdlJZRmx1VnJlUXdMWHZRVklvLTJ3VGdVencybjZnbzM5dmZWWFlXQVhHcGc2OENfREZlSUxXX3VJM2k2b252UEtZeWFNLVBrMHo1N19lUXFuRUhhZkNObE9RM2FYNXpZNDdE0gGaAUFVX3lxTE45eTdQZVV4bkh0RTNabm5HRXd5bjdtOHN3UXMyemtpa2ctWjA2MkUtTW9JcWN6aXFVN1dWMDJGOHNrRVhlTDlRVi1xay03cFBJUEE5dGxpTGtJc1VJa0IxRGpWWTMtOHBqOFB0dTVSSmNPVk5hUmYwX1FqaVkycFNjUl9RT1o2VFlzV3pwNGcyV1NmTHBZUEhJakE?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Former French senator found guilty of drugging lawmaker to assault her",
-              "url": "https://www.france24.com/en/former-french-senator-found-guilty-of-drugging-lawmaker-to-assault-her"
+              "headline": "Are Trump's tariffs fueling a boom in trade deals for China and India?",
+              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOW1qSHBwRHZBMUI2N2doalJSdTdkWFMxRHM5SEUwTjZxUGV3UzhRRzk1bG1yd1BoWUJOaWtyQUdpd0dvVVotay1qZG9mSmtvbDRNQllBZlRlVE1qMlFDSnBEdVJ0MmQ2eXFiMkdnSU1NMS1yNi1TNDdoOXJ5MzRDaVFYR3RPY2xLSW000gGQAUFVX3lxTFBuSkZ2QnVVVnRNSVZ6dmlsM1picVRVRDc3QS11VlU0b1pDY0dnY0R4X21HbXpwZkxEVElxem9kUWM5cWlFWEk3cjQ1QktmUHVHRVZIQnVkbkhHNDlCWGduUXJOWGtWVTZkMmd6MEx4bmxqb2YyMVNkVG9VRDdrakJJMjNuc1BBT2hWeXZLSGU5RA?oc=5"
             }
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "Minnesota Democrat representative attacked despite Trump vowing to \"de-escalate\"",
-          "neutralSummary": "As the White House worked to \"de-escalate\" tensions in Minneapolis on January 27, a man sprayed Minnesota Congresswoman Ilhan Omar with a syringe of unknown liquid at a town hall meeting, where she called for curbing the Trump administration's anti-immigration crackdown.",
+          "id": "global-7",
+          "neutralHeadline": "Greetings from Mumbai, where residents take breathing space where they can find it",
+          "neutralSummary": "Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting",
-              "url": "https://www.bbc.com/news/articles/c0q425vg4qzo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Minnesota Democrat representative attacked despite Trump vowing to \"de-escalate\"",
-              "url": "https://www.france24.com/en/minnesota-democrat-representative-attacked-despite-trump-vowing-to-de-escalate"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Greetings from Mumbai, where residents take breathing space where they can find it",
+              "url": "https://www.npr.org/2026/01/28/g-s1-107108/mumbai-india-arabian-sea-promenade"
             }
           ]
         },
         {
-          "id": "global-4",
-          "neutralHeadline": "South Korea court jails former first lady for bribery",
-          "neutralSummary": "South Korea court jails former first lady for bribery&nbsp;&nbsp;Reuters‘The Man’ of Her Household: The Rise and Fall of a First Lady&nbsp;&nbsp;The New York TimesSouth Korea's ex-first lady jailed for 20 months for bribery&nbsp;&nbsp;BBCSouth Korea’s former first lady sentenced to 20 months in pris",
+          "id": "global-8",
+          "neutralHeadline": "EU signs 'mother of all deals' to boost trade with India",
+          "neutralSummary": "The European Union has signed what India's prime minister has called \"the mother of all deals\" to boost trade with India. For Europe, the move seeks to hedge against its unpredictable ties to the U.S.",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "South Korea's ex-first lady jailed for 20 months for bribery",
-              "url": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss"
+              "tone": "optimistic",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "EU signs 'mother of all deals' to boost trade with India",
+              "url": "https://www.npr.org/2026/01/27/nx-s1-5689884/eu-signs-mother-of-all-deals-to-boost-trade-with-india"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "South Korea court jails former first lady for bribery",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMm9GLWUtNXVZUm5VSFZwMnRON0xzaUMyWFkxODlnaW05QnlZakRXanRMeF9xWHk3dTZfVjg1Y0tJRjkya09GMGxqa2NLZ010RU9FMVVzM2JuckMweHFiemV4cnVVaFVLWlFtRERDV3ZfMVBlbTZjNmdrdVB5N2pHaDU4X1UyeVNIYzF6LVV3aHZlQTZnbE5aSXc5cnhpdlRjTzJ6ZEt3VlhrZVdGTElBZTl5MA?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Xi Jinping’s purge of top general sends China’s military into uncharted waters",
-          "neutralSummary": "Xi Jinping’s purge of top general sends China’s military into uncharted waters&nbsp;&nbsp;Financial TimesExclusive | China’s Top General Accused of Giving Nuclear Secrets to U.S. - WSJ&nbsp;&nbsp;The Wall Street JournalXi’s Military Meltdown&nbsp;&nbsp;ChinaTalkPurge of top Chinese general throws mi",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Financial Times",
-              "initials": "FT",
-              "domain": "news.google.com",
-              "headline": "Xi Jinping’s purge of top general sends China’s military into uncharted waters",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42Z1BrQnJNaFVET3puQWg0b0pDX2F6MnJMbExDSWtBVW1uU0xzVlVTcUYxWmNBRzZ3NXFtVElPX05hdEhjNlpQMTRBTGtBVFMxbjlNb2tmZVFYS2NjR2RyMHNXN3BCY0Z5SEEwbjVLRGM?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "China experts raise alarms over Xi’s sweeping military purge",
-              "url": "https://www.foxnews.com/world/china-experts-raise-alarms-over-xis-sweeping-military-purge"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "ICE, Ilhan Omar and Somalis: Unpacking Trump’s obsession with Minnesota",
-          "neutralSummary": "Congresswoman Omar is sprayed with an unknown liquid while meeting constituents. The motive is unknown.",
-          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "ICE, Ilhan Omar and Somalis: Unpacking Trump’s obsession with Minnesota",
-              "url": "https://www.aljazeera.com/news/2026/1/28/ice-ilhan-omar-and-somalis-unpacking-trumps-obsession-with-minnesota?traffic_source=rss"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Trump claims Rep. Ilhan Omar ‘probably had herself sprayed’ in syringe attack",
-              "url": "https://nypost.com/2026/01/28/us-news/trump-claims-rep-ilhan-omar-probably-had-herself-sprayed-in-syringe-attack/"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Minneapolis: Democratis US Rep. Ilhan Omar sprayed by unknown substance during speech",
-          "neutralSummary": "#US' Democratic congresswomen Ilhan Omar, frequently targeted by Donald #Trump, was interrupted Tuesday during a town hall meeting in #Minneapolis when a man threw liquid at her before being tackled to the ground. She was speaking about #ICE’s actions shaking the city.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Minneapolis: Democratis US Rep. Ilhan Omar sprayed by unknown substance during speech",
-              "url": "https://www.france24.com/en/minneapolis-democratis-us-rep-ilhan-omar-sprayed-by-unknown-substance-during-speech"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Oil Hits Fresh Four-Month High as Trump Warns Iran to Make Deal",
-          "neutralSummary": "Oil hit a fresh four-month high after President Trump threatened another attack on Iran, urging Tehran to negotiate a deal.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Oil Hits Fresh Four-Month High as Trump Warns Iran to Make Deal",
-              "url": "https://www.bloomberg.com/news/articles/2026-01-27/latest-oil-market-news-and-analysis-for-jan-28"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump says Iran called 'numerous' times to make deal as carrier enters Middle East waters",
-              "url": "https://www.foxnews.com/world/trump-says-iran-called-numerous-times-make-deal-carrier-enters-middle-east-waters"
+              "headline": "What will be the impact of the EU-India trade pact?",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/1/28/what-will-be-the-impact-of-the-eu-india-trade-pact?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
-          "neutralSummary": "Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last weekUp to 380 people may have drowned attempting to cross the Mediterranean last week as Cyclone Harry battered southern Italy and Malta, the Italian coastguard has said, as a shipwreck with the loss of 50",
+          "neutralHeadline": "Colombian lawmaker among 15 killed in plane crash near Venezuela",
+          "neutralSummary": "Colombian lawmaker among 15 killed in plane crash near Venezuela&nbsp;&nbsp;Al JazeeraSATENA flight carrying 15 loses contact over Colombia’s Catatumbo&nbsp;&nbsp;thecitypaperbogota.comNo survivors found after Colombian plane crashes with 15 people on board, including lawmaker&nbsp;&nbsp;CNNPlane cr",
           "versions": [
             {
               "political": "left",
               "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
-              "url": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "Colombian lawmaker among 15 killed in plane crash near Venezuela",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVk9HejUzOUVRTjZYc3ZqMEw0Q1gzUkNYQ0V4ZFBhM0ZYaUpwSmRIMFdEbVpXdU1aZGhOWlVicXdocEVTYVNYeEVRWjI0dGJyOC1hQ25EVENwLTF1MWJRUDhOYmpGZHhEVHlpNzZMWXVURnN2WjU1RUExVFduNEZIWUZOSE5kTi1pRGhnZUFYSV9mVVhpUjBvMTR0aEh1dm1T0gGmAUFVX3lxTE9OOWw5Z0RkaHJCYXhhQ25IejMyTU1weEFFQUpLa0xqeWhsVzNITm53bW1VTl9xRW83ejNnT012bUJ3S3JLV0VVaVgyNUNNYkZ1QVpnR05CUk1aemo5WUdSbk5OcW8wVHpqMi0zUC01UUUxdE1EV2tfZzFFYk14Z2VUekFCTDMzeEx1ZlNFQm1oc2hqUVJWWHpkdjFtM2k2MHlXT3ZzWFE?oc=5"
             }
           ]
         }
@@ -227,110 +236,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Trump threatens Iran again and calls for negotiations on a nuclear deal.",
-          "neutralSummary": "Trump threatens Iran again and calls for negotiations on a nuclear deal.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump threatens Iran again and calls for negotiations on a nuclear deal.",
-              "url": "https://www.nytimes.com/live/2026/01/28/us/trump-news/trump-threatens-iran-again-and-calls-for-negotiations-on-a-nuclear-deal"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Trump reiterates threat of military action with demand for Iran deal",
-              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXhjdkVtbmZobGx4VHE5U0RHQzlzQ1NEal83SVJtSWdPVWM5Wk1rblJyYTZVQzZfQ0V0MGl5WTFFNlpGWnlLb3NpQnNBeDhSZGgtSEhVa0RMSTFPQ0pncFZyLUd1cWRFcG5xNUYzYlp2T01wbGVWVnRyRXpLRGFyc2RzQXM5WmVBV2laSW5zQmM1d2lpNmQxX09wY1d1OWx2blNPdDJ6SE1GUdIBrwFBVV95cUxPV2NWVnZwTkNaMG1WQ25ua2JGYmRwWU8tNWJoNmJfam1lUW5idEY0Nm9idVpGelVWeXlVV2NDU1JaejVPbWM1R2FLalRJa3A0Y2RRYkJ5ZjNSNUVfWENjT2VrYzdRR0V4TUFtcU96QWNRSFN2S0h1eGtuclJ0UlU0Y2ZhUFJablZfb2hydndYdmVSMzNVUDQ3TkdESmF3VXc4WkRXUE5PNTRRUzJESWtz?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "‘Time Is Running Out’: Trump Warns Iran To Make Nuclear Deal Or Face Another U.S. Attack",
-              "url": "https://www.dailywire.com/news/time-is-running-out-trump-warns-iran-to-make-nuclear-deal-or-face-another-u-s-attack"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Ilhan Omar hit with unknown spray and other key moments from chaotic Minneapolis town hall",
-          "neutralSummary": "Rep. Ilhan Omar, D-Minn., held a town hall Tuesday evening in her home district amid recent shootings involving federal immigration agents and local agitators in Minneapolis.",
-          "versions": [
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Ilhan Omar hit with unknown spray and other key moments from chaotic Minneapolis town hall",
-              "url": "https://www.foxnews.com/politics/ilhan-omar-hit-with-unknown-spray-highlights-chaotic-minneapolis-town-hall"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Alleged Ilhan Omar attacker hinted at town hall plans in cryptic texts to neighbor: ‘I might get arrested’",
-              "url": "https://nypost.com/2026/01/28/us-news/alleged-ilhan-omar-attacker-hinted-at-town-hall-plans-in-cryptic-texts-to-neighbor-i-might-get-arrested/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Man Rushes Ilhan Omar At Town Hall, Sprays Her With Unknown Liquid",
-              "url": "https://www.dailywire.com/news/man-rushes-ilhan-omar-at-town-hall-sprays-her-with-unknown-liquid"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Trump claims Rep. Ilhan Omar ‘probably had herself sprayed’ in syringe attack",
-          "neutralSummary": "President Trump derided Rep. Ilhan Omar (D-Minn.) as a \"fraud\" hours after she was sprayed with an unknown substance by an audience member who rushed the stage during a town hall event in Minnesota on Tuesday night.",
-          "versions": [
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Trump claims Rep. Ilhan Omar ‘probably had herself sprayed’ in syringe attack",
-              "url": "https://nypost.com/2026/01/28/us-news/trump-claims-rep-ilhan-omar-probably-had-herself-sprayed-in-syringe-attack/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump waves off Ilhan Omar attack: ‘Probably had herself sprayed’",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4436545/trump-waves-off-ilhan-omar-town-hall-attack-probably-had-herself-sprayed/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Trump Flags Ilhan Omar’s Finances As Report Reveals Prior DOJ Scrutiny",
-              "url": "https://www.dailywire.com/news/trump-flags-ilhan-omars-finances-as-report-reveals-prior-doj-scrutiny"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "'The Court’s Patience Is At An End': Judge Takes 'Extraordinary Step' Against Acting ICE Chief",
-          "neutralSummary": "\"Lesser measures have been tried and failed,\" U.S. District Judge&nbsp;Patrick Schiltz said.",
+          "neutralHeadline": "Newsmax Host Holds Phone Like A Gun To Defend Agents Who Shot Alex Pretti",
+          "neutralSummary": "Pretti, an intensive care&nbsp;nurse, was never seen holding his phone in such a manner in footage of the fatal incident.&nbsp;",
           "versions": [
             {
               "political": "left",
@@ -338,33 +245,69 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "'The Court’s Patience Is At An End': Judge Takes 'Extraordinary Step' Against Acting ICE Chief",
-              "url": "https://www.huffpost.com/entry/minnesota-judge-todd-lyons_n_6978d6f0e4b0a848d14f482b"
+              "headline": "Newsmax Host Holds Phone Like A Gun To Defend Agents Who Shot Alex Pretti",
+              "url": "https://www.huffpost.com/entry/newsmax-greg-kelly-holds-phone-like-gun-defends-ice-alex-pretti-shooting_n_69791a61e4b0baacbfb75acd"
             },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "Minnesota’s chief judge, a veteran in conservative legal circles, takes on ICE",
-              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlZSZXhSYjZWMTZIOTZaVGxFM2lueXZVbDNMUTM1Nm9ERzhOb25QQVFCOEFnUUlpRHJDZ2Zra0t6Yzlac241ejhtMXBGVTQ1ckJEREh1X0JoTVEwLUU0RHFMSEhSaVN4OElSc2ZvaHF0b241T1lMeWNmbmVFdVlzOVgwRWtGd05SUzRJZ1NWUDg?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Nervous Allies and Fox News: How Trump Realized He Had a Big Problem in Minneapolis",
-          "neutralSummary": "President Trump often blusters his way through a crisis, refusing to back down. Minneapolis tested the limits of that strategy.",
-          "versions": [
             {
               "political": "left",
               "tone": "pessimistic",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Nervous Allies and Fox News: How Trump Realized He Had a Big Problem in Minneapolis",
-              "url": "https://www.nytimes.com/2026/01/28/us/politics/trump-minnesota-noem-bovino-homan-miller.html"
+              "headline": "Videos Show Alex Pretti in Confrontation With Agents 11 Days Before His Death",
+              "url": "https://www.nytimes.com/2026/01/28/us/alex-pretti-kicking-ice-vehicle-video.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Two federal agents shot Alex Pretti, initial government review reveals",
+              "url": "https://www.washingtonpost.com/nation/2026/01/27/alex-pretti-shooting-minneapolis-ice-bovino/"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "Agents involved in shooting of Minnesota man Alex Pretti put on leave",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JM3hNX0VCYXFhRnJ4U3hoM1Y0LTlNTlhXWkJEdkREVDFNZ2l0bjZTMzhvM2stVldTak5rc2xjel9teTBkYWRsQ3o4RnlDaVhQNEVlNA?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "How Trump endangered Ilhan Omar",
+          "neutralSummary": "This story appeared in&#160;The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&#160;Subscribe here. Welcome to The Logoff: President Donald Trump is refusing to tone down his rhetoric after an attack on Democ",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "How Trump endangered Ilhan Omar",
+              "url": "https://www.vox.com/the-logoff-newsletter-trump/476988/ilhan-omar-donald-trump-racist-rhetoric-somali-americans"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Ilhan Omar blames Trump’s rhetoric for surge in death threats, including spray attack: 'So obsessed with me'",
+              "url": "https://www.foxnews.com/politics/ilhan-omar-blames-trump-rhetoric-surge-death-threats-spray-attack-so-obsessed-me"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Rep. Ilhan Omar suggests Trump is to blame for syringe attack: ‘So obsessed with me’",
+              "url": "https://nypost.com/2026/01/28/us-news/rep-ilhan-omar-suggests-trump-is-to-blame-for-syringe-attack-so-obsessed-with-me/"
             },
             {
               "political": "right",
@@ -372,15 +315,90 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Trump’s Zelensky problem: he won’t give up",
-              "url": "https://www.washingtonexaminer.com/daily-on-defense/4436544/trumps-zelensky-problem-he-wont-give-up/"
+              "headline": "Ilhan Omar decries Trump’s ‘hateful rhetoric’ after Minneapolis town hall attack",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/state/4438474/ilhan-omar-trump-hateful-rhetoric-town-hall-attack/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Judge Orders Release of Minnesota Refugees Targeted in ICE Crackdown",
+          "neutralSummary": "A federal judge granted a temporary restraining order, which halts a Trump administration operation that has swept up at least 100 people so far.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Judge Orders Release of Minnesota Refugees Targeted in ICE Crackdown",
+              "url": "https://www.nytimes.com/2026/01/28/us/politics/minnesota-refugees-ice-crackdown.html"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "FBI executes search warrant seeking ballots from Fulton County’s 2020 election",
+          "neutralSummary": "The FBI executed a search warrant in Fulton County, Georgia, for 2020 election ballots, as President Donald Trump seeks to find already debunked voter fraud.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "FBI executes search warrant seeking ballots from Fulton County’s 2020 election",
+              "url": "https://www.washingtonpost.com/national-security/2026/01/28/fbi-fulton-2020-election-fraud/"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "The FBI conducts a search at the Fulton County election office in Georgia",
+              "url": "https://www.npr.org/2026/01/28/nx-s1-5691764/fulton-county-fbi-search-election"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "FBI Raids Fulton County Office As Part Of 2020 Election Interference Probe",
+              "url": "https://www.dailywire.com/news/fbi-raids-fulton-county-office-as-part-of-2020-election-interference-probe"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "The White House’s shocking lies about Minneapolis",
+          "neutralSummary": "Minneapolis residents and anti-Immigration and Customs Enforcement protesters can claim at least a partial victory after weeks of protest, confrontation, and violence in Minnesota. The Trump administration is scaling back its immigration enforcement surge in the region, after bipartisan outrage and",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "The White House’s shocking lies about Minneapolis",
+              "url": "https://www.vox.com/politics/476807/ice-dhs-cbp-bovino-immigration-stephen-miller-kristi-noem-alex-pretti-nicole-good-mislead-truth"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "White House Says Trump Accounts Are Antidote To Socialism",
+              "url": "https://www.dailywire.com/news/white-house-says-trump-accounts-are-antidote-to-socialism"
             }
           ]
         },
         {
           "id": "us-6",
-          "neutralHeadline": "As Minneapolis Rages, Legislators Move to Restrict ICE in Their States",
-          "neutralSummary": "Efforts to curtail federal law enforcement tactics began last year, but with the deaths of Alex Pretti and Renee Good, Democratic lawmakers are pushing harder.",
+          "neutralHeadline": "Judge in Minnesota Says ICE Has Violated Nearly 100 Court Orders",
+          "neutralSummary": "A federal judge said ICE had disobeyed more judicial directives this month than “some federal agencies have violated in their entire existence.”",
           "versions": [
             {
               "political": "left",
@@ -388,40 +406,49 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "As Minneapolis Rages, Legislators Move to Restrict ICE in Their States",
-              "url": "https://www.nytimes.com/2026/01/28/us/politics/minneapolis-ice-states.html"
+              "headline": "Judge in Minnesota Says ICE Has Violated Nearly 100 Court Orders",
+              "url": "https://www.nytimes.com/2026/01/28/us/politics/judge-minnesota-ice-court-orders.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Judge cancels ICE director testimony but rips agency’s habitual violation of court orders",
+              "url": "https://www.washingtonexaminer.com/news/justice/4438380/judge-cancels-ice-todd-lyons-testimony/"
             }
           ]
         },
         {
           "id": "us-7",
-          "neutralHeadline": "Democrats Restore Minnesota House to Even Split Amid Immigration Turmoil",
-          "neutralSummary": "In special elections on Tuesday, Democrats won two left-leaning districts, preventing Republicans from holding a majority in the State House of Representatives.",
+          "neutralHeadline": "Shirley Raines, who fed and cared for the homeless of Skid Row, dies at 58",
+          "neutralSummary": "A mother of six, she founded Beauty 2 the Streetz to advocate on behalf of homeless people in Los Angeles and later in Nevada.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Democrats Restore Minnesota House to Even Split Amid Immigration Turmoil",
-              "url": "https://www.nytimes.com/2026/01/27/us/minnesota-house-special-elections.html"
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Shirley Raines, who fed and cared for the homeless of Skid Row, dies at 58",
+              "url": "https://www.washingtonpost.com/obituaries/2026/01/28/shirley-raines-dead-beauty-2-the-streetz/"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Democrats win 2 special Minnesota House races amid immigration crackdown",
-              "url": "https://www.foxnews.com/politics/democrats-win-2-special-minnesota-house-races-amid-immigration-crackdown"
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "TikTok star Shirley Raines, known for bringing meals to people on Skid Row, dies at 58",
+              "url": "https://nypost.com/2026/01/28/us-news/tiktok-star-shirley-raines-who-brought-meals-to-people-on-skid-row-dead-at-58/"
             }
           ]
         },
         {
           "id": "us-8",
-          "neutralHeadline": "Rubio braces for Senate scrutiny over Venezuela",
-          "neutralSummary": "At his first Senate Foreign Relations Committee hearing since Nicolas Maduro was seized, Secretary of State Marco Rubio warns the U.S. could still use force to pressure Venezuela's adminstration.",
+          "neutralHeadline": "Inside the Trump administration's effort to reverse climate change policies",
+          "neutralSummary": "President Trump calls global warming \"a hoax.\" As the U.S. faces more severe storms and extreme weather events, the New York Times' David Gelles describes what this means for climate change policy.",
           "versions": [
             {
               "political": "left",
@@ -429,24 +456,24 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Rubio braces for Senate scrutiny over Venezuela",
-              "url": "https://www.npr.org/2026/01/28/nx-s1-5690365/rubio-senate-venezuela"
+              "headline": "Inside the Trump administration's effort to reverse climate change policies",
+              "url": "https://www.npr.org/2026/01/28/nx-s1-5690358/inside-the-trump-administrations-effort-to-reverse-climate-change-policies"
             },
             {
               "political": "right",
-              "tone": "optimistic",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Rubio scheduled to appear before Senate to outline Trump's Venezuela policy",
-              "url": "https://www.foxnews.com/politics/rubio-scheduled-appear-before-senate-outline-trumps-venezuela-policy"
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Democrats Press Rubio Over Venezuela As Trump Administration Defends Stabilization Effort",
+              "url": "https://www.dailywire.com/news/democrats-press-rubio-over-venezuela-as-trump-administration-defends-stabilization-effort"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "CBP has a history of excessive force. Critics say they were unprepared for Minnesota",
-          "neutralSummary": "Experts say federal immigration agents' skills are a dangerous mismatch for urban settings such as the Twin Cities",
+          "neutralHeadline": "Greetings from Mumbai, where residents take breathing space where they can find it",
+          "neutralSummary": "Far-Flung Postcards is a weekly series in which NPR's international team shares moments from their lives and work around the world.",
           "versions": [
             {
               "political": "left",
@@ -454,8 +481,8 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "CBP has a history of excessive force. Critics say they were unprepared for Minnesota",
-              "url": "https://www.npr.org/2026/01/28/g-s1-107602/cbp-has-a-history-of-excessive-force-critics-say-they-were-unprepared-for-minnesota"
+              "headline": "Greetings from Mumbai, where residents take breathing space where they can find it",
+              "url": "https://www.npr.org/2026/01/28/g-s1-107108/mumbai-india-arabian-sea-promenade"
             }
           ]
         }
@@ -466,6 +493,63 @@
       "stories": [
         {
           "id": "singapore-1",
+          "neutralHeadline": "‘Recalcitrant cheat’ back behind bars after duping 12 people out of nearly $250k",
+          "neutralSummary": "Neo Ngou Moy, 71, cheated staff and patrons of a beauty salon in Whampoa.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "‘Recalcitrant cheat’ back behind bars after duping 12 people out of nearly $250k",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/recalcitrant-cheat-back-behind-bars-after-duping-12-people-out-of-nearly-250k"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "India wants a seat at the global chip table - what’s standing in its way?",
+          "neutralSummary": "India wants to reduce its dependence on foreign chips as geopolitics reshape supply chains. In the first of a two-part series on India’s AI push, CNA examines the execution gaps behind years of failed fabs.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "India wants a seat at the global chip table - what’s standing in its way?",
+              "url": "https://www.channelnewsasia.com/asia/india-global-chip-semiconductor-us-export-controls-china-dependence-5890986"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
+          "neutralHeadline": "Britain's Starmer arrives in China as Western alliances face strain",
+          "neutralSummary": "Britain's Starmer arrives in China as Western alliances face strain",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Britain's Starmer arrives in China as Western alliances face strain",
+              "url": "https://www.channelnewsasia.com/world/britains-starmer-heads-china-western-alliances-face-strain-5890531"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "South China Morning Post",
+              "initials": "SC",
+              "domain": "news.google.com",
+              "headline": "Why Britain seeks to take China relationship to ‘new level’ as Starmer visits",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd3FkRmJDYkhhYnk4dTcxcHZQbTNZQWlibnJURHNfd0dNZzIzYmVYZGkzRXJEek51VC1udE0xd1E0aWlNUWVIaUJvN192TEUxckgtQWNPMUNTYUV2NE1WenhvenQxTVh2QlYzNkJPVXJ3bHFITmVPVUlzRm5Fck5IX0ZjaE9NS29PeW5QTnpyM1E0MUUzXzNPWV9WR2oxNnNJc0x1NUhGUWVpXy1WdGRLRlI4VkxEOTVvMlZRQ2M2T0d4RWVIb2h5WVE3c1RXQdIBzgFBVV95cUxQNnoyQW5fNUdRTmxMWUZzYnZIdWJWaG52RFRKREV1SmZlajlyMUZaTGtoQVRRS2VuZU5wWTZhbmoyc0pnV0NBNmdvQ0N2NnhzVDdUNUlHOW5aZEYxS3FJTEJ4bVgzMmpHWXNhVnZWRnJTMmtrMHpzbFdOMkRHaW5OeWJEV1VYQzRjWVRLQVpESDU4WXpUMW8wUURXclczS2VKSG9wNm55dklqQzVGbmI0emFBOVhOMXdVMG56WHBtb2hPeEpQZHhGUnhzb3BOZw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
           "neutralHeadline": "Top Malaysian football officials quit over foreign-born players scandal",
           "neutralSummary": "The Football Association of Malaysia was fined US$400,000 by FIFA for submitting false documents claiming that seven foreign-born players had Malaysian ancestry.",
           "versions": [
@@ -479,15 +563,6 @@
               "url": "https://www.channelnewsasia.com/sports/malaysian-football-officials-quit-over-foreign-born-players-scandal-5890451"
             },
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Top Malaysian football officials quit over foreign-born players scandal",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDJjTDllXzdha3RybWFjbDg2YnhSYTFtck1IMWZfUmY0X1RpSTFvNDRaZ19CX2RCNG5kSDNRSnhNX1Byd1ZGdzZaOGlDdEpSOFRfcUYxbW5QXzAyUnNWOEtGc3UyUExKaUJ6UDlhVDR4dGhsRGlhd3VmUXdHczc1djN0eGVtY2tNWHFHaVhtZk40Uk56NDRxRA?oc=5"
-            },
-            {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
@@ -499,164 +574,7 @@
           ]
         },
         {
-          "id": "singapore-2",
-          "neutralHeadline": "Animal Lovers League to leave premises by Feb, other groups to take over its 160 animals",
-          "neutralSummary": "The animals will remain for a year, rent-free, with the Animal and Veterinary Service supplying resources.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Animal Lovers League to leave premises by Feb, other groups to take over its 160 animals",
-              "url": "https://www.straitstimes.com/singapore/animal-lovers-league-to-leave-premises-by-february-other-welfare-groups-to-take-over-its-160-animals"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Commissioner of Charities opens inquiry into animal shelter Animal Lovers League",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUtpbm1kV08wMDZtZUQwSFpKOTVuMFpnVDd2cDN5bmt0Z29QRlVpUXo2bHhnbUQ0aGxyb0UxZUVJdzRZT3ZGTEFsQVcxa2xzY1VBUFgybXNKWGJCZC1xOEgtcjRtVkZhODBtRHo5dHR1RTNCWUdYQUFwYk0tOFF6cDhaVml6ZFhJYlVHeUlHNTRkVjk2SkpHMmEwb2J6cmt3QzdJYnBSbzVEaUNHdEJXSFZEeDk3UGI3bGZIU01fNnpfZlhCSXlWZTR3?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
-          "neutralHeadline": "PropertyLimBrothers CEO Melvin Lim, vice-president Grayce Tan resign; Marc Chan appointed interim CEO",
-          "neutralSummary": "This follows the company’s internal review, “following recent events”.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "PropertyLimBrothers CEO Melvin Lim, vice-president Grayce Tan resign; Marc Chan appointed interim CEO",
-              "url": "https://www.straitstimes.com/singapore/propertylimbrothers-ceo-melvin-lim-vice-president-grayce-tan-step-down"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Nipah virus: Singapore airports to screen visitors from affected places; no cases detected here",
-          "neutralSummary": "The virus has no approved vaccine or known cure.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Nipah virus: Singapore airports to screen visitors from affected places; no cases detected here",
-              "url": "https://www.straitstimes.com/singapore/nipah-virus-spore-airports-to-screen-visitors-from-affected-places-no-cases-detected-here"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Nipah virus: Singapore to conduct temperature screening at airport for flights from affected areas",
-              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUsxTHdFczNMS0djbjM2WjdoTzRVR0NESUU4Sk5lZzh0R2FpMFM4LWo1eWxJalhud0t2ZnpBTlk0RWdVUDlSZUltcVhaX0VfLUJtOXJmangtaU4wYnF0dEFBN2FvdGtEeTJRblctWWFhalB1cm9yU3JfY3VWalZ6TjNLX0luSkZyajJnSHQxUFlRUmZmTjVJZFB2RVJTYjRkOTVF?oc=5"
-            }
-          ]
-        },
-        {
           "id": "singapore-5",
-          "neutralHeadline": "S’porean boy, 14, who simulated ISIS terror attacks on Roblox issued ISA restriction order",
-          "neutralSummary": "He would simulate ISIS attacks on military bases, such as with car bombs, sniper attacks and suicide bombings.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "S’porean boy, 14, who simulated ISIS terror attacks on Roblox issued ISA restriction order",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/isa-restriction-order-issued-for-sporean-boy-14-who-recreated-isis-executions-on-roblox"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Singaporean boy who recreated ISIS attacks, executions in Roblox and Gorebox gets restriction order",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGZYcVhCV3RXYmFTSzFxSGZlbUxZX1l2Q0N1b0lSaC1jZnZ6S2ZfODc5a1VxTE8td3pCdzJDRGltT0ZYTXpVLTVPaWpYOGlrTUM3Skd5MXRrXzA0NmEzTVI3M0ZlbEg0b0NValEyeHVqZDdzY2djWTRSVXZsOEdBUmo5eEJoMExodzZ1M282YjJlRTBzUEt3VGpVOFc?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Teacher accused of acting on loan shark’s behalf gets 14 more charges for similar offences",
-          "neutralSummary": "Geraldine Quek Yi Ling, 42, was previously listed as a head of department at St Patrick’s School.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Teacher accused of acting on loan shark’s behalf gets 14 more charges for similar offences",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/teacher-accused-of-acting-on-loan-sharks-behalf-handed-14-more-charges-for-similar-offences"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Japan-born pandas Xiao Xiao and Lei Lei arrive in China as bilateral ties freeze",
-          "neutralSummary": "Japan-born Xiao Xiao and Lei Lei have \"made a positive contribution to promoting friendship between the peoples of the two countries\", said&nbsp;China's panda research base.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Japan-born pandas Xiao Xiao and Lei Lei arrive in China as bilateral ties freeze",
-              "url": "https://www.channelnewsasia.com/east-asia/japan-china-panda-xiao-xiao-lei-lei-arrive-sichuan-5890116"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Tearful goodbyes as Japan returns pandas to China amid worsening ties",
-              "url": "https://www.bbc.com/news/articles/c8d0l778dero?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "Air charter crash in India's Maharashtra kills key state leader",
-          "neutralSummary": "Ajit Pawar, the deputy chief minister of India's ⁠wealthiest state of Maharashtra, was en route to his home region ⁠to canvass in local body elections, media said.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Air charter crash in India's Maharashtra kills key state leader",
-              "url": "https://www.channelnewsasia.com/asia/india-ajit-pawar-aircraft-crash-killed-maharashtra-5890461"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Air crash in India’s Maharashtra kills key state leader Ajit Pawar",
-              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVRNYTZ4Sm1HUURleUVpX01YUlRTdTNWVFFJTmViOEZWY0szYTNXYUNuZ1hzWG4ySm5QT2hZM19TTmdzSWVhSkFHR0tFRWZrVTg2dUtmR3FodjRTMi1MQVF0SUUxTWV2c0U4Uy1mM0JrQU9JVmxTS2ZYY052M0IxdzNQLW04VmVwcGZ6RDRxeUZNZ0d2OVVhSHR3SGhqUldCd04wanEtYkg2MGE1QVZRYUNCaE9mU1p0dFd4MHpuMVd0UXZzaXNDS2RaZHEzUGE1?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-9",
           "neutralHeadline": "South Korea court sentences ex-first lady Kim to jail for bribery",
           "neutralSummary": "The court cleared Kim Keon Hee on charges of ‍stock price manipulation and ⁠violating the political funds act.",
           "versions": [
@@ -679,6 +597,88 @@
               "url": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss"
             }
           ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Nipah virus: What to know about the disease and the outbreak in India",
+          "neutralSummary": "Some countries in Asia have stepped up airport screening measures after Nipah virus cases emerged in India's West Bengal.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Nipah virus: What to know about the disease and the outbreak in India",
+              "url": "https://www.channelnewsasia.com/asia/nipah-virus-what-know-india-outbreak-5890026"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Nipah virus outbreak in India triggers Asia airport screenings",
+              "url": "https://www.bbc.com/news/articles/cd7zp581q5do?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "What UK's Starmer Hopes to Achieve With His China Visit",
+          "neutralSummary": "As UK Prime Minister Keir Starmer visits China, Peter Burnett, Chief Executive of the China-Britain Business Council, says the British delegation hopes to see less friction in the services industry and achieve greater market access to China. He also discusses the prospect of a visa-free deal. (Sourc",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "What UK's Starmer Hopes to Achieve With His China Visit",
+              "url": "https://www.bloomberg.com/news/videos/2026-01-29/what-uk-s-starmer-hopes-to-achieve-with-his-china-visit-video"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Why China views the UK visit as part of something bigger",
+              "url": "https://www.bbc.com/news/articles/c3wz2x7ppz7o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "Has Trump ‘ruptured’ the global order? What can Singapore do?",
+          "neutralSummary": "A number of world leaders have been blunt in their assessment about the state of global geopolitics.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Has Trump ‘ruptured’ the global order? What can Singapore do?",
+              "url": "https://www.straitstimes.com/singapore/has-trump-ruptured-the-global-order-what-can-singapore-do"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
+          "neutralHeadline": "FairPrice freezes prices of chilled pork, popular seafood and veg ahead of CNY",
+          "neutralSummary": "This will apply to the more than 160 FairPrice supermarkets islandwide from Jan 29 to March 3.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "FairPrice freezes prices of chilled pork, popular seafood and veg ahead of CNY",
+              "url": "https://www.straitstimes.com/singapore/community/fairprice-freezes-prices-of-chilled-pork-popular-seafood-and-veg-ahead-of-cny"
+            }
+          ]
         }
       ]
     },
@@ -687,8 +687,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Ajit Pawar plane crash: What happened in 26 minutes and 5 unanswered questions",
-          "neutralSummary": "A Learjet 45 carrying Maharashtra's deputy chief minister Ajit Pawar crashed near Baramati runway after multiple landing attempts amid poor visibility. The aircraft burst into flames shortly after receiving landing clearance, raising questions about potential system failure, communication breakdown,",
+          "neutralHeadline": "Baramati's unbeaten 'aamdar': Ajit 'Dada' Pawar's innings of unfinished ascent",
+          "neutralSummary": "Ajit Pawar, a seasoned politician known for his political acumen and resilience, navigated a career marked by significant achievements and controversies. Despite never realizing his ambition of becoming Chief Minister, he consistently held powerful positions and influenced Maharashtra's political la",
           "versions": [
             {
               "political": "left",
@@ -696,112 +696,26 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Pilot Shambhavi Pathak Among 5 Dead In Plane Crash That Killed Ajit Pawar",
-              "url": "https://www.ndtv.com/india-news/ajit-pawar-death-in-plane-crash-updates-pilot-shambhavi-pathak-among-5-dead-in-plane-crash-that-killed-ajit-pawar-10898530#publisher=newsstand"
+              "headline": "Ajit Pawar's Last Rites To Be Performed In Baramati Today",
+              "url": "https://www.ndtv.com/india-news/ajit-pawars-last-rites-to-be-performed-in-baramati-today-10903753#publisher=newsstand"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
+              "tone": "optimistic",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Ajit Pawar plane crash: What happened in 26 minutes and 5 unanswered questions",
-              "url": "https://timesofindia.indiatimes.com/india/ajit-pawar-plane-crash-what-happened-in-26-minutes-and-5-unanswered-questions/articleshow/127700900.cms"
+              "headline": "Baramati's unbeaten 'aamdar': Ajit 'Dada' Pawar's innings of unfinished ascent",
+              "url": "https://timesofindia.indiatimes.com/city/pune/long-innings-ends-with-dream-unfulfilled/articleshow/127733953.cms"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "In Ajit Pawar's shocking death, political parallels with when Indira Gandhi lost son Sanjay in 1980 plane crash",
-              "url": "https://www.hindustantimes.com/india-news/in-ajit-pawars-shocking-death-political-parallels-with-when-indira-gandhi-lost-son-sanjay-in-1980-plane-crash-101769601842995.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Ajit Pawar plane crash: Flight data offers key clues",
-              "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/ajit-pawar-plane-crash-flight-data-reveals-failed-landing-attempt-ajit-pawar-plane-crash-flightradar24-flight-details/articleshow/127702241.cms"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Swarajya",
-              "initials": "SWR",
-              "domain": "swarajyamag.com",
-              "headline": "AAIB Assumes Charge Of Probe Into Baramati Learjet Crash That Killed Ajit Pawar, Four Others",
-              "url": "https://swarajyamag.com/news-brief/aaib-assumes-charge-of-probe-into-baramati-learjet-crash-that-killed-ajit-pawar-four-others"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "'Next attack will be far worse': Trump's stern warning to Iran; Tehran rejects talks",
-          "neutralSummary": "US President Trump issued a stark warning to Iran, urging them to negotiate an \"equitable\" deal without nuclear weapons or face an attack far worse than \"Operation Midnight Hammer.\" He reiterated claims of a massive \"Armada\" fleet heading towards Iran. Tehran rejected talks, deeming them impossible",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"Next Attack Will Be Far Worse\": Trump's Latest Threat To Iran",
-              "url": "https://www.ndtv.com/world-news/donald-trump-iran-us-next-attack-will-be-far-worse-trumps-latest-threat-to-iran-10900980#publisher=newsstand"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "‘Next attack will be far worse’: Trump threatens Iran with military action, demands for nuclear deal",
-              "url": "https://indianexpress.com/article/world/trump-threatens-iran-military-action-demands-for-nuclear-deal-10499872/"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Next attack will be far worse': Trump's stern warning to Iran; Tehran rejects talks",
-              "url": "https://timesofindia.indiatimes.com/world/us/next-attack-will-be-far-worse-trumps-stern-warning-to-iran-tehran-rejects-talks/articleshow/127705709.cms"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Trump warns Iran: next attack will be far worse",
-              "url": "https://economictimes.indiatimes.com/news/defence/trump-warns-iran-next-attack-will-be-far-worse-asks-tehran-to-quit-nuclear-ambitions/articleshow/127706085.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Baramati's bitter irony: The town that made 'dada' Ajit Pawar, then claimed him",
-          "neutralSummary": "Baramati, the Pawar family's political stronghold, witnessed the end of Ajit Pawar's political journey. The constituency that propelled his rise also became the site of his final chapter, where he decisively reaffirmed his dominance by defeating his grandnephew in a deeply personal electoral battle.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Ajit Pawar's Last Rites To Be Performed At 11 Am In Baramati Tomorrow",
-              "url": "https://www.ndtv.com/india-news/ajit-pawar-death-news-updates-ajit-pawars-last-rites-to-be-performed-at-11-am-in-baramati-tomorrow-10900856#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Baramati's bitter irony: The town that made 'dada' Ajit Pawar, then claimed him",
-              "url": "https://timesofindia.indiatimes.com/city/pune/baramatis-bitter-irony-the-town-that-made-ajit-pawar-witnesses-his-death/articleshow/127685964.cms"
+              "headline": "Ajit Pawar’s last rites to be held at 11 am today; PM Modi, Amit Shah to attend",
+              "url": "https://www.hindustantimes.com/india-news/ajit-pawar-s-last-rites-to-be-held-at-11-am-today-pm-modi-amit-shah-to-attend-101769653083233.html"
             },
             {
               "political": "right",
@@ -815,18 +729,27 @@
           ]
         },
         {
-          "id": "india-4",
-          "neutralHeadline": "'Purely an accident': Sharad Pawar on nephew Ajit's death; makes heartfelt appeal",
-          "neutralSummary": "Veteran leader Sharad Pawar has dismissed conspiracy theories surrounding the tragic plane crash that claimed the life of his nephew, Ajit Pawar.  He emphasized that the incident was a pure accident, urging against any political exploitation of the tragedy. Ajit Pawar, a six-term Deputy Chief Minist",
+          "id": "india-2",
+          "neutralHeadline": "State mourning after Ajit Pawar dies in plane crash: Are banks in Maharashtra closed today?",
+          "neutralSummary": "Maharashtra is mourning Deputy Chief Minister Ajit Pawar's passing in a plane crash with three days of state mourning. Banks are not officially closed due to this.",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Ajit Pawar plane crash LIVE: Maharashtra Dy CM's mortal remains brought to his residence in Katewadi",
+              "url": "https://www.thehindu.com/news/national/maharashtra/ajit-pawar-baramati-plane-crash-funeral-live-updates/article70563640.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "PM Modi Speaks To Sharad Pawar, Condoles Ajit Pawar's Death",
-              "url": "https://www.ndtv.com/india-news/ajit-pawar-death-news-updates-pm-modi-speaks-to-sharad-pawar-condoles-ajit-pawars-death-10900823#publisher=newsstand"
+              "headline": "Ajit Pawar Plane Crash Updates: Ajit Pawar's Funeral Today, PM Modi, Amit Shah May Attend",
+              "url": "https://www.ndtv.com/india-news/ajit-pawar-plane-crash-live-updates-emergency-landing-of-ncp-leaders-aircraft-in-baramati-maharashtra-deputy-chief-minister-10897305#publisher=newsstand"
             },
             {
               "political": "center",
@@ -834,24 +757,56 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "'Purely an accident': Sharad Pawar on nephew Ajit's death; makes heartfelt appeal",
-              "url": "https://timesofindia.indiatimes.com/india/ajit-pawars-death-sharad-pawar-rules-out-conspiracy-over-nephews-death-asks-not-to-politicise-the-accident/articleshow/127709865.cms"
+              "headline": "State mourning after Ajit Pawar dies in plane crash: Are banks in Maharashtra closed today?",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/state-mourning-after-ajit-pawar-dies-in-plane-crash-are-banks-in-maharashtra-closed-tomorrow-on-january-29-2026/articleshow/127712489.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Parliament Budget Session 2026 LIVE: Economic Survey of India to be presented today",
+          "neutralSummary": "Finance Minister Nirmala Sitharaman will table the Economic Survey in Parliament on Thursday (January 29, 2026) and present the Union Budget on Sunday (February 1, 2026)",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Parliament Budget Session 2026 LIVE: Economic Survey of India to be presented today",
+              "url": "https://www.thehindu.com/news/national/parliament-budget-session-2026-live-updates-on-jan-29-2026/article70563737.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Gurlal Brar murder case accused shot dead outside Mohali court; Goldy Brar booked",
+          "neutralSummary": "Gurlal Brar murder case accused shot dead outside Mohali court; Goldy Brar booked&nbsp;&nbsp;Tribune IndiaAccused In Murder Case Of Gangster Goldy Brar's Cousin Shot Dead In Punjab&nbsp;&nbsp;NDTVMurder at SSP office in Mohali: Pargat flays AAP govt, questions ‘war against gangsters’ campaign&nbsp;&",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Accused in murder case of gangster Goldy Brar’s cousin shot dead in Punjab’s Mohali; Brar booked",
+              "url": "https://www.thehindu.com/news/national/accused-in-murder-case-of-gangster-goldy-brar-cousin-shot-dead-in-punjab-mohali/article70563639.ece"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Mamata Banerjee wants SC intervention over Ajit Pawar's death, suspects political link",
-              "url": "https://www.hindustantimes.com/india-news/mamata-banerjee-wants-sc-intervention-over-ajit-pawars-death-suspects-political-link-101769595918200.html"
+              "source": "Tribune India",
+              "initials": "TI",
+              "domain": "news.google.com",
+              "headline": "Gurlal Brar murder case accused shot dead outside Mohali court; Goldy Brar booked",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSV9kRndZNVB4Z1RSaXlsU0c3eS1YeDRFNllDVXdfNmFmTjBfV0ZBZnhoc1JQXzFSak5mX1p6Q1gzTktZbmk0cE9nMHgtTTNjdjFoTzF6WnRNdmZfYmhqdldFeTVPcmVMM2k0dTJQSFR2V0lod0ZLNDJUS0tYUjNvV2lycWVOeks3dElfTlNpWjU0QmdlZlNwMFFUT29xRjJVcXdvU1YtTnQ3UzNG0gGwAUFVX3lxTE1kdEFVS3dqTVNDYkRxak5iM2NVTmNjSXVMTzNKdExyVFAzVUI0YVdTcmNydFBUdWRSV0VSWEU2ZXB0cmhvQ3lCaUVqaTlWM1pGTmNZM2Z3OURoT0M3R2FfWVNhNG93QktFejBYT2F1OTVheG03b2NiNlEyZ3RYM0dkVXk5MUt2NkJmMUdGUU03U3VOYnpmc3lGSDBRR3Q2VGctM3czUjI1ZDNaVVpsY3hw?oc=5"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "‘Absolutely no problem in the aircraft’: VSR Aviation owner says no to grounding of plane model after Ajit Pawar's death",
-          "neutralSummary": "VSR Aviation owner VK Singh asserted the aircraft was &nbsp;‘absolutely fit’ as he hinted at the ‘poor visibility’ as the probable cause of the crash.",
+          "neutralHeadline": "‘Very disappointed’: Scott Bessent hits out at Europe over India-EU trade deal — what he said",
+          "neutralSummary": "‘Very disappointed’: Scott Bessent hits out at Europe over India-EU trade deal — what he said&nbsp;&nbsp;Times of India'Trade Above Ukraine': Team Trump Blasts Europe Over India-EU Deal&nbsp;&nbsp;NDTVBessent says disappointed by EU-India deal; South Korea must ratify trade deal&nbsp;&nbsp;The Hindu",
           "versions": [
             {
               "political": "left",
@@ -859,99 +814,117 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Visibility Was Poor When Plane Carrying Ajit Pawar Crashed: Aviation Minister",
-              "url": "https://www.ndtv.com/india-news/ajit-pawar-plane-crash-baramati-visibility-was-poor-when-plane-carrying-ajit-pawar-crashed-aviation-minister-10900636#publisher=newsstand"
+              "headline": "'Trade Above Ukraine': Team Trump Blasts Europe Over India-EU Deal",
+              "url": "https://www.ndtv.com/world-news/trade-above-ukraine-team-trump-blasts-europe-over-india-eu-deal-10903739#publisher=newsstand"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "‘Absolutely no problem in the aircraft’: VSR Aviation owner says no to grounding of plane model after Ajit Pawar's death",
-              "url": "https://www.hindustantimes.com/india-news/absolutely-no-problem-in-the-aircraft-vsr-aviation-owner-says-no-to-grounding-of-plane-model-after-ajit-pawars-death-101769597920904.html"
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "‘Very disappointed’: Scott Bessent hits out at Europe over India-EU trade deal — what he said",
+              "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTF9rTlZCeEVHVVU3Z0xFQnM5NEd4dkhDOS0zM3A0MDJDb3liaXNySGpRUnZNWnpkdG1VLUJoVXJUM0xBN2lqVHFRazUzaHVSQmVweERHSTFFcnFxMnJWNXRSN3lwSmFBZURVWVphX3MwWDE3Y1J5TUwtcEVpRzYzMnVMVHdwNW5jZmxSWDBhVUprVFdnaEZDZy1mdEREdTJEd0ZOX3hTUHNtMTRsRTJhYWs0WXhXU1lkRzh0T19KZEtRWmVRb2dfRjhFVE5wdGI3TU4yMWx2Y1RZajZUVnB5WkhleldmUmptYmpYOVBIcVFIUTdfZllMVDgzb0hkeER0eFE1bQ?oc=5"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "India visit ahead, Canada's Carney on Trump tariffs and trade: ‘Nothing normal in US’",
-          "neutralSummary": "Mark Carney is expected to visit India in March, a move aimed at expanding bilateral trade after over two years of strained ties with New Delhi",
+          "neutralHeadline": "Small plane crash kills 15 in Colombia",
+          "neutralSummary": "Small plane crash kills 15 in Colombia",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Colombian Lawmaker Among 15 Dead In Plane Crash",
+              "url": "https://www.ndtv.com/world-news/colombia-plane-carrying-15-people-goes-missing-near-venezuela-10903304#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Small plane crash kills 15 in Colombia",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/small-plane-crashes-in-rural-area-of-colombia-killing-15-people-including-congressman/articleshow/127750111.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "‘Trade more important than ending war in Ukraine’: US Treasury Secretary Scott Bessent slams EU for signing FTA with India",
+          "neutralSummary": "‘Trade more important than ending war in Ukraine’: US Treasury Secretary Scott Bessent slams EU for signing FTA with India",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "‘Trade more important than ending war in Ukraine’: US Treasury Secretary Scott Bessent slams EU for signing FTA with India",
+              "url": "https://indianexpress.com/article/world/us-scott-bessent-slams-eu-trade-deal-india-ukraine-war-russian-oil-tariffs-10500646/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "Trade Over Trenches: US Treasury Chief Bessent Says Europe Abandoned Ukraine To Secure Indian Market Access",
+              "url": "https://swarajyamag.com/world/trade-over-trenches-us-treasury-chief-bessent-says-europe-abandoned-ukraine-to-secure-indian-market-access"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Plea seeking death for Yasin Malik not pressing: Delhi HC",
+          "neutralSummary": "The HC observed that Malik is already serving life sentence and the plea seeks only enhancement of punishment.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Delhi HC grants NIA ‘last opportunity’ to respond to Kashmiri separatist leader Yasin Malik",
+              "url": "https://indianexpress.com/article/legal-news/delhi-hc-grants-nia-last-opportunity-respond-kashmiri-separatist-leader-yasin-malik-10500677/"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "India visit ahead, Canada's Carney on Trump tariffs and trade: ‘Nothing normal in US’",
-              "url": "https://www.hindustantimes.com/india-news/india-visit-on-cards-canada-pm-mark-carney-moves-to-diversify-trade-nothing-normal-in-the-us-trump-tariffs-101769591598988.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "India and Canada to Anchor Trade in Energy, Critical Minerals",
-              "url": "https://www.bloomberg.com/news/articles/2026-01-28/india-and-canada-to-anchor-trade-in-energy-critical-minerals"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "‘India has 100% more trade deals than Trump’: US media praises India-EU FTA while discussing how tariffs are hitting American citizens",
-              "url": "https://www.opindia.com/2026/01/india-has-100-more-trade-deals-than-trump-us-media-praises-india-eu-fta-while-discussing-how-tariffs-are-hitting-american-citizens/"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Digital app launched for Medaram Jatara",
-          "neutralSummary": "Digital app launched for Medaram Jatara",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Digital app launched for Medaram Jatara",
-              "url": "https://www.thehindu.com/news/national/telangana/digital-app-launched-for-medaram-jatara/article70560807.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Delhi High Court asks for DGCA’s response on norms for pilot rest",
-          "neutralSummary": "The revised Flight Duty Time Limitation norms, put on hold following large-scale flight disruptions in late 2025, are aimed at improving flight safety by limiting the flying hours of pilots and other crew members",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Delhi High Court asks for DGCA’s response on norms for pilot rest",
-              "url": "https://www.thehindu.com/news/national/delhi-high-court-asks-for-dgcas-response-on-norms-for-pilot-rest/article70561162.ece"
+              "headline": "Plea seeking death for Yasin Malik not pressing: Delhi HC",
+              "url": "https://www.hindustantimes.com/india-news/plea-seeking-death-for-yasin-malik-not-pressing-delhi-hc-101769630646210.html"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Woman injured in road accident in Belagavi",
-          "neutralSummary": "Woman injured in road accident in Belagavi",
+          "neutralHeadline": "Ranveer Singh slapped with FIR over ‘Daiva’ remarks",
+          "neutralSummary": "Ranveer Singh slapped with FIR over ‘Daiva’ remarks",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Woman injured in road accident in Belagavi",
-              "url": "https://www.thehindu.com/news/national/karnataka/woman-injured-in-road-accident-in-belagavi/article70560675.ece"
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "FIR against Ranveer Singh for hurting religious sentiments by mocking sacred daiva tradition from Kantara at IFFI",
+              "url": "https://indianexpress.com/article/entertainment/bollywood/fir-against-ranveer-singh-hurting-religious-sentiments-kantara-daiva-iffi-10500612/"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Ranveer Singh slapped with FIR over ‘Daiva’ remarks",
+              "url": "https://economictimes.indiatimes.com/news/india/fir-filed-against-ranveer-singh-over-daiva-remarks-at-goa-film-festival/articleshow/127751244.cms"
             }
           ]
         }
