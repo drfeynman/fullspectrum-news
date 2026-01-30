@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-01-29T14:02:45.377814+00:00",
+  "generatedAt": "2026-01-30T04:00:01.879258+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "China executes 11 people linked to Myanmar scam operation",
-          "neutralSummary": "Beijing has stepped up cooperation with south-east Asian nations to crack down on the multibillion-dollar industryChina on Thursday executed 11 people linked to Myanmar criminal gangs, including “key members” involved in scam operations, state media reported.Scam compounds have flourished in Myanmar",
+          "neutralHeadline": "Trump threatens tariffs on goods from countries that sell oil to Cuba",
+          "neutralSummary": "White House cites Cuba’s ties to hostile powers as order ratchets up Trump’s pressure to topple its governmentDonald Trump signed an executive order on Thursday laying the groundwork to slap tariffs on goods from countries that provide oil to Cuba, the White House said.The order, which ratchets up T",
           "versions": [
             {
               "political": "left",
@@ -15,17 +15,51 @@
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "China executes 11 people linked to Myanmar scam operation",
-              "url": "https://www.theguardian.com/world/2026/jan/29/china-executes-11-people-linked-myanmar-scam-operation"
+              "headline": "Trump threatens tariffs on goods from countries that sell oil to Cuba",
+              "url": "https://www.theguardian.com/us-news/2026/jan/29/trump-tariffs-cuba-oil"
             },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "U.S. allies looking to China for deals as Trump threatens them with tariffs",
+              "url": "https://www.npr.org/2026/01/28/nx-s1-5688905/longtime-u-s-allies-are-shifting-trade-to-asia-due-to-trumps-tariffs-and-rhetoric"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Trump threatens tariffs on countries supplying Cuba with much-needed oil",
+              "url": "https://www.aljazeera.com/news/2026/1/30/trump-threatens-tariffs-on-countries-supplying-cuba-with-much-needed-oil?traffic_source=rss"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump declares national emergency over Cuba, threatens tariffs on nations that supply oil to communist regime",
+              "url": "https://www.foxnews.com/world/trump-declares-national-emergency-cuba-threatens-tariffs-nations-supply-oil-communist-regime"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "EU adds Iran's Revolutionary Guards to terrorist list",
+          "neutralSummary": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters.",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "China executes 11 members of Myanmar scam mafia",
-              "url": "https://www.bbc.com/news/articles/cx2gdrvy9gjo?at_medium=RSS&at_campaign=rss"
+              "headline": "EU adds Iran's Revolutionary Guards to terrorist list",
+              "url": "https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -33,8 +67,183 @@
               "source": "CNN",
               "initials": "CNN",
               "domain": "news.google.com",
-              "headline": "China executes 11 members of gang who ran billion-dollar criminal empire in Myanmar",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaDB0c1VtOXozQWpMd0hsQzRVbFpXdllFVjlZVEdwcWtMY1NIRnFxUkdXWGlCX2dBODRlSS1BNDhsNXZha0hSQ2ItQXdDXzlETkJWUEFHekRWWVN0Qnl1eHJKVjZOQm9QVEpSN2czakNLejZJUktzbmxaQmJBcVBLRUpidw?oc=5"
+              "headline": "Iran warns of ‘hazardous consequences’ after EU designates Revolutionary Guard as a terrorist organization",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0ZDX0Q5eE1FNzF6V0lubVAydjhWQS1OSGlGTnl5VkUzRkx6MTBsOGNVbmdVa1BsR1h6ZmI3cmZUUlJsSWJGVnpqV2RidFlOTFhwdDQ2SkVNamRZQ01fQ0c3aFY1NGN2OFFKd3FTWFczWHVMcDcySVNXc3RzX0s1VVR2bVZBWVc5S3VTNS1TS1Z6V1pUeWM3a0podFVGYmtwUmNUZ0txcw?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "EU to list Iran's Revolutionary Guard as terrorists; Germany warns of rapid action",
+              "url": "https://www.foxnews.com/world/eu-list-irans-revolutionary-guard-terrorists-germany-warns-rapid-action"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Climate change fuelled southern Africa's catastrophic floods",
+          "neutralSummary": "In tonight's edition, extreme flooding in Southern Africa has submerged towns and killed at least 200 people as scientists say climate change will make supercharged rainfall more likely in the years to come. Also, healthcare fraud undermines Kenya's already fragile system. And it is a first in the h",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Crocodile warnings as floods devastate southern Africa",
+              "url": "https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Climate change fuelled southern Africa's catastrophic floods",
+              "url": "https://www.france24.com/en/climate-change-fuelled-southern-africa-s-catastrophic-floods"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "French lawmakers back bill to end 'marital duty'",
+          "neutralSummary": "French lawmakers on Wednesday unanimously approved a bill seeking to end \"marital duty\", after criticism from women's rights groups about its use to ignore sexual consent in marriage and marital rape. The text -- backed by more than 120 MPs in the lower house National Assembly -- clarifies in the ci",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "France moves to abolish concept of marital duty to have sex",
+              "url": "https://www.bbc.com/news/articles/cgjwxdz45ywo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "French lawmakers back bill to end 'marital duty'",
+              "url": "https://www.france24.com/en/french-lawmakers-back-bill-to-end-marital-duty"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Melania Trump documentary not showing in South African cinemas",
+          "neutralSummary": "No reason has been given but the decision follows a huge fall-out between South Africa and the US.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Melania Trump documentary not showing in South African cinemas",
+              "url": "https://www.bbc.com/news/articles/c89q287qxelo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "‘Melania’: What to know about the US first lady’s new documentary",
+              "url": "https://www.aljazeera.com/news/2026/1/29/melania-what-to-know-about-the-us-first-ladys-new-documentary?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "Suspected jihadists attack airport near Niger's capital",
+          "neutralSummary": "Niger's defence ministry said four military personnel were injured and 20 attackers killed in the incident.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Suspected jihadists attack airport near Niger's capital",
+              "url": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Niger military gov’t says France, Benin, Ivory Coast behind airport attack",
+              "url": "https://www.aljazeera.com/news/2026/1/29/niger-military-govt-says-france-benin-ivory-coast-behind-airport-attack?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
+          "neutralHeadline": "Ukraine receives 1,000 bodies in latest soldier swap with Russia",
+          "neutralSummary": "Russia received 38 soldiers' bodies in exchange as part of an agreement between the warring countries.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Ukraine receives 1,000 bodies in latest soldier swap with Russia",
+              "url": "https://www.bbc.com/news/articles/cp9jl8vxdy9o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Russia-Ukraine war: List of key events, day 1,436",
+              "url": "https://www.aljazeera.com/news/2026/1/30/russia-ukraine-war-list-of-key-events-day-1436?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Starmer and Xi call for deeper UK-China ties as Trump shakes up global relations",
+          "neutralSummary": "British Prime Minister Keir Starmer and Chinese leader Xi Jinping in Beijing called for a \"comprehensive strategic partnership\" to deepen ties amid global uncertainty.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Starmer and Xi call for deeper UK-China ties as Trump shakes up global relations",
+              "url": "https://www.npr.org/2026/01/29/g-s1-107743/starmer-and-xi-call-for-deeper-uk-china-ties"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "UK's Starmer meets Xi in Beijing as Trump pressures allies on China trade",
+              "url": "https://www.foxnews.com/world/uks-starmer-meets-xi-beijing-trump-pressures-allies-china-trade"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "China executes 11 people tied to Myanmar scam compounds",
+          "neutralSummary": "China executes 11 people tied to Myanmar scam compounds&nbsp;&nbsp;dw.comWhy China moved so quickly to execute 11 members of a notorious mafia family&nbsp;&nbsp;BBCChina executes 11 members of gang who ran billion-dollar criminal empire in Myanmar&nbsp;&nbsp;CNNChina executes 11 people linked to Mya",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "dw.com",
+              "initials": "D",
+              "domain": "news.google.com",
+              "headline": "China executes 11 people tied to Myanmar scam compounds",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2s1aGRrLS1LSWI3cmtBVEFXTXhSMkdpRWdERUM4eEo5bVY1SlZNaFVaTjJjb1d6ZmVwZmZhQ18yclFrNFFJWF9tUXBoZ2ViS25ZbDYtb3FTWVpRejVPeHNQbElvdy1INUpWaUcyTWViajRiVnRkSDV4a3B6VFpXckVPLU9OS0JNSnBoUWttV2hlQV9Kbm9CRGh6c2dMVGRMcjJqU19HVdIBpwFBVV95cUxNbXRIZGRMMjloMHVyZlpoOVRSYmhvMlROR1hseHdhc3pyTFZydGtRajFXVjlJcGJ3ZUp2TzBtdTRuc3RtUHRmU2wzX1NpU2lRek9aRnJaT2JnckxWcXozQmt1N1M3VzVTSXJ0QjNxVm5zMWQ2akJBOUNSRTZ3RVktdG9mVEpNSGpvdTRCZlJCZEFxNExyQmhNZU8wZks2TGlZaUtWZWJmQQ?oc=5"
             },
             {
               "political": "right",
@@ -46,179 +255,6 @@
               "url": "https://www.foxnews.com/world/china-executes-11-people-convicted-scam-crackdown"
             }
           ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Planes hit by gunfire and blasts heard at airport in Niger capital – reports",
-          "neutralSummary": "Source says two aircraft on ground  ‘destroyed’ although authorities yet to comment on situationGunfire and loud blasts have been heard at the main airport in the Nigerien capital of Niamey, according to the Reuters news agency and an independent source.A witness told Reuters they heard explosions j",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Planes hit by gunfire and blasts heard at airport in Niger capital – reports",
-              "url": "https://www.theguardian.com/world/2026/jan/29/gunfire-blasts-heard-airport-niamey-niger-planes-hit-reports"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Heavy gunfire and blasts heard near airport in Niger's capital",
-              "url": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Thursday briefing: Will Keir Starmer’s cautious China gamble pay off?",
-          "neutralSummary": "In today’s newsletter: With China now central to the world’s green tech​ and economic future, the UK faces a ​s​eries of strategic ​discussions it can no longer postponeGood morning. The Starmer has landed.Yesterday, Keir Starmer became the first British prime minister to make the trip to China sinc",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Thursday briefing: Will Keir Starmer’s cautious China gamble pay off?",
-              "url": "https://www.theguardian.com/world/2026/jan/29/thursday-briefing-will-keir-starmers-cautious-china-gamble-pay-off"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Why is the UK’s Keir Starmer in China and what does he want to achieve?",
-              "url": "https://www.aljazeera.com/news/2026/1/29/why-is-the-uks-keir-starmer-in-china-and-what-does-he-want-to-achieve?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Plane crashes in Colombia, killing all 15 on board",
-          "neutralSummary": "State ariline Satena says its aircraft carrying 13 passengers and two crew \"suffered a fatal accident\".",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Plane crashes in Colombia, killing all 15 on board",
-              "url": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Commercial flight vanishes before crashing in Colombia, killing all 15 people on board, including congressman",
-              "url": "https://www.foxnews.com/world/commercial-flight-vanishes-crashing-colombia-killing-15-people-on-board-congressman"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Russian casualties in Ukraine top 1.2 million, report says",
-          "neutralSummary": "Russian casualties in Ukraine top 1.2 million, report says&nbsp;&nbsp;DW.comRussia’s 1.2 million casualties in Ukraine dwarf all its conflicts since World War II, report says&nbsp;&nbsp;CNNRussia faces a heavy price for limited gains in Ukraine war, death toll estimates suggest&nbsp;&nbsp;NBC NewsRu",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "DW.com",
-              "initials": "D",
-              "domain": "news.google.com",
-              "headline": "Russian casualties in Ukraine top 1.2 million, report says",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUx5QmxON1RLSjdHcW52TWJ0T3MxeS1CdHBBMjY4eE96Znl6NXBBTFJIaGhFTVBUWjA1ckpZWEpfNkdyWnJtSDB4YWgwaWFWTEJxbGxRT3ZYeDlfd0pxTF96U1loc1JOWUtWcWtVYlJETlJHQ2E3dm1DZXEtZU41X2pPR0tOMFJINnhSbE9Xb29FMDdRNVVBdNIBmAFBVV95cUxQR0M4Z3FQSVVUMF9qanJ3THBCT1p1Mk1QeTFFbm4wVFpwc0J3ck1pTEgzcEJiWnBnQ0NEdUd4R1ZlM1ZTWTJXaVg2Qk9vVUZCeXJxWmpqOTllaWI2U3Q1TnVjaWlnc0EyeUc0UWVNZmNfakpjM3NLdkc5VkNmR3c2Z3plMEg5UjR2UXhqLXRKUXBlYW5hMXJudQ?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Combined war casualties for Russia and Ukraine could hit 2 million, new report warns",
-              "url": "https://www.foxnews.com/world/combined-war-casualties-russia-ukraine-could-hit-2-million-new-report-warns"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Rybakina survives Pegula rally to set up Sabalenka rematch in Australian Open final",
-          "neutralSummary": "Elena Rybakina battled past Jessica Pegula to reach the Australian Open final on Thursday, with the fifth seed setting up a repeat of her 2023 title match against Aryna Sabalenka, who earlier defeated Ukraine's Elina Svitolina in a politically charged semi-final.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Sabalenka, Rybakina to meet in Australian Open final",
-              "url": "https://www.aljazeera.com/sports/2026/1/29/sabalenka-defeats-svitolina-to-reach-australian-open-final?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Rybakina survives Pegula rally to set up Sabalenka rematch in Australian Open final",
-              "url": "https://www.france24.com/en/sport/20260129-rybakina-survives-pegula-rally-to-set-up-sabalenka-rematch-in-australian-open-final"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
-          "neutralSummary": "Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last weekUp to 380 people may have drowned attempting to cross the Mediterranean last week as Cyclone Harry battered southern Italy and Malta, the Italian coastguard has said, as a shipwreck with the loss of 50",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
-              "url": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Crocodile warnings as floods devastate southern Africa",
-          "neutralSummary": "More than 100 people killed and hundreds of thousands displaced in South Africa, Mozambique and ZimbabweDevastating floods have killed more than 100 people in southern Africa since the beginning of the year and displaced hundreds of thousands, as authorities and aid workers warn of hunger, cholera a",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Crocodile warnings as floods devastate southern Africa",
-              "url": "https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
-          "neutralSummary": "Despite US pushback, officials in west Africa say controversial hepatitis B study on pause amid ethics concernsUS health officials insisted it was still on. African health leaders said it was cancelled. At the heart of the controversy is the west African nation of Guinea-Bissau – one of the poorest",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "‘It’s the sovereignty of the country’: Guinea-Bissau says US vaccine study suspended",
-              "url": "https://www.theguardian.com/world/2026/jan/23/guinea-bissau-hepatitis-b-vaccine-study"
-            }
-          ]
         }
       ]
     },
@@ -227,35 +263,17 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Klobuchar launches bid for Minnesota governor",
-          "neutralSummary": "Sen. Amy Klobuchar (D-Minn.) on Thursday officially threw her hat in the ring to run for governor of Minnesota. &#8220;Minnesotans, we’ve been through a lot,&#8221; she wrote on the social platform X. &#8220;And I believe this moment calls for grit, resilience, and faith in each other. I believe we",
+          "neutralHeadline": "Live updates: Senate finds deal with DHS funding that could avoid shutdown",
+          "neutralSummary": "Hours after Senate Democrats and a few Republicans took down a procedural vote that would have advanced a major government funding package, the Senate found a deal that could yet avoid a partial government shutdown. The agreement will split the bill funding the Department of Homeland Security (DHS)",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Amy Klobuchar Announces Run for Minnesota Governor",
-              "url": "https://www.nytimes.com/2026/01/29/us/politics/amy-klobuchar-minnesota-governor.html"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Saying Minnesota has 'been through a lot,' Klobuchar announces bid for governor",
-              "url": "https://www.npr.org/2026/01/29/nx-s1-5680243/klobuchar-walz-minnesota-governor-midterm-election"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "CNN",
-              "initials": "CNN",
-              "domain": "news.google.com",
-              "headline": "Sen. Amy Klobuchar launches her bid for Minnesota governor",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2JlXzFGdTJQa0ZEYXdfLVRlNGNBWnR6VWd1Sm9ER3BWRUNjTm5SZmQ5d3BMc2VKSHY1WXZ2Ymg2aHBjS05sRU15V3RKd3F6bWFqNlNpN01HalF3ZEtJaG1SRGZGa2RPMHNSaURJa1B1bzJMQUJob21PdE1zSV9oNjhiS00yN2F2bjhtZzhn?oc=5"
+              "headline": "Senate to move ahead with spending deal but shutdown appears inevitable",
+              "url": "https://www.npr.org/2026/01/29/g-s1-107762/senate-shutdown-vote-fails"
             },
             {
               "political": "center",
@@ -263,8 +281,8 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Klobuchar launches bid for Minnesota governor",
-              "url": "https://thehill.com/homenews/campaign/5712254-klobuchar-launches-minnesota-governor-bid/"
+              "headline": "Live updates: Senate finds deal with DHS funding that could avoid shutdown",
+              "url": "https://thehill.com/homenews/administration/5711005-live-updates-trump-minnesota-shutdown/"
             },
             {
               "political": "right",
@@ -272,67 +290,8 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Klobuchar launches Minnesota governor bid after Walz ends re-election run amid massive fraud scandal",
-              "url": "https://www.foxnews.com/politics/klobuchar-launches-minnesota-governor-bid-after-walz-ends-re-election-run-amid-massive-fraud-scandal"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Sen. Amy Klobuchar announces bid for Minnesota governor: ‘We’ve been through a lot’",
-              "url": "https://nypost.com/2026/01/29/us-news/sen-amy-klobuchar-announces-bid-for-minnesota-governor/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Amy Klobuchar announces run for Minnesota governor, citing federal operation",
-              "url": "https://www.washingtonexaminer.com/news/4438581/amy-klobuchar-announces-run-minnesota-governor-federal-operation/"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Veteran Senator Destroys JD Vance After He Compares Her To Forrest Gump",
-          "neutralSummary": "The vice president's attempt to mock Sen. Tammy Duckworth (D-Ill.), who earned a Purple Heart and served in Iraq, did not go well for him.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Veteran Senator Destroys JD Vance After He Compares Her To Forrest Gump",
-              "url": "https://www.huffpost.com/entry/tammy-duckwroth-jd-vance-forrest-gump_n_697a870fe4b048cde87289a1"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Senate Democrat fires back after VP Vance makes Forrest Gump comparison",
-              "url": "https://www.foxnews.com/politics/senate-democrat-fires-back-after-vp-vance-makes-forrest-gump-comparison"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Trump Hung Up A Picture Of Vladimir Putin In The White House",
-          "neutralSummary": "Things that make you go, \"hmmm.\"",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Hung Up A Picture Of Vladimir Putin In The White House",
-              "url": "https://www.huffpost.com/entry/donald-trump-vladimir-putin-picture-white-house_n_697a7d13e4b025706e8699a3"
+              "headline": "House conservatives skeptical as Senate deal sacrificing DHS spending reached: 'Non-starter'",
+              "url": "https://www.foxnews.com/politics/house-conservative-skeptical-senate-deal-sacrificing-dhs-spending-reached-non-starter"
             },
             {
               "political": "right",
@@ -340,15 +299,58 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "White House Says Trump Accounts Are Antidote To Socialism",
-              "url": "https://www.dailywire.com/news/white-house-says-trump-accounts-are-antidote-to-socialism"
+              "headline": "White House And Senate Dems Strike Deal Ahead Of Government Shutdown",
+              "url": "https://www.dailywire.com/news/white-house-and-senate-dems-strike-deal-ahead-of-government-shutdown"
             }
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "House Republicans fume at Kristi Noem as impeachment push looms",
-          "neutralSummary": "House Republicans fume at Kristi Noem as impeachment push looms&nbsp;&nbsp;AxiosHow much trouble is Kristi Noem in?&nbsp;&nbsp;vox.comNoem’s Handling of Shooting Put Her in Trump’s Penalty Box, but Just Briefly&nbsp;&nbsp;The New York TimesTrump dings Murkowski, Tillis after their Noem criticism, ca",
+          "id": "us-2",
+          "neutralHeadline": "Trump, two sons, Trump Org sue IRS, Treasury for $10 billion over tax records leak",
+          "neutralSummary": "Trump, two sons, Trump Org sue IRS, Treasury for $10 billion over tax records leak&nbsp;&nbsp;CNBCTrump sues IRS and Treasury for $10 billion over leaked tax records&nbsp;&nbsp;The Washington PostTrump reportedly sues US Treasury and IRS for $10bn; US Senate reaches deal to avert partial government",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Sues I.R.S. Over Tax Data Leak, Demanding $10 Billion",
+              "url": "https://www.nytimes.com/live/2026/01/29/us/trump-news/trump-irs-lawsuit"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNBC",
+              "initials": "C",
+              "domain": "news.google.com",
+              "headline": "Trump, two sons, Trump Org sue IRS, Treasury for $10 billion over tax records leak",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWkhISFFWWmRoWURZX1pqMDVZNUx6WFAxbGtORkJnbHNyazhrM2xFQzBycnF1OVEzWFFaakdXUmIzbk16UEhsY3BLb2JHWGc0d21hUm9EQVRJSHgwcUI5Q2VISG43dlZSb1RDRTFnZnQtOWlyOXdjeGhMLXUxMUNhR1g3YVFnRGFYMVBXbmRVQVBWT25OYThXUXYxT1hSVjVFLTUtU3pvNNIBrAFBVV95cUxOWXJRdXBrcVQ4bWJ2M1dCSjFlVkR5RWp4ZXNSeThfV3JYUkV5UEMxTExJek14QW9yNG41eFE4V1JjQ2tjY2t6d1p1dTNfQ0tTUmlUU3hzdFpkREVSOWpfMzJ4Uk1GNmJZOTNzSkV2UEltWkUxN001MzU5dHllV1ZqWi1SaHF1VDJoRjlkcE9TeDNFWlFFYVJsMnJoQVY0RmZhU2FaRmk5RTI5NEtk?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump sues IRS for $10B over leaked tax returns",
+              "url": "https://thehill.com/regulation/court-battles/5714154-trump-lawsuit-irs-damages/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump sues IRS and Treasury for $10 billion over tax return leak",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4440105/trump-sues-irs-treasury-tax-return-leak/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Substance Revealed In Ilhan Omar Spray Attack",
+          "neutralSummary": "The progressive House member&rsquo;s office confirmed the preliminary finding as to what was used in the assault.",
           "versions": [
             {
               "political": "left",
@@ -356,25 +358,9 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Tim Walz Can't Resist Launching Personal Dig At Kristi Noem Amid Impeachment Cry",
-              "url": "https://www.huffpost.com/entry/tim-walz-kristi-noem-not-have-any-dogs_n_697a08a2e4b05884820b8aed"
+              "headline": "Substance Revealed In Ilhan Omar Spray Attack",
+              "url": "https://www.huffpost.com/entry/ilhan-omar-apple-cider-vinegar-spray-attack_n_697b34a8e4b00b1deb8f7767"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Axios",
-              "initials": "AX",
-              "domain": "news.google.com",
-              "headline": "House Republicans fume at Kristi Noem as impeachment push looms",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBydzFIWWdMTUlIM1EtLTJUTGZSVDZFZGxFdzJOMFVtcEd6cWFXXzl2Y3l0Znk3VW9GeXlSX0FEbHNwWmhyRDhKLUc5TjNWbGNDVHlQT1BTb0diX01sWkRaQ0VaNmNwckVZbkNvT1lEb3NyU3ppbWphdnRR?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "How Trump endangered Ilhan Omar",
-          "neutralSummary": "This story appeared in&#160;The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&#160;Subscribe here. Welcome to The Logoff: President Donald Trump is refusing to tone down his rhetoric after an attack on Democ",
-          "versions": [
             {
               "political": "left",
               "tone": "pessimistic",
@@ -386,44 +372,128 @@
             },
             {
               "political": "right",
-              "tone": "pessimistic",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "DOJ Charges Man In Apple Cider Vinegar Attack On Ilhan Omar",
+              "url": "https://www.dailywire.com/news/doj-charges-man-in-apple-cider-vinegar-attack-on-ilhan-omar"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Trump looks ready to bomb Iran again. Why?",
+          "neutralSummary": "It appears increasingly likely that in the coming days, the United States will once again launch airstrikes against Iran. On Wednesday, President Donald Trump posted on his Truth Social platform that a “massive Armada is heading to Iran,” referring to the aircraft carrier USS Abraham Lincoln and sev",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Trump looks ready to bomb Iran again. Why?",
+              "url": "https://www.vox.com/politics/477189/trump-iran-military-strikes-carrier-protests-nuclear"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "War Threats and Ambiguous Evidence: Trump Again Confronts Iran",
+              "url": "https://www.nytimes.com/2026/01/29/us/politics/trump-iran-israel-intel.html"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Democrats and Trump strike government funding deal as shutdown looms",
+          "neutralSummary": "Democrats and Trump strike government funding deal as shutdown looms&nbsp;&nbsp;The Washington PostTrump says deal reached on stopgap spending bill for DHS, but weekend shutdown still possible&nbsp;&nbsp;Federal News NetworkHere’s what could be affected if the government shuts down again&nbsp;&nbsp;",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Democrats and Trump strike government funding deal as shutdown looms",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDBIZi1VZ1lOaThxSXF6RjZPMGVRdWdITVhUb1dwQlZTZk5TOGw0aG9XVnpSaldlVGtBdHNkMDU2T2tRZlNzN0hfa2J5bXB3STlFRktCZW5rTU9qRTNWOHhscVhrM3BUbGlPX1o2WUxnNVJzZk9nYWVZU3FtYVFRYjYwNDZFTmpZNTdJSnNzVHJDNFF3NDU4?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Ilhan Omar blames Trump’s rhetoric for surge in death threats, including spray attack: 'So obsessed with me'",
-              "url": "https://www.foxnews.com/politics/ilhan-omar-blames-trump-rhetoric-surge-death-threats-spray-attack-so-obsessed-me"
+              "headline": "Trump, Schumer reach government funding deal, sacrifice DHS spending bill in the process",
+              "url": "https://www.foxnews.com/politics/trump-schumer-reach-government-funding-deal-sacrifice-dhs-spending-bill-process"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Trump, Chuck Schumer agree on government funding deal, but partial shutdown still in the cards",
+              "url": "https://nypost.com/2026/01/29/us-news/trump-schumer-agree-on-government-funding-deal-but-partial-shutdown-still-in-the-cards/"
             }
           ]
         },
         {
           "id": "us-6",
-          "neutralHeadline": "Shirley Raines, Who Gave L.A.’s Homeless Food and Makeovers, Is Dead",
-          "neutralSummary": "Her work feeding people and dyeing their hair through her Los Angeles nonprofit, Beauty 2 the Streetz, was known to millions online.",
+          "neutralHeadline": "Sen. Amy Klobuchar Announces Run For Minnesota Governor",
+          "neutralSummary": "The No. 3 Senate Democrat joins a growing list of senators heading for the exits.&nbsp;&nbsp;",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Shirley Raines, Who Gave L.A.’s Homeless Food and Makeovers, Is Dead",
-              "url": "https://www.nytimes.com/2026/01/29/us/ms-shirley-raines-dead-skid-row.html"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Sen. Amy Klobuchar Announces Run For Minnesota Governor",
+              "url": "https://www.huffpost.com/entry/amy-klobuchar-governor-minnesota_n_69777b4ce4b084f2a18f34cd"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Shirley Raines, who fed and cared for the homeless of Skid Row, dies at 58",
-              "url": "https://www.washingtonpost.com/obituaries/2026/01/28/shirley-raines-dead-beauty-2-the-streetz/"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Saying Minnesota has 'been through a lot,' Klobuchar announces bid for governor",
+              "url": "https://www.npr.org/2026/01/29/nx-s1-5680243/klobuchar-walz-minnesota-governor-midterm-election"
             }
           ]
         },
         {
           "id": "us-7",
-          "neutralHeadline": "Schumer, Trump working on deal to avoid government shutdown",
-          "neutralSummary": "Senate Democratic Leader Chuck Schumer (N.Y.) and President Trump are moving toward a deal to separate Department of Homeland Security (DHS) funding from five other House-passed appropriations bills in hopes of avoiding a partial government shutdown this weekend, according to a source familiar with",
+          "neutralHeadline": "Why Trump is threatening Iran again",
+          "neutralSummary": "This story appeared in&#160;The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&#160;Subscribe here. Welcome to The Logoff: More US naval forces are arriving in the Middle East as President Donald Trump threat",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Why Trump is threatening Iran again",
+              "url": "https://www.vox.com/the-logoff-newsletter-trump/477167/why-trump-is-threatening-iran-again"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Weighs New Military Options Against Iran",
+              "url": "https://www.nytimes.com/2026/01/29/us/trump-military-options-against-iran.html"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Maps: Where the U.S. Is Building Up Military Force Near Iran",
+          "neutralSummary": "President Trump has not authorized military action in Iran, but the U.S. has built up its presence in the region in recent days.",
           "versions": [
             {
               "political": "left",
@@ -431,67 +501,24 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Trump and Schumer Move Toward Possible Deal to Avert a Shutdown",
-              "url": "https://www.nytimes.com/2026/01/28/us/trump-schumer-deal-shutdown.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Schumer, Trump working on deal to avoid government shutdown",
-              "url": "https://thehill.com/homenews/senate/5712362-trump-schumer-government-shutdown-dhs-funding/"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "FBI executes search warrant seeking ballots from Fulton County’s 2020 election",
-          "neutralSummary": "The FBI executed a search warrant in Fulton County, Georgia, for 2020 election ballots, as President Donald Trump seeks to find already debunked voter fraud.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "FBI executes search warrant seeking ballots from Fulton County’s 2020 election",
-              "url": "https://www.washingtonpost.com/national-security/2026/01/28/fbi-fulton-2020-election-fraud/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "FBI Raids Fulton County Office As Part Of 2020 Election Interference Probe",
-              "url": "https://www.dailywire.com/news/fbi-raids-fulton-county-office-as-part-of-2020-election-interference-probe"
+              "headline": "Maps: Where the U.S. Is Building Up Military Force Near Iran",
+              "url": "https://www.nytimes.com/2026/01/29/us/politics/trump-iran-us-military-maps.html"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Video appears to show altercation between Alex Pretti and federal agents days before his death",
-          "neutralSummary": "New video revealed Wednesday appears to show Alex Pretti, the ICU nurse who was shot and killed over the weekend by federal immigration officers in Minneapolis, in an altercation with federal authorities over a week before his death. The footage, taken on Jan. 13, shows an alleged Pretti hurling exp",
+          "neutralHeadline": "Brendan Banfield Denies Plot in Double Murder Trial, Calling Accusations ‘Crazy’",
+          "neutralSummary": "Brendan Banfield rebuffed claims that he had made an elaborate plan for the killings with the family’s au pair, with whom he had an affair.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Two federal agents shot Alex Pretti, initial government review reveals",
-              "url": "https://www.washingtonpost.com/nation/2026/01/27/alex-pretti-shooting-minneapolis-ice-bovino/"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Video appears to show altercation between Alex Pretti and federal agents days before his death",
-              "url": "https://thehill.com/homenews/state-watch/5712233-video-alex-pretti-altercation-federal-officers-minnesota/"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Brendan Banfield Denies Plot in Double Murder Trial, Calling Accusations ‘Crazy’",
+              "url": "https://www.nytimes.com/2026/01/29/us/brendan-banfield-double-murder-trial.html"
             }
           ]
         }
@@ -502,58 +529,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Punggol self-driving vehicle’s collision due to human intervention",
-          "neutralSummary": "The vehicle was undergoing routine mapping and familiarisation on Jan 17 when the collision occurred.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Punggol self-driving vehicle’s collision due to human intervention",
-              "url": "https://www.straitstimes.com/singapore/transport/human-error-behind-comfortdelgro-self-driving-vehicle-collision-with-road-divider-in-punggol-lta"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Punggol self-driving car accident a result of manual intervention by on-board safety officer: LTA",
-              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1FEM3BBLUlfanV2LVJ0bk1jQ2QwODBKbDNWUVNlUHNrMEJMaGc2Sjd0LTMwVGZqakk5UW5DV1hIanRhNkNfOG5PRFRHOGdaZVB2bVRuTzQzQkYzcXB5THhySDlCamNxTXRpRUhyYS1BY1ZHcHJBOVZQcmE4eXlIX2Z5LWxnbGJpSXJFRXNjZ2FnUGpzVnZleXhmSWdjWWt6?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-2",
-          "neutralHeadline": "Ex-actor Edmund Chen jailed 5 days over AYE accident that caused motorcyclist to suffer fractures",
-          "neutralSummary": "The judge also disqualified Chen from driving for five years.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Ex-actor Edmund Chen jailed 5 days over AYE accident that caused motorcyclist to suffer fractures",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/ex-actor-edmund-chen-jailed-5-days-over-aye-accident-that-caused-motorcyclist-to-suffer-fractures"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Former actor Edmund Chen gets jail and driving ban over collision that left motorcyclist with fractures",
-              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmNJVlZWNEctcElvQ0ZYWEhHMTBYZGFuTlgtOWU5cy0yRmxSczBvWXlTVkI3VEhpMGE2M1NlNW41VVY4cDdLZ1FwcVBGRlpRUDFQakdIR0g5M0pTUXQzSXpJR2ZPcUJNeGk2ODRiRjVjcjlMd2Z3UHZUWFVEQXlocUxvTkJnWXVqUDNlNTVuazZVdHFVOUlUMnRjWTVINGduTHMwcDJn?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
-          "neutralHeadline": "Malaysia to penalise foreign-registered vehicle owners who buy subsidised RON95 petrol starting Apr 1",
-          "neutralSummary": "Currently, Malaysia only charges petrol station operators for selling the subsidised fuel to foreign-registered vehicles.",
+          "neutralHeadline": "Indonesia stock exchange CEO resigns after US$80 billion market rout",
+          "neutralSummary": "Indonesia stock exchange CEO resigns after US$80 billion market rout",
           "versions": [
             {
               "political": "center",
@@ -561,58 +538,8 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Malaysia to penalise foreign-registered vehicle owners who buy subsidised RON95 petrol starting Apr 1",
-              "url": "https://www.channelnewsasia.com/asia/malaysia-ron95-petrol-foreign-vehicles-penalties-april-5893261"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Malaysia to ban the purchase of RON95 petrol for foreign-registered vehicles from April 1",
-              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMEdMQmFSVjh4YUhhTVctOF9qcTNnNFhwNmlTb2pQZXhZS3I2cVFBa1h0OUppV3ZDMENxSkV1NUp4Sy1BT09wUGFmZG52a25qSm5BREp0dUZPcTNFeTVHZVp0d1N3YWFYRG1telFqME1QeGhiUWNaclVvWmZOeGlQdXFEY0VsTm9SSEFmUFhLZ08xQzVXS3FFb2NNWEcxcG1fTEpZRV9fa0pXVTVqT0t6dDdHX2NscmJQdGpmczFTVGMtc2NiTGU4?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "China executes 11 people linked to Myanmar scam compounds",
-          "neutralSummary": "Among those executed were \"key members\" of the \"Ming family criminal group\", whose activities had contributed to the deaths of 14 Chinese citizens and injuries to \"many others\", Xinhua reported.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "China executes 11 people linked to Myanmar scam compounds",
-              "url": "https://www.channelnewsasia.com/east-asia/china-executes-11-people-linked-myanmar-scam-compounds-ming-family-group-5893156"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "China executes 11 members of Myanmar scam mafia",
-              "url": "https://www.bbc.com/news/articles/cx2gdrvy9gjo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Blackstone to become largest shareholder of Hong Kong's New World, Bloomberg reports",
-          "neutralSummary": "Blackstone to become largest shareholder of Hong Kong's New World, Bloomberg reports",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Blackstone to become largest shareholder of Hong Kong's New World, Bloomberg reports",
-              "url": "https://www.channelnewsasia.com/business/blackstone-become-largest-shareholder-hong-kongs-new-world-bloomberg-reports-5893786"
+              "headline": "Indonesia stock exchange CEO resigns after US$80 billion market rout",
+              "url": "https://www.channelnewsasia.com/asia/indonesia-stock-exchange-ceo-iman-rachman-resign-msci-5895556"
             },
             {
               "political": "center",
@@ -620,31 +547,113 @@
               "source": "Bloomberg",
               "initials": "BB",
               "domain": "bloomberg.com",
-              "headline": "Blackstone in Talks to Become New World’s Top Shareholder",
-              "url": "https://www.bloomberg.com/news/articles/2026-01-29/blackstone-nears-deal-to-become-new-world-s-largest-shareholder"
+              "headline": "Indonesia Stock Exchange CEO Resigns After Market Selloff",
+              "url": "https://www.bloomberg.com/news/articles/2026-01-30/indonesia-stock-exchange-ceo-resigns-after-market-rout"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "ASEAN does not recognise Myanmar's elections, which military-backed party claims to have won",
+          "neutralSummary": "ASEAN does not recognise Myanmar's elections, which military-backed party claims to have won",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "ASEAN does not recognise Myanmar's elections, which military-backed party claims to have won",
+              "url": "https://www.channelnewsasia.com/asia/asean-does-not-recognise-myanmar-elections-5895366"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
+          "neutralHeadline": "What does British PM Keir Starmer’s China trip say about Western hedging in a Trump era?",
+          "neutralSummary": "Leaders from Ireland, Canada, Finland - and now the United Kingdom - have visited China within a month as the US rattles the world order. Structural factors limit the scope for deeper cooperation, say analysts.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "What does British PM Keir Starmer’s China trip say about Western hedging in a Trump era?",
+              "url": "https://www.channelnewsasia.com/east-asia/china-uk-starmer-visit-western-leaders-hedge-trump-world-order-5894121"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "What’s the potential cost of India’s US$100 billion bet on AI data centres?",
+          "neutralSummary": "India’s data centre investments are set to top US$100 billion by 2027, even as water, power and environmental concerns slow expansion elsewhere. In part two of CNA’s series on India’s AI push, we look at what’s driving the boom - and the lessons ahead.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "What’s the potential cost of India’s US$100 billion bet on AI data centres?",
+              "url": "https://www.channelnewsasia.com/asia/india-ai-data-centre-water-power-environment-5894041"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Elon Musk's SpaceX said to consider merger with Tesla, Bloomberg News reports",
+          "neutralSummary": "Elon Musk's SpaceX said to consider merger with Tesla, Bloomberg News reports",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Elon Musk's SpaceX said to consider merger with Tesla, Bloomberg News reports",
+              "url": "https://www.channelnewsasia.com/business/elon-musks-spacex-said-consider-merger-tesla-bloomberg-news-reports-5895146"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Musk's SpaceX Said to Weigh Tie-Up With Tesla or xAI",
+              "url": "https://www.bloomberg.com/news/videos/2026-01-30/musk-s-spacex-said-to-weigh-tie-up-with-tesla-or-xai-video"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "PropertyLimBrothers saga: Who are Melvin Lim and Grayce Tan?",
-          "neutralSummary": "The two senior executives at the prominent real estate agency resigned abruptly following online rumours about them.",
+          "neutralHeadline": "Trump Warns UK on ‘Dangerous’ Moves After Xi-Starmer Talks",
+          "neutralSummary": "President Donald Trump warned the UK and Canada against striking fresh business deals with China, after their leaders visited Beijing this month in an effort to deepen ties with the world’s second-largest economy.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "PropertyLimBrothers saga: Who are Melvin Lim and Grayce Tan?",
-              "url": "https://www.straitstimes.com/singapore/propertylimbrothers-saga-who-are-melvin-lim-and-grayce-tan"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Trump Warns UK on ‘Dangerous’ Moves After Xi-Starmer Talks",
+              "url": "https://www.bloomberg.com/news/articles/2026-01-30/trump-warns-uk-on-dangerous-china-moves-after-xi-starmer-talks"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Trump says 'very dangerous' for UK to deal with China",
+              "url": "https://www.bbc.com/news/articles/c0keyyeyr41o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "Several hot spots detected on Bintan but haze from Indonesian island unlikely to hit Singapore: NEA",
-          "neutralSummary": "The hot spots identified on Bintan are downwind, said NEA.",
+          "neutralHeadline": "Clerical error led to man’s early release from jail; remainder of sentence already served",
+          "neutralSummary": "His 32-week jail term was recorded as 20 weeks.",
           "versions": [
             {
               "political": "center",
@@ -652,15 +661,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Several hot spots detected on Bintan but haze from Indonesian island unlikely to hit Singapore: NEA",
-              "url": "https://www.straitstimes.com/singapore/several-hot-spots-detected-in-bintan-but-haze-unlikely-to-hit-singapore-nea"
+              "headline": "Clerical error led to man’s early release from jail; remainder of sentence already served",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/clerical-error-led-to-mans-early-release-from-jail-remainder-of-sentence-already-served"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "ST Explains: What needs to happen next for the Government to acquire 38 Oxley Road?",
-          "neutralSummary": "SLA will appoint an independent property valuer to determine the market value of the site.",
+          "neutralHeadline": "Public can use EZ-link card to get 10-cent refund when recycling drink bottles, cans from April",
+          "neutralSummary": "About 1,000 return points, comprising mainly machines, will be set up islandwide.",
           "versions": [
             {
               "political": "center",
@@ -668,15 +677,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "ST Explains: What needs to happen next for the Government to acquire 38 Oxley Road?",
-              "url": "https://www.straitstimes.com/singapore/st-explains-what-needs-to-happen-next-for-the-government-to-acquire-38-oxley-road"
+              "headline": "Public can use EZ-link card to get 10-cent refund when recycling drink bottles, cans from April",
+              "url": "https://www.straitstimes.com/singapore/environment/public-can-use-ez-link-card-to-get-10-cent-refund-when-recycling-drink-bottles-cans-from-april"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Experienced investor loses $400k after downloading fake investment app from Apple Store",
-          "neutralSummary": "The scammers would message her frequently and treat her like a friend, which caused her to let her guard down.",
+          "neutralHeadline": "S’pore buyers dealing with online seller paid $70k for K-pop goods that never arrived",
+          "neutralSummary": "They have compiled a list over dealings with purported seller with the same username, filed police reports.",
           "versions": [
             {
               "political": "center",
@@ -684,8 +693,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Experienced investor loses $400k after downloading fake investment app from Apple Store",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/experienced-investor-loses-400k-after-downloading-fake-investment-app-from-apple-store"
+              "headline": "S’pore buyers dealing with online seller paid $70k for K-pop goods that never arrived",
+              "url": "https://www.straitstimes.com/singapore/spore-buyers-dealing-with-online-seller-paid-70k-for-k-pop-goods-that-never-arrived"
             }
           ]
         }
@@ -696,58 +705,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Budget outlay could redraw India’s border playbook",
-          "neutralSummary": "Budget outlay could redraw India’s border playbook",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "India's First-Ever Budget Was Presented In 1860 By This Englishman",
-              "url": "https://www.ndtv.com/india-news/union-budget-2026-india-s-first-ever-budget-was-presented-in-1860-by-this-englishman-10828859#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Budget outlay could redraw India’s border playbook",
-              "url": "https://economictimes.indiatimes.com/news/defence/budget-outlay-could-redraw-indias-border-playbook/articleshow/127774947.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "3 minors gang-rape 6-year-old in Delhi, woman hands over accused son to police",
-          "neutralSummary": "The girl was returning from her aunt's place when the boys lured her and took her to a terrace where she was raped.&nbsp;",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "6-Year-Old Girl Allegedly Gang-Raped By 3 Minors In Delhi",
-              "url": "https://www.ndtv.com/delhi-news/6-year-old-girl-allegedly-gang-raped-by-3-minors-in-delhi-10907157#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "3 minors gang-rape 6-year-old in Delhi, woman hands over accused son to police",
-              "url": "https://www.hindustantimes.com/india-news/3-minors-gang-rape-6-year-old-in-delhi-woman-hands-over-accused-son-to-police-101769687439751.html"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "'Our captain needs to attend to his oven': Iceland Cricket puts PCB on ice with World Cup satire",
-          "neutralSummary": "Iceland Cricket humorously declined a hypothetical offer to replace Pakistan in the T20 World Cup, citing player commitments like baking and banking. They playfully jabbed at other nations and suggested Uganda might benefit from Pakistan's potential withdrawal. The Pakistan Cricket Board is expected",
+          "neutralHeadline": "India should not chase frontier AI models: Economic Survey 2025-26",
+          "neutralSummary": "India should instead focus on developing smaller, sector-specific AI tools aligned with its economic priorities, the Economic Survey 2025-26 has recommended.",
           "versions": [
             {
               "political": "left",
@@ -755,108 +714,17 @@
               "source": "Indian Express",
               "initials": "IE",
               "domain": "indianexpress.com",
-              "headline": "‘Our captain is a baker’: Iceland Cricket’s ‘open letter’ mocks T20 World Cup drama around Pakistan",
-              "url": "https://indianexpress.com/article/sports/cricket/iceland-cricket-open-letter-mocks-pakistans-t20-world-cup-drama-10501878/"
+              "headline": "Economic Survey: Almost all of India’s climate finance needs being met domestically, but not enough",
+              "url": "https://indianexpress.com/article/india/economic-survey-indias-climate-finance-domestically-10502590/"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Our captain needs to attend to his oven': Iceland Cricket puts PCB on ice with World Cup satire",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/our-captain-needs-to-attend-to-his-oven-iceland-cricket-puts-pcb-on-ice-with-world-cup-satire/articleshow/127774965.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "21 dead in warehouse fire near Kolkata, 28 still missing; BJP accuses govt of ‘lapse’",
-          "neutralSummary": "Police officers said the fire broke out around 3 am on Monday in one warehouse and soon spread to the adjacent one",
-          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "21 dead in warehouse fire near Kolkata, 28 still missing; BJP accuses govt of ‘lapse’",
-              "url": "https://www.hindustantimes.com/india-news/21-dead-in-warehouse-fire-near-kolkata-28-still-missing-bjp-accuses-govt-of-lapse-101769690614636.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "Kolkata godown fire: 11 charred bodies recovered, 23 still missing; families in limbo",
-              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSFd3WHdsMDN3Q0tVcTUzR1F3U2VNS1Z2OF9tZTBwMnc4TThxSkxUcUVUTXFWakVvUVVzb1BvQ1ZyXzJmS0tQcml6YlkyWEF5Q2I1YV94djNpM1UwdExMM0x6ZnVoa0FLeE5mMzFEWE8zYXlnRmhmTlIzOWVBUHNHOFphcnRMMDFvT0JlZ05VRXRtZGdTODBpTnNVTHNMUUljNlhYdi1jUFlUeC1nUHh3TEhEZWRocE40MEgtM0RWUURDZEcw0gHKAUFVX3lxTE52cU5GYXhQNHRXbFE4NUhUVElsdExVNnBUVFBkdVpiSTZacHFlTmlGUU9Xa1RnSnNXTFJVYmNiVVpKWFF5TEZkTHdQQ3BWSEtWMkhmOHM4SGJXTk81bzlFRDU2Rk9uY1JLd1BZNFRKaUFOMHduYThZNTJSZUdMc1lwLWMtQmR2TmdnUEVCZHdKN04xek9sXzV1TW5fX0JTZk9RZDNHelk4SzVRTi1XZHJaQTUxSVJnS1gxVUZ6Rkx3SXRJUC1qblh6SWc?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Uttarakhand: 50-year-old detained for assault on Kashmiri shawl seller, probe on",
-          "neutralSummary": "Danish (18) and his younger brother Tabiz (17), who were selling Kashmiri shawls in the area, were allegedly attacked on Wednesday: Police",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Uttarakhand: 50-year-old detained for assault on Kashmiri shawl seller, probe on",
-              "url": "https://www.hindustantimes.com/india-news/uttarakhand-50-year-old-arrested-for-assault-on-kashmiri-shawl-seller-probe-on-101769691402179.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "greaterkashmir.com",
-              "initials": "G",
-              "domain": "news.google.com",
-              "headline": "Young Kashmiri shawl seller suffers fractures, head injuries in Uttarakhand mob attack",
-              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmVWVWl5cE00LXVQQ05uWjJ3TUFPSS12WkdBaWRGWEROdElDbURnOWVqOUIzT3UwU1N5Yk5tN3dsSTFQTlB6RlVEbmFxVTNYUVJ0SmNqUzZ2UEpsazFjZV85c2dBS09jQ0dQMlJkc1MxSGFxTnNfell6VXNhRk5qMHdiWWZjdEtuU1J4TmRNVFVvZW5sYWl4c0pvRkJrUGEtMDdSZmxsaFI2bnlreVhZcFZKMlFDZ0NuV2pDWFFycFJUOWkwRjByVNIBzgFBVV95cUxNdWlHMFNMMjI4cURDRF9TQWNNVzZEQm93YjM4WjNHRlo2bmxSTDJzZjZqbVgyMzBHTmJxczI5UmRMMUhRWDRCcG8zaEJlcVRlZkdoQ25nUmE3ckJndG1xXzNOUnM3OWlYVXlaQ2pyUHFKMkRuaWhkX0lMeFVoNzQ2RVNYNWZkR19TbjZQNDd1ZVc0b3pDX2pKS0dIcTdYSGpoQ2NUT1lGNEhORkN2dmswTUtlTUNXQ2F5VXg3Mmx2eURmaEQwR0YzcHdRUUdBQQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "How an Instagram post deepened mystery around Sadhvi Prem Baisa's death in Rajasthan",
-          "neutralSummary": "The 25-year-old religious preacher died soon after receiving an injection for a fever at her ashram in Rajasthan's Boranada.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "How an Instagram post deepened mystery around Sadhvi Prem Baisa's death in Rajasthan",
-              "url": "https://www.hindustantimes.com/india-news/how-an-instagram-post-deepened-mystery-around-sadhvi-prem-baisas-death-in-rajasthan-101769682324031.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "Instagram post, injection, viral video: Rajasthan's Sadhvi Prem Baisa 'suspicious death' triggers protest",
-              "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNzl2TzllTm45Q1A1LXNDTXQ0LVU1UkNIZTN2dGtnS256cWZmeEF1QVpHa2tPdnBpS0R6d2lWYXYtNGtDR0RfSk1LeUNDZFhxUGhoMDZURjJnUG93Qk5VeWd5QnBaMlF5b1FHT2ZGdG5jOU84NFl4VUNZQmk4VHpLMldGanl1NlRoaHdHcDIwQmpfNFlFRW9VUFc4c0Naakd2SHV1NVRhQ0M2N29ZU0Q4MlJvZ3FGZWd5MjREY3N1RUZjYTRRTkxkSFc3Szl0NzEwSGs3QmRXQXZpZ21Hdkt6eW9qZko5ckdYZXVhaGk5WDdFX28zU3VpRXBsbVNmOTdEa1lz0gGIAkFVX3lxTE00UmtzeUpINkJsckpUV29vc3JFajd6Mzc5djJ4NXlnUlN6NmF1clBaNXA1WjlQc2JSWnVvQm1uVVpTUnZYaVJ2bG5HbEo2clZIOHBaQ2VldU82YmVRNHNJTEh1NTBmUEFWNzhsYWtQUVZodzd4X0ZaR1NlMEQydmlLVmpDaVc2U1RhRGQzcDNrdmZJUnlVWnZhdjV6UGkzNUV6MEYxWkkwWXlfSk1qMUhMQzd4MzhlMURxNlFrcVhGNTlndmdNcjIzSUVUWXE5T0hpNVgxQzE1NVVwV2ptVVJCdm5zWldQdXliaVJjUmlfSEJMV0kwWGotRFlSOE5sMUhtb3A2S1h0MA?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Economic survey flags social media addiction among India's teens, youth: ‘Access no longer a constraint’",
-          "neutralSummary": "The report said that addiction to social media impacts academic performance, workplace productivity, and mental health of Indian teens and the youth.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Economic survey flags social media addiction among India's teens, youth: ‘Access no longer a constraint’",
-              "url": "https://www.hindustantimes.com/india-news/economic-survey-flags-social-media-addiction-among-indias-teens-youth-access-no-longer-a-challenge-101769678191084.html"
+              "headline": "India should not chase frontier AI models: Economic Survey 2025-26",
+              "url": "https://www.hindustantimes.com/india-news/india-should-not-chase-frontier-ai-models-economic-survey-202526-101769715471633.html"
             },
             {
               "political": "right",
@@ -864,15 +732,140 @@
               "source": "Swarajya",
               "initials": "SWR",
               "domain": "swarajyamag.com",
-              "headline": "India’s Innovation Push Gains Scale, But R&D Spending Remains A Constraint: Economic Survey",
-              "url": "https://swarajyamag.com/economy/indias-innovation-push-gains-scale-but-rd-spending-remains-a-constraint-economic-survey"
+              "headline": "Industry's Next Leap: What The Economic Survey Says About India's Manufacturing Future",
+              "url": "https://swarajyamag.com/economy/industrys-next-leap-what-the-economic-survey-says-about-indias-manufacturing-future"
             }
           ]
         },
         {
-          "id": "india-8",
-          "neutralHeadline": "8th CPC: Employee body threatens with Feb 12 strike",
-          "neutralSummary": "8th CPC: Employee body threatens with Feb 12 strike",
+          "id": "india-2",
+          "neutralHeadline": "'Hopefully' no need for action on Iran: Trump",
+          "neutralSummary": "'Hopefully' no need for action on Iran: Trump",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Trump Says 'Hopefully' Won't Need Iran Military Action",
+              "url": "https://www.ndtv.com/world-news/trump-says-hopefully-wont-need-iran-military-action-10910871#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Donald Trump says he plans to talk to Iran while Pentagon prepares for possible action",
+              "url": "https://indianexpress.com/article/world/donald-trump-says-he-plans-to-talk-to-iran-while-pentagon-prepares-for-possible-action-10502613/"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "'Hopefully' no need for action on Iran: Trump",
+              "url": "https://economictimes.indiatimes.com/news/defence/trump-says-hopefully-no-need-for-military-action-against-iran/articleshow/127789489.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "India-US trade deal could be finalised any day, say sources; highlight robustness in negotiations",
+          "neutralSummary": "India-US trade deal could be finalised any day, say sources; highlight robustness in negotiations&nbsp;&nbsp;ANI News\"Very Significant Progress\": India Says US Trade Pact Nearing Closure&nbsp;&nbsp;NDTVEconomic Survey 2026: Will India-US trade deal be sealed this year? What the document says&nbsp;&n",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "UN Chief Sees \"A Lot Of Positive Expectations\" From India-EU Trade Deal",
+              "url": "https://www.ndtv.com/world-news/un-chief-antonio-guterres-sees-a-lot-of-positive-expectations-from-india-eu-trade-deal-10910832#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "ANI News",
+              "initials": "AN",
+              "domain": "news.google.com",
+              "headline": "India-US trade deal could be finalised any day, say sources; highlight robustness in negotiations",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbFZoQmxCUWRGSXdMejhSRmMtV051S1N1eVBTaHU5UjBDanlJaHB5X3MzU3lnQlgtRjcxVlhHbm9jenk5RlZXTGxhZm53ZWgwV3MzM0JsaEp4SE16MFZxTGxBUTVSUG9aX1ZobmxkOGw1czB0bnZwbVF3d21MbDZzc1hVRXN3c1ZuX0pXb2JzeXh4dlZSVDV2dVFmQ3BMQ1ZiM0Z0SXVLemhtWTFlbmRmUEx2ZXUyeDRkSjZhWHRWZlB2RjItR3RLSm9wakRqN1ItN1hNTFM3dzgtcVVyR1I1UzZLOA?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Trump signs executive order to impose tariffs on countries supplying oil to Cuba",
+          "neutralSummary": "Trump signs executive order to impose tariffs on countries supplying oil to Cuba&nbsp;&nbsp;Times of IndiaTrump threatens tariffs on countries selling oil to Cuba&nbsp;&nbsp;BBC‘A hurricane is coming’: Havana prepares people for war as US shuts off Cuba’s oil valve&nbsp;&nbsp;CNNTrump eyes Cuba and",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Trump To Impose Tariffs On Countries That Sell Oil To Cuba",
+              "url": "https://www.ndtv.com/world-news/donald-trump-to-impose-tariffs-on-countries-that-sell-oil-to-cuba-10910771#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "Trump signs executive order to impose tariffs on countries supplying oil to Cuba",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORi0zZjFGNmQ1Y3NFRV93MW9DMVJKTnV2dGhHamg2N0VHMmlvcmxtZDdFaEYyUGtza0RHSDJSSXAzMlJDcG56dU1UQlpMTk4xTnRfRkZTdHdjTE4yRFp5Mk5xblVFZVRmd19pVkV5anVjMk54MmExNTNsZ3hVcWhyZXpFV0hxMzgxZFlZaXFVdWo4Qy1aZ25sSHUzTy1JYmlMbk5qUmktcE1ESF9lcmpHczhaUmxJUk5HOWRwZ3NXLUlkX3RjSklBRUFVbFVYVE5Rc1dfMXd2T1UwNnpoVDFLZV9FaEVaZ9IB6wFBVV95cUxNejVfbk9neWNVOU5qNzJ5aGkweHlTOUF4czBsZlI5Q1RSSXlWZ2hqNmVNVHBTcFBSMVpwSjJpR2llcGEzNkRRWlhGeFNmT094Qlo0TDhTS2ZCcWtRNXBtbkMyTTJQQ2Izc0lpTlpEeDk4bEI5NHhPaFlMd1ZZWUhOcHp3N0trWk5Ub2laZG8za2JQb1hXaDgteGhXc3o2bFB5T0dzQ1RkaHBIMFlfUDBvc2pzNkd4ZkVrazIyZnlKTmgxaVNEX0RCTFVkbU45Tm5fRVg0UzNZb0lvWi1kUUJXRFBNMEdqNHBFRGFZ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Has Virat Kohli deactivated his Instagram?",
+          "neutralSummary": "Has Virat Kohli deactivated his Instagram?",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Virat Kohli’s Instagram account resurfaces after disappearing; fans ask Anushka Sharma: ‘Bhabhi, bhaiya ka phone kahan hai’",
+              "url": "https://indianexpress.com/article/entertainment/bollywood/virat-kohli-instagram-account-resurfaces-after-disappearing-anushka-sharma-bhaiya-ka-phone-10502639/"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Has Virat Kohli deactivated his Instagram?",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/virat-kohli-disappears-from-instagram-why-has-the-cricket-legend-deactivated-his-insta-account-rohit-sharmas-post-adds-mystery/articleshow/127789314.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "‘Maar raha hoon teri behen ko’: Husband kills pregnant SWAT commando; brother recalls chilling call",
+          "neutralSummary": "A 27-year-old pregnant Delhi Police SWAT commando, Kajal Chaudhary, died after a brutal assault at her home. Her brother recounted hearing her screams during a phone call with her husband, Ankur, who allegedly confessed to the attack. The family alleges prolonged torture and dowry harassment, leadin",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "‘Maar raha hoon teri behen ko’: Husband kills pregnant SWAT commando; brother recalls chilling call",
+              "url": "https://timesofindia.indiatimes.com/city/delhi/main-maar-raha-hoon-teri-behen-ko-pregnant-delhi-police-swat-commando-killed-by-husband-with-dumbbell-brother-recalls-chilling-call-before-the-killing/articleshow/127789115.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Putin agreed to not fire on Kyiv for a week: Trump",
+          "neutralSummary": "Putin agreed to not fire on Kyiv for a week: Trump",
           "versions": [
             {
               "political": "center",
@@ -880,24 +873,40 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "8th CPC: Employee body threatens with Feb 12 strike",
-              "url": "https://economictimes.indiatimes.com/wealth/save/8th-cpc-central-govt-employee-body-threatens-with-february-12-2026-strike-heres-what-it-wants-from-8th-pay-commission/articleshow/127776248.cms"
+              "headline": "Putin agreed to not fire on Kyiv for a week: Trump",
+              "url": "https://economictimes.indiatimes.com/news/defence/trump-says-putin-agreed-to-not-fire-on-kyiv-for-a-week-during-cold/articleshow/127782795.cms"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
               "domain": "news.google.com",
-              "headline": "US set to strike Iran’s top brass? Tehran threatens to hit ‘heart of Tel Aviv’",
-              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQUVwOTBlWWIyclY1X2FuVVEtTGVydVBTTFpKUnpKcm9xcDRNS1g1QnNpVVAxem1odmQ3QTJHdzdRcU9yMTRuSjVMYmFiSEpVTGJlTXZlckpJMGpOUUsyUXp5cGh6Vl95YlRqeGFaMmd4b3hyblhKR3p5THMyQTRrU3NxVFYtSUVZcFlmc0JuaFM2R0Q1QXdmLTAzVTF2dDBpX01FYnVzSzNrWGp6N2E4T2NyNHVKVzhHZHhOU3lWd2JZQnZEWjM0UVk4U21DWWFURUMzaDNiT3k4ZmJJN1E?oc=5"
+              "headline": "Ceasefire for Ukraine? Trump says Putin agreed to week-long pause in fighting during ‘cold snap’ | World News",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb0xDaVZKUWdSQVA0OTEydF9CaHotTmt4U0NDeUxvR3lNbklWd2Y5QjRURFQ5cTZaWXNtY1U1TjBYc29TWEd6QnZ6QzBYWERzeWhXZnAxZzlhcE1hZjUyVGV0U0U1S2Fsc0V5eFpLTzlPbDlaTHVCbHRkdkdQNzA2YmV4aFh6Y2dlRU12Z004NHdZUjlIaGxYR1ViV01qRWpQVUVna2NuZEFxUlp6anhESlMzaHNMdll3U1NRRkUyNk5tVFJydXBZNmdidHh4Y25JWUdMRExyLUNIcWNLY0NXTy1vSXlRZmRISzBXTdIB8gFBVV95cUxQWnlpSTFyZkJsUEdHY21NZnYxR1pJcDNBV2M1MGd2RUt0Tk53WXdLTk1YcUFWbTgzeE9LMXJRbXlvX1ZUbW5vN0ViREY4N2tzV3BETmVHS2R1MkdwbUVib3k2SUJIVHR0STJ4V1VQSVBNRTJBRFBhcEJUQzlaSmRKNy05SW9zVjVYenlEQVB5YXV3U3JyTUEzcU9vV0kyNUNIRTFwOFFXLWZnQmRjX3VTUm54QUhhNjlBOV9nMEtJbUMyTUVIY2RrU240NFU3ZzVEX3pfLW9rUnlNU1NJeTVDQmhRWFVjcHI5N0o4SXB5UEdwdw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Maharashtra becomes first to launch government-run menopause clinics",
+          "neutralSummary": "Government aims to address the issue of hormonal imbalance, bone disorders, sleep disturbances, cardiovascular risks and mental health concerns in women going through menopause",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Maharashtra becomes first to launch government-run menopause clinics",
+              "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-becomes-first-to-launch-government-run-menopause-clinics/article70567472.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Coalition government committed to making every woman an entrepreneur: Kolusu Parthasarathi",
-          "neutralSummary": "Coalition government committed to making every woman an entrepreneur: Kolusu Parthasarathi",
+          "neutralHeadline": "IOA president P.T. Usha’s husband Srinivasan passes away",
+          "neutralSummary": "A former central government employee, Srinivasan was a constant presence by Usha’s side throughout her illustrious sporting and political career",
           "versions": [
             {
               "political": "left",
@@ -905,8 +914,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Coalition government committed to making every woman an entrepreneur: Kolusu Parthasarathi",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/coalition-government-committed-to-making-every-woman-an-entrepreneurkolusu-parthasarathi/article70565610.ece"
+              "headline": "IOA president P.T. Usha’s husband Srinivasan passes away",
+              "url": "https://www.thehindu.com/news/national/kerala/ioa-president-pt-ushas-husband-srinivasan-passes-away/article70568754.ece"
             }
           ]
         }
