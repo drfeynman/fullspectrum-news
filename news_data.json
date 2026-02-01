@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-01-31T13:44:46.764987+00:00",
+  "generatedAt": "2026-02-01T04:21:23.096439+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Israeli strikes kill 30 Palestinians, including children, as Gaza ceasefire inches forward",
-          "neutralSummary": "Israeli strikes kill 30 Palestinians, including children, as Gaza ceasefire inches forward&nbsp;&nbsp;AP NewsIsraeli air strikes kill at least 27 Palestinians in Gaza, rescue officials say&nbsp;&nbsp;BBCDeadly Israeli Strikes in Gaza, as Rafah Border Is Set to Reopen&nbsp;&nbsp;The New York TimesLIV",
+          "neutralHeadline": "'There's no ceasefire': Israeli strikes kill 30 Palestinians, including children, in Gaza",
+          "neutralSummary": "Israeli air strikes killed at east 30 people in Gaza Saturday, including children, according to hospitals, as the military said it attacked in response to a Hamas ceasefire violation. Despite a US-brokered ceasefire entering its second phase earlier this month, violence in the Palestinian territory",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
+              "url": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "political": "left",
               "tone": "neutral",
@@ -20,21 +29,12 @@
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Israeli strikes kill 30 Palestinians, including children, as Gaza ceasefire inches forward",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFBjS1c5Q0RkLXNYWmxLdWlfZ1ZrRGFuaTF6bWFKdlBaNk51ekFwT0VucUtTSTdsQUpjaTNvNmRTUlZiNEp1blRaQk5nYjd5R3NEblJUODVvYWhtbFE0SmVTdDUwanNKVFJiTUlWTE5sOV9MNFhQZmVzRkR3eWxmaTZiUjNpSzhrWV9EUnQ0ZlZrcmRoMmtF?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Israeli strikes kill at least 30 across Gaza in one of highest tolls since October ceasefire",
-              "url": "https://www.france24.com/en/middle-east/20260131-israeli-strikes-kill-30-palestinians-including-children-gaza-ceasefire-inches-forward"
+              "headline": "'There's no ceasefire': Israeli strikes kill 30 Palestinians, including children, in Gaza",
+              "url": "https://www.france24.com/en/video/20260131-no-ceasefire-israeli-strikes-kill-30-palestinians-including-children-gaza"
             }
           ]
         },
@@ -54,42 +54,17 @@
             },
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "More than 200 killed in mine collapse in DR Congo",
-              "url": "https://www.bbc.com/news/articles/cly381dvnvzo?at_medium=RSS&at_campaign=rss"
+              "headline": "Five killed in gas explosions in Iran, officials say",
+              "url": "https://www.bbc.com/news/articles/cd9ew5p3zvko?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "global-3",
-          "neutralHeadline": "Mexico president says Trump tariffs on Cuba’s oil suppliers could trigger humanitarian crisis",
-          "neutralSummary": "Island country only has oil enough to last 15-20 days, and 12-hour blackouts have become commonplaceMexico’s president, Claudia Sheinbaum, has warned that Donald Trump’s move to slap new tariffs on countries sending oil to Cuba could trigger a humanitarian crisis on the island, which is already suff",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Mexico president says Trump tariffs on Cuba’s oil suppliers could trigger humanitarian crisis",
-              "url": "https://www.theguardian.com/world/2026/jan/30/mexico-sheinbaum-trump-tariffs-cuba-oil-crisis"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "President Diaz-Canel slams Trump’s bid to ‘suffocate’ Cuba’s economy",
-              "url": "https://www.aljazeera.com/news/2026/1/31/president-diaz-canel-slams-trumps-bid-to-suffocate-cuba-economy?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
           "neutralHeadline": "Panama supreme court cancels Hong Kong company’s canal contracts",
           "neutralSummary": "Panama’s president says strategic waterway will operate as normal after ruling that advances US policy aimsPanama’s president said ports at each end of the Panama canal would operate as usual after the country’s supreme court ruled the concession held by a subsidiary of a Chinese company was unconst",
           "versions": [
@@ -114,9 +89,9 @@
           ]
         },
         {
-          "id": "global-5",
-          "neutralHeadline": "Trump threatens tariffs on goods from countries that sell oil to Cuba",
-          "neutralSummary": "White House cites Cuba’s ties to hostile powers as order ratchets up Trump’s pressure to topple its governmentDonald Trump signed an executive order on Thursday laying the groundwork to slap tariffs on goods from countries that provide oil to Cuba, the White House said.The order, which ratchets up T",
+          "id": "global-4",
+          "neutralHeadline": "China has lifted sanctions from six serving British MPs and peers, Starmer says",
+          "neutralSummary": "Starmer confirms immediate removal, but it is unclear if sanctions remain on former MP, academic and barristerChina has lifted the sanctions it imposed on serving British MPs and peers in a significant sign of warming relations after Keir Starmer travelled to Beijing for landmark talks with Xi Jinpi",
           "versions": [
             {
               "political": "left",
@@ -124,74 +99,24 @@
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "Trump threatens tariffs on goods from countries that sell oil to Cuba",
-              "url": "https://www.theguardian.com/us-news/2026/jan/29/trump-tariffs-cuba-oil"
+              "headline": "China has lifted sanctions from six serving British MPs and peers, Starmer says",
+              "url": "https://www.theguardian.com/world/2026/jan/30/china-lifts-sanctions-british-mps-peers"
             },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump declares national emergency over Cuba, threatens tariffs on nations that supply oil to communist regime",
-              "url": "https://www.foxnews.com/world/trump-declares-national-emergency-cuba-threatens-tariffs-nations-supply-oil-communist-regime"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Starmer’s China trip thaws relations with Beijing but spurs criticism at home",
-          "neutralSummary": "Starmer’s China trip thaws relations with Beijing but spurs criticism at home&nbsp;&nbsp;Financial TimesChris Mason: What Starmer's China reset tells us about his foreign policy&nbsp;&nbsp;BBCAs Trump upends alliances, Britain says it needs a ‘more sophisticated’ relationship with China&nbsp;&nbsp;C",
-          "versions": [
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Starmer hopes his China trip will begin the thaw after recent ice age",
-              "url": "https://www.theguardian.com/world/2026/jan/31/starmer-hopes-his-china-trip-will-begin-the-thaw-after-recent-ice-age"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Financial Times",
-              "initials": "FT",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
               "domain": "news.google.com",
-              "headline": "Starmer’s China trip thaws relations with Beijing but spurs criticism at home",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YMFdBQVdtRGVreGE3NFJvMmdKd2RNQ2U1Nk9HUXZaMjI5TlV3eXM3c3Z1eXYzbUtVSkVRaUtxbGYyRmFVRW02c1dGd3hWeFlTV3NaQXpkSkRoelBPay1BMEFBX2xsT1c2NW4ycS15X1o?oc=5"
+              "headline": "Labour peer who had sanctions lifted by China says it's 'meagre return' for UK",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lVDFBaF9ES2dDSU9McjZ2UkVucUFKY0tZUXdLQnRTOVlPNTBaalY5WUlBSDBJeFFCR1h2LVp4NWZxQ3dBT0wtODlQcW9Pc21IdDA2cE5lRVVpQQ?oc=5"
             }
           ]
         },
         {
-          "id": "global-7",
-          "neutralHeadline": "EU Lists Iran's Paramilitary Revolutionary Guard As Terrorist Organization",
-          "neutralSummary": "The EU&rsquo;s foreign policy chief&nbsp;said that &ldquo;any regime that kills thousands of its own people is working toward its own demise.&rdquo;",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "EU Lists Iran's Paramilitary Revolutionary Guard As Terrorist Organization",
-              "url": "https://www.huffpost.com/entry/eu-sanctions-15-iranian-officials-violent-crackdown-nationwide-protests_n_697b722ee4b00b1deb8f9e16"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "EU to list Iran's Revolutionary Guard as terrorists; Germany warns of rapid action",
-              "url": "https://www.foxnews.com/world/eu-list-irans-revolutionary-guard-terrorists-germany-warns-rapid-action"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Trump, Musk cited in new batch of Epstein files released by US DoJ",
-          "neutralSummary": "The US Justice Department has released more than 3 million pages of records from its investigative files on Jeffrey Epstein, resuming disclosures about what the government knew about the millionaire financier’s sexual abuse of young girls. The latest release includes thousands of references to US Pr",
+          "id": "global-5",
+          "neutralHeadline": "Pedro Pascal and Meryl Streep lead tributes to Catherine O'Hara",
+          "neutralSummary": "The Canadian comedic actress died in Los Angeles on Friday at the age of 71 following a brief illness.",
           "versions": [
             {
               "political": "left",
@@ -199,42 +124,117 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Takeaways from the millions of newly released Epstein files",
-              "url": "https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss"
+              "headline": "Pedro Pascal and Meryl Streep lead tributes to Catherine O'Hara",
+              "url": "https://www.bbc.com/news/articles/czejk8pnk82o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Tributes pour in for beloved actress Catherine O’Hara",
+              "url": "https://www.aljazeera.com/news/2026/1/31/tributes-pour-in-for-beloved-actress-catherine-ohara?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "Federal judge denies request to block ICE surge in Minnesota",
+          "neutralSummary": "A judge said ICE activity could have \"heartbreaking\" effects but said the state hadn't proven its case.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Federal judge denies request to block ICE surge in Minnesota",
+              "url": "https://www.bbc.com/news/articles/c78vgnz3z6eo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "US judge declines to halt immigration surge in Minnesota amid protests",
+              "url": "https://www.aljazeera.com/news/2026/1/31/us-judge-declines-to-halt-immigration-surge-in-minnesota-amid-protests?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
+          "neutralHeadline": "Mine collapses in eastern Congo, leaving at least 200 dead",
+          "neutralSummary": "Mine collapses in eastern Congo, leaving at least 200 dead&nbsp;&nbsp;AP NewsView Full Coverage on Google News",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Mine collapses in eastern Congo, leaving at least 200 dead",
+              "url": "https://www.npr.org/2026/01/31/g-s1-108208/mine-collapse-congo"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Trump, Musk cited in new batch of Epstein files released by US DoJ",
-              "url": "https://www.france24.com/en/video/20260131-trump-musk-cited-in-new-batch-of-epstein-files-released-by-us-doj"
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Mine collapses in eastern Congo, leaving at least 200 dead",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObnRXbFVOZ2toT1p2MFBTeTZwd1hQZjlHT1M2MUhsU1BsX1RCd3AxeFBiam13cWZabmVXTV9HeHVTd1JlVnhWZWJlOGJjSU1FbjVIUlVSbnRMSzlEQTRPX3BmaGo3cDR5Y2R2WHk2MmN2aS1sZ1hRSWhZd3g5UXo1Zk9BV3dhYk5XMU9FR3hyekVNeGto?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Venezuela announces amnesty bill that could lead to release of political prisoners",
+          "neutralSummary": "Venezuela's acting President Delcy Rodríguez on Friday announced an amnesty bill that could lead to the release of hundreds of prisoners detained for political reasons.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Venezuela announces amnesty bill that could lead to release of political prisoners",
+              "url": "https://www.npr.org/2026/01/31/g-s1-108127/venezuela-amnesty-bill"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Hundreds of political prisoners in Venezuela could be released under new amnesty bill",
+              "url": "https://www.foxnews.com/world/hundreds-political-prisoners-venezuela-could-released-under-new-amnesty-bill"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Aryna Sabalenka appears to tell Ukrainian rival to ‘f–k off’ in Australian Open controversy",
-          "neutralSummary": "Aryna Sabalenka appears to tell Ukrainian rival to ‘f–k off’ in Australian Open controversy&nbsp;&nbsp;New York PostElena Rybakina wins Australian Open for 2nd Grand Slam title&nbsp;&nbsp;ESPNElena Rybakina stuns Aryna Sabalenka to win Australian Open 2026 final: Live updates and reaction&nbsp;&nbsp",
+          "neutralHeadline": "Iran: Explosion hits Bandar Abbas Port — reports",
+          "neutralSummary": "Iran: Explosion hits Bandar Abbas Port — reports&nbsp;&nbsp;DW.comBlast rips through building in Iranian port city of Bandar Abbas, state media says&nbsp;&nbsp;CNNExplosions in Iran Spread Jitters and Rumors Amid Anticipation of Attacks&nbsp;&nbsp;The New York TimesGas leak caused blast in Iran's Ba",
           "versions": [
             {
               "political": "center",
-              "tone": "optimistic",
-              "source": "New York Post",
-              "initials": "NY",
+              "tone": "neutral",
+              "source": "DW.com",
+              "initials": "D",
               "domain": "news.google.com",
-              "headline": "Aryna Sabalenka appears to tell Ukrainian rival to ‘f–k off’ in Australian Open controversy",
-              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTjNCRkRPTG1DQjY5dkkwMEhIZk0wNWxxX214VmRra0JFcHJwN2lTTkJhZHNWNXFwUnhSSHd3dDIxQ3NaMVdLZGJZamdyUUVORE1iS25XOEdlNHdUaWJicThFckRqbEJpMFpabk5mVm82ZkltcFE1NTVfOHNZUm9xSWNCMWxnMm5XRWhxQ0NDWUxfMUR1VXRPX3NzTmh4akNMMW8xVVFSUDJCSXREUy1YdzRLR2RJUlo1?oc=5"
+              "headline": "Iran: Explosion hits Bandar Abbas Port — reports",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLW1BcHdyenJUendCX0NPSmgyVlRtbHFNRlJXVzJNWG53S1JyUmt1QzRLRTdLeU94UXBWQlpJQl9MUVpTbWF4Y3RpSTNFMDdtSlgwb3VOMktLY09fWlpYdXdQNHJVcGFtZ1k3ZmFjb3NqVFZleFRoN0drem5sMzdFaGExTFDSAYQBQVVfeXFMT1dKZ01CRkVRNThGemlfQVVkRXpZaGg5OGFoTjlvczEta2RrRnZrODZ4ZlFYVmlIQnVXQ2huTldocG4xZ1dNN2NabDBKalJJeXByWU15WVZJOWdUaWRxdHotdkhHaE44LWZ1V0M3a1ZKbTF5VXdMbnd6TmN1RVRsMEg5V0E4?oc=5"
             },
             {
               "political": "left",
-              "tone": "optimistic",
+              "tone": "neutral",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Rybakina shocks Sabalenka to win Australian Open tennis final",
-              "url": "https://www.aljazeera.com/sports/2026/1/31/rybakina-shocks-sabalenka-to-win-australian-open-tennis-final?traffic_source=rss"
+              "headline": "Deadly blast in Iran’s Bandar Abbas caused by gas leak, official says",
+              "url": "https://www.aljazeera.com/news/2026/1/31/explosion-in-irans-bandar-abbas-caused-by-gas-leak-official-says?traffic_source=rss"
             }
           ]
         }
@@ -245,8 +245,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "6 Missing as Search Continues for Boat Off the Coast of Massachusetts",
-          "neutralSummary": "Searchers recovered one body after the Lily Jean, a 72-foot fishing vessel, issued an emergency alert on Friday morning, the U.S. Coast Guard said.",
+          "neutralHeadline": "Judge orders release of 5-year-old Minnesota boy, father detained by ICE",
+          "neutralSummary": "A federal judge in Texas on Saturday ordered the release of the 5-year-old boy and father who were transported to a detention center in the state amid the Trump administration’s immigration operations in Minnesota. In a Saturday opinion, U.S. District Judge Fred Biery admonished the administration’s",
           "versions": [
             {
               "political": "left",
@@ -254,33 +254,35 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "6 Missing as Search Continues for Boat Off the Coast of Massachusetts",
-              "url": "https://www.nytimes.com/2026/01/30/us/fishing-boat-missing-massachusetts.html"
+              "headline": "Judge Orders Release of 5-Year-Old Detained by Immigration Agents in Minnesota",
+              "url": "https://www.nytimes.com/2026/01/31/us/politics/liam-ramos-ice-release.html"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Coast Guard searching for survivors after commercial fishing boat sinks off Massachusetts; 1 body recovered",
-              "url": "https://nypost.com/2026/01/31/us-news/massachusetts-coast-guard-searching-for-survivors-after-commercial-fishing-boat-sinks/"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Live updates: Senate passes massive government funding package",
-          "neutralSummary": "The Senate voted overwhelmingly Friday night to pass a major funding package, but the legislation won’t become law before parts of the government shut down at midnight. In a 71-29 vote, the Senate approved the package consisting of five regular appropriations bills and a two-week stopgap measure for",
-          "versions": [
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Judge orders release of 5-year-old detained by ICE in Minneapolis",
+              "url": "https://www.washingtonpost.com/nation/2026/01/31/minnesota-5-year-old-release-ice/"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Judge orders release of 5-year-old Liam Ramos and his dad from ICE detention",
+              "url": "https://www.npr.org/2026/01/31/g-s1-108168/5-year-old-liam-ramos-ice-order"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Live updates: Senate passes massive government funding package",
-              "url": "https://thehill.com/homenews/administration/5713737-live-updates-trump-government-shutdown/"
+              "headline": "Judge orders release of 5-year-old Minnesota boy, father detained by ICE",
+              "url": "https://thehill.com/regulation/court-battles/5716881-texas-judge-orders-release-father-son/"
             },
             {
               "political": "right",
@@ -288,15 +290,58 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Senate passes federal funding compromise; Democrats score victory in DHS revolt",
-              "url": "https://www.foxnews.com/politics/senate-passes-federal-funding-compromise-democrats-score-victory-dhs-revolt"
+              "headline": "Federal judge orders Trump admin to release 5-year-old, his dad from immigration detention within 3 days",
+              "url": "https://www.foxnews.com/politics/federal-judge-orders-trump-admin-release-5-year-old-his-dad-immigration-detention-within-3-days"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Judge orders release of 5-year-old from ICE detention",
+              "url": "https://www.washingtonexaminer.com/policy/immigration/4442165/judge-orders-release-5-year-old-ice-detention/"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Trump vows not to help blue cities with riots, instructs ICE and Border Patrol to protect federal property",
+          "neutralSummary": "Trump vows not to help blue cities with riots, instructs ICE and Border Patrol to protect federal property&nbsp;&nbsp;Fox NewsTrump says federal government won’t step into protests in Democratic-led cities ‘until they ask us for help’&nbsp;&nbsp;CNNTrump news at a glance: president orders homeland s",
+          "versions": [
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "news.google.com",
+              "headline": "Trump vows not to help blue cities with riots, instructs ICE and Border Patrol to protect federal property",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZDl3N19oaVJmZ0M2SUNrd2VpQzlUNnZ5bnlyR0wyTlBoRWVNX3o2UzlLYjV4ZlRrdkhSUGdHZ1lWQjltYUlZNV9udXNQcEY2M1ZTVHRsaGFmWnVxTy1EbVA2UVBPdjZFR3JKYWtLcktvUXFHSUNaMjJ1Q1M5Y2FPR2dob1BSck5FX0lveDJkbnNiaHdjSmdERjI3UlR2SmZTbE9tdnpMdnNSME5FV19Qc2hYWU1FUFdjUUNMODdHQTnSAcYBQVVfeXFMTnVkcFY4ZkNJM1NzREU1VlNSSUM5N1lqZWxtd0RFdlZXZVF1NGltU3VkZ3RuaWQxUTJlMEtFaVozd3ZyQlJJNGkzVVVQQ215dURRSHlsUmwtSFVocU5jUk1MejlBT2ZlM2U5S0xxUU9kWmZaWGNrZHIzQUhkakJubDhSS2JqZ25veEY4MzBjbGVYcTU2Q0QxeUFhZW53eUJCN3RYbVY3ajF5VWRBVzV1ajI2RFVuNzNFSWY3cFN0LXBtbVRCZ1h3?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump scraps federal help for blue cities to quell riots unless requested",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4442149/trump-scraps-federal-help-blue-cities-riots-unless-requested/"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Trump Issues Warning To Blue Cities: No Fed Help Unless You Say ‘Please’",
+              "url": "https://www.dailywire.com/news/trump-issues-warning-to-blue-cities-no-fed-help-unless-you-say-please"
             }
           ]
         },
         {
           "id": "us-3",
-          "neutralHeadline": "5 questions facing Trump’s Fed pick Kevin Warsh",
-          "neutralSummary": "President Trump announced Friday his intention to nominate Kevin Warsh to chair the Federal Reserve Board, ending months of speculation about his plans for the bank. Warsh’s experience on the Fed board and Wall Street, close political ties to Republicans and reputation as an independent thinker make",
+          "neutralHeadline": "Trump Moved Fast To Cut A Funding Deal. It's A Striking Change From The Last Shutdown Fight",
+          "neutralSummary": "Some Republicans are frustrated with the deal, raising the possibility of a prolonged shutdown fight when the House returns Monday.",
           "versions": [
             {
               "political": "left",
@@ -304,24 +349,24 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Trump Says He's Nominating Kevin Warsh To Lead The Federal Reserve",
-              "url": "https://www.huffpost.com/entry/trump-nominates-kevin-warsh-fed_n_697c9b9ee4b0c02d1be18885"
+              "headline": "Trump Moved Fast To Cut A Funding Deal. It's A Striking Change From The Last Shutdown Fight",
+              "url": "https://www.huffpost.com/entry/congress-budget-republicans-trump-swift_n_697e1696e4b0b1de95c51a4c"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "5 questions facing Trump’s Fed pick Kevin Warsh",
-              "url": "https://thehill.com/business/5715173-trump-nominee-warsh-fed-chair/"
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Senate Reaches Funding Deal, With Shutdown Still Set To Begin At Midnight",
+              "url": "https://www.dailywire.com/news/senate-reaches-funding-deal-with-shutdown-still-set-to-begin-at-midnight"
             }
           ]
         },
         {
           "id": "us-4",
-          "neutralHeadline": "Trump Contradicts His Own Border Czar On Major Shift In Minneapolis",
-          "neutralSummary": "The president just put the kibosh on Tom Homan&rsquo;s wish to reduce the amount of federal officers there.",
+          "neutralHeadline": "It Looks Inevitable That Trump Will Strike Iran",
+          "neutralSummary": "Sources tell HuffPost that the diplomatic effort to avert war is slipping.",
           "versions": [
             {
               "political": "left",
@@ -329,9 +374,50 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Trump Contradicts His Own Border Czar On Major Shift In Minneapolis",
-              "url": "https://www.huffpost.com/entry/donald-trump-contradicts-tom-homan-pullback_n_697c875be4b0c02d1be10ae5"
+              "headline": "It Looks Inevitable That Trump Will Strike Iran",
+              "url": "https://www.huffpost.com/entry/trump-iran-potential-strike_n_697d3984e4b0b1de95c17f56"
             },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Trump looks ready to bomb Iran again. Why?",
+              "url": "https://www.vox.com/politics/477189/trump-iran-military-strikes-carrier-protests-nuclear"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "The dismaying response to a new Alex Pretti video",
+          "neutralSummary": "Last Wednesday, a video surfaced of Alex Pretti kicking out the taillight of an ICE vehicle, 11 days before Border Patrol agents shot him to death. Right-wing influencers quickly cast the incident as somehow exonerating the 37-year-old’s killers. In Megyn Kelly’s telling, the footage proved that the",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "The dismaying response to a new Alex Pretti video",
+              "url": "https://www.vox.com/politics/477430/alex-pretti-new-video-ice-ai-trump"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Alex Pretti Memorial Grows, a Week After He Was Killed",
+              "url": "https://www.nytimes.com/2026/01/31/us/alex-pretti-memorial-minneapolis.html"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "What We Saw in Minneapolis",
+          "neutralSummary": "What We Saw in Minneapolis&nbsp;&nbsp;ProPublicaProtesters Rally Across the U.S. in Solidarity With Minneapolis&nbsp;&nbsp;The New York TimesLIVE UPDATES | ICE in MN: Alex Pretti memorial ride in Mpls, Operation Metro Surge allowed to continue&nbsp;&nbsp;FOX 9 Minneapolis-St. PaulJanuary 30, 2026 -",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
@@ -340,54 +426,22 @@
               "domain": "vox.com",
               "headline": "The man Trump is hoping can fix ICE optics in Minneapolis",
               "url": "https://www.vox.com/politics/477197/tom-homan-cbp-dhs-ice-bovino-noem-trump-minneapolis"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "What to Know About Anti-ICE Protests This Weekend",
-          "neutralSummary": "Organizers are trying to build on the momentum created after the killings of two protesters in Minneapolis this month.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "What to Know About Anti-ICE Protests This Weekend",
-              "url": "https://www.nytimes.com/2026/01/31/us/what-to-know-about-anti-ice-protests-this-weekend.html"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
+              "political": "center",
+              "tone": "optimistic",
+              "source": "ProPublica",
+              "initials": "P",
               "domain": "news.google.com",
-              "headline": "More than 300 anti-ICE protests planned across US this weekend",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqQzNzY0ZRRFJES1VsS3BlcDhGREZMT3RMQThmSUktNGVBbVgzRTZHS3NiUkpUVHdaZmI5NFZtNy1lWnZrMlY3TDY3bk1pZEdpeVlyalNuaXpIX1NQN3BySkpmUU9OTHlYZmpkeUVncnEwcXJzclhXdFZ3OFN5UQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "How Fear of ICE Upended Life in One Minnesota School District",
-          "neutralSummary": "In Fridley, a Minneapolis suburb, school officials are driving nervous teachers and buying families groceries. At dismissal, the superintendent patrols for federal agents.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "How Fear of ICE Upended Life in One Minnesota School District",
-              "url": "https://www.nytimes.com/2026/01/31/us/minneapolis-school-district-ice-agents.html"
+              "headline": "What We Saw in Minneapolis",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xMXd4dTE5aVIyaFp0dC1vV2t0cmswdmV1cl9xSEJDN01LRVpfMWVsUE9oU2paUmg2OG1HMkhwbEVleDktTGtySDMyV1RoaHM1X1A2dWxiU0Z5ZFQwZUpqNXlSS1FNdjZhaDBiQWlMU2MtLURxWG40RTdPeUlJanc?oc=5"
             }
           ]
         },
         {
           "id": "us-7",
-          "neutralHeadline": "After Bovino Leaves, Minnesotans Search for Signs of Change in Crackdown",
-          "neutralSummary": "Arrests were continuing, according to residents who have tracked the immigration crackdown in the Twin Cities, but some people observed fewer clashes.",
+          "neutralHeadline": "They Said They Weren’t Close to Epstein. New Documents Show Otherwise.",
+          "neutralSummary": "Materials released by the Justice Department revealed that leading business and political figures had enduring relationships with the disgraced financier.",
           "versions": [
             {
               "political": "left",
@@ -395,15 +449,15 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "After Bovino Leaves, Minnesotans Search for Signs of Change in Crackdown",
-              "url": "https://www.nytimes.com/2026/01/30/us/minneapolis-ice-crackdown-change.html"
+              "headline": "They Said They Weren’t Close to Epstein. New Documents Show Otherwise.",
+              "url": "https://www.nytimes.com/2026/01/31/us/epstein-powerful-men.html"
             }
           ]
         },
         {
           "id": "us-8",
-          "neutralHeadline": "Epstein contacted women for Steve Tisch, co-owner of the Giants.",
-          "neutralSummary": "Epstein contacted women for Steve Tisch, co-owner of the Giants.",
+          "neutralHeadline": "Federal Judge Denies Request to Block ICE Surge in Minnesota",
+          "neutralSummary": "Minnesota officials had sought a temporary end to the deployment of 3,000 federal agents, claiming state sovereignty had been violated.",
           "versions": [
             {
               "political": "left",
@@ -411,42 +465,42 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Epstein contacted women for Steve Tisch, co-owner of the Giants.",
-              "url": "https://www.nytimes.com/live/2026/01/30/us/epstein-files-release/epstein-giants-steve-tisch"
+              "headline": "Federal Judge Denies Request to Block ICE Surge in Minnesota",
+              "url": "https://www.nytimes.com/2026/01/31/us/judge-minnesota-ice-ruling.html"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Giants owner Steve Tisch admits to emailing Epstein about ‘adult women,’ but insists he never accepted ‘any of his invitations’",
-              "url": "https://nypost.com/2026/01/30/us-news/giants-owner-steve-tisch-admits-to-emailing-epstein-about-adult-women-but-insists-he-never-accepted-any-of-his-invitations/"
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "‘No Precedent’: Fed Judge Denies Minnesota Injunction To Stop ICE Surge",
+              "url": "https://www.dailywire.com/news/no-precedent-fed-judge-denies-minnesota-injunction-to-stop-ice-surge"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Partial government shutdown begins as funding lapses despite Senate deal",
-          "neutralSummary": "Partial government shutdown begins as funding lapses despite Senate deal&nbsp;&nbsp;CBS NewsUS government partially shuts down despite last minute funding deal&nbsp;&nbsp;BBCSenate Passes Deal to Fund Government and Negotiate ICE Limits&nbsp;&nbsp;The New York TimesUS government shuts down partially",
+          "neutralHeadline": "Minnesota standoff with Trump administration stokes fears of civil war",
+          "neutralSummary": "Minnesota’s standoff with the Trump administration amid its immigration crackdown in the state has made a political tinderbox of the Twin Cities, as devolving clashes between protesters and federal agents stoke fears of a bigger brewing conflict.   Local officials have deemed the surge of immigratio",
           "versions": [
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "What to know about the partial government shutdown",
-              "url": "https://www.npr.org/2026/01/31/nx-s1-5694716/partial-government-shutdown"
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Minnesota standoff with Trump administration stokes fears of civil war",
+              "url": "https://thehill.com/policy/national-security/5715869-minnesota-trump-immigration-conflict/"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Partial government shutdown begins as funding lapses despite Senate deal",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0drZUh1TUtpMV9LZjJPYVZ6SUpoTzBEbG1sdE5ZcmlJcmZicFl1R0pVcERjMS1vZDY4bHhFNENxa1ZjTS1aeGp3cEw4dVdNT2VPQTN5RXlJZWRrZ25FOThYdEdnYXR0Y1duaEVUTkpaN0dLcW44WHEybnZCbV9MczRSTC1zM0YwSFhIZm52b9IBlAFBVV95cUxOdzhtQzhpMWVONjBLTVdtTThSYk5HWFVLczc5SXY1QzVIMW4wYVhOcVMxcGNaRzVQZGNVQ1VHNUQxZFdFbTVIalFNU1J3WDJlLTZFMy1PRGF5bmZsclhtMnVYUVlBUUVXdTR3UW5HcjY0dFN3RWx0Sll6cEpBZU1iM21GZUNJTC1Jb0h6Wks0WHdielZH?oc=5"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump claims Minnesota fraud exceeds $19B, faults Biden administration",
+              "url": "https://www.foxnews.com/politics/trump-claims-minnesota-fraud-exceeds-19b-faults-biden-administration"
             }
           ]
         }
@@ -457,8 +511,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "MOM urges employers to advise travelling helpers to take precautions against Nipah virus",
-          "neutralSummary": "Helpers who feel unwell during or after travel should see a doctor immediately, said MOM.",
+          "neutralHeadline": "Water activities suspended at 3 Sentosa beaches after crocodile sighting; search under way",
+          "neutralSummary": "SDC has stepped up patrols and monitoring across the island’s beachfront areas.",
           "versions": [
             {
               "political": "center",
@@ -466,15 +520,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "MOM urges employers to advise travelling helpers to take precautions against Nipah virus",
-              "url": "https://www.straitstimes.com/singapore/mom-urges-employers-to-advise-travelling-helpers-to-take-precautions-against-nipah-virus"
+              "headline": "Water activities suspended at 3 Sentosa beaches after crocodile sighting; search under way",
+              "url": "https://www.straitstimes.com/singapore/water-activities-suspended-at-3-sentosa-beaches-after-crocodile-sighting-search-under-way"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Water activities halted at 3 Sentosa beaches after crocodile sighting; search ongoing",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWpkTW9zX2Rxa1l2SDNSY2ROc1Fwc0N4T0VPMFY4aXp5QzRwODMxNzFqM3NaUURSTFktRjlOM2U0S3pxR1l2LUgzd1pWMkRYVnVYQjBEQ25vRVlDQnp5SzZFdlphNFRkRkVjU20zRUZZRHVwb3dpT1NPeWdHZGh0RnRlWktDazVLZzJCX1Nvd0k4cC1PQ3ZnQWdKaldZWjNUYW1yQjhwU3c?oc=5"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "S’pore a ‘special place’ in giving journey of Facebook co-founder Eduardo Saverin and wife Elaine",
-          "neutralSummary": "The couple, who are active philanthropists, hope their giving makes the world a little fairer, kinder and better.",
+          "neutralHeadline": "S’pore to face AI challenge sooner than many other countries: President Tharman",
+          "neutralSummary": "He urged focus on upskilling workforce to work with AI, and called for global governance of AI.",
           "versions": [
             {
               "political": "center",
@@ -482,15 +545,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "S’pore a ‘special place’ in giving journey of Facebook co-founder Eduardo Saverin and wife Elaine",
-              "url": "https://www.straitstimes.com/singapore/community/singapore-a-special-place-in-giving-journey-of-facebook-co-founder-eduardo-saverin-and-wife-elaine"
+              "headline": "S’pore to face AI challenge sooner than many other countries: President Tharman",
+              "url": "https://www.straitstimes.com/singapore/politics/spore-to-face-ai-challenge-sooner-than-many-other-countries-president-tharman"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Six taken to hospital after two accidents on opposite sides of SLE near Lentor Avenue exit",
-          "neutralSummary": "The first accident involved four cars and a tipper truck, and the second, two motorcycles.",
+          "neutralHeadline": "Police victim care officers help Singapore scam victims find strength after losing savings",
+          "neutralSummary": "They provide psychological first aid to try to support such people to live normally,",
           "versions": [
             {
               "political": "center",
@@ -498,15 +561,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Six taken to hospital after two accidents on opposite sides of SLE near Lentor Avenue exit",
-              "url": "https://www.straitstimes.com/singapore/3-men-taken-to-hospital-after-accident-on-sle-involving-4-cars-and-a-tipper-truck"
+              "headline": "Police victim care officers help Singapore scam victims find strength after losing savings",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/police-victim-care-officers-help-scam-victims-in-spore-find-strength-after-losing-life-savings"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Chinatown galloping into Year of the Horse with CNY street light-up",
-          "neutralSummary": "Other highlights include the countdown party from Feb 16 to 17, festive fairs and a lion dance competition.",
+          "neutralHeadline": "Traffic jam on PIE after accident involving motorcycle, 2 cars; man taken to hospital",
+          "neutralSummary": "The accident caused congestion on the expressway till the CTE.",
           "versions": [
             {
               "political": "center",
@@ -514,15 +577,31 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Chinatown galloping into Year of the Horse with CNY street light-up",
-              "url": "https://www.straitstimes.com/singapore/chinatown-gallops-into-year-of-the-horse-with-street-light-up"
+              "headline": "Traffic jam on PIE after accident involving motorcycle, 2 cars; man taken to hospital",
+              "url": "https://www.straitstimes.com/singapore/traffic-jam-on-pie-after-accident-involving-motorcycle-2-cars-man-taken-to-hospital"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "At least 170 civilians killed in Myanmar airstrikes during election: UN",
-          "neutralSummary": "More than 400 airstrikes were conducted during the voting period between December 2025 and January 2026.",
+          "neutralHeadline": "Life After... finding out her father was hanged for drug trafficking when she was two",
+          "neutralSummary": "Adeline Wong never knew why her father died. She was 33 when she learnt the truth.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Life After... finding out her father was hanged for drug trafficking when she was two",
+              "url": "https://www.straitstimes.com/singapore/life-after-finding-out-her-father-was-hanged-for-drug-trafficking-when-she-was-two"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "'People's dad' Jensen Huang praises, pushes Nvidia suppliers on mobbed Taiwan visit",
+          "neutralSummary": "Nvidia's CEO said it would be another good year for business, even as he expressed concerns about supplies of memory chips - which support AI workloads - amid a production crunch.",
           "versions": [
             {
               "political": "center",
@@ -530,33 +609,40 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "At least 170 civilians killed in Myanmar airstrikes during election: UN",
-              "url": "https://www.channelnewsasia.com/asia/170-civilians-killed-myanmar-airstrikes-election-un-5896486"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "At least 170 killed in air strikes during Myanmar's widely criticised election, UN says",
-              "url": "https://www.bbc.com/news/articles/cg5gl8grv66o?at_medium=RSS&at_campaign=rss"
+              "headline": "'People's dad' Jensen Huang praises, pushes Nvidia suppliers on mobbed Taiwan visit",
+              "url": "https://www.channelnewsasia.com/asia/jensen-huang-nvidia-taiwan-ai-chips-5898776"
             }
           ]
         },
         {
-          "id": "singapore-6",
-          "neutralHeadline": "Panama Strikes Down Hong Kong Tycoon Li's Port Deals, Rattling Investors",
-          "neutralSummary": "Panama Strikes Down Hong Kong Tycoon Li's Port Deals, Rattling Investors&nbsp;&nbsp;BloombergHong Kong port operator violated Panama's constitution, failed to serve public interest, Panama court ruled&nbsp;&nbsp;CNAPanama voids Hong Kong-based firm's canal port contracts&nbsp;&nbsp;BBCTrump gets a b",
+          "id": "singapore-7",
+          "neutralHeadline": "Malaysia’s influencers deem new tax guidelines impractical, but experts say they ‘ensure fairness’",
+          "neutralSummary": "Some content creators welcome the latest income tax guidelines - including the need to declare gifts - though they call for more clarity on what exactly should be declared and how.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Malaysia’s influencers deem new tax guidelines impractical, but experts say they ‘ensure fairness’",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-influencer-tax-gift-lhdn-social-media-content-creator-5896086"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "Hong Kong port operator contract violated Panama constitution, court rules",
+          "neutralSummary": "Hong Kong port operator contract violated Panama constitution, court rules&nbsp;&nbsp;ReutersHong Kong port operator violated Panama's constitution, failed to serve public interest, Panama court ruled&nbsp;&nbsp;CNAShipping giant Maersk to take over Panama Canal ports after court ruling&nbsp;&nbsp;A",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Reuters",
+              "initials": "R",
               "domain": "news.google.com",
-              "headline": "Panama Strikes Down Hong Kong Tycoon Li's Port Deals, Rattling Investors",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcjJOSHpxR2ZpRXlYY0NPTmlIeTl4VGVwMlRmMU9UWkZrQngwYTY2Tnp3NG1OcTZvdk15MEpXQVNZOHJEUE1pVnBQWk53MHZuWksxWHRQQ004cnZIR1lzYnpzTGhLMUhlcVA5TU13LU5RQmFUczRnbXp3cVJGLVd3dGsyOEVvSFFMMG1aSEQtSF9HUk9oVlhjVWtUZ2NLdFYtZmdfQ08tV0ZYX0c1T2dsaUpQbw?oc=5"
+              "headline": "Hong Kong port operator contract violated Panama constitution, court rules",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSTR5QTYyTTRhd002dWZVdzQ2MnM4ajV3WHQyY3R1RWc1MzduU3RIeG1PbkNtT2RnaTNrZHVxbEhmVTdzdkxsS0tLMUQtc2FveEZxNG16dGJFOWF5T3R4NXJFVDVIZzJmRk5Va2lNc1NhZVVvQzZydll2TUxnR2ZURm1QSDZnLW1sc0RZc1BhRk1CR1d3SGJDSFYyUk5SQzFrU245UzByb1BNc3lFNWpBTTh6MzRHUWNQX25HaloyUGJOUXFDSGxsbmQwSUYya2tRdVF2RFR3?oc=5"
             },
             {
               "political": "left",
@@ -570,41 +656,9 @@
           ]
         },
         {
-          "id": "singapore-7",
-          "neutralHeadline": "Life after... finding out her father was hanged for drug trafficking when she was two",
-          "neutralSummary": "Adeline Wong never knew why her father died. She was 33 when she learnt the truth.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Life after... finding out her father was hanged for drug trafficking when she was two",
-              "url": "https://www.straitstimes.com/singapore/life-after-finding-out-her-father-was-hanged-for-drug-trafficking-when-she-was-two"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "Fantasy meets whimsy at mediaeval-themed renaissance fair Ren Faire SG",
-          "neutralSummary": "Unfettered by the city’s clammy heat, attendees showed up clad in their finest frocks and frills.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Fantasy meets whimsy at mediaeval-themed renaissance fair Ren Faire SG",
-              "url": "https://www.straitstimes.com/singapore/fantasy-meets-whimsy-at-mediaeval-themed-renaissance-fair-ren-faire-sg"
-            }
-          ]
-        },
-        {
           "id": "singapore-9",
-          "neutralHeadline": "Exhibition shines a light on struggles of foreign domestic workers in Singapore",
-          "neutralSummary": "The Maid of Honour exhibition will run at Jurong Regional Library till Feb 28.",
+          "neutralHeadline": "24 people to be charged with scam-related money mule activities involving over $3.1m in losses",
+          "neutralSummary": "If convicted, they could face penalties ranging from fines to imprisonment.",
           "versions": [
             {
               "political": "center",
@@ -612,8 +666,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Exhibition shines a light on struggles of foreign domestic workers in Singapore",
-              "url": "https://www.straitstimes.com/singapore/behind-closed-doors-exhibition-highlights-struggles-of-foreign-domestic-workers-in-singapore"
+              "headline": "24 people to be charged with scam-related money mule activities involving over $3.1m in losses",
+              "url": "https://www.straitstimes.com/singapore/24-people-to-be-charged-with-scam-related-money-mule-activities-involving-over-3-1m-in-losses"
             }
           ]
         }
@@ -624,17 +678,26 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Sunetra Pawar, first woman deputy CM of Maharashtra: What's her net worth? Gold, bonds, properties worth  ₹130 crore+",
-          "neutralSummary": "NCP leader Sunetra Pawar is set to take oath as first female chief minister of Maharashtra taking over from her late husband Ajit Pawar.&nbsp;",
+          "neutralHeadline": "What time is Nirmala Sitharaman Budget 2026 speech today?",
+          "neutralSummary": "Finance Minister Nirmala Sitharaman will present the Union Budget 2026 today, focusing on job creation, GDP growth, and infrastructure spending.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Watch: Budget 2026: Nirmala Sitharaman poses with budget tablet",
+              "url": "https://www.thehindu.com/shorts/watch-budget-2026-nirmala-sitharaman-poses-with-budget-tablet/article70576727.ece"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Sunetra Pawar Takes Oath, Becomes Maharashtra's 1st Woman Deputy Chief Minister",
-              "url": "https://www.ndtv.com/india-news/sunetra-pawar-takes-oath-becomes-maharashtras-1st-woman-deputy-chief-minister-10919792#publisher=newsstand"
+              "headline": "Budget 2026 Live Updates: Finance Minister Nirmala Sitharaman Arrives At Kartavya Bhavan",
+              "url": "https://www.ndtv.com/india-news/union-budget-2026-live-updates-finance-minister-nirmala-sitharaman-speech-live-new-income-tax-regime-old-regime-10919500#publisher=newsstand"
             },
             {
               "political": "center",
@@ -642,8 +705,51 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Sunetra Pawar, first woman deputy CM of Maharashtra: What's her net worth? Gold, bonds, properties worth  ₹130 crore+",
-              "url": "https://www.hindustantimes.com/india-news/sunetra-pawar-to-be-deputy-cm-of-maharashtra-what-is-her-net-worth-gold-bonds-properties-worth-over-rs-130-crore-101769852456968.html"
+              "headline": "What time is Nirmala Sitharaman Budget 2026 speech today?",
+              "url": "https://www.hindustantimes.com/india-news/what-time-is-nirmala-sitharaman-budget-2026-speech-today-101769911802607.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "Nirmala Sitharaman To Present Budget 2026 Today",
+              "url": "https://swarajyamag.com/news-brief/nirmala-sitharaman-to-present-budget-2026-today"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "Firing outside filmmaker Rohit Shetty's Mumbai residence, police team at site",
+          "neutralSummary": "The incident took place outside Rohit Shetty’s home in Juhu, following which Mumbai Police deployed additional personnel around the premises.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Firing outside film maker Rohit Shetty’s Mumbai residence, probe launched",
+              "url": "https://www.thehindu.com/news/cities/mumbai/firing-outside-film-maker-rohit-shettys-mumbai-residence/article70576642.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Shots Fired Outside Director Rohit Shetty's Mumbai Home, 'Motive Unknown'",
+              "url": "https://www.ndtv.com/india-news/rohit-shetty-juhu-firing-4-rounds-fired-outside-bollywood-directors-mumbai-residence-probe-on-10922320#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Firing outside filmmaker Rohit Shetty's Mumbai residence, police team at site",
+              "url": "https://www.hindustantimes.com/india-news/firing-outside-filmmaker-rohit-shettys-mumbai-residence-police-team-on-site-101769908874131.html"
             },
             {
               "political": "center",
@@ -651,33 +757,15 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Who is Sunetra Pawar? Maha's first woman Dy CM",
-              "url": "https://economictimes.indiatimes.com/news/india/who-is-sunetra-pawar-maharashtras-first-woman-deputy-chief-minister/articleshow/127817352.cms"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Swarajya",
-              "initials": "SWR",
-              "domain": "swarajyamag.com",
-              "headline": "Sunetra Pawar Elected NCP Legislative Party Leader, Set To Become Maharashtra's First Woman Deputy Chief Minister",
-              "url": "https://swarajyamag.com/news-brief/sunetra-pawar-elected-ncp-legislative-party-leader-set-to-become-maharashtras-first-woman-deputy-chief-minister"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "Sunetra Pawar sworn in as Maharashtra’s first woman Deputy CM, move seen as bid to protect Ajit Pawar’s legacy amid NCP power tussle",
-              "url": "https://www.opindia.com/2026/01/why-sunetra-pawar-was-made-deputy-cm-after-ajit-pawars-death/"
+              "headline": "Rohit Shetty’s Juhu home targeted in firing",
+              "url": "https://economictimes.indiatimes.com/news/india/firing-outside-film-maker-rohit-shettys-mumbai-residence-probe-launched/articleshow/127831035.cms"
             }
           ]
         },
         {
-          "id": "india-2",
-          "neutralHeadline": "Waiter At Popular Kolkata Restaurant Arrested For Serving Beef To YouTuber",
-          "neutralSummary": "The video also captures an exchange between Sayak and the restaurant employee.",
+          "id": "india-3",
+          "neutralHeadline": "'Will do something substantial': Trump warns Canada against China deal; negotiates with Iran",
+          "neutralSummary": "US President Trump warned Canada of substantial US action if it proceeds with a trade deal with China, stating it would lead to China taking over Canada. Meanwhile, Trump indicated Iran is in talks with the US, despite ongoing military deployments in the region, while Tehran issued warnings against",
           "versions": [
             {
               "political": "left",
@@ -685,8 +773,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Waiter At Popular Kolkata Restaurant Arrested For Serving Beef To YouTuber",
-              "url": "https://www.ndtv.com/india-news/waiter-at-popular-kolkata-restaurant-olypub-arrested-for-serving-beef-to-youtuber-10920250#publisher=newsstand"
+              "headline": "\"Iran Is Negotiating, We'll See If We Can Do Something\": Trump",
+              "url": "https://www.ndtv.com/world-news/iran-is-negotiating-well-see-if-we-can-do-something-us-president-donald-trump-10922459#publisher=newsstand"
             },
             {
               "political": "left",
@@ -694,67 +782,17 @@
               "source": "Indian Express",
               "initials": "IE",
               "domain": "indianexpress.com",
-              "headline": "Waiter arrested after actor Sayak Chakraborty alleges cow meat served at Kolkata restaurant",
-              "url": "https://indianexpress.com/article/cities/kolkata/waiter-arrested-actor-sayak-chakraborty-cow-meat-served-kolkata-restaurant-10505678/"
+              "headline": "Donald Trump says India will buy oil from Venezuela, not Iran",
+              "url": "https://indianexpress.com/article/world/donald-trump-says-india-will-buy-oil-from-venezuela-not-iran-10506422/"
             },
             {
-              "political": "right",
-              "tone": "neutral",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "news.google.com",
-              "headline": "Kolkata: Muslim waiter at posh restaurant serves beef to Hindu Brahmin actor, tenders token 'apology' after being confronted",
-              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMm5QMUdzdkFYTWhnNzZMWDBJSm5GdjlYdDQ0MGstRlNqbmNmbFgtVWJTZWdBTWY3OWVmZlJuZkc4dC1BcVJfRk84Q1lXSzh0THhpZnpKNzJUN2xVY2Y1cXhmVWRVUE1mdVBEZmEzejF6VWc2V2tjZzdFZ2Nmd1BwU1owV0ZucHhubGJ6R01mb210TGhqeElualBaZzluei1wR1ZmUXhSTjNWbDZ0eFBJbkZlOE9oZS1sVUZxM1otX1VGbmZJNUtiTnFLbWFyVktoMk5aZFJ5TmU?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Gold, silver price crash: $5 trillion lost in market cap! What led to the spectacular fall",
-          "neutralSummary": "Gold prices dropped by a whopping Rs 14,000 per 10 grams and silver prices tanked by Rs 20,000 per kg in Delhi on Friday. The sharp dip came after gold hit a fresh high of Rs 1,83,000 and silver of Rs 4,04,500 on Thursday.",
-          "versions": [
-            {
               "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Gold, silver price crash: $5 trillion lost in market cap! What led to the spectacular fall",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-crash-5-trillion-lost-in-market-cap-what-led-to-the-spectacular-fall-is-the-bull-run-over/articleshow/127819419.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "CME Raises Gold, Silver Margins After Historic Price Plunge",
-              "url": "https://www.bloomberg.com/news/articles/2026-01-31/cme-raises-gold-silver-margins-after-historic-price-plunge"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "Gold and Silver record their worst fall in decades: What triggered the historic crash? Explained",
-              "url": "https://www.opindia.com/2026/01/gold-silver-record-their-worst-fall-in-decades-what-triggered-the-historic-crash/"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Jailed activist Sonam Wangchuk complains of stomach pain, taken to AIIMS Jodhpur",
-          "neutralSummary": "The Supreme Court, which is currently hearing a petition filed by his wife, has requested Sonam Wangchuk's medical report by February 2.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Sonam Wangchuk Taken To AIIMS After Complaining Of Stomach Pain",
-              "url": "https://www.ndtv.com/india-news/sonam-wangchuk-taken-to-aiims-after-complaining-of-stomach-pain-10919297#publisher=newsstand"
+              "headline": "'Will do something substantial': Trump warns Canada against China deal; negotiates with Iran",
+              "url": "https://timesofindia.indiatimes.com/world/us/will-do-something-substantial-if-trump-warns-canada-over-potential-china-deal-negotiates-with-iran/articleshow/127830887.cms"
             },
             {
               "political": "center",
@@ -762,15 +800,40 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Jailed activist Sonam Wangchuk complains of stomach pain, taken to AIIMS Jodhpur",
-              "url": "https://www.hindustantimes.com/india-news/jailed-activist-sonam-wangchuk-complains-of-stomach-pain-taken-to-aiims-jodhpur-101769853827484.html"
+              "headline": "India will buy Venezuelan oil instead of Iran, claims Donald Trump",
+              "url": "https://www.hindustantimes.com/india-news/india-will-buy-venezuelan-oil-instead-of-iran-claims-donald-trump-101769913670321.html"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Tax reform to lower input duties: What to expect in Union Budget 2026-27",
+          "neutralSummary": "The Union Budget 2026-27 also comes at a time of a number of uncertainties and massive global tensions across the world.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Expect Union Budget to give fresh momentum to Delhi’s development, says Delhi CM",
+              "url": "https://www.thehindu.com/business/budget/expect-union-budget-to-give-fresh-momentum-to-delhis-development-says-delhi-cm/article70576669.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Tax reform to lower input duties: What to expect in Union Budget 2026-27",
+              "url": "https://www.hindustantimes.com/india-news/tax-reform-to-lower-input-duties-what-to-expect-in-union-budget-2026-27-nirmala-sitharaman-101769913406522.html"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Why India-EU trade deal is mother of all setbacks for Pakistan",
-          "neutralSummary": "Why India-EU trade deal is mother of all setbacks for Pakistan&nbsp;&nbsp;India TodayPiyush Goyal Explains How India-EU Trade Deal Will Benefit New Middle Class&nbsp;&nbsp;NDTVSamyukt Kisan Morcha set to campaign against India-EU trade deal&nbsp;&nbsp;The HinduEnsure Punjab gains from India-European",
+          "neutralHeadline": "PM Modi Meets Arab Leaders, Says India Backs Palestinians, Gaza Peace Plan",
+          "neutralSummary": "India is yet to take a call on joining the 'Board Of Peace' initiative.",
           "versions": [
             {
               "political": "left",
@@ -778,74 +841,74 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Piyush Goyal Explains How India-EU Trade Deal Will Benefit New Middle Class",
-              "url": "https://www.ndtv.com/india-news/piyush-goyal-explains-how-india-eu-trade-deal-will-benefit-new-middle-class-10920085#publisher=newsstand"
+              "headline": "PM Modi Meets Arab Leaders, Says India Backs Palestinians, Gaza Peace Plan",
+              "url": "https://www.ndtv.com/india-news/india-backs-palestinians-trumps-gaza-peace-plan-pm-modi-to-arab-ministers-10922433#publisher=newsstand"
             },
             {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "Today",
-              "initials": "TD",
-              "domain": "news.google.com",
-              "headline": "Why India-EU trade deal is mother of all setbacks for Pakistan",
-              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3hNM29JTG9xQVlwRU8yOVBvZXQ4UzlxZVFra29vYTZENXpHT0hwZ2ZQb19HQXhqMzJmaV9RenlzMzloTEgzVkxja20xd3hpTl9zQmd6ZEpCdHhkUG4ycXJwb3RCVW5zOFdIb2E5aXdmNURfTk50RUZranhJSmVfMnlkcWdSS2F3and5YXZTcWFabkJtS0EyeUNTSUJSRGtfa0FUZDcxOTg1MFQwdFE?oc=5"
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "PM Modi Meets Arab Foreign Ministers, Reaffirms India’s Support For Palestinians And Gaza Peace Efforts",
+              "url": "https://swarajyamag.com/world/pm-modi-meets-arab-foreign-ministers-reaffirms-indias-support-for-palestinians-and-gaza-peace-efforts"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "Modi ally proposes social media ban for India's teens as global debate grows",
-          "neutralSummary": "Modi ally proposes social media ban for India's teens as global debate grows&nbsp;&nbsp;CNBCDigital addiction a major health worry, curb kids' access: Survey&nbsp;&nbsp;Times of IndiaNarendra Modi ally proposes bill to restrict social media access for children as global debate grows&nbsp;&nbsp;Teleg",
+          "neutralHeadline": "YSRCP leader Ambati Rambabu arrested in Andhra for 'derogatory remarks' on CM",
+          "neutralSummary": "YSRCP leader Ambati Rambabu arrested in Andhra for 'derogatory remarks' on CM",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "PM Modi ally proposes social media ban for India’s teens as global debate grows",
-              "url": "https://indianexpress.com/article/technology/tech-news-technology/pm-modi-ally-proposes-social-media-ban-for-indias-teens-as-global-debate-grows-10505733/"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "CNBC",
-              "initials": "C",
-              "domain": "news.google.com",
-              "headline": "Modi ally proposes social media ban for India's teens as global debate grows",
-              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUnJKSHhFN1BYNFFhYXdGMVJYVTNjU0ZsR0NMaVVoU1dXUUtESENyQjFOQ0NIbDY5M0ZmY2hkMjNoSTBhS256d3ZRMFhNaDBTYlotZ1hJck80S1AtMjczVjRxTHBncVRlTHhPSUUtb0RxVEtHWW54MmluZWFQejJHTzRQOEdRSmdoMkgySEp0OTVkVlXSAZgBQVVfeXFMTkxWaDZvTjkzY3A0ODVTbDFUcHJVYUFuQWVqQUViU0wwdDg5RXNkUTZKUWFyd1RvMjcwYlpkX3ZWNHAyTGlHSGhMQWxOQjhDeXA2eWZxYzVjWHdfUHRLWWZ5VkR1Z094bEp1XzBrbFkyRDduV2NucGRacm9hRWl2ajdVU3g5bUFkQzg0NENyMm1ReVd4blh4cXE?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Explosion rocks Iran’s Bandar Abbas port; building, shops damaged",
-          "neutralSummary": "A powerful explosion ripped through an eight-storey building in Iran's Bandar Abbas port city, causing significant damage to its structure, vehicles, and shops. While the cause remains under investigation, authorities have dismissed claims of a targeted attack. The incident occurs amidst escalating",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Explosion rocks Iran’s Bandar Abbas port; building, shops damaged",
-              "url": "https://timesofindia.indiatimes.com/world/middle-east/explosion-rocks-irans-bandar-abbas-port-building-shops-damaged/articleshow/127820733.cms"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Andhra Ex Minister Arrested, Home Attacked Over Remarks Against Chandrababu Naidu",
+              "url": "https://www.ndtv.com/india-news/video-andhra-ex-ministers-home-attacked-over-remarks-against-chandrababu-naidu-10921289#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "YSRCP leader Ambati Rambabu arrested in Andhra for 'derogatory remarks' on CM",
+              "url": "https://www.hindustantimes.com/india-news/ysrcp-leader-ambati-rambabu-arrested-in-andhra-for-derogatory-remarks-on-cm-101769916666769.html"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Russian crude out? Trump claims India to buy oil from Venezuela",
+          "neutralSummary": "President Trump said that India is poised to purchase Venezuelan oil, a move aligning with India's strategy to diversify its energy imports. This development follows Venezuela's legal reforms to attract private investment in its oil sector and recent discussions between Indian and Venezuelan leaders",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Russian crude out? Trump claims India to buy oil from Venezuela",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/russian-crude-out-trump-claims-india-to-buy-oil-from-venezuela/articleshow/127831373.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Moneycontrol",
+              "initials": "M",
               "domain": "news.google.com",
-              "headline": "Iran-US tensions LIVE updates: Explosion at Iran's southern port of Bandar Abbas, residential building damaged | World News",
-              "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWDhrMHZpMlVrSlJNTmVCR3lDZmVLMXhoenZrQ1doZThpeXBQRW9lQU84dDhtUmNadWJVcVRXd0F5cjNCQklNN3VhTEhmYmZWSTg4dUI1OGlKblJYb2FWTGE1N25iX0M4Y2RRdW5DLWdaZjk4ckZkY1pxdjFNbjRMd2FZY2tYSVlqWVNPWG9kdkI1Ym8yWTd3SXV4dDVwQWRPLUhfSmp1cHZDOUZZSWRqenlUcmpaZGNpd1RYR1JHVThTNV83T3NJekk3QVAxZ3hXZDM1cjZXc0ZrODZwcDlWcjNlODFSdExRQ2V1cnRhZVpTNnFTUktXSDBSZjJxZEVwa3fSAYcCQVVfeXFMT2Q5dHp1YWdCM1J3cm5TM2k4b2VUWlhaMksyM0F0bldsX0FERHdZeWtoU0c5QzNKRjVHMVF1SjluNHN0aHlPSFlfU0t1cXN2RzBRSGhpNGJ0aTFYZm9rTGZuX0V3VExZS29QNjZxSEVHVFpjUHpha1BBdmVpNlRmb3lrdTBveExTcFpVNnhUSlU3NG80cWhzTWFTenRzXzNvd1N3OWpkMDVxcjNYNXZGTjFzNUduczgyalFIVzRhQmZxbjJKYmJDdHJjS3g4UmRMaWlnS2M1Wkh3NFlGNWp2X3czS2NqRzBGRUFpLVhnUmpLdUFEWVJQSzRBYlppa0xjZnV2TVdLLVE?oc=5"
+              "headline": "Trump says India will buy Venezuelan oil instead of Iranian crude",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFRERGNrUlZQdG55SktRY2psMkgzazNuMENaS21fMkVvakZudDhNRDRiLVc2NXJIcnozV1AzdkpscUJDeW1kckhsNG9VZEZoYmktMkl5WkZzRXBVa0V5aEJIQzljWEVrbUJpZmVWZXp3UHQ3NzJSU2xaWmg2NnY0R1FhX0xtcC1VZFlWV1JVZXBzRXZ3dWtQbnVtSi16YmVxdnR0ZV81N2FOalF3d0ZhbUZYZlNOWDdsTnZTVk05UdIBxAFBVV95cUxQb0dlNlNZSGRLZVNwX3hzbWNSSHJWeWF1bjZVWWJuSk41U2prQy1YSkYyOFY1YmZUZUtoNjFSTDRMeWN0TE9DV2hBVHVjUlZjRnFsN0NTOEZMZE8ydWxPdHU0cmxXVm9ZeE9XZmxvZHBBeWstMU9fWXROTUdxOFl5ZWFueU5TZDRwaEMxN0RDS3ZLclh1UkJVRTJZSnRacmhMZzRsNjl5VGg4WmlrYzJnWXp0Ym9EQ0tFLW5VSFZET1d4c3hF?oc=5"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "'Operation Herof': Massive firing erupts across Pakistan, 10 policemen, 37 rebels killed",
-          "neutralSummary": "'Operation Herof': Massive firing erupts across Pakistan, 10 policemen, 37 rebels killed",
+          "neutralHeadline": "Nvidia H-1B data reveals US pay as Jensen Huang reviews all compensation",
+          "neutralSummary": "Nvidia's soaring stock has created millionaires among its employees, with H-1B visa filings revealing substantial base salaries for critical roles. While CEO Jensen Huang emphasizes personal involvement in compensation, earlier hires have significantly benefited from equity appreciation. The data of",
           "versions": [
             {
               "political": "center",
@@ -853,42 +916,33 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "'Operation Herof': Massive firing erupts across Pakistan, 10 policemen, 37 rebels killed",
-              "url": "https://timesofindia.indiatimes.com/world/pakistan/bla-launches-coordinated-attacks-across-5-balochistan-districts-four-policemen-killed/articleshow/127816453.cms"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Swarajya",
-              "initials": "SWR",
-              "domain": "swarajyamag.com",
-              "headline": "Four Policemen Killed in Coordinated Baloch Separatist Attacks Across Pakistan",
-              "url": "https://swarajyamag.com/news-brief/four-policemen-killed-in-coordinated-baloch-separatist-attacks-across-pakistan"
+              "headline": "Nvidia H-1B data reveals US pay as Jensen Huang reviews all compensation",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/h-1b-visa-data-reveals-how-much-nvidia-pays-employees-in-the-us-as-ceo-jensen-huang-said-i-review-everybodys-/articleshow/127816884.cms"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Budget 2026: No mention in Constitution, Sunday presentation &amp; more — 10 facts",
-          "neutralSummary": "India's Union Budget, a key economic event, holds many fascinating historical details.  The Constitution calls it the 'Annual Financial Statement'.  This year's budget presentation on a Sunday is a first.  From colonial-era evening timings to the shift to February 1, traditions have evolved.  The 'b",
+          "neutralHeadline": "India rejects reference to PM Modi in Epstein files",
+          "neutralSummary": "India rejects reference to PM Modi in Epstein files",
           "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Budget 2026: No mention in Constitution, Sunday presentation &amp; more — 10 facts",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/budget-2026-from-no-mention-in-constitution-to-sunday-presentation-10-lesser-known-facts/articleshow/127817435.cms"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Economic Times",
               "initials": "ET",
-              "domain": "news.google.com",
-              "headline": "Budget 2026-27: The Sunday budget needs Monday energy",
-              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcllrVTgyZnEwcnhtN2tIelk1WlRvYk5XOGNjUzA5SnMtdjduSzNoLUZydHlac2VkWFRlX250dUxDV041dVB6aVRMYmROV2pmUVpyM296SWZJY1RiYUduN1lqTWF4RXZfdDZreVNhZWtzcjlMcHdrYUtOZkgtRkxsdG4zZ21peUxJb1VUY0tyYjVKMVJmRXVLWElEUW1NaHBMb29BeS1EaE85N1lkcWxxeG5pSHZ0dDJqR0hiVnFUcE0za0M0?oc=5"
+              "domain": "economictimes.indiatimes.com",
+              "headline": "India rejects reference to PM Modi in Epstein files",
+              "url": "https://economictimes.indiatimes.com/news/india/india-categorically-rejects-reference-to-pm-narendra-modu-in-jeffrey-epstein-investigative-files/articleshow/127823858.cms"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "India Dismisses Reference To PM Modi In Epstein Files As 'Trashy Ruminations' Of Convicted Criminal",
+              "url": "https://swarajyamag.com/world/india-dismisses-reference-to-pm-modi-in-epstein-files-as-trashy-ruminations-of-convicted-criminal"
             }
           ]
         }
