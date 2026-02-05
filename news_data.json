@@ -1,13 +1,81 @@
 {
-  "generatedAt": "2026-02-05T04:05:06.268300+00:00",
+  "generatedAt": "2026-02-05T14:07:40.750188+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Armed Islamist extremists kill 162 in western Nigeria villages",
-          "neutralSummary": "At least 162 people were killed on Tuesday in attacks on the villages of Woro and Nuku in Kwara state, Nigeria, a lawmaker said. The assaults, carried out by IS-linked Lakurawa militants, come amid a worsening security crisis across the country, including Boko Haram violence in the northeast and kid",
+          "neutralHeadline": "USA: Mother of star NBC anchor Savannah Guthrie presumed abducted",
+          "neutralSummary": "NBC star Savannah #Guthrie has issued a desperate plea for her mother’s return after police said they strongly suspect she was abducted from her #Arizona home, sparking a nationwide search supported by Donald #Trump.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "'We are ready to talk': US news anchor Savannah Guthrie pleads for return of her abducted mother",
+              "url": "https://www.bbc.com/news/articles/c2e18wvrx9xo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Video: US news host Savannah Guthrie pleads for return of abducted mother",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/video-us-news-host-savannah-guthrie-pleads-for-return-of-abducted-mother?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "USA: Mother of star NBC anchor Savannah Guthrie presumed abducted",
+              "url": "https://www.france24.com/en/usa-mother-of-star-nbc-anchor-savannah-guthrie-presumed-abducted"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Last US-RUssia nuclear treaty expires",
+          "neutralSummary": "Ukrainian and Russian officials meet for a second day in Abu Dhabi Thursday to continue US-brokered peace talks after what Kyiv’s lead negotiator described as a “productive” first day. The discussions aim to achieve practical steps toward peace and a possible prisoner exchange. James Vasina and Char",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "New START treaty between the U.S. and Russia expires Thursday",
+              "url": "https://www.npr.org/2026/02/05/nx-s1-5699376/new-start-treaty-between-the-u-s-and-russia-expires-thursday"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Russia says will act responsibly despite New START nuclear treaty expiry",
+              "url": "https://www.aljazeera.com/news/2026/2/5/russia-says-will-act-responsibly-despite-new-start-nuclear-treaty-expiry?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Last US-RUssia nuclear treaty expires",
+              "url": "https://www.france24.com/en/last-us-russia-nuclear-treaty-expires"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Gunmen kill more than 160 people in attacks on two west Nigeria villages",
+          "neutralSummary": "Local politician says armed men rounded up residents, bound their hands behind their backs and shot themMore than 160 people have been killed in two villages in western Nigeria in the country’s deadliest armed assaults this year, as communities reel from repeated and widespread acts of violence perp",
           "versions": [
             {
               "political": "left",
@@ -20,89 +88,12 @@
             },
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Gunmen kill dozens in Nigeria as US military deployment confirmed",
-              "url": "https://www.bbc.com/news/articles/ckgvllk3lx9o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
               "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Armed Islamist extremists kill 162 in western Nigeria villages",
-              "url": "https://www.france24.com/en/africa/20260205-armed-islamist-extremists-kill-162-in-western-nigeria-villages"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Macron's envoy met with Russian officials for peace talks in Moscow",
-          "neutralSummary": "French President Emmanuel Macron’s most senior diplomat travelled to Moscow on Tuesday for talks with Russian officials, as European leaders explore ways to re-engage with the Kremlin over the war in Ukraine.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Peace talks to end the war in Ukraine set to resume",
-              "url": "https://www.npr.org/2026/02/04/nx-s1-5698180/peace-talks-to-end-the-war-in-ukraine-set-to-resume"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Ukraine says first day of peace talks with Russia ‘productive’",
-              "url": "https://www.aljazeera.com/news/2026/2/4/ukraine-says-first-day-of-peace-talks-with-russia?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Macron's envoy met with Russian officials for peace talks in Moscow",
-              "url": "https://www.france24.com/en/europe/20260204-macron-envoy-met-with-russian-officials-for-peace-talks-in-moscow"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Oil Declines After Iran Confirms US Negotiations Set for Friday",
-          "neutralSummary": "Oil fell for the first time in three days after Iran confirmed it would hold negotiations with the US, easing the immediate risk of military strikes against the OPEC producer.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "US-Iran nuclear talks set for Oman on Friday, Tehran confirms",
-              "url": "https://www.aljazeera.com/news/2026/2/4/us-iran-nuclear-talks-set-for-oman-on-friday-tehran-confirms?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Oil Declines After Iran Confirms US Negotiations Set for Friday",
-              "url": "https://www.bloomberg.com/news/articles/2026-02-04/latest-oil-market-news-and-analysis-for-feb-5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Rubio confirms Iran demanded venue change for nuclear talks",
-              "url": "https://www.foxnews.com/world/rubio-confirms-iran-demanded-venue-change-nuclear-talks"
+              "headline": "Gunmen kill nearly 200 people in Nigeria",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/2/5/gunmen-kill-nearly-200-people-in-nigeria?traffic_source=rss"
             }
           ]
         },
@@ -149,6 +140,31 @@
         },
         {
           "id": "global-6",
+          "neutralHeadline": "Maduro’s alleged frontman Alex Saab reportedly detained in Caracas",
+          "neutralSummary": "FBI and Venezuela’s intelligence agency also reportedly arrest billionaire media mogul Raúl Gorrín at same addressA close and powerful associate of the deposed Venezuelan president Nicolás Maduro has reportedly been detained during a joint operation by Venezuela’s intelligence agency and the FBI.Ale",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Maduro’s alleged frontman Alex Saab reportedly detained in Caracas",
+              "url": "https://www.theguardian.com/world/2026/feb/05/nicolas-maduro-alex-saab-caracas-venezuela"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Maduro ally Alex Saab arrested in joint US-Venezuelan operation, official says",
+              "url": "https://www.foxnews.com/world/maduro-ally-alex-saab-arrested-joint-us-venezuelan-operation-official-says"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
           "neutralHeadline": "Colombian president and Trump put aside insults for amicable White House meeting",
           "neutralSummary": "Leaders had been trading hostile remarks for months but Gustavo Petro’s visit ended with warm words from US counterpartAfter months of trading insults – from “sick man” and “drug trafficking leader” on one side, to “accomplice to genocide” with a “senile brain” on the other – the first meeting betwe",
           "versions": [
@@ -173,68 +189,18 @@
           ]
         },
         {
-          "id": "global-7",
-          "neutralHeadline": "US calls for critical minerals trading bloc",
-          "neutralSummary": "The Trump administration has put aside its tariff threats, and is calling for a new trade bloc to focus on critical minerals. Ministers from 55 countries attended talks in Washington aimed at reducing their reliance on China, which dominates the production and processing of the elements. Meanwhile,",
+          "id": "global-8",
+          "neutralHeadline": "Be ‘prudent’ about supplying arms to Taiwan, Xi tells Trump in call",
+          "neutralSummary": "Taiwanese president says ties with Washington ‘rock solid’, hours after leaders of US and China share first call since NovemberIn their first call since November, Chinese leader Xi Jinping warned US president Donald Trump to be “prudent” about supplying arms to Taiwan, according to a readout of thei",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "US, UK, EU, Australia and more to meet to discuss critical minerals alliance",
-              "url": "https://www.theguardian.com/business/2026/feb/01/us-uk-eu-australia-critical-minerals-rare-earths-g7-minimum-price"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "US calls for critical minerals trading bloc",
-              "url": "https://www.france24.com/en/tv-shows/business/20260204-us-calls-for-critical-minerals-trading-bloc"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Israel Strikes Gaza, Killing 19 Including Women And Children, After Saying Hamas Violated Deal",
-          "neutralSummary": "Israel said it was responding to a militant attack on Israeli soldiers that seriously wounded one.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Israel Strikes Gaza, Killing 19 Including Women And Children, After Saying Hamas Violated Deal",
-              "url": "https://www.huffpost.com/entry/israel-strikes-gaza-claiming-hamas-violated-deal_n_69832a72e4b07fd36aeaf823"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Israel strikes Gaza, killing 19, mostly women and children, after saying Hamas violated deal",
-              "url": "https://www.npr.org/2026/02/04/nx-s1-5699274/israel-strikes-gaza-killing-19-mostly-women-and-children-after-saying-hamas-violated-deal"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Rape Trial For Son Of Norway's Crown Princess Begins With Not Guilty Pleas",
-          "neutralSummary": "Marius Borg H&oslash;iby, 29, is facing 38 charges, ranging from rape to domestic assault, as well as driving and drug-related offenses.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Rape Trial For Son Of Norway's Crown Princess Begins With Not Guilty Pleas",
-              "url": "https://www.huffpost.com/entry/norway-crown-princess-son-rape-trial-begins_n_69822249e4b0f9ced96dd7b1"
+              "headline": "Be ‘prudent’ about supplying arms to Taiwan, Xi tells Trump in call",
+              "url": "https://www.theguardian.com/world/2026/feb/05/xi-jinping-donald-trump-phone-call-china-us-taiwan-relationship"
             },
             {
               "political": "left",
@@ -242,8 +208,33 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Son of Norway's crown princess holds back tears giving evidence at rape trial",
-              "url": "https://www.bbc.com/news/articles/c23rdxjjp4po?at_medium=RSS&at_campaign=rss"
+              "headline": "US must be prudent when supplying arms to Taiwan, Xi tells Trump",
+              "url": "https://www.bbc.com/news/articles/c62wpjd3j1zo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Trump unveils $12bn critical minerals stockpile scheme in apparent move to counter China’s dominance",
+          "neutralSummary": "Other countries are expected to join Project Vault, which US president said would ensure that US businesses are ‘never harmed by any shortage’Donald Trump has announced the creation of a critical mineral reserve worth nearly $12bn, a stockpile that could counter China’s ability to use its dominance",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Trump unveils $12bn critical minerals stockpile scheme in apparent move to counter China’s dominance",
+              "url": "https://www.theguardian.com/us-news/2026/feb/03/trump-critical-minerals-stockpile-project-vault"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "US launches plan to tackle China's critical minerals dominance",
+              "url": "https://www.bbc.com/news/articles/c5y41r5rzrno?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
@@ -254,8 +245,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Trump directing federal law enforcement to help search for Savannah Guthrie’s missing mother",
-          "neutralSummary": "President Trump on Wednesday said he is directing federal agents to assist in the search for &#8220;Today&#8221; show anchor Savannah Guthrie&#8217;s mother, Nancy Guthrie. &#8220;I spoke with Savannah Guthrie, and let her know that I am directing ALL Federal Law Enforcement to be at the family’s, a",
+          "neutralHeadline": "Savannah Guthrie asks mother’s kidnapper for proof she is alive",
+          "neutralSummary": "&#8220;Today&#8221; show host Savannah Guthrie on Wednesday asked her mother&#8217;s potential kidnapper in an online video that her family is willing to talk but requested to see proof that she is alive. &#8220;We are ready to talk,&#8221; she read from a prepared statement, flanked by her siblings",
           "versions": [
             {
               "political": "left",
@@ -276,31 +267,13 @@
               "url": "https://www.nytimes.com/2026/02/04/us/savannah-guthrie-plea-statement.html"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Search for Nancy Guthrie, mother of 'Today' show host Savannah Guthrie, enters 4th day",
-              "url": "https://www.npr.org/2026/02/04/nx-s1-5699399/savannah-guthrie-mother-nancy-missing-search"
-            },
-            {
               "political": "center",
               "tone": "neutral",
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Trump directing federal law enforcement to help search for Savannah Guthrie’s missing mother",
-              "url": "https://thehill.com/homenews/5723792-trump-directs-federal-law-enforcement-search-nancy-guthrie/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump directs ‘all federal law enforcement’ to assist in finding Savannah Guthrie’s mother",
-              "url": "https://www.washingtonexaminer.com/news/crime/4446814/trump-all-federal-law-enforcement-nancy-guthrie/"
+              "headline": "Savannah Guthrie asks mother’s kidnapper for proof she is alive",
+              "url": "https://thehill.com/blogs/in-the-know/5723980-savannah-guthrie-proof-of-life-mother-missing/"
             },
             {
               "political": "right",
@@ -315,6 +288,99 @@
         },
         {
           "id": "us-2",
+          "neutralHeadline": "2026 Winter Olympics in Italy",
+          "neutralSummary": "The XXV Winter Olympic Games are being held in sites across Lombardy and Northeast Italy, starting with the opening ceremony on Friday, February 6, and lasting until February 22. From ice hockey (having a cultural moment of its own) to newer competitions like ski mountaineering, the games span the f",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "2026 Winter Olympics in Italy",
+              "url": "https://www.vox.com/culture/477954/2026-winter-olympics-skimo-ice-hockey-updates"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "The Winter Olympics get 8 new events, including the first new sport in decades",
+              "url": "https://www.npr.org/2026/02/05/nx-s1-5637261/winter-olympics-new-sports-ski-mountaineering"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Vance, Rubio greet American Winter Olympians in Italy",
+              "url": "https://www.foxnews.com/politics/vance-rubio-greet-american-winter-olympians-italy"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Live updates: Trump addresses National Prayer Breakfast",
+          "neutralSummary": "President Trump on Thursday morning is delivering remarks at the National Prayer Breakfast. It comes as he suggested Wednesday his administration could use &#8220;a softer touch&#8221; in its aggressive immigration operations amid uproar in Minnesota. Thursday also marks the first day of a new era i",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Live updates: Trump addresses National Prayer Breakfast",
+              "url": "https://thehill.com/homenews/administration/5722828-live-updates-trump-immigration-dhs-funding/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump returns to National Prayer Breakfast as faith takes center stage in second term",
+              "url": "https://www.foxnews.com/politics/trump-returns-national-prayer-breakfast-faith-takes-center-stage-second-term"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "WATCH LIVE: Trump speaks at National Prayer Breakfast",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4446912/watch-live-trump-speaks-at-national-prayer-breakfast-2/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "2 Dead After Police Helicopter Crashes in Arizona",
+          "neutralSummary": "The helicopter went down near Flagstaff, Ariz., while assisting the police in their response to an active shooter on the ground.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "2 Dead After Police Helicopter Crashes in Arizona",
+              "url": "https://www.nytimes.com/2026/02/05/us/helicopter-crash-flagstaff-arizona.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "2 dead as Arizona police helicopter crashes while responding to active shooting: cops",
+              "url": "https://nypost.com/2026/02/05/us-news/two-dead-after-arizona-dps-helicopter-crashes-while-responding-to-active-shooting-cops/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
           "neutralHeadline": "In Forcing the Clintons to Testify on Epstein, Comer Sets a New Precedent",
           "neutralSummary": "The Republican chairman’s successful targeting of a former president who faces no charge of wrongdoing was the sort of tactic typical in an autocracy where leaders fear being jailed when they are out of power.",
           "versions": [
@@ -339,18 +405,18 @@
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "GOP Rep. Barry Loudermilk becomes 29th House Republican to not seek reelection",
-          "neutralSummary": "Rep. Barry Loudermilk (R-Ga.) on Wednesday announced he will not seek reelection, ending his congressional career after more than a decade and adding to the ranks of Republicans declining to run for another term. “I first ran for election to Congress in 2014 and, as I stated then, representing the p",
+          "id": "us-6",
+          "neutralHeadline": "ICE can't make warrantless arrests in Oregon unless there's risk of escape, judge rules",
+          "neutralSummary": "ICE can't make warrantless arrests in Oregon unless there's risk of escape, judge rules&nbsp;&nbsp;NPRFederal judge rules against DHS on warrantless immigration arrests in Oregon&nbsp;&nbsp;Fox NewsOpinion | We Were Top Homeland Security Lawyers. You Can’t Wish Away the Fourth Amendment.&nbsp;&nbsp;",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "GOP Rep. Barry Loudermilk becomes 29th House Republican to not seek reelection",
-              "url": "https://thehill.com/homenews/house/5723456-loudermilk-ends-congressional-career/"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "news.google.com",
+              "headline": "ICE can't make warrantless arrests in Oregon unless there's risk of escape, judge rules",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXg4d1VfUW9XelFzYndBRW9MNHFoWm43WVh2LVNNdlVUcGpWTWRqZDZuZGVjeVIzQ0ZEbkxXMzVUZzZvVGN5am4zZkxPQnY2QW1lUUlBQW9CeFNZVVFRWDkzZlE5WHBHREtCNUs0ejBnT3ZSQklVWmZCZHdwVWFOak9lLUd6aTA?oc=5"
             },
             {
               "political": "right",
@@ -358,24 +424,15 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Georgia GOP Rep Barry Loudermilk to retire, adding to wave of House exits",
-              "url": "https://www.foxnews.com/politics/georgia-gop-rep-barry-loudermilk-retire-adding-wave-house-exits"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Georgia GOP Rep. Barry Loudermilk forgoes reelection bid after longtime stability",
-              "url": "https://www.washingtonexaminer.com/news/house/4446743/georgia-republican-barry-loudermilk-forgoes-reelection/"
+              "headline": "Federal judge rules against DHS on warrantless immigration arrests in Oregon",
+              "url": "https://www.foxnews.com/politics/federal-judge-rules-against-dhs-warrantless-immigration-arrests-oregon"
             }
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "Trump's Border Czar Announces 700 Immigration Officers To Immediately Leave Minnesota",
-          "neutralSummary": "Tom Homan said he thinks the ICE operation in the state has been a success.",
+          "id": "us-7",
+          "neutralHeadline": "Think The High Court Will Save You From Trump’s 12-Figure Import Taxes? Think Again.",
+          "neutralSummary": "Trump already has the ability to impose replacement tariffs to make up nearly three-quarters of the tax revenue the Supreme Court may strike down as illegal.",
           "versions": [
             {
               "political": "left",
@@ -383,124 +440,40 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Trump's Border Czar Announces 700 Immigration Officers To Immediately Leave Minnesota",
-              "url": "https://www.huffpost.com/entry/immigration-enforcement-minnesota-homan_n_69835d63e4b074c507867edb"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Border czar Tom Homan says 700 ICE and CBP officers are leaving Minneapolis",
-              "url": "https://www.washingtonpost.com/immigration/2026/02/04/minneapolis-ice-cbp-homan-immigration-officers/"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Is a new US-Russia arms race about to begin?",
-          "neutralSummary": "Barring a major unforeseen announcement from Washington or Moscow, the last remaining nuclear arms control treaty between the United States and Russia will expire on Wednesday. It’s been a long, slow death for the New Strategic Arms Reduction Treaty (New START), which went into force in 2011 to repl",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Is a new US-Russia arms race about to begin?",
-              "url": "https://www.vox.com/politics/477637/is-a-new-us-russia-arms-race-about-to-begin"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "World enters uncharted era as US-Russia nuclear treaty expires, opening door to fastest arms race in decades",
-              "url": "https://www.foxnews.com/politics/world-enters-uncharted-era-us-russia-nuclear-treaty-expires-opening-door-fastest-arms-race-decades"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Trump, Xi discuss Taiwan and soybeans in call aimed at easing China, US relations",
-          "neutralSummary": "Trump, Xi discuss Taiwan and soybeans in call aimed at easing China, US relations&nbsp;&nbsp;ReutersChina’s Xi Presses Trump on Taiwan in Phone Call&nbsp;&nbsp;The New York TimesChina's Xi reasserts Taiwan stance in call with Trump, while U.S. president pushes trade&nbsp;&nbsp;CNBCDonald Trump and X",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "China’s Xi Presses Trump on Taiwan in Phone Call",
-              "url": "https://www.nytimes.com/2026/02/04/us/politics/xi-phone-call-taiwan.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Trump, Xi discuss Taiwan and soybeans in call aimed at easing China, US relations",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdlNMVjZRc1FGWlUyWVpOekExSXg3YTBVdExMbXdjQmo5bnFJdGROYmlyYlNVeG1idXNfTXV1Vmt2ZkRmTFhyeFVhSHMxMUM1MXNxWmgyZGFvTG9aQlNoMmJfTXZ2V3RKZWV6aDN3RGhVUE5nWjhFcFJ4M2F1ZXNtaXRoLUM0cWFPVWpyR1QzelBMSERRQmNRNy1mcHc3cUxwWHg1MVBsMnRIeXhi?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Trump Says His Unpredictable Style Gives Him Leverage. But It Has a Cost.",
-          "neutralSummary": "A year into President Trump’s second term, his threats, retreats, twists and turns appear to be wearing on allies and adversaries.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Says His Unpredictable Style Gives Him Leverage. But It Has a Cost.",
-              "url": "https://www.nytimes.com/2026/02/04/us/politics/trump-deals-allies-adversaries.html"
+              "headline": "Think The High Court Will Save You From Trump’s 12-Figure Import Taxes? Think Again.",
+              "url": "https://www.huffpost.com/entry/trump-replacement-tariffs_n_698133e5e4b040ef2909a6e8"
             }
           ]
         },
         {
           "id": "us-8",
-          "neutralHeadline": "Supreme Court Clears Way for California Voting Map",
-          "neutralSummary": "The state’s Republican Party had asked the justices to step in and block the new congressional maps, which give an advantage to Democrats, before the midterms.",
+          "neutralHeadline": "Bill Gates Speaks Out On Latest Epstein Files Allegations",
+          "neutralSummary": "The billionaire's ex-wife, Melinda French Gates, said he has questions to answer over his ties to the late sex predator.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Supreme Court Clears Way for California Voting Map",
-              "url": "https://www.nytimes.com/2026/02/04/us/politics/supreme-court-california-congressional-map.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "The Supreme Court lets California use its new, Democratic-friendly congressional map",
-              "url": "https://www.npr.org/2026/02/04/nx-s1-5691890/supreme-court-california-redistricting-map"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Bill Gates Speaks Out On Latest Epstein Files Allegations",
+              "url": "https://www.huffpost.com/entry/bill-gates-addresses-epstein-files-allegations_n_69830fbfe4b07fd36aeabd23"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Ryan Routh, Man Convicted of Trying to Assassinate Trump, Gets Life Sentence",
-          "neutralSummary": "Federal prosecutors told the judge that Ryan Routh had “plotted painstakingly” to ambush Donald J. Trump in 2024 at his golf course near West Palm Beach.",
+          "neutralHeadline": "1 Word From Karoline Leavitt Just Set Off Major Alarm Bells",
+          "neutralSummary": "The word &ldquo;has no place in that sentence,&rdquo; said one critic.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Ryan Routh, Man Convicted of Trying to Assassinate Trump, Gets Life Sentence",
-              "url": "https://www.nytimes.com/2026/02/04/us/ryan-routh-trump-assassination-attempt-sentence.html"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "1 Word From Karoline Leavitt Just Set Off Major Alarm Bells",
+              "url": "https://www.huffpost.com/entry/karoline-leavitt-1-word-constitution-trump_n_69831578e4b07fd36aeac12d"
             }
           ]
         }
@@ -511,8 +484,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "About 9 in 10 retrenched eligible workers received retrenchment benefits: MOM",
-          "neutralSummary": "The MPs also discussed how recent labour market conditions affected Singaporeans who graduated from overseas universities.",
+          "neutralHeadline": "Jail, driving ban for unlicensed driving instructor who admitted to teaching over 100 students",
+          "neutralSummary": "Tan Teng Hock continued taking on students even after he was caught and charged.",
           "versions": [
             {
               "political": "center",
@@ -520,8 +493,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "About 9 in 10 retrenched eligible workers received retrenchment benefits: MOM",
-              "url": "https://www.straitstimes.com/singapore/politics/about-9-in-10-retrenched-workers-received-retrenchment-benefits-mom"
+              "headline": "Jail, driving ban for unlicensed driving instructor who admitted to teaching over 100 students",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/jail-driving-ban-for-unlicensed-driving-instructor-who-admitted-to-teaching-over-100-students"
             },
             {
               "political": "center",
@@ -529,15 +502,15 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "news.google.com",
-              "headline": "Not mandating retrenchment benefits provides business flexibility while protecting workers: MOM",
-              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd01WTGFqOXlnNzFUcjJ2OF9ETHJtU0dGS2NvOGo2UTBJNHdDNHFoaHNGZ2thOFZudlNYN0tXN3llLWlVZzk3VTNMWW5jMk8teldvQktEOHByZHVFMF92cllGbEVHNHB4cloyS3JPMFkyTmMwY1hDLTVwemxNNUg1ZVJLX2U2XzRPTjNOeU5yZjExTThiRG1od25XUnFHcTZ4ZFlvczlkQ0NId0V3YzlMTnV0bnpFdUJScnlYZmtLMXFlNkhuem1hUmNMbEQtUQ?oc=5"
+              "headline": "Unlicensed driving instructor taught over 100 students, gets jail",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcm5hc2ZkMTlmSDhvUWthRDdZUjFyRTR4S3pfVHpyNHI2OWF5OVFJcFU4RzBjYUtqcnBKR0UzVmNBcXZ2LTE1VnkxNWp4TzdydGUybndIY0pnXzJ5Mk9DRkF0dlNLamNjMmZ4QVRqbjAxTmw0dW9MclY4NjFRQ2VSSkpYaGN3RFR3WjlwV1Y1Y0RxWWZxZzR3T2EwX3NPS1MwNVNoLUtRbw?oc=5"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "South Korea trade envoy says making 'good faith' efforts to meet terms of US deal",
-          "neutralSummary": "US President Donald Trump threatened last week to hike tariffs on imports from South Korea, blaming a delay in enacting a trade deal in which the Asian ally promised to invest US$350 billion in the United States.",
+          "neutralHeadline": "Indonesia on ‘right track’ to hit GDP, investment goals; Danantara keen to work with Temasek, Khazanah: Minister",
+          "neutralSummary": "At the CNA Summit held in Jakarta on Thursday (Feb 5), Indonesia’s Investment and Downstream Industry Minister Rosan Perkasa Roeslani called for more collaboration between the government, private sector and foreign investors.",
           "versions": [
             {
               "political": "center",
@@ -545,24 +518,15 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "South Korea trade envoy says making 'good faith' efforts to meet terms of US deal",
-              "url": "https://www.channelnewsasia.com/east-asia/south-korea-us-trade-tariffs-good-faith-efforts-deal-terms-5908656"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Australia and EU to Meet to Try and Secure Free Trade Deal",
-              "url": "https://www.bloomberg.com/news/articles/2026-02-05/australia-and-eu-to-meet-to-try-and-secure-free-trade-agreement"
+              "headline": "Indonesia on ‘right track’ to hit GDP, investment goals; Danantara keen to work with Temasek, Khazanah: Minister",
+              "url": "https://www.channelnewsasia.com/asia/indonesia-rosan-perkasa-danantara-temasek-khazanah-cna-summit-5906326"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Indonesia expects preferential US market access under new tariff deal, says presidential trade envoy",
-          "neutralSummary": "Indonesia’s Presidential Special Envoy for International Trade and Multilateral Cooperation Mari Pangestu told CNA the deal reflects a more balanced approach to trade and investment ties.&nbsp;",
+          "neutralHeadline": "Trump, Xi discuss Taiwan and soybeans in call aimed at easing China, US relations",
+          "neutralSummary": "Both leaders publicly affirmed their personal stakes in strong relations after the call, their first since November.",
           "versions": [
             {
               "political": "center",
@@ -570,113 +534,104 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Indonesia expects preferential US market access under new tariff deal, says presidential trade envoy",
-              "url": "https://www.channelnewsasia.com/asia/indonesia-united-states-deal-tariff-presidential-trade-envoy-market-access-multilateral-order-5905841"
+              "headline": "Trump, Xi discuss Taiwan and soybeans in call aimed at easing China, US relations",
+              "url": "https://www.channelnewsasia.com/world/trump-xi-phone-call-taiwan-soybeans-us-china-relations-5907366"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Watch: CNA Summit 2026 in Indonesia on smart growth in a new era",
-          "neutralSummary": "Today’s leaders face shifting geopolitics, faster AI adoption and rising expectations for inclusive growth. Tune into the CNA Summit 2026 as senior decision-makers discuss how to turn capital into delivery confidence, scale innovation across diverse markets, and build resilient partnerships.",
+          "neutralHeadline": "ECB Holds Rates as Euro Rally and Tariffs Threaten Economy",
+          "neutralSummary": "The European Central Bank kept interest rates unchanged as officials assess the economic toll of a rally in the euro and renewed trade unpredictability.",
           "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Watch: CNA Summit 2026 in Indonesia on smart growth in a new era",
-              "url": "https://www.channelnewsasia.com/asia/watch-cna-summit-2026-in-indonesia-smart-growth-in-new-era-5908571"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Elect KL mayor? Malaysian MPs trade barbs over an issue that is ‘racialised for too long’",
-          "neutralSummary": "Proponents say it is a practical way to improve governance in the capital city, but critics argue it would sideline vulnerable groups. Analysts say central to the issue is race.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Elect KL mayor? Malaysian MPs trade barbs over an issue that is ‘racialised for too long’",
-              "url": "https://www.channelnewsasia.com/asia/malaysia-kl-mayor-election-pn-umno-malay-rights-5907131"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Thailand Election 2026: Debt worries, economic uncertainty loom large on voters’ minds",
-          "neutralSummary": "With Thai households under financial strain, economists say debt and global trade risks could hugely impact who voters pick on Sunday (Feb 8).",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Thailand Election 2026: Debt worries, economic uncertainty loom large on voters’ minds",
-              "url": "https://www.channelnewsasia.com/asia/thailand-election-2026-debt-worries-economic-uncertainty-worry-voters-5906416"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Commentary: Chinese AI videos used to look fake. Now they are making money",
-          "neutralSummary": "Beijing-based Kuaishou has spent the past year recasting itself as an AI video contender with global ambitions and it is succeeding, says Catherine Thorbecke for Bloomberg Opinion.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Commentary: Chinese AI videos used to look fake. Now they are making money",
-              "url": "https://www.channelnewsasia.com/commentary/china-ai-videos-kuaishou-bytedance-profit-5906516"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "Piyush Gupta to take over as Keppel chairman from Apr 17",
-          "neutralSummary": "Current chairman Danny Teoh will retire after Keppel's&nbsp;annual general meeting.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Piyush Gupta to take over as Keppel chairman from Apr 17",
-              "url": "https://www.channelnewsasia.com/singapore/piyush-gupta-keppel-chairman-apr-17-danny-teoh-retire-5908541"
-            }
-          ]
-        },
-        {
-          "id": "singapore-9",
-          "neutralHeadline": "Asia shares slump as global tech selloff spooks investors, silver tumbles again",
-          "neutralSummary": "Asia shares slump as global tech selloff spooks investors, silver tumbles again",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Asia shares slump as global tech selloff spooks investors, silver tumbles again",
-              "url": "https://www.channelnewsasia.com/business/asia-shares-slump-global-tech-selloff-spooks-investors-silver-tumbles-again-5908691"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Bloomberg",
               "initials": "BB",
               "domain": "bloomberg.com",
-              "headline": "Tech Stock Selloff Worsens in Asia, Silver Plunges: Markets Wrap",
-              "url": "https://www.bloomberg.com/news/articles/2026-02-04/asian-stocks-to-fall-as-tech-led-drop-gains-pace-markets-wrap"
+              "headline": "ECB Holds Rates as Euro Rally and Tariffs Threaten Economy",
+              "url": "https://www.bloomberg.com/news/articles/2026-02-05/ecb-holds-rates-as-euro-rally-and-tariffs-threaten-economy"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "S’pore Aero Engine Services to hire over 1,000  technicians in next 5 years under deal with EDB",
+          "neutralSummary": "Here is a round-up of the latest key developments at the Singapore Airshow 2026.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "S’pore Aero Engine Services to hire over 1,000  technicians in next 5 years under deal with EDB",
+              "url": "https://www.straitstimes.com/singapore/transport/over-1000-more-technicians-needed-at-spore-aero-engine-services-in-the-next-5-years"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "14-year-old among 80 people under probe for unlicensed moneylending activities",
+          "neutralSummary": "This comes following a five-day islandwide operation.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "14-year-old among 80 people under probe for unlicensed moneylending activities",
+              "url": "https://www.straitstimes.com/singapore/14-year-old-among-80-people-under-probe-for-unlicensed-moneylending-activities"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "$4.7m damages cut to $3.5m for victim of chain collision who needs lifelong nursing care",
+          "neutralSummary": "The gaps in the man's employment history warranted a discount for the loss of future earnings, said the court.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "$4.7m damages cut to $3.5m for victim of chain collision who needs lifelong nursing care",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/4-7m-damages-cut-to-3-5m-for-victim-of-chain-collision-who-needs-lifelong-nursing-care"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "Over 100 agents to leave KW Singapore after fallout from PropertyLimBrothers saga",
+          "neutralSummary": "Leadership changes linked to the PLB saga have triggered a wave of agent departures from KW Singapore.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Over 100 agents to leave KW Singapore after fallout from PropertyLimBrothers saga",
+              "url": "https://www.straitstimes.com/singapore/housing/more-than-100-property-agents-to-leave-kw-singapore-after-fallout-from-propertylimbrothers-saga"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
+          "neutralHeadline": "CDL, Woh Hup tie-up tops Tanjong Rhu site tender with $709.25 million bid at $1,455 psf ppr",
+          "neutralSummary": "The site can generate about 525 private homes.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "CDL, Woh Hup tie-up tops Tanjong Rhu site tender with $709.25 million bid at $1,455 psf ppr",
+              "url": "https://www.straitstimes.com/singapore/housing/cdl-woh-hup-tie-up-tops-tanjong-rhu-site-tender-with-s709-25-million-bid-at-s1455-psf-ppr"
             }
           ]
         }
@@ -687,142 +642,17 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Man who tried to shoot Trump at Florida golf course gets life in prison",
-          "neutralSummary": "U.S. District Judge Aileen Cannon pronounced Ryan Routh's fate in the same Fort Pierce courtroom that erupted into chaos in September when he tried to stab himself shortly after jurors found him guilty on all counts",
+          "neutralHeadline": "'Kharge can sit, shout slogans': PM Modi's dig at oppn's protest in Rajya Sabha",
+          "neutralSummary": "'Kharge can sit, shout slogans': PM Modi's dig at oppn's protest in Rajya Sabha",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Man who tried to shoot Trump at Florida golf course gets life in prison",
-              "url": "https://www.thehindu.com/news/national/man-who-tried-to-shoot-trump-at-florida-golf-course-gets-life-in-prison/article70594176.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Man Who Tried To Shoot Trump At Florida Golf Course Gets Life In Prison",
-              "url": "https://www.ndtv.com/world-news/trump-assassination-plot-man-who-tried-to-shoot-trump-at-florida-golf-course-gets-life-in-prison-10948187#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "U.K. asks Air India to explain Boeing Dreamliner fuel-switch incident",
-          "neutralSummary": "The U.K. Civil Aviation Authority warned of the possibility of regulatory action against Air India and its Boeing 787 fleet if the airline does not submit a complete response ​within a week",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "U.K. asks Air India to explain Boeing Dreamliner fuel-switch incident",
-              "url": "https://www.thehindu.com/news/national/uk-asks-air-india-to-explain-boeing-dreamliner-fuel-switch-incident/article70593237.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"No Issues\": Air India Re-Inspects Fuel Control Switch Across Boeing Dreamliners",
-              "url": "https://www.ndtv.com/world-news/no-issues-air-india-re-inspects-fuel-control-switch-across-boeing-dreamliners-10949025#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Shashi Tharoor’s son laid off from Washington Post",
-          "neutralSummary": "Shashi Tharoor’s son laid off from Washington Post",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Bloodbath At The Washington Post: Shashi Tharoor's Son Among 300 Axed",
-              "url": "https://www.ndtv.com/world-news/bloodbath-at-the-washington-post-shashi-tharoors-son-ishaan-tharoor-among-over-300-axed-10949059#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Shashi Tharoor’s son laid off from Washington Post",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/ishaan-tharoor-shashi-tharoors-son-laid-off-from-the-washington-post-along-with-hundreds-of-employees/articleshow/127922721.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "'At twilight of existence': 100-year-old man acquitted in murder case after 4 decades",
-          "neutralSummary": "'At twilight of existence': 100-year-old man acquitted in murder case after 4 decades&nbsp;&nbsp;Times of IndiaUP Man, 100, Gets Acquitted In Four Decades Old Murder Case&nbsp;&nbsp;NDTVJustice In Twilight Years : Why Did Allahabad High Court Acquit 100-Yr-Old Accused In 1982 Murder Case?&nbsp;&nbsp",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "UP Man, 100, Gets Acquitted In Four Decades Old Murder Case",
-              "url": "https://www.ndtv.com/india-news/up-man-100-gets-acquitted-in-four-decades-old-murder-case-10948488#publisher=newsstand"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "'At twilight of existence': 100-year-old man acquitted in murder case after 4 decades",
-              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNUktVWdjc0lPUVFfby1rQW9LZGZCRmwzVGRqT2FJNS11bXE4RmU4Sl8ta2l5VWliaUwtMU9mdDZZMUxrenpFXzIyNnRNM2wtQ0gwR3BTc2tud3U1TDREbFRNV3phWXlrMEJNR2xhTDZQaFJrN1pnblF1eVdhS2VWTkxhc3RhSV9zV0pkcHBuVG9Gc01GQm1KZmUzQ1hSR00weXc0SnF3eC1XdGNXd2h3VGV4LWt6VmpLTmpvUUZEdjlva3FxVmhOVGRTUXppaFJBbE1VWGZmbkJFV1E3dENzb18yR2c?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Australia and EU to Meet to Try and Secure Free Trade Deal",
-          "neutralSummary": "Australia’s trade minister is set to travel to Brussels for talks with European Union officials to try and secure a free trade accord, which if signed would be the bloc’s third major agreement this year and bolster its efforts to stave off pressure from the Trump administration.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"New Delhi Is Free\": Moscow On India Stopping Russia Oil Trade Under US Deal",
-              "url": "https://www.ndtv.com/world-news/russia-on-india-us-trade-deal-new-delhi-free-to-buy-oil-from-anyone-10948905#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Australia and EU to Meet to Try and Secure Free Trade Deal",
-              "url": "https://www.bloomberg.com/news/articles/2026-02-05/australia-and-eu-to-meet-to-try-and-secure-free-trade-agreement"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Women MPs carried banners, gheraoed PM's seat: What happened minutes before Modi's speech in Lok Sabha?",
-          "neutralSummary": "A group of women opposition MPs moved towards the Prime Minister’s seat carrying banners ahead of his proposed address.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Women MPs Surrounded PM's Seat: Inside Story Of Lok Sabha Chaos",
-              "url": "https://www.ndtv.com/india-news/women-mps-surrounded-pms-seat-inside-story-of-lok-sabha-chaos-10945900#publisher=newsstand"
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Kharge can sit, shout slogans': PM Modi's dig at oppn's protest in Rajya Sabha",
+              "url": "https://timesofindia.indiatimes.com/india/kharge-can-sit-and-shout-slogans-pm-modis-dig-at-opposition-leaders-protesting-in-rajya-sabha/articleshow/127935277.cms"
             },
             {
               "political": "center",
@@ -830,24 +660,92 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Women MPs carried banners, gheraoed PM's seat: What happened minutes before Modi's speech in Lok Sabha?",
-              "url": "https://www.hindustantimes.com/india-news/women-mps-carried-banners-gheraoed-pm-seat-what-happened-minutes-before-modi-speech-in-lok-sabha-101770259311297.html"
+              "headline": "Amid opposition sloganeering in Rajya Sabha, PM Modi hits Kharge with 'can chant while sitting' jibe",
+              "url": "https://www.hindustantimes.com/india-news/amid-opposition-sloganeering-in-rajya-sabha-modi-hits-kharge-with-with-can-chant-while-sitting-jibe-keeping-age-in-mind-101770292438814.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "PM Modi Rajya Sabha speech key highlights",
+              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/pm-narendra-modi-rajya-sabha-speech-key-highlights-trade-deals-economic-strength-youth-powerpm-modi-speech-in-rajya-sabha-key-highlights-parliament-india-us-trade-deal/articleshow/127934661.cms"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "PM Modi Takes Swipe At Protesting Opposition In Rajya Sabha, Targets Kharge Over Sloganeering",
+              "url": "https://swarajyamag.com/news-brief/pm-modi-takes-swipe-at-protesting-opposition-in-rajya-sabha-targets-kharge-over-sloganeering"
             }
           ]
         },
         {
-          "id": "india-7",
-          "neutralHeadline": "Daily Briefing: Manipur gets a new government",
-          "neutralSummary": "Daily Briefing: Manipur gets a new government",
+          "id": "india-2",
+          "neutralHeadline": "'Insult to Sikhs': What PM Modi said on Rahul Gandhi's 'gaddar' jibe at Ravneet Bittu",
+          "neutralSummary": "Prime Minister Narendra Modi on Thursday referred to the remark as an \"insult\" to the Sikh community.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "'Rahul Gandhi Called Ravneet Bittu Gaddar Because He Is Sikh\": PM Modi's Big Charge",
+              "url": "https://www.ndtv.com/india-news/rahul-gandhi-called-ravneet-bittu-gaddar-because-he-is-sikh-pm-modis-big-charge-10952836#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "'Insult to Sikhs': What PM Modi said on Rahul Gandhi's 'gaddar' jibe at Ravneet Bittu",
+              "url": "https://www.hindustantimes.com/india-news/insult-to-sikhs-what-pm-modi-said-on-rahul-gandhi-gaddar-jibe-at-ravneet-bittu-101770296796969.html"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "The 20 Games, Apps, Characters Ghaziabad Sisters Listed In Chilling Note For Father",
+          "neutralSummary": "The sisters were heavily engrossed in a task-based Korean \"love game.\" (representational)",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "The 20 Games, Apps, Characters Ghaziabad Sisters Listed In Chilling Note For Father",
+              "url": "https://www.ndtv.com/india-news/ghaziabad-suicide-the-20-games-apps-and-celebs-ghaziabad-sisters-listed-in-chilling-note-for-father-10950881#publisher=newsstand"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "Indian Express",
               "initials": "IE",
               "domain": "indianexpress.com",
-              "headline": "Daily Briefing: Manipur gets a new government",
-              "url": "https://indianexpress.com/article/live-news/top-news-today-briefing-10514572/"
+              "headline": "The Baby in Yellow, Evil Nun: Inside the chilling horror games linked to the Ghaziabad sisters’ suicide, have 150 mn downloads",
+              "url": "https://indianexpress.com/article/entertainment/the-baby-in-yellow-evil-nun-chilling-horror-games-ghaziabad-sisters-suicide-downloads-10515179/"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Parliament Budget Session Day 4 Live | Congress Has No Ideas, No Vision, No Plan: PM Modi's Big Attack",
+          "neutralSummary": "Budget session of Parliament Live: The Lok Sabha witnessed repeated adjournments on Wednesday.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Parliament Budget Session Day 4 Live | Congress Has No Ideas, No Vision, No Plan: PM Modi's Big Attack",
+              "url": "https://www.ndtv.com/india-news/parliament-budget-session-live-updates-bjp-congress-pm-modi-rahul-gandhi-parliament-lok-sabha-rajya-sabha-10949488#publisher=newsstand"
             },
             {
               "political": "right",
@@ -855,49 +753,115 @@
               "source": "Swarajya",
               "initials": "SWR",
               "domain": "swarajyamag.com",
-              "headline": "Manipur Gets New CM: Khemchand, Who Broke The Ice With Tribals, To Head Government With Kuki Deputy",
-              "url": "https://swarajyamag.com/news-brief/manipur-gets-new-cm-khemchand-who-broke-the-ice-with-tribals-to-head-government-with-kuki-deputy"
+              "headline": "PM Modi's Scathing Rajya Sabha Attack On Congress—Key Takeaways",
+              "url": "https://swarajyamag.com/politics/pm-modis-scathing-rajya-sabha-attack-on-congresskey-takeaways"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "'Infiltrators, Congress, TMC &amp; DMK': PM Modi targets oppn in fiery RS speech",
+          "neutralSummary": "'Infiltrators, Congress, TMC &amp; DMK': PM Modi targets oppn in fiery RS speech",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Infiltrators, Congress, TMC &amp; DMK': PM Modi targets oppn in fiery RS speech",
+              "url": "https://timesofindia.indiatimes.com/india/infiltrators-congress-and-a-jibe-at-kharge-top-quotes-from-pm-modis-reply-to-motion-of-thanks-in-rajya-sabha/articleshow/127934417.cms"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "PM Modi Accuses Trinamool Congress Of Protecting Infiltrators, Says Youth And Tribal Rights At Risk",
+              "url": "https://swarajyamag.com/news-brief/pm-modi-accuses-trinamool-congress-of-protecting-infiltrators-says-youth-and-tribal-rights-at-risk"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "16 dead in Meghalaya 'illegal' coal mine blast; several feared trapped",
+          "neutralSummary": "16 dead in Meghalaya 'illegal' coal mine blast; several feared trapped",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "16 dead in Meghalaya 'illegal' coal mine blast; several feared trapped",
+              "url": "https://timesofindia.indiatimes.com/india/meghalaya-illegal-coal-mine-blast-labourers-trapped-several-feared-dead-rescue-operations-underway/articleshow/127932604.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "10 labourers killed after blast in 'illegal' coal mine in Meghalaya",
+              "url": "https://www.hindustantimes.com/india-news/several-feared-dead-after-blast-in-illegal-coal-mine-in-meghalaya-101770289362210.html"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Pakistan meltdown after India-US trade deal",
+          "neutralSummary": "Pakistan meltdown after India-US trade deal",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Pakistan meltdown after India-US trade deal",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/pakistan-meltdown-india-us-trade-deal-tariffs-trump-modi-one-percent-nationwide-meme-asim-munir/articleshow/127928460.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Moneycontrol",
+              "initials": "M",
+              "domain": "news.google.com",
+              "headline": "How de-linking Saudi investment talks fast-tracked India‑Gulf trade deal",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTExcEU3YUdTdlpxVVBSdlFJZEFsS2NsNGtiRndmZGZwWGpfNmpFaDB5d1NuNUw2aTNQQWxkYWJWT1J6eXE3ODFnT1F3ZVdVNGtBc0dyY0xoM2p6OUZ2RjREQ21ra1ctWHFRcWdoVXkzUUpaRHgzUEY2TzlldjlkOXQ0VnFBZUNmMlJWdnVwdEpPdHk5a2oyc0NFV2JEUUVIR1VyUnc4VUlTYWUzMXZVZTRRQ0JxQkJSREZXNEYxNmNTWEtCTFNaNdIBzgFBVV95cUxPa3VTdmlPMFBfbzZuUjdmOG5hdVRCX0ZHay1Nb0lhLVdxQXJXMURIdm9MeVE3ZWZ3eU82b2xfZ291VXlweFdSc18wTXMtQmVpX1JVVHJNSGdjeTlYMXgxUDhhbjAtZ3hYVThBSlJJMnBudXhNQVNiMGFreTBmOUVRbFF3TFozZjFzZWotSzI4b29jdF9uU1o4SXNUM1ZER2FqbFlYbDRsNmNCcHpIdXJFbUY1MEoxM3BEUHJOcjFhalFFc0p4a3V3TTJBamVQUQ?oc=5"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "'Nothing new, New Delhi free to ... ': Kremlin on Trump's claims India will stop buying Russian oil",
-          "neutralSummary": "'Nothing new, New Delhi free to ... ': Kremlin on Trump's claims India will stop buying Russian oil",
+          "neutralHeadline": "ECB Holds Rates as Euro Rally and Tariffs Threaten Economy",
+          "neutralSummary": "The European Central Bank kept interest rates unchanged as officials assess the economic toll of a rally in the euro and renewed trade unpredictability.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Nothing new, New Delhi free to ... ': Kremlin on Trump's claims India will stop buying Russian oil",
-              "url": "https://timesofindia.indiatimes.com/business/international-business/nothing-new-new-delhi-free-to-kremlin-on-trumps-claims-india-will-stop-buying-russian-oil/articleshow/127921522.cms"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Swarajya",
-              "initials": "SWR",
-              "domain": "swarajyamag.com",
-              "headline": "Russia Says India Free To Buy Oil From Any Source, Rejects Trump’s Claim On Halting Russian Crude",
-              "url": "https://swarajyamag.com/world/russia-says-india-free-to-buy-oil-from-any-source-rejects-trumps-claim-on-halting-russian-crude"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "ECB Holds Rates as Euro Rally and Tariffs Threaten Economy",
+              "url": "https://www.bloomberg.com/news/articles/2026-02-05/ecb-holds-rates-as-euro-rally-and-tariffs-threaten-economy"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Delhi pro-Khalistan graffiti case: 2 arrested; plot traced to Canada, SFJ angle probed",
-          "neutralSummary": "Delhi Police Special Cell has arrested two individuals, an ambulance driver and his associate, for allegedly writing pro-Khalistan slogans in the capital ahead of Republic Day. The duo reportedly acted on instructions from Canada, with a close associate of SFJ founder Gurpatwant Singh Pannun alleged",
+          "neutralHeadline": "Kumaraswamy’s overtures on return to State politics create a flutter in NDA alliance",
+          "neutralSummary": "Kumaraswamy and his party leaders will not have made open statements without ‘tacit blessings’ of BJP central leadership, says a senior leader",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Delhi pro-Khalistan graffiti case: 2 arrested; plot traced to Canada, SFJ angle probed",
-              "url": "https://timesofindia.indiatimes.com/city/delhi/2-arrested-for-pro-khalistan-graffiti-in-delhi-police-say-plan-hatched-in-canada-flags-gurpatwant-singh-pannun-link/articleshow/127922397.cms"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Kumaraswamy’s overtures on return to State politics create a flutter in NDA alliance",
+              "url": "https://www.thehindu.com/news/national/karnataka/kumaraswamys-overtures-on-return-to-state-politics-create-a-flutter-in-nda-alliance/article70595756.ece"
             }
           ]
         }
