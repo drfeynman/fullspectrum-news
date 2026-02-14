@@ -1,107 +1,57 @@
 {
-  "generatedAt": "2026-02-13T14:05:03.270930+00:00",
+  "generatedAt": "2026-02-14T04:00:57.481450+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Japan seizes Chinese fishing boat inside its economic zone amid Beijing rift",
-          "neutralSummary": "Japan says vessel failed to comply with order to stop, with incident coming weeks after row with China over TaiwanAuthorities in Japan have seized a Chinese fishing boat and arrested its captain in a move that is likely to inflame an ongoing diplomatic row between Tokyo and Beijing.The seizure, whic",
+          "neutralHeadline": "Trump says second aircraft carrier ‘leaving very shortly’ for Middle East",
+          "neutralSummary": "US President Donald Trump on Friday upped the stakes in Washington’s already tense relationship with Iran, saying that a second American aircraft will be “leaving very shortly” for the Middle East. Trump is hoping to strike a deal with Iran to curb its nuclear programme, but has warned of severe con",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Japan seizes Chinese fishing boat inside its economic zone amid Beijing rift",
-              "url": "https://www.theguardian.com/world/2026/feb/13/japan-seizes-chinese-fishing-boat"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Trump says US will send second aircraft carrier to Middle East ‘very soon’",
+              "url": "https://www.aljazeera.com/news/2026/2/13/trump-confirms-second-aircraft-carrier-headed-to-middle-east-very?traffic_source=rss"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Japan says it seized Chinese vessel amid tensions with Beijing",
-              "url": "https://www.bbc.com/news/articles/c2e4791re38o?at_medium=RSS&at_campaign=rss"
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Trump says second aircraft carrier ‘leaving very shortly’ for Middle East",
+              "url": "https://www.france24.com/en/americas/20260213-trump-says-second-aircraft-carrier-leaving-very-shortly-for-middle-east"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Wall Street Journal",
-              "initials": "WSJ",
-              "domain": "news.google.com",
-              "headline": "Japan Seizes Chinese Fishing Boat and Arrests Its Skipper",
-              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNGdNVTlCbHdabDhYUGhzSmtQaHd4bTd3cGs0ci1pdm9Qdk9SSDBRdGRpSWxiaUNZdzZTX1A3c2pYZ2czLUFZWl9sQ2tkRjdjdXkzdW5jaU9TajBkS3h0dWFiUFBjNFhIalJmcy1PTzRVWWR3WkJtUzlrVmtEbFgwQlVtMTBvWi1VcDZEbVhHS0pjTTV5MERkRjR2WmpPZw?oc=5"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "USS Ford ordered to the Middle East, the second aircraft carrier being sent to the region",
+              "url": "https://www.foxnews.com/world/uss-ford-ordered-middle-east-second-aircraft-carrier-being-sent-region"
             }
           ]
         },
         {
           "id": "global-2",
-          "neutralHeadline": "Bangladesh Nationalist Party Claims Victory In Country’s First Election Since 2024 Uprising",
-          "neutralSummary": "The Bangladesh Nationalist Party claims it won the country&rsquo;s first election since the 2024 uprising.",
+          "neutralHeadline": "Can Bangladesh's new leader bring change after election landslide?",
+          "neutralSummary": "Tarique Rahman is set to be Bangladesh's next prime minister, 18 months after mass protests ousted its longest-serving leader.",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Bangladesh Nationalist Party Claims Victory In Country’s First Election Since 2024 Uprising",
-              "url": "https://www.huffpost.com/entry/bangladesh-election_n_698ea6d3e4b0e13a4173f573"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Bangladesh Nationalist Party sweeps to victory in first election since Gen Z uprising",
-              "url": "https://www.bbc.com/news/articles/cgrzwn4yg7jo?at_medium=RSS&at_campaign=rss"
+              "headline": "Can Bangladesh's new leader bring change after election landslide?",
+              "url": "https://www.bbc.com/news/articles/cn0ex5d4g6xo?at_medium=RSS&at_campaign=rss"
             },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Bangladesh’s BNP claims landslide win in first election since 2024 uprising",
-              "url": "https://www.aljazeera.com/news/2026/2/13/bangladeshs-bnp-claims-landslide-win-in-first-election-since-2024-uprising?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Members of Germany's far-right party to attend Munich Security Conference after ban",
-          "neutralSummary": "Members of Germany's far-right AfD Party were banned from attending the Munich Security Conference. On Friday, they'll attend for the first time in years.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Members of Germany's far-right party to attend Munich Security Conference after ban",
-              "url": "https://www.npr.org/2026/02/13/nx-s1-5711338/members-of-germanys-far-right-party-to-attend-munich-security-conference-after-ban"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Merz, Macron to address Munich Security Conference amid disputes with US",
-              "url": "https://www.aljazeera.com/news/2026/2/13/merz-macron-to-address-munich-security-conference-amid-disputes-with-us?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "A historic election in Bangladesh brings BNP to power. What to know about its leader",
-          "neutralSummary": "The Bangladeshi Nationalist Party (BNP), led by Tarique Rahman, claimed victory Friday in the first elections held since the previous government was toppled in a student-led revolution in 2024.",
-          "versions": [
             {
               "political": "left",
               "tone": "optimistic",
@@ -110,72 +60,13 @@
               "domain": "npr.org",
               "headline": "A historic election in Bangladesh brings BNP to power. What to know about its leader",
               "url": "https://www.npr.org/2026/02/13/nx-s1-5713306/bangladesh-nationalist-party-victory-election-student-uprising-leader"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Bangladesh election results 2026: Who won, who lost, what’s next?",
-              "url": "https://www.aljazeera.com/news/2026/2/13/bangladesh-election-results-2026-who-won-who-lost-whats-next?traffic_source=rss"
             }
           ]
         },
         {
-          "id": "global-5",
-          "neutralHeadline": "UK Ban on Palestine Action Group Was Unlawful, Judges Rule",
-          "neutralSummary": "A British government ban on Palestine Action under anti-terror laws was unlawful, London judges ruled, throwing hundreds of prosecutions against supporters of the group into doubt.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "UK ban on Palestine Action was unlawful, says court",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/2/13/uk-ban-on-palestine-action-was-unlawful-says-court?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "UK Ban on Palestine Action Group Was Unlawful, Judges Rule",
-              "url": "https://www.bloomberg.com/news/articles/2026-02-13/uk-ban-on-palestine-action-group-was-unlawful-judges-rule"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "‘The tears just keep flowing’: child victims of Tumbler Ridge shooting remembered as Carney heads to join vigil",
-          "neutralSummary": "Prime minister to meet mourners in mining town as families speak of their loss in one of Canada’s deadliest mass shootingsCanadian prime minister Mark Carney is to join mourners in Tumbler Ridge on Friday, as authorities and relatives released details of the six children and assistant teacher killed",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "‘The tears just keep flowing’: child victims of Tumbler Ridge shooting remembered as Carney heads to join vigil",
-              "url": "https://www.theguardian.com/world/2026/feb/13/tumbler-ridge-shooting-victims-remembered-canada"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Canada’s PM Carney to visit Tumbler Ridge after mass school shooting",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZWhDN1VkRTBnM0xXRUhocDhIZGNDczdTU0dpc0o1aDkySEVhNzVKZVI1OUk5SXQyb1lRaThSa1lENy1sWVMtNU5fV19WdDIxT25RcEk3c2xvVktib05GSTlEZEUyNnpRR3lNSDlvYmhDTDVWZXRuaFRWVWZCdVdQR2JPeW5oTkVFdjNRb2VoV1k4UEJnTzZ3ZzZkYm5IV2ZzZDNtQ0Zsb1hIZFVH0gGyAUFVX3lxTE5udV9yQ1ZKUWozR096MTdhNjZPdzhkRElJYnRPY0lwRGNRYVNISjZaQnUzczFQQ1JMQWI0RGRHNWhtNS1pMjZaSmU2N2U3dlpWWDcyZjg4a3JrYnNhZE1FQWFyclkwU0laWlZyc1gtTDN6S2VhWXdDY2V6N0I5dVNMZGYxTjdzc28xZC02NWJEV3BNZ1ZCa3VidmhZNWM4QVE3bFp2MTl6eTRtcmxPZXFGQUE?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Police visited home of Canada school shooting suspect multiple times over mental health concerns",
-          "neutralSummary": "Canadian authorities seized firearms from the residence approximately two years ago but later returned themPolice have said they were called on multiple occasions to the home of the teenage suspect behind one of Canada’s deadliest school shootings after concerns were raised regarding mental health p",
+          "id": "global-3",
+          "neutralHeadline": "Canada school deaths suspect created shooting simulator on gaming platform",
+          "neutralSummary": "Roblox says it has removed account after massacre that left nine people including the shooter deadThe 18-year-old suspect in a high school shooting in British Columbia had previously created a mass shooting simulator on the gaming platform Roblox, it has been revealed.The simulator, set in what appe",
           "versions": [
             {
               "political": "left",
@@ -183,8 +74,8 @@
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "Police visited home of Canada school shooting suspect multiple times over mental health concerns",
-              "url": "https://www.theguardian.com/world/2026/feb/12/police-visited-home-of-tumbler-ridge-suspect-multiple-times-over-mental-health-concerns"
+              "headline": "Canada school deaths suspect created shooting simulator on gaming platform",
+              "url": "https://www.theguardian.com/world/2026/feb/13/canada-school-deaths-suspect-created-shooting-simulator-roblox"
             },
             {
               "political": "left",
@@ -198,7 +89,23 @@
           ]
         },
         {
-          "id": "global-8",
+          "id": "global-4",
+          "neutralHeadline": "‘The tears just keep flowing’: child victims of Tumbler Ridge shooting remembered as Carney heads to join vigil",
+          "neutralSummary": "Prime minister to meet mourners in mining town as families speak of their loss in one of Canada’s deadliest mass shootingsCanadian prime minister Mark Carney is to join mourners in Tumbler Ridge on Friday, as authorities and relatives released details of the six children and assistant teacher killed",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "‘The tears just keep flowing’: child victims of Tumbler Ridge shooting remembered as Carney heads to join vigil",
+              "url": "https://www.theguardian.com/world/2026/feb/13/tumbler-ridge-shooting-victims-remembered-canada"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
           "neutralHeadline": "Kim close to naming teenage daughter as future North Korean leader, South believes",
           "neutralSummary": "South Korea’s spy agency monitoring whether girl, believed to be 13, will appear at political conference this monthSouth Korea’s spy agency has told lawmakers it believes the teenage daughter of Kim Jong-un, the North Korean dictator, is close to being designated as the country’s future leader, as K",
           "versions": [
@@ -223,9 +130,59 @@
           ]
         },
         {
-          "id": "global-9",
-          "neutralHeadline": "Replay: International crew takes off for space station",
-          "neutralSummary": "Rewatch live our special segment on the take off of international crew, including France's Sophie Adenot, for a 9-month mission to the ISS on February 13, 2026.",
+          "id": "global-6",
+          "neutralHeadline": "Bangladesh Nationalist Party Claims Victory In Country’s First Election Since 2024 Uprising",
+          "neutralSummary": "The Bangladesh Nationalist Party claims it won the country&rsquo;s first election since the 2024 uprising.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Bangladesh Nationalist Party Claims Victory In Country’s First Election Since 2024 Uprising",
+              "url": "https://www.huffpost.com/entry/bangladesh-election_n_698ea6d3e4b0e13a4173f573"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Bangladesh Nationalist Party sweeps to victory in first election since Gen Z uprising",
+              "url": "https://www.bbc.com/news/articles/cgrzwn4yg7jo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
+          "neutralHeadline": "Zelenskyy Slams Olympics For Disqualifying Ukrainian Athlete Over War Dead Helmet",
+          "neutralSummary": "\"Sport shouldn't mean amnesia, and the Olympic movement should help stop wars, not play into the hands of aggressors,\" said Ukraine's president.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Zelenskyy Slams Olympics For Disqualifying Ukrainian Athlete Over War Dead Helmet",
+              "url": "https://www.huffpost.com/entry/zelenskyy-winter-olympics-war-dead-helmet_n_698dc589e4b0ba7404599342"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "The war dead pictured on banned Ukrainian athlete's helmet",
+              "url": "https://www.bbc.com/news/articles/cnv63q1vpv1o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "World's rules-based order 'no longer exists', Germany's Merz warns",
+          "neutralSummary": "\"Our freedom is not guaranteed\" in an era of big powers, the German chancellor tells Munich's security summit.",
           "versions": [
             {
               "political": "left",
@@ -233,17 +190,24 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Watch SpaceX rocket blast off to International Space Station",
-              "url": "https://www.bbc.com/news/videos/c4gj39dprkno?at_medium=RSS&at_campaign=rss"
-            },
+              "headline": "World's rules-based order 'no longer exists', Germany's Merz warns",
+              "url": "https://www.bbc.com/news/articles/cy4wpv0wx43o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Britain's High Court says government illegally banned Pro-Palestinian group",
+          "neutralSummary": "In its ruling, the court said an earlier decision to ban the Pro-Palestinian group Palestine Action as a terrorist organization was \"disproportionate.\"",
+          "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Replay: International crew takes off for space station",
-              "url": "https://www.france24.com/en/video/20260213-replay-international-crew-takes-off-for-space-station"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Britain's High Court says government illegally banned Pro-Palestinian group",
+              "url": "https://www.npr.org/2026/02/13/nx-s1-5713346/britain-court-palestine-action-ban"
             }
           ]
         }
@@ -254,190 +218,208 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "ICE Blocked Detainees' Access To Lawyers In Minnesota, Judge Finds",
-          "neutralSummary": "U.S. District Judge Nancy Brasel, who was appointed by President Donald Trump in his first term, said ICE's practices &ldquo;all but extinguish a detainee&rsquo;s access to counsel.&rdquo;",
+          "neutralHeadline": "After a Misstep, Sheriff Says Persistence Will Solve the Nancy Guthrie Case",
+          "neutralSummary": "Investigators have recovered DNA from the home where the mother of “Today” show host Savannah Guthrie was abducted, but do not have a match. “We’re going to find this guy,” said Sheriff Chris Nanos.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "ICE Blocked Detainees' Access To Lawyers In Minnesota, Judge Finds",
-              "url": "https://www.huffpost.com/entry/ice-blocked-detainees-access-lawyers-minnesota-judge_n_698e89afe4b0e13a4173f08e"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "After a Misstep, Sheriff Says Persistence Will Solve the Nancy Guthrie Case",
+              "url": "https://www.nytimes.com/2026/02/13/us/after-a-misstep-sheriff-says-persistence-will-solve-the-guthrie-case.html"
             },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Judge Says Immigrant Detainees Near Minneapolis Must Have Proper Access to Lawyers",
-              "url": "https://www.nytimes.com/2026/02/12/us/minnesota-immigration-detainees-lawyers.html"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Sister of North Korea’s leader says South Korea’s drone regret was sensible but insufficient",
-          "neutralSummary": "Sister of North Korea’s leader says South Korea’s drone regret was sensible but insufficient&nbsp;&nbsp;AP NewsNorth Korea says South Korea should take steps to prevent violation of its sovereignty&nbsp;&nbsp;ReutersNorth Korea warns of ‘terrible response’ over South Korean drone flights&nbsp;&nbsp;",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Kim Jong Un Reportedly Close To Designating North Korea’s Next Leader",
-              "url": "https://www.huffpost.com/entry/kim-jong-un-close-to-selecting-north-koreas-next-ruler_n_698dfc36e4b0ba74045b77bd"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Sister of North Korea’s leader says South Korea’s drone regret was sensible but insufficient",
-              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ2tqZkZWakl2UzJLLTdTMk5INUdva1VxU3B2ZXhXSFZaNUNfSVB1YWM0Y3VyQk5fODBSZ3k3eG1qYnBfU1NJRXNkRnJ1bnVPZ2NmeUROXzVOY3BIblU5WW5OUzFfa0hFNm5YdWtSc09KUDhDWk82a1dtbzBtZzZva054RUthZWNfRzN3eFpNNFFVbnc?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Beyond the Big Cities, ICE Is Rattling Small-Town and Exurban America",
-          "neutralSummary": "Far from the national spotlight, towns like Cornelius, Ore., and Coon Rapids, Minn., are dealing with President Trump’s expanding mass deportation effort, and the effects can be acute.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Beyond the Big Cities, ICE Is Rattling Small-Town and Exurban America",
-              "url": "https://www.nytimes.com/2026/02/13/us/ice-small-towns.html"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Trump Pardons Klecko, Jamal Lewis and Other Former N.F.L. Players",
-          "neutralSummary": "The players included Super Bowl champions and a Hall of Famer who had been charged for crimes ranging from perjury to drug trafficking.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Pardons Klecko, Jamal Lewis and Other Former N.F.L. Players",
-              "url": "https://www.nytimes.com/2026/02/12/us/politics/trump-nfl-pardons-klecko-jamal-lewis.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump pardons 5 former NFL players for crimes ranging from perjury to drug trafficking",
-              "url": "https://www.npr.org/2026/02/13/nx-s1-5713307/trump-nfl-pardons"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Second US aircraft carrier is being sent to the Middle East, AP source says, as Iran tensions high",
-          "neutralSummary": "Second US aircraft carrier is being sent to the Middle East, AP source says, as Iran tensions high&nbsp;&nbsp;AP NewsView Full Coverage on Google News",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "U.S. Aircraft Carrier Will Be Sent to the Middle East From Venezuela, Officials Say",
-              "url": "https://www.nytimes.com/2026/02/12/us/politics/uss-ford-venezuela-oil.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Second US aircraft carrier is being sent to the Middle East, AP source says, as Iran tensions high",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWpDTl82THV5ZTVTMTNhbXpxc0RZSkE1dV9FM3hmV3lyUHhDeTQwS19EREljVEd1OGdhZlhnQjRITmlDS3lwbVFnbG1qQWFYeHZZdk9mdmpUWkVzclJIZTdLM3BlaGFNWFJ6Q005OUpCMTByTFZ1OEI2Nk9IcURadzlEa25ZbHZQOVZ3a2VVN0UybmthdjRhWlNwODc?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Federal Judge Blocks Trump Plan to Cut $600 Million in Health Funds",
-          "neutralSummary": "It is the latest court ruling staving off deep cuts to social services that Democratic-led states say are politically motivated and would harm hundreds of thousands of people.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Federal Judge Blocks Trump Plan to Cut $600 Million in Health Funds",
-              "url": "https://www.nytimes.com/2026/02/12/us/politics/trump-health-funding-cuts-ruling.html"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Pride flag returns to Stonewall National Monument after Trump administration removal",
-          "neutralSummary": "A rainbow Pride flag is once again flying over Stonewall National Monument in New York City, days after the LGBTQ symbol was removed from the historic site due to a federal order from President Trump, according to local outlets.   Hundreds of people, including local leaders, rallied at the site on T",
-          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "Washington Post",
               "initials": "WP",
               "domain": "washingtonpost.com",
-              "headline": "Pride flag flies again at Stonewall Inn, challenging federal ban",
-              "url": "https://www.washingtonpost.com/nation/2026/02/12/pride-flag-stonewall-inn-trump/"
+              "headline": "FBI gives new details on suspect in Nancy Guthrie case, doubles reward to $100K",
+              "url": "https://www.washingtonpost.com/nation/2026/02/12/nancy-guthrie-suspect-backpack-video/"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "FBI releases description of suspect, increases reward in Nancy Guthrie case",
+              "url": "https://www.npr.org/2026/02/13/nx-s1-5713551/nancy-guthrie-case-fbi-suspect-reward"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "LIVE UPDATES: Sheriff Reveals DNA Has Been Recovered In Nancy Guthrie Case",
+              "url": "https://www.dailywire.com/news/live-updates-search-continues-for-nancy-guthrie-as-deadline-for-ransom-note-passes"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Democrats Seethe At Pam Bondi Over Epstein Spying, Childish Insults",
+          "neutralSummary": "Lawmakers told HuffPost the attorney general should resign and be held in contempt of Congress.&nbsp;",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Democrats Seethe At Pam Bondi Over Epstein Spying, Childish Insults",
+              "url": "https://www.huffpost.com/entry/pramila-jayapal-bam-bondi-jamie-raskin_n_698e151ee4b0e2bc551261d6"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Democrats demand meeting with Bondi over ‘spying’ on Epstein files access",
+              "url": "https://www.washingtonexaminer.com/news/house/4457990/democrats-demand-meeting-with-bondi-over-spying-on-epstein-file-access/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say",
+          "neutralSummary": "Protesters in Minneapolis and St. Paul said in sworn statements that they were singled out by agents who demonstrated that they knew where they lived.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "ICE Agents Menaced Minnesota Protesters at Their Homes, Filings Say",
+              "url": "https://www.nytimes.com/2026/02/13/us/minneapolis-ice-agents-protester-home-visits.html"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Jury deadlocked in the trial of Stanford students charged after pro-Palestinian protests in 2024",
+          "neutralSummary": "Jury deadlocked in the trial of Stanford students charged after pro-Palestinian protests in 2024&nbsp;&nbsp;AP NewsView Full Coverage on Google News",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Jury Deadlocked in Trial of Pro-Palestinian Demonstrators at Stanford",
+              "url": "https://www.nytimes.com/2026/02/13/us/stanford-students-protests-trial.html"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Pride flag returns to Stonewall National Monument after Trump administration removal",
-              "url": "https://thehill.com/homenews/state-watch/5736941-pride-flag-returns-stonewall-national-monument/"
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Jury deadlocked in the trial of Stanford students charged after pro-Palestinian protests in 2024",
+              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTWljUV8zWHFMNGxpQ2ZFZndVZ05EWHpHbEZmdWRidjIyWXZ6RW0tR1psQUVyODhlajVwZUMyLUVaTmZNUjJwZmZzU3dnUjhabDUycEkycU1OSWxWWHBpazE0VE1reERVMmtUWDNTN2VxNjlEalNVaWF4YUZOb29Pb2VTUW5ncndodjZDVDlsQ0R6bmtyWU9JLVI0d0tKdw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Trump Says Regime Change Would Be the ‘Best Thing’ for Iran",
+          "neutralSummary": "The president has been steadily building up U.S. military forces in the Middle East and threatening another strike on the country if the government does not abandon its nuclear ambitions.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Says Regime Change Would Be the ‘Best Thing’ for Iran",
+              "url": "https://www.nytimes.com/2026/02/13/us/politics/trump-iran-regime-change.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Trump Calls For Iranian Regime Change As Tehran Revamps Missile Arsenal",
+              "url": "https://www.dailywire.com/news/trump-calls-for-iranian-regime-change-as-tehran-revamps-missile-arsenal"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Radical VA Governor Abigail Spanberger Gets ROASTED For Grilling Photo Op",
+          "neutralSummary": "Radical VA Governor Abigail Spanberger Gets ROASTED For Grilling Photo Op&nbsp;&nbsp;OutKickView Full Coverage on Google News",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "OutKick",
+              "initials": "O",
+              "domain": "news.google.com",
+              "headline": "Radical VA Governor Abigail Spanberger Gets ROASTED For Grilling Photo Op",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPME54NWw0VUFaMzJHTXBpVTdJd1ZkWEJhMU13dlN6OW50dmxVcXZBSFIxR3N3RE11VW9ySkY5Z2xrLWZ0MkRLVmxRc3h2V1ZNdGxwN3JaWktxdG1iaUU3cFJjeWZGR2NLbWhoS09ybDhDUWJoZFVIdjlkRmtSMmM3RThiVnlwbTRvczhOUWtaek9rOTJrYTNqdHhtMU1wdzhoeTVv?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Va. Gov. Abigail Spanberger’s grilling techniques gets torched online as Schumer’s ‘E. coli’ burger resurfaces",
+              "url": "https://nypost.com/2026/02/13/us-news/va-gov-abigail-spanbergers-grilling-techniques-gets-torched-online-as-schumers-e-coli-burger-resurfaces/"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "‘100% Pro Police’ And Running For Congress To Abolish ICE",
+          "neutralSummary": "After protecting Congress on Jan. 6 and as the Trump administration runs roughshod over democracy, he&rsquo;s running for Congress &mdash; again &mdash; because, he told HuffPost, &ldquo;We&rsquo;re in regime territory.&rdquo;",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "‘100% Pro Police’ And Running For Congress To Abolish ICE",
+              "url": "https://www.huffpost.com/entry/100-pro-police-and-running-for-congress-to-abolish-ice_n_698e3cb2e4b0ba74045dcd32"
             }
           ]
         },
         {
           "id": "us-8",
-          "neutralHeadline": "A bipartisan effort to save health subsidies failed. Will ICE reform be different?",
-          "neutralSummary": "A bipartisan effort in Congress to restrain immigration enforcement tactics is flailing despite a Friday deadline to fund the Department of Homeland Security. The pattern is increasingly familiar.",
+          "neutralHeadline": "Want To Reduce The Debt And Lower The Crime Rate? Bring In Even More Immigrants.",
+          "neutralSummary": "Contrary to Trump's claims, immigrants, even illegal ones, use fewer services and commit fewer crimes than native-born Americans, according to Cato Institute studies.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "A bipartisan effort to save health subsidies failed. Will ICE reform be different?",
-              "url": "https://www.npr.org/2026/02/13/g-s1-109818/bipartisan-effort-save-health-subsidies-failed-ice-reform-different"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Want To Reduce The Debt And Lower The Crime Rate? Bring In Even More Immigrants.",
+              "url": "https://www.huffpost.com/entry/trump-immigration-cato-benefits_n_698e2795e4b0d2244f57c430"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "RFK Jr. made promises to get his job as health secretary. He's broken many of them",
-          "neutralSummary": "In his confirmation hearings, Robert F. Kennedy Jr. told U.S. senators that he would not cut funding for vaccine research or change the nation's official vaccine recommendations. He did both.",
+          "neutralHeadline": "White House Uses USAID Funds For Russell Vought's Security, Documents Show",
+          "neutralSummary": "The Trump administration dismantled USAID and canceled most of its aid programs last year.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "RFK Jr. made promises to get his job as health secretary. He's broken many of them",
-              "url": "https://www.npr.org/2026/02/13/nx-s1-5712721/rfk-jr-children-vaccines-cdc-funding-autism-immunizations"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "White House Uses USAID Funds For Russell Vought's Security, Documents Show",
+              "url": "https://www.huffpost.com/entry/wh-uses-usaid-funds-for-vought-security_n_698f1bc9e4b0224cd9c6c426"
             }
           ]
         }
@@ -448,8 +430,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "NTU to counsel students after CNY lo hei event on campus draws flak over food waste",
-          "neutralSummary": "A video showed students tossing yusheng into the air and at one another inside a residential hall.",
+          "neutralHeadline": "22-year-old man to be charged over alleged staging of his own kidnapping",
+          "neutralSummary": "The man’s uncle had received text messages seeking a ransom of $3,000.",
           "versions": [
             {
               "political": "center",
@@ -457,29 +439,45 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "NTU to counsel students after CNY lo hei event on campus draws flak over food waste",
-              "url": "https://www.straitstimes.com/singapore/ntu-to-counsel-students-after-cny-lo-hei-event-on-campus-draws-flak-over-food-waste"
+              "headline": "22-year-old man to be charged over alleged staging of his own kidnapping",
+              "url": "https://www.straitstimes.com/singapore/22-year-old-man-to-be-charged-over-alleged-staging-of-his-own-kidnapping"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "S’pore to regulate blind boxes to manage gambling risks: Shanmugam",
-          "neutralSummary": "The regulations, currently being drafted, will stipulate conditions under which blind boxes may be offered.",
+          "neutralHeadline": "Hong Kong university expels student who called for Wang Fuk Court fire accountability",
+          "neutralSummary": "Hong Kong university expels student who called for Wang Fuk Court fire accountability",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "S’pore to regulate blind boxes to manage gambling risks: Shanmugam",
-              "url": "https://www.straitstimes.com/singapore/blind-boxes-to-be-regulated-in-spore-to-manage-gambling-risks-shanmugam"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Hong Kong university expels student who called for Wang Fuk Court fire accountability",
+              "url": "https://www.channelnewsasia.com/east-asia/hong-kong-university-expels-student-who-called-wang-fuk-court-fire-accountability-5931001"
             }
           ]
         },
         {
           "id": "singapore-3",
+          "neutralHeadline": "Asia’s real masters of the sea, from Indonesia’s forgotten kingdom to Vietnam’s ancient empire",
+          "neutralSummary": "The Mark Of Empire follows the traces of Asia’s maritime civilisations, from Srivijaya to Sulu, exploring how they continue to shape faith, identity and craft today. Here’s why the series will grab you.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Asia’s real masters of the sea, from Indonesia’s forgotten kingdom to Vietnam’s ancient empire",
+              "url": "https://www.channelnewsasia.com/cna-insider/asia-sea-kingdoms-mark-empire-indonesia-vietnam-ancient-history-5923636"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
           "neutralHeadline": "Thai PM's party agrees to form coalition with Thaksin-backed Pheu Thai",
           "neutralSummary": "The support of Pheu Thai - which came in third in the election - will give Prime Minister Anutin Charnvirakul a clear parliamentary majority.",
           "versions": [
@@ -504,7 +502,7 @@
           ]
         },
         {
-          "id": "singapore-4",
+          "id": "singapore-5",
           "neutralHeadline": "Malaysia forms special committee to probe anti-corruption chief, says communications minister",
           "neutralSummary": "A Bloomberg report claimed that Malaysia's Anti-Corruption Commission chief Azam Baki held 17.7 million shares in a financial services company worth about RM800,000 (US$205,000), above the RM100,000 limit allowed for public servants. Azam had reportedly called the report malicious and misleading.",
           "versions": [
@@ -522,14 +520,14 @@
               "tone": "neutral",
               "source": "Bloomberg",
               "initials": "BB",
-              "domain": "news.google.com",
+              "domain": "bloomberg.com",
               "headline": "Malaysia’s Cabinet Orders Probe Into Anti-Graft Chief Azam",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkM2UzZRVS1lTGlMSWtyM2FISk40SGF4WUxIY1cwdjJ4Q1l1STA2MDdubEU1UnBrTVRPYU5KNVNkN0NQVXNOaG9kRFJYSW4tYnJFOG14SXQtRUhSTW5wUWF4NEhCSDVaUjl3WGNQa1Y5TE5Ib0cxSkxHQjkwbHpPRFFPZEQxVHpKZ0I3cWVkb2xQNktWYW82bV9XYlNLNXBlMFAxR3hWaG5GRDc3a3ljVHctQlc?oc=5"
+              "url": "https://www.bloomberg.com/news/articles/2026-02-13/malaysia-s-cabinet-orders-probe-into-anti-graft-chief-azam-baki"
             }
           ]
         },
         {
-          "id": "singapore-5",
+          "id": "singapore-6",
           "neutralHeadline": "Bangladesh political heir Tarique Rahman poised for PM",
           "neutralSummary": "Tarique Rahman's rise marks a remarkable turnaround for a man who only returned to Bangladesh in December 2025 after 17 years in exile in Britain.",
           "versions": [
@@ -554,41 +552,25 @@
           ]
         },
         {
-          "id": "singapore-6",
-          "neutralHeadline": "Bangladesh's BNP wins sweeping election majority, promise of stability",
-          "neutralSummary": "The official vote count gave the Bangladesh Nationalist Party and its allies at least 212 of the 299 seats up for grabs.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Bangladesh's BNP wins sweeping election majority, promise of stability",
-              "url": "https://www.channelnewsasia.com/asia/bangladesh-bnp-wins-sweeping-election-majority-stability-5927666"
-            }
-          ]
-        },
-        {
           "id": "singapore-7",
-          "neutralHeadline": "More spaces for tarawih prayers this Ramadan",
-          "neutralSummary": "A total of 110,000 prayer spaces will be available across 70 mosques each night during the holy month.",
+          "neutralHeadline": "Budget 2026: Enhanced ComLink+ packages give low-income families a stronger nudge up the social ladder",
+          "neutralSummary": "Breaking goals into smaller milestones may make progress more attainable for families.",
           "versions": [
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "optimistic",
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "More spaces for tarawih prayers this Ramadan",
-              "url": "https://www.straitstimes.com/singapore/more-spaces-for-tarawih-prayers-this-ramadan"
+              "headline": "Budget 2026: Enhanced ComLink+ packages give low-income families a stronger nudge up the social ladder",
+              "url": "https://www.straitstimes.com/singapore/community/enhanced-comlink-packages-give-low-income-families-a-stronger-nudge-up-the-social-ladder"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Repeat offender back behind bars after he continued harassing girls",
-          "neutralSummary": "Fong Poh Kuen, 49, was sentenced to 30 weeks’ jail.",
+          "neutralHeadline": "A horse-picious labour of love at a Cantonment Close void deck for CNY",
+          "neutralSummary": "Resident Anitha Tamilmaran spent two months conceptualising and putting it together",
           "versions": [
             {
               "political": "center",
@@ -596,15 +578,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Repeat offender back behind bars after he continued harassing girls",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/repeat-offender-back-behind-bars-after-he-continued-harassing-girls"
+              "headline": "A horse-picious labour of love at a Cantonment Close void deck for CNY",
+              "url": "https://www.straitstimes.com/singapore/a-horse-picious-labour-of-love-at-a-cantonment-close-void-deck-for-cny"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Burning smell across Singapore may be due to gases from recent peatland, vegetation fires: NEA",
-          "neutralSummary": "The 24-hour Pollutant Standards Index readings remain within the good to moderate range, said NEA.",
+          "neutralHeadline": "Singaporean film-maker reaches into his own experiences for Project One Last",
+          "neutralSummary": "Cho Jun Ming failed his N levels in grades-obsessed Singapore, but going to ITE nurtured his passion for film-making.",
           "versions": [
             {
               "political": "center",
@@ -612,8 +594,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Burning smell across Singapore may be due to gases from recent peatland, vegetation fires: NEA",
-              "url": "https://www.straitstimes.com/singapore/burning-smell-across-singapore-may-be-due-to-gases-from-recent-peatland-vegetation-fires-nea"
+              "headline": "Singaporean film-maker reaches into his own experiences for Project One Last",
+              "url": "https://www.straitstimes.com/singapore/singaporean-film-maker-reaches-into-his-own-experiences-for-project-one-last"
             }
           ]
         }
@@ -624,8 +606,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "'When India re-wrote its fate': PM Modi on Seva Teerth, Kartavya Bhawans",
-          "neutralSummary": "​The Prime Minister said the newly inaugurated buildings reflect India’s commitment to citizen-centric governance and national progress. \"Today we all are witnessing a new history being made... This day of 13th February is witnessing a new beginning in India's development journey... Today, we are al",
+          "neutralHeadline": "US preparing for weeks-long Iran operations as another carrier heads to Middle East",
+          "neutralSummary": "US preparing for weeks-long Iran operations as another carrier heads to Middle East",
           "versions": [
             {
               "political": "left",
@@ -633,8 +615,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Seva Teerth Inauguration: PM Narendra Modi Unveils Rs 100 Commemorative Coin",
-              "url": "https://www.ndtv.com/india-news/seva-teerth-inauguration-pm-narendra-modi-unveils-rs-100-commemorative-coin-10998257#publisher=newsstand"
+              "headline": "US Sending Second Aircraft Carrier To Middle East Amid Iran Tensions",
+              "url": "https://www.ndtv.com/world-news/us-sending-second-aircraft-carrier-to-mideast-as-amid-iran-tensions-11001655#publisher=newsstand"
             },
             {
               "political": "center",
@@ -642,33 +624,24 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "'When India re-wrote its fate': PM Modi on Seva Teerth, Kartavya Bhawans",
-              "url": "https://timesofindia.indiatimes.com/india/history-being-made-pm-modi-says-after-inaugurating-kartavya-bhawans/articleshow/128309032.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Seva Teerth to fulfill aspirations of 140 crore Indians: Modi's first address from new PMO",
-              "url": "https://www.hindustantimes.com/india-news/seva-teerth-to-fulfill-aspirations-of-140-crore-indians-modis-first-address-from-new-pmo-101770987884024.html"
+              "headline": "US preparing for weeks-long Iran operations as another carrier heads to Middle East",
+              "url": "https://timesofindia.indiatimes.com/world/middle-east/us-preparing-for-weeks-long-iran-operations-as-another-carrier-heads-to-middle-east/articleshow/128331929.cms"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Riyan Parag named Rajasthan Royals new captain",
-          "neutralSummary": "Riyan Parag named Rajasthan Royals new captain",
+          "neutralHeadline": "Happy valentine's day: Top 110 wishes, messages, greeting cards, pictures and quotes to share",
+          "neutralSummary": "Valentine's Day, celebrated annually on February 14th, honours all forms of love, from romantic sparks to friendship cheers. In 2026, it falls on a Saturday, offering a perfect opportunity for connection.  Tracing its roots to ancient Roman festivals and medieval legends, the day has evolved into a",
           "versions": [
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Riyan Parag named Rajasthan Royals captain for IPL 2026",
-              "url": "https://indianexpress.com/article/sports/cricket/riyan-parag-named-rajasthan-royals-captain-for-ipl-2026-10530678/"
+              "political": "center",
+              "tone": "optimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Happy valentine's day: Top 110 wishes, messages, greeting cards, pictures and quotes to share",
+              "url": "https://timesofindia.indiatimes.com/etimes/trending/happy-valentines-day-2026-top-50-wishes-messages-greetings-card-whatsapp-instagram-story-and-quotes-to-share-with-your-special-someone/articleshow/128200787.cms"
             },
             {
               "political": "center",
@@ -676,99 +649,90 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Riyan Parag named Rajasthan Royals new captain",
-              "url": "https://economictimes.indiatimes.com/news/sports/ipl-2026-riyan-parag-named-rajasthan-royals-new-captain-following-sanju-samsons-trade-to-csk/articleshow/128308403.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "ESPNcricinfo",
-              "initials": "E",
-              "domain": "news.google.com",
-              "headline": "Riyan Parag set to be named Rajasthan Royals' new captain",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0UxX3Ffc3dGOTRueFlESzBjd3k5S3RkY0JlT3U5ZUpyUjFkR3VzRXVoVjQ4MWJTRkxWaERDdXRqanBpSG91TWF0dXRqRUNBa2dGRHRiNkhhS1lmdy0zUmxkcnlyNks5VEw5T1pNXzFMc0pJTHRlMXBzWk5wM09FMHBmZEJLZ3hjbWt3X3BDNFlEYmhXTnlpcGswNlhTTEnSAbABQVVfeXFMTTVUS2V0WG93c1AteVJyeVN1TjFrazEwaVpySHVJVllFSDNuTlh0cU5QMEp6dDVLLXBaU01USUNfOVFFaG9IRTRsbWRqMEF6OWpEZnEyVjBGeFl1RE9UTGVQT214YXBNMGtzTUkzbG5GM0s0SnhZNFAzb3dOcG5kQi00M2tvTXAtM0VGYTF1NXd1SF9sd2R5RHBxS0Jid3ZQQWloUG9jYm1KcEh5aUJRMnQ?oc=5"
+              "headline": "150+ Happy Valentine’s Day wishes, images",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/valentine-day-wishes-quotes-messages-images-romantic-instagram-facebook-whatsapp-greetings-husband-wife-lover-heart-touching-14-feb-2026/articleshow/128330150.cms"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "India's Hasina dilemma: Resurgent BNP seeks extradition - what are New Delhi's options?",
-          "neutralSummary": "As Bangladesh's new government, led by the BNP, takes charge of country's affair, it has called on India for the extradition of ousted former prime minister Sheikh Hasina, who is in New Delhi. This demand presents a significant diplomatic challenge for India. Dhaka says, it seeks a relationship base",
+          "neutralHeadline": "In turnaround, Indian national Nikhil Gupta pleads guilty in Khalistani's murder-for-hire case",
+          "neutralSummary": "In turnaround, Indian national Nikhil Gupta pleads guilty in Khalistani's murder-for-hire case&nbsp;&nbsp;Times of IndiaIndian Man Pleads Guilty To Murder-For-Hire Plot Against Khalistani Terrorist&nbsp;&nbsp;NDTVSikh separatist Pannun murder plot: Nikhil Gupta pleads guilty in U.S. court&nbsp;&nbsp",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Who Is Nikhil Gupta, Indian Man Who Plotted Khalistani Terrorist's Murder",
+              "url": "https://www.ndtv.com/world-news/who-is-nikhil-gupta-indian-man-who-plotted-khalistani-terrorist-gurpatwant-singh-pannun-murder-in-new-york-city-11001974#publisher=newsstand"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "India's Hasina dilemma: Resurgent BNP seeks extradition - what are New Delhi's options?",
-              "url": "https://timesofindia.indiatimes.com/world/south-asia/indias-sheikh-hasina-dilemma-resurgent-bnp-seems-set-to-press-extradition-demand-what-are-new-delhis-options/articleshow/128307854.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "BNP to formally seek Hasina’s extradition from India",
-              "url": "https://economictimes.indiatimes.com/news/india/bangladesh-elections-bnp-to-formally-request-sheikh-hasinas-extradition-from-india/articleshow/128306809.cms"
+              "domain": "news.google.com",
+              "headline": "In turnaround, Indian national Nikhil Gupta pleads guilty in Khalistani's murder-for-hire case",
+              "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPc0FvLWNOQnVhZVQ0dzduNHBoR3NmNkY3RVZuV0QzUFZWeGZ1cktDRkFIQl9oa2d0dmJtVGV6Rzh1YUJ0VGRUR09FdTNzQ3duZE1OYUttQmRORDRMY0R0djF4QVd4eGhQeV9nUy1FUEJkRC1PNmtQLWZFTjQwemE1cEZ6UWZfa0kweWpWZUsySUJEbE1qQ0ZhekowTlFJWS1LVVFaekJHTTRITnNrblUtQkdBTTVIMmRtUGpiYjkyaXJhbl9HYUpRZm55WlpwMmlDS0dKSkJLdXRfN2kzX182RGhRbXVTMk9kek1VdUJqU0VRc3p5WEE?oc=5"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "PM Modi dials Tarique Rahman after BNP's Bangladesh win, reaffirms commitment to peace",
-          "neutralSummary": "PM Modi also emphasized on the deep-rooted ties between India and Bangladesh and New Delhi's continued commitment to peace, progress and prosperity.",
+          "neutralHeadline": "Explained: The case against Nikhil Gupta, who pleaded guilty in plot to kill Khalistani separatist Gurpatwant Pannun",
+          "neutralSummary": "The 54-year-old admitted guilt on three counts: murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Indian Man Pleads Guilty To Murder-For-Hire Plot Against Khalistani Terrorist",
+              "url": "https://www.ndtv.com/world-news/indian-man-nikhil-gupta-pleads-guilty-in-foiled-murder-plot-against-khalistani-terrorist-gurpatwant-singh-pannun-in-new-york-11001862#publisher=newsstand"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "PM Modi dials Tarique Rahman after BNP's Bangladesh win, reaffirms commitment to peace",
-              "url": "https://www.hindustantimes.com/india-news/pm-modi-dials-tarique-rahman-after-bnps-bangladesh-win-reaffirms-commitment-to-peace-101770977718693.html"
-            },
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "Zee News",
-              "initials": "ZN",
-              "domain": "news.google.com",
-              "headline": "Who is Tarique Rahman? The ‘Dark Prince’ all set to walk into Bangladesh PM office",
-              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbHN3QVFxbU9ZV3huR05OODR4UkxiRXl3TS1DTjQ0THB4S25ETERYRlIwZXlhZ0dhQ2lDb2NJRnp5UUk1TUoxTTBhQTlvSUdzWlUwYndmVVktRUVINkdJX0h5eWN3NFJmRHJjTmRDd1VvSXlvaGtRWnFXbjdyOEU2aVN6QlhjajNaOGhwR0VmSVQ2UDkwTmdwSWp2dU92QUVaZzVOYTc0Szc5a3NPSTZ4TkpyNjFGUzNNY0V3ZTZlOXF5d9IBxwFBVV95cUxQcW5fSERVeEYxNGJsQ091R18zTDVySFIzN2s0Y1EyR21wdExhdm0tRHViaDdhTTdLamlhNkhtUVFEekFzblVTZUZLcjBsbGlWb2VQZkNTXy1kZVQxMGRpSmVtV2QtV2NscWxIUnUwODhGZjN1YkNQbERseDdjYlpENFdoaklUc0lGNHVKTFJ2aGFjZk1tcktxU3hPbmI0Q3Baelg2di1nWUF3QmdMWFZoVFI0dzU4aG5GWnl1cThyUi1CQWhfREl3?oc=5"
+              "headline": "Explained: The case against Nikhil Gupta, who pleaded guilty in plot to kill Khalistani separatist Gurpatwant Pannun",
+              "url": "https://www.hindustantimes.com/india-news/nikhil-gupta-case-explained-pleaded-guilty-us-in-khalistani-separatist-gurpatwant-singh-pannun-assassination-plot-101771038501740.html"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Baba Kamruddin promised ‘dhanvarsha’ via ‘contact with genies’: Delhi's Peeragarhi triple murder case unravels",
-          "neutralSummary": "Kamruddin alias Baba, 72, allegedly asked his clients to send photographs of women and promised them a windfall; photos found in his dead follower's phone",
+          "neutralHeadline": "Video: US Military's Lethal Kinetic Strike On Narco Boat In The Caribbean",
+          "neutralSummary": "President Donald Trump has said the US is in \"armed conflict\" with cartels in Latin America",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Baba Kamruddin promised ‘dhanvarsha’ via ‘contact with genies’: Delhi's Peeragarhi triple murder case unravels",
-              "url": "https://www.hindustantimes.com/india-news/baba-kamruddin-promised-dhanvarsha-via-contact-with-genies-delhis-peeragarhi-triple-murder-case-unravels-101770977014905.html"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Video: US Military's Lethal Kinetic Strike On Narco Boat In The Caribbean",
+              "url": "https://www.ndtv.com/world-news/video-us-militarys-lethal-kinetic-strike-on-narco-boat-in-the-caribbean-11001882#publisher=newsstand"
             },
             {
-              "political": "right",
-              "tone": "neutral",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "No, Kamruddin, who has been arrested by Delhi Police in a triple-murder case, is not a ‘Tantrik’: Here’s how the media gives a Hindu spin to Muslim-perpetrated crimes",
-              "url": "https://www.opindia.com/2026/02/tantrik-kamruddin-heres-how-media-gives-a-hindu-spin-to-muslim-perpetrated-crimes/"
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "US military kills 3 in latest attack on boat in the Caribbean",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3EyYVV6dVlmSFh6RVE5UzJqLVJpLVQ2YzBrMzQwSUV2aGw0VzU3ZTdUSDNvX05ueU16WndjTVhzS3M0aFVXNFNQb181SkdaalVNQmV4TURiWGJPblRuRDRHY1V1RnlzTlpTdFI5cENhYW9xQkNqQmFGLU9RUm5ObDN2REV6LVJBOGZWUm5hLU1fLW9YUm5IZnRsUEgtU0HSAaQBQVVfeXFMTm1PUzlRZEh2Ym5WS3haVHVWYWY4a2ViUDJfRGRjOWpscktma2ZUU3QzSEJmNU9qVllkaW9ZLXFBVGlYZnpQTjRNMzh3Qk5Sb2pKekxmcnFVQnVuVm9oTXkyUlRld3BIMk54emZtbTRTbVdTcWFZNXk2MXZGb1IxMUhXYmctNlJQaXR2V3JsaE5Xa2NpMmpkTEp1X2o4ejJQS0otTlY?oc=5"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "Mahasivaratri: Collector reviews arrangements at Srisailam temple",
-          "neutralSummary": "G. Rajakumari instructs officials to ensure uninterrupted drinking water, maintain strict hygiene standards, and strengthen coordination among departments to prevent inconvenience to devotees",
+          "neutralHeadline": "Wild elephants kill six people in Hazaribagh",
+          "neutralSummary": "The incident took place at around 12:30 AM in Gondwar village on Friday, around 20 km from Hazaribagh under Churchu block when the villagers were sleeping.",
           "versions": [
             {
               "political": "left",
@@ -776,15 +740,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Mahasivaratri: Collector reviews arrangements at Srisailam temple",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/mahasivaratri-collector-reviews-arrangements-at-srisailam-temple/article70628342.ece"
+              "headline": "Wild elephants kill six people in Hazaribagh",
+              "url": "https://www.thehindu.com/news/national/jharkhand/wild-elephants-kill-six-people-in-hazaribagh/article70629332.ece"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Yuva Morch stages protest march to GCDA office against alleged backdoor recruitment",
-          "neutralSummary": "Thousands of candidates in PSC rank lists are being betrayed by the government, says Yuva Morcha State president",
+          "neutralHeadline": "Radiator blast triggers massive explosion at laboratory in Choutuppal, no casualties reported",
+          "neutralSummary": "The fire broke out at Brundavan Laboratories Pvt Ltd in Yellagiri village of Choutuppal",
           "versions": [
             {
               "political": "left",
@@ -792,15 +756,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Yuva Morch stages protest march to GCDA office against alleged backdoor recruitment",
-              "url": "https://www.thehindu.com/news/cities/Kochi/yuva-morch-stages-protest-march-to-gcda-office-against-alleged-backdoor-recruitment/article70628297.ece"
+              "headline": "Radiator blast triggers massive explosion at laboratory in Choutuppal, no casualties reported",
+              "url": "https://www.thehindu.com/news/national/telangana/radiator-blast-triggers-massive-explosion-at-laboratory-in-telangana-choutuppal-no-casualties-reported/article70631268.ece"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "CMS van driver flees with ₹60 lakh cash in Gachibowli",
-          "neutralSummary": "CMS van driver flees with ₹60 lakh cash in Gachibowli",
+          "neutralHeadline": "‘Quadrupled’ seats in Parliament, will be ‘vigilant’ Opposition in Bangladesh: Ameer Shafiqur Rahman",
+          "neutralSummary": "The remarks of Jamaat-e-Islami leader came a day after the largest Islamist party of Bangladesh alleged that the election process had “inconsistencies and fabrications”",
           "versions": [
             {
               "political": "left",
@@ -808,24 +772,24 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "CMS van driver flees with ₹60 lakh cash in Gachibowli",
-              "url": "https://www.thehindu.com/news/cities/Hyderabad/cms-van-driver-flees-with-60-lakh-cash-in-gachibowli/article70628029.ece"
+              "headline": "‘Quadrupled’ seats in Parliament, will be ‘vigilant’ Opposition in Bangladesh: Ameer Shafiqur Rahman",
+              "url": "https://www.thehindu.com/news/international/quadrupled-seats-in-parliament-will-be-vigilant-opposition-in-bangladesh-ameer-shafiqur-rahman/article70631266.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Fishing with high-beam lights: marine enforcement squad steps up coastal patrol",
-          "neutralSummary": "Fishing with high-beam lights: marine enforcement squad steps up coastal patrol",
+          "neutralHeadline": "Human deaths in encounter with elephants in Odisha, a cause of concern, says WSO",
+          "neutralSummary": "Odisha topped human deaths in 2024-25 with 171 deaths, followed by Jharkhand (87), West Bengal (53), Assam (74) and Tamil Nadu (61), says the environmental pressure group",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Fishing with high-beam lights: marine enforcement squad steps up coastal patrol",
-              "url": "https://www.thehindu.com/news/national/kerala/fishing-with-high-beam-lights-marine-enforcement-squad-steps-up-coastal-patrol/article70627982.ece"
+              "headline": "Human deaths in encounter with elephants in Odisha, a cause of concern, says WSO",
+              "url": "https://www.thehindu.com/news/national/odisha/human-deaths-in-encounter-with-elephants-in-odisha-a-cause-of-concern-says-wso/article70628541.ece"
             }
           ]
         }
