@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-02-15T13:50:22.250920+00:00",
+  "generatedAt": "2026-02-16T04:13:50.777325+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "European Nations Say Alexei Navalny Was Poisoned By The Kremlin With Dart Frog Toxin",
-          "neutralSummary": "Five European countries say tests confirm Russian opposition leader Alexei Navalny was poisoned with a lethal toxin found in poison frogs, and they blame the Russian state.",
+          "neutralHeadline": "Russia accused of killing Navalny with dart frog toxin. What we know about the rare poison",
+          "neutralSummary": "Russia accused of killing Navalny with dart frog toxin. What we know about the rare poison&nbsp;&nbsp;AxiosWhat is the dart frog toxin allegedly used to kill Alexei Navalny?&nbsp;&nbsp;BBCRussian nationals in Chicago demand justice for Aleksei Navalny&nbsp;&nbsp;FOX 32 ChicagoNavalny Was Poisoned Wi",
           "versions": [
             {
               "political": "left",
@@ -37,13 +37,13 @@
               "url": "https://www.npr.org/2026/02/14/nx-s1-5714517/eu-europe-russia-navalny"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Europeans say Russia poisoned dissident Alexey Navalny with dart frog toxin",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/2/15/europeans-say-russia-poisoned-dissident-alexey-navalny-with-dart-frog-toxin?traffic_source=rss"
+              "source": "Axios",
+              "initials": "AX",
+              "domain": "news.google.com",
+              "headline": "Russia accused of killing Navalny with dart frog toxin. What we know about the rare poison",
+              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWXhzYm9zNUpIRjJZS0dyV0cyMktDWi01U19PWkRVaWNoSTR0OVMyTWJfYzNSTGN2WWhBM1lVTjh4UWhFSWNaaXhGbGpFM3pHV3BPZzJGSzVPTTJYbnlaR3VoMk5KT2JZUVpTNjNqQUdwVTc3SWFXcVlnSkZRTkplSG02YVVZVHVmR2pR?oc=5"
             },
             {
               "political": "right",
@@ -58,26 +58,151 @@
         },
         {
           "id": "global-2",
-          "neutralHeadline": "Brazil’s Pinheiro Braathen wins gold – and South America’s first Winter Olympics medal",
-          "neutralSummary": "Norwegian-born skier storms to historic slalom gold‘Your difference is your superpower,’ says 25-year-old As the snow fell in Bormio, and the fog settled in, Lucas Pinheiro Braathen made history by becoming the first South American to win a Winter Olympic medal. Then, as the realisation that he had",
+          "neutralHeadline": "New Israeli strikes have hit Gaza, leaving at least 12 dead",
+          "neutralSummary": "In the Middle East, new Israeli strikes have hit the Gaza Strip, leaving at least 12 people dead according to the Palestinian Civil Defense, in what is described as a violation of the ceasefire, with Israel and Hamas blaming each other, while at least 601 Palestinians have been killed since the star",
           "versions": [
             {
               "political": "left",
-              "tone": "optimistic",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Eleven killed in Israeli strikes on Gaza, rescuers say",
+              "url": "https://www.bbc.com/news/articles/c8r15eyvk2do?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "New Israeli strikes have hit Gaza, leaving at least 12 dead",
+              "url": "https://www.france24.com/en/new-israeli-strikes-have-hit-gaza-leaving-at-least-12-dead"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "US forces board oil tanker in Indian Ocean that fled Caribbean blockade",
+          "neutralSummary": "The United States intercepted a new oil tanker in the Indian Ocean that had fled the blockade ordered by US President Donald Trump against sanctioned ships leaving or heading to Venezuela, the Pentagon announced on Sunday.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "Brazil’s Pinheiro Braathen wins gold – and South America’s first Winter Olympics medal",
-              "url": "https://www.theguardian.com/sport/2026/feb/14/winter-olympics-brazils-pinheiro-braathen-sambas-down-slope-for-south-americas-first-medal"
+              "headline": "US boards second oil tanker in Indian Ocean after it fled Venezuelan raid",
+              "url": "https://www.theguardian.com/world/2026/feb/15/us-forces-board-second-venezuelalinked-oil-tanker-in-indian-ocean"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Brazil's Pinheiro Braathen wins gold, and South America's first Winter Olympics medal",
-              "url": "https://www.npr.org/2026/02/15/nx-s1-5715075/brazil-braathen-gold-south-americas-first-winter-olympics-medal"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "US boards second tanker in Indian Ocean after tracking it from Caribbean",
+              "url": "https://www.bbc.com/news/articles/c4ge763d7j6o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "US forces board oil tanker in Indian Ocean that fled Caribbean blockade",
+              "url": "https://www.france24.com/en/americas/20260215-us-forces-board-oil-tanker-in-indian-ocean-that-fled-caribbean-blockade"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Anthropic’s Claude helped Pentagon raid Caracas and seize Maduro: US media",
+          "neutralSummary": "The Wall Street Journal has reported that the Pentagon used Anthropic’s AI model, Claude, as part of its operation to capture Venezuelan President Nicolás Maduro.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "US military used Anthropic’s AI model Claude in Venezuela raid, report says",
+              "url": "https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Anthropic’s Claude helped Pentagon raid Caracas and seize Maduro: US media",
+              "url": "https://www.france24.com/en/tv-shows/tech-24/20260215-anthropic-s-claude-helped-pentagon-raid-caracas-and-seize-maduro-us-media"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "North Korea opens new housing district for families of Ukraine war dead",
+          "neutralSummary": "North Korea opens new housing district for families of Ukraine war dead&nbsp;&nbsp;AP NewsView Full Coverage on Google News",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Kim Jong-un unveils housing for families of North Koreans killed in Ukraine war",
+              "url": "https://www.theguardian.com/world/2026/feb/16/north-korea-housing-ukraine-war-families"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "North Korea opens new housing district for families of Ukraine war dead",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTG9PUmdlUUVKUWtGTDlqX0dCWGV6cllGRUpLN0QzODFTMXdBQ2tPNi1xMmg4cGtlVFBwZHdqT1VFT1A5VVdfRG1IeWxOLWhndFRmNnUwNVg4QUdzczJZVkxuOGNGOGRHVkNwUWR1R0Y4eTBXVGlXcktveS0zZHlNUE9UUTJXNDVCRjZWQUQ3MkZXbDhCSGhoc1k0dENCR09kVXc?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "Israel will begin contentious West Bank land registration in new step to deepen control",
+          "neutralSummary": "Israel will begin contentious West Bank land registration in new step to deepen control&nbsp;&nbsp;AP NewsIsrael advances registration of West Bank territory as state land in move decried as “de facto annexation”&nbsp;&nbsp;CNNIsraeli cabinet approves West Bank land registration, Palestinians condem",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Israel Deepens West Bank Control With Land Registration Considered 'De Facto Annexation'",
+              "url": "https://www.huffpost.com/entry/israel-west-bank-land-registration-annexation-palestine_n_69921a46e4b046a6f2de106b"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Israel will begin contentious West Bank land registration in new step to deepen control",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVm1uYVhqaV9SYkl0T2NyeVZabWFUV2llc2k3aGlneXZlSld1eVE3Z19LLVdQZ2pEbVQtVUhiN0NVLTU1azVpcEF1ZFdXblp0ZFhnZ0lsVnRGUm5FU255S1pFSHN3NmZsM2dDRWh2OU8tbXBKS3kxUGlwZ0FkblNWZ3g2bTBaeWstQ3VpOUJwM0c0MFpvUVpZVUQ3M2pSdDR1eUpvbXJlVQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
+          "neutralHeadline": "Ukraine's ex-energy minister detained while attempting to leave country",
+          "neutralSummary": "His detention comes as he faces legal proceedings after being dismissed in a corruption scandal.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Ukraine's ex-energy minister detained while attempting to leave country",
+              "url": "https://www.bbc.com/news/articles/c4g5380xwqjo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -85,13 +210,38 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Brazil wins first gold medal for South America at Winter Olympics",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/2/15/brazil-wins-first-gold-medal-for-south-america-at-winter-olympics?traffic_source=rss"
+              "headline": "Ukraine’s ex-energy minister arrested while trying to cross border",
+              "url": "https://www.aljazeera.com/news/2026/2/15/ukraines-ex-energy-minister-arrested-while-trying-to-cross-border?traffic_source=rss"
             }
           ]
         },
         {
-          "id": "global-3",
+          "id": "global-8",
+          "neutralHeadline": "FBI says DNA from glove may link suspect to Nancy Guthrie abduction",
+          "neutralSummary": "Investigators have obtained a DNA sample from a discarded glove found near Nancy Guthrie’s Arizona home that appears to match gloves worn by a masked prowler seen on video before her abduction two weeks ago, the FBI said Sunday. The preliminary results await quality control and confirmation before f",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "FBI analysing recovered glove that appears to match those worn in Guthrie suspect video",
+              "url": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "FBI says DNA from glove may link suspect to Nancy Guthrie abduction",
+              "url": "https://www.france24.com/en/americas/20260215-fbi-dna-recovered-glove-nancy-guthrie-home"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
           "neutralHeadline": "Rubio says US and Europe 'belong together' despite tensions",
           "neutralSummary": "The US secretary of state reassures European leaders that the Trump administration backs the transatlantic alliance.",
           "versions": [
@@ -114,156 +264,6 @@
               "url": "https://www.npr.org/2026/02/14/nx-s1-5714465/rubios-words-reassure-europe-but-tensions-remain"
             }
           ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Assailants kill at least 32 in north-west Nigerian villages, residents say",
-          "neutralSummary": "Residents who escaped violence tell of bandits riding in on motorbikes and shooting indiscriminatelyArmed assailants on motorbikes killed at least 32 people and burned houses and shops during raids on three villages in north-west Nigeria’s Niger state early on Saturday, local officials and residents",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Assailants kill at least 32 in north-west Nigerian villages, residents say",
-              "url": "https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Motorbike raids on villages kill at least 30 in Nigeria",
-              "url": "https://www.bbc.com/news/articles/ckg1y0nk641o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "'Clown show': Obama speaks out on Trump racist monkey clip, Minneapolis crackdown",
-          "neutralSummary": "Former US president Barack Obama on Saturday addressed a racist video posted on President Donald Trump's social media account, telling a podcast host that the \"decorum\" that once guided public officials has been lost. Obama also lamented the \"rogue behaviour\" of federal agents involved in a deadly i",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Obama addresses racist video shared by Trump depicting him as an ape",
-              "url": "https://www.bbc.com/news/articles/c74754j7qwgo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "'Clown show': Obama speaks out on Trump racist monkey clip, Minneapolis crackdown",
-              "url": "https://www.france24.com/en/americas/20260215-clown-show-obama-speaks-out-trump-racist-monkey-clip-minneapolis-crackdown-ice"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Casey Wasserman to sell talent agency after Epstein fallout",
-          "neutralSummary": "The prominent agent and LA Olympics chief has come under scrutiny over past ties with Jeffrey Epstein and Ghislaine Maxwell.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Casey Wasserman to sell talent agency after Epstein fallout",
-              "url": "https://www.bbc.com/news/articles/cy0dn4e1njjo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Casey Wasserman puts talent agency up for sale after risqué emails with Ghislaine Maxwell surface: report",
-              "url": "https://nypost.com/2026/02/15/us-news/casey-wasserman-puts-agency-up-for-sale-after-risque-emails-with-ghislaine-maxwell-surface/"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "US military reports a series of airstrikes against Islamic State targets in Syria",
-          "neutralSummary": "The U.S. military says the strikes were carried out in retaliation of the December ambush that killed two U.S. soldiers and one American civilian interpreter.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "US military reports a series of airstrikes against Islamic State targets in Syria",
-              "url": "https://www.npr.org/2026/02/14/nx-s1-5714552/us-islamic-state-syria"
-            },
-            {
-              "political": "right",
-              "tone": "optimistic",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "US military in Syria carries out 10 strikes on more than 30 ISIS targets: photos",
-              "url": "https://www.foxnews.com/world/us-military-syria-carries-10-strikes-30-isis-targets-photos"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Ukrainian drone strike sparks fires at Russian Black Sea port ahead of US-brokered peace talks",
-          "neutralSummary": "Ukrainian drone strike sparks fires at Russian Black Sea port ahead of US-brokered peace talks&nbsp;&nbsp;AP NewsUkrainian drones hit key Russian oil port, local governor says&nbsp;&nbsp;politico.euRussia claims \"large-scale attack\" on Krasnodar Krai – videos&nbsp;&nbsp;Українська правдаLive: Ukrain",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Ukrainian drone strike sparks fires at Russian Black Sea port ahead of US-brokered peace talks",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdnBMNmFDN1l6NHh0RjdMSnZzTFJrWVRsTWpFZTRtUGxNUHFMYjFlR1E0eV9nMUROLV9jZUZRTWlVSm9mb013RlVpcWk5R3hjUVU1NWZrTTZlSEJMTzM1V25UUHRhNHNYMFpkaVBGdHZ3T0ZERGNQODJRdUI1SHdsaHpzclZIZi1SbkhYbTZrQXNTQi1iMFBtSFVjUzA5QzQ?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Live: Ukrainian drones strike Russian Black Sea port, Rubio visits eastern Europe",
-              "url": "https://www.france24.com/en/europe/20260215-live-russia-says-ukrainian-drones-struck-black-sea-port-rubio-visits-hungary-slovakia"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Epstein files unveil new global tensions",
-          "neutralSummary": "French authorities are investigating the extent of their nationals’ involvement in the Jeffrey Epstein affair, with lead magistrates now reviewing some three million US documents to identify any French citizens connected to him. France 2 and Caitlin Brown report.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "How the Epstein files exposed victims but protected the powerful",
-              "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/2/15/how-the-epstein-files-exposed-victims-but-protected-the-powerful?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Epstein files unveil new global tensions",
-              "url": "https://www.france24.com/en/epstein-files-unveil-new-global-tensions"
-            }
-          ]
         }
       ]
     },
@@ -272,6 +272,126 @@
       "stories": [
         {
           "id": "us-1",
+          "neutralHeadline": "Trump: 'Board of Peace' members pledge $5 billion for Gaza",
+          "neutralSummary": "Trump: 'Board of Peace' members pledge $5 billion for Gaza&nbsp;&nbsp;DW.comTrump says Board of Peace members promise $5 billion for Gaza rebuild&nbsp;&nbsp;PBSTrump’s Board of Peace gathers in Washington for first meeting&nbsp;&nbsp;Financial TimesTrump Promises Billions in Aid to Gaza as Israeli A",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "DW.com",
+              "initials": "D",
+              "domain": "news.google.com",
+              "headline": "Trump: 'Board of Peace' members pledge $5 billion for Gaza",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ2hmdWRoUzB5OGFuaUEzMFByNFRubE5pOEJyYWVxeWNBbGJWX2pSNk9MY2RtSTVjX3R2bDZ0dk0xczZYM0VERkVVU3hDV3hTajVoWVJ4dkRVRE9NMFlPdG5UVjVmZEowejdJbkp1ZlFseEphNXlsZWRaZk1Nb1MtTHN4dnV4YVREcXhxa3hpMXfSAZABQVVfeXFMTk1RSTlnQ1lLOHR0bkdCUEdUak5jOVhTU0t1R0JfcElXeTJpVTVFRlBkVXRkUHlLYnlSRTFzNzJlSUpNTm5xNHpXMWY5RjRtcXI2cnRxcTJjQ0Yyd20zci1JZDBCT2IwZllBNExhQmppQm9pYjM1YVdoSmZoWml3Z1RBdFR6NTZVSkh0MHB2WFpE?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump announces Board of Peace members have pledged more than $5B toward Gaza",
+              "url": "https://thehill.com/policy/international/5739585-5-billion-gaza-reconstruction-board-of-peace/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump announces $5 billion pledge in Gaza aid from Board of Peace members",
+              "url": "https://www.foxnews.com/politics/trump-announces-5-billion-pledge-gaza-aid-board-peace-members"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump says Board of Peace member states have vowed over $5 billion to rebuild Gaza",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4458728/trump-board-of-peace-5-billion-gaza-reconstruction/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Inside Trump’s $5 Billion Gaza Move That Could Shape Middle East’s Next Chapter",
+              "url": "https://www.dailywire.com/news/inside-trumps-5-billion-gaza-move-that-could-shape-middle-easts-next-chapter"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Trump Privately Railed Against 2 GOP Senators Who Criticized His Racist Obama Video: Report",
+          "neutralSummary": "The president shared a video last week depicting former President Barack Obama and former first lady Michelle Obama as apes.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Privately Railed Against 2 GOP Senators Who Criticized His Racist Obama Video: Report",
+              "url": "https://www.huffpost.com/entry/donald-trump-railed-against-gop-lawmakers-criticized-racist-obama-video_n_699089f6e4b0be3c0c97e482"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "In First Public Comments Since Trump’s Racist Video, Obama Laments Lost Decorum",
+              "url": "https://www.nytimes.com/2026/02/15/us/politics/obama-trump-video.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Obama responds to Trump sharing racist AI video depicting him as an ape",
+              "url": "https://www.npr.org/2026/02/15/nx-s1-5715117/obama-racist-ai-video-response-trump"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Investigators focus overnight on car and residence near Nancy Guthrie’s home.",
+          "neutralSummary": "It wasn’t fully",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Investigators focus overnight on car and residence near Nancy Guthrie’s home.",
+              "url": "https://www.nytimes.com/live/2026/02/15/us/nancy-guthrie-case-updates/investigators-focus-overnight-on-car-and-residence-near-nancy-guthries-home"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Authorities conduct operation near Nancy Guthrie’s home in Tucson",
+              "url": "https://www.washingtonpost.com/nation/2026/02/14/nancy-guthrie-missing-update/"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "FBI: DNA from glove near Guthrie home appears to match glove worn by suspect",
+              "url": "https://www.npr.org/2026/02/15/nx-s1-5715252/fbi-dna-glove-guthrie-home-suspect-video"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
           "neutralHeadline": "U.S. Military Strikes Another Alleged Drug Boat In Caribbean, Killing 3",
           "neutralSummary": "The U.S. military says it has carried out another deadly strike on a vessel accused of trafficking drugs in the Caribbean Sea.",
           "versions": [
@@ -296,7 +416,7 @@
           ]
         },
         {
-          "id": "us-2",
+          "id": "us-5",
           "neutralHeadline": "Trump’s Relentless Self-Promotion Fosters an American Cult of Personality",
           "neutralSummary": "President Trump has engaged in a spree of self-aggrandizement unlike any of his predecessors, fostering a mythologized superhuman persona and making himself the inescapable force at home and around the world.",
           "versions": [
@@ -312,9 +432,9 @@
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "Investigators focus overnight on car and residence near Nancy Guthrie’s home.",
-          "neutralSummary": "It wasn’t fully",
+          "id": "us-6",
+          "neutralHeadline": "Texas Students Protest ICE Despite Gov. Greg Abbott’s Threats",
+          "neutralSummary": "In dozens of states, students have staged walkouts over immigration enforcement. In Texas, they’re doing so despite threats from Gov. Greg Abbott.",
           "versions": [
             {
               "political": "left",
@@ -322,33 +442,24 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Investigators focus overnight on car and residence near Nancy Guthrie’s home.",
-              "url": "https://www.nytimes.com/live/2026/02/14/us/nancy-guthrie-case-updates/investigators-focus-overnight-on-car-and-residence-near-nancy-guthries-home"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Authorities conduct operation near Nancy Guthrie’s home in Tucson",
-              "url": "https://www.washingtonpost.com/nation/2026/02/14/nancy-guthrie-missing-update/"
+              "headline": "Texas Students Protest ICE Despite Gov. Greg Abbott’s Threats",
+              "url": "https://www.nytimes.com/2026/02/15/us/student-protests-walkouts-ice-texas.html"
             }
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "5 European nations say Alexei Navalny was poisoned and blame the Kremlin",
-          "neutralSummary": "In a joint statement, the foreign ministries of the U.K., France, Germany, Sweden and the Netherlands say Navalny was poisoned by Russia with a lethal toxin derived from the skin of poison dart frogs.",
+          "id": "us-7",
+          "neutralHeadline": "Democrats’ struggles could be partly because they’re just too old, says Obama",
+          "neutralSummary": "Democrats’ struggles could be partly because they’re just too old, says Obama&nbsp;&nbsp;PoliticoObama says aliens exist, slams US politics&nbsp;&nbsp;The Jerusalem PostObama’s Latest Interview Is an Unbelievable Rewriting of History&nbsp;&nbsp;WCBMObama claims Democrats face greater governing chall",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "5 European nations say Alexei Navalny was poisoned and blame the Kremlin",
-              "url": "https://www.npr.org/2026/02/14/nx-s1-5714517/eu-europe-russia-navalny"
+              "tone": "pessimistic",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Democrats’ struggles could be partly because they’re just too old, says Obama",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWElGMFlveDltTXcteGUzLW03VTEzVjJpVTZVVlVUMjk1N0RzR0RMNFRGc2RTa01JSUZZQ0hteHlVbk5ncmRkZWVyZnRBcFNKQnJ1OHBfU19TU0hCTktfVVU2Nld6U0lhWXE2TEJmT3RZZk5sckVZLUk1dkE2d29pdWtDQVlvZDg0Nmc?oc=5"
             },
             {
               "political": "right",
@@ -356,15 +467,15 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Western Allies Say Alexei Navalny Was Poisoned With Frog Toxin, Accuse Putin’s Kremlin Of Political Murder",
-              "url": "https://www.dailywire.com/news/western-allies-say-alexei-navalny-was-poisoned-with-frog-toxin-accuse-putins-kremlin-of-political-murder"
+              "headline": "Barack Obama On Aliens: ‘They’re Real’",
+              "url": "https://www.dailywire.com/news/barack-obama-on-aliens-theyre-real"
             }
           ]
         },
         {
-          "id": "us-5",
-          "neutralHeadline": "DOJ sends letter to Congress with list of people named in Epstein files, including Trump: Report",
-          "neutralSummary": "The Justice Department (DOJ) sent a letter to Congress on Saturday outlining its justification for redactions made in the released Jeffrey Epstein files, according to Politico. The six-page letter to the leaders of the Senate and House Judiciary committees also included a list of “all government off",
+          "id": "us-8",
+          "neutralHeadline": "Kelly rails against Trump as Munich Security Conference ends",
+          "neutralSummary": "As he departed the Munich Security Conference on Sunday, Sen. Mark Kelly (D-Ariz.) sharply criticized President Trump for destabilizing NATO. Kelly wrote on the social platform X that it took the president “less than a year to practically destroy” the NATO alliance, adding that Russia and China are",
           "versions": [
             {
               "political": "center",
@@ -372,24 +483,24 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "DOJ sends letter to Congress with list of people named in Epstein files, including Trump: Report",
-              "url": "https://thehill.com/homenews/administration/5739338-justice-department-epstein-files/"
+              "headline": "Kelly rails against Trump as Munich Security Conference ends",
+              "url": "https://thehill.com/homenews/senate/5739714-kelly-rails-against-trump-as-munich-security-conference-ends/"
             },
             {
               "political": "right",
-              "tone": "pessimistic",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "DOJ sends Congress list of names who appear in Jeffrey Epstein files, defends redactions in 6-page letter",
-              "url": "https://nypost.com/2026/02/15/us-news/doj-sends-congress-list-of-names-who-appear-in-jeffrey-epstein-files-defends-redactions-in-6-page-letter/"
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Hillary Clinton clashes with Czech leader over Trump policies at Munich security conference",
+              "url": "https://www.foxnews.com/politics/hillary-clinton-clashes-czech-leader-over-trump-policies-munich-security-conference"
             }
           ]
         },
         {
-          "id": "us-6",
-          "neutralHeadline": "Hillary Clinton says migration 'went too far' and 'needs to be fixed in a humane way'",
-          "neutralSummary": "Hillary Clinton appears to shift stance on immigration, calling migration &quot;disruptive&quot; and advocating for secure borders at Munich Security Conference.",
+          "id": "us-9",
+          "neutralHeadline": "Democrats say Trump redistricting push backfiring as Virginia advances new House maps",
+          "neutralSummary": "Democrats believe the congressional maps making their way through Virginia&apos;s legislature, aimed at snuffing out a GOP House majority, is a product Trump put into motion himself.",
           "versions": [
             {
               "political": "right",
@@ -397,65 +508,17 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Hillary Clinton says migration 'went too far' and 'needs to be fixed in a humane way'",
-              "url": "https://www.foxnews.com/politics/hillary-clinton-says-migration-went-too-far-needs-fixed-humane-way"
+              "headline": "Democrats say Trump redistricting push backfiring as Virginia advances new House maps",
+              "url": "https://www.foxnews.com/politics/democrats-say-trump-redistricting-push-backfiring-virginia-advances-new-house-maps"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Hillary Clinton says migration ‘went too far’ and ‘needs to be fixed in a humane way’",
-              "url": "https://nypost.com/2026/02/14/us-news/hillary-clinton-says-migration-went-too-far-and-needs-to-be-fixed-in-a-humane-way-at-munich-security-conference/"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Ex-White House Lawyer Skewers 3 Top Trump Officials: 'Those People Should Be Impeached'",
-          "neutralSummary": "Ty Cobb said the officials have overseen \"war crimes,\" supervised \"the execution of American citizens\" and are \"unfit for office.\" &nbsp;",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Ex-White House Lawyer Skewers 3 Top Trump Officials: 'Those People Should Be Impeached'",
-              "url": "https://www.huffpost.com/entry/former-white-house-lawyer-ty-cobb-bondi-noem-hegseth-should-be-impeached_n_6990ba02e4b01c7b6eaf857c"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Trump Privately Railed Against 2 GOP Senators Who Criticized His Racist Obama Video: Report",
-          "neutralSummary": "The president shared a video last week depicting former President Barack Obama and former first lady Michelle Obama as apes.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Privately Railed Against 2 GOP Senators Who Criticized His Racist Obama Video: Report",
-              "url": "https://www.huffpost.com/entry/donald-trump-railed-against-gop-lawmakers-criticized-racist-obama-video_n_699089f6e4b0be3c0c97e482"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Trump Breaks Up With Bill Maher On Valentine's Day",
-          "neutralSummary": "\"Sometimes in life you waste time!\" President Donald Trump said about his dinner date with self-described comedian Bill Maher.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Breaks Up With Bill Maher On Valentine's Day",
-              "url": "https://www.huffpost.com/entry/trump-breaks-up-with-bill-maher-on-valentines-day_n_6990b5eee4b0d24cb0c47b58"
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Democrats will do ‘whatever it takes’ to pass Virginia redistricting plan, Jeffries says",
+              "url": "https://www.washingtonexaminer.com/news/4458780/democrats-pass-virginia-redistricting-plan-jeffries/"
             }
           ]
         }
@@ -466,6 +529,22 @@
       "stories": [
         {
           "id": "singapore-1",
+          "neutralHeadline": "Singapore’s harmony must be actively renewed, says PM Wong in Chinese New Year message",
+          "neutralSummary": "The holy month of Ramadan for Muslims is expected to start on Feb 19, the third day of Chinese New Year.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Singapore’s harmony must be actively renewed, says PM Wong in Chinese New Year message",
+              "url": "https://www.straitstimes.com/singapore/singapores-harmony-must-be-actively-renewed-says-pm-wong-in-chinese-new-year-message"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
           "neutralHeadline": "More than 1,000 GP clinics to remain open over Chinese New Year period",
           "neutralSummary": "Those experiencing only minor conditions should avoid calling the 995 hotline, added MOH.",
           "versions": [
@@ -490,50 +569,9 @@
           ]
         },
         {
-          "id": "singapore-2",
-          "neutralHeadline": "Fire breaks out at bak kwa shop 2 days before Chinese New Year",
-          "neutralSummary": "Because of the fire, the owner said the shop is unable to fulfil about 400 orders worth about $100,000.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Fire breaks out at bak kwa shop 2 days before Chinese New Year",
-              "url": "https://www.straitstimes.com/singapore/fire-breaks-out-in-bak-kwa-shop-in-little-india"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Fire breaks out at bak kwa shop, causing delivery delays two days before Chinese New Year",
-              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHpjNGxtWTg5ZVFMNWRTRXhCeUJBUFFtS1FYMHNSUEc5SW5Vb3l2aVM3QmtnemQxeGhGRlRqbUdIclZ2eUYzSnRkR2ltd0ROTWNJbW5GOEtCSkYzVFdGcktEWUQ0XzF1QVhTX0p6TFoyOEFKVDdwMi1VZXVDOW01SWRfOFVpY3pKUk1OMGlNUEJKZw?oc=5"
-            }
-          ]
-        },
-        {
           "id": "singapore-3",
-          "neutralHeadline": "Elderly Singaporean man with mild dementia found in KL after 8-day search",
-          "neutralSummary": "Mr Halim Yunos, 76, was last seen on Feb 7 at Anggun Residences in Chow Kit district.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Elderly Singaporean man with mild dementia found in KL after 8-day search",
-              "url": "https://www.straitstimes.com/singapore/elderly-singaporean-man-with-mild-dementia-found-in-kl-after-8-day-search"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "China is the real threat, Taiwan says in rebuff to Munich speech",
-          "neutralSummary": "Chinese Foreign Minister Wang Yi warned at the Munich Security Conference that some countries were \"trying to split Taiwan from China\".",
+          "neutralHeadline": "From homecoming to ‘reverse Spring Festival travel’: How Chinese New Year reunions are changing in China",
+          "neutralSummary": "Changing work patterns, improved transport links and evolving ideas of family and tradition are signalling a subtle shift in China’s centuries-old homecoming tradition.",
           "versions": [
             {
               "political": "center",
@@ -541,31 +579,56 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "China is the real threat, Taiwan says in rebuff to Munich speech",
-              "url": "https://www.channelnewsasia.com/east-asia/china-real-threat-taiwan-says-in-rebuff-munich-speech-5932471"
+              "headline": "From homecoming to ‘reverse Spring Festival travel’: How Chinese New Year reunions are changing in China",
+              "url": "https://www.channelnewsasia.com/east-asia/china-chinese-new-year-reverse-reunion-travel-families-5925176"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Japan's economy limps back to scant growth in Q4, raises test for Takaichi",
+          "neutralSummary": "Japan's economy limps back to scant growth in Q4, raises test for Takaichi",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Japan's economy limps back to scant growth in Q4, raises test for Takaichi",
+              "url": "https://www.channelnewsasia.com/business/japan-economy-gdp-barely-grows-q4-sanae-takaichi-5933441"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Japan Posts Anemic Growth as Takaichi Eyes Spending  | The Asia Trade 2/16/2026",
+              "url": "https://www.bloomberg.com/news/videos/2026-02-16/the-asia-trade-2-16-2026-video"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "Feeling free in water: 10-year-old boy with spinal muscular atrophy learns to defy physical limits",
-          "neutralSummary": "Swimming offers something rare - independence and a chance to move freely - for the Primary 5 boy.",
+          "neutralHeadline": "Singapore targets four industries for AI transformation, but experts say workforce readiness a key hurdle",
+          "neutralSummary": "The AI missions will focus on advanced manufacturing, connectivity, finance and healthcare – sectors that form the core of Singapore's economy and public welfare, experts say.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Feeling free in water: 10-year-old boy with spinal muscular atrophy learns to defy physical limits",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/feeling-free-in-water-10-year-old-boy-with-spinal-muscular-atrophy-learns-to-defy-physical-limits"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Singapore targets four industries for AI transformation, but experts say workforce readiness a key hurdle",
+              "url": "https://www.channelnewsasia.com/singapore/ai-missions-healthcare-finance-sectors-sme-budget-2026-5929931"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "Is your child’s handwriting costing him marks? The write way to better grades",
-          "neutralSummary": "Experts say it does not take long for handwriting to improve.",
+          "neutralHeadline": "Man accused of helping transnational investment scam syndicate targeting S’pore residents",
+          "neutralSummary": "Mohd Khairool Faizal Azlan allegedly collected money from victims for scammers.",
           "versions": [
             {
               "political": "center",
@@ -573,15 +636,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Is your child’s handwriting costing him marks? The write way to better grades",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/is-your-childs-handwriting-costing-him-marks-the-write-way-to-better-grades"
+              "headline": "Man accused of helping transnational investment scam syndicate targeting S’pore residents",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/man-accused-of-helping-transnational-investment-scam-syndicate-targeting-spore-residents"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "How to reduce your child’s screen time without straining your relationship",
-          "neutralSummary": "Reducing a child’s screen time is a challenge, but it helps to do so with empathy and communication.",
+          "neutralHeadline": "Man jailed for speeding over 30kmh above limit in Bukit Batok, killing elderly woman",
+          "neutralSummary": "Investigations found he did not apply the brakes until 0.2 second before hitting the woman.",
           "versions": [
             {
               "political": "center",
@@ -589,15 +652,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "How to reduce your child’s screen time without straining your relationship",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/how-to-reduce-your-childs-screen-time-without-straining-your-relationship"
+              "headline": "Man jailed for speeding over 30kmh above limit in Bukit Batok, killing elderly woman",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/man-jailed-for-speeding-over-30-kmh-above-limit-in-bukit-batok-killing-elderly-woman"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "7 hotels in Singapore and Johor to book for March school holidays and beyond",
-          "neutralSummary": "These child-friendly hotels are also perfect for spontaneous weekend getaways.",
+          "neutralHeadline": "Minister Indranee Rajah answers questions about Budget 2026",
+          "neutralSummary": "The Second Minister for Finance will share more about why the Government is doubling down on its AI strategy.",
           "versions": [
             {
               "political": "center",
@@ -605,15 +668,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "7 hotels in Singapore and Johor to book for March school holidays and beyond",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/7-hotels-in-singapore-and-johor-to-book-for-march-school-holidays-and-beyond"
+              "headline": "Minister Indranee Rajah answers questions about Budget 2026",
+              "url": "https://www.straitstimes.com/singapore/minister-indranee-rajah-answers-questions-about-budget-2026"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Should you and your PSLE child take a holiday in March?",
-          "neutralSummary": "There are also tips on how to make the most of a March break for those considering one.",
+          "neutralHeadline": "Year of the Horse: Inside Singapore’s first effort to captive-breed coastal horseshoe crabs",
+          "neutralSummary": "The Straits Times dives into the race to conserve two native animals with horse-linked names.",
           "versions": [
             {
               "political": "center",
@@ -621,8 +684,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Should you and your PSLE child take a holiday in March?",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/should-you-and-your-psle-child-take-a-holiday-in-march"
+              "headline": "Year of the Horse: Inside Singapore’s first effort to captive-breed coastal horseshoe crabs",
+              "url": "https://www.straitstimes.com/singapore/environment/year-of-the-horse-inside-spores-first-effort-to-captive-breed-coastal-horseshoe-crabs"
             }
           ]
         }
@@ -633,42 +696,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Algorithms to outcomes: India’s moment to re-engineer AI for human impact, writes IIT-K director ahead of Delhi summit",
-          "neutralSummary": "Opinion | India’s AI journey is different from that of advanced economies. Our scale is vast, margins thin, diversity unparalleled, which leads to innovation.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "India Has Potential To Lead In AI: Sam Altman Ahead Of AI Impact Summit",
-              "url": "https://www.ndtv.com/india-news/india-ai-impact-summit-2026-india-has-potential-to-lead-in-ai-sam-altman-ahead-of-ai-impact-summit-11006719#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Algorithms to outcomes: India’s moment to re-engineer AI for human impact, writes IIT-K director ahead of Delhi summit",
-              "url": "https://www.hindustantimes.com/technology/indias-moment-to-re-engineer-artificial-intelligence-iit-kharagpur-director-suman-chakraborty-writes-on-delhi-summit-101771154779352.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Oreshkin to lead Russia at AI Summit",
-              "url": "https://economictimes.indiatimes.com/news/india/top-putin-aide-maxim-oreshkin-to-lead-russian-delegation-for-ai-impact-summit-in-new-delhi/articleshow/128381877.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "Shivaji–Tipu row: 9 injured in BJP–Congress clash after Sapkal remark",
-          "neutralSummary": "Shivaji–Tipu row: 9 injured in BJP–Congress clash after Sapkal remark",
+          "neutralHeadline": "India’s first ‘cow culture museum’ to come up in UP's Mathura, says govt body",
+          "neutralSummary": "Exhibition dedicated to cow milk and its products will be an attraction, people to be informed about their benefits by using modern techniques, official said.",
           "versions": [
             {
               "political": "left",
@@ -676,24 +705,49 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Shivaji-Tipu remarks: BJP, Congress workers pelt stones in Pune, 9 injured; cops to book both sides",
-              "url": "https://www.thehindu.com/news/national/maharashtra/shivaji-tipu-remarks-bjp-congress-workers-pelt-stones-in-pune-9-injured-cops-to-book-both-sides/article70635408.ece"
+              "headline": "India's first ‘cow culture’ museum to open in U.P.'s Mathura",
+              "url": "https://www.thehindu.com/news/national/uttar-pradesh/indias-first-cow-culture-museum-to-open-in-ups-mathura/article70637271.ece"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Shivaji–Tipu row: 9 injured in BJP–Congress clash after Sapkal remark",
-              "url": "https://timesofindia.indiatimes.com/india/row-over-chhatrapati-shivaji-maharajtipu-sultan-comparison-9-injured-as-bjp-congress-workers-clash-in-stone-pelting-after-sapkals-remarks/articleshow/128383580.cms"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "India’s first ‘cow culture museum’ to come up in UP's Mathura, says govt body",
+              "url": "https://www.hindustantimes.com/india-news/indias-first-cow-culture-museum-to-come-up-in-ups-mathura-says-govt-body-101771204321581.html"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "Who is attending AI Impact Summit 2026? Macron, Lula and more among key leaders in Delhi | Full list",
+          "neutralSummary": "French President Emmanuel Macron, Brazilian President Luiz Inácio Lula da Silva are among the key leaders who will be attending the AI Summit.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "AI Impact Summit: U.K. Deputy PM calls Delhi summit ‘important moment' to unlock full benefits of AI",
+              "url": "https://www.thehindu.com/news/international/ai-impact-summit-uk-deputy-pm-calls-delhi-summit-important-moment-to-unlock-full-benefits-of-ai/article70637241.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Who is attending AI Impact Summit 2026? Macron, Lula and more among key leaders in Delhi | Full list",
+              "url": "https://www.hindustantimes.com/india-news/who-is-attending-ai-impact-summit-2026-macron-lula-and-more-among-key-leaders-in-delhi-full-list-101771210066399.html"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "After India-US trade deal, PM Modi hails 'political stability' for surge in investor trust",
-          "neutralSummary": "Modi said that India had negotiated trade pacts from a position of strength.",
+          "neutralHeadline": "'Shape a progressive future': PM Modi as India hosts AI Impact Summit 2026",
+          "neutralSummary": "PM Modi thanked the 1.4 billion people of India, stating that the nation stands at the forefront of the AI transformation.",
           "versions": [
             {
               "political": "left",
@@ -701,8 +755,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "PM Modi On How India Negotiated Trade Pacts From \"Position Of Strength\"",
-              "url": "https://www.ndtv.com/india-news/india-us-trade-deal-pm-modi-on-how-india-negotiated-trade-pacts-from-position-of-strength-11007010#publisher=newsstand"
+              "headline": "India Eyes Big Role In Shaping AI Future With Mega Tech Chiefs Summit",
+              "url": "https://www.ndtv.com/india-news/ai-summit-2026-india-eyes-big-role-in-shaping-ai-future-with-mega-tech-chiefs-summit-11008741#publisher=newsstand"
             },
             {
               "political": "center",
@@ -710,15 +764,15 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "After India-US trade deal, PM Modi hails 'political stability' for surge in investor trust",
-              "url": "https://www.hindustantimes.com/india-news/pm-modi-credits-political-stability-for-surge-in-investor-trust-after-india-us-trade-deal-101771159323799.html"
+              "headline": "'Shape a progressive future': PM Modi as India hosts AI Impact Summit 2026",
+              "url": "https://www.hindustantimes.com/india-news/shape-a-progressive-future-pm-modi-as-india-hosts-ai-impact-summit-2026-delhi-bharat-mandapam-101771212960731.html"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "'Deep friendship': Birla, Misri to attend Tarique Rahman's oath-taking in Dhaka",
-          "neutralSummary": "Lok Sabha Speaker Om Birla will represent India at the swearing-in of Bangladesh's PM-elect Tarique Rahman, following the BNP's landslide victory. Foreign Secretary Vikram Misri will accompany Birla. This event marks a significant diplomatic shift for Dhaka, especially after former PM Sheikh Hasina'",
+          "neutralHeadline": "Four Hindus elected to Bangladesh parliament",
+          "neutralSummary": "Four Hindus elected to Bangladesh parliament",
           "versions": [
             {
               "political": "left",
@@ -726,58 +780,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Om Birla To Represent India At Tarique Rahman's Oath Ceremony In Bangladesh",
-              "url": "https://www.ndtv.com/world-news/lok-sabha-speaker-om-birla-to-represent-india-at-tarique-rahmans-oath-ceremony-in-bangladesh-11006775#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Deep friendship': Birla, Misri to attend Tarique Rahman's oath-taking in Dhaka",
-              "url": "https://timesofindia.indiatimes.com/india/india-deputes-om-birla-vikram-misri-to-dhaka-for-bangladesh-pm-elect-tarique-rahmans-swearing-in/articleshow/128379302.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "India-UK trade agreement likely to come into force in April: Report",
-          "neutralSummary": "India and the UK's free trade agreement, signed last year, is slated for implementation by April 2026. This pact promises 99% duty-free access for Indian exports to Britain, while India will lower tariffs on cars and whisky.  Parliamentary approval is currently underway in the UK, paving the way for",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "India-UK trade agreement likely to come into force in April: Report",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/india-uk-trade-agreement-likely-to-come-into-force-in-april-report/articleshow/128384095.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Moneycontrol",
-              "initials": "M",
-              "domain": "news.google.com",
-              "headline": "India-UK trade deal implementation likely in April; whisky, auto tariffs to fall",
-              "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOENLdmVZbjNKWE9wUzFxN3dsRkg3RWZWT3FfQ0FnSFNqZlhqVTJueVhadS03NEhvZi1EdnN3WmJiMndfLXF4OWJXcEJQZEZuZWxmZGd4UDd2U0xjNkVNQ0xwLXFGYW5QTExSV1o4T0U1bDl1Q3AxR2p6dGtZQmUxWnpJTDlGZWlWTHQwLWF5U1FQaUNoTG9sRlRCbWFEbS12ejBkQVdOYm01cWhGWm1BS0FDLTU1WjUyQkFRSThlR0t5MVB1eDk2UVBNSVN3VXB0VEsyRmVPWjhDWnfSAeABQVVfeXFMTmdVaDY5aWZONXJfMlh5VVAyV2FVYS1SWDFyV2diallZNG81bDN2S0RIajNYX1RZNnlEVmV0dXE5b3ZxclRPeVgyNThPdTF0TDJmczNBMDc4eGRKUEVrRnl2ejN5dXhqdy1zYTRYYlkxcUprTGtvSk9tR1JlUlpST2c1amN0OWQtcEdFZmNxZGhWTXgybkhaMnFwemxkU0ZsWnVVZmlPSDdlcmxtaDRJM2hmQVRTQTdqN3o0X0ljRDVFYUxEUGZhdXBrMlhWaDhHQnhrQ2R5emd6eEJMS0ZUclE?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "18,000 Indians, 12,000 Pakistanis, and 2,000 SL Police: Scale of India-Pakistan showdown",
-          "neutralSummary": "Tens of thousands of Indian and Pakistani fans have converged on Colombo for the high-voltage India-Pakistan clash, turning the city into a fortress with massive security deployment. Beyond politics and critique, the match has energised local livelihoods, packed the stadium to capacity and reaffirme",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "18,000 Indians, 12,000 Pakistanis, and 2,000 SL Police: Scale of India-Pakistan showdown",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/18000-indians-12000-pakistanis-and-2000-sri-lankan-police-the-scale-of-the-india-pakistan-showdown/articleshow/128377821.cms"
+              "headline": "Hindus Among Four From Minority Communities Elected To Bangladesh Parliament",
+              "url": "https://www.ndtv.com/world-news/bangladesh-election-results-2026-hindus-among-four-from-minority-communities-elected-to-parliament-11008302#publisher=newsstand"
             },
             {
               "political": "center",
@@ -785,83 +789,124 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "India vs Pakistan T20 match schedule",
-              "url": "https://economictimes.indiatimes.com/news/sports/ind-vs-pak-icc-mens-t20-world-cup-2026-match-schedule-date-venue-time-india-vs-pakistan/articleshow/128375647.cms"
+              "headline": "Four Hindus elected to Bangladesh parliament",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/hindus-among-four-from-minority-communities-elected-to-bangladesh-parliament/articleshow/128402760.cms"
             }
           ]
         },
         {
-          "id": "india-7",
-          "neutralHeadline": "Rahul Gandhi's 'simple questions' on India-US trade deal vs Amit Shah's ‘spreading lies’ barb",
-          "neutralSummary": "Rahul Gandhi posed five “simple questions” to the Centre, claiming that the US trade deal would lead to a “betrayal of Indian farmers.”",
+          "id": "india-5",
+          "neutralHeadline": "Stalin urges PM Modi to give legal status to Lankan Tamils in India",
+          "neutralSummary": "Chennai CM MK Stalin urged PM Modi to grant legal status to Sri Lankan Tamils in India, seeking to waive visa requirements and streamline citizenship processes.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "MK Stalin Urges PM Modi To Solve Citizenship Issues Of 89,000 Lankan Tamils",
+              "url": "https://www.ndtv.com/tamil-nadu-news/ahead-of-assembly-polls-tamil-nadu-chief-minister-mk-stalin-urges-pm-narendra-modi-to-solve-citizenship-issues-of-89-000-sri-lankan-tamils-in-state-11008654#publisher=newsstand"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Rahul Gandhi's 'simple questions' on India-US trade deal vs Amit Shah's ‘spreading lies’ barb",
-              "url": "https://www.hindustantimes.com/india-news/rahul-gandhis-simple-questions-on-india-us-trade-deal-vs-amit-shah-spreading-lies-barb-101771151534781.html"
+              "headline": "Stalin urges PM Modi to give legal status to Lankan Tamils in India",
+              "url": "https://www.hindustantimes.com/india-news/stalin-urges-pm-modi-to-give-legal-status-to-lankan-tamils-in-india-101771185387416.html"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "OpenClaw creator Peter Steinberger joins OpenAI, Sam Altman says will drive next-gen AI personal agents",
+          "neutralSummary": "OpenClaw creator Peter Steinberger joins OpenAI, Sam Altman says will drive next-gen AI personal agents&nbsp;&nbsp;MintOpenClaw creator Peter Steinberger joining OpenAI, Altman Says&nbsp;&nbsp;CNBCOpenAI hires OpenClaw creator Steinberger in AI agent push By Investing.com&nbsp;&nbsp;Investing.com In",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "OpenClaw founder Steinberger joins OpenAI, open-source bot becomes foundation",
+              "url": "https://indianexpress.com/article/technology/tech-news-technology/openclaw-founder-steinberger-joins-openai-open-source-bot-becomes-foundation-10534470/"
             },
             {
               "political": "center",
-              "tone": "optimistic",
+              "tone": "neutral",
+              "source": "Mint",
+              "initials": "MINT",
+              "domain": "news.google.com",
+              "headline": "OpenClaw creator Peter Steinberger joins OpenAI, Sam Altman says will drive next-gen AI personal agents",
+              "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOZkp1dnYwbUt3SVIybFVneEhDRTdkUVRPWU41TVJFcnlNT1F6cGZ2b3JSU2h1RE44N2hpZWVZRU1JU2k0WGdkSV92Qkl3RmtYTmYtU0NsYXJUdzZlb3dqRUpBcEcxVXJLQWlsQkJTZjF6NndOV3RhdEJrWTIzazY0UzZCc3BPRW91X2R1UE12M1A4Q0xCWGNONnYtZXljZU1YS3kwSm96cXZ1NFpTQzZlZ0pTRkRhV0ZfMlpzU19mOEFKb0pTRk1IMWpZdWNYRk0tZTFwODVqeWt1bVhUd0M5LUVFbGVPakpZTEE1ZHJKTlIzR081Y253VXBjNnpSbXk2d0YxMzZ3SDAwcjFqZHAw0gGUAkFVX3lxTE1US0hvWWNnUnhaR0FBcWN3NXBSM3l2Y1E4Z1duUDFxaVRpMWdIR0hObmV5UXNUU21mNUxEU2dfOFNRSEUxY2RMa2pMNjdTSC1TLWU4b01DM1RJTjVZanYzN3RSeUtVNm13MUJjM3FkODA2UlhqZTlzdkZ1SmU5MUpyMzdGWlY3QTR0LUNVaVpJMGZUVVZiYXRYdzJNcmgwQ1JmcXpOY2V5QUhpSGVFVS1aVnJFV1diRExMaU5vWjJ6SW84VnlRclhqaW1UY3VtaWg4VnpNZkpmLXJueDFwRjJud0tuSmNFVk9rTXhoZFdMZkJXZE9rdnFMWFh4MVlSMGhpQ1E5YVNvdVI5ZVNzVlFDMmFBbg?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Samajwadi Party leader dies after 1,000kg lighting pole crashes on his SUV",
+          "neutralSummary": "A Samajwadi Party leader, Lal Bahadur Yadav, was killed when a 1,000-kg high mast lighting pole collapsed onto his moving car in Pratapgarh. The incident occurred during installation near Babuganj market, with eyewitnesses stating the pole lost balance suddenly. Police are investigating the alleged",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Samajwadi Party leader dies after 1,000kg lighting pole crashes on his SUV",
+              "url": "https://timesofindia.indiatimes.com/city/lucknow/high-mast-pole-falls-on-car-sp-leader-crushed-to-death/articleshow/128394856.cms"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
               "source": "Today",
               "initials": "TD",
               "domain": "news.google.com",
-              "headline": "Farmers betrayed: Rahul Gandhi's 5 easy questions to PM over India-US trade deal",
-              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOY2Vsd2FWMWlORm5CYTA4eGlSZFRhRHhxMDVoWTgtaFZObThYQVY5enVXdGhtVU5hVklwSkhBWWstcU1QOEdQdUUxekNWc2dxZ2hBbmtnOUM0cVlvaklaVDM2UTdNX2RkcnE0VWRnYkd1cWlqX3poalhsSUM0aXgzaWpEeEplOXlweHJ2ZEJOajhRcW9nYTF5TkdpOWJ3b3Q1UEw2ZFNNdEFCWk56czhrZFgxbnNzRzNOWHIxT2NGMURzQV8yUnF6b2tRa1FtZmpDSS0wSl8zOVc4UlBrc3VrWk5MdWxfWGdNZ0VUY9IB8gFBVV95cUxNRW5xTmdJLWhxcTRaWGg5YnpzTzJFNlV1U0tlM0dhRTdVOGtfUlYyNm5UMzBKMF9iNnVNNkl1MUczem8yZ0E2MzlqR19PY2Z1Q1hLekdhQ3BKN193cGdRYXRNY0lBRDBZSkRJSkR0MnotOWlHTk1IWk03OUEyZGtTQUoyaUtJNk1tbU9ITFFpZnNyVkNFMEFLS2JiNUZZdGQxaXhTSGdLM2JGeHBRY2ZtaWxkMXJ2STNOZS1SOGpGdEh5SkpUaXJTRC1LTWY2dDEzV0lwMzEtYUk3RGwwNVlLaEFBcVczTENOSlhZc3lUek9wZw?oc=5"
+              "headline": "Samajwadi Party leader killed as high mast pole falls on moving car in UP",
+              "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOWQyQVEtN1oxSEJDU0EyRmxDVF80bTV1NGxCMGdLODlQdU9qclF2cHBDUmo0WV82aFJiZUhabjhlN0JPYWxHLWd5c3RqeEpMQTFkcGdkRHlKUG92bGtFX2lZWnNwaGJoVTY3VVYtVlFYb3Y5TG1BTE4yWDZ4RVFKT0MxaVg0Sk1NMGkxWERQM0ZhbjdSWjE1RDk4WFdSV05EbEdLUjlWN2hVaWR1R3JDWVFNdDRTdVlzM1FUbzF2elZVbXFpRHpxejNHdUt6TmRjZm5yZXhvU0Z3LTZTa2QyS2w2Q1NEYW8?oc=5"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "West’s civil unrest comes with an insurance sting",
-          "neutralSummary": "West’s civil unrest comes with an insurance sting",
+          "neutralHeadline": "EC suspends 7 Bengal officials over ‘serious misconduct’ linked to SIR",
+          "neutralSummary": "The Election Commission of India has suspended seven officials in West Bengal for alleged serious misconduct and dereliction of duty. These Assistant Electoral Registration Officers, posted across Murshidabad, South 24 Parganas, West Medinipur, and Jalpaiguri districts, face immediate disciplinary p",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "West’s civil unrest comes with an insurance sting",
-              "url": "https://economictimes.indiatimes.com/news/international/business/rich-worlds-growing-civil-unrest-comes-with-an-insurance-sting/articleshow/128379118.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Rich World’s Growing Civil Unrest Comes With an Insurance Sting",
-              "url": "https://www.bloomberg.com/news/articles/2026-02-15/rich-world-s-growing-civil-unrest-comes-with-an-insurance-sting"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "EC suspends 7 Bengal officials over ‘serious misconduct’ linked to SIR",
+              "url": "https://timesofindia.indiatimes.com/india/election-commission-suspends-7-west-bengal-officials-over-serious-misconduct-linked-to-sir/articleshow/128403390.cms"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "India gears up for global dialogue on AI",
-          "neutralSummary": "India gears up for global dialogue on AI",
+          "neutralHeadline": "AI Impact Summit to kick-off at 10am at Bharat Mandapam; PM Modi to inaugurate",
+          "neutralSummary": "India AI Impact Summit 2026 commences today in New Delhi, inaugurated by Prime Minister Narendra Modi. This landmark event, the first in the Global South, attracts global tech titans like Sundar Pichai and Sam Altman. Focused on people, planet, and progress, the five-day summit aims to foster equita",
           "versions": [
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "India gears up for global dialogue on AI",
-              "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-impact-summit-india-gears-up-for-global-dialogue-on-artificial-intelligence/articleshow/128375198.cms"
+              "tone": "optimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "AI Impact Summit to kick-off at 10am at Bharat Mandapam; PM Modi to inaugurate",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-impact-summit-2026-kicks-off-at-bharat-mandapam-at-10-am-prime-minister-narendra-modi-to-inaugurate-the-expo/articleshow/128405687.cms"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Financial Times",
-              "initials": "FT",
-              "domain": "news.google.com",
-              "headline": "India seeks to broker consensus on global ‘AI commons’",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxb2VqUzlQWHZRRy1RY3VQZkplX0szRVJQRkhmVFlYOFBCVGI5VzZEZnhmYUt3MzM5MzhUbG54LTVFamJDbTZSVVMyZWFfaDNEejROWER6U1dFcmhZQmx6d1ZhOEFNdFgtd3k3RkxFSm8?oc=5"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "AI Impact Summit 2026 LIVE updates: PM Modi ‘immensely proud’ of global event in Delhi",
+              "url": "https://www.hindustantimes.com/india-news/ai-impact-summit-delhi-2026-delhi-summit-ai-impact-summit-bharat-mandapam-summit-narendra-modi-delhi-expo-ai-expo-101771203756704.html"
             }
           ]
         }
