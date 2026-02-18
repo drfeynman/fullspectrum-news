@@ -1,21 +1,30 @@
 {
-  "generatedAt": "2026-02-17T14:09:38.376944+00:00",
+  "generatedAt": "2026-02-18T04:11:35.923384+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "US and Iran to hold second round of nuclear talks",
-          "neutralSummary": "The US and Iran are expected to hold their second round of talks about Iran’s nuclear program Tuesday in Geneva as the United States ramps up its military presence in the Middle East and Iran holds large-scale maritime exercises.",
+          "neutralHeadline": "Oil Holds Drop as US and Iran Signal Progress in Nuclear Talks",
+          "neutralSummary": "Oil held a decline after positive talks between the US and Iran over the OPEC member’s nuclear program, paring crude’s risk premium.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Khamenei Warns Trump As U.S. And Iran Begin Nuclear Talks In Geneva",
+              "url": "https://www.huffpost.com/entry/us-iran-nuclear-talks-geneva_n_699450e9e4b018d15237e247"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Nuclear talks between US and Iran end in Geneva",
+              "headline": "Iran says 'guiding principles' agreed with US at nuclear talks",
               "url": "https://www.bbc.com/news/articles/cwyknjnd706o?at_medium=RSS&at_campaign=rss"
             },
             {
@@ -28,22 +37,13 @@
               "url": "https://www.npr.org/2026/02/17/g-s1-110385/up-first-newsletter-iran-geneva-ice-shooting-texas-trial-jesse-jackson-alex-pretti"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Iran and US open second round of nuclear talks in Switzerland",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/iran-and-us-open-second-round-of-nuclear-talks-in-switzerland?traffic_source=rss"
-            },
-            {
               "political": "center",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "US and Iran to hold second round of nuclear talks",
-              "url": "https://www.france24.com/en/video/20260217-us-and-iran-to-hold-second-round-of-nuclear-talks"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Oil Holds Drop as US and Iran Signal Progress in Nuclear Talks",
+              "url": "https://www.bloomberg.com/news/articles/2026-02-17/oil-holds-drop-as-us-and-iran-signal-progress-in-nuclear-talks"
             },
             {
               "political": "right",
@@ -51,22 +51,140 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Iran launches war drills in Hormuz Strait as US carrier is flying missions 24/7 before Geneva talks",
-              "url": "https://www.foxnews.com/world/iran-launches-war-drills-hormuz-strait-us-carrier-flying-missions-24-7-geneva-talks"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Iran’s supreme leader taunts Trump, US as high-stakes nuclear talks begin: ‘Slapped so hard’",
-              "url": "https://nypost.com/2026/02/17/us-news/irans-supreme-leader-taunts-trump-us-as-high-stakes-nuclear-talks-begin/"
+              "headline": "Iran fires live missiles into Strait of Hormuz as Trump envoys arrive for nuclear talks",
+              "url": "https://www.foxnews.com/world/iran-fires-live-missiles-strait-hormuz-trump-envoys-arrive-nuclear-talks"
             }
           ]
         },
         {
           "id": "global-2",
+          "neutralHeadline": "LIVE: Ukraine war talks to resume in Geneva with no sign of breakthrough",
+          "neutralSummary": "Ukrainian and Russian negotiators were to resume a second round of US-mediated peace talks in Geneva on Wednesday, though neither side signalled they were any closer to ending Europe's deadliest conflict since World War II. Follow our liveblog for the latest updates.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "First day of Russia-Ukraine peace talks ends in Geneva",
+              "url": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Russia-Ukraine war: List of key events, day 1,455",
+              "url": "https://www.aljazeera.com/news/2026/2/18/russia-ukraine-war-list-of-key-events-day-1455?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "LIVE: Ukraine war talks to resume in Geneva with no sign of breakthrough",
+              "url": "https://www.france24.com/en/europe/20260218-live-ukraine-war-talks-to-resume-in-geneva-with-no-sign-of-breakthrough"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Peru’s president ousted in ‘express impeachment’ after just four months",
+          "neutralSummary": "Interim president José Jerí voted out by country’s congress amid scandal concerning secretive meetings Peru’s interim president has been forced out of office in an “express impeachment” after a political scandal over his secretive meetings with Chinese businessmen.Lawmakers voted by 75 votes to 24 t",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Peru’s president ousted in ‘express impeachment’ after just four months",
+              "url": "https://www.theguardian.com/world/2026/feb/17/perus-president-ousted-in-express-impeachment-after-just-four-months"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Peru's president impeached four months into term",
+              "url": "https://www.bbc.com/news/articles/cz7gvdx457vo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Peru sinks deeper into chaos as seventh president in ten years ousted in ‘Chifagate’ scandal",
+              "url": "https://www.foxnews.com/world/peru-sinks-deeper-chaos-seventh-president-ten-years-ousted-chifagate-scandal"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Tributes pour in for Jesse Jackson, icon of the American civil rights movement",
+          "neutralSummary": "Tributes are pouring in for the American civil rights leader Jesse Jackson who has died at the age of 84. He’s being remembered as a transformational figure in the civil rights movement and in American politics at large.\n\nFRANCE 24's Monte Francis has a look at some of the reaction to his passing aw",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "US civil rights leader Jesse Jackson dies aged 84",
+              "url": "https://www.bbc.com/news/articles/cp81l0e1eg5o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Tributes pour in after US civil rights icon Jesse Jackson dies at 84",
+              "url": "https://www.aljazeera.com/news/2026/2/17/tributes-pour-in-after-us-civil-rights-icon-jesse-jackson-dies-at-84?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Tributes pour in for Jesse Jackson, icon of the American civil rights movement",
+              "url": "https://www.france24.com/en/tributes-pour-in-for-jesse-jackson-icon-of-the-american-civil-rights-movement"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Nine arrested in France over death of far-right student",
+          "neutralSummary": "Quentin Deranque died on Saturday, two days after being beaten in Lyon by masked men believed to be far-left militants.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Nine arrested in France over death of far-right student",
+              "url": "https://www.bbc.com/news/articles/cvgj1qrqd47o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "France arrests nine over killing of far-right activist Quentin Deranque",
+              "url": "https://www.aljazeera.com/news/2026/2/18/france-arrests-nine-over-killing-of-far-right-activist-quentin-deranque?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
           "neutralHeadline": "Israel Deepens West Bank Control With Land Registration Considered 'De Facto Annexation'",
           "neutralSummary": "Palestinians have demanded intervention from the international community, which deems Israeli settlement construction in the occupied territory illegal.",
           "versions": [
@@ -91,168 +209,68 @@
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "Third round of Russia-Ukraine talks starts in Geneva as strikes continue",
-          "neutralSummary": "Expectations for a breakthrough are low as negotiators meet at a US-brokered talks to try end the war.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Third round of Russia-Ukraine talks starts in Geneva as strikes continue",
-              "url": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "U.S. and Iran to hold a second round of nuclear talks in Geneva",
-              "url": "https://www.npr.org/2026/02/17/g-s1-110365/u-s-iran-nuclear-talks-geneva"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Lunar New Year 2026: Celebrations around the world",
-          "neutralSummary": "Millions of people around the world are celebrating the start of the Lunar New Year, with festivities taking place from Hong Kong to Buenos Aires.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Lunar New Year 2026: Celebrations around the world",
-              "url": "https://www.bbc.com/news/videos/c39wvr1nv2no?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Lunar New Year: Global celebrations welcome Year of the Fire Horse",
-              "url": "https://www.aljazeera.com/gallery/2026/2/17/global-celebrations-welcome-the-year-of-the-horse-with-fireworks?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Australia won't repatriate 34 women and children from Syria",
-          "neutralSummary": "The Australian government will not repatriate from Syria a group of 34 women and children with alleged ties to the Islamic State group, Prime Minister Anthony Albanese said Tuesday.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Australia won't repatriate 34 women and children from Syria",
-              "url": "https://www.npr.org/2026/02/17/nx-s1-5716762/australia-wont-repatriate-34-women-and-children-from-syria"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Iran temporarily closed the Strait of Hormuz as it held latest round of indirect talks with US",
-          "neutralSummary": "Iran temporarily closed the Strait of Hormuz as it held latest round of indirect talks with US&nbsp;&nbsp;AP NewsView Full Coverage on Google News",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Iran temporarily closed the Strait of Hormuz as it held latest round of indirect talks with US",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjZ0NVhNYkR4SmZKR0RBdzFlQjNzTV9kOVBwcmJaRWNTSzBfNnVBbVRMak1Hc3pVY0M0S3RmUHgxa1VocE50UGRweTFhdVJwU3JiV2ZfS2N4SmFjMUJpMDU3cXVUQkdyT3Q1bm9WV1NiY1FWZFQ0eEkyWVh1clZ6OUE2WXRmMzNXNzlzOE5ERQ?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Oil Swings as Traders Weigh Hormuz Strait Drills, Iran-US Talks",
-              "url": "https://www.bloomberg.com/news/articles/2026-02-16/latest-oil-market-news-and-analysis-for-feb-17"
-            }
-          ]
-        },
-        {
           "id": "global-7",
-          "neutralHeadline": "Lunar New Year 2026 live: Year of the Fire Horse",
-          "neutralSummary": "Lunar New Year 2026 live: Year of the Fire Horse&nbsp;&nbsp;BBCLunar New Year 2026&nbsp;&nbsp;Google DoodlesThe Year of the Fire Horse is back—for the first time in 60 years&nbsp;&nbsp;National GeographicChinese zodiac predictions: What’s in store for 2026 as we enter the Year of the Fire Horse&nbsp",
+          "neutralHeadline": "Stephen Colbert says CBS spiked interview with Democrat over FCC fears",
+          "neutralSummary": "The network denies it stopped the interview with a Texas Democrat from airing but warned it could run afoul of the US broadcast media watchdog.",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "BBC",
               "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Lunar New Year 2026 live: Year of the Fire Horse",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55SHAxR1VqbjFUcHVza3VhOUxoVWRELUZ4VHcweWh1TERTSEVnN2dzX1p0WkMySGdKOUVlNndPMkZCMjh1b05oalRNNGJIN25vRWc2VQ?oc=5"
+              "domain": "bbc.com",
+              "headline": "Stephen Colbert says CBS spiked interview with Democrat over FCC fears",
+              "url": "https://www.bbc.com/news/articles/cze0dk3yd5eo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Video: Millions celebrate Lunar New Year ushering in the Year of the Horse",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/video-millions-celebrate-lunar-new-year-ushering-in-the-year-of-the-horse?traffic_source=rss"
+              "headline": "Stephen Colbert says CBS barred interview with Texas Democratic candidate",
+              "url": "https://www.aljazeera.com/news/2026/2/18/stephen-colbert-says-cbs-barred-his-interview-with-texas-senate-candidate?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "#KungFu #robots steal show at China’s Spring Festival gala",
-          "neutralSummary": "Humanoid #robots performing #KungFu routines were among the highlights of China’s Spring Festival gala on Monday. The TV show – the most-watched in #China – is held annually on the eve of the Chinese New Year and is often used to highlight the country’s tech industry advances. This year, China’s fas",
+          "neutralHeadline": "U.S. releases new details on alleged secret Chinese nuclear test",
+          "neutralSummary": "At a event in Washington D.C., A U.S. official said a remote earthquake in 2020 was caused by a Chinese nuclear test.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Video: Humanoid robots take centre stage at China’s Lunar New Year show",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/2/17/video-humanoid-robots-take-centre-stage-at-chinas-lunar-new-year-show?traffic_source=rss"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "U.S. releases new details on alleged secret Chinese nuclear test",
+              "url": "https://www.npr.org/2026/02/17/nx-s1-5716046/u-s-releases-new-details-on-alleged-secret-chinese-nuclear-test"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "#KungFu #robots steal show at China’s Spring Festival gala",
-              "url": "https://www.france24.com/en/video/20260217-kungfu-robots-steal-show-at-china-s-spring-festival-gala"
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "U.S. offers more details on claim China conducted secret nuclear weapons test",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWlQtajVWNkJTOHRpUE9TVkxnck1KN05nVWQ1RFFQZXc4QXp4eGNmZ1hnQ2VhWDd4VWhOd3A0YzExdlNrOU9zOEhwRHlOY054NE5qQUc0QTZTcWFPNEk4eVNMOXhTQzEwbDRXSlVGQ3NraWd0bUFFQm1lLUxSR1E2VUJRTW1ZNVlrbmJjMzBR?oc=5"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Veteran US civil rights activist Jesse Jackson dies aged 84",
-          "neutralSummary": "Veteran US civil rights activist Reverend Jesse Jackson, one of the nation's most influential Black voices, died peacefully Tuesday morning, his family said in a statement. He was 84. Jackson, a Baptist minister, had been a civil rights leader since the 1960s, when he marched with Martin Luther King",
+          "neutralHeadline": "India has long promised 'vibrant' border villages, as China speedily builds up",
+          "neutralSummary": "India's government launched a Vibrant Villages Programme almost four years ago. But as China steadily builds up its side, Indian residents wonder what's taking so long.",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Veteran US civil rights activist Jesse Jackson dies aged 84",
-              "url": "https://www.france24.com/en/video/20260217-veteran-us-civil-rights-activist-jesse-jackson-dies-aged-84"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Civil rights icon Rev. Jesse Jackson dead at 84",
-              "url": "https://nypost.com/2026/02/17/us-news/civil-rights-icon-rev-jesse-jackson-dead-at-84/"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "India has long promised 'vibrant' border villages, as China speedily builds up",
+              "url": "https://www.npr.org/2026/02/17/nx-s1-5702816/india-china-border-villages-development"
             }
           ]
         }
@@ -263,17 +281,17 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Jesse Jackson: A Life in Pictures",
-          "neutralSummary": "The civil rights leader was one of the country’s most influential Black figures.",
+          "neutralHeadline": "DHS spokeswoman who became a face of Trump deportation campaign steps down",
+          "neutralSummary": "Tricia McLaughlin is leaving just over a year into Homeland Security Secretary Kristi L. Noem’s tenure leading the department.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Jesse Jackson: A Life in Pictures",
-              "url": "https://www.nytimes.com/2026/02/17/us/politics/jesse-jackson-photos.html"
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "DHS spokeswoman who became a face of Trump deportation campaign steps down",
+              "url": "https://www.washingtonpost.com/immigration/2026/02/17/tricia-mclaughlin-leaves-dhs/"
             },
             {
               "political": "left",
@@ -281,26 +299,33 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Longtime civil rights leader the Rev. Jesse Jackson dies at 84",
-              "url": "https://www.npr.org/2026/02/17/963124454/jesse-jackson-civil-rights-leader-rainbow-coalition-dies"
+              "headline": "Top DHS spokesperson who became a face of Trump immigration policy is leaving",
+              "url": "https://www.npr.org/2026/02/17/g-s1-110410/homeland-security-department-mclaughlin-departure"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "U.S. releases new details on alleged secret Chinese nuclear test",
+          "neutralSummary": "At a event in Washington D.C., A U.S. official said a remote earthquake in 2020 was caused by a Chinese nuclear test.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "U.S. releases new details on alleged secret Chinese nuclear test",
+              "url": "https://www.npr.org/2026/02/17/nx-s1-5716046/u-s-releases-new-details-on-alleged-secret-chinese-nuclear-test"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump remembers Jesse Jackson as 'good man,' 'force of nature'",
-              "url": "https://www.foxnews.com/politics/trump-remembers-jesse-jackson-good-man-force-nature"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Civil rights icon Rev. Jesse Jackson dead at 84",
-              "url": "https://nypost.com/2026/02/17/us-news/civil-rights-icon-rev-jesse-jackson-dead-at-84/"
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "U.S. offers more details on claim China conducted secret nuclear weapons test",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWlQtajVWNkJTOHRpUE9TVkxnck1KN05nVWQ1RFFQZXc4QXp4eGNmZ1hnQ2VhWDd4VWhOd3A0YzExdlNrOU9zOEhwRHlOY054NE5qQUc0QTZTcWFPNEk4eVNMOXhTQzEwbDRXSlVGQ3NraWd0bUFFQm1lLUxSR1E2VUJRTW1ZNVlrbmJjMzBR?oc=5"
             },
             {
               "political": "right",
@@ -308,59 +333,132 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Civil Rights Activist Jesse Jackson Dead At 84",
-              "url": "https://www.dailywire.com/news/civil-rights-activist-jesse-jackson-dead-at-84"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Jesse Jackson, Civil Rights Leader Who Sought the Presidency, Dies at 84",
-          "neutralSummary": "An impassioned orator, he was a moral and political force who formed a “rainbow coalition” of poor and working-class people. His mission, he said, was “to transform the mind of America.”",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Jesse Jackson, Civil Rights Leader Who Sought the Presidency, Dies at 84",
-              "url": "https://www.nytimes.com/2026/02/17/us/jesse-jackson-dead.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Jesse Jackson, a leading African American voice on global stage, dies at 84",
-              "url": "https://www.washingtonpost.com/obituaries/2026/02/17/jesse-jackson-dead-civil-rights/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Rev Jesse Jackson, civil rights leader and Rainbow PUSH founder, dies at 84",
-              "url": "https://www.foxnews.com/politics/jesse-jackson-dead-civil-rights-leader-84"
+              "headline": "Trump Admin Reveals Seismic Data To Confirm Secret Chinese Nuclear Tests",
+              "url": "https://www.dailywire.com/news/trump-admin-reveals-seismic-data-to-confirm-secret-chinese-nuclear-tests"
             }
           ]
         },
         {
           "id": "us-3",
-          "neutralHeadline": "Iran meets UN nuclear watchdog in Geneva ahead of more US talks",
-          "neutralSummary": "Iran meets UN nuclear watchdog in Geneva ahead of more US talks&nbsp;&nbsp;AP NewsIran partially shuts Strait of Hormuz as US, Iran hold nuclear talks&nbsp;&nbsp;ReutersU.S. and Iran sit down for talks under growing shadow of Trump's military threat&nbsp;&nbsp;CBS NewsTrump administration live updat",
+          "neutralHeadline": "Jesse Jackson, Civil Rights Leader Who Helped Launch Progressive Movement, Dead At 84",
+          "neutralSummary": "Jackson's presidential runs in 1984 and 1988 played a significant role in shaping the modern Democratic Party.",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Jesse Jackson, Civil Rights Leader Who Helped Launch Progressive Movement, Dead At 84",
+              "url": "https://www.huffpost.com/entry/jesse-jackson-obit_n_6916b06ce4b0781acfd584fc"
+            },
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Jesse Jackson, a leading voice for civil rights, dies at 84",
+              "url": "https://www.washingtonpost.com/obituaries/2026/02/17/jesse-jackson-dead-civil-rights/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "GOP Rep’s ‘Most Disgusting’ Post About Muslims And Dogs Is Condemned Online",
+          "neutralSummary": "Rep. Alexandria Ocasio-Cortez said it was \"genuinely one of the most disgusting statements I have ever seen issued by an American official.\"",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "GOP Rep’s ‘Most Disgusting’ Post About Muslims And Dogs Is Condemned Online",
+              "url": "https://www.huffpost.com/entry/randy-fine-dogs-muslims-post_n_6994151ce4b0330fe929505f"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "U.S. and Iran Resume Nuclear Talks Amid Rising Tensions",
-              "url": "https://www.nytimes.com/2026/02/17/us/politics/us-iran-nuclear-talks.html"
+              "headline": "House Republican Faces Backlash to Islamophobic Post Suggesting He Prefers Dogs to Muslims",
+              "url": "https://www.nytimes.com/2026/02/17/us/politics/randy-fine-muslim-islamophobic-democrats.html"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "No bones about it: Judge allows Buffalo Wild Wings to keep 'boneless' chicken on menu",
+          "neutralSummary": "No bones about it: Judge allows Buffalo Wild Wings to keep 'boneless' chicken on menu&nbsp;&nbsp;NBC NewsBoneless Wings Are Still Wings, Judge Rules&nbsp;&nbsp;The New York TimesJudge rules Buffalo Wild Wings can keep calling boneless wings ‘boneless’&nbsp;&nbsp;WGN-TVA ‘Boneless Wing’ Needn’t Come",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Boneless Wings Are Still Wings, Judge Rules",
+              "url": "https://www.nytimes.com/2026/02/17/us/boneless-chicken-wings-lawsuit-ruling.html"
             },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "NBC News",
+              "initials": "NN",
+              "domain": "news.google.com",
+              "headline": "No bones about it: Judge allows Buffalo Wild Wings to keep 'boneless' chicken on menu",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaXM0MkpXLTNTZXVGMGhRLVI0QTdlNEJKVkN1aEwwYlVNcnV2NjNreEJaOTd1QVhxZFVEd2gyUms3WVhla3p4VXlXTGtEUmI5cnhsd0xlU1lGUVAzbmRBOXY3RWE1cVFJbGdPb2FnYmNicElSTnlnU3lHTjNwcUlaUmctRHowZ2taVFJxR2FvVlZtYTh1MEVSVHJtZktHbkVBaDFLTUV1c3hiV2RKNkdrN3I0bVA?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Trump Bets on Diplomacy Without Diplomats",
+          "neutralSummary": "President Trump’s most trusted envoys, Steve Witkoff and Jared Kushner, are at the center of the Iran and Ukraine negotiations.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Bets on Diplomacy Without Diplomats",
+              "url": "https://www.nytimes.com/2026/02/17/us/politics/trump-witkoff-kushner-diplomacy.html"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Police Arrest Man Who Ran Toward the Capitol With a Loaded Gun",
+          "neutralSummary": "The 18-year-old arrested was wearing a tactical vest and carrying additional rounds of ammunition, the Capitol Police said. Congress was not in session, and no one was hurt.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Police Arrest Man Who Ran Toward the Capitol With a Loaded Gun",
+              "url": "https://www.nytimes.com/2026/02/17/us/politics/gunman-arrested-capitol.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Capitol Police arrest 18-year-old with gun near Capitol building",
+              "url": "https://www.washingtonexaminer.com/news/crime/4461016/capitol-police-arrest-18-year-old-gun-capitol-building/"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "U.S. and Iran say progress made in Geneva nuclear talks",
+          "neutralSummary": "U.S. and Iran say progress made in Geneva nuclear talks&nbsp;&nbsp;AxiosU.S. and Iran Make ‘Good Progress’ in Geneva Talks, Foreign Minister Says&nbsp;&nbsp;The New York TimesWhirlwind day of diplomacy as US holds talks on Iran and Ukraine in Geneva&nbsp;&nbsp;CNNIran’s Khamenei maintains tough rhet",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
@@ -373,68 +471,18 @@
             {
               "political": "center",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
+              "source": "Axios",
+              "initials": "AX",
               "domain": "news.google.com",
-              "headline": "Iran meets UN nuclear watchdog in Geneva ahead of more US talks",
-              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdU9KcTluVUp5cU54V2FibWZEd0dBTkJpMVhhSXFUbnh2ZDlOLXUwTFlFZmx6T0JSeC1RN2Z1SVRwMlc3R3RCWXRDR2tUUmhndG9WX3RPcENwT2N2OUk0WWpoRmF2QmF4cGJGd1ctVFE0M3RjdGloZ0pGV0s2V1hmc002OVJNTVB5dWlXLXJOeGZSZw?oc=5"
+              "headline": "U.S. and Iran say progress made in Geneva nuclear talks",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnUxc1hwRkxmVVRjTS1TNWNUV3hKdFBUbGNPUzdsX19sRURRWm9WT2g5a0tDeHZGZEJ0M0ZHWDFSSFNoOWJwOGI1NXBKWUhxVVhVdDVkNDB1MVNaZ2R6R05VS3lLVEpJOGxhZk5GbVFIZXZ4V2xJYVMwUE5QQWxXaF9LRng?oc=5"
             }
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "Rubio Plugs Orbán's Bid For Another Term After April Elections During A Visit To Budapest",
-          "neutralSummary": "&ldquo;President Trump is deeply committed to your success because your success is our success,&rdquo; the&nbsp;U.S. secretary of state said while enthusiastically endorsing the Hungarian prime minister's&nbsp;bid to serve a fifth straight term.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Rubio Plugs Orbán's Bid For Another Term After April Elections During A Visit To Budapest",
-              "url": "https://www.huffpost.com/entry/hungary-rubio-orban-fico_n_6992ce8ae4b0f2bf0eceb37d"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Rubio Warns Visas Will Be Revoked, Praises Orbán During Budapest Visit",
-              "url": "https://www.dailywire.com/news/rubio-warns-visas-will-be-revoked-praises-orban-during-budapest-visit"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Little-used ICE agreements with local police have exploded under Trump",
-          "neutralSummary": "Partnerships between ICE and local law enforcement agencies has expanded widely, under the second Trump administration, data analyzed by NPR shows.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Little-used ICE agreements with local police have exploded under Trump",
-              "url": "https://www.npr.org/2026/02/17/nx-s1-5707449/local-police-immigration-cooperation-287g"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Local Police Agreements With ICE Surge 950% In First Year Of Trump’s Second Term",
-              "url": "https://www.dailywire.com/news/local-police-agreements-with-ice-surge-950-in-first-year-of-trumps-second-term"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "US increases military pressure on Iran ahead of high-stakes talks",
-          "neutralSummary": "US increases military pressure on Iran ahead of high-stakes talks&nbsp;&nbsp;CNNTrump: Iran doesn't want consequences of not making nuclear deal with U.S.&nbsp;&nbsp;AxiosThey were all but written off. Now Trump is reviving the aircraft carrier&nbsp;&nbsp;The TelegraphU.S. Aircraft Carrier Will Be S",
+          "id": "us-9",
+          "neutralHeadline": "Air Force One jets to be repainted in Trump’s preferred colors",
+          "neutralSummary": "Air Force One jets are expected to receive a new paint job in President Trump’s preferred colors of red, white, gold and dark blue, The Hill&#8217;s sister network NewsNation has confirmed. Both the luxury jet donated by Qatar and new VC-25B Boeing jets will feature the new colors, an Air Force spok",
           "versions": [
             {
               "political": "left",
@@ -442,83 +490,17 @@
               "source": "CNN",
               "initials": "CNN",
               "domain": "news.google.com",
-              "headline": "US increases military pressure on Iran ahead of high-stakes talks",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSWHlaM1ZRVFYtRDVQNEEwbk9LOU44aXZqbVU4dFpfb05YWko0TmljUGdJVDd0X1RDWTd4blhUTFV2T0FHeDJsRUtCVXBRbHMydDlKMkl2TUpiVEpMVEliamIxcVN2dTZENW5xSGx4Ml9JUlJxQjVJejBrVWRmZw?oc=5"
+              "headline": "Air Force One will sport Trump’s preferred paint job, after Air Force again reverses course",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82MXFoZGNnQ3o4SU53Yl9OTUZVQjlodUVvNUdaS1hEODczWENZN0phYjhwZmNUck91Vm1LaTFGSjBfcE5KcExkTk4tNFpMeFluQkRza0lHRVlFNDJoaFRxVg?oc=5"
             },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Iran’s supreme leader taunts Trump, US as high-stakes nuclear talks begin: ‘Slapped so hard’",
-              "url": "https://nypost.com/2026/02/17/us-news/irans-supreme-leader-taunts-trump-us-as-high-stakes-nuclear-talks-begin/"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Senate Democrats send counteroffer to White House amid DHS shutdown",
-          "neutralSummary": "Senate Democrats late on Monday night sent a counter-proposal to the White House to fund the Department of Homeland Security (DHS) as the impasse reached Day 4 with no deal in sight.  A spokesperson for Senate Minority Leader Chuck Schumer (D-N.Y.) confirmed the latest horse-trading as talks continu",
-          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Senate Democrats send counteroffer to White House amid DHS shutdown",
-              "url": "https://thehill.com/homenews/senate/5741257-white-house-response-dhs-funding/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "DHS shutdown drags into 4th day as Senate Democrats block funding over ICE reforms",
-              "url": "https://www.foxnews.com/politics/dhs-shutdown-drags-4th-day-senate-democrats-block-funding-over-ice-reforms"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Pulse-pounding video shows heroes confront trans dad who opened fire at Rhode Island high school hockey game",
-          "neutralSummary": "Dramatic footage shows brave spectators fighting back against a transgender dad who opened fire at a Rhode Island high school hockey game, killing two family members and wounding three others before taking his own life. The grainy video circulating online shows the shooter in a hat walking down the",
-          "versions": [
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Pulse-pounding video shows heroes confront trans dad who opened fire at Rhode Island high school hockey game",
-              "url": "https://nypost.com/2026/02/17/us-news/video-shows-heroes-confront-trans-dad-who-opened-fire-at-rhode-island-high-school-hockey-game/"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Transgender-Identifying Man Opens Fire At Rhode Island Hockey Game, Killing Two",
-              "url": "https://www.dailywire.com/news/transgender-identifying-man-opens-fire-at-rhode-island-hockey-game-killing-two"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Trump's Latest Epstein Denial Has Critics Asking New Questions",
-          "neutralSummary": "The president insisted he was \"totally exonerated\" by the latest Epstein files release, but not everyone is buying it.&nbsp;",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump's Latest Epstein Denial Has Critics Asking New Questions",
-              "url": "https://www.huffpost.com/entry/trump-epstein-denial_n_6993eb56e4b018d1523612f8"
+              "headline": "Air Force One jets to be repainted in Trump’s preferred colors",
+              "url": "https://thehill.com/homenews/administration/5742424-air-force-one-new-paint/"
             }
           ]
         }
@@ -547,13 +529,29 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Tarique Rahman sworn in as Bangladesh's PM after landslide election victory",
-              "url": "https://www.channelnewsasia.com/asia/tarique-rahman-sworn-in-bangladeshs-pm-after-landslide-election-victory-5935661"
+              "headline": "PM Wong congratulates Bangladesh's new PM Tarique Rahman on election victory",
+              "url": "https://www.channelnewsasia.com/singapore/pm-wong-congratulates-bangladesh-pm-tarique-rahman-5936041"
             }
           ]
         },
         {
           "id": "singapore-2",
+          "neutralHeadline": "Muslim fasting month of Ramadan to start on Feb 19",
+          "neutralSummary": "The crescent moon was not visible at sunset on Feb 17.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Muslim fasting month of Ramadan to start on Feb 19",
+              "url": "https://www.straitstimes.com/singapore/muslim-fasting-month-of-ramadan-to-start-on-feb-19"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
           "neutralHeadline": "Pedestrian, 63, dies in hospital after Havelock Road accident involving bus",
           "neutralSummary": "The bus driver, a 35-year-old man, is assisting with ongoing police investigations.",
           "versions": [
@@ -569,7 +567,7 @@
           ]
         },
         {
-          "id": "singapore-3",
+          "id": "singapore-4",
           "neutralHeadline": "MOH to revise salary guidelines for community care staff; annual wages may rise by 7% or more",
           "neutralSummary": "The move is expected to benefit most of the 23,000 workers in the sector.",
           "versions": [
@@ -594,22 +592,6 @@
           ]
         },
         {
-          "id": "singapore-4",
-          "neutralHeadline": "ComfortDelGro taxi turns turtle in Ang Mo Kio on first day of CNY",
-          "neutralSummary": "SCDF paramedics assessed two people for minor injuries but they declined to be taken to hospital.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "ComfortDelGro taxi turns turtle in Ang Mo Kio on first day of CNY",
-              "url": "https://www.straitstimes.com/singapore/comfortdelgro-taxi-turns-turtle-in-ang-mo-kio-on-first-day-of-cny"
-            }
-          ]
-        },
-        {
           "id": "singapore-5",
           "neutralHeadline": "$15.1b budget surplus reflects uncertain economy, cyclical windfalls: Economists",
           "neutralSummary": "MPs said such surpluses should be funneled back into society, and used to tackle long-term challenges.",
@@ -627,8 +609,8 @@
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "India's Infosys ties up with Anthropic, days after IT selloff",
-          "neutralSummary": "India's Infosys ties up with Anthropic, days after IT selloff",
+          "neutralHeadline": "All in the family: Where to go in Asia for a multigenerational vacation in 2026",
+          "neutralSummary": "From Phuket to Phu Quoc, Bintan to Bangkok, these stays prove it’s possible to keep grandparents, parents, teens, and toddlers happy – all at the same time.",
           "versions": [
             {
               "political": "center",
@@ -636,40 +618,40 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "India's Infosys ties up with Anthropic, days after IT selloff",
-              "url": "https://www.channelnewsasia.com/business/indias-infosys-ties-up-anthropic-days-after-it-selloff-5935466"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "After the landslide: Can India reset ties with a BNP-led Bangladesh?",
-              "url": "https://www.bbc.com/news/articles/cd6z007wgg6o?at_medium=RSS&at_campaign=rss"
+              "headline": "All in the family: Where to go in Asia for a multigenerational vacation in 2026",
+              "url": "https://www.channelnewsasia.com/experiences/multigenerational-family-vacations-asia-2026-5928506"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "Muslim fasting month of Ramadan to start on Feb 19",
-          "neutralSummary": "The crescent moon was not visible at sunset on Feb 17.",
+          "neutralHeadline": "Trading Day: AI disruption, US-Iran nuclear talks, rate cut bets keep investors on their toes",
+          "neutralSummary": "Trading Day: AI disruption, US-Iran nuclear talks, rate cut bets keep investors on their toes",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Muslim fasting month of Ramadan to start on Feb 19",
-              "url": "https://www.straitstimes.com/singapore/muslim-fasting-month-of-ramadan-to-start-on-feb-19"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Trading Day: AI disruption, US-Iran nuclear talks, rate cut bets keep investors on their toes",
+              "url": "https://www.channelnewsasia.com/business/trading-day-ai-disruption-us-iran-nuclear-talks-rate-cut-bets-keep-investors-their-toes-5937081"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Oil Holds Drop as US and Iran Signal Progress in Nuclear Talks",
+              "url": "https://www.bloomberg.com/news/articles/2026-02-17/oil-holds-drop-as-us-and-iran-signal-progress-in-nuclear-talks"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "30 by 30 no more: What is S’pore’s plan for local food production?",
-          "neutralSummary": "As local farms keep closing, will stockpiling, import diversification and global partnerships be enough to safeguard Singapore’s food security?",
+          "neutralHeadline": "Woman who stole milk powder for her kids among clients the Public Defender’s Office represent",
+          "neutralSummary": "The Public Defender's Office, which has a team of 22 public defenders, handled over 580 cases in 2025.",
           "versions": [
             {
               "political": "center",
@@ -677,15 +659,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "30 by 30 no more: What is S’pore’s plan for local food production?",
-              "url": "https://www.straitstimes.com/singapore/environment/30-by-30-no-more-what-is-spores-plan-for-local-food-production"
+              "headline": "Woman who stole milk powder for her kids among clients the Public Defender’s Office represent",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/woman-who-stole-milk-powder-for-her-kids-among-clients-the-public-defenders-office-represent"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "3 taken to hospital after fire breaks out at Hougang HDB void deck",
-          "neutralSummary": "The fire involved construction materials at the void deck, said SCDF.",
+          "neutralHeadline": "Finnish couple spent 20 months on seat and saddle of a DIY bicycle to see the world",
+          "neutralSummary": "Cycling from Finland to Singapore has allowed the couple to experience the kindness of people.",
           "versions": [
             {
               "political": "center",
@@ -693,8 +675,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "3 taken to hospital after fire breaks out at Hougang HDB void deck",
-              "url": "https://www.straitstimes.com/singapore/3-taken-to-hospital-after-fire-breaks-out-at-hougang-hdb-void-deck"
+              "headline": "Finnish couple spent 20 months on seat and saddle of a DIY bicycle to see the world",
+              "url": "https://www.straitstimes.com/singapore/20-months-on-seat-and-saddle-a-finnish-couples-quest-to-seeing-the-world"
             }
           ]
         }
@@ -705,26 +687,26 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "'Battle of Begums' chapter ends: Bangladesh turns page with new nawab, Tarique Rahman",
-          "neutralSummary": "Bangladesh witnesses a seismic political shift as the 'battle of begums' era concludes. Sheikh Hasina is in exile, Khaleda Zia has passed away, paving the way for BNP scion Tarique Rahman's ascent. His return from a 17-year exile and subsequent electoral victory mark a new chapter, ushering in a gen",
+          "neutralHeadline": "Dwarka car accident: Accused’s father breaks silence says, 'very sorry, regretful, was not in Delhi'",
+          "neutralSummary": "A grieving mother is demanding an underage driver be tried as an adult and stricter action against his father after her son's death. The father expressed regret but claimed he wasn't present during the accident. The case echoes a 2016 incident, reigniting debates on parental responsibility for minor",
           "versions": [
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Tarique Rahman Takes Oath As Bangladesh PM After BNP's Landslide Win",
-              "url": "https://www.ndtv.com/world-news/bangladesh-pm-bangladesh-elections-tarique-rahman-oath-tarique-rahman-takes-oath-as-bangladesh-prime-minister-after-bnps-landslide-win-11018151#publisher=newsstand"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "'Battle of Begums' chapter ends: Bangladesh turns page with new nawab, Tarique Rahman",
-              "url": "https://timesofindia.indiatimes.com/world/south-asia/the-battle-of-begums-chapter-ends-bangladesh-turns-a-new-page-with-a-new-nawab-tarique-rahman/articleshow/128464200.cms"
+              "headline": "Dwarka car accident: Accused’s father breaks silence says, 'very sorry, regretful, was not in Delhi'",
+              "url": "https://timesofindia.indiatimes.com/city/delhi/victims-mom-try-accused-as-an-adult-accuseds-dad-very-sorry-wasnt-in-city/articleshow/128475791.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "‘Son very disturbed, deep grief in family’: Father of Delhi teen involved in Dwarka SUV crash",
+              "url": "https://www.hindustantimes.com/india-news/son-very-disturbed-deep-grief-in-family-father-of-delhi-teen-involved-in-dwarka-suv-crash-101771378451135.html"
             },
             {
               "political": "center",
@@ -732,15 +714,15 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Tarique Rahman takes oath as Bangladesh's new chief",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/tarique-rahman-takes-oath-as-bangladesh-prime-minister-after-bnps-landslide/articleshow/128459801.cms"
+              "headline": "Dwarka accident accused’s father breaks silence",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/he-was-not-making-reels-dwarka-scorpio-accident-accuseds-father-breaks-silence-as-sahil-dhaneshras-mother-demands-justice/articleshow/128490049.cms"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Iran partially shuts Strait of Hormuz as US, Iran hold nuclear talks",
-          "neutralSummary": "Iran partially shuts Strait of Hormuz as US, Iran hold nuclear talks&nbsp;&nbsp;ReutersIran partially closes Strait of Hormuz, a vital oil chokepoint, as U.S. talks get underway&nbsp;&nbsp;CNBCIran's Revolutionary Guards begin military drills in Strait of Hormuz&nbsp;&nbsp;The HinduIran fires missil",
+          "neutralHeadline": "5% reservation for Muslims scrapped in Maharashtra",
+          "neutralSummary": "Maharashtra's Social Justice Department has revoked the 5% reservation previously granted to certain Muslim communities under the SEBC category. This decision, based on court rulings and existing legal frameworks concerning the 2014 policy, impacts admissions to educational institutions and governme",
           "versions": [
             {
               "political": "left",
@@ -748,33 +730,24 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Iran Fires Missiles At Strait Of Hormuz As Nuclear Talks With US Begin",
-              "url": "https://www.ndtv.com/world-news/iran-fires-missiles-at-strait-of-hormuz-as-nuclear-talks-with-us-begin-11018324#publisher=newsstand"
+              "headline": "Maharashtra Nullifies 5% Quota For Muslims, It Was In Limbo Since 2014",
+              "url": "https://www.ndtv.com/india-news/maharashtra-nullifies-5-quota-for-muslims-it-was-in-limbo-since-2014-11051762#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Iran partially shuts Strait of Hormuz as US, Iran hold nuclear talks",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWE1UlNhcko3WGRlb254RHV1OEZydExSVDlFclhQZHd5SUMySHgxV25GZXNNQVQwQmNUMDhQQ0lOZGYtcmtyOEhYWmYxdTd4eTA0VWI2NDBHNmxyOWxUaWJManBPQ3k3Skstd1hPd1NVRFFnVEFaQ01fcHN6dDZmUFZjV01pdS1PQThKemN0dFBucnlfWlZhaThOYVdGUkhCdTdTQmo5dEpGWkNjazE4?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Oil Swings as Traders Weigh Hormuz Strait Drills, Iran-US Talks",
-              "url": "https://www.bloomberg.com/news/articles/2026-02-16/latest-oil-market-news-and-analysis-for-feb-17"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "5% reservation for Muslims scrapped in Maharashtra",
+              "url": "https://timesofindia.indiatimes.com/city/mumbai/5-reservation-for-muslims-scrapped-in-maharashtra/articleshow/128489641.cms"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Modi Seizes AI Summit to Assert India’s Global Ambitions After Tough Year",
-          "neutralSummary": "Modi Seizes AI Summit to Assert India’s Global Ambitions After Tough Year&nbsp;&nbsp;Bloomberg.com'We are open-minded': Ashwini Vaishnaw apologises for inconvenience at AI Impact Summit, sets up 'war room'&nbsp;&nbsp;Times of IndiaAI Impact Summit 2026: Decoding India's AI Growth Strategy&nbsp;&nbsp",
+          "neutralHeadline": "Loosening pyjama string is 'attempt to rape': SC sets aside controversial Allahabad HC ruling",
+          "neutralSummary": "Loosening pyjama string is 'attempt to rape': SC sets aside controversial Allahabad HC ruling&nbsp;&nbsp;Times of IndiaPulling Pyjama String Rape Attempt: Top Court Sets Aside High Court Order&nbsp;&nbsp;NDTVSC sets aside Allahabad HC observation that grabbing minor's breasts not attempt to rape; or",
           "versions": [
             {
               "political": "left",
@@ -782,49 +755,24 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "PM Modi Announces Special Global Strategic Partnership Between India, France",
-              "url": "https://www.ndtv.com/india-news/pm-modi-announces-special-global-strategic-partnership-between-india-france-11022373#publisher=newsstand"
+              "headline": "Pulling Pyjama String Rape Attempt: Top Court Sets Aside High Court Order",
+              "url": "https://www.ndtv.com/india-news/pulling-pyjama-string-rape-attempt-supreme-court-sets-aside-high-court-order-11050840#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
+              "source": "Times of India",
+              "initials": "TOI",
               "domain": "news.google.com",
-              "headline": "Modi Seizes AI Summit to Assert India’s Global Ambitions After Tough Year",
-              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3NqQk5yRUU0ZkE1S3JjNjdWZ0FmNTZBUVgyU2hVeGpmWjczUGFUVzNSMzBNVGZWQzNSTUktVFlzMF9ESW02VmQzM19RQklnUWFCYUhhWnlnVkJ1WTBHOXh0NnhoLVVVS3JXZlJRYXVOV2RaNWcwQUxETHhVSmVhTHVQVHdneGRVY29yTktIRHdvWDMyMm01WUZDQ3gtZUNFRGQwSkplMXVCWU1SY2hVOHl6aXdhMktuZTdOQUZIWmtEdw?oc=5"
+              "headline": "Loosening pyjama string is 'attempt to rape': SC sets aside controversial Allahabad HC ruling",
+              "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQVhJWE5ZWU9rOVotUFBLWktSZ2dfbFI2eTJsRW5EUnlrd1NPMWZ3eDdMVnQ5bXN6cVJnTFRsZVA1VEhjVjRpOF9QYklXNEVoYV9DcWRzNFREc0xNOUQzLWJYbEhMQ3owdXVEbjR5aXN2QURhZUJKVDVJVl94Y1hBZ1QwaURpazJES25wYi1wNWNJSGhlY0Y1bERic19MS1V1ZFBRSjZTUjR2M2VoM0RxMTh1STN6NkhpSkhudFlYaU5MMjZxMnlsbXpBQldxaGZ1TGhqakZFalAzS2V0am5WczRHdnRnd2pWR3p6TnpiTQ?oc=5"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "30 Minutes, 3 Warnings: Khamenei Targets Trump As US-Iran Talks Begin",
-          "neutralSummary": "The negotiations are being mediated by Oman's Foreign Minister Badr Albusaidi.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "30 Minutes, 3 Warnings: Khamenei Targets Trump As US-Iran Talks Begin",
-              "url": "https://www.ndtv.com/world-news/us-iran-nuclear-talks-ayatollah-ali-khamenei-donald-trump-uss-abraham-lincoln-can-sink-khamenei-warns-trump-11019329#publisher=newsstand"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Trump says he will be involved ‘indirectly’ in Iran talks",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUTdyczRwd2czNUZHOU45X3lkNTFNbE5KWXUxOF9WNVpndFdCZDI4MlcxSlRJZHBQR2VEbFNtSHBCODBBWGtJS1lqYUpQbTlhSHVkcVZ2TzhHbHFBN3g5YUNheWNnMXNQVHg5SUt4bkJtX2hpYWFyQUo1NHhsb0o1OG96M3pINk4zTFlVaVE5bXVtWS1J0gGbAUFVX3lxTE00NGRqVkMtUXJKUWJJSGdDRjhxYU9velRXUjdZd0lVcHh1OHNJTV9KYW1XbS1hWDRnTFByRWJieWlrLVFZMmNPQXIyRjdYSDdWQmNILWsyOER6ZWNHeWpRWDBab01nT3N6Z0c2LXdobVBhSVZBZ3VxaEEzOXB0R2Q5M0s3YVcxTzdEMVFNVUh0c1VKWFZvM2VPVmIw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Maharashtra Congress chief apologises over Chhatrapati Shivaji–Tipu Sultan remarks",
-          "neutralSummary": "Harshwardhan Sapkal says remarks were misconstrued by BJP; FIR filed, clashes erupt in Pune over Shivaji-Tipu Sultan row",
+          "neutralHeadline": "Salim Khan health update: Salman's father is on ventilator support - Report",
+          "neutralSummary": "Renowned screenwriter Salim Khan has been hospitalized at Lilavati Hospital, currently requiring ventilator support. Medical professionals have diagnosed him with internal bleeding stemming from a spike in blood pressure and ruptured blood vessels. He is set to undergo surgery later today. Read the",
           "versions": [
             {
               "political": "left",
@@ -832,65 +780,81 @@
               "source": "Indian Express",
               "initials": "IE",
               "domain": "indianexpress.com",
-              "headline": "Sapkal apologises over Shivaji–Tipu remark row, says words were ‘distorted’",
-              "url": "https://indianexpress.com/article/cities/mumbai/sapkal-apologises-shivaji-tipu-remark-row-words-distorted-10537275/"
+              "headline": "‘Salim Khan was my father figure’: Salman Khan’s ex-girlfriend prays for recovery, says ‘heart sank when I read of hospitalisation’",
+              "url": "https://indianexpress.com/article/entertainment/bollywood/salman-khan-ex-girlfriend-somy-ali-prays-salim-khan-recovery-father-figure-10537990/"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Maharashtra Congress chief apologises over Chhatrapati Shivaji–Tipu Sultan remarks",
-              "url": "https://www.hindustantimes.com/india-news/maharashtra-congress-chief-apologises-over-chhatrapati-shivaji-tipu-sultan-remarks-101771329480949.html"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "PM Modi calls France 'special partner', H125 chopper assembly line launched",
-          "neutralSummary": "Prime Minister Narendra Modi and French president Emmanuel Macron virtually inaugurated assembly line for production of Airbus H125 helicopters at Vemagal in Karnataka. The H125 Light Utility Helicopter Final Assembly Line at Vemagal is expected to strengthen India's indigenous aerospace manufacturi",
-          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "PM Modi calls France 'special partner', H125 chopper assembly line launched",
-              "url": "https://timesofindia.indiatimes.com/india/pm-modi-says-india-france-to-manufacture-first-helicopter-flying-to-the-heights-of-mount-everest/articleshow/128463663.cms"
-            },
+              "headline": "Salim Khan health update: Salman's father is on ventilator support - Report",
+              "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-father-salim-khan-health-update-veteran-screenwriter-is-on-ventilator-support-report/articleshow/128489357.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Is YouTube down in India? Thousands face ‘something went wrong’ error on app",
+          "neutralSummary": "In India, Downdetector logged 19,097 complaints at 7:11 am, indicating a sharp spike in user reports about problems with video streaming on YouTube.",
+          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "PM Modi calls France 'special partner', inaugurates assembly line of H-125 helicopters with Macron",
-              "url": "https://www.hindustantimes.com/india-news/pm-modi-calls-france-special-partner-inaugurates-assembly-line-of-h-125-helicopters-with-macron-101771329894139.html"
+              "headline": "Is YouTube down in India? Thousands face ‘something went wrong’ error on app",
+              "url": "https://www.hindustantimes.com/india-news/is-youtube-down-in-india-thousands-face-something-went-wrong-error-on-app-101771380092282.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "YouTube down in India? Google responds",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/is-youtube-down-in-india-heres-what-google-said-about-the-widespread-outage-faced-by-thousands-of-users/articleshow/128488878.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Woman set on fire in Telangana after rejecting marriage proposal",
+          "neutralSummary": "The accused, identified as 40-year-old Kunta Anjaiah, who runs a milk shop at YSR Junction, was in a relationship with the woman, V. Sandhya, alias Manjula",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Woman set on fire in Telangana after rejecting marriage proposal",
+              "url": "https://www.thehindu.com/news/national/telangana/woman-set-on-fire-in-telangana-after-rejecting-marriage-proposal/article70645881.ece"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "India Must Lose Its Blinkers: Bangladesh's Politics Reflects A 1947 Reality, Not 1971",
-          "neutralSummary": "India Must Lose Its Blinkers: Bangladesh's Politics Reflects A 1947 Reality, Not 1971",
+          "neutralHeadline": "India tells global tech platforms to follow constitution after tougher content rules",
+          "neutralSummary": "India’s information minister said on Tuesday that big tech platforms ​like Google’s YouTube, Meta, X and ‌Netflix must operate within the country’s ​constitutional framework",
           "versions": [
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Swarajya",
-              "initials": "SWR",
-              "domain": "swarajyamag.com",
-              "headline": "India Must Lose Its Blinkers: Bangladesh's Politics Reflects A 1947 Reality, Not 1971",
-              "url": "https://swarajyamag.com/newsletters/india-must-lose-its-blinkers-bangladeshs-politics-reflects-a-1947-reality-not-1971-3"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "India tells global tech platforms to follow constitution after tougher content rules",
+              "url": "https://www.thehindu.com/sci-tech/technology/india-tells-global-tech-platforms-to-follow-constitution-after-tougher-content-rules/article70645825.ece"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Two persons arrested by CCB police; drugs worth ₹6.35 lakh seized",
-          "neutralSummary": "Two persons arrested by CCB police; drugs worth ₹6.35 lakh seized",
+          "neutralHeadline": "On the importance of satire",
+          "neutralSummary": "Can satire, comedy or a work of art be a threat to national security or defence of the nation? The Supreme Court has consistently held that satire is one of the most effective art forms revealing the absurdities, hypocrisies and contradictions of life",
           "versions": [
             {
               "political": "left",
@@ -898,15 +862,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Two persons arrested by CCB police; drugs worth ₹6.35 lakh seized",
-              "url": "https://www.thehindu.com/news/national/karnataka/two-persons-arrested-by-ccb-police-drugs-worth-635-lakh-seized/article70643483.ece"
+              "headline": "On the importance of satire",
+              "url": "https://www.thehindu.com/news/national/on-the-importance-of-satire/article70643183.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "APPSC announces shortlisted candidates for Deputy Educational Officer post",
-          "neutralSummary": "APPSC announces shortlisted candidates for Deputy Educational Officer post",
+          "neutralHeadline": "Indian cricketers not shaking hands with Pakistani counterparts is ‘dadagiri’ by BJP, alleges Raut",
+          "neutralSummary": "Shiv Sena (UBT) leader said his party is of the opinion that matches should not be played between India and Pakistan",
           "versions": [
             {
               "political": "left",
@@ -914,8 +878,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "APPSC announces shortlisted candidates for Deputy Educational Officer post",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/appsc-announces-shortlisted-candidates-for-deputy-educational-officer-post/article70642680.ece"
+              "headline": "Indian cricketers not shaking hands with Pakistani counterparts is ‘dadagiri’ by BJP, alleges Raut",
+              "url": "https://www.thehindu.com/news/national/indian-cricketers-not-shaking-hands-with-pakistani-counterparts-is-dadagiri-by-bjp-alleges-raut/article70645814.ece"
             }
           ]
         }
