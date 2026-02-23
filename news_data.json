@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-02-22T13:48:25.342908+00:00",
+  "generatedAt": "2026-02-23T04:13:18.691781+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Pakistan says it has launched border strikes in Afghanistan. The Red Crescent reports 18 killed",
-          "neutralSummary": "Pakistan says it has launched border strikes in Afghanistan. The Red Crescent reports 18 killed&nbsp;&nbsp;AP NewsPakistan launches deadly strikes on Afghanistan&nbsp;&nbsp;BBCAfghanistan promises ‘appropriate response’ after deadly Pakistani strikes&nbsp;&nbsp;Al JazeeraPakistan launches airstrikes",
+          "neutralHeadline": "Mexican army kills drug lord 'El Mencho' during operation to capture him",
+          "neutralSummary": "The Mexican army on Sunday announced they had killed drug lord Nemesio Rubén Oseguera Cervantes – leader of the Jalisco New Generation Cartel, which is responsible for trafficking huge quantities of fentanyl and other drugs to the United States. Cervantes, who was better known as “El Mencho”, was wo",
           "versions": [
             {
               "political": "left",
@@ -15,40 +15,65 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Pakistan launches deadly strikes on Afghanistan",
-              "url": "https://www.bbc.com/news/articles/cdxgln3gnd6o?at_medium=RSS&at_campaign=rss"
+              "headline": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
+              "url": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Pakistan says it has launched border strikes in Afghanistan. The Red Crescent reports 18 killed",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEhZQ3c3YkhZS0hkbUlIbFktSTdMNmlwTnlUX1VjZDEtVWRGbkhwNXF4Tm1Rb1pRZVp3VUVkT3Z3MnFZOHBJY3g5VUJTOEpHNnBDWHBJTWhkRERJcWFpTkxZb3J4dzF1MGdLYk1oQ0FmR2ZwWjNLcnlUTEpES0tUZFdpcUpfWGxmLTNQdHppYTVyd3pLS3lPN3FBdDhDRlBYTl9KU2d1TE0?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "The aftermath of Pakistan’s air strikes in Afghanistan",
-              "url": "https://www.aljazeera.com/gallery/2026/2/22/the-aftermath-of-pakistan-air-strikes-in-in-afghanistan?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Pakistan launches border strikes on Afghanistan",
-              "url": "https://www.france24.com/en/pakistan-launches-border-strikes-on-afghanistan"
+              "headline": "Mexican army kills drug lord 'El Mencho' during operation to capture him",
+              "url": "https://www.france24.com/en/americas/20260222-mexican-army-kills-drug-kingpin-el-mencho-during-operation-to-capture-him"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Major drug lord 'El Mencho' killed in Mexican military operation with US intelligence support",
+              "url": "https://www.foxnews.com/world/major-drug-lord-el-mencho-killed-mexican-military-operation-us-intelligence-support"
             }
           ]
         },
         {
           "id": "global-2",
+          "neutralHeadline": "North Korea’s Kim re-elected Workers’ Party general secretary at congress",
+          "neutralSummary": "North Korean leader Kim Jong Un has been re-elected general secretary of the ruling Workers’ Party at a rare congress, state media said Monday, calling the decision unanimous among delegates. KCNA said the country’s nuclear-based “war deterrence” had been “radically improved” under Kim’s leadership,",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Kim Jong Un re-appointed leader of North Korea's ruling party",
+              "url": "https://www.bbc.com/news/articles/cvg18588mdko?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "North Korea’s Kim Jong Un re-elected as chief of Workers’ Party",
+              "url": "https://www.aljazeera.com/news/2026/2/22/north-koreas-kim-jong-un-re-elected-as-chief-of-workers?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "North Korea’s Kim re-elected Workers’ Party general secretary at congress",
+              "url": "https://www.france24.com/en/asia-pacific/20260222-north-korea-kim-re-elected-ruling-party-congress"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
           "neutralHeadline": "More than 1,000 Kenyans lured to fight for Russia in Ukraine war, report says",
           "neutralSummary": "Intelligence findings read to parliament say ‘rogue’ agencies and individuals  recruiting Kenyan nationals to frontlineMore than 1,000 Kenyans have been lured to fight for Russia in its war with Ukraine, according to an intelligence report to the Kenyan parliament that highlights the scale of a Russ",
           "versions": [
@@ -64,61 +89,93 @@
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "'Given a gun and sent to die': Kenyans lured to fight for Russia in Ukraine",
-              "url": "https://www.npr.org/2026/02/21/nx-s1-5720226/kenya-ukraine-russia-war"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Russia-Ukraine war: List of key events, day 1,460",
+              "url": "https://www.aljazeera.com/news/2026/2/23/russia-ukraine-war-list-of-key-events-day-1460?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Who was El Mencho, the former police officer who co-founded an ultraviolent cartel in Mexico?",
+          "neutralSummary": "Drug lord who was killed by Mexican special forces on Sunday led a cartel known for aggression and military-style arsenalViolence erupts after Mexican security forces kill drug cartel boss ‘El Mencho’ The drug lord “El Mencho”, who was killed on Sunday by Mexican special forces, was the co-founder a",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Who was El Mencho, the former police officer who co-founded an ultraviolent cartel in Mexico?",
+              "url": "https://www.theguardian.com/world/2026/feb/23/who-was-el-mencho-drug-cartel-boss-killed-mexico"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Violence erupts in Mexico after killing of drug cartel kingpin ‘El Mencho’",
+              "url": "https://www.aljazeera.com/news/2026/2/22/mexico-announces-killing-of-drug-cartel-kingpin-el-mencho?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "US Secret Service kill armed man trying to access Trump's Mar-a-Lago estate",
+          "neutralSummary": "An armed man was shot and killed by the US Secret Service on Sunday after driving into the secure perimeter of Mar-a-Lago, President Donald Trump's resort in Palm Beach, Florida. The North Carolina man, who was in his early 20s, had a gas can and a shotgun and had been reported missing by his family",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Armed man killed after entering secure perimeter of Trump's residence, Secret Service says",
+              "url": "https://www.bbc.com/news/articles/cp32l9w9pgyo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "US Secret Service kill armed man trying to access Trump's Mar-a-Lago estate",
+              "url": "https://www.france24.com/en/americas/20260222-us-secret-service-kill-armed-man-trying-to-access-trump-mar-a-lago-estate"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "Greenland says 'no thanks' to Trump US hospital boat",
+          "neutralSummary": "Greenland's PM reminded Trump of its free healthcare, after Trump said he was sending a boat to aid people who were allegedly \"not being taken care of\".",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Greenland says 'no thanks' to Trump US hospital boat",
+              "url": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
               "tone": "neutral",
               "source": "Al Jazeera",
               "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "How four years of Ukraine war have changed Russia",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0RXVkpZVnhFaVZtLTNhUUJXbktmQ180QW53YVNkMXZnRDZkZlJmTUVINHFiQmhEY0YtSEdRZmZrU29CWHhVMzN5bmVEZVg4bE5KTmJFMzQ1Z2tzNkU4U0JqNk5RTWcyZ0c0SzZtcHlKYWVpa1FsOC1Sd2UtY2lGTVlsUzJ5Z21kbldvR24xUVpuYkNB0gGaAUFVX3lxTE1zVzVQQTExekV0T0ROUV9TYVZJTGNDLUNnell4bFlNSkpkeG84dllwVWZaX3FaNktYcE9lejhHRVZkNnc2TFNsM21sZ3I1QUdFaFdMMGx3OHpYVHFlQXJMX21hYU9sX2IxbWtCV0U1Z1RWTGFuUzVKNWExNzZGMlE2Rk9BV21yY2FxWXNlaVhrXzNWWTgyV3hVMEE?oc=5"
+              "domain": "aljazeera.com",
+              "headline": "Greenland rejects Trump’s offer to send US hospital ship to Arctic island",
+              "url": "https://www.aljazeera.com/news/2026/2/22/greenland-reiterates-its-public-healthcare-amid-us-hospital-ship-proposal?traffic_source=rss"
             }
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "British government considering removing former Prince Andrew from line of succession to the crown after arrest",
-          "neutralSummary": "British government considering removing former Prince Andrew from line of succession to the crown after arrest&nbsp;&nbsp;CBS NewsThe Queen Stuck by Prince Andrew. King Charles Is Pulling Away&nbsp;&nbsp;The New York Times‘The photo gods were on my side.’ How that astonishing image of Andrew was cap",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Former Prince Andrew Mountbatten-Windsor Arrested",
-              "url": "https://www.huffpost.com/entry/former-prince-andrew-arrested_n_6996e21de4b0cc086c708735"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Recent updates on the arrest of former Prince Andrew",
-              "url": "https://www.npr.org/2026/02/21/nx-s1-5719503/recent-updates-on-the-arrest-of-former-prince-andrew"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "British government considering removing former Prince Andrew from line of succession to the crown after arrest",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDFNbHVYWFEyZzM0R2pHVHVFX2lzV255VTNEc05LZDUwV1N6bndOWmIxS283OGVpblBrdExEMEdQV2NOaWI3NU1OZjRjUVJPY2ZOMFVHcExVNlhvMlAxNzdSa3gwY01iOEZ0U0FkazlXaTNEenM2Z1lwX1V5TDBtcDl6NG03MnpLV2hicGl3UlUzcGNreG1WWG5nQ2bSAaIBQVVfeXFMUE1Rb1FPcjhnbVdGeU8wR2hBQ1ZETEhYbDlPTDRDWHQ2Q3k5UVZicHEwT19rTWFzYzN5Nzc1WVk1Z1pPeHJ5bUIxNmVSSFdNQ0trRmdQNGdWZW4zRlRYRTFoYU1TUG5na3lxOHQxNkxQTDJBSGdBNWRYUUUwT25SZEl0UWVvVjFpLWd6WmxVeEN5cGJENnNGQTBKazNqWmV6TUV3?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "More than 1,500 prisoners set for release under Venezuela's new amnesty law",
-          "neutralSummary": "At least 1,557 people - including opposition members, activists, human rights defenders and journalists who were held in Venezuela for political reasons, are expected to be released from prison after submitting their applications under an amnesty bill that was signed into law this week, authorities",
+          "id": "global-7",
+          "neutralHeadline": "Over 200 Venezuelan political prisoners launch hunger strike over amnesty law exclusions",
+          "neutralSummary": "More than 200 Venezuelan political prisoners began a hunger strike on Sunday, demanding inclusion in a new amnesty law they say excludes many detainees, particularly those facing military-related charges. The law, approved by Congress last week, forms part of reforms backed by Washington after forme",
           "versions": [
             {
               "political": "left",
@@ -130,138 +187,63 @@
               "url": "https://www.bbc.com/news/articles/c93w9g2dvn5o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Wall Street Journal",
-              "initials": "WSJ",
-              "domain": "news.google.com",
-              "headline": "Venezuela Approves Amnesty for Political Prisoners, but Many Won’t Benefit",
-              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTU5V3YwMTJlWm1HLWFzQUJpZXB3bWxNZFBYdUZtRE9EZUtkTjNjUmZzSndQanJUS1BpOWRuMUhhVE5lUnpqRmRCVlVKVTc3d0dBbWEtWW9ucGNleDYyUEgwdnc2R282NnVBdXRyeG9vVHZBWkdfalJCZ3hZc29VZk9sWEEycU9LUmtwVVFZdy16TjhOMTZIUklxZkF4TTZ5T0NpbnktZmx5QkxFMnQ3eWoweDJmVjA?oc=5"
-            },
-            {
               "political": "center",
               "tone": "neutral",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "More than 1,500 prisoners set for release under Venezuela's new amnesty law",
-              "url": "https://www.france24.com/en/americas/20260221-more-than-1-500-prisoners-set-for-release-under-venezuela-s-new-amnesty-law"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Floreana giant tortoise reintroduced to Galápagos island after almost 200 years",
-          "neutralSummary": "Subspecies driven to extinction by hungry whalers returns after ‘back breeding’ programme using partial descendantsGiant tortoises, the life-giving engineers of remote small island ecosystems, are plodding over the Galápagos island of Floreana for the first time in more than 180 years.The Floreana g",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Floreana giant tortoise reintroduced to Galápagos island after almost 200 years",
-              "url": "https://www.theguardian.com/world/2026/feb/20/floreana-giant-tortoise-reintroduced-to-galapagos-island-after-almost-200-years"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Giant tortoises return to Galápagos island after nearly 200 years",
-              "url": "https://www.bbc.com/news/articles/c9wn1jrzk4go?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Arab, Muslim nations slam ‘inflammatory’ remarks by US ambassador to Israel",
-          "neutralSummary": "Several members of the Arab League, the Organisation of Islamic Cooperation (OIC) and the Gulf Cooperation Council (GCC) on Sunday issued a joint statement condemning remarks by the US ambassador to Israel, Mike Huckabee, that it “would be fine” if Israel took over a huge swath of the Middle East.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "US ambassador's Israel comments condemned by Arab and Muslim nations",
-              "url": "https://www.bbc.com/news/articles/cn5gkkgdzkyo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Arab, Muslim nations slam ‘inflammatory’ remarks by US ambassador to Israel",
-              "url": "https://www.france24.com/en/middle-east/20260222-arab-muslim-nations-slam-inflammatory-remarks-by-us-ambassador-to-israel"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Israeli strikes kill at least 10 in Lebanon, officials say",
-          "neutralSummary": "The strikes are among the deadliest in Lebanon since a ceasefire ended the war between Israel and Hezbollah.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Israeli strikes kill at least 10 in Lebanon, officials say",
-              "url": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss"
+              "headline": "Over 200 Venezuelan political prisoners launch hunger strike over amnesty law exclusions",
+              "url": "https://www.france24.com/en/americas/20260222-200-venezuelan-political-prisoners-hunger-strike-amnesty-law-exclusions"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "France to summon US ambassador over comments on slain far-right activist, foreign minister says",
-          "neutralSummary": "France will summon the US ambassador ​to ‌France, Charles ⁠Kushner, over comments on ‌the killing of a French far-right ⁠activist Quentin Deranque last week, French Foreign ​Minister Jean-Noël Barrot said ​on Sunday",
+          "neutralHeadline": "Pakistan claims to have killed at least 70 militants in strikes along the Afghan border",
+          "neutralSummary": "Pakistan claims to have killed at least 70 militants in strikes along the Afghan border&nbsp;&nbsp;AP NewsPakistan launches deadly strikes on Afghanistan&nbsp;&nbsp;BBCPakistan launches airstrikes against Afghan-based ‘militants’ it blames for cross-border attacks&nbsp;&nbsp;CNNAfghanistan promises",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "CNN",
-              "initials": "CNN",
-              "domain": "news.google.com",
-              "headline": "France summons US ambassador over comments about death of far-right activist",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMW04TzNRNlhuaFhXM2c0dWtuazBDTGxFZFZscUptTG1kWlFIR1AtOWZQV3Y1cktPN3FxV0w1MHJ1TDVNYWdnaVpQWFN6UklYVnkyUHRxSU00bmNTdzhUbXVLckVOb1B0VWYtRlFaVUR6ZFVvQlBOSTRjaGpqWWRUN0FQU0NNYVpZVl9BT3Q5UQ?oc=5"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Pakistan claims to have killed at least 70 militants in strikes along Afghan border",
+              "url": "https://www.npr.org/2026/02/22/nx-s1-5722854/pakistan-border-strikes-afghanistan-70-killed"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "France to summon US ambassador over comments on slain far-right activist, foreign minister says",
-              "url": "https://www.france24.com/en/france/20260222-france-to-summon-us-ambassador-over-comments-on-slain-far-right-activist-foreign-minister-says"
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Pakistan claims to have killed at least 70 militants in strikes along the Afghan border",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEhZQ3c3YkhZS0hkbUlIbFktSTdMNmlwTnlUX1VjZDEtVWRGbkhwNXF4Tm1Rb1pRZVp3VUVkT3Z3MnFZOHBJY3g5VUJTOEpHNnBDWHBJTWhkRERJcWFpTkxZb3J4dzF1MGdLYk1oQ0FmR2ZwWjNLcnlUTEpES0tUZFdpcUpfWGxmLTNQdHppYTVyd3pLS3lPN3FBdDhDRlBYTl9KU2d1TE0?oc=5"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Slovakia's Fico threatens to cut off electricity supply to Ukraine unless Russian oil flows resume",
-          "neutralSummary": "Slovakia's Fico threatens to cut off electricity supply to Ukraine unless Russian oil flows resume&nbsp;&nbsp;Euronews.comUkraine war briefing: Kyiv condemns ‘blackmail’ by Hungary and Slovakia in energy supplies dispute&nbsp;&nbsp;The GuardianHungary to Block EU Sanctions Package Over Druzhba Stand",
+          "neutralHeadline": "France to summon US ambassador over Trump admin's comments on far-right activist's killing",
+          "neutralSummary": "The French foreign ministry will summon the US ambassador to Paris over comments made by the Trump administration about the killing of a French far-right activist blamed on the hard left, France's top diplomat said Sunday. The death of Quentin Deranque has put France on edge, igniting tensions betwe",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Euronews.com",
-              "initials": "E",
+              "source": "Politico",
+              "initials": "POL",
               "domain": "news.google.com",
-              "headline": "Slovakia's Fico threatens to cut off electricity supply to Ukraine unless Russian oil flows resume",
-              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjdSRGpnSExPeHV1ZVY2ZmpOVmdmMHJtOVo5bVpKTHVDVDNzVGdCNHhhT21fdVhmNS11dzc3djIwWjZzQ1paWHM2NjRWTFZXUjhFWVVRZHpEM01TcUJSaURBS0hVRk92NHJ4VkJkQXZNLXY1Ymt0RkFnM1F1akJUaFNhTmRKWXgzbTRIWldIRWV6VVJBcmVfdk14Nzl3X1Y2dF93bFRfSjB3YkVWTXU4OUszTXBsUnltakxKbXhEM1NMSW1Z?oc=5"
+              "headline": "France will summon Ambassador Charles Kushner over US comments on activist’s death",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaG1pYjdiUnNvQnAwOS1CSnJCS2tXRjFvaWc3Z1pBS2owWHItTTN4SWE3Rm8za3cyYlQzM2VTM3VjUnRGQ2p3M0pjSktwTEtpVlptdWdkRDVpVHVMR204ZEdpSzZQOFdwcTRMcHVDdTctS01KTnhoYkFfOHpkX0dtU3RtMVRCYm9vV2h3Zy1jTW9TdF9BNmRacWdhWk5pOXdoTVpHaXJkOFN1V0JUcFJmb2h5VktYZkgwRmxNSlVnOVhfYTc4NTQzbHRITQ?oc=5"
             },
             {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Hungary threatens to block EU loan to Ukraine unless Russian oil shipments resume",
-              "url": "https://www.foxnews.com/world/hungary-threatens-block-eu-loan-ukraine-unless-russian-oil-shipments-resume"
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "France to summon US ambassador over Trump admin's comments on far-right activist's killing",
+              "url": "https://www.france24.com/en/video/20260222-france-to-summon-us-ambassador-over-trump-s-admin-s-comments-on-far-right-activist-s-killing"
             }
           ]
         }
@@ -272,8 +254,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "DHS suspends TSA PreCheck, Global Entry programs amid shutdown",
-          "neutralSummary": "The Department of Homeland Security (DHS) will pause two of its programs meant to expedite the Transportation Security Administration&#8217;s (TSA) airport screening process starting Sunday as a shutdown of the agency stretches into a second week, according to the agency. The TSA PreCheck and Global",
+          "neutralHeadline": "Armed Man Shot Dead at Mar-a-Lago by Trump’s Secret Service Was a 21-Year-Old From N.C.",
+          "neutralSummary": "The 21-year-old man, from North Carolina, was killed by law enforcement officers after he entered secure perimeter of Mar-a-Lago.",
           "versions": [
             {
               "political": "left",
@@ -281,17 +263,8 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Homeland Security to Shut T.S.A. PreCheck and Global Entry at Airports",
-              "url": "https://www.nytimes.com/2026/02/22/us/tsa-precheck-global-entry-homeland-security-shutdown.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "DHS suspending TSA PreCheck and Global Entry as shutdown continues",
-              "url": "https://www.washingtonpost.com/nation/2026/02/21/tsa-precheck-global-entry-shutdown/"
+              "headline": "Armed Man Shot Dead at Mar-a-Lago by Trump’s Secret Service Was a 21-Year-Old From N.C.",
+              "url": "https://www.nytimes.com/2026/02/22/us/north-carolina-man-shot-html.html"
             },
             {
               "political": "left",
@@ -299,17 +272,51 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Homeland Security suspends TSA PreCheck and Global Entry airport security programs",
-              "url": "https://www.npr.org/2026/02/22/nx-s1-5722770/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security"
+              "headline": "Armed man is shot and killed at Mar-a-Lago, Palm Beach Sheriff says",
+              "url": "https://www.npr.org/2026/02/22/g-s1-111099/mar-a-lago-armed-man-shot"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "DHS suspends TSA PreCheck, Global Entry programs amid shutdown",
-              "url": "https://thehill.com/policy/transportation/5749579-tsa-precheck-global-entry-pause/"
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Armed man shot and killed inside Mar-a-Lago perimeter, Secret Service says",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdjN1TVlDa0t1WlF3M3RpelRPT2tqVWJmdDQwMDk3QXI1bnBidmctUGh1QWpYSHlkWVJQMFFQU1lpRXZIb0FGQWVXd3pMcTVyd3NpOUdLS093VjJlU1c1WTVwb1k2cVcyYVFJTzRPRVFEQWNCSWdTcVNLTVNrbDM5dktn?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Missing North Carolina Man Identified As Armed Intruder Shot Dead At Mar-A-Lago",
+              "url": "https://www.dailywire.com/news/missing-north-carolina-man-identified-as-armed-intruder-shot-dead-at-mar-a-lago"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Denmark Rejects Trump’s Plan to Send Hospital Boat to Greenland",
+          "neutralSummary": "Denmark’s defense minister said Greenland did not need health care assistance, a day after President Trump said he planned to send a “great hospital boat” to the island.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Denmark Rejects Trump’s Plan to Send Hospital Boat to Greenland",
+              "url": "https://www.nytimes.com/2026/02/22/us/politics/trump-greenland-hospital-ship.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Trump’s talk of sending a hospital ship to Greenland puzzles leaders",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmYtUnJYRnFEaE0yNW4zdXpWMTBWZWt2cTFsNUMwYUlmTlo1OXBNX19STjNSbXNTU1J1T2RMcWFBRXo0Y2FjSWhYZXk4cWdMblIxNDZRSlhlRW53VElCREwybjNIc3NGVDd1bWc5aDNRNDNxLXA1amdoVVNnV3VEQWpZU3RhSUVi?oc=5"
             },
             {
               "political": "right",
@@ -317,22 +324,65 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "DHS suspends TSA PreCheck, Global Entry as partial government shutdown continues",
-              "url": "https://www.foxnews.com/politics/dhs-suspends-tsa-precheck-global-entry-partial-government-shutdown-continues"
+              "headline": "Greenland rejects Trump's hospital ship proposal, citing existing free healthcare system",
+              "url": "https://www.foxnews.com/politics/greenland-rejects-trumps-hospital-ship-proposal-citing-existing-free-healthcare-system"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Homeland Security suspends TSA PreCheck and Global Entry airport security programs",
-              "url": "https://nypost.com/2026/02/22/us-news/homeland-security-suspends-tsa-precheck-and-global-entry-airport-security-programs/"
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Greenland rejects Trump’s hospital ship: ‘No thanks’",
+              "url": "https://www.washingtonexaminer.com/news/world/4467034/greenland-rejects-trump-hospital-ship/"
             }
           ]
         },
         {
-          "id": "us-2",
+          "id": "us-3",
+          "neutralHeadline": "Leader of Mexico's Jalisco cartel, Nemesio Rubén Oseguera Cervantes, 'El Mencho,' killed by Mexican military: official",
+          "neutralSummary": "Leader of Mexico's Jalisco cartel, Nemesio Rubén Oseguera Cervantes, 'El Mencho,' killed by Mexican military: official&nbsp;&nbsp;WBAL News RadioTehran is ready for nuclear concessions if US meets demands, Iranian official says&nbsp;&nbsp;ReutersU.S.-Iran talks expected Thursday to discuss nuclear p",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Mexican army kills leader of Jalisco New Generation Cartel, official says",
+              "url": "https://www.npr.org/2026/02/22/nx-s1-5722897/mexican-army-kills-leader-of-jalisco-new-generation-cartel-official-says"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "WBAL News Radio",
+              "initials": "WN",
+              "domain": "news.google.com",
+              "headline": "Leader of Mexico's Jalisco cartel, Nemesio Rubén Oseguera Cervantes, 'El Mencho,' killed by Mexican military: official",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbE8xVGktYUoyRVR0M3RRcVIyRWI0bTVXbU5kTlZxRjFzM28teWJidUJxWDRVTzBSOWJrb1g0OEpSa2Jlb0tIemc4WkRNMkh6aWlNcTFpcVpPemU0clM2VUtBbkp0VFhKOXo3b1RralpjanFwUDFPUzVHVkI0YkhUdjJGUkU0WGV0YWRqNHFZei04RkVWQzJVWFFJc3R5ZnZfbllJeFVmV1h5QXlYLVI4WHBIalVfaHRoWUs3dlV5Y08xX1dsNGNCX1RXaUI?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "US Embassy tells Americans to shelter in place after Mexican army kills cartel leader",
+              "url": "https://thehill.com/policy/international/5750142-state-dept-shelter-mexico-cartel-leader-killing/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Mexican security forces kill leader of Jalisco New Generation Cartel ‘El Mencho’",
+              "url": "https://www.washingtonexaminer.com/news/world/4466923/mexico-cartel-leader-el-mencho-dead/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
           "neutralHeadline": "Supreme Court Ruling Offers Little Relief For Republicans Divided On Trump's Tariffs",
           "neutralSummary": "Some Republicans seemed relieved at the news that the Supreme Court had struck down President Donald Trump’s global tariff regime.",
           "versions": [
@@ -353,15 +403,47 @@
               "domain": "vox.com",
               "headline": "The Supreme Court just blew up Trump’s foreign policy",
               "url": "https://www.vox.com/politics/479992/supreme-court-foreign-policy-tariffs"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
+          "neutralSummary": "The top negotiators plan to meet in Geneva on Thursday for last-ditch talks, debating a new proposal that could create an off-ramp as two carrier groups massed within striking distance of Iran.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
+              "url": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump reveals his 'new hero' Supreme Court justice after tariffs ruling",
-              "url": "https://www.foxnews.com/politics/trump-reveals-his-new-hero-supreme-court-justice-after-tariffs-ruling"
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Iran talks to resume after Trump goes public on strike option",
+              "url": "https://www.washingtonexaminer.com/news/world/4467040/iran-talks-to-resume-trump-considers-strike/"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Homeland Security to Shut TSA PreCheck and Global Entry at Airports",
+          "neutralSummary": "The Department of Homeland Security had said earlier on Sunday that it would suspend the priority airport security program, about a week after its funding lapsed because of the partial government shutdown.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Homeland Security to Shut TSA PreCheck and Global Entry at Airports",
+              "url": "https://www.nytimes.com/2026/02/22/us/tsa-precheck-global-entry-homeland-security-shutdown.html"
             },
             {
               "political": "right",
@@ -369,160 +451,42 @@
               "source": "NY Post",
               "initials": "NYP",
               "domain": "nypost.com",
-              "headline": "Trump reveals his ‘new hero’ Supreme Court justice after tariffs ruling",
-              "url": "https://nypost.com/2026/02/22/us-news/trump-calls-brett-kavanaugh-his-new-hero-after-supreme-court-tariffs-ruling/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Trump says he’s sending ‘great’ US hospital boat to Greenland",
-          "neutralSummary": "President Trump on Saturday said he was sending a “great” U.S. hospital boat to Greenland, a territory of Denmark that the president fixated on in recent months. “Working with the fantastic Governor of Louisiana, Jeff Landry, we are going to send a great hospital boat to Greenland to take care of th",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Denmark Rejects Trump’s Plan to Send Hospital Boat to Greenland",
-              "url": "https://www.nytimes.com/2026/02/22/us/politics/trump-greenland-hospital-ship.html"
+              "headline": "Chaos at LAX after TSA PreCheck and Global Entry shut, furious flyers trapped in massive lines",
+              "url": "https://nypost.com/2026/02/22/us-news/lax-mayhem-as-tsa-lines-and-global-entry-are-halted/"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Wall Street Journal",
-              "initials": "WSJ",
-              "domain": "news.google.com",
-              "headline": "Trump Says He Is Sending Hospital Ship to Greenland",
-              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjQweFNuYkNkWXc3OElWQzlXTUViRnd5elBxa3I1N29oQ3ZKUjhzdHd1cTJVTjlwcG84elFYYWR1cF9ESzdwWTRYNmNMbjRISTNmT1Jqb3lGcmVrMlY5ckgxSkljUkhBNGhBWXlBZU1YcEREVnBGT3l6NWFvMndfaVFlalNuemlDWmQ3WUw5UjE1cU5qdEEycTFWU1lwLXRLVDNkTHFVRXU0LWc?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump says he’s sending ‘great’ US hospital boat to Greenland",
-              "url": "https://thehill.com/homenews/administration/5749675-trump-greenland-hospital-boat/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump sending US military hospital ship to Greenland to 'take care' of sick",
-              "url": "https://www.foxnews.com/politics/trump-sending-us-military-hospital-ship-greenland-take-care-sick"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Trump pulls endorsement of Hurd over tariffs vote",
-          "neutralSummary": "President Trump withdrew his endorsement for Rep. Jeff Hurd (R-Colo.) on Saturday over what he called a “lack of support” for the president’s sweeping tariff agenda, saying he would endorse Hurd’s challenger in the upcoming GOP primary instead. “Based of a lack of support, in particular for the unbe",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Pulls Support From House Republican Who Opposed Tariffs",
-              "url": "https://www.nytimes.com/2026/02/21/us/trump-pulls-endorsement-hurd-tariffs.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump pulls endorsement of Hurd over tariffs vote",
-              "url": "https://thehill.com/homenews/campaign/5749448-hurd-loses-trump-backing/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump pulls endorsement from GOP lawmaker over alleged lack of support for administration's tariff agenda",
-              "url": "https://www.foxnews.com/politics/trump-pulls-endorsement-gop-lawmaker-alleged-lack-support-administrations-tariff-agenda"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Schiff to boycott Trump’s State of the Union, speak at alternative event",
-          "neutralSummary": "Sen. Adam Schiff (D-Calif.) is joining a growing group of Democrats who plan to boycott President Trump’s State of the Union address next Tuesday in favor of an alternative event, according to progressive media outlet MeidasTouch. The outlet reported that Schiff is set to speak at a counter rally on",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "60% disapprove of Trump ahead of State of the Union, Post-ABC poll finds",
-              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX25CSGhFWFNITkRoZlNxOGlVMV9hYU9fTG01c3lZMTZUMzNOaDAxNURscVdGY05PV0daWGpRc2UwSTBqUm83X0ZMM0FkZWR5SnJBNW9qWm9tbDlld0FfSFpEUG5qUDgwdFBrM0NjdW9CUFFYdTd5dG5VNWhHWExUQmNWOS1Bdw?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Schiff to boycott Trump’s State of the Union, speak at alternative event",
-              "url": "https://thehill.com/homenews/senate/5749515-schiff-boycott-trump-state-union/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Global Leaders And Businesses Pore Over Fallout Of More U.S. Tariff Swoons",
-          "neutralSummary": "Business chiefs and government leaders are poring over the fallout of a U.S. Supreme Court decision that invalidated some tariffs by President Donald Trump's administration and his response to it.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Global Leaders And Businesses Pore Over Fallout Of More U.S. Tariff Swoons",
-              "url": "https://www.huffpost.com/entry/supreme-court-tariffs-world_n_699a8a0de4b05375e27b0b59"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump raises global tariff to 15%",
-              "url": "https://www.foxnews.com/politics/trump-raises-global-tariff-15-percent"
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Government Shutdown Hits Travelers: Global Entry Suspended, PreCheck Still Operational",
+              "url": "https://www.dailywire.com/news/government-shutdown-hits-travelers-precheck-global-entry-suspended"
             }
           ]
         },
         {
           "id": "us-7",
-          "neutralHeadline": "Trump Heaps Praise On His 'New Hero' The Morning After Tirade Against Supreme Court",
-          "neutralSummary": "President Donald Trump struck a more upbeat note following his diatribe against the justices who voted against him on global tariffs.",
+          "neutralHeadline": "Trump posts about Olympics on closing day of games",
+          "neutralSummary": "President Trump praised Team USA as the Winter Olympics concluded Sunday. Just over 30 minutes after the U.S. men’s hockey team knocked off Canada in the gold medal game, the president wrote on his Truth Social platform, “LOTS OF WINNING!!!” Later Sunday afternoon, Trump touted the U.S. winning 12 g",
           "versions": [
             {
               "political": "left",
-              "tone": "optimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Heaps Praise On His 'New Hero' The Morning After Tirade Against Supreme Court",
-              "url": "https://www.huffpost.com/entry/trump-supreme-court-new-hero_n_6999d67ce4b05375e27a031a"
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Reporters' notebook: The Olympics closing ceremony is way more fun than you'd think",
+              "url": "https://www.npr.org/2026/02/22/nx-s1-5722948/2026-olympics-closing-ceremony"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Divide Among Supreme Court’s Conservatives Could Test Trump’s Agenda",
-              "url": "https://www.nytimes.com/2026/02/21/us/politics/supreme-court-tariffs-conservatives.html"
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump posts about Olympics on closing day of games",
+              "url": "https://thehill.com/homenews/administration/5750306-trump-posts-about-olympics-on-closing-day-of-games/"
             }
           ]
         },
@@ -553,26 +517,17 @@
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Trump’s tariff defeat, briefly explained",
-          "neutralSummary": "This story appeared in&#160;The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&#160;Subscribe here. Welcome to The Logoff: Donald Trump’s tariffs are unlawful, the Supreme Court said on Friday.&#160;&#160; Wh",
+          "neutralHeadline": "Iran Could Direct Proxies to Attack U.S. Targets Abroad, Officials Warn",
+          "neutralSummary": "Security officials are monitoring increasingly worrisome signs as President Trump considers another military campaign against Iran.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Trump’s tariff defeat, briefly explained",
-              "url": "https://www.vox.com/the-logoff-newsletter-trump/479948/trump-tariffs-illegal-supreme-court-ieepa-briefly-explained"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Trump Slaps 10% Tariff On The World — ‘Effective Immediately’",
-              "url": "https://www.dailywire.com/news/after-scotus-ruling-trump-fires-back-with-10-tariff-on-all-countries"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Iran Could Direct Proxies to Attack U.S. Targets Abroad, Officials Warn",
+              "url": "https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html"
             }
           ]
         }
@@ -583,8 +538,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "SFA investigating rodent sighting at Lucky Plaza foodcourt",
-          "neutralSummary": "Cleaning, disinfection and inspections of the premises were later conducted, Asian Food Mall said.",
+          "neutralHeadline": "‘I thought they were sweets’, says Singaporean who refused offer of drugs at Batam nightclub",
+          "neutralSummary": "Drug peddlers in Batam target Singaporeans at nightclubs offering drugs such as methamphetamine and ecstasy.",
           "versions": [
             {
               "political": "center",
@@ -592,111 +547,79 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "SFA investigating rodent sighting at Lucky Plaza foodcourt",
-              "url": "https://www.straitstimes.com/singapore/sfa-investigating-rodent-sighting-at-lucky-plaza-foodcourt"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "mustsharenews.com",
-              "initials": "M",
-              "domain": "news.google.com",
-              "headline": "Rodent seen eating from diner’s plate at Lucky Plaza, man catches it with cloth",
-              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCUVpwa3NXZ1dxemIyQjZjMVFTRkFHS2piUVhZaW9mRXpqQVF5UFBfcV9CQmplU01hbmFpaFRYSEpISmVESlVrd2wzNFNpMWhDWkZlZWFrUEFNeUFTQUYzOUwzWdIBaEFVX3lxTE8yd3hHeHdVN1RHeFU3c2dwOXBTZGl2WF9WMnBCNmhOMjBOU0tjMEc2QXRXREltT2h6dm9NQlFnTG0yTjlQakpLUzI3VEJCRkJkY1JVbGg0NWdZRHZNeWtBN2ZUMjVoTEJk?oc=5"
+              "headline": "‘I thought they were sweets’, says Singaporean who refused offer of drugs at Batam nightclub",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/i-thought-he-was-offering-me-sweets-they-were-drugs-sporean-at-batam-nightclub"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "ComfortDelGro investigating after taxi seen travelling with open door",
-          "neutralSummary": "A recording of the incident, which allegedly happened on Feb 19, was uploaded to Facebook.",
+          "neutralHeadline": "Asian stocks rally after Trump's Supreme Court tariffs blow",
+          "neutralSummary": "Asian stocks rally after Trump's Supreme Court tariffs blow",
           "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "ComfortDelGro investigating after taxi seen travelling with open door",
-              "url": "https://www.straitstimes.com/singapore/comfortdelgro-investigating-after-taxi-seen-travelling-with-open-door"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
-          "neutralHeadline": "Motorcyclist dies after accident with tipper truck on AYE",
-          "neutralSummary": "A male tipper truck driver, 38, is assisting with investigations.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Motorcyclist dies after accident with tipper truck on AYE",
-              "url": "https://www.straitstimes.com/singapore/motorcyclist-dies-after-accident-with-tipper-truck-on-aye"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Seniors in over 80,000 private homes can tap subsidies for ageing-friendly fittings from April",
-          "neutralSummary": "Eligible households will receive $1,200 in vouchers to offset 75 per cent of the installation cost.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Seniors in over 80,000 private homes can tap subsidies for ageing-friendly fittings from April",
-              "url": "https://www.straitstimes.com/singapore/housing/seniors-in-over-80000-private-homes-can-tap-subsidies-for-ageing-friendly-fittings-from-april"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "CNA",
               "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Asian stocks rally after Trump's Supreme Court tariffs blow",
+              "url": "https://www.channelnewsasia.com/asia/asian-stocks-rally-trump-tariffs-supreme-court-5946236"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "China Stocks in Hong Kong Jump as US Court Strikes Down Tariffs",
+              "url": "https://www.bloomberg.com/news/articles/2026-02-23/china-stocks-in-hong-kong-jump-as-us-court-strikes-down-tariffs"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
+          "neutralHeadline": "Why Indonesia is getting an aircraft carrier, and how Southeast Asian countries could respond",
+          "neutralSummary": "The acquisition of the Giuseppe Garibaldi would make Indonesia the second country in Southeast Asia, and the fifth in Asia, to operate an aircraft carrier.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Why Indonesia is getting an aircraft carrier, and how Southeast Asian countries could respond",
+              "url": "https://www.channelnewsasia.com/asia/indonesia-aircraft-carrier-military-strategic-maritime-5942391"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Strong quake hits off Malaysia's Sabah",
+          "neutralSummary": "The 7.1-magnitude earthquake struck 100km outside of Malaysia's Kota Kinabalu, with some residents in Singapore saying they felt the tremors.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Strong quake hits off Malaysia's Sabah",
+              "url": "https://www.channelnewsasia.com/asia/strong-earthquake-eastern-malaysia-sabah-5945771"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
               "domain": "news.google.com",
-              "headline": "Over 80,000 private households eligible for S$1,200 in vouchers to install elderly-friendly fittings",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSm51TVB0NGs2eHR3S1VhYWlaYVlhY2xwS19LOUhueVpYM2E0c09WNlN3MHpIMHBEcDlKNEh0MHN5WTVjaVZERkxVeTJFWVZtbFBuNmU4ZVJlcmo1RkxPY0MySEp1YU10NVFUQktlU2UxS0dKTmVhM3hiSml4VmJUT0xiRjJZcWlmeTcybEExSVpLWHFnOHpIRUJoYllQWERiWmV6Ti1YMlNVOVlTZktIQXl1Nkw0bVhRel9F?oc=5"
+              "headline": "Strong 7.1-magnitude quake hits off Malaysia’s Sabah state; some in S’pore say they felt tremors",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWx4WE5NUi1wdEhmSHg4elFjOXpUbDBDY0l1ME02ZHkzYVI5RVdPU1o2MU92bmUxQktzSmtUWjZMdU1GRHU0WTZwaFlfZHdqMzJ0Wk9nckNpWkctbzFVSVhXSWhucUZ6V2J3bEUwMlAxM0JDUEV5Q2hfeFFoMWFwQ0N5WC10OXM?oc=5"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "Police looking for suspect who trespassed into house in Upper Thomson",
-          "neutralSummary": "The police received a call for assistance at a residence in  Marigold Drive on the night of Feb 21.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Police looking for suspect who trespassed into house in Upper Thomson",
-              "url": "https://www.straitstimes.com/singapore/police-looking-for-suspect-who-trespassed-into-house-in-upper-thomson"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "‘Truly terrible’: Passenger describes escape after fatal fire breaks out on World Legacy cruise ship",
-          "neutralSummary": "The Indonesian crew member who died was a 23-year-old laundry attendant.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "‘Truly terrible’: Passenger describes escape after fatal fire breaks out on World Legacy cruise ship",
-              "url": "https://www.straitstimes.com/singapore/truly-terrible-passenger-describes-escape-after-fatal-fire-breaks-out-on-world-legacy-cruise-ship"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
           "neutralHeadline": "India delays US trade talks after Supreme Court rejects Trump tariffs: Source",
           "neutralSummary": "The delegation had been set to leave on Sunday for talks to finalise an interim trade deal.",
           "versions": [
@@ -712,7 +635,7 @@
           ]
         },
         {
-          "id": "singapore-8",
+          "id": "singapore-6",
           "neutralHeadline": "Pakistan launches deadly strikes in Afghanistan",
           "neutralSummary": "Pakistan launches deadly strikes in Afghanistan",
           "versions": [
@@ -737,18 +660,68 @@
           ]
         },
         {
-          "id": "singapore-9",
-          "neutralHeadline": "China Defies Global ‘AI Scare Trade’ as Investors Chase Winners",
-          "neutralSummary": "China Defies Global ‘AI Scare Trade’ as Investors Chase Winners&nbsp;&nbsp;BloombergChinese AI start-ups surge after holiday in rotation from Big Tech&nbsp;&nbsp;Yahoo Finance SingaporeChina’s AI stocks rally as local investors chase winners&nbsp;&nbsp;Tech in AsiaChina’s AI rally ignites as investo",
+          "id": "singapore-7",
+          "neutralHeadline": "Wall St futures, dollar drop amid US tariff tumult",
+          "neutralSummary": "Wall St futures, dollar drop amid US tariff tumult",
           "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Wall St futures, dollar drop amid US tariff tumult",
+              "url": "https://www.channelnewsasia.com/business/wall-st-futures-dollar-drop-amid-us-tariff-tumult-5946081"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Dollar, US Futures Decline on Tariff Uncertainty: Markets Wrap",
+              "url": "https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "US trade chief says no countries have said they will withdraw from tariff deals",
+          "neutralSummary": "\"I haven't heard anyone yet come to me and say the deal is off,\" Jamieson Greer said.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "US trade chief says no countries have said they will withdraw from tariff deals",
+              "url": "https://www.channelnewsasia.com/world/trump-tariffs-us-trade-chief-no-countries-withdraw-deals-5945681"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Bloomberg",
               "initials": "BB",
-              "domain": "news.google.com",
-              "headline": "China Defies Global ‘AI Scare Trade’ as Investors Chase Winners",
-              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXpzcDRsM05qQWlXeTU2OG9nVVh0SXVBVXVvNmg3WXhTU3dUcDUxQ05MRms2cVVlU01pc2N1Z0FtUHpfa2pOX25Xd3JOekNNOFV2R3V3Z29STU1nTW9hNGJXRnBlcDRBZ1BKU2cwRWJOTWdWTVl2MGdBTHNDOUZLeXJpMmpITmIyLU1fSXhfN2x0SVUwUG4yVlhuYkIxeGtEdzBuME8tM2lvRHVmeFNydHJ3?oc=5"
+              "domain": "bloomberg.com",
+              "headline": "Gold Rises as Trump Tariff Defeat Throws Trade Deals Into Doubt",
+              "url": "https://www.bloomberg.com/news/articles/2026-02-22/gold-rises-as-trump-s-tariff-knockback-generates-uncertainty"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
+          "neutralHeadline": "Huat a deluge: CNY week drowns February average, brings 2026’s wettest day yet",
+          "neutralSummary": "The highest daily rainfall so far in 2026 – 148.6mm – was recorded on Feb 19 in Margaret Drive.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Huat a deluge: CNY week drowns February average, brings 2026’s wettest day yet",
+              "url": "https://www.straitstimes.com/singapore/huat-a-deluge-cny-week-outpours-february-average-brings-2026s-wettest-day-yet"
             }
           ]
         }
@@ -759,51 +732,60 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Former Assam Congress president Bhupen Kumar Borah joins BJP",
-          "neutralSummary": "Former APCC chief Bhupen Borah joins BJP in Guwahati, ends 32-year Congress stint ahead of Assam Assembly elections",
+          "neutralHeadline": "'Be aware': Indian embassy issues advisory for nationals in Mexico after powerful drug lord killed",
+          "neutralSummary": "The Indian Embassy in Mexico has issued an urgent advisory for its citizens to remain indoors due to widespread violence following a major security operation. The operation resulted in the death of a top Jalisco New Generation Cartel leader, sparking retaliatory actions across several states and par",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Indian Embassy issues advisory for its nationals in Mexico after powerful drug lord El Mencho killed",
+              "url": "https://www.thehindu.com/news/national/be-aware-of-surroundings-seek-shelter-indian-embassy-issues-advisory-for-its-citizens-in-mexico-after-killing-of-drug-cartel-leader-el-mencho/article70665470.ece"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "'Congress Has No Funds To Contest Assam Polls': Ex State Chief Joins BJP",
-              "url": "https://www.ndtv.com/india-news/bhupen-borah-gaurav-gogoi-congress-has-no-funds-to-contest-assam-polls-ex-state-chief-joins-bjp-11120968#publisher=newsstand"
+              "headline": "Mexico Cartel Leader Killed LIVE: Indian Embassy Issues Advisory For Citizens In Mexico After Killing Of Drug Lord 'El Mencho'",
+              "url": "https://www.ndtv.com/world-news/el-mencho-mexico-jalisco-new-generation-cartel-cjng-leader-killed-live-updates-military-us-canada-mexican-soldiers-violence-erupts-in-mexico-11122871#publisher=newsstand"
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Former Assam Congress president Bhupen Kumar Borah joins BJP",
-              "url": "https://www.hindustantimes.com/india-news/former-assam-congress-president-bhupen-kumar-borah-joins-bjp-101771749819416.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "Times of India",
               "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "Bhupen Borah joins BJP days after quitting Congress ahead of Assam elections",
-              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORUt5Yl82S1pTQ2hrRzNGbHZoVVpYYVZnMHB6S0ZRckpUam9rdlUtN3diR1E2UG0xUm1YRzdWWTd0TFdYOExiUjhvbzhKYTZpZ0V2Ymo1RHZ5SEZzdHNBYnNOYUNTcF9RbXZ3eVR5ZTNxdkxkWlkzNjZjLWVZaHEzQWRubVJFWV9XXzZqbzhOc1FoVnJaeFE0SV9NY181MmMxbHNpb1A1WWRDb2pCazdGRmV3MEVSRk4xUHA5ZEQyMzl4Q1ZxXzg0dE9tSmdNVkdDb2xLREk4VkVGS1p3?oc=5"
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Be aware': Indian embassy issues advisory for nationals in Mexico after powerful drug lord killed",
+              "url": "https://timesofindia.indiatimes.com/india/be-aware-indian-embassy-issues-advisory-for-nationals-in-mexico-after-powerful-drug-lord-el-mencho-killed/articleshow/128695573.cms"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "'Imperils Republic's image': Delhi court blasts Congress' 'shirtless' protest at AI Summit",
-          "neutralSummary": "A Delhi court has remanded four Indian Youth Congress workers to five-day police custody, deeming their protest at the AI Impact Summit-2026 a \"blatant assault on public order\" that harmed India's diplomatic image. The activists wore provocative T-shirts, chanted slogans, and assaulted police person",
+          "neutralHeadline": "Mukul Roy, ex-railway minister and TMC leader, passes away at 71",
+          "neutralSummary": "Mukul Roy died of a cardiac arrest at Apollo Hospital in Salt Lake, Kolkata, his son Subhranshu Roy reportedly confirmed.",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Imperils Republic's image': Delhi court blasts Congress' 'shirtless' protest at AI Summit",
-              "url": "https://timesofindia.indiatimes.com/india/imperils-republics-image-delhi-court-blasts-congress-shirtless-protest-at-ai-summit/articleshow/128676650.cms"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Mukul Roy, former Union Railway Minister, passes away after prolonged illness",
+              "url": "https://www.thehindu.com/news/national/former-union-railway-minister-mukul-roy-passes-away/article70665513.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Ex-Railway Minister And Once 'Chanakya Of Politics' Mukul Roy Dies At 71",
+              "url": "https://www.ndtv.com/india-news/mukul-roy-death-ex-railway-minister-and-once-chanakya-of-bengal-politics-mukul-roy-dies-at-71-11122979#publisher=newsstand"
             },
             {
               "political": "center",
@@ -811,15 +793,33 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "‘Imperils the Republic’s image': Delhi court on shirtless protest by Youth Congress at AI summit",
-              "url": "https://www.hindustantimes.com/india-news/imperils-the-republic-s-image-delhi-court-on-shirtless-protest-by-youth-congress-at-ai-summit-101771755939337.html"
+              "headline": "Mukul Roy, ex-railway minister and TMC leader, passes away at 71",
+              "url": "https://www.hindustantimes.com/india-news/mukul-roy-ex-bengal-railway-minister-tmc-leader-passes-away-at-71-cardiac-arrest-son-mukul-roy-death-101771814417503.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "News18",
+              "initials": "N18",
+              "domain": "news.google.com",
+              "headline": "Mukul Roy Passes Away: Bengal's Master Strategist Who Was Once TMC's No. 2",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVGE4MXZteUZlRTRBS1dNZFlkbzZYQTRRWWdpdlEwUWwwR0pyRGVDOEVoam5VbFlEb3lQV0VHdWZoOURFUWxnMm1yODdfUWhnblowQXFMa2tFWGEyNHpZQzRDdmF0Y082RmEyZHdhOTFGTmRVQmNqdy12RUU0MzhERTNJVF9FZnNQcGxrQ1hFSWhmTnByeHEwdWp1Ynk0MDNuVG5CdlZUUHlvYl9RcUhwdWI0LTROWW9VZGQ3TVVn0gHDAUFVX3lxTE5qS01qOXA1ZTFUS0NRZEtNM1JSUjk3R1VzZ2d4M0JyUDdDOXZPZTR1R0dpM2h0V3pqZksxeXBRNFJFRWNoRFlyb3lTWWpoNUdnRWFxNWlHTjg2OG13MWY5anMxckgyTmUyaXViSnNOaXRySUZZZzRXV1BFRXJHLW1iODdteGQ2T1lSdmlGUGFOWDVZM2NkM19GVGV1UjBNa21qVVU2Yk1hUmdZRTlsSEI4b1N2cVJ4X2ptWTY5Z2l0VXF2VQ?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "Former Railway Minister And Veteran Trinamool Leader Mukul Roy Dies At 71 After Cardiac Arrest In Kolkata Hospital",
+              "url": "https://swarajyamag.com/news-brief/former-railway-minister-mukul-roy-dies-at-71-after-cardiac-arrest-in-kolkata-hospital"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Gautam Adani pays obeisance at Baba Baidyanath temple in Jharkhand's Deoghar",
-          "neutralSummary": "Gautam Adani pays obeisance at Baba Baidyanath temple in Jharkhand's Deoghar&nbsp;&nbsp;MillenniumPostGautam Adani Reviews Projects Worth Over Rs 40,000 Crore In Jharkhand, Bihar&nbsp;&nbsp;NDTVAdani visits site as Rs30,000-crore thermal power project gathers pace in Bhagalpur&nbsp;&nbsp;The Times o",
+          "neutralHeadline": "India AI Impact Summit a turning point of future global AI use: PM Modi",
+          "neutralSummary": "The PM drew attention to two exhibits that, he said, left world leaders “deeply impressed”. One of them was Amul’s pavilion.",
           "versions": [
             {
               "political": "left",
@@ -827,158 +827,17 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Gautam Adani Reviews Projects Worth Over Rs 40,000 Crore In Jharkhand, Bihar",
-              "url": "https://www.ndtv.com/india-news/gautam-adani-reviews-projects-worth-over-rs-40-000-crore-in-jharkhand-bihar-11121320#publisher=newsstand"
+              "headline": "World Wholeheartedly Praised India's Potential At AI Impact Summit: PM Modi",
+              "url": "https://www.ndtv.com/india-news/pm-modi-on-india-impact-ai-summit-world-wholeheartedly-praised-indias-potential-at-ai-impact-summit-11123011#publisher=newsstand"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "MillenniumPost",
-              "initials": "M",
-              "domain": "news.google.com",
-              "headline": "Gautam Adani pays obeisance at Baba Baidyanath temple in Jharkhand's Deoghar",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU24teWxkT3AyTXlRQ3MydXBGMnNYaTQzWXRoU3NsUG1wbkdVOGNhTHZjc0RVcDFEZUFmNXNoU0hEQ0w5VnY1c1dsOTZDWElwV2hENXVxY0lKejBWQy11NG90QkIzWkNDM2VXRFpxd0NSRXhtZTBpd3A4S0tCeEVNa3VuOHpiVFJUZm13RmE1QXo5Vnp4NDVkbl9JME12YXMzeEticnR0b25zTW1GYzFwT1ZNdmY3OW9Xdi040gHAAUFVX3lxTFA3YkFJUFk2dF9COUdhN1NRWnZyNVExZW1iemQ3XzVOZVFod2FFNjMyblQ3VG9YUFpPVzBPbmFlTlhuUDg5OHRJdC1uQ1huUVVES3FCV3hrTExHUWJWN0RDM2d5dzhtUHl0NVVIclNDWTZHRHE1NEVtYTNjeW1XX0RaeDZGOVAyQ1c0T3Z3a3FrYjRyZmpUdERTMDd3T1RWaXNpWlVuSk5YNmVkX3JkdmcwaEZXTW5QSmpwTEIwUld4LQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Posters in Delhi to multi-state raids: How cops busted Pak-backed terror plot in India",
-          "neutralSummary": "Posters in Delhi to multi-state raids: How cops busted Pak-backed terror plot in India",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "16 SIMs, 8 Phones, 1 Deadly Plot: How Pak-Backed Terror Plot Was Busted",
-              "url": "https://www.ndtv.com/india-news/inside-delhi-polices-10-day-op-to-bring-down-hammer-on-lashkar-module-11120868#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Posters in Delhi to multi-state raids: How cops busted Pak-backed terror plot in India",
-              "url": "https://timesofindia.indiatimes.com/india/from-posters-in-delhi-to-raids-in-tamil-nadu-bengal-how-cops-busted-pakistan-based-terror-plot-in-india/articleshow/128677346.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "All about Meerut Metro: India’s fastest metro",
-          "neutralSummary": "All about Meerut Metro: India’s fastest metro",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Meerut South to Modipuram: India’s fastest metro train begins commercial run – check travel time, stops, fare",
-              "url": "https://indianexpress.com/article/india/meerut-south-modipuram-metro-rail-train-fare-time-stops-10545989/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "All about Meerut Metro: India’s fastest metro",
-              "url": "https://economictimes.indiatimes.com/industry/transportation/railways/all-about-meerut-metro-indias-fastest-metro/articleshow/128673421.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Zoho founder not pleased with Sam Altman's comments on humans? What OpenAI chief said",
-          "neutralSummary": "OpenAI CEO Sam Altman defended AI's energy use by comparing it to human development, but Zoho founder Sridhar Vembu disagreed, advocating for technology to recede into the background. Vembu also likened large tech companies to the East India Company due to their immense financial power and operation",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "‘Humans use lot of energy too’: OpenAI’s Sam Altman on resources consumed by AI, data centres",
-              "url": "https://indianexpress.com/article/technology/artificial-intelligence/ai-energy-water-usage-sam-altman-openai-express-adda-10546154/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Zoho founder not pleased with Sam Altman's comments on humans? What OpenAI chief said",
-              "url": "https://timesofindia.indiatimes.com/technology/tech-news/zoho-founder-sridhar-vembu-is-not-pleased-with-sam-altmans-comments-on-humans-says-i-do-not-want-to-see-a-world-where-we-/articleshow/128673404.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Two sisters found dead in Jodhpur on wedding eve; no suicide note recovered",
-          "neutralSummary": "Two sisters, Shobha (25) and Vimla (23), were found dead at their Jodhpur home on Friday, just a day before their scheduled weddings.  They were rushed to a hospital around 4 am after their health suddenly deteriorated, but were declared dead on arrival. Preliminary investigations suggest poisoning,",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Two sisters found dead in Jodhpur on wedding eve; no suicide note recovered",
-              "url": "https://timesofindia.indiatimes.com/city/jaipur/two-sisters-found-dead-a-day-before-their-marriage/articleshow/128655105.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Jodhpur: Two brides-to-be dead before wedding",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/jodhpur-wedding-horror-two-sisters-found-dead-just-hours-before-their-big-moment-no-suicide-note-but-poison-angle-suspected/articleshow/128677088.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "India's fastest metro and Namo Bharat RRTS: Meerut's twin projects now running",
-          "neutralSummary": "Namo Bharat is India's first Regional Rapid Transit System with a design speed of 180 kmph, while the Meerut Metro is the fatest local metro at 120 kmph.",
-          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "India's fastest metro and Namo Bharat RRTS: Meerut's twin projects now running",
-              "url": "https://www.hindustantimes.com/india-news/indias-fastest-metro-and-namo-bharat-rrts-meeruts-twin-projects-now-running-101771750361889.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Delhi to Meerut in 55 minutes? Inside Namo Bharat",
-              "url": "https://economictimes.indiatimes.com/industry/transportation/railways/delhi-to-meerut-in-55-minutes-inside-indias-fastest-metro-and-the-namo-bharat-rrts-launch/articleshow/128669791.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "PM Modi says world ‘hesitated to deal’ with past govts; now has ‘faith’ in India",
-          "neutralSummary": "PM Modi flagged off the Namo Bharat Regional Rapid Transit System (RRTS) and the Meerut Metro from the same platform on Sunday.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "PM Modi says world ‘hesitated to deal’ with past govts; now has ‘faith’ in India",
-              "url": "https://www.hindustantimes.com/india-news/pm-modi-says-world-hesitated-to-deal-with-past-govts-now-has-faith-in-india-101771751652898.html"
+              "headline": "India AI Impact Summit a turning point of future global AI use: PM Modi",
+              "url": "https://www.hindustantimes.com/india-news/india-ai-impact-summit-a-turning-point-of-future-global-ai-use-pm-modi-101771813007073.html"
             },
             {
               "political": "right",
@@ -988,6 +847,156 @@
               "domain": "opindia.com",
               "headline": "India AI Impact Summit 2026: Here are the key takeaways from the addresses of PM Modi and world leaders",
               "url": "https://www.opindia.com/2026/02/india-ai-impact-summit-key-takeaways-from-the-addresses-of-pm-modi-and-world-leaders/"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Who was 'El Mencho' and what's next for Mexico's fastest-growing cartel?",
+          "neutralSummary": "Mexico’s most-wanted drug lord Nemesio Oseguera Cervantes, known as El Mencho, was killed during a government operation in Jalisco, triggering nationwide cartel violence. Founder of the powerful Jalisco New Generation Cartel, he built one of Mexico’s fastest-growing and most aggressive criminal orga",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "New US Military-Led Group Aided Mexico's Hunt For 'El Mencho' Cartel Boss",
+              "url": "https://www.ndtv.com/world-news/mexico-cartel-leader-killed-live-updates-new-us-military-led-group-aided-mexicos-hunt-for-el-mencho-cartel-boss-11122654#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Who was 'El Mencho' and what's next for Mexico's fastest-growing cartel?",
+              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/who-was-el-mencho-and-whats-next-for-mexicos-fastest-growing-cartel/articleshow/128697796.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Mexican cartel boss 'El Mencho' killed in army raid",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/mexican-cartel-boss-el-mencho-killed-in-military-raid/articleshow/128694343.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Supermarkets, banks, cars set ablaze: Mexico cartel goes on revenge spree after El Mencho killed",
+          "neutralSummary": "Mexico experienced a coordinated wave of retaliation following the killing of feared cartel boss El Mencho. Gunmen loyal to the CJNG leader blocked highways and torched businesses, disrupting air travel and prompting residents to seek shelter. This show of force, described as revenge, highlights the",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Video: Cars Burnt, Roads Blocked, Violence In Mexico After 'El Mencho' Killed",
+              "url": "https://www.ndtv.com/world-news/mexico-drug-lord-killed-cars-burnt-roads-blocked-violence-after-el-mencho-killing-11122989#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Supermarkets, banks, cars set ablaze: Mexico cartel goes on revenge spree after El Mencho killed",
+              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/supermarkets-banks-cars-set-on-fire-cartel-goes-on-revenge-spree-after-el-mencho-killed-whats-happening-in-mexico/articleshow/128695588.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Set in a conflict zone, Manipuri-language Boong wins BAFTA for Best Children’s and Family Film",
+          "neutralSummary": "Set in a conflict zone, Manipuri-language Boong wins BAFTA for Best Children’s and Family Film",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Set in a conflict zone, Manipuri-language Boong wins BAFTA for Best Children’s and Family Film",
+              "url": "https://indianexpress.com/article/entertainment/bollywood/set-in-a-conflict-zone-manipuri-language-boong-wins-bafta-for-best-childrens-and-family-film-10546805/"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Mukul Roy dies at 71: His journey from Trinamool's backroom brain to BJP strategist",
+          "neutralSummary": "A close aide of Mamata Banerjee, Mukul Roy was considered the second-most powerful leader in the Trinamool Congress during its formative years.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Mukul Roy dies at 71: His journey from Trinamool's backroom brain to BJP strategist",
+              "url": "https://www.hindustantimes.com/india-news/mukul-roy-dies-at-71-his-journey-from-trinamools-backroom-brain-to-bjp-strategist-101771816585036.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Former rail min Mukul Roy dies at 70",
+              "url": "https://economictimes.indiatimes.com/news/india/mukul-roy-former-railway-minister-and-tmc-strategist-dies-at-70/articleshow/128696143.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "India, US postpone interim trade deal talks; March timeline likely to get hit amid Trump tariffs row",
+          "neutralSummary": "India-US trade deal: The engagement in the coming week was meant for both to finalise the legal text of the interim bilateral trade agreement.&nbsp;",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "India, US postpone interim trade deal talks; March timeline likely to get hit amid Trump tariffs row",
+              "url": "https://www.hindustantimes.com/india-news/india-us-postpone-interim-trade-deal-talks-march-timeline-likely-to-get-hit-amid-trump-tariffs-us-supreme-court-row-101771803774564.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "India Postpones Washington Trade Talks After US Supreme Court Scraps Trump's Tariff Regime",
+              "url": "https://swarajyamag.com/news-brief/india-postpones-washington-trade-talks-after-us-supreme-court-scraps-trumps-tariff-regime"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "Ex-Assam Cong chief Borah joins BJP ahead of assembly elections",
+          "neutralSummary": "Former Assam Congress president Bhupen Kumar Borah joins BJP, ending 32-year Congress ties, citing neglect and seeking better opportunities.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Ex-Assam Cong chief Borah joins BJP ahead of assembly elections",
+              "url": "https://www.hindustantimes.com/india-news/exassam-cong-chief-borah-joins-bjp-ahead-of-assembly-elections-101771788290516.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Former Assam Congress chief Bhupen Borah joins BJP",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdW1sWlBjMW1pNVBYUDM5ZlhwY3ZNeVJNUG1jc05PVnpVV0VpVVJvVVRHY1hqR2dTSmx2U3RvN2tHX0tWOGNtY05LU0dleWltcl8zOW1vVTh1VXREaUlJdFhCVlZqelV5RWZMQzNwZHg0QnpDWG5YZzdUR3FXNm5HUFVVVjIxdF9zc3BOUU9pUmQ5TUNTZzEzUVhhMUZXX1VCczZJRGU5T2xtc3Vza0stWmVwNGphZ9IBvAFBVV95cUxNdzlNdlNFLVJFQV94Um1kVUFzcU9uTWFUdEtVMEU4WU5zWERoSFcxNDVXZzdJZWlmQmNHZVdxWU1MZlp2TjJHS0RibkFVNjl5bmRoU0dxczZZWVhfMVBPU3luMlg3N2YxVkVzNkN5LW5jYWkyQTB0dEc3OUFVWTdwS2M5Z1VTWjlBZnplX3hiSHlFV3hmVUNuN0hpckZwT0Fna3F3QzFSdXBuNEVpcWIzUlRXOUQ4Qzd3bUN1OQ?oc=5"
             }
           ]
         }
