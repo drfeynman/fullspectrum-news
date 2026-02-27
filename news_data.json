@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-02-27T04:03:37.888742+00:00",
+  "generatedAt": "2026-02-27T14:02:15.408730+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "US-Iran talks end after 'significant progress', mediator says",
-          "neutralSummary": "The indirect negotiations in Geneva are seen as a last-ditch effort, but the chances of a nuclear agreement are unclear.",
+          "neutralHeadline": "What's behind Pakistan-Afghanistan conflict?",
+          "neutralSummary": "Pakistan bombed major cities in Afghanistan including the capital Kabul on Friday, with Islamabad's defence minister declaring the neighbours at \"open war\". It comes after months of tit-for-tat clashes, with Islamabad accusing Afghanistan of failing to act against militant groups that carry out atta",
           "versions": [
             {
               "political": "left",
@@ -15,51 +15,26 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "US-Iran talks end after 'significant progress', mediator says",
-              "url": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss"
+              "headline": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
+              "url": "https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "US-Iran talks conclude with claims of progress but few details",
-              "url": "https://www.aljazeera.com/news/2026/2/26/us-iran-talks-conclude-claims-progress-few-details?traffic_source=rss"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Iran rejects Trump demands despite 'significant progress' in nuclear talks",
-              "url": "https://www.foxnews.com/world/us-iran-nuclear-talks-wrap-geneva-high-stakes-vienna-round-looms"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Pakistan strikes Afghan cities as cross-border attacks escalate",
-          "neutralSummary": "The Afghan Taliban said it had responded to the Pakistani strikes, which targeted Afghan cities including Kabul and Kandahar.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Pakistan strikes Afghan cities as cross-border attacks escalate",
-              "url": "https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Airstrikes hit Afghan capital of Kabul, hours after Afghanistan attacks Pakistan",
-              "url": "https://www.npr.org/2026/02/26/g-s1-111783/airstrikes-afghanistan-pakistan-qatar-ceasefire"
+              "headline": "Pakistan says there is 'open war' with Afghanistan after latest strikes",
+              "url": "https://www.npr.org/2026/02/27/nx-s1-5728217/pakistan-says-there-is-open-war-with-afghanistan-after-latest-strikes"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "What's behind Pakistan-Afghanistan conflict?",
+              "url": "https://www.france24.com/en/video/20260227-what-s-behind-pakistan-afghanistan-conflict"
             },
             {
               "political": "right",
@@ -67,15 +42,15 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Taliban unleash 'extensive' offensive on Pakistan as deadly border strikes erupt",
+              "headline": "Pakistan declares 'open war' on Afghanistan in response to Taliban's retaliatory strikes",
               "url": "https://www.foxnews.com/world/taliban-unleash-extensive-offensive-pakistan-deadly-border-strikes-erupt"
             }
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "Kenyan charged with luring young men to fight for Russia in Ukraine",
-          "neutralSummary": "A total of 1,000 Kenyans have reportedly been recruited to fight for Russia in its war against Ukraine.",
+          "id": "global-2",
+          "neutralHeadline": "Russia rejects allegation it sent drone towards French aircraft carrier",
+          "neutralSummary": "The Kremlin on Friday dismissed claims that an intercepted drone in Swedish waters was Russian, calling the suggestion “absurd” even as Stockholm pointed to a “strong link” to Moscow. Sweden's military observed the suspected drone on Wednesday near where a French nuclear-powered aircraft carrier was",
           "versions": [
             {
               "political": "left",
@@ -83,8 +58,42 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Kenyan charged with luring young men to fight for Russia in Ukraine",
-              "url": "https://www.bbc.com/news/articles/cx2g79kpe2po?at_medium=RSS&at_campaign=rss"
+              "headline": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
+              "url": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Russia rejects allegation it sent drone towards French aircraft carrier",
+              "url": "https://www.france24.com/en/europe/20260227-russia-rejects-allegation-sent-drone-towards-french-aircraft-carrier"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Sweden jams suspected Russian drone near French carrier as NATO war fears rise",
+              "url": "https://www.foxnews.com/world/sweden-jams-suspected-russian-drone-near-french-carrier-nato-war-fears-rise"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "What we know after latest escalation in Pakistan-Afghanistan tensions",
+          "neutralSummary": "Bombings by Pakistan are the most significant development in tensions between the two neighbours - though the physical impact remains unclear.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "What we know after latest escalation in Pakistan-Afghanistan tensions",
+              "url": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -92,15 +101,15 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Russia-Ukraine war: List of key events, day 1,464",
-              "url": "https://www.aljazeera.com/news/2026/2/27/russia-ukraine-war-list-of-key-events-day-1464?traffic_source=rss"
+              "headline": "What we know about clashes between Pakistan and Afghanistan",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/2/27/what-we-know-about-clashes-between-pakistan-and-afghanistan?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-4",
-          "neutralHeadline": "World Economic Forum head Børge Brende steps down following pressure over Epstein links",
-          "neutralSummary": "World Economic Forum head Børge Brende said Thursday that he is stepping down after facing pressure over his contacts with the late sex offender Jeffrey Epstein. Brende, a former Norwegian foreign minister, said in a statement that he had decided “after careful consideration” to step down as preside",
+          "neutralHeadline": "Hillary Clinton says confident her husband knew nothing of Epstein crimes",
+          "neutralSummary": "Hillary Clinton said Thursday she was confident her husband, former US president Bill Clinton, knew nothing of sex offender Jeffrey Epstein's crimes when they were still in contact. She made the comments after testifying before a Congressional panel, before which Bill Clinton is also due to testify",
           "versions": [
             {
               "political": "left",
@@ -108,42 +117,8 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "World Economic Forum boss quits after review of Epstein links",
-              "url": "https://www.bbc.com/news/articles/cr5lq9ll15jo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "World Economic Forum head Børge Brende steps down following pressure over Epstein links",
-              "url": "https://www.france24.com/en/video/20260226-world-economic-forum-head-b%C3%B8rge-brende-steps-down-following-pressure-over-epstein-links"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "World Economic Forum president and CEO steps down after facing scrutiny over Epstein links",
-              "url": "https://www.foxnews.com/world/world-economic-forum-president-ceo-steps-down-after-facing-scrutiny-over-epstein-links"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Pakistan bombs Kabul after intensifying border clashes with Afghanistan",
-          "neutralSummary": "Pakistan bombs Kabul after intensifying border clashes with Afghanistan&nbsp;&nbsp;The GuardianPakistan strikes Afghan cities as cross-border attacks escalate&nbsp;&nbsp;BBCAfghanistan launches attacks against Pakistan, draws ‘immediate response’&nbsp;&nbsp;Al JazeeraAfghan Taliban attacks met with",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "news.google.com",
-              "headline": "Pakistan bombs Kabul after intensifying border clashes with Afghanistan",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUF8wN2dscWsxemtSSi1EejhvUl9MY1ktRjNKLXdvRWRHU0huQV96MVo5ZnNhejRac0diSDI2TjRzdEtueXoyMUNPQm1TeldHT2w3RTdubFZVR2ViNGtEWUVlMERqNVNLX2FBMjJSSnc5SzNTLXExcEVDQm96WjdvYUVSNEc3aUU?oc=5"
+              "headline": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
+              "url": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -151,47 +126,22 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "LIVE: Pakistan declares ‘open war’ on Afghanistan, fighter jets bomb Kabul",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/2/27/live-kabul-bombed-as-pakistan-declares-open-war-on-afghanistan?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Modi: India stands with Israel 'with full conviction'",
-          "neutralSummary": "Modi: India stands with Israel 'with full conviction'&nbsp;&nbsp;dw.comThank you Israel, for the warmth and affection. Deeply touched that Prime Minister Netanyahu and Mrs. Netanyahu personally came to the airport to see me off. Confident that the India–Israel partnership will continue to reach new",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "dw.com",
-              "initials": "D",
-              "domain": "news.google.com",
-              "headline": "Modi: India stands with Israel 'with full conviction'",
-              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLXljUmg1Qjh6cXBMVFhtU0FvSXVLMUxLR3ViUHhrSC1xSjlaSnlTeURMdDBOUlY5YTFaWG50a2hKbzZ3WDc4OGwxSjVnT1FoNXdRM1NHekFlSVg5YS1COHBvN095eFdKQ21WMmxScVFlbXR4OUNBQllFV0NYQkFzdjUxZkxQTVRGZmhJ0gGLAUFVX3lxTE9FcnprNlNhTXc2QXdEY19YakNVcVRCUGZRc0c2bzR2dE9YUUR5cS1ycG5OUUJBM3FYQldOUm1tV2NmMnpxQlEwWG5JMU9wNjVwZ3UzT0dYMUlxXzFiQ0hsY0Q2YTIwUjNkMUFpaDJDbnNCOThhRll1YkVoMWphMTNKS0F0ZXZUeWFnaDA?oc=5"
+              "headline": "Hillary Clinton comments after Epstein hearing",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/2/27/hillary-clinton-comments-after-epstein-hearing?traffic_source=rss"
             },
             {
               "political": "center",
-              "tone": "optimistic",
+              "tone": "neutral",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Brothers-in-arms: How Modi and Netanyahu are bringing India and Israel closer together",
-              "url": "https://www.france24.com/en/middle-east/20260226-brothers-in-arms-modi-and-netanyahu-deep-ties-remain-unshakable"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "India and Israel elevate ties to 'special strategic partnership' status during Modi visit",
-              "url": "https://www.foxnews.com/world/india-israel-elevate-ties-special-strategic-partnership-status-during-modi-visit"
+              "headline": "Hillary Clinton says confident her husband knew nothing of Epstein crimes",
+              "url": "https://www.france24.com/en/video/20260227-hillary-clinton-says-confident-her-husband-knew-nothing-of-epstein-crimes"
             }
           ]
         },
         {
-          "id": "global-7",
+          "id": "global-5",
           "neutralHeadline": "Cuba vows to fight ‘terrorist aggression’ after attack from US-registered boat",
           "neutralSummary": "Cuban president says country will ‘defend itself with determination’ after deadly coastal assault by exilesWhat we know so far about the deadly boat shooting off Cuba’s coastCuba has vowed to defend itself against any “terrorist and mercenary aggression”, a day after border guards said they had kill",
           "versions": [
@@ -216,7 +166,7 @@
           ]
         },
         {
-          "id": "global-8",
+          "id": "global-6",
           "neutralHeadline": "Cuba says it killed heavily armed exiles who attacked from US-registered speedboat",
           "neutralSummary": "Rare clash off island’s coast took place amid US oil embargo and heightened tensions between two countriesCuban forces killed four exiles and wounded six others who sailed into its waters onboard a Florida-registered speedboat and opened fire on a Cuban patrol, the country’s government said, at a ti",
           "versions": [
@@ -241,9 +191,34 @@
           ]
         },
         {
-          "id": "global-9",
-          "neutralHeadline": "American citizen among those killed in Cuba boat shooting, US official says",
-          "neutralSummary": "Cuba has accused those on board of planning \"an infiltration with terrorist aims” and firing first.",
+          "id": "global-7",
+          "neutralHeadline": "What North Korea’s mysterious party congress reveals",
+          "neutralSummary": "What North Korea’s mysterious party congress reveals&nbsp;&nbsp;The EconomistKim Jong Un vows to strengthen nuclear program, watches military parade with daughter&nbsp;&nbsp;CNNNorth Korea: Kim Jong Un re-appointed as general secretary at party congress&nbsp;&nbsp;BBCKim Jong Un's sister makes first",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "North Korea’s ‘most beloved’ child: what the key congress revealed about Kim Jong-un’s succession plans",
+              "url": "https://www.theguardian.com/world/2026/feb/27/north-korea-kim-jong-un-daughter-ju-ae-succession"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Economist",
+              "initials": "TE",
+              "domain": "news.google.com",
+              "headline": "What North Korea’s mysterious party congress reveals",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLTk2cnkxRlg0ZHlocmdGSDFTMmhhQ1dNRm9KdktmYkdRTkF2SjVNTHgtWGZMTkFRQUMwYXBGeDBsY3pCY3h6TWdBNksyLWJ1N3F2eURaNlNySkQyb29YdnotTjYxLV9PTy1SYWwyOUZTTkw3Y2tfdU5jazJOMEVwLUh6eXNOR3g0dldkV052LVVLMk1hY2xTUA?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Paramount Beats Netflix in Months-Long Fight For Warner Bros.",
+          "neutralSummary": "Paramount Skydance Corp. finally clinched its deal for Warner Bros. Discovery Inc., outmaneuvering its rival Netflix Inc. after a months-long battle by agreeing to pay $111 billion for the legendary Hollywood studio.",
           "versions": [
             {
               "political": "left",
@@ -251,17 +226,42 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "American citizen among those killed in Cuba boat shooting, US official says",
-              "url": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss"
+              "headline": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
+              "url": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss"
             },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Paramount Beats Netflix in Months-Long Fight For Warner Bros.",
+              "url": "https://www.bloomberg.com/news/articles/2026-02-26/netflix-drops-warner-bros-offer-leaving-paramount-the-winner"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "After tense US-Greenland standoff, Denmark calls an early election",
+          "neutralSummary": "After tense US-Greenland standoff, Denmark calls an early election&nbsp;&nbsp;AP NewsPrime Minister Mette Frederiksen Calls Snap Elections in Denmark - The New York Times&nbsp;&nbsp;The New York TimesDanish PM calls snap election with Greenland issue centre-stage&nbsp;&nbsp;BBCDenmark calls an early",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "U.S. citizen killed in deadly Cuba boat shooting",
-              "url": "https://www.npr.org/2026/02/26/nx-s1-5726865/cuban-government-says-4-killed-on-boat-were-trying-to-infiltrate-the-country"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Danish PM calls snap election with Greenland issue centre-stage",
+              "url": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "After tense US-Greenland standoff, Denmark calls an early election",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaWFSa1pvMGE5bVVFS3BjOVZ3MGducEZCMzJQRlN4OGJEbHpXcFVvY1pBVV9ZN1MzaU1ENHlaeXQ5eS1nYzZPdWVPVzFyUGRSa1ZaNjJVYU1LMExnajZNOGlYNV9rUjhMUnEzaFBsYXktMDRzbmZaZ3NlcFpvemp5SnE1TG02ZDd3bDZRQThB?oc=5"
             }
           ]
         }
@@ -272,51 +272,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Paramount wins bid to acquire Warner Brothers Discovery after Netflix bows out",
-          "neutralSummary": "Netflix on Thursday said it would not match a bid from Paramount seeking to acquire Warner Brothers Discovery, the sprawling media empire that includes legacy brands in news and entertainment like CNN and HBO. News of the streamer bowing out of its deal with Warner Bros. Discovery came just minutes",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "In reversal, Warner Bros. jilts Netflix for Paramount",
-              "url": "https://www.npr.org/2026/02/26/nx-s1-5727894/warner-bros-discovery-paramount-netflix"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Paramount wins bid to acquire Warner Brothers Discovery after Netflix bows out",
-              "url": "https://thehill.com/homenews/media/5757985-netflix-declines-warner-discovery/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Netflix cedes Warner Bros. bidding war to Paramount after declining to increase offer",
-              "url": "https://www.washingtonexaminer.com/news/business/4473675/warner-bros-discovery-paramount-skydance-bid-superior-netflix/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Netflix Backs Down In Fight For Warner Bros, Leaving Paramount Inches From Victory",
-              "url": "https://www.dailywire.com/news/netflix-backs-down-in-fight-for-warner-bros-leaving-paramount-inches-from-victory"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Mamdani touts productive meeting with Trump on housing",
-          "neutralSummary": "New York City Mayor Zohran Mamdani on Thursday touted his “productive” meeting with President Trump at the White House, during which the mayor said they discussed the prospect of building more housing in their shared hometown. “I had a productive meeting with President Trump this afternoon,” Mamdani",
+          "neutralHeadline": "Mamdani charms Trump (again)",
+          "neutralSummary": "This story appeared in&#160;The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&#160;Subscribe here. Welcome to The Logoff: So far, so good for New York Mayor Zohran Mamdani’s delicate relationship with Presid",
           "versions": [
             {
               "political": "left",
@@ -337,13 +294,13 @@
               "url": "https://www.washingtonpost.com/education/2026/02/26/columbia-university-student-ice-arrest/"
             },
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Mamdani touts productive meeting with Trump on housing",
-              "url": "https://thehill.com/homenews/administration/5757893-mamdani-trump-meet-housing-plans/"
+              "political": "right",
+              "tone": "optimistic",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Mamdani, Trump, and the Democrats’ missed opportunity",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4473931/mamdani-trump-and-democrats-missed-opportunity/"
             },
             {
               "political": "right",
@@ -357,50 +314,7 @@
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "Hillary Clinton criticizes UFO, Pizzagate questions from GOP during Epstein deposition",
-          "neutralSummary": "Former Secretary of State Hillary Clinton on Thursday criticized questions she said she got from House Republicans about UFOs and the &#8220;Pizzagate&#8221; conspiracy during her deposition as part of the House Oversight and Government Reform Committee&#8217;s investigation into convicted sex offen",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Hillary Clinton calls House Oversight questioning 'repetitive' in 6 hour deposition",
-              "url": "https://www.npr.org/2026/02/26/nx-s1-5727777/hillary-clinton-deposition-house-oversight-epstein"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "Hillary Clinton derides her Epstein deposition as GOP ‘political theater’",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjgtRnNLakVzb1drWVEwQ2VaQ054QzQzZGNzSjR1Ul9hTDVDN1U5SGNLb3BSNWVFY1dJUW5wX3ZnTWRqeERpeVZ3N195bHNkSmx1YUthbGRIVHF0UF9rNlJuQ2syZGlzYVNSUkh2dDVLWVpmQUxQUkRJOG1KemtSZFRrSW1DMGQzN0l1SjVNOA?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Hillary Clinton criticizes UFO, Pizzagate questions from GOP during Epstein deposition",
-              "url": "https://thehill.com/homenews/house/5758013-hillary-clinton-epstein-deposition/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Inside The Epstein Deposition — Hillary Clinton Reveals What She Was Asked",
-              "url": "https://www.dailywire.com/news/hillary-clinton-set-to-testify-on-epstein-after-months-long-effort-to-avoid-deposition"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
+          "id": "us-2",
           "neutralHeadline": "Federal Judge Rejects Trump Administration Policy Deporting Immigrants To 'Third Countries'",
           "neutralSummary": "He declared the policy unlawful and said it failed to provide sufficient due process protections.&nbsp;",
           "versions": [
@@ -434,43 +348,9 @@
           ]
         },
         {
-          "id": "us-5",
-          "neutralHeadline": "More than 32M watched Trump’s 2026 State of the Union Address",
-          "neutralSummary": "More than 32 million people tuned in to watch President Trump&#8217;s annual State of the Union Address on Tuesday night, according to Nielsen Media Research. The 32.6 million figure is down from the 36 million who watched the president&#8217;s first address to Congress of his second term last year,",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump’s Go-To Tactic in the State of the Union",
-              "url": "https://www.nytimes.com/video/us/politics/100000010732261/trumps-go-to-tactic-in-the-state-of-the-union.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "USA Today",
-              "initials": "USA",
-              "domain": "news.google.com",
-              "headline": "How many people watched Trump's State of the Union address?",
-              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWRyMklXa01qRHlsZ0M5NWhtNmRZM3d6ZElfcktVTDZYc3Qyc1lCOHhjX0JyTnY0QzN2cGU5VDBsdVJ4WkE0QWVtcVp2ZzZOMlYwWFZNQkdvdDJOTTVzU3NxTmFPZWd4bTFSVUNraGgxLW5XOVlHWHBpQXBFTzI5RjBBUkM3MlBqalhFcEQ5SUN6eU92ZHlmRWNvQ3FhWEtoLW5sbU5pMm81MkU?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "More than 32M watched Trump’s 2026 State of the Union Address",
-              "url": "https://thehill.com/homenews/media/5757865-trump-state-union-address-viewership/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Columbia student detained by ICE is abruptly released after Mamdani meets with Trump",
-          "neutralSummary": "Hours after the student was taken into custody in her campus apartment, she was released, after New York City Mayor Zohran Mamdani expressed concerns about the arrest to President Trump.",
+          "id": "us-3",
+          "neutralHeadline": "Takeaways from Hillary Clinton's deposition. And, Paramount outbids for Warner Bros.",
+          "neutralSummary": "Hillary Clinton says the questioning in a closed-door deposition with the House Oversight Committee's Epstein investigation was repetitive. And, Paramount has outbid Netflix for Warner Bros.",
           "versions": [
             {
               "political": "left",
@@ -478,17 +358,8 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Columbia student detained by ICE is abruptly released after Mamdani meets with Trump",
-              "url": "https://www.npr.org/2026/02/26/g-s1-111684/columbia-student-arrested-ice-missing-person"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Columbia Student Is Released From ICE After Mamdani-Trump Meeting - The New York Times",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnJVZ0d4N2JvMmoyWUNvblJUTGZmRzBhZFRJNWlfdE14eW5Jak9NYUhtUm1pVmFQOS1ORnF5Nm9td3NHdnRqZVp0SzF0S2ptSE9MYlNId0hFdzB2T0Y4MG9oZG5acVRMbnNsZ3JibWZjRVowQ1Axc09hTjN4N0Z6dVpVS2J3Z28?oc=5"
+              "headline": "Takeaways from Hillary Clinton's deposition. And, Paramount outbids for Warner Bros.",
+              "url": "https://www.npr.org/2026/02/27/g-s1-111815/up-first-newsletter-hillary-clinton-jeffrey-epstein-paramount-warner-bros-iran-trump-white-house"
             },
             {
               "political": "right",
@@ -496,13 +367,56 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Trump tells NYC Mayor Zohran Mamdani Columbia student detained by ICE will be released",
-              "url": "https://www.foxnews.com/politics/trump-tells-nyc-mayor-zohran-mamdani-columbia-student-detained-ice-released"
+              "headline": "Hillary Clinton comes out swinging after GOP grilled her during marathon Epstein deposition",
+              "url": "https://www.foxnews.com/politics/hillary-clinton-comes-out-swinging-after-gop-grilled-her-during-marathon-epstein-deposition"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Inside The Epstein Deposition — Hillary Clinton Reveals What She Was Asked",
+              "url": "https://www.dailywire.com/news/hillary-clinton-set-to-testify-on-epstein-after-months-long-effort-to-avoid-deposition"
             }
           ]
         },
         {
-          "id": "us-7",
+          "id": "us-4",
+          "neutralHeadline": "Pentagon shoots down Customs and Border Protection drone in Texas, federal officials say",
+          "neutralSummary": "Pentagon shoots down Customs and Border Protection drone in Texas, federal officials say&nbsp;&nbsp;CBS NewsAirspace Shuttered After U.S. Shoots Down Its Own Drone - The New York Times&nbsp;&nbsp;The New York TimesPentagon shoots down US Customs and Border Protection drone with laser system, lawmake",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "US military used laser to take down Border Protection drone, lawmakers say",
+              "url": "https://www.npr.org/2026/02/27/g-s1-111794/lawmakers-say-us-military-used-laser-to-take-down-border-protection-drone"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "Pentagon shoots down Customs and Border Protection drone in Texas, federal officials say",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFBLeXhhVVpZcXJNMFhNbDc0c09uTlFPX0FIVlVXRjBZQ2UtNXVteS1hTFJZclV1SHlUaWZMZWVueW5KOEM0b05fcU1xX3RqeW9aNjg4LVJXQUlCRVluTGxIMnhBMWt0N2U2eE4yb3hZa2Zrdk1KeTl5dUl5dHBHZTdoMVNHZnpfWml5RnVHaGhnX29uR0x30gGcAUFVX3lxTE1rS3U0MGtyaUJRXzlUT3Y4OXdBNzZoVWFVMWlQbWdHbWJaZ0k5SzhVYjRLRmhQR2p5V3VtdWdfVU01VGtzR0hCNmphSHk3T1A3c2NZajZwa3RsbkZld2drRkxaWEhGTkY1LUpFM2UwRDhtZ2JEelMtbGh3MFlWeEZGeWpxY0R0aWZOZ1VBSmVyU1lGaFZUZUJGdEV1VQ?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "FAA restricts Texas airspace after Pentagon reportedly strikes down Customs and Border Protection drone",
+              "url": "https://www.foxnews.com/politics/faa-restricts-texas-airspace-after-pentagon-system-shoots-down-customs-border-protection-drone"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
           "neutralHeadline": "Gavin Newsom Names The 1 Republican Who 'Scares Me Almost More Than Trump'",
           "neutralSummary": "The California governor also ripped two key GOP figures as \"frauds\" and \"phonies.\"",
           "versions": [
@@ -527,9 +441,34 @@
           ]
         },
         {
-          "id": "us-8",
-          "neutralHeadline": "Vance Continues to Criticize Democrats’ Attitude During State of the Union",
-          "neutralSummary": "Speaking in Wisconsin to support Republicans ahead of the midterm elections, Vice President JD Vance reminded his audience that Democrats had not stood up at the president’s behest on Tuesday.",
+          "id": "us-6",
+          "neutralHeadline": "Trump administration enacts 6-month moratorium on Minnesota Medicaid payments",
+          "neutralSummary": "Trump administration enacts 6-month moratorium on Minnesota Medicaid payments&nbsp;&nbsp;The HillFederal Medicaid funding freeze ‘totally illegal and unprecedented,’ Walz says&nbsp;&nbsp;MPR NewsVance launches into Trump's 'war on fraud' by suspending Medicaid payments to Minnesota&nbsp;&nbsp;NBC Ne",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Admin. Pausing Medicaid Funding To Minnesota, JD Vance Says",
+              "url": "https://www.huffpost.com/entry/trump-medicaid-funding-minnesota_n_699f7385e4b0100c254700af"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Trump administration enacts 6-month moratorium on Minnesota Medicaid payments",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVlAwTVlWNlpvZVpiaTN6ZlVkTy1mWXlRX2FremRQeC1YYk5wTmZEbFFVNE5vR0kzWE1laHRVN183VG5yMnM3WG94TTVkZV9wVllwYjNZV29NVUJhcTM1RV84M05XTXdLYUxCUTM1TEtuT1F3a05VNXUxV0tjbFVEbDMzNTdhX0hxWVk1U1VnWmloTEE3NmVRU3JLMG1xRDRrOW8xQ21HU1BJNHZIeFBEV2Z1a0VrVWljQ000ZF9QdkF5a2VTQVBzV0530gHPAUFVX3lxTE9nZXhvU3BMOEp3ODVVWWtJQ2twR3BQMkl1dkphbC1DNzM2Ym0wUUJTWVhaNzEzdzBTeEd4cDQ0R0gzbzlnbUlnN1RmX1pFRW1oZ2NKUzZ1R1FqQ1R0NkQ1NlpvMmZYcjUwZ3Fjb281MlhKTWw4X0VjODJtZ19NM3VyRXBaLXBrNXZhaFl6ejdhX3V2SEMtcEhNWlZXR2RVR1lXei1IRlRtZEcycFpPYmtEdWh3empiQVJjendQdllvZks0SU5XZkFPX1hMQVV4cw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Trump’s Foreign Policy: Resurrecting Empire",
+          "neutralSummary": "President Trump’s approach is a revival of the mission of empire — acquiring the territories and resources of sovereign peoples.",
           "versions": [
             {
               "political": "left",
@@ -537,8 +476,40 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Vance Continues to Criticize Democrats’ Attitude During State of the Union",
-              "url": "https://www.nytimes.com/2026/02/26/us/politics/vance-wisconsin-democrats-midterms.html"
+              "headline": "Trump’s Foreign Policy: Resurrecting Empire",
+              "url": "https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Fact-check: In Trump’s Case for an Attack on Iran, False or Unproven Claims",
+          "neutralSummary": "Key elements of the Trump administration’s arguments this week for another military campaign against Iran do not hold up.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Fact-check: In Trump’s Case for an Attack on Iran, False or Unproven Claims",
+              "url": "https://www.nytimes.com/2026/02/26/us/politics/trump-iran-claims-nuclear-weapons.html"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Justice Department Sues 5 States, Most Republican-Led, for Voter Data",
+          "neutralSummary": "The Trump administration sued Utah, Oklahoma and West Virginia, as well as Kentucky and New Jersey, to obtain unredacted voter registration databases in pursuit of baseless claims of voter fraud.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Justice Department Sues 5 States, Most Republican-Led, for Voter Data",
+              "url": "https://www.nytimes.com/2026/02/26/us/politics/justice-department-sues-5-states-voter-data.html"
             },
             {
               "political": "right",
@@ -546,24 +517,8 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Trump pushes Congress to pass SAVE Act during State of the Union: 'So we'll see how it goes'",
-              "url": "https://www.foxnews.com/politics/trump-pushes-congress-pass-save-act-state-of-the-union-see-how-it-goes"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "After F.B.I. Raid, Los Angeles School Board Discusses Superintendent",
-          "neutralSummary": "Board members are having an emergency meeting a day after agents raided the home and office of Alberto Carvalho, the Los Angeles Unified School District superintendent. The F.B.I. also searched the Florida home of a consultant with ties to the schools chief.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "After F.B.I. Raid, Los Angeles School Board Discusses Superintendent",
-              "url": "https://www.nytimes.com/2026/02/26/us/los-angeles-school-board-meeting-superintendent-fbi-raid.html"
+              "headline": "DOJ sues 5 more states, demanding access to voter rolls: 'We will not be deterred'",
+              "url": "https://www.foxnews.com/politics/doj-sues-5-more-states-demanding-access-voter-rolls-we-not-deterred"
             }
           ]
         }
@@ -574,8 +529,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Netflix declines to raise offer for Warner Bros",
-          "neutralSummary": "Netflix declines to raise offer for Warner Bros",
+          "neutralHeadline": "Why tensions are flaring again between Afghanistan and Pakistan",
+          "neutralSummary": "Pakistan carried out air strikes on Afghanistan's major cities,&nbsp;escalating months of border clashes.",
           "versions": [
             {
               "political": "center",
@@ -583,8 +538,74 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Netflix declines to raise offer for Warner Bros",
-              "url": "https://www.channelnewsasia.com/business/netflix-declines-raise-offer-warner-bros-5956841"
+              "headline": "Why tensions are flaring again between Afghanistan and Pakistan",
+              "url": "https://www.channelnewsasia.com/asia/afghanistan-pakistan-strikes-taliban-what-we-know-5949761"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "What we know after latest escalation in Pakistan-Afghanistan tensions",
+              "url": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "Land betterment charges up 4.1% on average for non-landed residential, 4% for landed residential uses",
+          "neutralSummary": "The latest rates are for the six months starting on March 1.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Land betterment charges up 4.1% on average for non-landed residential, 4% for landed residential uses",
+              "url": "https://www.straitstimes.com/singapore/housing/land-betterment-charges-up-4-1-on-average-for-non-landed-residential-4-for-landed-residential-uses"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
+          "neutralHeadline": "S’pore to tighten demerit points system, lower alcohol limits amid surge in road traffic deaths",
+          "neutralSummary": "Singapore to aim for zero road fatalities, but it requires recognition that the road culture needs to change.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "S’pore to tighten demerit points system, lower alcohol limits amid surge in road traffic deaths",
+              "url": "https://www.straitstimes.com/singapore/politics/spore-to-tighten-demerit-points-system-lower-alcohol-limits-amid-worsening-road-traffic-situation"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Lower drink driving limit, possible review of demerit points system in Singapore road safety push",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdzcwN3NwcXNuSEIyb0lWVzJaNDgwSVVJMU92cG1zZXJjVS1MRHNwV0ZteENieWlsVk5yVHdGX0dSSnVicV9qaFMxWGsycndIQTQtN2ZFS3k2Z3JkU0FRZjRiTjMwX2xaV0Z6UTBmcG9acDA4XzRJZE9DWV9aZm1xb1VGQjZWZC11N1pFbDVDWnloUnZqOV9iZzg0dENfU0djeFdULWFNdmlVd2lvSmtmbzRqenUyWmpmdmZLRmN0bXFTUUVGNm1EanNoZUFJZnhTR0E?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Malaysian police probing alleged plot by prominent family in engaging UK firm to topple government using foreign media",
+          "neutralSummary": "The widow of former Malaysia Finance Minister Daim Zainuddin has denied involvement in any attempt to destabilise the government, calling the allegation&nbsp;“false and preposterous”.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Malaysian police probing alleged plot by prominent family in engaging UK firm to topple government using foreign media",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-police-conspiracy-topple-government-macc-azam-baki-anwar-ibrahim-5958291"
             },
             {
               "political": "center",
@@ -592,8 +613,49 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "news.google.com",
-              "headline": "Netflix drops Warner Bros bid, leaving Paramount the winner with $140 billion deal",
-              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWpMb1UtdGM2THNsRFNVZ08tTmVSNmxZQTBzeEtTcGNuWFF4Qkp6aEdYemFia1RESU1kUWxFN29mUVIwam1KdllvdGpGc2twZVJpYnRzT19mX2otTGhtcXNzcU03N0V0ZlBKaUp1dmdZdlNFM1ZmYlFnU0ZBTDV0TzZucXp1YzczQnR5N1dsSDFzVG52REVIY0NwT0hwRFFmT0hIcXlxRnQtWnJMSEV0UDJPN3pZeGZvVUtkeFl6eFNpamJhdXRvcm91R04wVENPMWc?oc=5"
+              "headline": "Malaysian police probe alleged plot to topple government",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOemM2eHJVWjh6Sm9Qa2R2N0FGOWNCRlB3blFqU1BSbGJ4Vk1NU3hNaE5rUGkzcFRxUlRxTDJPaHNSTXotMFNPNnVQRFYxS3NUSXU4SHJwYWp1ZnFESUJ1ZUpiUURCd3JSeDZ5eWIxWldhd0NDeWI1UHd4RWh1X3laT2g5bFpoMkxFQlQ1ay1MTkozeGZvQzZGQ2pSREhRRDQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Indonesia court jails ex-CEOs of Pertamina units in major graft case",
+          "neutralSummary": "The case is one of the biggest launched under the administration of President Prabowo Subianto, who has vowed to eradicate corruption.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Indonesia court jails ex-CEOs of Pertamina units in major graft case",
+              "url": "https://www.channelnewsasia.com/asia/indonesia-pertamina-court-jail-ceo-graft-corruption-case-5955491"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "news.google.com",
+              "headline": "Son of ‘Gasoline Godfather’ Jailed in Indonesia Graft Case",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVThTb2ctOVpJVkU3anhSclpwYkR3NGNUYUpzN1BJQ0tRTllqRmdEM0xsUGFfVzJleW9TTVZpT1IyTDBRcW1vWVRWWVFOSWEyREZLTnBoUXp0d0NNNlN3NXRDaFRfRmw3b1hpOVJjRXk3anBuQmR6aVVzQnlnWUV4UXdqZTM1ZjBIY0lsLXJaZlB1MUQyX094c2thNlpSNWhJejFfRVI0ekE4V2lwa2Vj?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Pentagon Anthropic feud has sales and AI warfare at stake as Friday deadline looms",
+          "neutralSummary": "Pentagon Anthropic feud has sales and AI warfare at stake as Friday deadline looms",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Pentagon Anthropic feud has sales and AI warfare at stake as Friday deadline looms",
+              "url": "https://www.channelnewsasia.com/business/pentagon-anthropic-feud-has-sales-and-ai-warfare-stake-friday-deadline-looms-5958466"
             },
             {
               "political": "center",
@@ -601,56 +663,15 @@
               "source": "Bloomberg",
               "initials": "BB",
               "domain": "bloomberg.com",
-              "headline": "Netflix Drops Warner Bros. Bid, Leaving Paramount the Winner",
-              "url": "https://www.bloomberg.com/news/articles/2026-02-26/netflix-drops-warner-bros-offer-leaving-paramount-the-winner"
+              "headline": "Anthropic Faces US Deadline Over Pentagon AI Feud | The Pulse 2/27",
+              "url": "https://www.bloomberg.com/news/videos/2026-02-27/the-pulse-2-27-video"
             }
           ]
         },
         {
-          "id": "singapore-2",
-          "neutralHeadline": "Rear block of The Centrepoint sold en bloc to Frasers Property for $391.9m",
-          "neutralSummary": "The leasehold plot comprises 66 retail units and 66 residential apartments.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Rear block of The Centrepoint sold en bloc to Frasers Property for $391.9m",
-              "url": "https://www.straitstimes.com/singapore/housing/rear-block-of-the-centrepoint-awarded-to-frasers-for-391-1m"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Business Times",
-              "initials": "BT",
-              "domain": "news.google.com",
-              "headline": "Frasers Property defends turf with S$391.9 million acquisition of The Centrepoint rear block",
-              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUWtNTHh4MVotSV9oTlhyMG5rVXZMOFJHZHY1aDliX0FheExNakJIbThjeEwyRVNKQXNOcTYzMVNVa05fOWNMei0yODB2X3FmUkhYQkIyb0NOZzZ5UDA5S281ZkdVcVlCUnlYMU8tajJTdUxlUDE3QUdQQ2gzZXRDd3RndkFjRjZjV1VvWEpzaTdrazZVLUE2TGU5TERCV0p0X0gzNEd4QVNZNVNBQ1lDaW53OXQ1RUVGdXo3YUhR?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
-          "neutralHeadline": "Body of missing boy retrieved from Kallang River",
-          "neutralSummary": "A resident spotted a person floating on the river at around 10.30pm on Feb 26.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Body of missing boy retrieved from Kallang River",
-              "url": "https://www.straitstimes.com/singapore/body-found-in-kallang-river-near-where-boy-went-missing"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Japan births fall for 10th straight year",
-          "neutralSummary": "Japan births fall for 10th straight year",
+          "id": "singapore-7",
+          "neutralHeadline": "Netflix, Paramount shares jump as months-long fight for Warner Bros ends",
+          "neutralSummary": "Netflix, Paramount shares jump as months-long fight for Warner Bros ends",
           "versions": [
             {
               "political": "center",
@@ -658,72 +679,24 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Japan births fall for 10th straight year",
-              "url": "https://www.channelnewsasia.com/east-asia/japan-births-decline-ageing-population-takaichi-5954891"
+              "headline": "Netflix, Paramount shares jump as months-long fight for Warner Bros ends",
+              "url": "https://www.channelnewsasia.com/business/netflix-paramount-shares-jump-months-long-fight-warner-bros-ends-5958316"
             },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Bloomberg",
               "initials": "BB",
-              "domain": "news.google.com",
-              "headline": "Japan’s Births Fall for 10th Year Adding to Demographic Strain",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWVpSlVZYnZWUHZKaEdpZnFKcEN0TEt3MnNLRXNSZUg1SGF6NjhORDRpZ0dxN3VCc05tTXRvazJ3cXZXQUNqb3ppZGRIUzRrVWlzSXBMa05pR2t6T1o1UUkzVzRRMmFYRU9meXdZVUdqM0VwcnloNnNNSkNsLUwwOFRNMW9Qd2gtYkRwZnRBUjRvSDQxckpvcEtGXzZaVTlsZllseU4zV3otd3BTSnppUEdKcw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "NUS Medicine launches new integrated nursing-informatics degree programme",
-          "neutralSummary": "The four-and-a-half-year full-time programme will welcome an initial cohort of about 20 students in August.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "NUS Medicine launches new integrated nursing-informatics degree programme",
-              "url": "https://www.straitstimes.com/singapore/health/nus-medicine-launches-new-integrated-nursing-informatics-degree-programme"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "From stroke recovery to cancer detection: How health-tech start-ups are transforming patient care in Singapore",
-          "neutralSummary": "From stroke recovery to cancer detection: How health-tech start-ups are transforming patient care in Singapore",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "From stroke recovery to cancer detection: How health-tech start-ups are transforming patient care in Singapore",
-              "url": "https://www.straitstimes.com/singapore/health-tech-start-ups-trial-innovations-public-sector-temasek-foundation"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Trading card packs to be regulated in Singapore to manage gambling risks: MHA",
-          "neutralSummary": "This comes after Home Affairs Minister K. Shanmugam said earlier that blind boxes will be regulated.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Trading card packs to be regulated in Singapore to manage gambling risks: MHA",
-              "url": "https://www.straitstimes.com/singapore/trading-card-packs-to-be-regulated-in-singapore-to-manage-gambling-risks-mha"
+              "domain": "bloomberg.com",
+              "headline": "Paramount Beats Netflix in Months-Long Fight For Warner Bros.",
+              "url": "https://www.bloomberg.com/news/articles/2026-02-26/netflix-drops-warner-bros-offer-leaving-paramount-the-winner"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Using capital value to assess property tax for owner-occupied homes ‘not appropriate’: Indranee",
-          "neutralSummary": "Use of rental data to determine annual value keeps property taxes more stable and predictable, she said.",
+          "neutralHeadline": "85-year-old woman who made illegal right turn against the flow of traffic fined $4,000",
+          "neutralSummary": "She was misinformed by her passenger, who told her she could make a right turn at the junction.",
           "versions": [
             {
               "political": "center",
@@ -731,15 +704,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Using capital value to assess property tax for owner-occupied homes ‘not appropriate’: Indranee",
-              "url": "https://www.straitstimes.com/singapore/politics/using-capital-value-to-assess-property-tax-for-owner-occupied-homes-not-an-appropriate-approach"
+              "headline": "85-year-old woman who made illegal right turn against the flow of traffic fined $4,000",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/85-year-old-woman-who-made-illegal-right-turn-against-the-flow-of-traffic-fined-4000"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "S’pore SMEs can expect lower costs, less compliance burden with new and updated measures",
-          "neutralSummary": "GST-registered firms will be required to submit digital invoices to IRAS by April 2031.",
+          "neutralHeadline": "MINDEF cares for soldiers beyond allowance; NS is not a transaction: Chan Chun Sing",
+          "neutralSummary": "WP MP Kenneth Tiong asked whether the NS allowance could be aligned with the local qualifying salary.",
           "versions": [
             {
               "political": "center",
@@ -747,8 +720,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "S’pore SMEs can expect lower costs, less compliance burden with new and updated measures",
-              "url": "https://www.straitstimes.com/singapore/politics/spore-smes-to-expect-lower-costs-less-compliance-burden-with-new-and-updated-measures"
+              "headline": "MINDEF cares for soldiers beyond allowance; NS is not a transaction: Chan Chun Sing",
+              "url": "https://www.straitstimes.com/singapore/politics/mindef-cares-for-soldiers-beyond-allowance-ns-is-not-a-transaction-chan-chun-sing"
             }
           ]
         }
@@ -759,42 +732,33 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Rinku Singh’s father passes away after battle with cancer",
-          "neutralSummary": "Indian cricketer Rinku Singh's father, Shri Khanchand Singh, passed away after a battle with cancer. Rinku had briefly left the T20 World Cup squad to be with his father during his worsening condition. Despite this personal tragedy, he rejoined the team, though he did not play in the recent match.",
+          "neutralHeadline": "Full text of Delhi court order: Kejriwal and Sisodia discharged in excise policy case",
+          "neutralSummary": "A Delhi court discharged former Chief Minister Arvind Kejriwal and Deputy Chief Minister Manish Sisodia in the excise policy case, citing insufficient evidence. The court found no criminal intent or conspiracy substantiated by the chargesheet and supporting documents.  The prosecution failed to esta",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Cricketer Rinku Singh's father passes away after prolonged illness",
-              "url": "https://www.thehindu.com/sport/cricket/cricketer-rinku-singhs-father-passes-away-after-prolonged-illness/article70682568.ece"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Rinku Singh’s father passes away after battle with cancer",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rinku-singhs-father-passes-away-after-cancer-battle/articleshow/128835774.cms"
+              "headline": "Full text of Delhi court order: Kejriwal and Sisodia discharged in excise policy case",
+              "url": "https://timesofindia.indiatimes.com/legal/news/arvind-kejriwal-and-manish-sisodia-walk-free-in-excise-policy-case-heres-full-text-of-delhi-court-order/articleshow/128848992.cms"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "What happened to Rinku Singh’s father?",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/what-happened-to-rinku-singhs-father-why-he-left-india-squad-in-emergency-before-key-t20-world-cup-match-against-zimbabwe/articleshow/128768832.cms"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Delhi court pulls up CBI over ‘South Group’ tag in Excise Policy case charge sheet",
+              "url": "https://www.hindustantimes.com/india-news/delhi-court-pulls-up-cbi-over-south-group-tag-in-excise-policy-case-charge-sheet-101772197958457.html"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Former Tamil Nadu CM O. Panneerselvam to join DMK today, supporters throng Anna Arivalayam | LIVE updates",
-          "neutralSummary": "O. Panneerselvam will join the DMK in the presence of Chief Minister M.K. Stalin just weeks ahead of the State Assembly elections",
+          "neutralHeadline": "CBI challenges Delhi court's relief to Arvind Kejriwal, others in liquor policy case, moves high court",
+          "neutralSummary": "CBI's challenge comes hours after a Delhi court discharged all 23 accused, including former Delhi CM Arvind Kejriwal, in the Delhi excise policy case.",
           "versions": [
             {
               "political": "left",
@@ -802,8 +766,33 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Former Tamil Nadu CM O. Panneerselvam to join DMK today, supporters throng Anna Arivalayam | LIVE updates",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/former-tamil-nadu-cm-o-panneerselvam-to-join-dmk-the-hindu-live-updates/article70682462.ece"
+              "headline": "Kavitha thanks judiciary but blames her family for ‘neglecting her’ in Delhi liquor policy case",
+              "url": "https://www.thehindu.com/news/national/telangana/kavitha-thanks-judiciary-but-blames-her-family-for-neglecting-her-in-delhi-liquor-policy-case/article70684054.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "CBI challenges Delhi court's relief to Arvind Kejriwal, others in liquor policy case, moves high court",
+              "url": "https://www.hindustantimes.com/india-news/cbi-challenges-delhi-courts-relief-to-arvind-kejriwal-others-in-liquor-policy-case-moves-high-court-101772192410249.html"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Opinion: Opinion | The Hypocrisy Of Pakistan And Turkey's Frustration With India-Israel Ties",
+          "neutralSummary": "Even before the conclusion of PM Modi's visit, editorials and op-eds appeared in Pakistani and Turkish media, indulging in fear-mongering about India and Israel's deepening ties.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Opinion: Opinion | The Hypocrisy Of Pakistan And Turkey's Frustration With India-Israel Ties",
+              "url": "https://www.ndtv.com/opinion/the-hypocrisy-of-pakistans-growing-frustration-with-india-israel-ties-11144702#publisher=newsstand"
             },
             {
               "political": "left",
@@ -811,138 +800,149 @@
               "source": "Indian Express",
               "initials": "IE",
               "domain": "indianexpress.com",
-              "headline": "Former Tamil Nadu CM O Panneerselvam likely to join DMK today",
-              "url": "https://indianexpress.com/article/political-pulse/o-panneerselvam-dmk-former-tamil-nadu-cm-10554727/"
+              "headline": "UPSC Key: India and Israel elevate ties, PRAHAAR, and India-Canada relations",
+              "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-india-israel-elevate-ties-prahaar-canada-relations-10555503/"
             }
           ]
         },
         {
-          "id": "india-3",
-          "neutralHeadline": "Columbia student detained by ICE agents to be released after Mamdani–Trump meeting",
-          "neutralSummary": "New York City Mayor Zohran Mamdani met President Donald Trump at the White House. They discussed major housing investments for the city. The meeting also addressed the arrest of a Columbia University student. The student was later released following intervention. Mamdani presented Trump with a mock",
+          "id": "india-4",
+          "neutralHeadline": "Kerala high court stay lifted: Bench allows 'The Kerala Story 2' release",
+          "neutralSummary": "The Kerala High Court has lifted a temporary ban on the film 'The Kerala Story 2'. A Division Bench stayed an earlier order that had stalled the movie's release for 15 days. The court had previously asked the CBFC to re-watch and reassess the film's certification due to allegations of promoting hatr",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Columbia Student Detained By US Immigration Agents Released After Mamdani Meets Trump",
-              "url": "https://www.ndtv.com/world-news/ellie-aghayeva-columbia-student-detained-by-us-immigration-agents-released-after-mamdani-meets-trump-11142930#publisher=newsstand"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Columbia student detained by ICE agents to be released after Mamdani–Trump meeting",
-              "url": "https://timesofindia.indiatimes.com/world/us/columbia-student-detained-by-ice-agents-to-be-released-after-mamdanitrump-meeting/articleshow/128835098.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "'Most Firms Are Late': Jack Dorsey's Block Cuts 4,000 Jobs Amid AI Layoffs",
-          "neutralSummary": "Jack Dorsey said it is \"one of the hardest decisions in the history of our company\" (File)",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "'Most Firms Are Late': Jack Dorsey's Block Cuts 4,000 Jobs Amid AI Layoffs",
-              "url": "https://www.ndtv.com/world-news/jack-dorseys-block-to-cut-over-4-000-jobs-as-ai-use-expands-11142872#publisher=newsstand"
+              "headline": "Kerala high court stay lifted: Bench allows 'The Kerala Story 2' release",
+              "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/the-kerala-story-2-gets-relief-as-the-kerala-high-court-lifts-stay-on-the-release-of-the-film/articleshow/128850223.cms"
             },
             {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05U0d1UVZzMXpjUzNwamNJelcxcGtqSUR3dEswUnJwVnpHc3lFa0lNS1JEUjhvaVl6QXFCUWJHemFPRzY5MDlndHRfYnY5ZDZjN3I2WW91MFk3dw?oc=5"
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Kerala Story 2: Tickets sold despite Court stay",
+              "url": "https://economictimes.indiatimes.com/news/india/kerala-story-2-high-court-stays-release-for-15-days-as-tickets-go-on-sale-amid-cbfc-scrutiny/articleshow/128840826.cms"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Kerala culture: contribution and crisis",
-          "neutralSummary": "Kerala culture: contribution and crisis",
+          "neutralHeadline": "‘This road not for Muslims’: Graffiti on Delhi-Dehradun highway in UP; police register case, probe on",
+          "neutralSummary": "Behatigarh Police, under whose jurisdiction the incident took place, said the words \"Yeh sadak Musalmanon ke liye nahin hai\" were written.",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Kerala culture: contribution and crisis",
-              "url": "https://www.thehindu.com/news/national/kerala/kerala-culture-contribution-and-crisis/article70478924.ece"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "‘This road not for Muslims’: Graffiti on Delhi-Dehradun highway in UP; police register case, probe on",
+              "url": "https://www.hindustantimes.com/india-news/this-road-not-for-muslims-graffiti-on-delhi-dehradun-highway-in-up-police-register-case-probe-on-101772196173575.html"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "Supreme Court collegium recommends Justice Sushrut Arvind Dharmadhikari as next Chief Justice of Madras HC",
-          "neutralSummary": "Hailing from Madhya Pradesh, Justice Dharmadhikari was born on July 8, 1966 at Raipur and obtained his bachelor’s degree in commerce and law from the Nagpur University",
+          "neutralHeadline": "Tamil Nadu polls may be held in single phase, decision shortly: CEC Gyanesh Kumar",
+          "neutralSummary": "The review meeting, conducted under the supervision of the Election Commission of India, assessed poll preparedness across the state.",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Supreme Court collegium recommends Justice Sushrut Arvind Dharmadhikari as next Chief Justice of Madras HC",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-collegium-recommends-justice-sushrut-arvind-dharmadhikari-as-next-chief-justice-of-madras-hc/article70682423.ece"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Tamil Nadu polls may be held in single phase, decision shortly: CEC Gyanesh Kumar",
+              "url": "https://www.hindustantimes.com/india-news/tamil-nadu-polls-may-be-held-in-single-phase-decision-shortly-cec-gyanesh-kumar-101772192265195.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Deccan Herald",
+              "initials": "DH",
+              "domain": "news.google.com",
+              "headline": "Tamil Nadu Elections: Political Parties want Single-Phase Polls",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaWNWOWRUTXV4SmlkNUhYSnZrR2JrbGZFd3lsSWp2bHBVVTRHajBQYk9wZG5FN2YxZ2xxcXFJVTNVRUtIZFI0eld1NEROLUdpdFVoTXhIMzVxMmhKREZTdGhMNzAtSTRtYmpPajl3NmQ1UnhtTDUxZTRNNVpTYi0tc0NJWTI3T2ZKV3NjT1JSb0h5V0szZXlrRUZPbW5rdFR2cFN0c0ZnUWlKOUVvRWZkNHlFSm5KY282T1NQS3lqMjI2YmJ3WUlIUFYxLVMxeW5VNW9RdWVn?oc=5"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "How are predictive policing and traffic management tools used on Indian roads? | Explained",
-          "neutralSummary": "Intelligent, tech-based policing is being implemented across major cities in India, bringing both benefits as well as concerns",
+          "neutralHeadline": "Parliament has absolute prerogative to enact law, not bound by Centre's undertaking: SC",
+          "neutralSummary": "Parliament has absolute prerogative to enact law, not bound by Centre's undertaking: SC",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "How are predictive policing and traffic management tools used on Indian roads? | Explained",
-              "url": "https://www.thehindu.com/sci-tech/technology/how-are-predictive-policing-and-traffic-management-tools-used-on-indias-roads-explained/article70678924.ece"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Parliament has absolute prerogative to enact law, not bound by Centre's undertaking: SC",
+              "url": "https://www.hindustantimes.com/india-news/parliament-has-absolute-prerogative-to-enact-law-not-bound-by-centre-s-undertaking-sc-101772191790266.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Live Law",
+              "initials": "LL",
+              "domain": "news.google.com",
+              "headline": "Centre's Undertaking To Reconsider Sedition Law Not Binding On Parliament, Says Supreme Court On BNS...",
+              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbGNLeDVSdGc2alE0MndDVUFpSktGd2RSUThDU0dFYWZlWnZzSTRzS05FelpjRC0teExSNHRoRUNoeGxyRlVScW5FZUZ2Y2VPYWpkaDRBQlVkS1ZkZDZ3UWEwWEdnQmIyVTVhOUl6SWtZRkJKbnVvUGZsRnFrd2VKNTRmSVl6T3JYYmZWZFNBTTBzX3p0aXhHVFhlcDhiZkhjckVReDRGeWJjMXJQVnZIQVBxR19QeFMwZm5hUUp6WGU4RUlfNlRqR0lDXzlmRXhiWHVnUWVPLWFweDNYTGxmQVZfX0rSAeoBQVVfeXFMT1k5SkhEV1VQMGVtSHZfSDIwdEtueHJqMXlqcFZudGNlVGlhUHhwQzJFWkJOWjV0VlV3VjFUODFDOGVBbWk4OW1ISjdDYmF4Rk43WHVNUlpEaXBsS0d1NmVlaHF4cXZ0Y1l3alJSTzdnWFpBbEpPdS1wQUFOU0hLZDdEQ1pZLWJzR1hXb0dzbGpjMlI1RjBLUkJwN3N6TUhzeEM3MU51Ulp0QnNGd2x0c3ZqTE5pd1NDYXVuTXNQOHJEQzA0VHpNSjNSQmpBWXZIeHN2UmRqNmQtSWVPbnNEMTJXLWtpNUJBdDhB?oc=5"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Frozen wages, soaring prices",
-          "neutralSummary": "The compounded inflation rate in Karnataka between 2012 and 2024 has been calculated to be at 208.3%. With minumum wage revision hanging fire, workers have a tough time coping wit h the rising cost of living, reports Sharath S. Srivatsa",
+          "neutralHeadline": "Kolkata Earthquake: Strong tremors felt in the city",
+          "neutralSummary": "Kolkata Earthquake: Strong tremors felt in the city",
           "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Kolkata Earthquake: Strong tremors felt in the city",
+              "url": "https://economictimes.indiatimes.com/news/india/earthquake-today-in-kolkata-strong-tremors-felt-in-the-city-residents-confirm-on-x/articleshow/128841138.cms"
+            },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Frozen wages, soaring prices",
-              "url": "https://www.thehindu.com/news/national/karnataka/frozen-wages-soaring-prices/article70648788.ece"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "news.google.com",
+              "headline": "Strong Earthquake Tremors Felt In Kolkata, Offices Evacuated",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVlgzcFUyVUNCM3lBTFF6RF93U1JwZUdOUXl3YUhra0g5dlBDSWxQLVJ1Tkt6Tm1sbzVGVURDcWhCaE9hT2dIcFhlMzRMdUhIQlRkaXk2R0UxQTg4ampGX2xBdTB3aXFZcEZ6NDc1MHJfMXFUYXRybW1UNklRR3FScnJjMkVDcmx1RUFEY2ZSTE5wRUI4WlYtQm1Ba2pXTWY5WHczZ2R2dUNOMzhoTkpMMUl1WTJUNXZOM09zWC1lNjMzcXZD?oc=5"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Two key panels urge Karnataka government to align recruitments with changing economy",
-          "neutralSummary": "The Karnataka Policy and Planning Commission and the Karnataka Administrative Reforms Commission have against ‘automatic’ replacement of retiring staff",
+          "neutralHeadline": "Indian Navy adds ‘Dolphin Hunter’ INS Anjadip",
+          "neutralSummary": "Indian Navy adds ‘Dolphin Hunter’ INS Anjadip",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Two key panels urge Karnataka government to align recruitments with changing economy",
-              "url": "https://www.thehindu.com/news/national/karnataka/two-key-panels-urge-karnataka-government-to-align-recruitments-with-changing-economy/article70676351.ece"
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Indian Navy adds ‘Dolphin Hunter’ INS Anjadip",
+              "url": "https://economictimes.indiatimes.com/news/defence/indian-navy-adds-dolphin-hunter-ins-anjadip-to-fleet-aims-to-boost-anti-submarine-capabilities/articleshow/128838681.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Mint",
+              "initials": "MINT",
+              "domain": "news.google.com",
+              "headline": "Indian Navy commissions ‘Dolphin Hunter’ INS Anjadip: All you need to know",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkdYTGFzX29PcDVpNlRyajVXWUhDUExxNENaVlQ1TmhEejFiR2FKc1Jjc3B6Qi1iS25mMHhRY0JXSC1oVDJEV0Y3cGZ5RkNnbk1JSVhRek9zYXVoaHU2cTBkTlRsa3dCd0ZiaTFWT0djOGQzZmluSHRWSU1aV0pGTzVFWWRDOW5mSU4xVmZxQzQ4eTUySFRzemJPT3hkOUpvX2x6Z0ZXRWIxYjVxMzRCckM4N045aUFsUHVlYTF0dE80Yl9SZHfSAcsBQVVfeXFMUFM1SWt4c0djRTdta293U3VvcEdMVVliNS1vRnBVS1k4TU05a19nUzZneGNXb3VEM2h2WXdDQWZtRDJHNnRsdnU4WVRtWEcyYnh0ZzVLUEc5ZVhiRmd6VGViZExhOGtoUXd3bU05b1d5ck5ueldER0xWZlJ6NmxDNkdZRXpIUXR5UFlRTzdaTVVWZVpUNFlNbVZOLVBGTFRIUlNjOHRmd3gzNGtSajBZTTgyMnpIRG9EcFRsUzdoNEp1UjRIWS13ekVkVkk?oc=5"
             }
           ]
         }
