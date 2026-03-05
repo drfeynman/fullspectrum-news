@@ -1,190 +1,13 @@
 {
-  "generatedAt": "2026-03-05T04:03:06.248117+00:00",
+  "generatedAt": "2026-03-05T14:03:37.071299+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Pentagon Identifies First U.S. Soldiers Killed In Iran War",
-          "neutralSummary": "The U.S. military on Tuesday identified four of the first American soldiers killed in the war against Iran.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Pentagon Identifies First U.S. Soldiers Killed In Iran War",
-              "url": "https://www.huffpost.com/entry/pentagon-identifies-first-soldiers-killed-iran-war_n_69a7760ae4b076ac5d647a4b"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Pentagon identifies six US soldiers killed in Iran conflict",
-              "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "The Pentagon has now ID'd all 6 U.S. soldiers who died in a Kuwait attack",
-              "url": "https://www.npr.org/2026/03/04/g-s1-112474/soldiers-killed-iran-war-kuwait-army-reserve-iowa-amor-coady-khork-tietjens"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Iran launches missiles at Israel as Middle East conflict escalates",
-          "neutralSummary": "Iran launched missiles at Israel early Thursday, marking the sixth day of escalating Middle East hostilities after a US submarine sank an Iranian warship. Israel struck Hezbollah targets in Lebanon as the conflict spreads, killing thousands, disrupting shipping and oil supplies, and raising fears of",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Israel Strikes Lebanon Following Hezbollah Attacks, Widening Iran Conflict",
-              "url": "https://www.huffpost.com/entry/israel-lebanon-hezbollah-iran_n_69a51362e4b033a0453538ba"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Iran launches missiles at Israel as Middle East conflict escalates",
-              "url": "https://www.france24.com/en/middle-east/20260305-iran-launches-missiles-at-israel-as-middle-east-conflict-escalates"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Trump Says 48 Leaders Killed In Strikes On Iran, In Fox News Interview",
-          "neutralSummary": "He spoke about the strikes after the U.S. launched an attack on Iran earlier this weekend.&nbsp;",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Says 48 Leaders Killed In Strikes On Iran, In Fox News Interview",
-              "url": "https://www.huffpost.com/entry/trump-fox-news_n_69a4d362e4b033a045350b12"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump's new reasoning for Iran strikes. And, takeaways from the first 2026 primaries",
-              "url": "https://www.npr.org/2026/03/04/g-s1-112465/up-first-newsletter-iran-israel-us-trump-midterm-primary-elections-ice"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "Trump to POLITICO: Iran is ’running out of launchers’",
-              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjAxcGpndGd0RDlmdVJUYzVCOFVCMUFVcHdhMmtGR05hWWQ4TjF0STFBLVU4X2VNYTlMRlZ4RzBOOHdMN0hSRXNDR3lIT196eWMzTUJ1VmRtdFlzZGFsUDhRYkgzcDZUbThJRmc3UlhpRzVCSXEyVUNZUnBMT3MxeEttNmZ3T1NrYzlDTEZNLTVESGdlQWlwOU5ad3ZweE04OVE?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "US submarine torpedoed Iranian warship in Indian Ocean, Pentagon says",
-          "neutralSummary": "A US submarine sank an Iranian warship in the Indian Ocean, Defense Secretary Pete Hegseth said Wednesday, touting the strike as evidence of America's global reach in its war on Iran. \"An American submarine sunk an Iranian warship that thought it was safe in international waters. Instead, it was sun",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
-              "url": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "U.S. submarine sinks Iranian warship in Indian Ocean as conflict widens",
-              "url": "https://www.npr.org/2026/03/04/nx-s1-5735636/u-s-submarine-sinks-iranian-warship-in-indian-ocean-as-conflict-widens"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "US submarine torpedoed Iranian warship in Indian Ocean, Pentagon says",
-              "url": "https://www.france24.com/en/us-submarine-torpedoed-iranian-warship-in-indian-ocean-pentagon-says"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "US Senate vote fails to rein in Trump war powers on Iran",
-          "neutralSummary": "The measure, passed largely along party lines, would halt US military action until approved by Congress.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "US Senate vote fails to rein in Trump war powers on Iran",
-              "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Senate Republicans block war powers resolution on Iran",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/3/5/senate-republicans-block-war-powers-resolution-on-iran?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "US military launches operation in Ecuador to combat drug trafficking",
-          "neutralSummary": "US Southern Command said joint mission with Ecuador involves ‘decisive action’ against illicit drug traffickingUS and Ecuadorian forces have launched joint operations to combat drug trafficking, the US Southern Command said on Tuesday, but neither side gave more details.Southern Command, which encom",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "US military launches operation in Ecuador to combat drug trafficking",
-              "url": "https://www.theguardian.com/us-news/2026/mar/04/us-military-action-operation-ecuador"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "US and Ecuador forces launch operation to fight drug trafficking",
-              "url": "https://www.bbc.com/news/articles/cgjzz4gn64zo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "China sets lowest GDP growth target for decades as it braces for economic slowdown",
-          "neutralSummary": "‘High-quality growth’ target of 4.5-5% outlined at Two Sessions as Chinese premier talks of complex situations at home and abroadWhat are China’s Two Sessions and why do they matter?China has set its target for GDP growth to a record low of 4.5-5%, the first time since 1991 that the figure has dropp",
+          "neutralHeadline": "China sets lowest economic growth target since 1991",
+          "neutralSummary": "China's annual parliamentary session kicks off with a growth downgrade as leaders target technology dominance in the manufacturing field. We take a closer look. Also in this edition: South Korean markets bounce back from a huge selloff, and a US trade court orders the Trump administration to issue t",
           "versions": [
             {
               "political": "left",
@@ -203,47 +26,15 @@
               "domain": "bbc.com",
               "headline": "China sets lowest economic growth target since 1991",
               "url": "https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "What Does China's GDP Target Reveal?",
-          "neutralSummary": "Xiaojia Zhi, Credit Agricole Chief China economist, tells Bloomberg TV that China's modest GDP growth targets reflects a desire to boost domestic demand while limiting fiscal support to those sectors where it is most urgently required. (Source: Bloomberg)",
-          "versions": [
+            },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Why does Yao Ming, the 7ft 6in ex-basketballer, attend China’s Two Sessions meetings?",
-              "url": "https://www.theguardian.com/world/2026/mar/05/yao-ming-former-basketballer-china-two-sessions-meetings"
-            },
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "What Does China's GDP Target Reveal?",
-              "url": "https://www.bloomberg.com/news/videos/2026-03-05/what-does-china-s-gdp-target-reveal-video"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "After US attacks, is Iran's navy on the brink?",
-          "neutralSummary": "On Wednesday, American Defense Secretary Pete Hegseth announced that a U.S. submarine sank an Iranian warship in international waters. The Pentagon says one of the main aims of the US-Israeli war against Iran, launched Saturday, is to wipe out the country's navy, and on Wednesday the US claimed to h",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "As Mideast Conflict Widens, U.S. Says Attacks On Iran Will Last Weeks And Intensify",
-              "url": "https://www.huffpost.com/entry/war-widens-iranian-backed-militias-israeli-iran_n_69a51face4b033a0453543dd"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "China sets a lower economic growth target of 4.5% to 5% for 2026 as challenges loom",
+              "url": "https://www.npr.org/2026/03/05/g-s1-112586/china-sets-a-lower-economic-growth-target-of-4-5-to-5-for-2026-as-challenges-loom"
             },
             {
               "political": "center",
@@ -251,8 +42,226 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "After US attacks, is Iran's navy on the brink?",
-              "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260304-after-us-attacks-is-iran-s-navy-on-the-brink"
+              "headline": "China sets lowest economic growth target since 1991",
+              "url": "https://www.france24.com/en/tv-shows/business/20260305-china-sets-lowest-economic-growth-target-since-1991"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Mystery Surrounds Iranian Warship Sinking In Indian Ocean",
+          "neutralSummary": "Sources in Sri Lanka's defense ministry said the vessel was hit by a submarine, but a navy spokesperson rejected any reports on the cause of the ship sinking.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Mystery Surrounds Iranian Warship Sinking In Indian Ocean",
+              "url": "https://www.huffpost.com/entry/iranian-warship-sri-lanka_n_69a81dd3e4b0b7f2ce601714"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "US sub sinks Iranian warship in Indian Ocean, Hegseth says",
+              "url": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "U.S. submarine sinks Iranian warship in Indian Ocean as conflict widens",
+              "url": "https://www.npr.org/2026/03/04/nx-s1-5735636/u-s-submarine-sinks-iranian-warship-in-indian-ocean-as-conflict-widens"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Israel keeps up Lebanon strikes, more than 83,000 people displaced",
+          "neutralSummary": "Israel's attacks on Lebanon entered a fourth day on Thursday, killing at least two according to state media, after Israeli forces pushed into border towns and conducted air strikes targeting Iran-backed militant group Hezbollah. Lebanon was drawn into the Middle East war on Monday, when Hezbollah at",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Israel Strikes Lebanon Following Hezbollah Attacks, Widening Iran Conflict",
+              "url": "https://www.huffpost.com/entry/israel-lebanon-hezbollah-iran_n_69a51362e4b033a0453538ba"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Israel keeps up Lebanon strikes, more than 83,000 people displaced",
+              "url": "https://www.france24.com/en/video/20260305-israel-keeps-up-lebanon-strikes-more-than-83-000-people-displaced"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Possible scenarios for Iran once war with US, Israel ends",
+          "neutralSummary": "Possible scenarios for Iran once war with US, Israel ends&nbsp;&nbsp;dw.comThe U.S. insists the Iran conflict won't be a 'forever war.' Experts beg to differ&nbsp;&nbsp;CNBCYour Questions About Iran&nbsp;&nbsp;The New York TimesTrump’s War With Iran, Explained&nbsp;&nbsp;Time MagazineIran war: Answe",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "China offers to mediate in US-Israel-Iran war",
+              "url": "https://www.npr.org/2026/03/05/nx-s1-5732804/china-offers-to-mediate-in-us-israel-iran-war"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "dw.com",
+              "initials": "D",
+              "domain": "news.google.com",
+              "headline": "Possible scenarios for Iran once war with US, Israel ends",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kTUd5dGRwTHJTNW1GMlF3Um85b3dmaW5YTmh5QUxxRno4aGNZYVd6LWhLMElRd2hWbXRVVnRmZ3hBSHVuUFRLWllRY1c3ZnR6c1JQa1k3Q3NkMTgyandMRzlIYjlnUmZhY0pxcUVoWS1oNDhuMlHSAXZBVV95cUxQMTAwdi1ZbldOSDJrbjktOWZZVFVuRkI2bm54QVhNRUJ0VUVhUzdZN3lYMG13b3VXWVN4TUtyU2VvbTdaVFA2OVdyVzJBVDVNMkw3dnY4MU1UX3ZrWk1BSVVxWlZlNDJvcEx1QjJlVF9oTVFWRG5R?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Foreign Affairs",
+              "initials": "FA",
+              "domain": "news.google.com",
+              "headline": "Why China Won’t Help Iran",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSNE9sRk1kZ1JfMzlCTTVESTdzTmIzUC1tYURrSHl5NERYdVpDZXB5ZFB3bWtVaV9nQzRxenhOLUlITnQ1aXAzaGROMnoxU2RONlZrTUFuSThrem9FbU5DdXAzdDdoY2tBNExUNDRn?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Carney says he backs strikes on Iran 'with some regret' as world order frays",
+          "neutralSummary": "Canadian Prime Minister Mark Carney says he supports the strikes on Iran \"with some regret\" as they represent an extreme example of a rupturing world order.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Carney says he backs strikes on Iran 'with some regret' as world order frays",
+              "url": "https://www.npr.org/2026/03/04/g-s1-112556/carney-says-he-backs-strikes-on-iran-with-some-regret-as-world-order-frays"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Carney's Iran tightrope",
+              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxUU1RYXkwRC1zcm82YXVtMTZLa2o1Nkh0ajRIOE4zY1Z2M0I1dG9rNEYzS3JyNnJnOGREczR4WTZNazR0aTZlcW1XUzdyb0RSTzZURF9TWGNOS0JFcW85WGlwMWl6ZDBLSEtzamR2X2U3dElqOXFaSW1QUUo?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Iran, The US, and the World Cup",
+              "url": "https://www.aljazeera.com/video/game-theory/2026/3/5/aje-onl-iran-wc_v5-050326?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "Millions left without power after major blackout hits Cuba",
+          "neutralSummary": "A blackout left millions of people without power in Havana and the rest of western Cuba on Wednesday in the latest outage on an island struggling with dwindling oil reserves and a crumbling electric grid. Government radio station Radio Rebelde quoted an energy official as saying that it could take a",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Blackout in Cuba leaves millions without power amid US oil chokehold",
+              "url": "https://www.theguardian.com/world/2026/mar/04/blackout-cuba-us-oil"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Millions left without power after major blackout hits Cuba",
+              "url": "https://www.france24.com/en/video/20260305-millions-left-without-power-after-major-blackout-hits-cuba"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
+          "neutralHeadline": "US Senate vote fails to rein in Trump war powers on Iran",
+          "neutralSummary": "The measure, passed largely along party lines, would halt US military action until approved by Congress.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "US Senate vote fails to rein in Trump war powers on Iran",
+              "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "House to vote on Trump's war powers. And, Minnesota sues over halted Medicaid funding",
+              "url": "https://www.npr.org/2026/03/05/g-s1-112596/up-first-newsletter-iran-israel-us-trump-democratic-primaries-minnesota-medicaid"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Iranian drones strike Azerbaijan's Nakhchivan international airport",
+          "neutralSummary": "Iranian drones strike Azerbaijan's Nakhchivan international airport&nbsp;&nbsp;Euronews.comIran Live Updates: Iranian Drones Fall in Azerbaijan as Crisis Spills Beyond Mideast - The New York Times&nbsp;&nbsp;The New York TimesU.S.-Israeli strikes continue across Iran; Iranian drones hit Azerbaijan&n",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "U.S.-Israeli strikes continue across Iran; Iranian drones hit Azerbaijan",
+              "url": "https://www.npr.org/2026/03/05/nx-s1-5736566/u-s-israeli-strikes-continue-across-iran-iranian-drones-hit-azerbaijan"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Euronews.com",
+              "initials": "E",
+              "domain": "news.google.com",
+              "headline": "Iranian drones strike Azerbaijan's Nakhchivan international airport",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMEVRa3BsM2M0YWhycS1vSXlpQWg5TmtsLVA2bTgyb0p1NDhaOHpYVkZoNlROcWlZZFQxek5XMmxtYV85RFV2U0tqUXB1Szh0ZjY0YTV4RkFQMHBoZHczSkZtQlY2ZFdJemFLcFAzaVlfM0wtX1FTTGUtTkhBRFN2a29qNFduMXVTNmhPNkstN2pfQnhuTHRmSjlENGo?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Lewis Hamilton sets sights on racing in an African grand prix before retiring",
+          "neutralSummary": "British former champion hits out at former colonial rulers‘I’m hoping countries unite and take Africa back’Lewis Hamilton has called for a movement to “take Africa back”, claiming the continent is being “controlled” by European powers. On the eve of the new Formula One season in Melbourne, the seven",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Lewis Hamilton sets sights on racing in an African grand prix before retiring",
+              "url": "https://www.theguardian.com/sport/2026/mar/05/lewis-hamilton-race-africa-grand-prix-retiring-formula-one-colonial"
             }
           ]
         }
@@ -263,17 +272,26 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Steve Daines not running for reelection in Montana",
-          "neutralSummary": "Sen. Steve Daines (R-Mont.) said Wednesday he is not making a reelection bid in this year’s midterm, ending a career in Congress that included serving in the House and Senate. “Serving the people of Montana in the U.S. House and the U.S. Senate the past 13 years has been the greatest honor of my pro",
+          "neutralHeadline": "Trump plows ahead on Iran",
+          "neutralSummary": "Today: Iran war powers push comes up short, Bondi subpoenaed by GOP-led panel, Gonzales admits to affair, Dems split over Tina Peters",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Politico",
-              "initials": "POL",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Senate Republicans Block Effort To End Trump’s Iran War",
+              "url": "https://www.huffpost.com/entry/iran-war-trump-senate_n_69a887ede4b0b7f2ce61038b"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Washington Post",
+              "initials": "WP",
               "domain": "news.google.com",
-              "headline": "Sen. Steve Daines announces he will not seek reelection",
-              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMFFzM3FienhaRjdUcXUtdEdqX1ZTSnc1elplYXpDcVd1dEJCS1FoWVpocl83VE52bWY5a3FvMlVPWS1vVk5rSUl5T1Z3SXlNT294UkRYVkVrVkFpQTAwMEctY2xIRm9Qa1B2UTEzcXNPbjMzOHdZb0NnSFRxdU1HZUxjRlFXcEJGTGNmUmZjcDdKMjRsUjhOWjlEQlZ0NTA0S2Y0OQ?oc=5"
+              "headline": "Trump calls on Kurds to aid U.S. effort in Iran, offers support",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORThhNVdIWGJXMTgwSUhQY016WlJMa0s5M0lrRE9kZ2k4ckxOOHdtaUxITllFWmRBeDkzdUl0ZFhxa080b2g5cUI0VkpSYUlFaW5Rc0R5d1YtTm1qUEFHZTktYTdzS3hVOHFkNGVocGZNR3FNYXV6WDlzcHRQMEk2aV85QmJiWWdHSUE?oc=5"
             },
             {
               "political": "center",
@@ -281,17 +299,8 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Steve Daines not running for reelection in Montana",
-              "url": "https://thehill.com/homenews/campaign/5768253-sen-steve-daines-retires/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Montana GOP Sen. Steve Daines to ‘pass the torch’ — becomes 6th Republican to not seek reelection in critical midterms",
-              "url": "https://nypost.com/2026/03/04/us-news/montana-gop-sen-steve-daines-to-pass-the-torch-surprisingly-reveals-he-wont-seek-reelection/"
+              "headline": "Trump plows ahead on Iran",
+              "url": "https://thehill.com/newsletters/morning-report/5768519-trump-iran-conflict-escalates/"
             },
             {
               "political": "right",
@@ -299,15 +308,15 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Steve Daines announces shock retirement minutes before Senate filing deadline",
-              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4481281/steve-daines-drops-reelection-bid-two-terms-senate/"
+              "headline": "How US intelligence is guiding the Iran war effort",
+              "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4478630/how-us-intelligence-is-guiding-the-iran-war-effort/"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "Senate Republicans urge Trump to back Cornyn in Texas runoff",
-          "neutralSummary": "Sen. John Cornyn&#8217;s (R-Texas) better-than-expected performance in Tuesday&#8217;s primary could turn the race on its head as President Trump revealed that he will endorse “soon” in the looming runoff against Texas Attorney General Ken Paxton (R). Senate GOP leaders, itching avoid an expensive b",
+          "neutralHeadline": "Montana GOP Sen. Steve Daines Abruptly Drops Reelection Bid",
+          "neutralSummary": "In a stunning move on Wednesday, Sen. Steve Daines dropped his bid for reelection and endorsed Montana U.S. Attorney Kurt Alme as his successor.",
           "versions": [
             {
               "political": "left",
@@ -315,59 +324,9 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Ken Paxton and John Cornyn Heading To Runoff In Texas Senate Race",
-              "url": "https://www.huffpost.com/entry/texas-senate-cornyn-paxton_n_69a77e2ae4b0d5c34564fa5a"
+              "headline": "Montana GOP Sen. Steve Daines Abruptly Drops Reelection Bid",
+              "url": "https://www.huffpost.com/entry/steve-daines-montana_n_69a8ddc2e4b006922e0b4779"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Senate Republicans urge Trump to back Cornyn in Texas runoff",
-              "url": "https://thehill.com/homenews/senate/5767956-senate-republicans-trump-cornyn-texas/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Trump Wants To Play Kingmaker In Heated Texas Senate Race",
-              "url": "https://www.dailywire.com/news/trump-wants-to-play-kingmaker-in-heated-texas-senate-race"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "GOP Attack Post Crucifies Senate Primary Winner James Talarico For Religious Views",
-          "neutralSummary": "Republicans wasted no time in stirring up conservative outrage as Talarico earned a primary victory in Texas over Jasmine Crockett.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "GOP Attack Post Crucifies Senate Primary Winner James Talarico For Religious Views",
-              "url": "https://www.huffpost.com/entry/james-talarico-attack-ad-god-is-nonbinary_n_69a8013fe4b0d5c345653044"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "James Talarico Says ‘New Politics’ Is Being Born After Texas Primary Win",
-              "url": "https://www.nytimes.com/2026/03/04/us/politics/talarico-victory-party.html"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Daines Drops Re-election Bid in Montana, Upending a Senate Race",
-          "neutralSummary": "The surprise announcement by Senator Steve Daines could give Democrats a slim opening in the Republican-leaning state in their uphill fight to take the Senate majority.",
-          "versions": [
             {
               "political": "left",
               "tone": "neutral",
@@ -389,25 +348,43 @@
           ]
         },
         {
-          "id": "us-5",
-          "neutralHeadline": "Judge Blocks DeSantis’s Declaration of Muslim Group as Terrorist Organization",
-          "neutralSummary": "A federal judge found that the designation for CAIR, one of the nation’s largest Muslim advocacy groups, had violated the organization’s First Amendment rights.",
+          "id": "us-3",
+          "neutralHeadline": "House Oversight Committee Votes To Subpoena Pam Bondi Over Missing Epstein Files",
+          "neutralSummary": "Rep. Nancy Mace (R-S.C.) and four other Republicans joined Democrats in voting for the subpoena.&nbsp;",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Judge Blocks DeSantis’s Declaration of Muslim Group as Terrorist Organization",
-              "url": "https://www.nytimes.com/2026/03/04/us/desantis-cair-muslim-group-terrorist-organization.html"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "House Oversight Committee Votes To Subpoena Pam Bondi Over Missing Epstein Files",
+              "url": "https://www.huffpost.com/entry/oversight-committee-pam-bondi-subpoena-epstein_n_69a898e3e4b0865be0c6fc35"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Pam Bondi faces bipartisan subpoena over frustration with DOJ's release of Epstein files",
+              "url": "https://www.foxnews.com/politics/pam-bondi-faces-bipartisan-subpoena-over-frustration-dojs-release-epstein-files"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "House Oversight Committee votes to subpoena AG Pam Bondi over Jeffrey Epstein files",
+              "url": "https://nypost.com/2026/03/05/us-news/house-oversight-committee-votes-to-subpoena-pam-bondi-in-bipartisan-effort-to-get-answers-on-epstein-files/"
             }
           ]
         },
         {
-          "id": "us-6",
-          "neutralHeadline": "Noem denies blocking investigations, as inspector general says he’s been ‘systematically obstructed’",
-          "neutralSummary": "Homeland Security Secretary Kristi Noem denied that she was blocking 11 different inspector general investigations of her department, including in a criminal matter, even as she blasted the inspector general for wanting “unfettered access to every single thing in the department.” Inspector General J",
+          "id": "us-4",
+          "neutralHeadline": "Allam concedes to Foushee in tight North Carolina primary",
+          "neutralSummary": "Rep. Valerie Foushee (D-N.C.) is expected to defend her seat in North Carolina&#8217;s 4th Congressional District after progressive challenger Nida Allam conceded on Wednesday. Decision Desk HQ (DDHQ) has yet to call the narrow Democratic primary for the Durham-based seat. “Though these were not the",
           "versions": [
             {
               "political": "left",
@@ -415,33 +392,33 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Noem and D.H.S. Inspector General Spar Over Obstruction Claim",
-              "url": "https://www.nytimes.com/2026/03/04/us/politics/noem-dhs-inspector-general.html"
+              "headline": "North Carolina Voters Punish Incumbents in Primary Election",
+              "url": "https://www.nytimes.com/2026/03/05/us/north-carolina-primary-election-legislature.html"
             },
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "optimistic",
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Noem denies blocking investigations, as inspector general says he’s been ‘systematically obstructed’",
-              "url": "https://thehill.com/homenews/administration/5767974-kristi-noem-dhs-inspector-general/"
+              "headline": "Allam concedes to Foushee in tight North Carolina primary",
+              "url": "https://thehill.com/homenews/house/5763536-allam-concedes-foushee-north-carolina-house/"
             }
           ]
         },
         {
-          "id": "us-7",
-          "neutralHeadline": "Lou Holtz, Hall of Fame coach who won a title at Notre Dame, dies at 89",
-          "neutralSummary": "Known for his clever quips and controversial political comments, he led the Fighting Irish to a national championship in 1989.",
+          "id": "us-5",
+          "neutralHeadline": "Nancy Mace Grills Tim Walz With Bizarre Question During Heated House Hearing",
+          "neutralSummary": "Mace also accused Walz of &ldquo;presiding over one of the worst government fraud scandals in American history\" during the spat.&nbsp;",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Lou Holtz, Hall of Fame coach who won a title at Notre Dame, dies at 89",
-              "url": "https://www.washingtonpost.com/obituaries/2026/03/04/lou-holtz-dead-notre-dame/"
+              "tone": "pessimistic",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Nancy Mace Grills Tim Walz With Bizarre Question During Heated House Hearing",
+              "url": "https://www.huffpost.com/entry/nancy-mace-questions-tim-walz-what-is-a-woman-house-hearing_n_69a8b048e4b0865be0c719a8"
             },
             {
               "political": "right",
@@ -449,49 +426,90 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Beloved Notre Dame Football Coach Lou Holtz Dies At 89",
-              "url": "https://www.dailywire.com/news/beloved-notre-dame-football-coach-lou-holtz-dies-at-89"
+              "headline": "‘Thank God You’re Not The Vice President’: Nancy Mace Grills Tim Walz Over Autism Funding Fraud",
+              "url": "https://www.dailywire.com/news/thank-god-youre-not-the-vice-president-nancy-mace-grills-tim-walz-over-autism-funding-fraud"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Joe Scarborough Says James Talarico Won Texas Because GOP Pulled 1 ‘Stupid’ Move",
+          "neutralSummary": "&ldquo;They think they can game the system,&rdquo; the &ldquo;Morning Joe\" host said.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Joe Scarborough Says James Talarico Won Texas Because GOP Pulled 1 ‘Stupid’ Move",
+              "url": "https://www.huffpost.com/entry/joe-scarborough-james-talarico-won-texas-because-gop-pulled-1-stupid-move_n_69a87150e4b0b7f2ce60e165"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "James Talarico Says ‘New Politics Is Being Born’ After Texas Primary Win",
+              "url": "https://www.nytimes.com/2026/03/04/us/politics/talarico-victory-party.html"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Utah Authorities Begin Investigation After 3 Women Are Found Dead",
+          "neutralSummary": "The authorities in Wayne County closed schools and urged the public to take precautions after two women were found on a hiking trail, and a third at a residence.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Utah Authorities Begin Investigation After 3 Women Are Found Dead",
+              "url": "https://www.nytimes.com/2026/03/05/us/wayne-county-utah-murders-manhunt.html"
             }
           ]
         },
         {
           "id": "us-8",
-          "neutralHeadline": "WATCH: How traffic dried up in the Strait of Hormuz since the Iran war began",
-          "neutralSummary": "The effective closure of the Strait of Hormuz is \"about as wrong as things could go\" for global oil markets. Iran achieved it not with a naval blockade, but with cheap drones.",
+          "neutralHeadline": "Once a Bipartisan Stalwart, AIPAC Turns ‘Toxic’ in the Illinois Primaries",
+          "neutralSummary": "The intervention of AIPAC supporters in Chicago-area Democratic primaries, including one with opposing Jewish candidates, has made the pro-Israel lobby an issue on the left.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Once a Bipartisan Stalwart, AIPAC Turns ‘Toxic’ in the Illinois Primaries",
+              "url": "https://www.nytimes.com/2026/03/05/us/politics/aipac-illinois-primaries.html"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "U.S. Court Takes First Steps Toward Ordering Tariff Refunds",
+          "neutralSummary": "The Trump administration is likely to appeal the move, as it ramps up its attempt to slow or potentially block the repayment of billions in past duties.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "U.S. Court Takes First Steps Toward Ordering Tariff Refunds",
+              "url": "https://www.nytimes.com/2026/03/04/us/politics/judge-order-trump-tariff-refunds.html"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "WATCH: How traffic dried up in the Strait of Hormuz since the Iran war began",
-              "url": "https://www.npr.org/2026/03/04/nx-s1-5736104/iran-war-oil-trump-israel-strait-hormuz-closed-energy-crisis"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Pentagon identifies 5th service member killed in Kuwait drone attack",
-          "neutralSummary": "The Defense Department (DOD) late Wednesday released the name of the fifth U.S. service member killed over the weekend after an Iranian drone struck a tactical operations center in Kuwait. Maj. Jeffrey R. O&#8217;Brien, 45, of Indianola, Iowa, died on Sunday at Shuaiba Port during an unmanned aircra",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Pentagon identifies 5th service member killed in Kuwait drone attack",
-              "url": "https://thehill.com/policy/defense/5768319-iranian-drone-attack-kuwait/"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Pentagon identifies two other soldiers killed in Kuwait drone attack",
-              "url": "https://www.washingtonexaminer.com/policy/defense/4481360/pentagon-identity-two-soldiers-kuwait-iran-drone-attack/"
+              "headline": "Wall Street is betting on tariff refunds after Supreme Court ruling",
+              "url": "https://www.npr.org/2026/03/05/nx-s1-5736120/tariff-refunds-wall-street-trade"
             }
           ]
         }
@@ -502,49 +520,42 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Applications for Lasting Power of Attorney will be free for Singaporeans from April 1: MSF",
-          "neutralSummary": "As at Feb 20, about 404,000, or one in seven Singapore citizens, have made an LPA.",
+          "neutralHeadline": "China to Send Special Envoy to Middle East",
+          "neutralSummary": "China to Send Special Envoy to Middle East&nbsp;&nbsp;WSJWhy China Won’t Help Iran&nbsp;&nbsp;Foreign AffairsAnalysis: Why Xi can't say no to Trump visit despite the Iran strikes&nbsp;&nbsp;Nikkei AsiaIs the US in decline? After Iran strikes, maybe not, Chinese analysts say&nbsp;&nbsp;South China Mo",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Applications for Lasting Power of Attorney will be free for Singaporeans from April 1: MSF",
-              "url": "https://www.straitstimes.com/singapore/politics/applications-for-a-lasting-power-of-attorney-to-be-made-free-for-singaporeans-from-april-1-msf"
+              "source": "WSJ",
+              "initials": "W",
+              "domain": "news.google.com",
+              "headline": "China to Send Special Envoy to Middle East",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMGZwQUM4ZFZUQ25yUHhPYmQwTGdDSFRnUVh6M3BycWVGMEtWQU10VVUzcVluZTlSYmZkVlBGa05UaEpDVWkxbTJQNC0tcVg0OUNRM2trYlJmb0dkYlRXZ25OWkFuUHQzTFdVSmVnVFg0SEppaUpETnBvOUY0QW9OWXYyNzN6d1VnaHgzTnh6czF2X2VfTllKeTdDSHktYUI4NGpRUHlpbGhKblJwRVdKTm9WcUloTXlsZHVoenNMQkRwUWw3R2l6QlpR?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "War in the Middle East: latest developments",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQm9Yd2Q3LVRCaEVWRkZGZ0U0d3lpbGFlTk9aanZxaUxsbWhXcXZMWk53bldocUVTMzlhOWFKeWttaUladFpVSnVTVmUzWEk1aFhNVHc2V05lWnYxTUFRTmZRZFE1anlPbUJZSTMzNDV3S1BFNnRWWUcxN3ZmV2Y5UkxR?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "How Middle East War Could Expose AI Risks | The Pulse 3/5",
+              "url": "https://www.bloomberg.com/news/videos/2026-03-05/the-pulse-3-5-2026-video"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Ferrying workers in caged lorry decks to be banned from Jan 1, 2027",
-          "neutralSummary": "Caged lorries make up around 1 to 2 per cent of about 50,000 lorries here.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Ferrying workers in caged lorry decks to be banned from Jan 1, 2027",
-              "url": "https://www.straitstimes.com/singapore/politics/ferrying-workers-in-lorries-with-rear-cages-to-be-banned-from-jan-1-2027"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Singapore to ban caged lorries for transporting workers from 2027",
-              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkZERFd2alc2TGNhMFVmOWtvcTR4U21RajJaVGtWaW1ka1JGNW5vMXZxbWNJV0lTakxBQzg3NHp1ZDZEYlVDQ29KejFsRVFJSmkxUUx0RzA3MEZySFUwLVNTaURFT3VJRi0tZmdGTWtET3ZhV2l2c2NUY09VTXRXVHR6NWNuUHo4ZWItUkJlY1JWV1VIanc?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
-          "neutralHeadline": "China to hike defence budget by 7% amid rising global security tensions",
-          "neutralSummary": "China’s defence outlays are closely watched as a barometer of Beijing’s strategic priorities as it presses ahead with military modernisation.",
+          "neutralHeadline": "Lower growth target, higher stakes: Key signals as China’s Two Sessions open",
+          "neutralSummary": "From a lower growth target to bigger bets on technology and consumption, China’s Two Sessions open with a sober assessment of economic challenges and a recalibration of policy priorities.",
           "versions": [
             {
               "political": "center",
@@ -552,24 +563,8 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "China to hike defence budget by 7% amid rising global security tensions",
-              "url": "https://www.channelnewsasia.com/east-asia/china-defence-budget-2026-military-modernisation-national-security-5967776"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "China lowers 2026 growth target to 4.5-5%, first cut in three years amid mounting headwinds",
-          "neutralSummary": "The move signals a more cautious outlook&nbsp;as the world’s second-largest economy grapples with weak demand, property strains and trade pressures.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "China lowers 2026 growth target to 4.5-5%, first cut in three years amid mounting headwinds",
-              "url": "https://www.channelnewsasia.com/east-asia/china-two-sessions-economy-gdp-target-15th-five-year-plan-5969961"
+              "headline": "Lower growth target, higher stakes: Key signals as China’s Two Sessions open",
+              "url": "https://www.channelnewsasia.com/east-asia/china-two-sessions-gdp-economy-households-tech-defence-5973386"
             },
             {
               "political": "left",
@@ -583,9 +578,25 @@
           ]
         },
         {
-          "id": "singapore-5",
-          "neutralHeadline": "US sinks Iranian warship off Sri Lanka, NATO downs Iranian missile heading for Türkiye",
-          "neutralSummary": "The missile incident was the first time that Türkiye, which has NATO's second-largest military, was drawn into the conflict.",
+          "id": "singapore-3",
+          "neutralHeadline": "Iran crisis could disrupt supply of key chipmaking materials, South Korea warns",
+          "neutralSummary": "Iran crisis could disrupt supply of key chipmaking materials, South Korea warns",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Iran crisis could disrupt supply of key chipmaking materials, South Korea warns",
+              "url": "https://www.channelnewsasia.com/east-asia/south-korea-semiconductor-chip-iran-war-5973021"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Singapore to mount repatriation flights on Saturday and Sunday to bring citizens home from Middle East",
+          "neutralSummary": "MFA has deployed crisis response teams to Oman and Saudi Arabia as it works to secure further evacuation options.",
           "versions": [
             {
               "political": "center",
@@ -593,40 +604,47 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "US sinks Iranian warship off Sri Lanka, NATO downs Iranian missile heading for Türkiye",
-              "url": "https://www.channelnewsasia.com/world/us-sinks-iran-war-ship-nato-israel-missile-5972121"
-            },
+              "headline": "Singapore to mount repatriation flights on Saturday and Sunday to bring citizens home from Middle East",
+              "url": "https://www.channelnewsasia.com/singapore/singapore-repatriation-flight-middle-east-mfa-iran-war-5972786"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Montfort Junior School to take in girls from 2028, secondary school to also become co-ed",
+          "neutralSummary": "The Montfort schools join the list of single-sex schools here that have opened their doors to both genders.",
+          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Straits Times",
               "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "US submarine sinks Iranian warship off Sri Lanka, killing 87 and expanding war zone",
-              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWUxQMjE4X1FCS0dFVFBzNGd0N1hNQXVTWTlRMHJjeGhWd0MtY3ZZQ2tCRVlweWU5ZHN1T3daTFhNeVlNNVFqUDVGV3V1aHl6WTVRUm10Y29wd0RGbmJ0bGJ2LUYtVERvZVVrUDNBUURxS0FXakJkOExOc0ZVNXBsN0RVSGJZbW02YWZrcDEtQUtUb0xXZXF2VVQ3S190NHk3VkFWbW9WcUJTLXFZTUo3YVl6UWpQMmZFRDJpNU9nblFSTjNUMEE?oc=5"
+              "domain": "straitstimes.com",
+              "headline": "Montfort Junior School to take in girls from 2028, secondary school to also become co-ed",
+              "url": "https://www.straitstimes.com/singapore/montfort-junior-school-to-take-in-girls-from-2028-secondary-school-to-also-become-co-ed"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "Former Malaysian minister Rafizi's ex-aide a 'wanted' man to assist in probe over US$270 million government deal",
-          "neutralSummary": "The Malaysian Anti-Corruption Commission said that it was tracking down Chai Jin Shern, also known as James Chai, and had appealed to the public to provide any information on his whereabouts.",
+          "neutralHeadline": "1 Malaysian to be charged over suspected involvement in govt official impersonation scam",
+          "neutralSummary": "The victim handed over jewellery worth more than $28,000 to the scammer.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Former Malaysian minister Rafizi's ex-aide a 'wanted' man to assist in probe over US$270 million government deal",
-              "url": "https://www.channelnewsasia.com/asia/malaysia-macc-james-chai-wanted-rafizi-ramli-arm-holdings-investigations-5969411"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "1 Malaysian to be charged over suspected involvement in govt official impersonation scam",
+              "url": "https://www.straitstimes.com/singapore/1-malaysian-to-be-charged-over-suspected-involvement-in-govt-official-impersonation-scam"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "AI, genetic screening; flexible financing for  preventive medicine in super-aged S’pore: Ong Ye Kung",
-          "neutralSummary": "Medisave will be made flexible to help patients better meet their chronic and preventive care needs.",
+          "neutralHeadline": "Mixed reactions to $4 flat fare for Punggol AV shuttle service; Grab to offer introductory discount",
+          "neutralSummary": "Some residents said $4 seems high for short trips, while others felt it was reasonable for last-mile connectivity.",
           "versions": [
             {
               "political": "center",
@@ -634,15 +652,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "AI, genetic screening; flexible financing for  preventive medicine in super-aged S’pore: Ong Ye Kung",
-              "url": "https://www.straitstimes.com/singapore/politics/ai-genetic-screening-and-flexible-financing-to-bolster-preventive-medicine-for-super-aged-spore-ong"
+              "headline": "Mixed reactions to $4 flat fare for Punggol AV shuttle service; Grab to offer introductory discount",
+              "url": "https://www.straitstimes.com/singapore/transport/mixed-reactions-to-4-flat-fare-for-punggol-av-shuttle-service-grab-to-offer-introductory-discount"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "‘So glad he’s safe’: Families welcome flights from Middle East bringing S’porean passengers home",
-          "neutralSummary": "As at March 1, a total of 26 Singapore Airlines and Scoot flights between Feb 28 and March 7 were cancelled.",
+          "neutralHeadline": "Youth compassion spotlighted as Singapore Silent Heroes Awards 2026 open for nominations",
+          "neutralSummary": "Launched in 2014, the awards have received more than 1,200 nominations.",
           "versions": [
             {
               "political": "center",
@@ -650,15 +668,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "‘So glad he’s safe’: Families welcome flights from Middle East bringing S’porean passengers home",
-              "url": "https://www.straitstimes.com/singapore/so-glad-hes-safe-families-welcome-flights-from-middle-east-bringing-sporean-passengers-home"
+              "headline": "Youth compassion spotlighted as Singapore Silent Heroes Awards 2026 open for nominations",
+              "url": "https://www.straitstimes.com/singapore/youth-compassion-spotlighted-as-singapore-silent-heroes-awards-2026-open-for-nominations"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "No substantial info that 2 S’poreans fought for IDF, govt seeks clarification with Israel authorities",
-          "neutralSummary": "Mr Shanmugam said this might be difficult to verify as the acts may not be considered illegal in other countries.",
+          "neutralHeadline": "Bird enthusiasts all a-twitter over sightings of daurian starlings in Woodlands",
+          "neutralSummary": "Flocks were swooping around in a huge formation, a phenomenon known as murmuration, over an open field.",
           "versions": [
             {
               "political": "center",
@@ -666,8 +684,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "No substantial info that 2 S’poreans fought for IDF, govt seeks clarification with Israel authorities",
-              "url": "https://www.straitstimes.com/singapore/politics/no-substantial-info-that-2-sporeans-fought-for-idf-govt-seeks-clarification-with-israel-authorities"
+              "headline": "Bird enthusiasts all a-twitter over sightings of daurian starlings in Woodlands",
+              "url": "https://www.straitstimes.com/singapore/bird-enthusiasts-all-a-twitter-over-sightings-of-daurian-starlings-in-woodlands"
             }
           ]
         }
@@ -678,26 +696,17 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Splashed with colours on Holi, woman hurls boiling water on 4-year-old in Nagpur",
-          "neutralSummary": "A shocking Holi incident in Nagpur saw a 60-year-old woman, Sindhu Thakre, scald a four-year-old boy with boiling water after he playfully sprayed colour on her. The child, Om Vange, is hospitalized with significant burns. Police have initiated legal action, emphasizing that such reckless acts, even",
+          "neutralHeadline": "'No plans for rationing': How India is shoring up energy supplies amid Middle East crisis",
+          "neutralSummary": "Despite the rising tensions in West Asia, India remains confident in its energy supply, undertaking daily assessments and maintaining a strong inventory. By diversifying sourcing to include Australia and Canada, India enhances its energy security. In addition, strategic reserves and ongoing dialogue",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Nagpur Woman Pours Hot Water On Grandson, 4, For Spraying Colour On Her",
-              "url": "https://www.ndtv.com/nagpur-news/nagpur-woman-pours-hot-water-on-grandson-4-for-spraying-colour-on-her-11169039#publisher=newsstand"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Splashed with colours on Holi, woman hurls boiling water on 4-year-old in Nagpur",
-              "url": "https://timesofindia.indiatimes.com/city/nagpur/sprayed-with-colour-woman-hurls-boiling-water-on-child/articleshow/129047617.cms"
+              "headline": "'No plans for rationing': How India is shoring up energy supplies amid Middle East crisis",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/india-in-comfortable-position-on-energy-amid-middle-east-crisis-australia-canada-offer-gas-supplies-report/articleshow/129087647.cms"
             },
             {
               "political": "center",
@@ -705,33 +714,33 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Holi horror in Nagpur: Woman throws scalding hot water on grandson for spraying colour on her | On cam",
-              "url": "https://www.hindustantimes.com/india-news/nagpur-woman-throws-scalding-hot-water-on-4-year-old-grandson-for-throwing-colours-on-holi-on-cam-101772657597959.html"
+              "headline": "Jaishankar speaks with Iranian counterpart Abbas Araghchi amid Middle East crisis",
+              "url": "https://www.hindustantimes.com/india-news/jaishankar-speaks-with-iranian-counterpart-abbas-araghchi-amid-middle-east-crisis-101772711390762.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "OpIndia",
+              "initials": "OPI",
+              "domain": "opindia.com",
+              "headline": "As the war in Middle East disrupts energy supply, focus shifts to Strategic Petroleum Reserves: Read what they are and how India prepares for oil crisis",
+              "url": "https://www.opindia.com/2026/03/read-what-strategic-petroleum-reserves-are-and-how-india-prepares-for-oil-crisis/"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Rockets and drones fly across Iran, Israel; Middle East remains tense — how the war is unfolding",
-          "neutralSummary": "Escalating Middle East conflict sees Israel strike Lebanon and intercept Iranian missiles. A US submarine sank an Iranian warship, while Iran retaliated with strikes across the region. The US Senate backed President Trump's military actions against Iran. Energy supplies are threatened as oil prices",
+          "neutralHeadline": "'It’s been 5 days': Sammy hits panic button amid tensions in Middle East",
+          "neutralSummary": "The West Indies team is stranded in India after their T20 World Cup exit due to Middle East airspace restrictions caused by Israel–Iran tensions. Flights have been disrupted, delaying their return home. Frustrated coach Daren Sammy posted, “I just wanna go home” and “At least an update… It’s been 5",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Israel-Iran War Live Updates: Iran Launches Missile Barrage At Israel As Attacks In Middle East Commence For 6th Day",
-              "url": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-dubai-news-middle-east-crisis-iran-live-missile-attacks-drone-strikes-oil-market-news-ayatollah-ali-khamenei-death-11166125#publisher=newsstand"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "US-Israel-Iran War Live Updates: Tehran launches fresh strikes on Israel after Iranian warship attacked in Indian Ocean",
-              "url": "https://indianexpress.com/article/world/us-israel-iran-war-live-updates-trump-oil-attacks-middle-east-crisis-10565234/"
+              "headline": "Signal Interference Hits Passenger Planes Amid War In Middle East",
+              "url": "https://www.ndtv.com/world-news/iran-israel-war-signal-interference-hits-passenger-planes-amid-war-in-middle-east-11173091#publisher=newsstand"
             },
             {
               "political": "center",
@@ -739,174 +748,99 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Rockets and drones fly across Iran, Israel; Middle East remains tense — how the war is unfolding",
-              "url": "https://timesofindia.indiatimes.com/world/middle-east/rockets-missiles-and-drones-fly-across-iran-and-israel-middle-east-remains-tense-how-the-war-is-unfolding/articleshow/129063666.cms"
+              "headline": "'It’s been 5 days': Sammy hits panic button amid tensions in Middle East",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/its-been-5-days-daren-sammy-hits-panic-button-as-tensions-in-middle-east-leave-west-indies-stranded-in-india/articleshow/129085849.cms"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Pak man says Iran forced him into plot to kill Trump",
-          "neutralSummary": "Pak man says Iran forced him into plot to kill Trump",
+          "neutralHeadline": "NDA Candidates File Nominations For 3 Rajya Sabha Seats From Assam",
+          "neutralSummary": "Pramod Boro said that his party would soon decide on alliances within the Bodoland region.",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "US Senate Rejects Bid To Curb Trump's Iran War Powers",
-              "url": "https://www.ndtv.com/world-news/israel-iran-war-us-senate-rejects-bid-to-curb-trumps-iran-war-powers-11169831#publisher=newsstand"
+              "headline": "NDA Candidates File Nominations For 3 Rajya Sabha Seats From Assam",
+              "url": "https://www.ndtv.com/india-news/nda-candidates-file-nominations-for-3-rajya-sabha-seats-from-assam-11172783#publisher=newsstand"
             },
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Pak man says Iran forced him into plot to kill Trump",
-              "url": "https://economictimes.indiatimes.com/news/defence/pakistani-man-says-iran-forced-him-into-plot-to-kill-trump-media-say/articleshow/129065085.cms"
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "2 seats, 3 candidates: Independent’s entry sparks cross-voting fears in Haryana Rajya Sabha polls",
+              "url": "https://indianexpress.com/article/cities/chandigarh/2-seats-3-candidates-independents-entry-sparks-cross-voting-fears-in-haryana-rajya-sabha-polls-10566326/"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "U.S. Troops Killed in Kuwait Had No Warning of Deadly Drone Attack",
-          "neutralSummary": "U.S. Troops Killed in Kuwait Had No Warning of Deadly Drone Attack&nbsp;&nbsp;WSJPentagon Identifies 6 US Soldiers Killed In Kuwait Drone Strike&nbsp;&nbsp;NDTVUS identifies remaining two soldiers killed in Kuwait attack after naming other four&nbsp;&nbsp;The Times of IsraelLive updates: Pentagon id",
+          "neutralHeadline": "India condoles Khamenei's death; EAM Jaishankar speaks to Iran's FM",
+          "neutralSummary": "India has formally expressed condolences for the death of Iran's Supreme Leader, with the Foreign Secretary visiting the Iranian Embassy. Amidst escalating regional tensions, Prime Minister Modi has engaged in extensive diplomatic outreach, speaking with leaders of several Gulf nations and Israel. T",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Pentagon Identifies 6 US Soldiers Killed In Kuwait Drone Strike",
-              "url": "https://www.ndtv.com/world-news/iran-israel-us-war-pentagon-identifies-6-us-soldiers-killed-in-kuwait-drone-strike-11170145#publisher=newsstand"
+              "headline": "Israel-Iran War Live Updates: After India Condoles Khamenei's Death, Jaishankar Speaks To Araghchi",
+              "url": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-dubai-news-middle-east-crisis-iran-live-missile-attacks-drone-strikes-oil-market-news-ayatollah-ali-khamenei-death-11166125#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "pessimistic",
-              "source": "WSJ",
-              "initials": "W",
-              "domain": "news.google.com",
-              "headline": "U.S. Troops Killed in Kuwait Had No Warning of Deadly Drone Attack",
-              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkNCTXhoNnJWaFllekNnejdMaEw3RS02TktPM3ZWelRrRWhpbUdvMllnbjFNNGFOMk1xWG5TbFRpTC1WSVpUb3Vwd2N5UVhCVDFjazE2UUlRajl0dWh4LTZXUkJxMzQyYkhfSWRyTkY1WlkzN05BaFJVUnoxR2FxWThLdEZFUDhIWHljbHg1c1FGMzBwMUxNMkhGa3lKYUlCT25TRnctSXpsYllqQTBOR25n?oc=5"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "India condoles Khamenei's death; EAM Jaishankar speaks to Iran's FM",
+              "url": "https://timesofindia.indiatimes.com/india/india-condoles-death-of-irans-supreme-leader-khamenei-foreign-secretary-meets-tehran-envoy/articleshow/129086080.cms"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Stock market today: Nifty50 rises above 24,600; BSE Sensex up over 500 points",
-          "neutralSummary": "Stock market today: Nifty50 and BSE Sensex staged a comeback on Thursday after deep cuts in its last two trading sessions. While Nifty50 rose above 24,600, BSE Sensex was up over 500 points.",
+          "neutralHeadline": "Second Iranian warship heads towards Sri Lanka a day after US sub attack",
+          "neutralSummary": "A second Iranian warship is en route to Sri Lanka after a US submarine destroyed the IRIS Dena frigate, killing 87 sailors. Sri Lanka is discussing Iran's request for the second vessel to enter its waters for safety, with rescued sailors receiving treatment in Galle.",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Stock Market Live: Sensex, Nifty Likely To Recover After Wall Street Gains",
-              "url": "https://www.ndtv.com/india-news/sensex-today-stock-market-live-updates-traders-hope-for-sensex-nifty-recovery-after-wall-street-gains-11170011#publisher=newsstand"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Stock market today: Nifty50 rises above 24,600; BSE Sensex up over 500 points",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-05-2026-middle-east-tensions-us-israel-iran-war-global-markets-oil-prices/articleshow/129065755.cms"
+              "headline": "Second Iranian warship heads towards Sri Lanka a day after US sub attack",
+              "url": "https://timesofindia.indiatimes.com/defence/international/could-be-targeted-second-iranian-warship-heads-towards-sri-lanka-a-day-after-us-submarine-attack/articleshow/129086310.cms"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "news.google.com",
+              "headline": "2nd Iranian Ship Heads Towards Sri Lanka, Officials Say 'Could Be Targeted'",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYU9uRnZISDdVb2xVZ05XeElUbG1UVDNCSzQ4Wkh3YW5JMVRXOVNycmlDMkg2eHFmcVhmbm5XdUpla0RYaXBXNVhnaDljUll5UDlwZ2djcFU2eGI2T2hvM19uN1JxRUpWMmJCdTk1LW1FQVRkV0FndVc4dk5XcHJYQXJpY19mYUVoRDYxNmZvcGsxZkZnRy1NYlNGdmIwQ3JrQnptVk5Hdm5iVEFfZU9ockdiNmV1OFh2MXZHbHVyaTZtcjBuakgyMmNCTFBKd0k?oc=5"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "Middle East crisis: Donald Trump rates US war effort ‘15 out of 10’; vows to push on against Iran",
-          "neutralSummary": "Middle East crisis: Donald Trump rates US war effort ‘15 out of 10’; vows to push on against Iran&nbsp;&nbsp;The Times of India\"15 Out Of 10\": Trump Rates US War Performance Against Iran&nbsp;&nbsp;NDTVTrump Says US Doing ‘Very Well’ as Iran War Shakes Region&nbsp;&nbsp;Bloomberg.comWill the US put",
+          "neutralHeadline": "PM Modi speaks to France's Macron, calls for ‘early restoration of peace’ in West Asia",
+          "neutralSummary": "Modi said he discussed the shared Indo-French concerns about the evolving situation in West Asia and the need to return to dialogue and diplomacy with Macron.",
           "versions": [
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Trump Says US In \"Very Strong Position\" Against Iran",
-              "url": "https://www.ndtv.com/world-news/iran-israel-war-donald-trump-says-us-in-very-strong-position-against-iran-11169618#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "Middle East crisis: Donald Trump rates US war effort ‘15 out of 10’; vows to push on against Iran",
-              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNajBlNHQ2emRhODlreVFoeGxEN0dzbVd3eG0yMUFCUUVVOG1TXzJwWDltcEppZlZfSVR0aURuLS15d196MWJMRi1vT0tTZmpIZ0kzUFhrNmFTVWY3NFlzRVFSNEd2LWFGZWtrUDI5OEJZUldmM2lMTWU1NHMtQkltZnl1Um5yODdrZDBReFhFNkU3cUxPN1dqc1Y3ZUJKLVlxazhxalFKOWp4SHR6d0k5QUxadU1Gb0VBTmhIVjQ1Znd0VldGOWZWT3d2UGtXWWROb2VUQU9BNGEzZWx1dC1LSkZXbHJtOXVSbFdoSElKTkVRRnZwdWdB?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "White House says Spain agreed to join US in Middle East ops. Spain denies claim: ‘Our position not changed one iota’ | World News",
-          "neutralSummary": "White House says Spain agreed to join US in Middle East ops. Spain denies claim: ‘Our position not changed one iota’ | World News&nbsp;&nbsp;Hindustan TimesTrump lashes out at Spain, says he is 'going to cut off all trade'&nbsp;&nbsp;BBC‘Any threat against member state is threat against the EU’, say",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Spain Denies US Military Cooperation On Iran, Contradicting White House",
-              "url": "https://www.ndtv.com/world-news/iran-israel-war-spain-denies-us-military-cooperation-on-iran-contradicting-white-house-11169592#publisher=newsstand"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
-              "domain": "news.google.com",
-              "headline": "White House says Spain agreed to join US in Middle East ops. Spain denies claim: ‘Our position not changed one iota’ | World News",
-              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORVFDZGpLTHgtM1ZWdXh4R2t1d0JsMENxMDVGQ2tVb2xmQ3lpVkZxODNiUHl5YUMxTVhqMTRCSWpWeEFLcEJtRDd1QnY1SEZhamhIazlrMTV4ZGpCdDl0QTg0TUMwNkNhcTRnb3ZmMTRxTzVacVVVeHRyRGt3eTBNYlROY0QyVjYxdkFiNjZqSUFSS3ZNMURlTV9EWGxRR1VzVDV2bWNaZWlFaU1Qc2o0ZW9lbFUxb1c5cXg1cW1uLUM5NnVsSTg5WFdZNTQxUXpXd1RaWtIB2gFBVV95cUxNeVpRLUVSZ09NSzRhWlJ6V19fQzZvQVEyd3dGbjdMN0EtMkpjRTZCVGNQQXBzMllUam1UeGxteVpFWldBcFdhS3c5MGliYXJWR20zdmphcjBvRnFfc19RaXRZR1Yya1lzRnBmcm5iNVhObU04RVd6SGhzdVlISmx2UENqOFI1RUlyUkhNRHhSUjVNNUpJZS0yZ0doWkRELTNOUUxWY285cUNWRmRkcW5FZUpmTWZ4UUh5Zy1oR1ZNWklrY1NNSUtYcHdyNnVHZWd2ZmhMb1BZVlZ1UQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "T20 World Cup 2026: India, England ready for shootout at Wankhede",
-          "neutralSummary": "Heat, dew and high stakes set the stage at Wankhede as India and England gear up for a semi-final shootout. With Varun Chakravarthy’s rhythm under focus and Morkel backing instinct over caution, the clash could hinge on small margins and who reads conditions best.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Not Bumrah vs Brook, R Ashwin picks most important match-up in India vs England T20 World Cup semi-final",
-              "url": "https://indianexpress.com/article/sports/cricket/india-vs-england-t20-world-cup-semifinal-2026-key-matchup-ashwin-10565277/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "T20 World Cup 2026: India, England ready for shootout at Wankhede",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/t20-world-cup-2026-india-england-ready-for-shootout-at-wankhede/articleshow/129062877.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "From protests to polls: Nepal to vote after a Gen Z uprising redraws its political map",
-          "neutralSummary": "Nepal is at a critical juncture as nearly 19 million voters elect a new House of Representatives. This election is significantly influenced by a youth-led uprising that challenged the political establishment, fueled by resentment over unemployment and perceived elite excess. The vote reflects a gene",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "From protests to polls: Nepal to vote after a Gen Z uprising redraws its political map",
-              "url": "https://timesofindia.indiatimes.com/world/south-asia/from-protests-to-polls-nepal-to-vote-after-a-gen-z-uprising-redraws-its-political-map/articleshow/129013134.cms"
+              "domain": "hindustantimes.com",
+              "headline": "PM Modi speaks to France's Macron, calls for ‘early restoration of peace’ in West Asia",
+              "url": "https://www.hindustantimes.com/india-news/pm-modi-speaks-to-frances-macron-calls-for-early-restoration-of-peace-in-west-asia-101772715365733.html"
             },
             {
               "political": "center",
@@ -914,8 +848,74 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Polls open in Nepal's first election after protests",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/polls-open-in-nepals-first-election-after-last-years-youth-led-protests-toppled-the-government/articleshow/129061599.cms"
+              "headline": "Modi calls for swift end to West Asia conflict",
+              "url": "https://economictimes.indiatimes.com/news/india/pm-modi-calls-for-swift-end-to-west-asia-ukraine-conflicts/articleshow/129086377.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Amit Shah hails Nitish Kumar as Bihar chief minister files Rajya Sabha nomination",
+          "neutralSummary": "Amit Shah said Nitish Kumar lived by the principles of socialist leader Jai Prakash Narayan, as a product of the JP Movement, with a clean record",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Amit Shah hails Nitish Kumar as Bihar chief minister files Rajya Sabha nomination",
+              "url": "https://www.hindustantimes.com/india-news/amit-shah-hails-nitish-kumar-as-bihar-chief-minister-files-rajya-sabha-nomination-101772709193995.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Zee News",
+              "initials": "ZN",
+              "domain": "news.google.com",
+              "headline": "Nitish Kumar announces Rajya Sabha bid; to resign as Bihar CM - Will State get BJP Chief Minister?",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ19hcXNMN2J0V2lGa2FjTXN2bDZhTWpnODlfVnR1dHhhSVF4RjJzam9oUjFqd0w2SlhsYklSZnEwRHE4VEFfNzdFSjJkbTNSTWNsU0hkYmxEaVdiMjlIOTdCUXdXT3Z6eF80TS1EdUw1bjd1S1ZYaFg1OU5ZU0JGUXdkX3JjaW9PMlg5c0JXOXAtNXZxbWpWamJqWGxjdU5ZS1p4S1dsSUtuZXNDU3Z6b3FEYkhXQmdPZGppbjNJeVhScDB3T2hpbG1NT2ZDejhpejM4bmdES1hsenB4M1hWM1hB0gHnAUFVX3lxTE9uMmlJZ1JhcDB6MHY5bE5JVXdfMXI5X2JoeUxOZ0N3YmpEU2ItZk5oWXZ3VU81bEdlaEw4RmpuVXB6SlhxbWNiejZUaFZLcWl3MzdJdkg4SEs3eXZoejZZcnVRa0pWV1RELVpPVU1FSzdURVdwV3BCU0llU2d0WFdfWFNDTkxFREt6NkFOSWR2WWhXNld0cTNrcmprTEF2ZGVLNUV6bVpGRC1qYXBWWmFCOEx5ajZiSWxINVZaOGxsMnI3VE5Kel9GVmcxREhCQjlaMlNNanExMDlIVHZ4REV1VDZvcDhRdw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "India offers condolences on Khamenei's death, foreign secretary Vikram Misri signs condolence book",
+          "neutralSummary": "Iranian Supreme Leader Ayatollah Ali Khamenei was killed in a joint US-Israeli airstrike on February 28, plunging the West Asian region into a war.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "India offers condolences on Khamenei's death, foreign secretary Vikram Misri signs condolence book",
+              "url": "https://www.hindustantimes.com/india-news/india-offers-condolences-on-khameneis-death-foreign-secretary-vikram-misri-signs-condolence-book-101772707747455.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "news.google.com",
+              "headline": "India Condoles Khamenei's Death, Foreign Secretary Meets Iran Ambassador",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnlfZlRiNm5IY2F4N1dwcWRlOGFCc2Z0SndiYmJHTFU2VHZxaW1VZlNOTDVfTGx0UWpLa1VtOU96aFJzVWhXMi1nc2plV2pDQ2dwOTIzMnkzT3dyZWFqdTE1UVNWRWZNai1pSU5zSzFkcWgtWDNwd3BhdENVNlRmLUQzZEd0aWhvbDY5cHdBX0FYclJsZ1FjczNjNnhJXzlfc0g5VXc3Z0FZeFIyQ0xNOdIBuAFBVV95cUxQTzVXTVY1eFpkQzdYV2E1eWQ2NHVMU0NsbGtGODJDc3htNXR5OGtldFZ3Yk5uYXVqV0s2Zmloa0c1SndXaTJBV1VaZlozdzBKeEFuckF0amdlVFF6LVZpazVRQWUtZ1A3YWoxWTgtd3UySlVxSUM5NWI4RlZuUU5OSHNGcFI3bG5iZE03a0MwaFBJQ2hJa1dBQWwwOFdUZGVaT21uWk5Cakh5cDdqOW1Mb0xVNm1uTlYz?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "‘Every weekend he…’: Canada's Mark Carney jokes about PM Modi after India visit",
+          "neutralSummary": "Mark Carney, who was on a four-day visit to India earlier this week, is the first Canadian prime minister to visit the country in eight years.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "‘Every weekend he…’: Canada's Mark Carney jokes about PM Modi after India visit",
+              "url": "https://www.hindustantimes.com/india-news/every-weekend-he-canadas-mark-carney-jokes-about-pm-modi-after-india-visit-101772701857616.html"
             }
           ]
         }
