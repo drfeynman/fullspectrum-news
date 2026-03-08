@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-03-08T04:01:58.480853+00:00",
+  "generatedAt": "2026-03-08T13:43:08.215354+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Iran will not surrender, Pezeshkian tells Trump",
-          "neutralSummary": "In a speech broadcast on state television, the Iranian president responded to US President Donald Trump, who on Friday demanded Iran’s \"unconditional surrender\".",
+          "neutralHeadline": "Explosion Hits U.S. Embassy In Oslo, Causing Minor Damage, Police Say",
+          "neutralSummary": "It was not immediately clear what caused the blast or who was involved, the Oslo police department said in a separate statement.",
           "versions": [
             {
               "political": "left",
@@ -15,8 +15,17 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Trump Says Iran Will Be ‘Hit Very Hard' On Saturday",
-              "url": "https://www.huffpost.com/entry/trump-says-iran-will-be-hit-very-hard-on-saturday_n_69ac2667e4b00d350bef67ab"
+              "headline": "Explosion Hits U.S. Embassy In Oslo, Causing Minor Damage, Police Say",
+              "url": "https://www.huffpost.com/entry/explosion-us-embassy-oslo_n_69ace110e4b0258d5b090d7a"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
+              "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -24,8 +33,8 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Trump warns Iran 'will be hit very hard' as war enters its second week",
-              "url": "https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week"
+              "headline": "Police investigate an explosion outside the U.S. Embassy in Oslo",
+              "url": "https://www.npr.org/2026/03/08/nx-s1-5741670/explosion-outside-us-embassy-in-oslo-norway"
             },
             {
               "political": "left",
@@ -33,31 +42,65 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Trump says US does not need UK’s aircraft carriers for Iran war",
-              "url": "https://www.aljazeera.com/news/2026/3/8/trump-says-us-does-not-need-united-kingdom-aircraft-carriers-for-iran-war?traffic_source=rss"
+              "headline": "Blast at US Embassy in Oslo may have terror motive, Norway police say",
+              "url": "https://www.aljazeera.com/news/2026/3/8/blast-at-us-embassy-in-oslo-may-have-terror-motive-norway-police-say?traffic_source=rss"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Iran will not surrender, Pezeshkian tells Trump",
-              "url": "https://www.france24.com/en/video/20260307-iran-will-not-surrender-pezeshkian-tells-trump"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Trump Addresses Military Actions in Iran",
-              "url": "https://www.bloomberg.com/news/videos/2026-03-07/trump-addresses-military-actions-in-iran-video"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "'Loud bang,' damage reported at US Embassy in Norway; police investigating",
+              "url": "https://www.foxnews.com/world/loud-bang-damage-reported-us-embassy-norway-police-investigating"
             }
           ]
         },
         {
           "id": "global-2",
+          "neutralHeadline": "Middle East: How long will the war last?",
+          "neutralSummary": "Donald Trump has given conflicting timeframes over the past week: he initially said it would be 3 - 4 weeks, but now he’s talking about several months. Even though Israel and the US have targeted and killed Iranian Supreme leader Ali Khamenei as well as key Iranian leaders, Tehran continues striking",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Philippines orders energy cuts in response to Middle East war",
+              "url": "https://www.theguardian.com/world/2026/mar/06/philippines-orders-energy-cuts-middle-east-war-fuel-prices"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Kuwait Declares Force Majeure, Cuts Crude Oil Output Due To Middle East Conflict",
+              "url": "https://www.huffpost.com/entry/kuwait-force-majeure-crude-oil-iran_n_69acb76ee4b05f6f5b97154d"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Middle East war enters its 8th day",
+              "url": "https://www.npr.org/2026/03/07/nx-s1-5739735/middle-east-war-enters-its-8th-day"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Middle East: How long will the war last?",
+              "url": "https://www.france24.com/en/middle-east-war-remains-of-first-us-soldiers-return-home"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
           "neutralHeadline": "The impact of Iran's attacks on the UAE",
           "neutralSummary": "The UAE, billed as a global luxury destination, has received the bulk of Iran's attacks in the region so far.",
           "versions": [
@@ -72,19 +115,69 @@
             },
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "How far will the Iran war spillover?",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/3/7/how-far-will-the-iran-war-spillover?traffic_source=rss"
+              "headline": "Iran war threatens prolonged impact on energy markets as oil prices rise",
+              "url": "https://www.aljazeera.com/news/2026/3/8/iran-war-threatens-prolonged-impact-on-energy-markets-as-oil-prices-rise?traffic_source=rss"
             }
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "REPLAY: US hosts \"Shield of the Americas summit\"",
-          "neutralSummary": "US President Donald Trump is hosting leaders from across Latin America and the Caribbean in Doral on Saturday for the “Shield of the Americas Summit.”",
+          "id": "global-4",
+          "neutralHeadline": "Time for a change: British Columbia decides to keep daylight saving time permanently",
+          "neutralSummary": "Most residents of Canadian province wanted change for years – Trump’s unneighbourly rhetoric helped seal the dealSince 1918, the clocks in Creston, a town in eastern British Columbia, ran an hour ahead of nearby communities for half the year. For the other six months, they slipped back into sync. No",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Time for a change: British Columbia decides to keep daylight saving time permanently",
+              "url": "https://www.theguardian.com/world/2026/mar/08/british-columbia-canada-daylight-saving-time"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "British Columbia moves to permanent daylight saving time",
+              "url": "https://www.npr.org/2026/03/07/nx-s1-5736183/british-columbia-moves-to-permanent-daylight-saving-time"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Bombing at nightclub in Peru injures 33 people, including minors",
+          "neutralSummary": "Explosion happened in pre-dawn hours at Dalí nightclub in the province of Trujillo along Peru’s northern coastA bombing at a nightclub in Peru has injured 33 people, including minors, authorities said Saturday.The explosion happened in the pre-dawn hours at the Dalí nightclub in the province of Truj",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Bombing at nightclub in Peru injures 33 people, including minors",
+              "url": "https://www.theguardian.com/world/2026/mar/07/peru-nightclub-bombing"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Nightclub Bombing In Peru Injures 33, Including Minors",
+              "url": "https://www.huffpost.com/entry/nightclub-bombing-peru-injures-33-including-minors_n_69ac585fe4b089ab3d8f28e9"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "\"Cuba will fall very soon,\" says Trump as Shield of Americas created",
+          "neutralSummary": "\"Cuba will fall very soon,\" says Trump as Shield of Americas created&nbsp;&nbsp;Euronews.comTrump Assembles a New Coalition to ‘Eradicate’ Cartels&nbsp;&nbsp;The New York TimesNoem thanks Trump for new Shield of the Americas special envoy role after DHS ouster&nbsp;&nbsp;Fox NewsTrump convenes ‘Shie",
           "versions": [
             {
               "political": "left",
@@ -98,16 +191,16 @@
             {
               "political": "center",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "REPLAY: US hosts \"Shield of the Americas summit\"",
-              "url": "https://www.france24.com/en/replay-us-hosts-shield-of-the-americas-summit"
+              "source": "Euronews.com",
+              "initials": "E",
+              "domain": "news.google.com",
+              "headline": "\"Cuba will fall very soon,\" says Trump as Shield of Americas created",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVJtOXdUaldKaUQ2VDFxQ3pZbzAycHFxeE50YjVONThhWmZleHBOWmE3U0EtZUpLOWZzaEpwS3A2dE1obFhERms2ZU1NTnM2RDRxRTg1eUs0MWJLYlU2TzJBYTlRWGxMVUo1NDltWDJBQ1hxTUhid3pzbjhwR3NoS0xlWF94bThVUkd0TVhXVl9SMEZ1THN4OUxkRlJVVEhmdHRhQjV3NVZoY0h2dXppa1ljT1o?oc=5"
             }
           ]
         },
         {
-          "id": "global-4",
+          "id": "global-7",
           "neutralHeadline": "Indonesia to ban social media for children under 16",
           "neutralSummary": "Platforms include YouTube, TikTok and Instagram as communication minister says ‘our children face real threats’Indonesia will ban social media for children under 16, its communication and digital affairs minister said on Friday.Meutya Hafid said in a statement to media said that she signed a governm",
           "versions": [
@@ -132,109 +225,43 @@
           ]
         },
         {
-          "id": "global-5",
-          "neutralHeadline": "Philippines orders energy cuts in response to Middle East war",
-          "neutralSummary": "South-east Asian country limits air conditioning and travel for public officials amid soaring fuel pricesMiddle East crisis – live updatesThe Philippines is searching for ways to conserve energy in response to surging fuel costs, with public officials ordered to cut back on air conditioning usage an",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Philippines orders energy cuts in response to Middle East war",
-              "url": "https://www.theguardian.com/world/2026/mar/06/philippines-orders-energy-cuts-middle-east-war-fuel-prices"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Middle East war enters its 8th day",
-              "url": "https://www.npr.org/2026/03/07/nx-s1-5739735/middle-east-war-enters-its-8th-day"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Rapper-politician Balendra Shah on course to be Nepal's next prime minister",
-          "neutralSummary": "Thursday's general election was the first since violent youth-led protests toppled the government in September.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Rapper-politician Balendra Shah on course to be Nepal's next prime minister",
-              "url": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Middle East war live: Iran says it can 'keep fighting for six months'",
-          "neutralSummary": "Iran can fight an intense war against the United States and Israel for at least six months, the Revolutionary Guards said on Sunday. Meanwhile, US and Israeli strikes hit an oil depot in Tehran, Iranian state media said, the first reported attack on Iran's oil infrastructure. Follow our liveblog for",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "How the U.S. and Israel's war with Iran is realigning the politics of the Middle East",
-              "url": "https://www.npr.org/2026/03/07/nx-s1-5736194/how-the-u-s-and-israels-war-with-iran-is-realigning-the-politics-of-the-middle-east"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Middle East war live: Iran says it can 'keep fighting for six months'",
-              "url": "https://www.france24.com/en/middle-east/20260308-middle-east-war-live-deadly-strike-on-ramada-hotel-in-central-beirut-israel-bombs-iran-oil-facilities"
-            }
-          ]
-        },
-        {
           "id": "global-8",
-          "neutralHeadline": "Trump hosts Latin America allies to form coalition against drug cartels",
-          "neutralSummary": "US President Donald Trump encouraged right-wing Latin American leaders gathered at his Florida golf club on Saturday to take military action against drug trafficking cartels and transnational gangs that he says pose an “unacceptable threat” to the region's national security.",
+          "neutralHeadline": "Trump Says Iran Will Be ‘Hit Very Hard' On Saturday",
+          "neutralSummary": "Trump added that&nbsp;he was considering widening the areas and groups of people being, targeted, without providing details.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Trump Assembles a New Coalition to ‘Eradicate’ Cartels",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0kzNlVEU2t5THBzWDIzclFuUmx6a0NsRERvcUJVa3NHT3U0TWMwT25rdXlTd3dXUDlvM3lieVVpakhpakFzajRyYlB3MTJYRVNfRDZsZnl3ZG5KTlMtMHduUGstYko0N0QwTlZ1dzBqa1FSUjlsaVI1R01leUZhQ21tMTE3RFVTRGhGeGVfdU14N0M3YWZ5VA?oc=5"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Says Iran Will Be ‘Hit Very Hard' On Saturday",
+              "url": "https://www.huffpost.com/entry/trump-says-iran-will-be-hit-very-hard-on-saturday_n_69ac2667e4b00d350bef67ab"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Trump hosts Latin America allies to form coalition against drug cartels",
-              "url": "https://www.france24.com/en/americas/20260307-trump-hosts-latin-america-allies-form-coalition-against-drug-cartels-shield"
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Trump vows to hit ‘very hard’ after Iran’s president says he won’t surrender",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVh4LVFURU1ZcWlOZndENDY3cGx6TVB2c3dmM0lKY1VrRTZWaUNIelhqVF9zSzlEcmhwV3UySmp0a0wxQlhpZkttSUtEX3FTQmpVMmVZczM1N0FhODd3MHhKR2dfUjVpbUc5ajRvRkJTRkcyRjN0MVYtcl95WVNoOFowbHhOcnRRbE54WEtweTRGNlQ4YnhjVQ?oc=5"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "UAE and Kuwait Start Oil Output Cuts After Hormuz Blockage",
-          "neutralSummary": "UAE and Kuwait Start Oil Output Cuts After Hormuz Blockage&nbsp;&nbsp;Bloomberg.comKuwait cuts oil production as Strait of Hormuz closure disrupts global energy market&nbsp;&nbsp;CNBCKuwait declares force majeure, cuts crude oil output due to Middle East conflict&nbsp;&nbsp;ReutersExclusive | Kuwait",
+          "neutralHeadline": "Israel hits Iran's oil depots as clerics say consensus reached on Ayatollah successor",
+          "neutralSummary": "Israel targeted Iran's oil facilities for the first time early Sunday, with videos showing huge flames lighting up the sky, while  Iranian state media reported officials were close to announcing a successor for Ayatollah Ali Khamenei.",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "news.google.com",
-              "headline": "UAE and Kuwait Start Oil Output Cuts After Hormuz Blockage",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOczhhZTl1T24zVHg5dkd0RXF3V2oyZTFHREt4UERLbFk5Q2pjNjlPcmNidTdzbi0tMEt2d1NocWR5ZnpUc0M1N3lKVHRzcFZYYTZ5Y204RXFvemowSmpuZzhhM05WeHJIc2RzSlZhY2RKcWwwU01Pb3NobmNCQXQ1Qk9zX2thVDFLTkk5Z3ZodUk5TW1JZ2YtTERKNkRlb0pqZHdpTWlxWVVjbW5HOWdv?oc=5"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Israel hits Iran's oil depots as clerics say consensus reached on Ayatollah successor",
+              "url": "https://www.npr.org/2026/03/08/nx-s1-5741654/israel-iran-oil-ayatollah-successor"
             }
           ]
         }
@@ -245,67 +272,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Tornadoes kill 6 people in Michigan and Oklahoma as powerful storms hit nation’s midsection",
-          "neutralSummary": "A threat of severe weather across the nation&#8217;s midsection continued Saturday, a day after powerful storms whipped up&#160;tornadoes&#160;that killed four people in southern Michigan and two people in eastern Oklahoma. The National Weather Service said strong thunderstorms and a risk of flash f",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "After Tornadoes Ravage Michigan and Oklahoma, Residents Survey Damage",
-              "url": "https://www.nytimes.com/2026/03/07/us/tornado-michigan-oklahoma-storms-weather.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Authorities searching debris after suspected tornadoes kill 6 in Michigan, Oklahoma",
-              "url": "https://www.npr.org/2026/03/07/nx-s1-5741133/deadly-tornadoes-michigan-oklahoma"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Tornadoes kill 6 people in Michigan and Oklahoma as powerful storms hit nation’s midsection",
-              "url": "https://thehill.com/homenews/nexstar_media_wire/5772923-tornadoes-kill-6-people-in-michigan-and-oklahoma-as-powerful-storms-hit-nations-midsection/"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Trump on more dignified transfers of US service members killed: ‘It’s a part of war, isn’t it?’",
-          "neutralSummary": "President Trump on Saturday said attending more dignified transfer proceedings for slain U.S. service members is a &#8220;part of war&#8221; after attending the dignified transfer of six service members killed in Kuwait following the start of the U.S.-Israeli conflict with Iran. A reporter asked the",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Witnesses Return of Bodies of 6 U.S. Service Members",
-              "url": "https://www.nytimes.com/2026/03/07/us/politics/trump-dover-dignified-transfer-iran.html"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump on more dignified transfers of US service members killed: ‘It’s a part of war, isn’t it?’",
-              "url": "https://thehill.com/homenews/administration/5773315-trump-praises-us-military-iran/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "A Running List Of The Most Inspirational Trump Quotes About The Iran War",
-          "neutralSummary": "&ldquo;Like I said, some people will die.&rdquo;",
+          "neutralHeadline": "Judge voids layoffs at VOA, rules Kari Lake unlawfully ran US media agency",
+          "neutralSummary": "A federal judge on Saturday voided layoffs at Voice of America (VOA) while also ruling that the U.S. Agency for Global Media&#8217;s (USAGM) acting CEO, Kari Lake, unlawfully ran the independent federal agency. U.S. District Court of Washington, D.C., Judge Royce Lamberth wrote that Lake oversaw the",
           "versions": [
             {
               "political": "left",
@@ -313,24 +281,42 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "A Running List Of The Most Inspirational Trump Quotes About The Iran War",
-              "url": "https://www.huffpost.com/entry/trump-iran-war-quotes_n_69ab026ce4b03ae2f886557a"
+              "headline": "Judge Voids 2025 Actions Taken By Kari Lake As Voice Of America CEO, Including Job Cuts",
+              "url": "https://www.huffpost.com/entry/judge-voids-2025-actions-kari-lake-voice-of-america_n_69acdf44e4b057e580b585f0"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump says he told Kurds not to enter Iran war",
-              "url": "https://www.washingtonexaminer.com/policy/defense/4484633/trump-told-kurds-not-enter-iran-war/"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Judge Voids Mass Layoffs at Voice of America",
+              "url": "https://www.nytimes.com/2026/03/07/us/politics/judge-kari-lake-voa-layoffs.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "U.S. Judge says Kari Lake broke law in overseeing Voice of America",
+              "url": "https://www.npr.org/2026/03/08/nx-s1-5741594/u-s-judge-kari-lake-broke-law-voice-of-america"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Judge voids layoffs at VOA, rules Kari Lake unlawfully ran US media agency",
+              "url": "https://thehill.com/regulation/court-battles/5773475-voice-of-america-layoffs-blocked/"
             }
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "How Talarico Won Texas Democrats With Love, Luck and a Little Restraint",
-          "neutralSummary": "A carefully disciplined campaign that capitalized on viral media, months of organizing and strong outreach to Latino voters helped propel James Talarico to the center of Texas politics.",
+          "id": "us-2",
+          "neutralHeadline": "How Trump’s War in Iran Has Echoes of Putin and Ukraine",
+          "neutralSummary": "The many similarities between the White House’s justification for war in Iran and Russia’s messaging on Ukraine underscore the risks of a vaguely defined, open-ended war.",
           "versions": [
             {
               "political": "left",
@@ -338,16 +324,52 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "How Talarico Won Texas Democrats With Love, Luck and a Little Restraint",
-              "url": "https://www.nytimes.com/2026/03/07/us/politics/how-talarico-won.html"
+              "headline": "How Trump’s War in Iran Has Echoes of Putin and Ukraine",
+              "url": "https://www.nytimes.com/2026/03/08/us/politics/trump-russia-ukraine-iran-war.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump says 'hatred' between Putin, Zelenskyy blocking Ukraine peace deal",
+              "url": "https://www.foxnews.com/politics/trump-says-hatred-between-putin-ukrainian-counterpart-blocking-peace-deal-cites-worsening-death-toll"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Europe’s Iran problem runs through Ukraine",
+              "url": "https://www.washingtonexaminer.com/restoring-america/4483865/europes-iran-problem-runs-through-ukraine/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Trump Nixes Help From Brits, Says Iran War ‘Already Won’",
+              "url": "https://www.dailywire.com/news/trump-nixes-help-from-brits-says-iran-war-already-won"
             }
           ]
         },
         {
-          "id": "us-5",
-          "neutralHeadline": "Trump vows to 'take care of Cuba,' praises Venezuela cooperation at summit",
-          "neutralSummary": "Trump made the promise in front of an assembled meeting of Latin American leaders.",
+          "id": "us-3",
+          "neutralHeadline": "Trump Declares Cuba 'In Its Last Moments Of Life' At Shield Of The Americas Summit",
+          "neutralSummary": "The president joked that Secretary of State Marco Rubio would take \"one hour off\" in between Iran and his next assignment.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Declares Cuba 'In Its Last Moments Of Life' At Shield Of The Americas Summit",
+              "url": "https://www.huffpost.com/entry/trump-cuba-shield-americas-summit_n_69ac456de4b00d350bef69c4"
+            },
             {
               "political": "left",
               "tone": "neutral",
@@ -363,15 +385,15 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Trump touts US has 'tremendous' amount of Venezuelan oil, vows to 'take care' of Cuba after Iran focus",
-              "url": "https://www.foxnews.com/politics/trump-touts-us-has-tremendous-amount-venezuelan-oil-vows-take-care-cuba-after-iran-focus"
+              "headline": "Noem thanks Trump for new Shield of the Americas special envoy role after DHS ouster",
+              "url": "https://www.foxnews.com/politics/noem-thanks-trump-new-shield-americas-special-envoy-role-after-dhs-ouster"
             }
           ]
         },
         {
-          "id": "us-6",
-          "neutralHeadline": "Shedding light on how Epstein used visits to Interlochen to target girls",
-          "neutralSummary": "An NPR reporting team sheds new light on how Jeffrey Epstein and Ghislaine Maxwell used their access to the Interlochen Center for the Arts to target girls.",
+          "id": "us-4",
+          "neutralHeadline": "Explosion at US Embassy in Oslo causes minor damage: Police",
+          "neutralSummary": "A Sunday explosion causing minor damage to the U.S. Embassy in Oslo is being investigated by Norwegian police.   Authorities said they received a report about the explosion at around 1 a.m. local time. “Emergency services have had extensive resources at the scene, but no injuries and only minor mate",
           "versions": [
             {
               "political": "left",
@@ -379,24 +401,8 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Shedding light on how Epstein used visits to Interlochen to target girls",
-              "url": "https://www.npr.org/2026/03/07/nx-s1-5726347/shedding-light-on-how-epstein-used-visits-to-interlochen-to-target-girls"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Trump says he believes bombing of Iranian girls' school was \"done by Iran\"",
-          "neutralSummary": "Trump says he believes bombing of Iranian girls' school was \"done by Iran\"&nbsp;&nbsp;CBS NewsIran live updates: Trump warns Iran may face 'complete destruction and certain death'&nbsp;&nbsp;ABC NewsTrump says Iran at fault for strike on girls school&nbsp;&nbsp;PoliticoEvidence suggests the deadly b",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Trump says he believes bombing of Iranian girls' school was \"done by Iran\"",
-              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUC1LbXd0ZUdwMjk4ZkZ3QnY5bDRJbmV4aU5MVnNrc2x0OHM3TUZhVy1ZQlB3ZURFVEZCb2U4Q1l3QkxBVFJMT1JBYmJCTlZQaDh0UkpFRDFqSGJzWmxCTUpjNHM1c3NnRUNqVzRKR0FVeUpoQ0FxZkk5M3VrVV9fdTZ0WE1LUC01elVkLUlUbXI0cHBVbi0xU2g0TTZLMXZvRmJn0gGoAUFVX3lxTE83ZUNFb2xFejhyaGdzVzRqUXhzeG8xeFBTMzB3RFdVN2xIOGJiVXc3VTBfY1FFdHZrLVI5Njl5MWxqWVMwcTh5RFFsQTlEVU1ISGNOeFI0VjVWeUhuSnlxeFlEZE5SQTJ3M2RhM3NnYjNtamtPNXJuQjVOMjNYcHRIUjZKNjVBS3ZYSG5DTndkVXpjWXZjanVaRWo2d284S1d4OUZSa29tbQ?oc=5"
+              "headline": "Police investigate an explosion outside the U.S. Embassy in Oslo",
+              "url": "https://www.npr.org/2026/03/08/nx-s1-5741670/explosion-outside-us-embassy-in-oslo-norway"
             },
             {
               "political": "center",
@@ -404,49 +410,8 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Trump, Hegseth claim Iran bombed girls’ school, not the US",
-              "url": "https://thehill.com/policy/international/5773382-trump-accuses-iran-school-bombing/"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Trump says Iran targets will expand, honors U.S. troops killed in war",
-          "neutralSummary": "Trump says Iran targets will expand, honors U.S. troops killed in war&nbsp;&nbsp;The Washington PostSix US troops killed in Iran war brought home in dignified transfer&nbsp;&nbsp;CNNTrump grieves with families during return of soldiers killed in war in the Middle East&nbsp;&nbsp;WBAL-TVTrump visits",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "Trump says Iran targets will expand, honors U.S. troops killed in war",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORmF0VG9lRS0ybGVDQ09rbjFOQkc1OHhydmJ2d1dNLVlsbDhEbURadjRNdWRSTHZUaXFKSE80anpyTTRERUZrcjg4NE5qYlNWeVdDSlgwd3FfVXJUbFRfZU16Yy11Qk5fNEliN3BqdHpEa0VnR0xIY2FwVGt6M2VtTENsTGR0V0Zr?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Trump doesn’t rule out sending American troops to Iran",
-              "url": "https://nypost.com/2026/03/07/us-news/trump-doesnt-rule-out-sending-american-troops-to-iran/"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Times the U.S. has installed a foreign leader, as Trump zeroes in on Iran",
-          "neutralSummary": "Times the U.S. has installed a foreign leader, as Trump zeroes in on Iran&nbsp;&nbsp;AxiosTrump tells CNN he’s not worried whether Iran becomes a democratic state&nbsp;&nbsp;CNNIran’s future will be determined by Iranians, not Trump, officials say&nbsp;&nbsp;Al JazeeraTrump wants to fully remove Ira",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Axios",
-              "initials": "AX",
-              "domain": "news.google.com",
-              "headline": "Times the U.S. has installed a foreign leader, as Trump zeroes in on Iran",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2Qlprd0U1U1pxT0ZfNTNOQ1ZSR2tKUlM4X1FYa1p0QWpWZmRqTHlPQ0J6RTl5ZjFHclRmcWF5emIzbW9MbEtsdFZ5cDBvNlQ2LXUxMXpHUzFhSlRYRThzQVlaQXlPa0loNDF0ZllPZw?oc=5"
+              "headline": "Explosion at US Embassy in Oslo causes minor damage: Police",
+              "url": "https://thehill.com/policy/international/5773615-oslo-us-embassy-explosion/"
             },
             {
               "political": "right",
@@ -454,8 +419,124 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Iran prepared if Trump seeks escalation: Foreign minister",
-              "url": "https://www.washingtonexaminer.com/news/world/4484619/iran-prepared-trump-escalation-foreign-minister-says/"
+              "headline": "US Embassy in Oslo hit by explosion, Norwegian police say",
+              "url": "https://www.washingtonexaminer.com/news/world/4484661/us-embassy-oslo-explosion-norway-police/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Tornadoes kill 6 people in Michigan and Oklahoma as powerful storms hit nation’s midsection",
+          "neutralSummary": "A threat of severe weather across the nation&#8217;s midsection continued Saturday, a day after powerful storms whipped up&#160;tornadoes&#160;that killed four people in southern Michigan and two people in eastern Oklahoma. The National Weather Service said strong thunderstorms and a risk of flash f",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "After Tornadoes Ravage Michigan and Oklahoma, Residents Survey Damage",
+              "url": "https://www.nytimes.com/2026/03/07/us/tornado-michigan-oklahoma-storms-weather.html"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Tornadoes kill 6 people in Michigan and Oklahoma as powerful storms hit nation’s midsection",
+              "url": "https://thehill.com/homenews/nexstar_media_wire/5772923-tornadoes-kill-6-people-in-michigan-and-oklahoma-as-powerful-storms-hit-nations-midsection/"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "19 states approved permanent daylight saving time. Why they still have to change their clocks",
+          "neutralSummary": "19 states approved permanent daylight saving time. Why they still have to change their clocks&nbsp;&nbsp;The HillDaylight saving time 2026 starts Sunday. Here's what time the clocks changed and more key details.&nbsp;&nbsp;CBS NewsDaylight saving time hit you like a brick? Here’s how to cope better&",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "British Columbia to make daylight saving time permanent",
+              "url": "https://www.npr.org/2026/03/07/nx-s1-5741076/british-columbia-daylight-saving-time"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "19 states approved permanent daylight saving time. Why they still have to change their clocks",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYWZPMGhLc2dWd256N1hEaGh3bnRLQllWYnVjS2RCdEl3NzVQaVJLRDZsSTd4eEZVLWtvRl9NZHJGVV82czd4VXJkREF0TS1nbmdZcUh3V0ppek00UDQ3YXVFeUtad1NkNDJxREs1TGxxQ2lpR0lXVkhiZnpMaFNMU3NRZVlCUks5d0xFLTVYNlc0RS1XREd5dmppcWlKS2lmTzhPZWJoWmtPbFRTY0ZGQU5nT3FKTmhiRjU3bld1NnZlbC1WY0M5MmQ1SW9naDc1VDhqZEU2czlPbE9DakRPQ0dUZ9IB6AFBVV95cUxOYjByem9zZ05pd09ieHgzS2ZWX0twbnIyVXJkLV9JNWRpWFF5YllSYjNFbEFFMWhNMHROQm1jTE42WU00VVF4M0VPMF9FSXdGYl9FWDM3aTlTbU93b05TdTAyZ1dTSlJKam5JN1FsdUlMbHcxR25YNWplNC1SNjhOMHpTS0N0dC15WUw0cjR6d0w5UDg3MTRHUlIyQTdfRmVZZGROWW16aTJtb3MzT1g4RHVlUmVDLW4wOGFzVl9ya3UtQnpsS29yOE1iNU5QQjJ0czJQMXpmVkl2ZFh4Um40eW0yVHkyb19O?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Trump says US, Israel shattered Iranian military capabilities, presses leaders to surrender: 'Cry uncle'",
+          "neutralSummary": "Trump says US, Israel shattered Iranian military capabilities, presses leaders to surrender: 'Cry uncle'&nbsp;&nbsp;Fox NewsIran war updates: Trump vows hard strikes; Tehran says will not surrender&nbsp;&nbsp;Al JazeeraTrump says he's not interested in negotiations. Iran war live updates.&nbsp;&nbsp",
+          "versions": [
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "news.google.com",
+              "headline": "Trump says US, Israel shattered Iranian military capabilities, presses leaders to surrender: 'Cry uncle'",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUXhYR2RFLU1VZV93aVRoNHVwTnB6YUNmbnhSUHJoaHZoWEhNX2xTNEJGSTlaQnluSlhobzdYNlNfQml3Q3FxdGRoRnI5aUdSM2c5SUNTZzdXTVMyMFp5NGFST1FNdFE2dHFaSTFaWHg2dEF3X1ZjaHB2VXRZQ1hiSHBzTVZDa01BT0dGekhQQ2dIbnNQT3licUtScFMzUlF1NHlyVC1NLXFqTHpYMUhaSjFrenJMQmh0dDcwc3lqa3l6MXFfc0ROZNIBzgFBVV95cUxPZ05makxYN0gwSU1oYVZ2RjRqWXF1d2huX2ZUNFp4SDJoVFZKZ29za1p3WFpGbmdMbVRJQ0hLWnpZX19jczZWUWdMZGF4b1BKUE5YWFNwV1RwUmkzWVBDUG1ycGJESGFMTnNqTG9PSmZ5Ry0wQkFSQXVuampyN1FqNDZxNEhOOHRYX0Z1NF90M2tJYzlTR3Z3U1FWUkJfODQ1bnNwc0lnRERqT0p1eVNiaDVwdEJvUDI3bWV3V3ZmTEVZOW9ETVdtRnBhNlBqdw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Trump rejects UK’s offer to send aircraft carriers to Middle East: ‘We will remember’",
+          "neutralSummary": "President Trump on Saturday rejected the United Kingdom&#8217;s reported offer to send two aircraft carriers to the Middle East amid the U.S. conflict with Iran, warning that the U.S. &#8220;will remember&#8221; — seemingly alluding to the U.K.&#8217;s hesitance to get involved in the war. &#8220;Th",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump rejects UK’s offer to send aircraft carriers to Middle East: ‘We will remember’",
+              "url": "https://thehill.com/policy/international/5773460-trump-rejects-uk-aircraft-carriers/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "LIVE UPDATES: Trump Rejects U.K. Offer To Send Aircraft Carriers, Says War Already Won",
+              "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "State of Texas: Trump endorsement could decide Senate runoff between Cornyn and Paxton",
+          "neutralSummary": "The race for U.S. Senate in Texas is still evolving after primary night, with a looming endorsement from former President Donald Trump expected to shape the Republican runoff.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "State of Texas: Trump endorsement could decide Senate runoff between Cornyn and Paxton",
+              "url": "https://thehill.com/homenews/nexstar_media_wire/5773384-state-of-texas-trump-endorsement-could-decide-senate-runoff-between-cornyn-and-paxton/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Cornyn and Paxton to face each other in the great Texas Trump-off",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4484347/john-cornyn-ken-paxton-great-texas-trump-off/"
             }
           ]
         }
@@ -466,8 +547,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "First repatriation flight bringing Singaporeans home from the Middle East lands",
-          "neutralSummary": "A total of 152 Singaporeans and their dependants touched down safely at Changi Airport.",
+          "neutralHeadline": "Video of man stepping on Quran likely by person behind similar videos who was convicted in July 2025",
+          "neutralSummary": "The man was released in December, and there had been evidence he was mentally unwell.",
           "versions": [
             {
               "political": "center",
@@ -475,15 +556,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "First repatriation flight bringing Singaporeans home from the Middle East lands",
-              "url": "https://www.straitstimes.com/singapore/first-repatriation-flight-bringing-singaporeans-home-from-the-middle-east-lands"
+              "headline": "Video of man stepping on Quran likely by person behind similar videos who was convicted in July 2025",
+              "url": "https://www.straitstimes.com/singapore/online-harms-order-issued-to-meta-over-social-media-posts-showing-video-of-man-stepping-on-the-quran"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Man behind Quran-stepping video likely convicted for similar acts, may be mentally unwell: Shanmugam",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1hRZ0pTc0hoMUd0U3cteUhqRUtJcXdJWmxJMFdOc3F1WHQtU0N6V3hkZVBiOVRRblBUWWJ1WXhPMUlSeWZDMUZOS2JxZzhpVURCbEtza1ladkRwZWtpajk2ZWFQNmtYMDJOUzlMbWVhQXphZEoyamVMNUZEYUZUSFlSV2hZRTFzTVVjX0xDbGNtTU1zSGx2S2VxUFV5X1ZySFE?oc=5"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Activist Han Hui Hui’s three children taken to hospital to keep them safe, say MSF and police",
-          "neutralSummary": "Police had received multiple reports regarding her family since August 2025.",
+          "neutralHeadline": "Singapore’s crow population rose to 160,000 in 2024: NParks",
+          "neutralSummary": "This is up from about 7,200 in 2016.",
           "versions": [
             {
               "political": "center",
@@ -491,31 +581,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Activist Han Hui Hui’s three children taken to hospital to keep them safe, say MSF and police",
-              "url": "https://www.straitstimes.com/singapore/community/activist-han-hui-huis-three-children-were-brought-to-hospital-to-keep-them-safe-say-msf-and-police"
+              "headline": "Singapore’s crow population rose to 160,000 in 2024: NParks",
+              "url": "https://www.straitstimes.com/singapore/environment/singapores-crow-population-rose-to-160000-in-2024-nparks"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "$100 million raised for Community Chest and other causes during SG60; Govt to match donations",
-          "neutralSummary": "Some donors have made commitments to donate more than $70m over the next two years, said DPM Gan",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "$100 million raised for Community Chest and other causes during SG60; Govt to match donations",
-              "url": "https://www.straitstimes.com/singapore/100-million-raised-for-community-chest-and-other-causes-during-sg60-govt-to-match-donations"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "As snap poll rumblings grow, Malaysia PM Anwar hobbled by internal strife and widening anti-graft controversy",
-          "neutralSummary": "The premier is facing multiple challenges that may force him to call early elections, nearly two years ahead of the February 2028 deadline, say analysts and insiders.",
+          "neutralHeadline": "Sri Lanka hospital releases 22 rescued from torpedoed Iranian vessel",
+          "neutralSummary": "More than 60 people are still missing.",
           "versions": [
             {
               "political": "center",
@@ -523,13 +597,70 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "As snap poll rumblings grow, Malaysia PM Anwar hobbled by internal strife and widening anti-graft controversy",
-              "url": "https://www.channelnewsasia.com/asia/anwar-faces-graft-crisis-pkr-party-fractures-ph-coalition-jitters-5976646"
+              "headline": "Sri Lanka hospital releases 22 rescued from torpedoed Iranian vessel",
+              "url": "https://www.channelnewsasia.com/asia/iran-warship-iris-dena-sri-lanka-release-22-hospital-5979686"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Sri Lanka takes control of second Iranian vessel a day after US sub attack",
+              "url": "https://www.bbc.com/news/articles/c747vezn7zwo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "China rejects ‘major power co-governance’, warns against bypassing UN in veiled swipe at US",
+          "neutralSummary": "“(China does not) subscribe to the logic of major power co-governance,” said Foreign Minister Wang Yi in a Sunday (Mar 8) press conference during the Two Sessions.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "China rejects ‘major power co-governance’, warns against bypassing UN in veiled swipe at US",
+              "url": "https://www.channelnewsasia.com/east-asia/china-two-sessions-wang-yi-foreign-affairs-us-un-global-governance-5978831"
             }
           ]
         },
         {
           "id": "singapore-5",
+          "neutralHeadline": "A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election",
+          "neutralSummary": "Balendra Shah emerged as a leading figure in the 2025 uprising that ousted former Prime Minister Khadga Prasad Oli.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election",
+              "url": "https://www.channelnewsasia.com/asia/nepal-election-votes-ex-rapper-landslide-win-national-independent-party-5979626"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "War in Middle East ‘should never have happened’, says China’s top diplomat",
+          "neutralSummary": "At a press conference on Sunday (Mar 8), Wang Yi also renewed China’s call for an immediate ceasefire and said Beijing is ready to work with Middle Eastern countries to restore order in the region.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "War in Middle East ‘should never have happened’, says China’s top diplomat",
+              "url": "https://www.channelnewsasia.com/east-asia/china-wang-yi-condemn-middle-east-war-us-israel-iran-5979591"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
           "neutralHeadline": "Commentary: Hormuz is the hidden risk to the AI economy",
           "neutralSummary": "The building blocks of the technology industry are deeply dependent on petroleum flowing through the Strait of Hormuz, says David Fickling for Bloomberg Opinion.",
           "versions": [
@@ -545,57 +676,34 @@
           ]
         },
         {
-          "id": "singapore-6",
-          "neutralHeadline": "China vows to safeguard jobs and boost hiring as AI reshapes labour market",
-          "neutralSummary": "With a record 12.7 million graduates entering the workforce this year amid slowing growth and AI disruption, youth employment took centre stage at a Two Sessions press conference.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "China vows to safeguard jobs and boost hiring as AI reshapes labour market",
-              "url": "https://www.channelnewsasia.com/east-asia/china-livelihood-presser-jobs-ai-labour-market-5977236"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Motorcyclist and pillion taken to hospital after car crashes into 2 stationary motorcycles in Sengkang",
-          "neutralSummary": "A 28-year-old male car driver is assisting with investigations.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Motorcyclist and pillion taken to hospital after car crashes into 2 stationary motorcycles in Sengkang",
-              "url": "https://www.straitstimes.com/singapore/motorcyclist-and-pillion-taken-to-hospital-after-car-crashes-into-2-stationary-motorcycles-in"
-            }
-          ]
-        },
-        {
           "id": "singapore-8",
-          "neutralHeadline": "Online harms order issued to Meta over social media posts showing video of man stepping on the Quran",
-          "neutralSummary": "The video is believed to have been taken on a public bus in Singapore.",
+          "neutralHeadline": "Dancers loved practising in this Singapore walkway. Then the complaints came",
+          "neutralSummary": "Dancers loved practising in this Singapore walkway. Then the complaints came&nbsp;&nbsp;Yahoo News Singapore",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Online harms order issued to Meta over social media posts showing video of man stepping on the Quran",
-              "url": "https://www.straitstimes.com/singapore/online-harms-order-issued-to-meta-over-social-media-posts-showing-video-of-man-stepping-on-the-quran"
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Dancers loved practising in this Singapore walkway. Then the complaints came",
+              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGFmLVNTVVNsSlNNZ1Q1ZXBMMXdIQkRFRURvdE5fR05rZkY5ZWFyWmJfU29IaGRGYmxjLXNmdXQtLUhSckZzTzVsX09kWkt0QW13eHhjV05oNGRndUM1Z1VFWXFDVTFhcnFQQ2dLUmxnclpDYTVhQXlCUzA0V1Jocm9VdGNteEV6aGpj?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Dancers loved practising in this Singapore walkway. Then the complaints came",
+              "url": "https://www.bbc.com/news/articles/c4g4q9xl4p6o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "A volunteer for over a decade, caring comes naturally to her",
-          "neutralSummary": "Ms Shantini Subramaniam started volunteering as a child, and later chose nursing.",
+          "neutralHeadline": "How to revise for PSLE mother tongue",
+          "neutralSummary": "Think cinematically, embrace one’s mistakes and discover the benefits of rewriting.",
           "versions": [
             {
               "political": "center",
@@ -603,8 +711,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "A volunteer for over a decade, caring comes naturally to her",
-              "url": "https://www.straitstimes.com/singapore/a-volunteer-for-over-a-decade-caring-comes-naturally-to-her"
+              "headline": "How to revise for PSLE mother tongue",
+              "url": "https://www.straitstimes.com/singapore/parenting-education/how-to-revise-for-psle-mother-tongue"
             }
           ]
         }
@@ -615,42 +723,126 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Delhi heads into summers with hottest March week in 50 years, mercury up in north India | India News",
-          "neutralSummary": "Delhi heads into summers with hottest March week in 50 years, mercury up in north India | India News&nbsp;&nbsp;Hindustan TimesFirst in 15 years: Temperature crosses 35°C in March’s first week; what’s behind the rise in mercury?&nbsp;&nbsp;The Times of IndiaMercury rises across north; Delhi records",
+          "neutralHeadline": "US Iran war news LIVE updates: Blasts heard over Tel Aviv; 3 injured in central Israel after Iranian missile attacks",
+          "neutralSummary": "US Iran war news LIVE updates: Blasts heard over Tel Aviv; 3 injured in central Israel after Iranian missile attacks&nbsp;&nbsp;Hindustan TimesIran sends first significant message of de-escalation, but with a major caveat&nbsp;&nbsp;CNNGulf attacks continue as Iran says Trump 'killed' de‑escalation",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Mercury rises across north; Delhi records highest maximum temperature for first week of March in 50 years",
-              "url": "https://www.thehindu.com/news/cities/Delhi/mercury-rises-across-north-delhi-records-highest-maximum-temperature-for-first-week-of-march-in-50-years/article70718054.ece"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "US-Israel-Iran War Live Updates: Iran Body Chooses Next Supreme Leader, Name Not Announced Yet, Says Report",
+              "url": "https://www.ndtv.com/world-news/us-israel-iran-war-news-live-updates-donald-trump-netanyahu-iris-dena-middle-east-war-enters-day-7-11175202#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Iran’s next Supreme Leader selected. What’s next and the US-Israel warnings",
+              "url": "https://indianexpress.com/article/world/khamenei-successor-iran-supreme-leader-consensus-10571659/"
             },
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "news.google.com",
-              "headline": "Delhi heads into summers with hottest March week in 50 years, mercury up in north India | India News",
-              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZW8tbjI1cGxPdXFsbWE5b2l6UHdzWGRtZzhRWEtwbnFSdHBvQXgzZzNwMUQ1VUFCN1BjMS1mX09YNEs5S1ZrTUtqdHJUajRmUWpQbmpaUVlnb2xiOUdMUUlfT3ZFYkRoRDE4bzRHNk1BdEFzaGpkNWJ4aEphRGk3aUFvNHlSZWNwcmdrclQzWUd6VG9qNVhGbnNYbVQ4UlB0aExWRVF6TzQ3M0g3cU9Oc3FRdEVHTW1XRTEzMEk1Rm9jNTdPNmJ4YWw4VDBxNWVHZ01qOFE5bmtfb3A20gHiAUFVX3lxTE5pVVB2b2RYSVUwaDJXQmVVaEx5aWF6SVZCUThGcVVmdHMzdXJ5WlNMUFJUV2lKQkw5WE9xMmo5VGtqRzdlUW93a0pHMWtua0JnQkJ6M3EtbVNxOGpkemloWHZVeGNFcHdjQl95X3JKaTVnNjk4Mk54eGJGanZhSFp2a3hxczRHOUpmUHpvOEpuNm9KSWJ5b2lLbkNZTUZGTTNhdUlPeDlPM1RHN3ROUnJieDNJS1p3ZHU4aDlkd0xJUU9iWDNEV1ozZFY4aWxMeGJoWWhUS01KU3hYakk2U0Vra2c?oc=5"
+              "headline": "US Iran war news LIVE updates: Blasts heard over Tel Aviv; 3 injured in central Israel after Iranian missile attacks",
+              "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOaEt5Z25rdlY0RW5iZmtzblRIUkxINVFsdFdmZ2YyNFVUZXpidDdoQ3ROOXlqbWxqMmlTNGhfRENjVmlwX2tqcjhVLW5aZnk3a2tNZDRaTzlmYnJBQ0VZRG5Rc1V4el9qT21oT1BYQlRxX29pc2NiS2xhSUo1N01ENVpIcEZUcnFCUUZsRU9tZDdTWlVEejJvNEUzYmhRN2wzX2RCOFVoUU1vSXBLZjctV3B3NkVOZUJqalFvcUZEV3hKZWsyY0k4MV9iUk1IQTF3S2tVVlRNcFlIVXBtcEFHUnB3YmpTVExlOGh3RTBvTXhRUnVzRGU3OUxvb05mc0ZzdGFDcF84QWdXNmF1SUE?oc=5"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Nainital cab driver held for attempting to rape Delhi woman on solo trup in Uttarakhand",
-          "neutralSummary": "The woman escaped the cab and spent the night in a forest area where she was found by local women on March 6.",
+          "neutralHeadline": "‘Apocalyptic’ scenes in Tehran: Massive inferno erupts after explosions – video",
+          "neutralSummary": "Israeli airstrikes targeted multiple fuel storage facilities in Tehran and Karaj, causing large fires and explosions. The Israeli military confirmed the strikes, stating the facilities supported Iran's armed forces. In retaliation, Iran's Revolutionary Guards launched a new wave of attacks against I",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Delhi woman hides in Uttarakhand forest overnight to escape rape attempt by taxi driver",
-              "url": "https://www.thehindu.com/news/national/uttarakhand/delhi-woman-hides-in-uttarakhand-forest-overnight-to-escape-rape-attempt-by-taxi-driver/article70717985.ece"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Video: Apocalyptic Inferno Lights Up Iranian Capital As Massive Fire Rages",
+              "url": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-tehran-video-apocalyptic-scenes-in-tehran-after-overnight-israeli-onslaught-11185517#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "‘Apocalyptic’ scenes in Tehran: Massive inferno erupts after explosions – video",
+              "url": "https://timesofindia.indiatimes.com/world/middle-east/apocalyptic-scenes-in-tehran-massive-inferno-erupts-after-explosions-video/articleshow/129269565.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Punjab Budget: Rs 1,000/month for women &amp; more",
+          "neutralSummary": "Punjab Budget: Rs 1,000/month for women &amp; more",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "AAP Fulfils Promise To Punjab Women 4 Years After Polls, Congress Protests",
+              "url": "https://www.ndtv.com/india-news/aap-fulfils-promise-to-punjab-women-4-years-after-polls-congress-protests-11185584#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Punjab Budget: Rs 1,000/month for women &amp; more",
+              "url": "https://economictimes.indiatimes.com/news/india/punjab-budget-rs-1000/month-for-women-rs-1500-for-sc-women-under-new-scheme/articleshow/129259363.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Women shaped my journey: Gautam Adani",
+          "neutralSummary": "Women shaped my journey: Gautam Adani",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Gautam Adani Pays Tribute To Women In His Family On Women's Day",
+              "url": "https://www.ndtv.com/india-news/gautam-adani-pays-tribute-to-women-in-his-family-on-womens-day-11185531#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Women shaped my journey: Gautam Adani",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/women-shaped-my-journey-says-gautam-adani-on-international-womens-day/articleshow/129264587.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "T20 World Cup 2026 final: When and where to watch India vs New Zealand match",
+          "neutralSummary": "As the ICC Men’s T20 World Cup 2026 final approaches, cricket enthusiasts are eager to witness India face New Zealand in Ahmedabad.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "From Rolex ‘Giraffe’ to Richard Mille: Elite watches spotted at India’s T20 World Cup semi final win",
+              "url": "https://indianexpress.com/article/lifestyle/fashion/watches-india-vs-england-t20-world-cup-semi-final-10570864/"
             },
             {
               "political": "center",
@@ -658,174 +850,99 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Nainital cab driver held for attempting to rape Delhi woman on solo trup in Uttarakhand",
-              "url": "https://www.hindustantimes.com/india-news/nainital-cab-driver-held-for-attempting-to-rape-delhi-woman-on-solo-trup-in-uttarakhand-101772927727458.html"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "India news: US grants a 30-day waiver for Russian oil import",
-          "neutralSummary": "India news: US grants a 30-day waiver for Russian oil import&nbsp;&nbsp;DW.com'Take Pressure Off': Trump On Easing Oil Prices After Russian Waiver To India&nbsp;&nbsp;NDTVIndia Oil Imports From Russia: India doesn't need permission to buy Russian oil, say officials&nbsp;&nbsp;The Times of IndiaNo fo",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "'Take Pressure Off': Trump On Easing Oil Prices After Russian Waiver To India",
-              "url": "https://www.ndtv.com/world-news/trump-on-easing-oil-prices-after-russian-waiver-to-india-amid-iran-war-take-pressure-off-11184186#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "DW.com",
-              "initials": "D",
-              "domain": "news.google.com",
-              "headline": "India news: US grants a 30-day waiver for Russian oil import",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWC1JZ21od2ZieWRmZ2MwQ2VCekZfMlJwSnNxMXROYTdSYUMwU0VIa2hyMFpsd1BJVWtvcWxGNVlIZlJIOXp5YXVkRHdnOHY4Y2V2dWYzNkktVUZzY0c2akRTVFFzeTlOWHJBU0VqRnFmeXpjRFBQc2ZMcE16SHZTSGJrT0ZTSW96dFFJSGNrZFJZNXgtYmJHUVhEZw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "'Will Remember Lack Of British Support During Iran War': Trump Slams Starmer",
-          "neutralSummary": "Trump said he \"will remember\" the lack of British support during the Iran war",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "'Will Remember Lack Of British Support During Iran War': Trump Slams Starmer",
-              "url": "https://www.ndtv.com/world-news/trump-slams-uks-keir-starmer-over-us-iran-war-we-dont-need-people-that-join-wars-after-weve-won-11184100#publisher=newsstand"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Swarajya",
-              "initials": "SWR",
-              "domain": "swarajyamag.com",
-              "headline": "Trump Slams Starmer’s Late Support In Iran War, Says US Does Not Need Help After Victory",
-              "url": "https://swarajyamag.com/world/trump-slams-starmers-late-support-in-iran-war-says-us-does-not-need-help-after-victory"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Is US responsible for Iran school bombing that killed 160? What Trump said",
-          "neutralSummary": "President Trump declared the US has eliminated Iran's entire leadership, describing it as removing a \"cancer.\" He asserted US forces have decimated Iran's navy, air force, and missile capabilities, claiming victory in the ongoing conflict. Trump denied US responsibility for a school bombing, blaming",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"They Have No Accuracy\": Trump Blames Iran For Deadly School Strike",
-              "url": "https://www.ndtv.com/world-news/iran-war-trump-blames-iran-for-deadly-school-strike-in-minab-they-have-no-accuracy-11184082#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Is US responsible for Iran school bombing that killed 160? What Trump said",
-              "url": "https://timesofindia.indiatimes.com/world/us/decimated-their-whole-evil-empire-is-us-responsible-for-iran-school-bombing-that-killed-160-what-trump-said/articleshow/129246729.cms"
+              "headline": "T20 World Cup 2026 final: When and where to watch India vs New Zealand match",
+              "url": "https://www.hindustantimes.com/india-news/match-time-today-india-vs-new-zealand-final-t20-world-cup-when-and-where-to-watch-narendra-modi-stadium-101772959600117.html"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "Trump doesn't want Kurds to go against Iran",
-          "neutralSummary": "Trump doesn't want Kurds to go against Iran",
+          "neutralHeadline": "'Why? Why? Why?' Mamata questions timing of President venue row before Bengal polls",
+          "neutralSummary": "Speaking from the central Kolkata sit-in platform, Banerjee responded to Prime Minister Narendra Modi’s criticism earlier in the day, in which he accused the TMC government of “insulting” a woman tribal leader and the President of the country. In reply, Banerjee displayed an enlarged photograph show",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Trump Started War Against Iran. He's Still Figuring Out How It Ends",
-              "url": "https://www.ndtv.com/world-news/iran-israel-war-dubai-strikes-live-updates-donald-trumps-endgame-in-iran-his-statements-suggest-even-he-doesnt-know-11183343#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Trump doesn't want Kurds to go against Iran",
-              "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-says-doesnt-want-kurds-to-launch-offensive-against-iran/articleshow/129243958.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Modi praises Speaker Birla’s impartiality",
-          "neutralSummary": "Modi praises Speaker Birla’s impartiality",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "PM Modi Calls Om Birla An \"Excellent Speaker\" Ahead Of No-Confidence Motion",
-              "url": "https://www.ndtv.com/india-news/pm-modi-calls-om-birla-an-excellent-speaker-ahead-of-no-confidence-motion-11183598#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Modi praises Speaker Birla’s impartiality",
-              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/pm-modi-says-om-birla-impartial-and-patient-as-lok-sabha-speaker/articleshow/129222711.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Trump's Warning Keeps Iran On Edge As Dubai, Doha Report Explosions Again",
-          "neutralSummary": "US President Donald Trump had threatened Iran on Saturday with expanding strikes to include new targets",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Trump's Warning Keeps Iran On Edge As Dubai, Doha Report Explosions Again",
-              "url": "https://www.ndtv.com/world-news/iran-war-dubai-strikes-donald-trumps-warning-keeps-iran-on-edge-as-dubai-doha-report-explosions-again-11183537#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "Middle East war day 9: Israeli drone strike kills 4 at Beirut hotel; Iran continues Gulf attacks",
-          "neutralSummary": "Middle East war day 9: Israeli drone strike kills 4 at Beirut hotel; Iran continues Gulf attacks",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Smoke Rises From Tower In Dubai Marina As Iran Continues Gulf Attacks",
-              "url": "https://www.ndtv.com/world-news/iran-war-iran-israel-us-war-dubai-news-smoke-rises-from-tower-in-dubai-marina-as-iran-continues-gulf-attacks-11183521#publisher=newsstand"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Middle East war day 9: Israeli drone strike kills 4 at Beirut hotel; Iran continues Gulf attacks",
-              "url": "https://timesofindia.indiatimes.com/world/middle-east/middle-east-war-day-9-israeli-drone-strike-kills-four-at-beirut-hotel-iran-continues-gulf-attacks-top-developments/articleshow/129246917.cms"
+              "headline": "'Why? Why? Why?' Mamata questions timing of President venue row before Bengal polls",
+              "url": "https://timesofindia.indiatimes.com/india/why-why-why-mamata-questions-timing-of-president-venue-row-before-bengal-polls/articleshow/129262543.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "‘Bengal being targeted, no breach of protocol’: Mamata Banerjee reacts to 'insult to President' row",
+              "url": "https://www.hindustantimes.com/india-news/bengal-being-targeted-no-breach-of-protocol-mamata-banerjee-reacts-to-insult-to-president-row-101772970363267.html"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "The little-known Jaipur connection of the T20 World Cup trophy",
+          "neutralSummary": "Jaipur-based designer Amit Pabuwal said he made the T20 World Cup trophy after the initial design concept was prepared by Australia’s Minale Bryce.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "The little-known Jaipur connection of the T20 World Cup trophy",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/ind-vs-nz-the-little-known-jaipur-connection-of-the-t20-world-cup-trophy/articleshow/129267711.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "ICC T20 World Cup trophy has Jaipur connection",
+              "url": "https://economictimes.indiatimes.com/news/sports/icc-t20-world-cup-trophy-has-jaipur-connection/articleshow/129258498.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Rs 1 shoe offer sparks chaos: Massive crowd gathers at shop, police resort to lathicharge",
+          "neutralSummary": "A footwear shop's promotional offer of premium shoes for just Rs 1 triggered chaos in Kozhikode on Sunday morning. Hundreds of people, some arriving as early as 2 am, gathered for the offer, leading to a stampede-like situation and traffic disruption. Police resorted to a lathicharge to disperse the",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Rs 1 shoe offer sparks chaos: Massive crowd gathers at shop, police resort to lathicharge",
+              "url": "https://timesofindia.indiatimes.com/city/kozhikode/one-rupee-shoe-offer-triggers-rush-at-kerala-shop-police-resort-to-lathicharge/articleshow/129257905.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "Delhi Metro adds two new corridors",
+          "neutralSummary": "Delhi Metro adds two new corridors",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Delhi Metro adds two new corridors",
+              "url": "https://economictimes.indiatimes.com/industry/transportation/railways/delhi-metro-begins-operations-on-pink-magenta-line-extensions/articleshow/129264693.cms"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "news.google.com",
+              "headline": "PM Modi Inaugurates India's First 'Ring Metro' In Delhi",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaU80U3llMHJnbnczcHBRQjBHaWVUOWxOc1hzU01XNGtKWkpQR1lxeWFEVkNlYlM5enB0MXVNLThUZ0FSbGlqRkxSN1kyaGxOY2tUMjA4dUVwOWY2Tk9Zank3VWhNNk1pZFByMnkzN1NqalEwUXl4bG55SUhGV1BjU1dLYUpiZ3d6amJQN0FULVpUbVMwbVpJMdIBoAFBVV95cUxON1E0QVpZLS1vQWVJUGRDR2dGOXEtZFhaVmNsc2JMZnJGTU15NjB3VXVEVTN6T2c4NUVyRUE2bUV5UjlOdldicW5XZjNXS25qdWhRb2ZkRnJiSDZ6NE1ZcjVHVDVYU0swY2JNQjBfQUZLV05kTDhXaDdaTkc2dUFUSDhhcWpTZ3RJYkdmVU5qRlIyaDJkZnlERkZIMS1DazM2?oc=5"
             }
           ]
         }
