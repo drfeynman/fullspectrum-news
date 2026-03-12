@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-03-11T14:08:11.673387+00:00",
+  "generatedAt": "2026-03-12T04:04:56.793674+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "French aid worker for UNICEF killed in DR Congo's Goma, Macron says",
-          "neutralSummary": "French aid worker for UNICEF killed in DR Congo's Goma, Macron says",
+          "neutralHeadline": "Iran’s sea mines raise fears of Strait of Hormuz oil disruption",
+          "neutralSummary": "Tehran may seek to choke off oil traffic through the vital Strait of Hormuz following US and Israeli strikes on Iran, raising fears it could deploy sea mines, officials say. President Donald Trump said US forces struck 28 Iranian mine-laying vessels as concerns grow over threats to the strategic shi",
           "versions": [
             {
               "political": "left",
@@ -15,22 +15,115 @@
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "French aid worker among three killed in drone attack in eastern DRC, M23 rebels say",
-              "url": "https://www.theguardian.com/world/2026/mar/11/drone-attack-goma-eastern-democratic-republic-of-the-congo-m23-rebels"
+              "headline": "Three merchant ships struck as tensions rise in Hormuz strait amid Iran war",
+              "url": "https://www.theguardian.com/news/2026/mar/11/us-iran-strait-of-hormuz-mine-boat-attacks"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Iran war: Cargo ships are hit and U.S. investigates how it could have struck a school",
+              "url": "https://www.npr.org/2026/03/11/nx-s1-5744029/us-iran-war"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "CNN",
+              "initials": "CNN",
+              "domain": "news.google.com",
+              "headline": "Live updates: Strait of Hormuz in crosshairs of Iran conflict as attacks on ships escalate",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNcklLdUM4U2tJa3UwUU9VRHA4d0VrV3NQemJsejVfZ3BCa0U2MmdHODBBWVBIMFlOVVVEb2FsanVhRmR0U1Z3Q085TmF0R3ZwaDZHa0JnOWE4OUhMaU5fREpVTllXMWpSaFlNQzA2dUVJUUUyZlI1Mg?oc=5"
             },
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "French aid worker for UNICEF killed in DR Congo's Goma, Macron says",
-              "url": "https://www.france24.com/en/africa/20260311-french-aid-worker-for-unicef-killed-in-dr-congo-s-goma-macron-says"
+              "headline": "Iran’s sea mines raise fears of Strait of Hormuz oil disruption",
+              "url": "https://www.france24.com/en/middle-east/20260312-iran-s-sea-mines-raise-fears-of-strait-of-hormuz-oil-disruption"
             }
           ]
         },
         {
           "id": "global-2",
+          "neutralHeadline": "José Antonio Kast, the Pinochet fan about to swerve Chile to the far right",
+          "neutralSummary": "The new president won office by promising to clean up crime, but his background is red rag to a bull for manyJust south of Santiago, the tiny rural town of Paine is a quiet grid of painted adobe facades, shaded squares and shuttered shop fronts as the summer holidays draw to a close.But the white-kn",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "José Antonio Kast, the Pinochet fan about to swerve Chile to the far right",
+              "url": "https://www.theguardian.com/world/2026/mar/11/jose-antonio-kast-pinochet-fan-chile-far-right"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Chile turns right: Kast inaugurated as nation's most conservative leader since Pinochet",
+              "url": "https://www.npr.org/2026/03/11/nx-s1-5743653/chile-turns-right-kast-inaugurated-as-nations-most-conservative-leader-since-pinochet"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "At least 17 killed after drone strikes school in Sudan",
+          "neutralSummary": "Strike in Shukeiri killed schoolgirls, teachers and healthcare workers in latest incident in three-year warAt least 17 people, most of them schoolgirls, were killed on Wednesday when an explosive-laden drone blamed on Sudan’s paramilitary Rapid Support Forces struck a secondary school and a health c",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "At least 17 killed after drone strikes school in Sudan",
+              "url": "https://www.theguardian.com/world/2026/mar/11/at-least-17-killed-after-drone-strikes-school-in-sudan"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
+              "url": "https://www.bbc.com/news/articles/cvgj8veg0gno?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Canadian Police Search For 2 Suspects Who Opened Fire On U.S. Consulate In Toronto",
+          "neutralSummary": "The early-morning attack damaged the outside of the building but did not cause any injuries.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Canadian Police Search For 2 Suspects Who Opened Fire On U.S. Consulate In Toronto",
+              "url": "https://www.huffpost.com/entry/canada-us-consulate-gunfire_n_69b08b44e4b0a62acae6369c"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "US consulate in Toronto struck by gunfire, police say; no injuries reported",
+              "url": "https://www.foxnews.com/world/us-consulate-toronto-struck-gunfire-police-say-no-injuries-reported"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
           "neutralHeadline": "Iran Defies Trump, Elevates Khamenei's Son Mojtaba As Successor",
           "neutralSummary": "Iran's clerical leadership chose confrontation over compromise in appointing Mojtaba Khamenei to succeed his father.",
           "versions": [
@@ -44,18 +137,18 @@
               "url": "https://www.huffpost.com/entry/iran-defies-trump-elevates-khamenei-son-mojtaba-successor_n_69adece9e4b0c722e1e5c0e5"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Forbes",
+              "initials": "FB",
               "domain": "news.google.com",
-              "headline": "Mojtaba Khamenei was hurt in strike that killed his father, Iran’s Cyprus ambassador confirms",
-              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOVhHS2k3THdTcDVUTWwtMjNnc0NIcFFVMU9sbXdScVZGMzdsX1NNc1FkTXpBY1FHS1lpc0JSbGdZaTlsaXdsT0p1cTBEVU5OcDdWand1LXJOSGZweExONnpaUzVheTdXVVJoMzNqSWdIenJweE1nX0NDS3dwRVN6RVgtbkVkUnRUNXZkQ0pBNnFlUjVwRGtYejdOZW90TURrMW5KSGMzaHVsVTlpRUpVTVNibmJzdGtzRVVDNnpuMDdNVWpadC1HSzQxMW1QZnczTmxR?oc=5"
+              "headline": "Mojtaba Khamenei's Wound Reveals Who Really Rules Iran",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzU1bzFuX0hNQzM5eGJqcm9wNnBCNWtJdTJtS1E4T01QcWhxNE1QNWxMNl8tMzZ0eTBEMXFleEI0UkxReGtpeGVSRzhrTS10UGlyU2ZIN0g0XzQtbW9MdFl0WU9xXzRGOE5LZHlDWkZqRmpSbEt6cDlDaXNET3J6MzhOTkVuc2VzVFR5VjlOYzJvNnh6RlZtbEM1WkdEb0I4Ylh6enJlZGJYUQ?oc=5"
             }
           ]
         },
         {
-          "id": "global-3",
+          "id": "global-6",
           "neutralHeadline": "Iran Names Khamenei's Son As New Supreme Leader, State Media Report",
           "neutralSummary": "Iran&rsquo;s Assembly of Experts has named Mojtaba Khamenei to replace his father, state media reports.",
           "versions": [
@@ -80,152 +173,77 @@
           ]
         },
         {
-          "id": "global-4",
-          "neutralHeadline": "New Iranian supreme leader 'safe and sound' amid rumours surrounding wellbeing",
-          "neutralSummary": "The son of Iran's president has said the new Supreme Leader Mojtaba Khamenei is \"safe and sound\" following reports the late ayatollah's son was injured in a strike that killed his father and his wife on the first day of the war. Khamenei has not been seen since his nomination, sparking rumours regar",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Senior Iranian Cleric Suggests Khamenei's Hardline Son To Be Supreme Leader",
-              "url": "https://www.huffpost.com/entry/iran-cleric-suggests-khamenei-son-to-be-supreme-leader_n_69adcdace4b0c722e1e5be12"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "New Iranian supreme leader 'safe and sound' amid rumours surrounding wellbeing",
-              "url": "https://www.france24.com/en/new-iranian-supreme-leader-safe-and-sound-amid-rumours-surrounding-wellbeing"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Ukraine says it has hit Russian 'missile component' plant",
-          "neutralSummary": "Russia says the attack hit civilians and could not have been carried out without British help.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Ukraine says it has hit Russian 'missile component' plant",
-              "url": "https://www.bbc.com/news/articles/ckg1eqw30l9o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "What happened in Ukraine missile attack in Russia’s Bryansk?",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/what-happened-in-ukraine-missile-attack-in-russias-bryansk?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Six members of Iranian women's football team granted asylum in Australia",
-          "neutralSummary": "The Iranian women’s soccer team left Australia without six squad members after frantic final efforts inside the terminal by Australian officials, who sought to ensure the women understood they were being offered asylum. Initially offered to seven, one of the players changed her mind in a last-minute",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Member of Iranian football delegation granted Australian asylum changes her mind",
-              "url": "https://www.bbc.com/news/articles/c93j2492d0do?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Six members of Iranian women's football team granted asylum in Australia",
-              "url": "https://www.france24.com/en/six-members-of-iranian-women-s-football-team-granted-asylum-in-australia"
-            }
-          ]
-        },
-        {
           "id": "global-7",
-          "neutralHeadline": "Russia and oil exporters are winning the Iran war",
-          "neutralSummary": "Russia and oil exporters are winning the Iran war&nbsp;&nbsp;AxiosSteve Rosenberg: Russia seeks diplomatic and economic gains from Iran war&nbsp;&nbsp;BBCWhy Vladimir Putin may be the big winner in Trump's Iran war&nbsp;&nbsp;NBC NewsRussian oil prices soar though tanker costs eat into gains&nbsp;&n",
+          "neutralHeadline": "Oil hits $100 a barrel despite deal to release record amount of reserves",
+          "neutralSummary": "It comes as Iranian attacks on ships intensify in the crucial Strait of Hormuz waterway.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Why Russia is assisting Iran's military",
-              "url": "https://www.npr.org/2026/03/10/nx-s1-5739339/why-russia-is-assisting-irans-military"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Oil hits $100 a barrel despite deal to release record amount of reserves",
+              "url": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "Axios",
-              "initials": "AX",
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
               "domain": "news.google.com",
-              "headline": "Russia and oil exporters are winning the Iran war",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KQjJHOTFsU3VpR3dRQzZDUVBpVGNhV0s1cEluUnpNSk8yVnpXcGhIYk5UZzJ6UGhWckNfX3lOQ3FZaUdYZHoxd3g3TE5DN0lHQ1hmU3QtZXM4Y0xoWXY2ZVE3Sm8?oc=5"
+              "headline": "Nations agree to release oil reserves as war in Iran hits global economy",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTUhLVlJEUEltc0NOVmViY0JhTHRJQ2M3MWRrLVp5UGR6ZlBsYndKMC1WM01DeVp2MHRVb3Q3NUJlMXoydkdNNGVkNjVqNG5lVFZWWS1Vd0QzRkRzTk40RXJwY1p2czRNYXdvZzZHa0RuQV8tcTlQcXI2bkUyTW9iOFZGSXFMQQ?oc=5"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "U.S., Israel launch heaviest strikes on Iran as markets bet war will end soon",
-          "neutralSummary": "U.S., Israel launch heaviest strikes on Iran as markets bet war will end soon&nbsp;&nbsp;Honolulu Star-AdvertiserView Full Coverage on Google News",
+          "neutralHeadline": "Norway arrests three brothers over US embassy bombing in Oslo",
+          "neutralSummary": "Norway police on Wednesday said they had arrested three brothers suspected of a \"terrorist bombing\" outside the US Embassy in Oslo that caused minor damage but no injuries, as investigators probed possible motives including links to Iran.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Three brothers arrested after explosion at US embassy in Oslo",
+              "url": "https://www.bbc.com/news/articles/cx2grl7lrrmo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Honolulu Star-Advertiser",
-              "initials": "HS",
-              "domain": "news.google.com",
-              "headline": "U.S., Israel launch heaviest strikes on Iran as markets bet war will end soon",
-              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODk5ZGZqSGJ3Z2NyQlVWS1JwTEZ2RUo2NTNscVFzZmwxNG1rTnV1c2Fla2RRQVU0VV9ueUtxMENFZkNvb1g3SVNPUEVtRmpGRGNKVVQ5X0MyS0NhMk8xOVVDM1JkNmNxclQxZ0o4c3NrMEdHelNlcE1LLTRDOTU5RGJKX2MtSXRLTXppb250ZURrQkNGV09hcU14Nk83OVlyeHdKcW1ob0dNVk5QRzdVeFo1R1d1TUs4V1h4RU1LWlgta2JlWEtlRmNzaXo?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "optimistic",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Hezbollah, Iran unleash coordinated cluster bomb strikes on Israel in major escalation",
-              "url": "https://www.foxnews.com/world/hezbollah-iran-unleash-coordinated-cluster-bomb-strikes-israel-major-escalation"
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Norway arrests three brothers over US embassy bombing in Oslo",
+              "url": "https://www.france24.com/en/europe/20260311-norway-arrests-three-brothers-over-us-embassy-bombing-in-oslo"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Funeral held for top Iranian commanders killed in US-Israeli strikes",
-          "neutralSummary": "Thousands of people gathered in Tehran to mourn top Iranian military officials killed by US-Israeli strikes.",
+          "neutralHeadline": "New US ambassador to South Africa summoned over 'undiplomatic remarks'",
+          "neutralSummary": "Leo Brent Bozell apologises after weighing in on a dispute rooted in the country's apartheid past.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "New US ambassador to South Africa summoned over 'undiplomatic remarks'",
+              "url": "https://www.bbc.com/news/articles/c14m1vzmxz3o?at_medium=RSS&at_campaign=rss"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Funeral held for top Iranian commanders killed in US-Israeli strikes",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/funeral-held-for-top-iranian-commanders-killed-in-us-israeli-strikes?traffic_source=rss"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Top Iranian cybercriminal on FBI most wanted list reportedly killed in US-Israeli strike",
-              "url": "https://www.foxnews.com/world/top-iranian-cybercriminal-fbi-most-wanted-list-reportedly-killed-us-israeli-strike"
+              "headline": "South Africa summons new US ambassador over ‘undiplomatic remarks’",
+              "url": "https://www.aljazeera.com/news/2026/3/11/south-africa-summons-new-us-ambassador-over-undiplomatic-remarks?traffic_source=rss"
             }
           ]
         }
@@ -236,60 +254,42 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Trump Generating His Own Fog Of Disinformation About Iran War",
-          "neutralSummary": "George W. Bush&rsquo;s false claims about Iraqi &ldquo;weapons of mass destruction&rdquo; generated scandal. Trump&rsquo;s open lies about his war with Iran are barely generating a shrug.",
+          "neutralHeadline": "Epstein's longtime accountant testifies he was 'not aware' of sex offender's crimes",
+          "neutralSummary": "Richard Kahn testified to the House Oversight Committee that he did not know about Epstein's crimes. He said monetary gifts that Epstein made did not raise any red flags.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Generating His Own Fog Of Disinformation About Iran War",
-              "url": "https://www.huffpost.com/entry/trump-fog-of-misinformation_n_69b0658ae4b07e0eaa23942b"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "You’re already paying for Trump’s Iran war",
-              "url": "https://www.vox.com/podcasts/482102/trump-iran-war-oil-gas-prices-economy"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "How Trump and His Advisers Miscalculated Iran’s Response to War",
-              "url": "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Epstein's longtime accountant testifies he was 'not aware' of sex offender's crimes",
+              "url": "https://www.npr.org/2026/03/11/nx-s1-5745082/epstein-files-richard-kahn-deposition"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump administration conflates goals and objectives in defense of Iran war",
-              "url": "https://www.washingtonexaminer.com/daily-on-defense/4487715/trump-administration-conflates-goals-and-objectives-in-defense-of-iran-war/"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Epstein accountant testifies he never saw 'any type of transaction' with Trump, Comer says",
+              "url": "https://www.foxnews.com/politics/epstein-accountant-testifies-he-never-saw-any-type-transaction-trump-comer-says"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "Van drives through barricade near White House",
-          "neutralSummary": "A van drove through a barricade near the White House early Wednesday morning, authorities said. The Metropolitan Police Department in Washington said officers responded to Connecticut Avenue NW and H Street NW around 6:37 a.m. EDT for the crash. There were no injuries reported. The driver was detain",
+          "neutralHeadline": "Pentagon estimates first 6 days of Iran war cost $11.3B",
+          "neutralSummary": "Pentagon officials told lawmakers during a briefing on Tuesday that the approximate cost of war against Iran is more than $11.3 billion in the first six days of action, a source briefed on the figure told The Hill on Wednesday. The figure was relayed to senators during a classified briefing on Capit",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "CNN",
-              "initials": "CNN",
-              "domain": "cnn.com",
-              "headline": "Toddler crawls through White House fence, prompts Secret Service response",
-              "url": "https://www.cnn.com/2023/04/18/politics/white-house-toddler/index.html"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "news.google.com",
+              "headline": "First Week of Iran War Cost More Than $11 Billion, Pentagon Tells Congress",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV01KczlzNzZmbkk2UUY1TzlKSUJMMHhoOTIxV2tiOEZnSkFCT2JlUnBoSTZnSkdtbktIVnhQVUNLYVFTMXlSdDBOQWtIYlZSTHdtaHpvdGRmWXc1NGIyYktnY2ZJeVpRVjRYYjNvTThwbEcwR3QxX2VyRGpROE4teldpY2FBMW8?oc=5"
             },
             {
               "political": "center",
@@ -297,65 +297,22 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Van drives through barricade near White House",
-              "url": "https://thehill.com/blogs/blog-briefing-room/5778344-white-house-barricade-crash/"
+              "headline": "Pentagon estimates first 6 days of Iran war cost $11.3B",
+              "url": "https://thehill.com/homenews/5780153-operation-epic-fury-cost/"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Secret Service agents question driver of suspicious vehicle near White House",
-              "url": "https://www.foxnews.com/politics/secret-service-agents-question-driver-suspicious-vehicle-near-white-house"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Driver detained after van plows through White House barricade",
-              "url": "https://nypost.com/2026/03/11/us-news/driver-detained-after-van-plows-through-white-house-barricade/"
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "First week of Iran war cost $11.3 billion, Pentagon tells Congress",
+              "url": "https://www.washingtonexaminer.com/policy/defense/4489129/first-week-iran-war-cost-pentagon-congress/"
             }
           ]
         },
         {
           "id": "us-3",
-          "neutralHeadline": "Trump’s pick advances in race to replace Marjorie Taylor Greene",
-          "neutralSummary": "Trump’s pick advances in race to replace Marjorie Taylor Greene&nbsp;&nbsp;The Washington PostClay Fuller and Shawn Harris head to runoff in Georgia race to replace Marjorie Taylor Greene&nbsp;&nbsp;BBCDemocrat Shawn Harris to face Trump-endorsed Republican Clay Fuller in runoff to replace Marjorie",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "Trump’s pick advances in race to replace Marjorie Taylor Greene",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdnBST0xlbFR0SXVtQm90b3NJdUdKdDhWWGtMUHFWcm1SY3BvS1AzM3lJX1FUdkFlVHcyNXA4ci1Nei1SdVk0ZFRtc2doc3cxM0hOS0FtSnF0ZXF1Z0RFOEVQQlRfcnEzZnpLRU96enJMaTFYbmMyZktJOTNQRWhvS0wxUkxKbG1CclhrYnVR?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Special election replacing Marjorie Taylor Greene goes to runoff between Trump-endorsed candidate and Democrat",
-              "url": "https://www.foxnews.com/politics/special-election-replace-marjorie-taylor-greene-goes-runoff"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Top Two Candidates Emerge In Race For Majorie Taylor Greene’s Open Congressional Seat",
-              "url": "https://www.dailywire.com/news/top-two-candidates-revealed-to-fill-majorie-taylor-greenes-open-congressional-seat"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
           "neutralHeadline": "Trump-Backed Clay Fuller, Democrat Shawn Harris Advance To Runoff In Georgia",
           "neutralSummary": "No candidate won a majority in Tuesday&rsquo;s special election.",
           "versions": [
@@ -369,129 +326,79 @@
               "url": "https://www.huffpost.com/entry/2026-election-georgia_n_69b0ba99e4b07e0eaa23e51f"
             },
             {
-              "political": "left",
+              "political": "right",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Clayton Fuller and Shawn Harris Advance to Runoff in Marjorie Taylor Greene’s Georgia District",
-              "url": "https://www.nytimes.com/2026/03/10/us/politics/georgia-election-marjorie-taylor-greene.html"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump ally Clay Fuller advances in Georgia fight for MTG’s former seat",
+              "url": "https://www.foxnews.com/politics/trump-ally-clay-fuller-advances-georgia-fight-mtgs-former-seat"
             }
           ]
         },
         {
-          "id": "us-5",
-          "neutralHeadline": "Trump Administration to Restart Global Entry Program",
-          "neutralSummary": "The program for people traveling internationally, set to come back online at 5 a.m. Wednesday, had been paused amid the shutdown of the Homeland Security Department.",
+          "id": "us-4",
+          "neutralHeadline": "Ex-DOGE Employee Exploited Americans' Private Data, Whistleblower Claims",
+          "neutralSummary": "If true, the actions could constitute one of the \"largest known data breaches in American history,\" Sen. Ron Wyden warned.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Administration to Restart Global Entry Program",
-              "url": "https://www.nytimes.com/2026/03/10/us/politics/global-entry-dhs-shutdown.html"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Ex-DOGE Employee Exploited Americans' Private Data, Whistleblower Claims",
+              "url": "https://www.huffpost.com/entry/doge-whistleblower-complaint-data-breach_n_69b09a66e4b07e0eaa23d70e"
             },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "CNN",
-              "initials": "CNN",
-              "domain": "news.google.com",
-              "headline": "Trump administration to restore Global Entry program as DHS shutdown impacts travel",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RWVljUVQ3SDhWdFFVZTA2cDdwbUIyQmgzM3YyaVlGYkhIMnFtajl5RXRRdWwtTi02SnptNTBibTR2YjJLR3RmMjhxMnVSaTU5NHVTTmVCWExlY0ltSlZJeHhKV0NxOEFkLUs1X0RkcjJpUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "U.S. attacks Iranian mine-laying vessels near Hormuz on Day 12 of war",
-          "neutralSummary": "Attacks and counterattacks continued throughout the Middle East Wednesday. Two cargo ships were struck in the Gulf, as some lawmakers in Washington pressed for answers on the war's rationale.",
-          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "U.S. attacks Iranian mine-laying vessels near Hormuz on Day 12 of war",
-              "url": "https://www.npr.org/2026/03/11/nx-s1-5744029/us-iran-war"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "WATCH: Iranian Mine-Laying Boats Start Disappearing Fast After Trump Warning",
-              "url": "https://www.dailywire.com/news/watch-iranian-mine-laying-boats-start-disappearing-fast-after-trump-warning"
+              "headline": "The government is investigating new claims that DOGE misused Social Security data",
+              "url": "https://www.npr.org/2026/03/11/nx-s1-5745153/doge-social-security-data-whistleblower-investigation"
             }
           ]
         },
         {
-          "id": "us-7",
-          "neutralHeadline": "Iran War Live Updates: Iran Lays Mines in Strait of Hormuz, Triggering U.S. Response",
-          "neutralSummary": "Iran War Live Updates: Iran Lays Mines in Strait of Hormuz, Triggering U.S. Response&nbsp;&nbsp;WSJU.S. forces sink 16 Iranian minelayers as reports say Tehran is mining the Strait of Hormuz&nbsp;&nbsp;CNBCU.S. destroys mine-laying ships near Strait of Hormuz and an audacious plan to refill the Grea",
+          "id": "us-5",
+          "neutralHeadline": "How Trump Is Using the Paxton-Cornyn Race to Squeeze the Senate Over the SAVE Act",
+          "neutralSummary": "The president has yet to make an endorsement in the contest between John Cornyn and Ken Paxton as he tries to push the Senate to pass a bill requiring voters to show identification at the polls.",
           "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "WSJ",
-              "initials": "W",
-              "domain": "news.google.com",
-              "headline": "Iran War Live Updates: Iran Lays Mines in Strait of Hormuz, Triggering U.S. Response",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByQ3hWa01uVlpZWmtUSU82S1J2UTViaXhJcVdhRVdDb1FfYWkxWFBtbkh5d3hnTVprc0JmRkM1TzI2NUJhbllqSDRmVnRQMUE1UzZ1Z2EwMmM0cTl0blFpc19sWTNtQXM?oc=5"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "CPI Report Live Updates: Inflation Had Steadied Before War With Iran",
-              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yakxNS1gtTlM1V2I3QkpjUkk0RWR0clZJa2ZzbFd4ckxwR2JIalRmYTJtYWhlMzRTUHI4em5Wa3BVYzVKbzdMdVZNOXIwNmdTajdkX1o4SDI0VWhaYm9jY09lYURsWEVyZzgzN1dQeVBEOVZKVEl3Rg?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "The White House isn’t panicking about oil prices. That may change in a few weeks.",
-          "neutralSummary": "The White House isn’t panicking about oil prices. That may change in a few weeks.&nbsp;&nbsp;PoliticoThe White House is betting the Iran war ends before the economic pain sets in&nbsp;&nbsp;E&amp;E News by POLITICOTrump Administration Views Oil Prices as Non-Political Issue for Four-Week Period&nbsp",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "The White House isn’t panicking about oil prices. That may change in a few weeks.",
-              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOXdaNEhfazM4RnAyUXVRVk9HQXVYTGRkZV9kb3ZrWjFoblJycXo1MkpkeG1FXzY4Q3JvYVo2U1NDT0o1VTRwdVJjbGpfX3I2dGZndjdHczRyNmtZc293enZJZkt4Zm96aVVyT1pjODJua29PbV94NVFON19QTjl2SGx1Q0pRdDAwLXFYUWF4ZXBmcmdfUGpZM2lQNFlXWERmR3dVUjJyUmJwS3pHZkJLaG1BQmFCVnhjb21sbzNrSk5kYXc5?oc=5"
+              "domain": "nytimes.com",
+              "headline": "How Trump Is Using the Paxton-Cornyn Race to Squeeze the Senate Over the SAVE Act",
+              "url": "https://www.nytimes.com/2026/03/11/us/politics/trump-cornyn-paxton-endorsement-texas-senate.html"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Oil Prices Yo-Yo As White House Walks Back Navy Escort Claim",
-              "url": "https://www.dailywire.com/news/oil-prices-yo-yo-as-white-house-walks-back-navy-escort-claim"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Reporter's Notebook: Trump's SAVE Act ultimatum runs into Senate reality",
+              "url": "https://www.foxnews.com/politics/reporters-notebook-trumps-save-act-ultimatum-runs-senate-reality"
             }
           ]
         },
         {
-          "id": "us-9",
-          "neutralHeadline": "Inflation held steady at 2.4 percent in February before Iran war outbreak",
-          "neutralSummary": "The annual inflation rate held steady in February, according to data released Wednesday by the Labor Department, before the war in Iran drove energy prices higher and threatened to upend the global economy. Consumer prices rose 0.3 percent in February and were up 2.4 percent over the past year, as m",
+          "id": "us-6",
+          "neutralHeadline": "Trump Administration Asks Supreme Court to End Protections for Haitian Immigrants",
+          "neutralSummary": "The administration has also sought to end deportation protections for other immigrant groups, including Syrians.",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Inflation held steady at 2.4 percent in February before Iran war outbreak",
-              "url": "https://thehill.com/homenews/5778365-inflation-rate-steady-february/"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Administration Asks Supreme Court to End Protections for Haitian Immigrants",
+              "url": "https://www.nytimes.com/2026/03/11/us/politics/supreme-court-haitians-deportation.html"
             },
             {
               "political": "right",
@@ -499,8 +406,74 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Inflation held at 2.4% in February as affordability woes persist",
-              "url": "https://www.washingtonexaminer.com/news/4487288/inflation-held-february-affordability-woes-persist/"
+              "headline": "DOJ asks Supreme Court to allow end to TPS for Haiti and end ‘unsustainable cycle’ of court rulings",
+              "url": "https://www.washingtonexaminer.com/news/supreme-court/4487912/doj-asks-supreme-court-allow-end-tps-haiti/"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Thune Is in a Vise as Trump and the Far Right Demand a Fight on SAVE America Act",
+          "neutralSummary": "The majority leader is getting pounded for not pushing hard enough, but he says the votes just aren’t there to circumvent the filibuster.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Thune Is in a Vise as Trump and the Far Right Demand a Fight on SAVE America Act",
+              "url": "https://www.nytimes.com/2026/03/11/us/politics/thune-trump-voter-bill-senate.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "‘Be A Leader’: Trump Challenges John Thune As Save America Act Faces Uncertainty",
+              "url": "https://www.dailywire.com/news/be-a-leader-trump-challenges-john-thune-as-save-america-act-faces-uncertainty"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Chile turns right: Kast inaugurated as nation's most conservative leader since Pinochet",
+          "neutralSummary": "Chile has sworn in its most right-wing president in decades — and his rise, and ideology, are rooted in a small town beneath the Andes.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Chile turns right: Kast inaugurated as nation's most conservative leader since Pinochet",
+              "url": "https://www.npr.org/2026/03/11/nx-s1-5743653/chile-turns-right-kast-inaugurated-as-nations-most-conservative-leader-since-pinochet"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Trump slams Newsom, says ‘he is obviously a racist’",
+          "neutralSummary": "President Trump called Gov. Gavin Newsom (D-Calif.) a &#8220;racist&#8221; on Wednesday evening, in a continuation of his long-standing feud with California&#8217;s top official.&#160; The president reacted to a comment Newsom made during a stop on his book tour last month, calling it &#8220;the mos",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump slams Newsom, says ‘he is obviously a racist’",
+              "url": "https://thehill.com/homenews/state-watch/5780124-trump-newsom-feud-racist/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump says Newsom is unfit to be president because he ‘can’t read’",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4488941/trump-newsom-unfit-president-cant-read/"
             }
           ]
         }
@@ -511,104 +484,149 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "F&B outlets update collection processes, train staff ahead of drink container return scheme",
-          "neutralSummary": "But some establishments are concerned about manpower and space constraints.",
+          "neutralHeadline": "Thai navy says cargo ship attacked in Strait of Hormuz",
+          "neutralSummary": "Photos showed heavy black smoke billowing from the hull and superstructure of the Thai-registered Mayuree Naree, with life rafts floating in the water.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Thai navy says cargo ship attacked in Strait of Hormuz",
+              "url": "https://www.channelnewsasia.com/asia/thailand-cargo-ship-strait-hormuz-attack-navy-iran-war-5986756"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
               "source": "Straits Times",
               "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "F&B outlets update collection processes, train staff ahead of drink container return scheme",
-              "url": "https://www.straitstimes.com/singapore/fb-outlets-update-collection-processes-train-staff-ahead-of-drink-container-return-scheme"
+              "domain": "news.google.com",
+              "headline": "3 cargo vessels hit near Strait of Hormuz as Iran threatens to close Gulf oil chokepoint",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMnRGT09Wa09RSFVHRkFNSnhLZ2NLV2d5M0U2NG53RFg2cTJQSzdWZW54dnRsUGNHQmNWQUhzVUphVGZzZWdab2JNMHphR0N6NHdiUk1fYzJkTXRCbkxBclA3Y0c1V21IYkNlb1l1ZEZvTDRCb2RqclhoRDBhZHlyOXJvSXpsdEpwa2hhaFk1NnFWX3JnNDdZV1ctbFFBZlZo?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Thai Cargo Ship Hit in Strait of Hormuz; Three Crew Missing",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-11/thai-cargo-ship-hit-near-strait-of-hormuz-20-crewmen-rescued"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "US firm Quantinuum’s new R&D centre in S’pore to spur growth of quantum computing applications",
-          "neutralSummary": "It is expected to produce commercially ready solutions to benefit sectors such as finance and logistics.",
+          "neutralHeadline": "Doctor who mistakenly cut woman’s arteries during kidney surgery charged with causing her death",
+          "neutralSummary": "A coroner's inquiry in November 2025 ruled that Madam Tan Bee Hwa died from the medical procedure.",
           "versions": [
             {
               "political": "center",
-              "tone": "optimistic",
+              "tone": "neutral",
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "US firm Quantinuum’s new R&D centre in S’pore to spur growth of quantum computing applications",
-              "url": "https://www.straitstimes.com/singapore/new-rd-centre-set-up-in-spore-to-spur-growth-of-quantum-computing-applications"
+              "headline": "Doctor who mistakenly cut woman’s arteries during kidney surgery charged with causing her death",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/doctor-who-mistakenly-cut-womans-arteries-during-kidney-surgery-charged-with-causing-her-death"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Doctor charged with causing death of 63-year-old woman during kidney surgery",
+              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMzd2OE1ycjU2aDJ6Z1VIOWtFUWc5Smg4MEtKZUdreGI3bm51blZQVUlUbngzQXZnd2pudmZjTTBiUjlrZTFmU1hMX0JieHRpQ1VlOEJRUFY5UFJmWkxWd2ppWVR5VngwNTVzN1EtbWxjMmNpQXdMODEwNVRXRmNUOHFMeEk2N3JwVHd1VUoyX1FOQVBfRjN6YzFUU09WZw?oc=5"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Briton sentenced to jail in January over Wirecard-linked offences has bail revoked over flight risk",
-          "neutralSummary": "James Henry O’Sullivan was sentenced to 6½ years’ jail in January.",
+          "neutralHeadline": "US opens new unfair-trade probes to rebuild Trump's tariff pressure",
+          "neutralSummary": "Singapore is among the US' trading partners subject to the excess capacity probe. The US said it found that Singapore had excess global capacity in semiconductors despite a trade deficit.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Briton sentenced to jail in January over Wirecard-linked offences has bail revoked over flight risk",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/briton-sentenced-to-jail-in-january-over-wirecard-linked-offences-has-bail-revoked-over-flight-risk"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "US opens new unfair-trade probes to rebuild Trump's tariff pressure",
+              "url": "https://www.channelnewsasia.com/business/us-opens-unfair-trade-probes-section-301-trump-tariff-5987926"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Local firm SG Recycle rolling out 380 machines for beverage container return scheme",
-          "neutralSummary": "The firm and 800 Super also said 160 segregated recycling bins will be deployed in Pasir Ris and Bedok by 2027.",
+          "neutralHeadline": "Oil prices surge as supply fears offset IEA's record stockpile release",
+          "neutralSummary": "Oil prices jumped more than 9 per cent on Thursday to break back above US$100 a barrel&nbsp;as Iran struck two tankers in Iraq and threatened to bring down the global economy.",
           "versions": [
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Local firm SG Recycle rolling out 380 machines for beverage container return scheme",
-              "url": "https://www.straitstimes.com/singapore/environment/local-firm-sg-recycle-rolling-out-380-machines-for-beverage-container-return-scheme"
+              "tone": "pessimistic",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Oil prices surge as supply fears offset IEA's record stockpile release",
+              "url": "https://www.channelnewsasia.com/business/oil-prices-asian-stock-market-reserves-5988031"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "Some motor traders, academics suggest merging COE car categories; others propose targeted refinements",
-          "neutralSummary": "Some say they prefer refinements to the existing system over a complete overhaul.",
+          "neutralHeadline": "China is rebuilding its grip on North Korea. Is Kim Jong-un ready to oblige?, China News",
+          "neutralSummary": "China is rebuilding its grip on North Korea. Is Kim Jong-un ready to oblige?, China News&nbsp;&nbsp;AsiaOneChina and North Korea to reopen passenger train service after pandemic halt&nbsp;&nbsp;BBCChina is rebuilding its grip on North Korea. Is Kim Jong Un ready to oblige?&nbsp;&nbsp;ReutersKim Jong",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Some motor traders, academics suggest merging COE car categories; others propose targeted refinements",
-              "url": "https://www.straitstimes.com/singapore/transport/motor-traders-academics-agree-coe-system-needs-review-but-split-on-need-to-merge-cats-a-and-b"
+              "source": "AsiaOne",
+              "initials": "A",
+              "domain": "news.google.com",
+              "headline": "China is rebuilding its grip on North Korea. Is Kim Jong-un ready to oblige?, China News",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb2I1VnBoSmFXQWQ4VVZydER4eXJ0dHVVcldnS0RkdVFCZkdhdVlaSkFfb0xLQTBHd0llTjdDY2VuM0xzMndUem1GOWVMckJJQkVTR0xYOFVmRGg3b3lHenVYbXVjSlowYjhNbER0a2ExaUotZDg2VUR1bGtORF9RMGNObVhScC1KMU8wS0tfaXBpTmdvYlpr?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "China and North Korea to reopen passenger train service after pandemic halt",
+              "url": "https://www.bbc.com/news/articles/cdxz8v58xvyo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "Gen AI won’t take your job away. Here’s why",
-          "neutralSummary": "Why older workers with deep domain expertise have a unique advantage in the AI era, how companies can fix the \"broken rung\" for fresh graduates.",
+          "neutralHeadline": "US Starts Trade Probe Into China, EU in Trump’s Tariffs Revival",
+          "neutralSummary": "President Donald Trump’s administration started the first of several sweeping trade investigations that set the stage for new tariffs, the centerpiece of a push to replace levies struck down by the US Supreme Court.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Gen AI won’t take your job away. Here’s why",
-              "url": "https://www.straitstimes.com/singapore/why-you-dont-need-to-be-an-engineer-to-use-genai-for-work"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "US Starts Trade Probe Into China, EU in Trump’s Tariffs Revival",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-11/trump-tariffs-revival-trade-investigations-launched-in-china-eu"
+            },
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "China exports surge despite Trump tariffs",
+              "url": "https://www.bbc.com/news/articles/c3dzymj4yz7o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "Six motorists charged with dangerous driving on CTE; one allegedly drove at up to 221kmh",
-          "neutralSummary": "All six men were speeding at the same time, on the same day, on CTE towards AYE.",
+          "neutralHeadline": "3 ex-coaches charged over alleged falsified results linked to 2023 SEA Games fin swimming selection",
+          "neutralSummary": "They had allegedly conspired to submit a document containing falsified results to the SNOC.",
           "versions": [
             {
               "political": "center",
@@ -616,15 +634,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Six motorists charged with dangerous driving on CTE; one allegedly drove at up to 221kmh",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/six-motorists-charged-over-driving-at-nearly-double-the-speed-limit-on-central-expressway"
+              "headline": "3 ex-coaches charged over alleged falsified results linked to 2023 SEA Games fin swimming selection",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/3-ex-swimming-coaches-charged-over-alleged-falsified-results-linked-to-2023-sea-games-selection"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Despite hiring uncertainty, SMU graduates are in high demand by employers",
-          "neutralSummary": "More than nine in 10 SMU graduates landed jobs within six months of graduation.",
+          "neutralHeadline": "ERP rates to increase by $1 at 4 locations from March 23; LTA monitoring Orchard Road area traffic",
+          "neutralSummary": "ERP rates will be increased during six time periods over the four affected locations.",
           "versions": [
             {
               "political": "center",
@@ -632,15 +650,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Despite hiring uncertainty, SMU graduates are in high demand by employers",
-              "url": "https://www.straitstimes.com/singapore/despite-hiring-uncertainty-smu-graduates-are-in-high-demand-by-employers"
+              "headline": "ERP rates to increase by $1 at 4 locations from March 23; LTA monitoring Orchard Road area traffic",
+              "url": "https://www.straitstimes.com/singapore/erp-rates-to-increase-by-1-at-4-locations-from-march-23-lta-monitoring-orchard-road-area-traffic"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Singapore’s peregrine falcon nanny cam back online after technical issues",
-          "neutralSummary": "The public have been viewing the live stream and cooing over the falcons and their four fluffy chicks.",
+          "neutralHeadline": "What does the war in Iran change for Singapore?",
+          "neutralSummary": "At home, will the conflict accentuate ideological and religious divisions, and test social cohesion?",
           "versions": [
             {
               "political": "center",
@@ -648,8 +666,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Singapore’s peregrine falcon nanny cam back online after technical issues",
-              "url": "https://www.straitstimes.com/singapore/singapore-peregrine-falcon-nanny-cam-fixed-after-technical-issues"
+              "headline": "What does the war in Iran change for Singapore?",
+              "url": "https://www.straitstimes.com/singapore/what-does-the-war-in-iran-change-for-singapore"
             }
           ]
         }
@@ -660,8 +678,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Opposition's no-trust motion against Speaker Om Birla defeated in Lok Sabha",
-          "neutralSummary": "Lok Sabha rejected a no-confidence motion against Speaker Om Birla by voice vote amid opposition protests demanding Home Minister Amit Shah's apology. Shah criticized the move as rare and regrettable, emphasizing the Speaker's neutrality and the House's adherence to its own rules, not party dictates",
+          "neutralHeadline": "Oil Prices Surge Despite Record-Breaking Strategic Reserve Release",
+          "neutralSummary": "Oil Prices Surge Despite Record-Breaking Strategic Reserve Release&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.comIEA Will Launch Largest-Ever Oil Release From Global Strategic Reserves&nbsp;&nbsp;WSJPlans for record emergency oil release signal Middle East war could drag on for months&nbsp;&nbsp;C",
           "versions": [
             {
               "political": "left",
@@ -669,8 +687,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Opposition's No-Confidence Motion Against Speaker Defeated In Lok Sabha",
-              "url": "https://www.ndtv.com/india-news/oppositions-no-confidence-motion-against-speaker-defeated-in-lok-sabha-11200786#publisher=newsstand"
+              "headline": "Iran-Israel War LIVE Updates: US To Release 172 Million Barrels From Strategic Oil Reserve To Lower Prices",
+              "url": "https://www.ndtv.com/world-news/iran-israel-war-live-updates-us-middle-east-crisis-news-mojtaba-khamenei-iran-new-supreme-leader-donald-trump-netanyahu-dubai-11187798#publisher=newsstand"
             },
             {
               "political": "left",
@@ -678,208 +696,24 @@
               "source": "Indian Express",
               "initials": "IE",
               "domain": "indianexpress.com",
-              "headline": "I was silenced: Rahul; Opposition motion against Speaker unfounded, provocative: Prasad",
-              "url": "https://indianexpress.com/article/india/rahul-gandhi-lok-sabha-silenced-speaker-om-birla-motion-row-10576866/"
+              "headline": "Iran vs US-Israel war LIVE updates: As Trump claims victory, Iran sets three conditions to ‘end war’",
+              "url": "https://indianexpress.com/article/world/us-israel-iran-war-live-updates-trump-kuwait-middle-east-conflict-2026-10577554/"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Opposition's no-trust motion against Speaker Om Birla defeated in Lok Sabha",
-              "url": "https://timesofindia.indiatimes.com/india/no-confidence-motion-against-lok-sabha-speaker-om-birla-defeated-by-voice-vote-amid-opposition-protest/articleshow/129464444.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Opposition's no-confidence motion against Lok Sabha Speaker Om Birla dismissed",
-              "url": "https://www.hindustantimes.com/india-news/oppositions-no-confidence-motion-against-lok-sabha-om-birla-dismissed-101773233597200.html"
+              "source": "Today",
+              "initials": "TD",
+              "domain": "news.google.com",
+              "headline": "Oil Prices Surge Despite Record-Breaking Strategic Reserve Release",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQVRWejB4ZlZScTdDVjgtTFVyMjVGeXQ2SzBab0hwVi15cTRNOWNKZTU4N2NVS1lNTGpPVnVnRzF4ZzNMcmtuVzVsaUhtVDlHZC1zZzdNXzgxSmh1QkZGQUpUeURhT1ZZNVEzSlVXZzRyek5fOENzck1yYmFjTlZoYXMyU0l4djBNbnJqOFJRWm95Zm54aWtxQ0FTWDJOMXZzU3Ztc2FuTVMtZ1Vnc1pxRmxzX3VNa1F0T3lINEh5SdIBxAFBVV95cUxNakNCc3dkbkNMdXZFMzA4Mml4UHktS2prRmNESVFPNjQ4MFQtbXhFWUdqdF95RmQ1Z0NWNEJQWlJXQTFHX2pOTGNkQTZuUlRDQkljX3Z6UklheUFPdG9JVFBnajNhWUliN2N3Y2VkOXBqeFlsQlFzU2tNUUhJSkNjT1NONTdDQ1R2RG1ZblBIdFg3b05zTGtrX2JXVDlNQno4bHdWdTBEaU9jQXF4djFRN2gtUkZ2NnNYVTFabWhkTWVlV2hQ?oc=5"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "White House forced shut after van ploughs into security gate",
-          "neutralSummary": "White House forced shut after van ploughs into security gate",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Van Smashes Into Security Barricade Near White House",
-              "url": "https://www.ndtv.com/world-news/white-house-security-breach-van-smashes-into-security-barricade-near-white-house-11200701#publisher=newsstand"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "White House area shut down after van drives through barricade, driver arrested: Police",
-              "url": "https://indianexpress.com/article/world/us-news/washington-dc-white-house-van-crash-lafayette-square-security-us-iran-war-10576845/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "White House forced shut after van ploughs into security gate",
-              "url": "https://timesofindia.indiatimes.com/world/us/white-house-forced-shut-after-van-ploughs-into-security-gate/articleshow/129463856.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Black Smoke, Fire On Thai Cargo Ship Sailing To India After Hormuz Attack",
-          "neutralSummary": "Photos released by the Thai Navy showed black smoke rising from the ship's hull and superstructure.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Black Smoke, Fire On Thai Cargo Ship Sailing To India After Hormuz Attack",
-              "url": "https://www.ndtv.com/world-news/iran-news-live-updates-strait-of-hormuz-cargo-ship-mayuree-naree-sailing-to-india-attacked-in-strait-of-hormuz-thai-navy-11200152#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "100 Indian Students To Return From Iran Via Armenia Route",
-          "neutralSummary": "A majority of the students in this group are from Kashmir (File)",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "100 Indian Students To Return From Iran Via Armenia Route",
-              "url": "https://www.ndtv.com/india-news/israel-iran-war-100-indian-students-to-return-from-iran-via-armenia-route-11200515#publisher=newsstand"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "Ignored warnings, now pleading for evacuation: The self-inflicted crisis of Indian students in war-torn Iran",
-              "url": "https://www.opindia.com/2026/03/ignored-warnings-now-pleading-for-evacuation-the-self-inflicted-crisis-of-indian-students-in-war-torn-iran/"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Amit Shah: Speaker’s chair above politics",
-          "neutralSummary": "Amit Shah: Speaker’s chair above politics",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"Questioning Speaker's Integrity Means Questioning Our Democracy\": Amit Shah",
-              "url": "https://www.ndtv.com/india-news/parliament-budget-session-live-news-questioning-speakers-integrity-means-questioning-our-democracy-amit-shah-11200357#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Amit Shah: Speaker’s chair above politics",
-              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/no-confidence-motion-against-speaker-unfortunate-questions-indias-democracy-amit-shah-in-lok-sabha/articleshow/129459755.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "AI Express flight from Hyd makes a hard landing at Phuket, gets stuck on runway; all safe",
-          "neutralSummary": "AI Express flight from Hyd makes a hard landing at Phuket, gets stuck on runway; all safe&nbsp;&nbsp;The Times of IndiaWheel Damaged In Hard Landing, Air India Express Plane Stuck On Phuket Runway&nbsp;&nbsp;NDTVAir India Express Hyderabad–Phuket flight reports nose-wheel issue at Phuket Airport&nbs",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Wheel Damaged In Hard Landing, Air India Express Plane Stuck On Phuket Runway",
-              "url": "https://www.ndtv.com/world-news/air-india-express-plane-makes-hard-landing-in-phuket-nose-wheel-damaged-11199253#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "AI Express flight from Hyd makes a hard landing at Phuket, gets stuck on runway; all safe",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb0J0QTBtZ2ppUjZjTzdwQWFtZUlhR2xLamkyOTZET2taR3ZSenh2WTJ0MXhjbGFXRnI1RzBDcHlGNFNHbGp2bjlmU0dmQ3Q4QURFdXBJMl9tQjRCYnFIOU5UbW4zVFMzbzRFMWlMSnVGbmREUlMzQ0tOTUlZdTUyandFZ0xLWWtPZ05rOUQyczlpSEFLRERncXROUDdyQmp0VVgxaHJPRUlQTTU5RFB3WjNEMmpkV0VTeEl6b283ZXdUc0dCZmNVLWZXdFByVXlvLXY0aUJ6cUdhZWVwa0tSYU5uZkFWOFROQ2VF?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Supreme Court Allows First Passive Euthanasia, Permits Withdrawal Of Life Support For Man In Vegetative...",
-          "neutralSummary": "Supreme Court Allows First Passive Euthanasia, Permits Withdrawal Of Life Support For Man In Vegetative...&nbsp;&nbsp;Live Law\"Truly Court Of People Of India\": Ex-Chief Justice On Passive Euthanasia Order&nbsp;&nbsp;NDTVTop News of the Day: March 11, 2026&nbsp;&nbsp;The HinduWho is Harish Rana? Ghaz",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "When Supreme Court First Recognised Concept Of Passive Euthanasia",
-              "url": "https://www.ndtv.com/india-news/harish-rana-when-supreme-court-first-recognised-concept-of-passive-euthanasia-11200367#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Live Law",
-              "initials": "LL",
-              "domain": "news.google.com",
-              "headline": "Supreme Court Allows First Passive Euthanasia, Permits Withdrawal Of Life Support For Man In Vegetative...",
-              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2c5ZTl1T1NmckQ0dkhQYjd1MXVHeHlQMmpzeHg5a1RiRWRTbllkTEIxbHV1bEY2T29WcndSTm9CYmV6MlJDaWFqQ1l5ZkpxOVJtWkl2azRGTk9JMHZUZ1NxVzdGZ2ozbEs2NEF4aHNlaTFZOThlcDBOZU5hZndMQThKVU9KbkUwZHlhdzVBaEk3enNYNDA5UXBUekhsdi15SzhyaWxUaW9ZYnFwUE96YlJOaFJSWGJMbTJPMlE5RURlVUttSnkxZWFtR3huNUxybVMzRFJkVDdfMk91MDhUZnBlb0HSAeoBQVVfeXFMTUJ6eGMzQXkxZDRHUWZYSHctS0F4d3A2bnRIRHk5Qk5BOHhjTTdkQXlqTzVCREhzek5jUVhqR0pKa3drb28ydm1XU3ZEUEZJWVRfeERzbFVYbVYxRzkweUNQMEtuRE1XcFh1TVpIZW1ENVM3dXM3MWszZVk0UTN4eWNuNXZiM3JoQ29WbWNjZ1dWMGcxVy1ZcHZRRDJ6Sms1a293MWM4Mks0ZDQ1UklZSXZ3dWxtTkRSalRmOTIzTU1ZWEtERUx1SElCYkthdzZxZFRsZEh5cXZkWEFkZjh4cWJMeFM0NmNGa05B?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "90% of India's LPG imports travels through Hormuz Strait, but things in control: Govt",
-          "neutralSummary": "It is a challenging situation, the ministry of petroleum and natural gas said, urging the public resort to panic-buying over fears of LPG shortage.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "90% of India's LPG imports travels through Hormuz Strait, but things in control: Govt",
-              "url": "https://www.hindustantimes.com/india-news/90-of-indias-lpg-imports-travels-through-hormuz-strait-but-things-in-control-govt-101773229443643.html"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Morning Digest: U.S. destroys 16 Iranian mine-laying vessels ‘near Strait of Hormuz’; Gas from new sources will end shortage in India, say Govt. sources, and more",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTzBNcUdveU1qZW40RXdJZkJQZW9mUS0wT3Q0S1ZQUUVwWVFlWlZCc3RVOVJXVl9sUDhvazhEREJMNzhjbUhTUTlCN19nbUc4blUtNGRkRjk1ZWpmX3VBa3YyY0JxUlJkSmNDdzlhYzhldzZUdUhQRi1mcTFZS2c2aFJpdzXSAYsBQVVfeXFMTUF6TXNwTURFMjJ1UGRuR2h1cU1kZzgxMFdZeTZCM3R5RHktbEFRX2s3OTZhVWJIZFZ2MTBPR044a0pZNUJzRENpNHRzR1I5ZzBhMmM2RmtlQ1lWSlJmZ25La3N1SWJrdTNaTmN0YWROZnVWeVhuZWYxOF9BTXA0eE5CRDZ4b2UtTi1xMA?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "Retired judge to probe fake diploma certificate row in Transport Department: Ramalinga Reddy",
-          "neutralSummary": "Retired judge to probe fake diploma certificate row in Transport Department: Ramalinga Reddy",
+          "neutralHeadline": "UNSC condemns Iran strikes; India backs",
+          "neutralSummary": "UNSC condemns Iran strikes; India backs",
           "versions": [
             {
               "political": "left",
@@ -887,8 +721,183 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Retired judge to probe fake diploma certificate row in Transport Department: Ramalinga Reddy",
-              "url": "https://www.thehindu.com/news/national/karnataka/retired-judge-to-probe-fake-diploma-certificate-row-in-transport-department-ramalinga-reddy/article70730854.ece"
+              "headline": "India cosponsors UNSC resolution condemning ‘egregious’ attacks by Iran against GCC nations, Jordan",
+              "url": "https://www.thehindu.com/news/national/india-cosponsors-unsc-resolution-condemning-egregious-attacks-by-iran-against-gcc-nations-jordan/article70733687.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "UNSC condemns Iran strikes; India backs",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/india-cosponsors-unsc-resolution-condemning-irans-egregious-attacks-on-gcc-jordan/articleshow/129490266.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Farooq Abdullah attacker says wanted to 'kill' J&K leader for 20 years",
+          "neutralSummary": "“I wanted to kill Farooq Abdullah for the past 20 years. It was my personal agenda,\" the attacker Kamal Singh Jamwal told police.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "\"Personal Agenda\": Farooq Abdullah Attacker Says \"Waited For 20 Years\"",
+              "url": "https://www.ndtv.com/india-news/jammu-and-kashmir-farooq-abdullah-survives-attack-shooter-wanted-to-kill-him-for-20-years-11203139#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Farooq Abdullah attacker says wanted to 'kill' J&K leader for 20 years",
+              "url": "https://www.hindustantimes.com/india-news/farooq-abdullah-attacker-says-was-planning-killing-for-20-years-101773284796762.html"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "India, China Among 16 US Trading Partners Hit By Trump's '301' Tariff Probes",
+          "neutralSummary": "Canada, the second-largest US trading partner, was not mentioned as a target of the probe.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "India, China Among 16 US Trading Partners Hit By Trump's '301' Tariff Probes",
+              "url": "https://www.ndtv.com/world-news/trump-tariff-news-live-india-china-among-16-us-trading-partners-hit-by-trumps-301-tariff-probes-11203125#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "US launches probe into trading partners including EU, China and India",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zeWRCcDZuNUpfNmU0UWoxWXJZcHFMTndZMkg3WVkxYlMwXzJoQTF6dWtycWFUZ0p5SVNURklCM0RGLS1ER2ZqeFlCYk1TQ2F5dWd3SzE3a3hDQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "US launches probe into 'unfair' trade practices by countries, India on list",
+          "neutralSummary": "US launches probe into 'unfair' trade practices by countries, India on list",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "US 'Unfair Trade' Probe On India, 15 Others: What It Means, Why It Matters",
+              "url": "https://www.ndtv.com/india-news/us-unfair-trade-probe-on-india-15-others-what-it-means-why-it-matters-11203224#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "US launches probe into 'unfair' trade practices by countries, India on list",
+              "url": "https://timesofindia.indiatimes.com/business/international-business/us-launches-probe-into-unfair-trade-practices-by-countries-india-on-list/articleshow/129485246.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Israel hits Beirut after Hezbollah rockets",
+          "neutralSummary": "Israel hits Beirut after Hezbollah rockets",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Hezbollah Says Targeted Israel With \"Dozens Of Rockets\" In New Operation",
+              "url": "https://www.ndtv.com/world-news/iran-war-hezbollah-says-targeted-israel-with-dozens-of-rockets-in-new-operation-11203116#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Israel hits Beirut after Hezbollah rockets",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-pounds-beirut-suburbs-after-hezbollah-fires-volley-of-rockets/articleshow/129488152.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Trump's war on Iran costs US over $11 billion",
+          "neutralSummary": "Trump's war on Iran costs US over $11 billion",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Iran War Cost US Over $11 Billion In 6 Days: Report",
+              "url": "https://www.ndtv.com/world-news/iran-war-iran-war-cost-us-more-11-billion-in-6-days-report-11203005#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Trump's war on Iran costs US over $11 billion",
+              "url": "https://economictimes.indiatimes.com/news/defence/trump-administration-estimates-iran-war-cost-at-over-11-billion-in-six-days-source-says/articleshow/129487089.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Was US strike on an Iran school that killed 170 an intelligence failure? Probe reveals new details",
+          "neutralSummary": "Was US strike on an Iran school that killed 170 an intelligence failure? Probe reveals new details",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Was US strike on an Iran school that killed 170 an intelligence failure? Probe reveals new details",
+              "url": "https://timesofindia.indiatimes.com/world/middle-east/was-us-strike-on-an-iran-school-that-killed-170-an-intelligence-failure-probe-reveals-new-details/articleshow/129490157.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "No entry to ‘non-Sanatanis’ into Badrinath, Kedarnath temples: Officials",
+          "neutralSummary": "Officials said the proposal aims to formalise the practice of restricting the entry of those who do not follow Sanatana Dharma into Kedarnath, Badrinath temples",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "No entry to ‘non-Sanatanis’ into Badrinath, Kedarnath temples: Officials",
+              "url": "https://www.hindustantimes.com/india-news/no-entry-to-non-sanatanis-into-badrinath-kedarnath-temples-101773284580845.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "'Non-Sanatanis' barred from Badrinath and Kedarnath temples",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlRaV1EzWFF3UXZrdFBFNGhhY3ZTejN2dlhTakF4MmZUM0J4QVMzTXBaY0R3SGpTSnEycEdORllyT3QtM3JrUFI3MkxkM0M2THE2TTJ4N1hCbGo4UWVmWGhXUW5vR2o1RUJnamV6WS1wU2dpVEx5Nmd5bzh3YU9KZEgxWXBkcFF3aVZQOEsxeXhTeldITE5yc0ZMR2dreF9jMGhDUnowbkpkM3c1RVRDanVOLVpzeU9JSzhtZXRXLVVJbTQ?oc=5"
             }
           ]
         }
