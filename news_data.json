@@ -1,11 +1,86 @@
 {
-  "generatedAt": "2026-03-19T14:09:54.969287+00:00",
+  "generatedAt": "2026-03-20T04:04:55.223745+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
+          "neutralHeadline": "Denmark planned to blow up Greenland runways if US invaded, reports say",
+          "neutralSummary": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Denmark planned to blow up Greenland runways if US invaded, reports say",
+              "url": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Denmark secretly prepared to blow up Greenland's runways to stop US aircraft: report",
+              "url": "https://www.foxnews.com/world/denmark-secretly-prepared-blow-greenlands-runways-stop-u-s-aircraft-report"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Israel Says It Won’t Strike Iran Energy Sites After Trump Rebuke",
+          "neutralSummary": "Israel said it will no longer target energy infrastructure after an attack on an Iranian gas field sparked retaliatory strikes against energy assets across the Middle East, causing oil and gas prices to surge and prompting a rebuke from President Donald Trump.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Tells Israel Not To Repeat Strikes On Iranian Energy As Crisis Deepens",
+              "url": "https://www.huffpost.com/entry/trump-israel-strikes-iranian-energy-crisis_n_69bc6988e4b01c6ce884c36e"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Israel Says It Won’t Strike Iran Energy Sites After Trump Rebuke",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-19/trump-seeks-end-to-attacks-on-energy-sites-as-gas-fields-burn"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "US reportedly weighing military reinforcements as Iran war enters possible new phase",
+          "neutralSummary": "President Donald Trump's administration is considering deploying thousands of U.S. troops to reinforce its operation in the Middle East, as the U.S. military prepares for ​possible next steps in its campaign against Iran, Reuters reports quoting a U.S. official and three people familiar with the mat",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "U.S. Weighs Military Reinforcements As Iran War Enters Possible New Phase",
+              "url": "https://www.huffpost.com/entry/us-military-reinforcements-iran-war-troops_n_69bb537ce4b05b29d3ca9737"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "US reportedly weighing military reinforcements as Iran war enters possible new phase",
+              "url": "https://www.france24.com/en/tv-shows/a-propos/20260319-us-reportedly-weighing-military-reinforcements-as-iran-war-enters-possible-new-phase"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
           "neutralHeadline": "Iran Rejects De-Escalation As Israel Kills Iranian Security Chief",
           "neutralSummary": "A senior Iranian official said Iran's new supreme leader rejected de-escalation offers conveyed by intermediary countries.",
           "versions": [
@@ -20,94 +95,19 @@
             },
             {
               "political": "left",
-              "tone": "pessimistic",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Israel and Iran attack gas facilities in a major escalation that rattles markets",
-              "url": "https://www.npr.org/2026/03/19/nx-s1-5753520/iran-israel-gas-field-attacks"
-            },
-            {
-              "political": "right",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Israel kills Iranian intelligence minister who survived initial strike, official says",
-              "url": "https://www.foxnews.com/world/israel-kills-iranian-intelligence-minister-who-survived-initial-strike-official-says"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "European Airlines Say Flyers Will Pay for Higher Fuel Costs",
-          "neutralSummary": "Europe’s major airlines warned they’ll have to pass on higher fuel costs to their passengers as the war in Iran escalates and oil tankers remain stranded in the Persian Gulf.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Global Airlines Hike Fares, Cut Routes As Fuel Costs Balloon",
-              "url": "https://www.huffpost.com/entry/global-airlines-hike-fares-cut-routes-fuel-costs-balloon_n_69b9a8bfe4b09a39145f03f9"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "European Airlines Say Flyers Will Pay for Higher Fuel Costs",
-              "url": "https://www.bloomberg.com/news/articles/2026-03-19/european-airlines-warn-higher-fuel-costs-will-be-paid-by-flyers"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Gas price soars 25% after strikes on Qatar hub",
-          "neutralSummary": "Energy costs jump after fresh strikes hit key infrastructure in the Middle East.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Gas price soars 25% after strikes on Qatar hub",
-              "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Former counter-terrorism head investigated by FBI over alleged leaks",
-          "neutralSummary": "The former counter-terrorism head resigned on Tuesday over the war with Iran, saying the country posed \"no imminent threat\" to the US.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Former counter-terrorism head investigated by FBI over alleged leaks",
-              "url": "https://www.bbc.com/news/articles/c33j3gxvgmro?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "FBI investigating former National Counterterrorism Center Director Joe Kent over alleged leaks",
-              "url": "https://nypost.com/2026/03/19/us-news/fbi-investigating-former-national-counterterrorism-center-director-joe-kent-over-alleged-leaks/"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "US intelligence chief admits US, Israel not aligned on Iran war goals",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/us-intelligence-chief-admits-us-israel-not-aligned-on-iran-war-goals?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-5",
-          "neutralHeadline": "Trump may push Japan for help with Iran war in White House meeting",
-          "neutralSummary": "Trump may push Japan for help with Iran war in White House meeting&nbsp;&nbsp;ReutersHow Japan’s Leader Sanae Takaichi Found Her Voice in D.C. Decades Ago&nbsp;&nbsp;The New York TimesJapan PM to hold 'difficult' talks with Trump as Iran conflict looms large&nbsp;&nbsp;BBCJapan's prime minister visi",
+          "neutralHeadline": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
+          "neutralSummary": "Just under 100 ships have passed thorough the Strait of Hormuz since the start of March, according to data analysed by BBC Verify.",
           "versions": [
             {
               "political": "left",
@@ -115,47 +115,13 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
-              "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Trump may push Japan for help with Iran war in White House meeting",
-              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTdUazA0OE5LTkgzRGhWS0wyZkEwaWZWaHpTQ3FCX1BNUl9URmIwM1ZoM3JlRWJVcFktYzYwQWVMNl8zNUZ1cGx2dDljU1hMUUdtVnlzcDlBeXIxUUhtMUt4VXQ0Nm1QeWdJSkdkb2Rvc1o3V3dDYWxmYUpUUWEzYW1acFBMRERWaEJsTzh2d1RYeXRMQ2JTQVM4Y2JYMHkxYTZKc0hVQmxwRTQ?oc=5"
+              "headline": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
+              "url": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "Three Palestinian women killed during Iranian missile attack",
-          "neutralSummary": "They were killed when a beauty salon was hit in the southern West Bank, while a Thai worker was killed by shrapnel falling in Israel.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Three Palestinian women killed during Iranian missile attack",
-              "url": "https://www.bbc.com/news/articles/c0ljl23plpzo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Iranian Missile Attack Leaves 3 Palestinians Dead in West Bank",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYjYtS1ppX2lRMDRxQjRKLU80RENWYVVkVHM5V3RnUW1YcVVkbTBaa3RDbi1aTVBaWkNGU1E2T2hsV3NSOEhhTllPYW9LTEw1MjJDcVg2aFM2Y2lZOGVnckhsUlZwQk9tazAyeHdZY2trWXJHeUU0V0JRNVk4T0NlalN0djRyZ2xKUXc1Zi1SSQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
           "neutralHeadline": "US civil rights leader Cesar Chavez accused of sexual abuse",
           "neutralSummary": "The allegations have prompted the cancellations of events and celebrations planned in his honour later this month.",
           "versions": [
@@ -180,9 +146,25 @@
           ]
         },
         {
+          "id": "global-7",
+          "neutralHeadline": "Iranians prepare for Persian new year under shadow of war",
+          "neutralSummary": "Iranians speak to the BBC about preparing for the Nowruz new year festival during the war.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Iranians prepare for Persian new year under shadow of war",
+              "url": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
           "id": "global-8",
-          "neutralHeadline": "As Pakistan and Afghanistan declare truce, civilians in Kabul count the cost of war",
-          "neutralSummary": "At the Emergency Hospital, dozens crowded around a thick book to check the names of the victims killed in an airstrike on a rehabilitation center. The U.N. says over a hundred people were killed.",
+          "neutralHeadline": "Trump's mediators offer Hamas formal proposal to give up its weapons in Gaza",
+          "neutralSummary": "NPR has learned that mediators have quietly given Hamas a proposal to hand over all its weapons to ensure Gaza's reconstruction.",
           "versions": [
             {
               "political": "left",
@@ -190,42 +172,24 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "As Pakistan and Afghanistan declare truce, civilians in Kabul count the cost of war",
-              "url": "https://www.npr.org/2026/03/19/g-s1-114417/as-pakistan-and-afghanistan-declare-truce-civilians-in-kabul-count-the-cost-of-war"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Afghanistan accuses Pakistan of killing hundreds in Kabul hospital strike",
-              "url": "https://www.foxnews.com/world/afghanistan-accuses-pakistan-killing-hundreds-kabul-hospital-strike"
+              "headline": "Trump's mediators offer Hamas formal proposal to give up its weapons in Gaza",
+              "url": "https://www.npr.org/2026/03/19/nx-s1-5753798/hamas-weapons-trump-gaza-board-of-peace"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Trump threatens to strike world's largest gas field if Iran attacks Qatar again",
-          "neutralSummary": "US President Donald Trump pledged the US would “massively blow up the entirety” of the world’s largest gas field if Iran attacks Qatar again. Trump made his threat on social media Wednesday night against Iran’s South Pars natural gas field after Iranian missiles hit Qatar. The Iranian attack was in",
+          "neutralHeadline": "Fear, defiance, and anger: Iranians describe life under bombardment",
+          "neutralSummary": "In messages to NPR, Tehran residents describe largely deserted streets roamed by paramilitary officials and vigilantes. They say security forces are banning gatherings for Nowruz, the Persian new year, this week.",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Iran attacks world's largest liquified natural gas complex in Qatar",
-              "url": "https://www.npr.org/2026/03/19/nx-s1-5752290/iran-attacks-worlds-largest-liquified-natural-gas-complex-in-qatar"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Trump threatens to strike world's largest gas field if Iran attacks Qatar again",
-              "url": "https://www.france24.com/en/video/20260319-trump-threatens-to-strike-world-s-largest-gas-field-if-iran-attacks-qatar-again"
+              "headline": "Fear, defiance, and anger: Iranians describe life under bombardment",
+              "url": "https://www.npr.org/2026/03/19/g-s1-114144/iran-voices-war"
             }
           ]
         }
@@ -236,85 +200,26 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "What’s a Threat? Gabbard Says It’s Up to Trump, on Iran and Elsewhere.",
-          "neutralSummary": "What’s a Threat? Gabbard Says It’s Up to Trump, on Iran and Elsewhere.&nbsp;&nbsp;The New York TimesTop intelligence officials back on Capitol Hill for House hearing on global threats&nbsp;&nbsp;CNNThe Lesson of Tulsi Gabbard’s Flip-Flop&nbsp;&nbsp;The AtlanticWATCH LIVE: Gabbard, Patel, Ratcliffe t",
+          "neutralHeadline": "US Mint gets green light to put Trump on 250th gold coin",
+          "neutralSummary": "The Commission of Fine Arts (CFA) on Thursday greenlighted a $1 gold coin featuring President Trump’s likeness to commemorate America’s 250th anniversary.  The proposed design depicts Trump with his fists on what appears to be a table or desk. The word “Liberty” span above the image of the president",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "What’s a Threat? Gabbard Says It’s Up to Trump, on Iran and Elsewhere.",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUkl1TmMzU0JtMEpwNC1zRnpGRUMwMlZIRmZyTUFQNm5wLVlLOTZKb3VKSlNqY21aSmNnaklFb2czcXgyYXE0VGxibS1hcjUyNTR2cGFzaEx5eFhfRUxHaFNPZWZISWZxeENQSzJXLU9NQ1RneG14WjBTWTVZaWpRdHJB?oc=5"
+              "domain": "nytimes.com",
+              "headline": "Trump’s Handpicked Arts Commission Approves Gold Coin With His Face on It",
+              "url": "https://www.nytimes.com/2026/03/19/us/politics/trump-gold-coin.html"
             },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Iran war: What’s the Jones Act, and why has Trump suspended it for 60 days?",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUwzcU1FMjFxV1d4RlZCV3Z1SW9wMko0WG5kUUpSVS1GeHRVVDB1ZmZuS0hyQk9tT01DYWZTcVlsLUg0ZGQtY0laOGJhU1IzTlFfZFFZVzRaS3VtTG1Fd1MzLV8xMkM0S0g1VVVaQzFmanpxV2I0cllJSEhTTld4U1cybTJUVFpiWUdQSjdYZFdELUlIUC1Fd001S2hOWV84dVVZN3RySlJoUlJzY1lNUVNxS0JsQdIBuwFBVV95cUxNN3FsekdRQlBaWHBxYWlobkJMQUtwSU92WnRYX2FNVDRURG1IR0Z1MTktc1JFVkFUTzZ4cFFOTW5yVTE4cWJBb3d3MXV5alNTc3VDaTFsSFplaUZPQzNtZXVOU05MTHVMZDRPcHNKOUluZXhIcjNmdkxCWVpmMHp2OVJVMkRfT09RU3A4bGpyS3N1SmdickRTcktDaGFUSFpWTUFFelplRUVidE5fZmFBbEVjdTRYQW9kcXNZ?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Gabbard sidesteps Iran ‘imminent threat’ claim under Senate grilling",
-              "url": "https://www.foxnews.com/politics/gabbard-sidesteps-iran-imminent-threat-claim-under-senate-grilling"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "FBI investigates ex-U.S. Counterterrorism Center head Joe Kent for alleged leaks",
-          "neutralSummary": "FBI investigates ex-U.S. Counterterrorism Center head Joe Kent for alleged leaks&nbsp;&nbsp;AxiosTakeaways from former Trump administration counterterrorism chief Joe Kent’s extensive interview&nbsp;&nbsp;CNNFBI conducting leak investigation into former Trump official who resigned over Iran war&nbsp",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Axios",
-              "initials": "AX",
-              "domain": "news.google.com",
-              "headline": "FBI investigates ex-U.S. Counterterrorism Center head Joe Kent for alleged leaks",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQX2FieWhDaC1YcTJramkwVFFfc3pQNm5QNFBvWVpuY1Z0YWxsc0pJNVIyQlRlWWdibzlsSV9zaDlZcUw0XzJDMEkzZ1J2cUpOT3ZFSm42SGFQcmVHODlNQkNLRkozREozZjc4b0ladlhqdw?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Former counterterrorism chief Joe Kent under FBI investigation for alleged classified leaks",
-              "url": "https://www.foxnews.com/politics/former-counterterrorism-chief-joe-kent-under-fbi-investigation-alleged-classified-leaks"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "FBI investigating former National Counterterrorism Center Director Joe Kent over alleged leaks",
-              "url": "https://nypost.com/2026/03/19/us-news/fbi-investigating-former-national-counterterrorism-center-director-joe-kent-over-alleged-leaks/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Senate panel advances Mullin nomination to lead DHS after testy hearing",
-          "neutralSummary": "Sen. Markwayne Mullin’s (R-Okla.) nomination to lead the Department of Homeland Security (DHS) on Thursday advanced out of the Senate Homeland Security and Governmental Affairs Committee despite reservations from Democrats as well as the committee’s Republican chair. The roughly 3-minute meeting was",
-          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Senate panel advances Mullin nomination to lead DHS after testy hearing",
-              "url": "https://thehill.com/homenews/senate/5791349-mullin-dhs-nomination-advances/"
+              "headline": "US Mint gets green light to put Trump on 250th gold coin",
+              "url": "https://thehill.com/homenews/administration/5792771-trump-coin-commission-fine-arts/"
             },
             {
               "political": "right",
@@ -322,8 +227,8 @@
               "source": "NY Post",
               "initials": "NYP",
               "domain": "nypost.com",
-              "headline": "John Fetterman saves Markwayne Mullin’s nomination to lead DHS",
-              "url": "https://nypost.com/2026/03/19/us-news/john-fetterman-vote-saves-markwayne-mullin-nomination-to-lead-dhs/"
+              "headline": "Trump to appear on 24K gold coin to commemorate America’s 250th birthday after federal arts panel approval",
+              "url": "https://nypost.com/2026/03/19/us-news/federal-arts-panel-approves-24-carat-gold-trump-coin-design/"
             },
             {
               "political": "right",
@@ -331,74 +236,15 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Senate committee advances nomination of Markwayne Mullin as homeland security secretary",
-              "url": "https://www.washingtonexaminer.com/news/senate/4497219/senate-committee-advances-nomination-markwayne-mullin-dhs-secretary/"
+              "headline": "US Mint can produce commemorative gold Trump coin following arts panel approval",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4498291/mint-america-250-gold-trump-coin/"
             }
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "Hegseth on $200B Iran war funding request: ‘It takes money to kill bad guys’",
-          "neutralSummary": "Defense Secretary Pete Hegseth defended the Pentagon’s $200 billion funding request, which was sent to the White House for the ongoing war against Iran, saying it “takes money to kill bad guys.”&#160; “I think that number could move. Obviously, it takes money to kill bad guys,” Hegseth told reporter",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Hegseth on $200B Iran war funding request: ‘It takes money to kill bad guys’",
-              "url": "https://thehill.com/policy/defense/5791278-heggeth-defends-pentagon-budget/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Hegseth confirms he wants $200B to restock America’s bombs, missiles post-Iran war: ‘It takes money to kill bad guys’",
-              "url": "https://nypost.com/2026/03/19/us-news/hegseth-confirms-hes-seeking-200b-to-restock-americas-bombs-missiles-after-iran-war/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "LIVE UPDATES: Hegseth Vows To Act On Request From Gold Star Families On Iran",
-              "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Afroman Wins Jury Trial In Which Ohio Police Officers Accused Him Of Defamation",
-          "neutralSummary": "&ldquo;All of this is their fault, and they have the audacity to sue me,&rdquo; the rapper said during the three-day trial.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Afroman Wins Jury Trial In Which Ohio Police Officers Accused Him Of Defamation",
-              "url": "https://www.huffpost.com/entry/afroman-wins-jury-trial-in-which-ohio-police-officers-accused-him-of-defamation_n_69bb426be4b05b29d3ca9063"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Afroman Wins Civil Trial Over Use of Police Raid Footage in His Music Videos",
-              "url": "https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "More Cesar Chavez Fallout Expected After Sex Abuse Accusations",
-          "neutralSummary": "Some states and cities have canceled their observances of Cesar Chavez Day on March 31. Los Angeles leaders said they planned to change the holiday to “Farm Workers Day” and untether it from Mr. Chavez’s birthday.",
+          "id": "us-2",
+          "neutralHeadline": "California lawmakers say they'll change name of Cesar Chavez Day to Farmworkers Day following sexual abuse allegations",
+          "neutralSummary": "California lawmakers say they'll change name of Cesar Chavez Day to Farmworkers Day following sexual abuse allegations&nbsp;&nbsp;ABC7 Los AngelesCesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years&nbsp;&nbsp;The New York TimesOpinion | Take César Chávez's name off everything&nb",
           "versions": [
             {
               "political": "left",
@@ -406,8 +252,8 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "More Cesar Chavez Fallout Expected After Sex Abuse Accusations",
-              "url": "https://www.nytimes.com/2026/03/19/us/cesar-chavez-sex-abuse-fallout.html"
+              "headline": "What to Know About the Sexual Abuse Allegations Against Cesar Chavez",
+              "url": "https://www.nytimes.com/2026/03/19/us/what-to-know-cesar-chavez-sex-abuse.html"
             },
             {
               "political": "left",
@@ -417,38 +263,65 @@
               "domain": "npr.org",
               "headline": "Israel and Iran attack gas facilities. And, Cesar Chavez accused of sexual abuse, rape",
               "url": "https://www.npr.org/2026/03/19/g-s1-114413/up-first-newsletter-iran-israel-qatar-war-trump-cesar-chavez-faa-safety-policies"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "César Chávez allegations grow as Dolores Huerta speaks out",
-          "neutralSummary": "César Chávez allegations grow as Dolores Huerta speaks out&nbsp;&nbsp;AxiosUS civil rights leader Cesar Chavez accused of sexual abuse&nbsp;&nbsp;BBCSexual assault allegations roil bills honoring César Chávez&nbsp;&nbsp;PoliticoCesar Chavez abused and raped women and girls, NYT investigation says&nb",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "‘We’re Just Seen as Sex Objects’: Dolores Huerta’s Years in the U.F.W.",
-              "url": "https://www.nytimes.com/2026/03/19/us/dolores-huerta-cesar-chavez-united-farm-workers.html"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Axios",
-              "initials": "AX",
+              "source": "ABC7 Los Angeles",
+              "initials": "AL",
               "domain": "news.google.com",
-              "headline": "César Chávez allegations grow as Dolores Huerta speaks out",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR3JlZTE5UEJXdmUzUlNBMkJ2Nm1qUTJidi1WQ0IydmxiTWkzNExLTXk3UEFTWFBVbmh5YTV4MlVFbnFPbTh5NlRPVWtQaVpKR3RjemprQlREZFBRVGdaYW9Ta1BldXR4MVVPcEFDNjRMQ00yNGpjSVJCc1NYREt3WmMtS05NZ1ZfWGNvWVlB?oc=5"
+              "headline": "California lawmakers say they'll change name of Cesar Chavez Day to Farmworkers Day following sexual abuse allegations",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYXppVFp6bU5qX2VSdDdrbXc0QVVaaHFaNzZLcHlYWTBldUczTjEzWFdLd0xPZ0drZGdrLWd1ZlZDcUVlU3NEdnQ1SVAzVHBSc29OeUVlcGVxMFAxazlrUHAtQ0tDNGs1NWprSHFxY3JlQXhzZnQ0a2Z1cGhmRWVWeDV6M2hTbkF4ODFGaklzaUpTY2NtR2FtTFQ2MzJTWjdfd09YZHJVZUJDX1ltbWNHSGpfNGJqTy1RMEM0dWh5M2pqQVhPWV95T1hGb9IB0AFBVV95cUxPV1RUYVVfN054VUdtSXhXbWE1dGo2MkU5ZlZNU1luV1otbExGSWExWVBQTXdLSTg1N3BQVklYQ2ZiQVl0U290azJycTI2MlpnVU5TZ3R6czJmSUJkWVZSQVIzODI4MWdsa2hyWTBodUR6SnhuaWdhVnNRWFhWOTJUMUREZTBTVkxqNkp2TkVKcXJrZEVjbVBxR1pXWEZEcEJtc0xqMWJCbmpzZWEtdTYzNXhQRWVGNWVUSEliM3FNS01ub184Qkw1WnhndU1WekN5?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "5 things to know about the Cesar Chavez sexual abuse allegations",
+              "url": "https://thehill.com/blogs/in-the-know/5792456-dolores-huerta-chavez-assault-claims/"
             }
           ]
         },
         {
-          "id": "us-8",
-          "neutralHeadline": "Joseph Duggar of ’19 Kids and Counting’ Faces Child Sex Abuse Charges",
-          "neutralSummary": "Mr. Duggar, a former star of the TLC reality show, was arrested in Arkansas and was awaiting extradition to Florida, where the authorities said he molested a 9-year-old girl in 2020.",
+          "id": "us-3",
+          "neutralHeadline": "Elizabeth Warren Endorses Graham Platner For Senate",
+          "neutralSummary": "The leading progressive acknowledged Platner's controversial past statements in an interview with HuffPost.&nbsp;",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Elizabeth Warren Endorses Graham Platner For Senate",
+              "url": "https://www.huffpost.com/entry/elizabeth-warren-graham-platner-senate_n_69bc2007e4b0bb6debb7fc13"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Warren Endorses Platner in Maine, Splitting With Schumer",
+              "url": "https://www.nytimes.com/2026/03/19/us/politics/elizabeth-warren-graham-platner-maine-schumer-senate.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Elizabeth Warren endorses Nazi-tattooed Graham Platner in high-stakes Maine Senate primary",
+              "url": "https://www.foxnews.com/politics/elizabeth-warren-endorses-nazi-tattooed-graham-platner-high-stakes-maine-senate-primary"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Student Loan Office to Leave the Education Department",
+          "neutralSummary": "The office will move to the Treasury Department as the Trump administration slowly dismantles the agency overseeing federal education policy.",
           "versions": [
             {
               "political": "left",
@@ -456,24 +329,58 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Joseph Duggar of ’19 Kids and Counting’ Faces Child Sex Abuse Charges",
-              "url": "https://www.nytimes.com/2026/03/18/us/joseph-duggar-arrest-child-sex-abuse.html"
+              "headline": "Student Loan Office to Leave the Education Department",
+              "url": "https://www.nytimes.com/2026/03/19/us/politics/student-loan-office-education-department.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Federal student loans will move to Treasury, further shrinking Education Department",
+              "url": "https://www.npr.org/2026/03/19/nx-s1-5753906/student-loans-trump-treasury"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "‘19 Kids and Counting’ star Joseph Duggar looks disheveled in mugshot after allegedly admitting to molesting 9-year-old girl",
-              "url": "https://nypost.com/2026/03/19/us-news/joseph-duggar-looks-disheveled-in-mugshot-after-child-sex-abuse-arrest/"
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Treasury to collect federal student loan debt as Education Department dismantled",
+              "url": "https://www.washingtonexaminer.com/policy/education/4498329/treasury-student-loans-education-department/"
             }
           ]
         },
         {
-          "id": "us-9",
-          "neutralHeadline": "Trump may push Japan for help with Iran war in White House meeting",
-          "neutralSummary": "Trump may push Japan for help with Iran war in White House meeting&nbsp;&nbsp;ReutersHow Japan’s Leader Sanae Takaichi Found Her Voice in D.C. Decades Ago&nbsp;&nbsp;The New York TimesJapan PM to hold 'difficult' talks with Trump as Iran conflict looms large&nbsp;&nbsp;BBCJapan's prime minister visi",
+          "id": "us-5",
+          "neutralHeadline": "Trump References Pearl Harbor as Iran War Tests US-Japan Alliance",
+          "neutralSummary": "Trump References Pearl Harbor as Iran War Tests US-Japan Alliance&nbsp;&nbsp;Bloomberg.comTrump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister&nbsp;&nbsp;The New York TimesIran conflict looms large over Trump's meeting with Japan PM&nbsp;&nbsp;BBCCNBC Daily Open: Some uncomfortable",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Jokes About Pearl Harbor in Meeting With Japan’s Prime Minister",
+              "url": "https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "news.google.com",
+              "headline": "Trump References Pearl Harbor as Iran War Tests US-Japan Alliance",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcjZSOVJSM0xUVFZVZHJ2MHg4czZ1OXFvOVdPVFNqTDZycGhXRENYOFE4M1RpODl6TXpqWlRLMkFTdnhaUXVqVDJKRmNjdTI3U2tLN0xmOXUwd2tyeHRtalRaQUNvUkpIVlhKenFoeTdmUnJPMXJoYUZQYnoxbkYzalAyV25ENnMza1IyeGhUOVpxR09xMEppY1YwaWpvUmMwTlRyQ1FWU25QRzdQUHRvdHB3?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Planned Parenthood chapter settles with EEOC over treatment of white employees",
+          "neutralSummary": "The Equal Employment Opportunity Commission says Planned Parenthood of Illinois will pay $500,000 to end an investigation that found the organization's DEI practices violated federal civil rights laws",
           "versions": [
             {
               "political": "left",
@@ -481,17 +388,83 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Japan's prime minister visits the White House under shadow of Iran war",
-              "url": "https://www.npr.org/2026/03/19/g-s1-114405/japan-takaichi-visit-white-house"
+              "headline": "Planned Parenthood chapter settles with EEOC over treatment of white employees",
+              "url": "https://www.npr.org/2026/03/19/nx-s1-5753911/eeoc-planned-parenthood-dei-settlement"
             },
+            {
+              "political": "right",
+              "tone": "optimistic",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Planned Parenthood Chapter Hit With $500K Settlement Over Discrimination Against White Employees",
+              "url": "https://www.dailywire.com/news/planned-parenthood-chapter-hit-with-500k-settlement-over-discrimination-against-white-employees"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Fear, defiance, and anger: Iranians describe life under bombardment",
+          "neutralSummary": "In messages to NPR, Tehran residents describe largely deserted streets roamed by paramilitary officials and vigilantes. They say security forces are banning gatherings for Nowruz, the Persian new year, this week.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Fear, defiance, and anger: Iranians describe life under bombardment",
+              "url": "https://www.npr.org/2026/03/19/g-s1-114144/iran-voices-war"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Labor secretary’s security staffer resigns amid misconduct investigation",
+          "neutralSummary": "Labor secretary’s security staffer resigns amid misconduct investigation&nbsp;&nbsp;PoliticoBodyguard of Married Trump Goon Quits After Affair Claims&nbsp;&nbsp;The Daily BeastIsolated by Probe, Labor Chief Returns to DC as Woes Mount (1)&nbsp;&nbsp;Bloomberg Law NewsThe Affair Rumors Trump Cabinet",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Labor secretary’s security staffer resigns amid misconduct investigation",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcFRDZmdjX1YzUGZVVWpTb0Z6U2JhcFBGcnZSNjFycWZpc1VXcElnWkNVUklJVWprLS1ZTUxsbDZfVVFPTzdDVDNoVEd1Yl83WVlMU3FBRFAtb1VvYmkzeVBrblowblFpSGRUaFc1aXZ2dmx2dG5lb2VWclFTNXUxLW1KNUF4LUlBTGF2YWpGdjNmaEpnTzlF?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Labor Secretary Lori Chavez-DeRemer’s security guard resigns amid probe into allegations of ‘inappropriate’ relationship: sources",
+              "url": "https://nypost.com/2026/03/19/us-news/labor-secretary-lori-chavez-deremers-security-guard-resigns-amid-misconduct-probe/"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Watch live: Trump hosts White House dinner with Japanese PM Sanae Takaichi",
+          "neutralSummary": "President Trump will host Japanese Prime Minister Sanae Takaichi for a White House dinner Thursday evening. The event comes after the world leaders held a bilateral meeting in the afternoon, when Trump ribbed Japan over its bombing of Pearl Harbor in 1941. The president endorsed Takaichi, a staunch",
+          "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Trump may push Japan for help with Iran war in White House meeting",
-              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUTdUazA0OE5LTkgzRGhWS0wyZkEwaWZWaHpTQ3FCX1BNUl9URmIwM1ZoM3JlRWJVcFktYzYwQWVMNl8zNUZ1cGx2dDljU1hMUUdtVnlzcDlBeXIxUUhtMUt4VXQ0Nm1QeWdJSkdkb2Rvc1o3V3dDYWxmYUpUUWEzYW1acFBMRERWaEJsTzh2d1RYeXRMQ2JTQVM4Y2JYMHkxYTZKc0hVQmxwRTQ?oc=5"
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Watch live: Trump hosts White House dinner with Japanese PM Sanae Takaichi",
+              "url": "https://thehill.com/video-clips/5792427-watch-live-donald-trump-sanae-takaichi-white-house-dinner-japan/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Japanese prime minister wishes ‘good looking’ Barron Trump Happy Birthday at White House dinner: ‘Very clear where he got it’",
+              "url": "https://nypost.com/2026/03/19/us-news/japanese-prime-minister-wishes-good-looking-barron-trump-happy-birthday-at-white-house-dinner-very-clear-where-he-got-it/"
             }
           ]
         }
@@ -502,8 +475,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Two taken to hospital after accident in Lim Chu Kang leaves driver trapped in van",
-          "neutralSummary": "A person trapped in the van’s driver’s seat was rescued with hydraulic rescue equipment, said SCDF.",
+          "neutralHeadline": "Woman who allegedly sent messages with slew of vulgarities charged with impersonating police officer",
+          "neutralSummary": "She is also accused of using vulgarities on a police officer while making a 999 call in September 2025.",
           "versions": [
             {
               "political": "center",
@@ -511,24 +484,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Two taken to hospital after accident in Lim Chu Kang leaves driver trapped in van",
-              "url": "https://www.straitstimes.com/singapore/two-taken-to-hospital-after-accident-in-lim-chu-kang-leaves-driver-trapped-in-van"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "One person dead, one taken to hospital after fire at Choa Chu Kang flat",
-              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTEkzRXQ0UVYyQ2dDd09SajAyNmVXUm1mdWpjQzV0aUJOTmZkNXJ5RlNXMGt3Mml6WUVZQ1hCVHNUU2k4cVh2OHhqRldQRlFsRTEwN3V6dmRUUkxKQVJ3bzEtUk43QU9Vay02eXFoUEJia2Zsdnc0NlIxWnEtQzM1VkdUSm9UQ3h0cVNzUXZlOGhVVU1BZHc?oc=5"
+              "headline": "Woman who allegedly sent messages with slew of vulgarities charged with impersonating police officer",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/woman-who-allegedly-sent-messages-with-slew-of-vulgarities-charged-with-impersonating-police-officer"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Changi Airport retains world’s best airport title, its record 14th win since 2000",
-          "neutralSummary": "It was also named best in Asia and best in the world for airport dining and immigration service.",
+          "neutralHeadline": "Residents of Queen Street HDB block hit by blackout for over 20 hours after coffee shop fire",
+          "neutralSummary": "Some were frustrated by the lack of regular updates provided.",
           "versions": [
             {
               "political": "center",
@@ -536,24 +500,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Changi Airport retains world’s best airport title, its record 14th win since 2000",
-              "url": "https://www.straitstimes.com/singapore/transport/changi-airport-retains-worlds-best-airport-title-its-record-14th-win-since-2000"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Today",
-              "initials": "TD",
-              "domain": "news.google.com",
-              "headline": "BREAKING NEWS: Singapore Changi retains World’s Best Airport title at 2026 Skytrax World Airport Awards",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcnBIdlpEZlVsZ0YyRE9jMnd3eWhrczJSWmc3QjM0X19tNmdVdTVxV1FFX3gxZlU1TFdZaDA1N19HT2VLRXdIYWVxVkFnQ2l2cllvUGdoN3ExN1hvYVBhdlU2bHpkekpYNGItQU5xWlg4ZHFQUFl2bUQ3U1pfRlNqb0ZyZl9uVmlNRzFoR2dDVzBManYtTG4xRldvQ2MxRUVPMXcweUduSEIzMmhsMWEzcVp6aWZXNTczMC1FMF9STk9LRE5lU2t4WTNPaVUtZ0dZX0VqeFEyc2V2ZVU2c19LWTlfRm5aQVJKU0NJ?oc=5"
+              "headline": "Residents of Queen Street HDB block hit by blackout for over 20 hours after coffee shop fire",
+              "url": "https://www.straitstimes.com/singapore/residents-of-queen-street-hdb-block-hit-by-blackout-for-over-20-hours-after-coffee-shop-fire"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Students lose over $30k to scammers impersonating educational institutions",
-          "neutralSummary": "At least 20 cases have been reported in March so far, said the police.",
+          "neutralHeadline": "E-bike shop director and manager charged over alleged illegal modification of PMD",
+          "neutralSummary": "The shop was previously investigated in 2022 for displaying non-compliant devices for sale.",
           "versions": [
             {
               "political": "center",
@@ -561,15 +516,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Students lose over $30k to scammers impersonating educational institutions",
-              "url": "https://www.straitstimes.com/singapore/at-least-31000-lost-to-scams-involving-impersonation-of-educational-institutions-in-under-3-weeks"
+              "headline": "E-bike shop director and manager charged over alleged illegal modification of PMD",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/e-bike-shop-director-and-manager-charged-over-alleged-illegal-modification-of-pmd"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Iran war expected to dominate US-Japan talks as Takaichi lands in Washington",
-          "neutralSummary": "The Japanese prime minister will be the first major ally to hold face-to-face talks with United States President Donald Trump since he urged several countries to deploy warships to the Strait of Hormuz.",
+          "neutralHeadline": "Sinking of Iran warship: 5 questions on US strike and whether Southeast Asia should be concerned",
+          "neutralSummary": "The shadow fleet of tankers carrying sanctioned Iranian oil and operating off the coasts of Singapore and Malaysia could become targets of the US and other actors as part of the Middle East war, say analysts.",
           "versions": [
             {
               "political": "center",
@@ -577,24 +532,15 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Iran war expected to dominate US-Japan talks as Takaichi lands in Washington",
-              "url": "https://www.channelnewsasia.com/east-asia/japan-usa-summit-talks-takaichi-trump-strait-hormuz-iran-war-6003781"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
-              "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss"
+              "headline": "Sinking of Iran warship: 5 questions on US strike and whether Southeast Asia should be concerned",
+              "url": "https://www.channelnewsasia.com/asia/iran-war-us-sink-iris-dena-submarine-legal-6003221"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "Indonesian military detains four soldiers over acid attack on activist",
-          "neutralSummary": "Activist Andrie Yunus suffered injuries to his face, an eye, hands and torso after the acid attack last week.",
+          "neutralHeadline": "Thailand's Anutin re-elected as prime minister after crushing rival in parliamentary vote",
+          "neutralSummary": "Thailand's Anutin re-elected as prime minister after crushing rival in parliamentary vote",
           "versions": [
             {
               "political": "center",
@@ -602,8 +548,58 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Indonesian military detains four soldiers over acid attack on activist",
-              "url": "https://www.channelnewsasia.com/asia/indonesia-acid-attack-soldiers-detained-andrie-yunus-6001356"
+              "headline": "Thailand's Anutin re-elected as prime minister after crushing rival in parliamentary vote",
+              "url": "https://www.channelnewsasia.com/asia/thailand-anutin-charnvirakul-elected-prime-minister-vote-6002881"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "CNBC",
+              "initials": "C",
+              "domain": "news.google.com",
+              "headline": "Thailand's Anutin reelected PM after crushing rival in parliamentary vote",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcENjUldlMS16VDYyY0ZfS1d5YTB1ME5wVElNNnNldm9NTkdCWWdHZlI1MEhiQ1Y4UloyQlRVOXhvTnIxYlJhTjgteGhJMExZYVVGSHV3Tm5EQlQxcFQ2N243T09qVmJnQ3hpRVF3ZTF4cTZHMWFoNjhtUl9lRUlOalp4bHY3LVVBMFpaZlAyZXVQTkxETDg4QWYwTFkwa0ZmYXZ6ZXJ4OVV3UEI3OUHSAbMBQVVfeXFMTnVSNlJfWGxHcWkyY2RBWmNsY3NjaFpsMVZNVUtQMURnVkEzeDA1UEdpTzRDcEFnck1Jc2VDczlBV2VZTTZKQ0FOZGdWZU5qSjloZE9uTE5WU1dHN1NYQXI1aENmeElBZmo0dFlKS2h1ckZRU2VIQzNaSUdlSDlaQ2R5djhFaFI4UlRwaWtENHo5WVpUUng3XzBRVkxpQjNmSlBiTVQ5OHRmazBHYkdkNlNqbU0?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Singapore and Japan upgrade ties to Strategic Partnership, expand cooperation in five areas",
+          "neutralSummary": "Both countries will enhance cooperation in trade, digitalisation and technology, defence, green transition and energy, as well as other people exchanges.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Singapore and Japan upgrade ties to Strategic Partnership, expand cooperation in five areas",
+              "url": "https://www.channelnewsasia.com/singapore/singapore-japan-upgrade-ties-strategic-partnership-lawrence-wong-sanae-takaichi-6001031"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "news.google.com",
+              "headline": "Singapore, Japan upgrade ties to strategic partnership",
+              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUxnTmszNS1qcEl6YThjNGFpMTJVSDN5RkJjUnAzTGs5cVNnZWk0dUIwQVdXWkh2S3FHTml3MFNlVXh0Y0w4RTZwY3ZiX2kxVklOV0dQbmwtWkJ4ZlhBcWRNNVV1VHB1YkpfbjQxRWh6LVFtZnRxdzdUYTBmRFpCZW9DRmhOcGNvSUlUcmNfNW02dw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "Oil falls as US and allies look to boost supply, unchoke Strait of Hormuz",
+          "neutralSummary": "Oil falls as US and allies look to boost supply, unchoke Strait of Hormuz",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Oil falls as US and allies look to boost supply, unchoke Strait of Hormuz",
+              "url": "https://www.channelnewsasia.com/business/oil-falls-us-and-allies-look-boost-supply-unchoke-strait-hormuz-6005771"
             },
             {
               "political": "left",
@@ -611,72 +607,58 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Indonesia detains four soldiers over acid attack on activist",
-              "url": "https://www.bbc.com/news/articles/c20l07vx5nko?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Woman who allegedly impersonated police officers, used abusive words on one to be charged",
-          "neutralSummary": "She was arrested on March 19.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Woman who allegedly impersonated police officers, used abusive words on one to be charged",
-              "url": "https://www.straitstimes.com/singapore/woman-who-allegedly-impersonated-police-officers-used-abusive-words-on-another-to-be-charged"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Singtel’s back-to-back outages being investigated by IMDA",
-          "neutralSummary": "The telco's troubles this week began with an eight-hour mobile outage on March 16.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Singtel’s back-to-back outages being investigated by IMDA",
-              "url": "https://www.straitstimes.com/tech/singtels-back-to-back-outages-being-investigated-by-infocomm-media-development-authority"
+              "headline": "What have US allies and China said about sending ships to the Strait of Hormuz?",
+              "url": "https://www.bbc.com/news/articles/crm8g938erdo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Muslims in Singapore to celebrate Hari Raya Aidilfitri on March 21: Mufti",
-          "neutralSummary": "Dr Nazirudin called on Muslims to multiply their good deeds and prayers for the rest of Ramadan.",
+          "neutralHeadline": "Trump tells Israel not to repeat strikes on Iranian energy as crisis deepens",
+          "neutralSummary": "Trump tells Israel not to repeat strikes on Iranian energy as crisis deepens&nbsp;&nbsp;CNANetanyahu says Iran 'decimated', Israel 'acted alone' in strike on gas field&nbsp;&nbsp;CNAExclusive: Iran attacks wipe out 17% of Qatar’s LNG capacity for up to five years, QatarEnergy CEO says&nbsp;&nbsp;Reu",
           "versions": [
             {
               "political": "center",
+              "tone": "pessimistic",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Trump tells Israel not to repeat strikes on Iranian energy as crisis deepens",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRjRxWGZ0TXJPNFV6ckJrVEc0TXdQcC1YQVJaS1c0VVFobF9pUDFpYkJVR1c2QVlBcXlCV3lfWG5fRVNiVWZmMm05Rm1yenprUVhLNk42SlBhNkgyQWVockcwWWdaMXp2ano5MmVjS0FlUzRtekxuZ2UzMmpEbFpVbDdQQVhJZTZVR29mQktCZGhsSEFfV1dMUU9RQU5EczQ4Yms4WkFR?oc=5"
+            },
+            {
+              "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Muslims in Singapore to celebrate Hari Raya Aidilfitri on March 21: Mufti",
-              "url": "https://www.straitstimes.com/singapore/muslims-in-singapore-to-celebrate-hari-raya-puasa-on-march-21-mufti"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Israel Says It Won’t Strike Iran Energy Sites After Trump Rebuke",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-19/trump-seeks-end-to-attacks-on-energy-sites-as-gas-fields-burn"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Retiree running charity given first ST Singaporean of the Year international impact award",
-          "neutralSummary": "Mr Robert Kee’s charity has served the impoverished in Cambodia and Nepal for more than 20 years.",
+          "neutralHeadline": "Gold prices dive to 6-week low",
+          "neutralSummary": "Gold prices dive to 6-week low&nbsp;&nbsp;VnExpress InternationalInfographic: Domestic and global gold prices plunge sharply on March 19&nbsp;&nbsp;Nhan Dan OnlineGold prices today, March 19, 2026: SJC gold price, 9999 gold price, ring gold price, latest world gold prices (Thursday).&nbsp;&nbsp;baon",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Retiree running charity given first ST Singaporean of the Year international impact award",
-              "url": "https://www.straitstimes.com/singapore/community/retiree-running-charity-given-first-soty-international-impact-award"
+              "source": "VnExpress International",
+              "initials": "VI",
+              "domain": "news.google.com",
+              "headline": "Gold prices dive to 6-week low",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORUgtN1M0Y3RUbkp5UUdNMzB1MUZvXzZvRTRKZlFoWF9DX3Y2MEdzR0dLanRxQnRSU0FvcENRaUF2eW9uVXVDa01TOFNwaEJQMk5EN0huR1pqLVozYW1GNW81c05DNmtDeHpQTkZBRms3ei1aUDZrcWZvNDNDRFJ1ZUpQY2h2cl9VNHNjRlh1Vm13NEk?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Gold Set for Worst Week in Six Years as War Curbs Rate-Cut Bets",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-19/gold-set-for-worst-week-in-six-years-as-war-curbs-rate-cut-bets"
             }
           ]
         }
@@ -687,8 +669,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Bengal polls: BJP releases 2nd list of 111 candidates",
-          "neutralSummary": "Bengal polls: BJP releases 2nd list of 111 candidates",
+          "neutralHeadline": "Delhi wakes up to light rain, thunderstorms; capital sees wettest March in 3 years",
+          "neutralSummary": "The minimum temperature dropped to 18 degrees Celsius. A day earlier, it had fallen below 30°C for the first time in nearly a month.",
           "versions": [
             {
               "political": "left",
@@ -696,172 +678,208 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Defectors from Congress in BJP’s first list of 88 candidates for Assam election",
-              "url": "https://www.thehindu.com/news/national/assam/assam-assembly-elections-bjp-candidate-list-himanta-biswa-sarma-pradyut-bordoloi-updates/article70760920.ece"
+              "headline": "Farmers cautioned as light rain and thunderstorms are likely across Andhra Pradesh till March 22",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/farmers-cautioned-as-light-rain-and-thunderstorms-are-likely-across-andhra-pradesh-till-march-22/article70762624.ece"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Bengal polls: BJP releases 2nd list of 111 candidates",
-              "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/west-bengal/west-bengal-bjp-candidate-list-2026-second-list-of-111-candidates-nishit-pramanik-to-contest-from-mathabhanga-check-complete-roll/articleshow/129678517.cms"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Delhi wakes up to light rain, thunderstorms; capital sees wettest March in 3 years",
+              "url": "https://www.hindustantimes.com/india-news/delhi-noida-gurgaon-wakes-up-to-light-rain-thunderstorms-capital-sees-wettest-march-in-3-years-101773970162628.html"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "D-Street bloodbath: Sensex crashes nearly 2,500 points; Rs 11L cr investors' wealth wiped out",
-          "neutralSummary": "Stock market crash today: Higher crude oil prices and a hawkish stance from the US Federal Reserve weighed heavily on investor sentiment.Within minutes of trading, the sharp decline erased over Rs 11 lakh crore from the total market capitalisation of BSE-listed firms.",
+          "neutralHeadline": "Stock market today: Nifty50 opens above 23,200; BSE Sensex up over 700 points",
+          "neutralSummary": "Stock market today: Benchmark indices Nifty50 and BSE Sensex opened in green on Friday after a big selloff on Thursday that saw markets tank over 3%. While Nifty50 opened above 23,200, BSE Sensex rose over 700 points, just shy of 75,000.",
           "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "D-Street bloodbath: Sensex crashes nearly 2,500 points; Rs 11L cr investors' wealth wiped out",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-19-2026-dalal-street-indian-equities-global-markets-us-federal-reserve-middle-east-war-iran-donald-trump/articleshow/129669665.cms"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
-              "domain": "news.google.com",
-              "headline": "Stock Market Highlights: Rs 12 Trillion Wiped Out Today As Sensex Crashes 2,400 Points",
-              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHNId284QkNONm9SbkV3MU9NTlVyaDZENjVrSGN5SEI5TnBEM0ZFUGJoc2NzVlh1WDdQNWljX3BCV0NVYUR5SXRHQ1RtWUxZSUVzcGc3WThta01NaGswREVaQzJPSzBPX2hoWkVQQ2Y3MEtxRi05TTE0MTd3ME0ta1N3TUJHNEtEWDJEeG0xX1pVNU1SdC05UkJrTG5pZ2NtMmFLUWVERGJHMWVRU3JjckRkRnJJT2RXZkxjVHVqeVI?oc=5"
+              "domain": "ndtv.com",
+              "headline": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open Positive As Oil Cools Down",
+              "url": "https://www.ndtv.com/india-news/sensex-stock-market-share-market-nifty-live-updates-today-20-march-positive-opening-oil-prices-go-down-11241178#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Stock market today: Nifty50 opens above 23,200; BSE Sensex up over 700 points",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-20-2026-dalal-street-indian-equities-global-markets-us-iran-war-oil-prices-donald-trump/articleshow/129691441.cms"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Chhattisgarh tables anti-conversion bill, life term for mass conversions",
-          "neutralSummary": "Chhattisgarh govt tables anti-conversion Bill with life term for mass conversion, defines allurement, coercion, and mandates prior declaration",
+          "neutralHeadline": "Watch: Trump’s ‘Pearl Harbor’ jibe on Iran war question makes for awkward moment with Japan PM",
+          "neutralSummary": "Watch: Trump’s ‘Pearl Harbor’ jibe on Iran war question makes for awkward moment with Japan PM",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "\"Why Didn't You Tell About Pearl Harbor?\" Trump's Quip Makes Japan PM Awkward",
+              "url": "https://www.ndtv.com/world-news/why-didnt-you-tell-about-pearl-harbor-trumps-quip-makes-japan-pm-awkward-11241054#publisher=newsstand"
+            },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Chhattisgarh tables anti-conversion bill, life term for mass conversions",
-              "url": "https://www.hindustantimes.com/india-news/chhattisgarh-tables-anti-conversion-bill-life-term-for-mass-conversions-101773922882918.html"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Watch: Trump’s ‘Pearl Harbor’ jibe on Iran war question makes for awkward moment with Japan PM",
+              "url": "https://timesofindia.indiatimes.com/world/us/who-knows-better-about-surprise-trump-jokes-about-1941-pearl-harbor-attack-in-meeting-with-japan-pm/articleshow/129685779.cms"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "Keki Mistry: All you need to know about HDFC Bank new chairman after Atanu Chakraborty's sudden resignation",
-          "neutralSummary": "A chartered accountant by profession, Mistry comes in as HDFC bank chairman with over four decades of banking experience",
+          "neutralHeadline": "‘Can anyone really tell Trump what to do?’ Netanyahu denies 'dragging' US 'into Iran war'",
+          "neutralSummary": "‘Can anyone really tell Trump what to do?’ Netanyahu denies 'dragging' US 'into Iran war'",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Keki Mistry: All you need to know about HDFC Bank new chairman after Atanu Chakraborty's sudden resignation",
-              "url": "https://www.hindustantimes.com/india-news/keki-mistry-all-you-need-to-know-about-hdfc-bank-new-chairman-after-atanu-chakraborty-sudden-resignation-101773921169413.html"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "\"Can Anyone Tell Trump What To Do?\" Netanyahu Says Didn't Push US Into War",
+              "url": "https://www.ndtv.com/world-news/iran-war-benjamin-netanyahu-says-iran-no-longer-has-uranium-enrichment-capacity-11240511#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "HDFC chair shocks with sudden resignation &amp; reason",
-              "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/atanu-chakraborty-quits-as-hdfcs-part-time-chairman-says-banks-practices-not-in-congruence-with-my-ethics/articleshow/129664125.cms"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "‘Can anyone really tell Trump what to do?’ Netanyahu denies 'dragging' US 'into Iran war'",
+              "url": "https://timesofindia.indiatimes.com/world/middle-east/does-anyone-really-think-someone-can-tell-trump-what-to-do-netanyahu-denies-dragging-us-into-iran-war/articleshow/129687791.cms"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "‘Unacceptable': India says attacks on energy sites 'deeply disturbing' as West Asia conflict escalates",
-          "neutralSummary": "India's statement comes after Iran launched retaliatory strikes on energy infrastructure in Saudi Arabia, Qatar and Kuwait.",
+          "neutralHeadline": "PM Modi's key dialogue with Qatar, Oman, Jordan, France amid Iran-US war: ‘Attacks on energy condemnable’",
+          "neutralSummary": "PM Modi condemned the attacks targeting energy infrastructure in West Asia. He also called for dialogue and diplomacy to restore peace, security and stability.",
           "versions": [
             {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "PM Modi Discusses Middle East Situation With Qatar, France, Jordan, Oman Leaders",
+              "url": "https://www.ndtv.com/india-news/iran-war-pm-modi-discusses-west-asia-situation-with-qatar-france-jordan-oman-leaders-11240968#publisher=newsstand"
+            },
+            {
               "political": "center",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "‘Unacceptable': India says attacks on energy sites 'deeply disturbing' as West Asia conflict escalates",
-              "url": "https://www.hindustantimes.com/india-news/unacceptable-india-says-attacks-on-energy-sites-deeply-disturbing-as-west-asia-conflict-escalates-us-iran-israel-war-101773921210910.html"
+              "headline": "PM Modi's key dialogue with Qatar, Oman, Jordan, France amid Iran-US war: ‘Attacks on energy condemnable’",
+              "url": "https://www.hindustantimes.com/india-news/pm-modi-calls-qatar-jordan-france-leaders-oman-dialogue-and-diplomacy-peace-middle-east-iran-us-war-strait-of-hormuz-101773974880393.html"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "'To secure justice': RG Kar victim’s mother seeks BJP ticket from Bengal's Panihati",
+          "neutralSummary": "The mother of an RG Kar victim announced her intention to contest assembly elections as a BJP candidate from Panihati, seeking justice for her daughter and advocating for women's safety. This decision has drawn sharp criticism from 'Reclaim the Night' protesters, who deem it an unfortunate choice gi",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'To secure justice': RG Kar victim’s mother seeks BJP ticket from Bengal's Panihati",
+              "url": "https://timesofindia.indiatimes.com/city/kolkata/bjp-mum-on-panihati-after-reclaim-night-blowback/articleshow/129681713.cms"
             },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "West Bengal elections: RG Kar victim's mother says want to contest polls",
+              "url": "https://www.hindustantimes.com/india-news/west-bengal-elections-rg-kar-victims-mother-says-want-to-contest-polls-101773971638753.html"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "‘Your husband will die’: How Nashik astrologer used fear to blackmail, assault woman",
+          "neutralSummary": "A retired Merchant Navy officer, Ashok Kumar Kharat, has been arrested in Nashik. He allegedly posed as an astrologer and repeatedly raped a woman for over three years. The accused was remanded in police custody. A Special Investigation Team has been formed to probe the case.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "‘Your husband will die’: How Nashik astrologer used fear to blackmail, assault woman",
+              "url": "https://timesofindia.indiatimes.com/city/nashik/your-husband-will-die-how-nashik-astrologer-captain-ashok-kharat-used-fear-to-rape-blackmail-woman-pistol-58-videos-found/articleshow/129690592.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "New video shows moment Iranian missiles struck Haifa refinery, Israel’s largest oil hub",
+          "neutralSummary": "New video shows moment Iranian missiles struck Haifa refinery, Israel’s largest oil hub",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "New video shows moment Iranian missiles struck Haifa refinery, Israel’s largest oil hub",
+              "url": "https://timesofindia.indiatimes.com/world/middle-east/new-video-shows-moment-iranian-missiles-struck-haifa-refinery-israels-largest-oil-hub/articleshow/129691118.cms"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "news.google.com",
+              "headline": "Iran Missile Attack Hits Oil Refinery In Israel's Haifa: Report",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObk5WbEZ2YnZXa1RkekVBNWhYUk5UZ3pOQV83VXpxNnFLVk5QTE9abkpjd01FQWZZMWxZVjVZcWVkZWh6SWwxYThmYkN1dDNKZ09mT25EZ092Mi0tVU1tYWRSbTNPSm90eHhSZC0zTV9ENjFVeHdiQU04YmYzLUhQSG1IY1dRRlp3NGFmcWVYNkgtcTlPWVYzXzhZa2c3WDRBWVFHbw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "Delhi rain: Check flight delays amid storm alert",
+          "neutralSummary": "Delhi rain: Check flight delays amid storm alert",
+          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Attacks on Gulf energy infra ‘unacceptable’: MEA",
-              "url": "https://economictimes.indiatimes.com/news/india/attacks-on-gulf-energy-infrastructure-unacceptable-says-mea-as-instability-in-west-asia-rises/articleshow/129679094.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Tamil Nadu Assembly election: CPI (M) unrelenting in demand for six seats, stalemate in talks with DMK continues",
-          "neutralSummary": "The DMK’s argument is that it cannot part with more seats as it has accommodated additional parties in the alliance and has already given three more seats to the Congress.",
-          "versions": [
+              "headline": "Delhi rain: Check flight delays amid storm alert",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/flight-status-indigo-air-india-spicejet-today-check-delay-cancellation-status-as-imd-predicts-rain-thunderstorms-in-delhi-ncr-today/articleshow/129691178.cms"
+            },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Tamil Nadu Assembly election: CPI (M) unrelenting in demand for six seats, stalemate in talks with DMK continues",
-              "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/cpi-m-unrelenting-in-demand-for-six-seats-stalemate-in-talks-with-dmk-continues/article70761938.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "₹594 crore sanctioned to upgrade road network in Khammam",
-          "neutralSummary": "₹594 crore sanctioned to upgrade road network in Khammam",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "₹594 crore sanctioned to upgrade road network in Khammam",
-              "url": "https://www.thehindu.com/news/national/telangana/594-crore-sanctioned-to-upgrade-road-network-in-khammam/article70761983.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Distribution of forms for elderly, persons with disabilities seeking postal ballot to begin from March 20",
-          "neutralSummary": "Distribution of forms for elderly, persons with disabilities seeking postal ballot to begin from March 20",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Distribution of forms for elderly, persons with disabilities seeking postal ballot to begin from March 20",
-              "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/distribution-of-forms-for-elderly-persons-with-disabilities-seeking-postal-ballot-to-begin-from-march-20/article70761537.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "Fervour marks ‘Ugadi Asthanam’ at Tirumala temple",
-          "neutralSummary": "Vedic scholars render ‘panchanga sravanam’ on the auspicious ‘Sri Parabhavanama’ Telugu new year",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Fervour marks ‘Ugadi Asthanam’ at Tirumala temple",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/fervour-marks-ugadi-asthanam-at-tirumala-temple/article70762011.ece"
+              "source": "Mint",
+              "initials": "MINT",
+              "domain": "news.google.com",
+              "headline": "IndiGo issues travel advisory for Delhi, Bengaluru passengers amid thunderstorms – ‘Check your flight status...’",
+              "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVlhqQ3ZBWldiMFNkU3Q3Q08tNEhVTXJTVmtUSnlzXzIyLUM1Z19KVDUzRWRqbThtY3ZnV3BWZ245akNGMmNnbmtISkVmYkRzWll3LW5tdmNtZHNNSzd1N2J4NVBZZ0lUcUFmb1FkdGlRU19zRnJUZTZyVmpET0wyNHo2ZVp6OXJCVkdYNl8xT0dQQWlCN0MyZm9DM1BiRnRBYTFuTnVsVGJmdUlOTzJ0Z19fSUxDcmNjb280QlB0TE9QTURBTWV3dWpTMU1JY1dlRktSLWJ6b0NBbVpKUHUxaGNtal8yYzRMZzhMNlV6NDNOUdIB9wFBVV95cUxNVXdyLWRoczBrY1ViY3RSV1BCWklWWWludUpjQTAxUDRrWm9OVXhvYkQ5RlRSNjhqaVl5WnhYZ2UxMkpqbDFjTW5CZGdIYVl4Y2RKb0J6Rm95dUFWcS1OSDFhQlo5c0xwRVlFTTJaenpjN2N2cnRtZHFLLW1helczZmhvMU5QX0drcXpSVkVRUU01SmV5VXlkN1R1b1pHaWFROWx3c2hDbUxiemZvVHRHMGVBelpSdjY0ZEt6VkJtUEFCbjRRcFgxVXNsQ0xpQVU2YWtkMTVxMmxwVEJGa0U4MXVvY1lVTS1wbmZoLXdEY01rUGo5aTdn?oc=5"
             }
           ]
         }
