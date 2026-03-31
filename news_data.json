@@ -1,13 +1,56 @@
 {
-  "generatedAt": "2026-03-31T04:27:34.887552+00:00",
+  "generatedAt": "2026-03-31T14:28:26.621712+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "At least 70 killed in Haiti massacre, rights group says, far exceeding official toll",
-          "neutralSummary": "At least 70 killed in Haiti massacre, rights group says, far exceeding official toll&nbsp;&nbsp;ReutersDozens killed as gang attacks ravage western Haiti ahead of international force’s arrival&nbsp;&nbsp;CNNAt least 70 killed, 30 wounded in Haiti gang attack, rights group says&nbsp;&nbsp;Al JazeeraC",
+          "neutralHeadline": "Israel's parliament approves the death penalty for Palestinians convicted of murdering Israelis",
+          "neutralSummary": "Israel's parliament approves the death penalty for Palestinians convicted of murdering Israelis&nbsp;&nbsp;AP NewsIsrael Passes Law to Hang Palestinians Convicted of Deadly Attacks&nbsp;&nbsp;The New York TimesWhat’s Israel’s death penalty law that only applies to Palestinians?&nbsp;&nbsp;Al Jazeera",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Israel Passes Widely Condemned Death Penalty Law For Palestinian Prisoners",
+              "url": "https://www.huffpost.com/entry/israel-passes-death-penalty-law-palestinian-prisoners_n_69caf47fe4b010178ee6a3bd"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Israel's parliament approves the death penalty for Palestinians convicted of murdering Israelis",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeGlGSkFtUGhxdzZqWVpYVkxPMDRTSkJoZnlFNXB1R014TWpPUVFxaGNUejlCQ0hHeEtPNWxUVG9pc1Q1RS0yd25veFM4SUhyek9uMU5OZzQ5dUQ2emxZbW05Yjl6dmZ4RldRTGpGZ2tKMThsUHpJOVU0OE13T2VPMTRfZ3NiSF8tMlBlWGlLaTVYMWxOVlpwM01tSU9GV1JzRjVHSmFHN3NjaE43dGNnMzFlb2Nndw?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "What’s Israel’s death penalty law that only applies to Palestinians?",
+              "url": "https://www.aljazeera.com/news/2026/3/31/whats-israels-death-penalty-law-that-only-applies-to-palestinians?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "EU says Israel's plans to introduce death penalty law for Palestinians 'very concerning'",
+              "url": "https://www.france24.com/en/middle-east/20260331-eu-says-israel-s-plans-to-introduce-death-penalty-law-for-palestinians-very-concerning"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Haiti: At least 70 killed in 'massacre,' says rights group",
+          "neutralSummary": "Haiti: At least 70 killed in 'massacre,' says rights group&nbsp;&nbsp;dw.comDozens killed as gang attacks ravage western Haiti ahead of international force’s arrival&nbsp;&nbsp;CNNAt least 70 people killed and 30 injured in Haiti gang attack&nbsp;&nbsp;The GuardianCentral Haitian town descends into",
           "versions": [
             {
               "political": "left",
@@ -19,106 +62,72 @@
               "url": "https://www.theguardian.com/world/2026/mar/30/deaths-in-gang-attack-haitian-farming-area-far-exceed-initial-estimate"
             },
             {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "At least 70 killed in Haiti massacre, rights group says, far exceeding official toll",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPenpUSVY1R0pJN0xtTWZOWllyb0xRM2F1eXNyUDEtTXNyOWphOXhKTkJVdml3SU8yNnJIanJKaTZZZGVCblRDRVNYU3ZDZHpGQjNyZ3NoT3pMUUdaN3JvNUxSVTNUTk1VQW9wd3FKTkRnWkJkSDZPX0gxZGJMeGstdURJWmtpSUlNMm1fOXdoWEpPcDZLMWJIRTlSbzhqSHM?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "At least 70 killed, 30 wounded in Haiti gang attack, rights group says",
-              "url": "https://www.aljazeera.com/news/2026/3/31/at-least-70-killed-30-wounded-in-haiti-gang-attack-rights-group-says?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Israel legalises death penalty for Palestinians convicted of murdering Israelis",
-          "neutralSummary": "Israel's parliament on Monday passed a law approving the death penalty for Palestinians convicted on terror charges of carrying out deadly attacks on Israelis. The law, which also allows the courts to impose the death penalty on Israeli citizens, has been harshly criticised by Israeli and Palestinia",
-          "versions": [
-            {
               "political": "left",
               "tone": "pessimistic",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Palestinians convicted of deadly attacks face death penalty under new Israeli law",
-              "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeEZLX0ZXYXlsbnZ1OFI1QjJSLUxvbjlkV1M0ZjF6VnJJMmdfR3Nob1BhQTFMNUhCbC02ZXpQcGFkLWlacHc5UnBBWkNvYUNxSW1aRmNUTk9RZ19rcm5ZSy1iYlYyeDd3MTFjd3NueUlaYVA5cFh5YTZWZVYxTkR2bGY2QnNYQkxFajRINTR4bW5HZktnM2RMcHNOYjY4eEk?oc=5"
+              "headline": "At least 16 killed, thousands displaced by gang attack in rural Haiti",
+              "url": "https://www.bbc.com/news/articles/cql76l4221qo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
               "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Israel legalises death penalty for Palestinians convicted of murdering Israelis",
-              "url": "https://www.france24.com/en/middle-east/20260330-israel-legalises-death-penalty-for-palestinians-convicted-of-murdering-israelis"
+              "source": "dw.com",
+              "initials": "D",
+              "domain": "news.google.com",
+              "headline": "Haiti: At least 70 killed in 'massacre,' says rights group",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYWtXYnZ5V3FTMkZNNGJyNjRGWkdGbjN3VUM4MVZ6MG5lNUhvSW9ITXJQQmhKSmhidlVJVzdfaEItU25IclJ1aHRRWDZhYXprY0FoLVRQVE1mczRXOFpNVkI4cU9TWEg3bHVaU29qNkFqc3ZNaGZzYUNuR0l4bUJKaFdLWFdZRmVTYzRkNzc4Ml_SAZABQVVfeXFMTzBTVDVGMHVUemxnMHlQalNTMWF0OFIwSlJFUkRkalBzX1poaEctcVJVV0V5dWlvT0pRMkp5RThGaC14b1NJeFJ2ZFE3c0Vic2hKaENrVXY2QlFTUzBDUFdPUVNVUmZGZ01Qcl85eENGWlFnTzJxd2lkSkNxTmRtb21vNTBOWllSSmIyMWxqQnh6?oc=5"
             }
           ]
         },
         {
           "id": "global-3",
-          "neutralHeadline": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
-          "neutralSummary": "It is the second fatal incident in the last 24 hours, Unifil says, after Israel expanded its operation against Hezbollah.",
+          "neutralHeadline": "China to ban storing remains of dead in ‘bone ash apartments’",
+          "neutralSummary": "Practice of using apartments to store relatives’ ashes has risen as rapid urbanisation and ageing population increases competition for cemetery plotsChina is introducing a law to stop people storing the ashes of their dead relatives in empty high-rise flats rather than paying steep costs for increas",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "China to ban storing remains of dead in ‘bone ash apartments’",
+              "url": "https://www.theguardian.com/world/2026/mar/31/china-bans-storing-ashes-apartments"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Two Indonesian UN peacekeepers killed in explosion in Lebanon",
-              "url": "https://www.bbc.com/news/articles/c4gd20evgp0o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Two More U.N. Peacekeepers Are Killed in Southern Lebanon",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMVNoRkV2VWFyc1Q3VnpmMlNOb0txN3RwMjJlalZEVGFnYWZvOW5KdVU5SGpDQ09CQjdjdmJoLTVfRUdXNDFZWTMxMHQ4c245Q2h3QWtGenNVTzRCbGVHc3NvZ1hvNmNpazRKN0V6UXhpdHZMc2hPTlYxS01hX3BkUzhOdGIwOFE?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "UN condemns killing of Indonesian peacekeepers in Lebanon",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/un-condemns-killing-of-indonesian-peacekeepers-in-lebanon?traffic_source=rss"
+              "headline": "China bans storing cremated remains in empty 'bone ash apartments'",
+              "url": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "global-4",
-          "neutralHeadline": "What we learned from Al Jazeera’s interview with Marco Rubio",
-          "neutralSummary": "Experts cast doubt on some of the claims made by US Secretary of State Marco Rubio in an interview with Al Jazeera.",
+          "neutralHeadline": "Trump Blinks As Russia Defies U.S. Blockade, Delivers Oil To Cuba",
+          "neutralSummary": "Asked about Trump&rsquo;s decision to allow the Russian oil tanker and not ones from other nations, White House press secretary Karoline Leavitt called it \"a decision that will continue to be made on a case-by-case basis.&rdquo;",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "What we learned from Al Jazeera’s interview with Marco Rubio",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/what-we-learned-from-al-jazeeras-interview-with-marco-rubio?traffic_source=rss"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Blinks As Russia Defies U.S. Blockade, Delivers Oil To Cuba",
+              "url": "https://www.huffpost.com/entry/ap-cb-cuba-us-russia-oil_n_69cacd49e4b09eec10e13b24"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "US allows Russian oil tanker to reach Cuba amid blockade as Trump says island ‘has to survive’",
+              "url": "https://www.foxnews.com/world/us-allows-russian-oil-tanker-cuba-blockade-trump-survive"
             }
           ]
         },
@@ -138,112 +147,112 @@
             },
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Iran warns U.S. against ground invasion, as Pakistan holds diplomatic talks",
-              "url": "https://www.npr.org/2026/03/29/nx-s1-5765344/pakistan-diplomatic-discussions-iran-war"
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "news.google.com",
+              "headline": "First Thing: Iran accuses US of plotting ground assault while publicly seeking talks",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVy1wUWZwWGE2SVM4cHB4WGF2T2kxZ1c5YTFqbGo1Z1kzcDFuSjhvYzJXUjRVNjRhVnNtUVM2cWwybHVERnQ3LVQ2NTZsSTNNa1k2RzVQcW1fVDBGdzdvaHhiek1lcVo2S2pjdlFOZm5aRFB5OS1VMXRxX2l4ZkhxdFg2ZENPclZxWmRqazI1ck42V3ExdDVTLXVfUFM4aTFPeW5SM3gxNjRnM2IzWW5pelZXVnV3cDhwQi0tQ09vVUZOb3F2bTM0?oc=5"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "Israeli Strike Kills Three Lebanese Journalists",
-          "neutralSummary": "\"It is a brazen crime that violates all treaties and norms through which journalists enjoy international protection in war,\" Lebanese President Joseph Aoun said.",
+          "neutralHeadline": "Palestinians convicted of lethal attacks face death penalty under new Israeli law",
+          "neutralSummary": "The new law, passed on Monday, was pushed hard by the far-right and Security Minister Itamar Ben-Gvir.",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Israeli Strike Kills Three Lebanese Journalists",
-              "url": "https://www.huffpost.com/entry/israeli-strike-kills-at-least-two-lebanesejournalists-al-manar-tv-says_n_69c7c26fe4b0a014076f325c"
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Palestinians convicted of lethal attacks face death penalty under new Israeli law",
+              "url": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Hundreds Gather for Funeral of 3 Lebanese Killed in Israeli Strike",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOXJEWGdzSmM5VV9TbmF0QWd6Zkk1ekQ0ZkFVeWNyU3lzdllCdWNmVmNwVjFidEdUeDlhS2o3a25MckhVYmVZcjBaX3hfQ0FiUmdQT2NsRlNHYXdtdWRISExsSm1CRFdzT25zQ1dzTWxhOExrN2F1N1plQkRXaWZOTnZ1R2NhcnhyTnV0TGJiTllOZm9LRS04eF9RV0U?oc=5"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Hundreds rally in West Bank against Israeli death penalty for Palestinians",
+              "url": "https://www.aljazeera.com/news/2026/3/31/hundreds-rally-in-west-bank-against-israeli-death-penalty-for-palestinians?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-7",
-          "neutralHeadline": "Spain closes off its airspace to US planes involved in the Iran war",
-          "neutralSummary": "Spain closes off its airspace to US planes involved in the Iran war&nbsp;&nbsp;AP NewsSpain closes airspace to US aircraft involved in Iran war&nbsp;&nbsp;BBCKey US ally blocks airspace to military flights over Iran, escalating standoff with Trump&nbsp;&nbsp;Fox NewsThe Spanish Revolt: The European",
+          "neutralHeadline": "Iran Attacks Oil Tanker After Trump Wavers on War Escalation",
+          "neutralSummary": "Iran Attacks Oil Tanker After Trump Wavers on War Escalation&nbsp;&nbsp;Bloomberg.comLive updates: Iran strikes fully loaded oil tanker off Dubai coast as gas reaches $4 per gallon in US&nbsp;&nbsp;AP NewsIran sets giant oil tanker ablaze off Dubai after Trump warnings&nbsp;&nbsp;reuters.comIran war",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Spain closes airspace to US aircraft involved in Iran war",
-              "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump tells Europe 'Go get your own oil,' Iran hits oil tanker off Dubai",
+              "url": "https://www.npr.org/2026/03/31/nx-s1-5766991/iran-war-lebanon-israel-dubai-trump-oil-europe"
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
               "domain": "news.google.com",
-              "headline": "Spain closes off its airspace to US planes involved in the Iran war",
-              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUlqd1RMWmp6UlZ3Q0twSVRheTF0WUkxby1yWGdZMUdCRDllLW4zYW9JREI3N29ETDlVQWdRaW9SZmkydFN0c3NjUFFPakh5RGY3cEpJb0cwMEE5aXNHcjNzUTJGcGlnNk9LbEdGVWpVN1JEeVNwcjhIS0pJLXpxRWJjTzFSM01CNmpGRkFwZUVaeUZpdHZSbDRn?oc=5"
+              "headline": "Iran Attacks Oil Tanker After Trump Wavers on War Escalation",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkdJS0NGSjRWNGJCOGRJZTh6ZzFwTXE0UHYyOE9FTERaSHlFVk9MejFHVkRlQWF3Q2NIWjdDcndIa1EwWmhBQTcwcHpaU1ROaTBfMU1OZk9ocVNsNHB4N3JtWEpheHphSHBLNjNfbnBNWlNLa2tJbVdybjRoakZnV0szNHVRQzQ2V0tTV1dGbGk0RE5iNmtxRHVualFPSTJvQk1sZEhxQW16RTFkOHdpNg?oc=5"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Germany's Merz says 80 percent of Syrian immigrants should return home",
-          "neutralSummary": "Germany's Chancellor Friedrich Merz said on Monday that he and Syrian President Ahmed al-Sharaa agreed the vast majority of Syrian immigrants living in Germany should return to their homeland over the next three years. Al-Sharaa met Merz in Berlin – making his first presidential visit to Germany, wh",
+          "neutralHeadline": "Ukrainian drones strike Russia's Ust-Luga port again, sources say oil terminal hit",
+          "neutralSummary": "Ukrainian drones strike Russia's Ust-Luga port again, sources say oil terminal hit&nbsp;&nbsp;reuters.comHuge fires at Russian oil facilities following Ukraine strikes, satellite images show&nbsp;&nbsp;BBCRussian Oil Exports Plunge as Drone Strikes Cripple Baltic Ports&nbsp;&nbsp;Bloomberg.comRussia",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Most Syrian refugees in Germany expected to return home in three years, Merz says",
-              "url": "https://www.bbc.com/news/articles/cy41vqx4pdzo?at_medium=RSS&at_campaign=rss"
-            },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Germany's Merz says 80 percent of Syrian immigrants should return home",
-              "url": "https://www.france24.com/en/europe/20260330-germany-s-merz-says-80-percent-of-syrian-immigrants-should-return-home"
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "Ukrainian drones strike Russia's Ust-Luga port again, sources say oil terminal hit",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblhFRTdZZUFaZ1lyR01WVXdPTWo5anhKSFZFUC1Yb1Nrb2h5dDB0Ymh0MWE3VHd6TERFcEJYTDJubDBpa3dOZVQ1R0k4a3ZSaGJjdmdmSmtfV0tGNVRIeVdSR3RQMzkyUTBaV3VmRDBQY2ZBV2xPMk9OLXU2OW5IeUZrdExjTVctN0pvc2NuUWRqbm1sNm9oMlhRVWtuanJaTWtmT3FOd2NZNjJ1UjZXRVln?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Drones strike Russia’s Ust-Luga port again as EU officials visit Ukraine",
+              "url": "https://www.aljazeera.com/news/2026/3/31/drones-strike-russias-ust-luga-port-again-as-eu-officials-visit-ukraine?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Céline Dion makes her big comeback with concerts in Paris after six year hiatus",
-          "neutralSummary": "On her 58th birthday, Céline Dion announced her return to the stage with 10 concerts in Paris this fall, marking her first major performances since pausing her career for health reasons. The news was highlighted by a Paris-wide ad campaign and a light show on the Eiffel Tower.",
+          "neutralHeadline": "Israel prevents Catholic leaders from celebrating Palm Sunday Mass at Jerusalem church",
+          "neutralSummary": "Israel prevents Catholic leaders from celebrating Palm Sunday Mass at Jerusalem church&nbsp;&nbsp;PoliticoIsrael reverses course after barring Palm Sunday Mass in Jerusalem&nbsp;&nbsp;CNNCardinal Parolin meets Israel’s ambassador, expresses regret over Holy Sepulchre incident&nbsp;&nbsp;Vatican News",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Céline Dion announces comeback shows in Paris after incurable diagnosis",
-              "url": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&at_campaign=rss"
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Israel prevents Catholic leaders from celebrating Palm Sunday Mass at Jerusalem church",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObWhCcUs3Z2JDTU1OVGdlQ2RtN2V3UkVLd1A3OFBKQlRsS19fdWZDVExTVTBnbG1oRnozcnV3NTh2VVdTOTcxcVlObllpZG81aUxOYTMtRVhmTVI3NzhXeVpqYkNUUDR4QVd5MGRaY2d4cUM0ZldyM3NkdjhmNU91S0hpa2VsWGwxbURnWGRTQmwzVWV4RkNPMEN4ZW5lLVpVeTRnZlotV0hGdGxzWDloQkNuamhVWFR3Vnc4dEFJc0xhVkRxa1hpMkZkblJCTk1KdHc?oc=5"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Céline Dion makes her big comeback with concerts in Paris after six year hiatus",
-              "url": "https://www.france24.com/en/europe/20260330-c%C3%A9line-dion-makes-her-big-comeback-with-concerts-in-paris-after-six-year-hiatus"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Israel looking for 'solutions' to open Christian sites after barring church leader on Palm Sunday due to war",
+              "url": "https://www.foxnews.com/world/israel-looking-solutions-open-christian-sites-after-barring-church-leader-palm-sunday-due-war"
             }
           ]
         }
@@ -254,8 +263,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "The birthright citizenship case at the Supreme Court hits close to home for this immigrant mother",
-          "neutralSummary": "The birthright citizenship case at the Supreme Court hits close to home for this immigrant mother&nbsp;&nbsp;AP NewsThe Supreme Court will weigh Trump's birthright citizenship order this week. Here's what to know about the case.&nbsp;&nbsp;CBS NewsTrump officials cite white supremacists in bid to en",
+          "neutralHeadline": "Trump Unveils Plans For His Presidential Library And... Um... Wow",
+          "neutralSummary": "The towering presidential library is set to be built in Miami.&nbsp;",
           "versions": [
             {
               "political": "left",
@@ -263,26 +272,26 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Supreme Court To Hear Birthright Citizenship Arguments",
-              "url": "https://www.huffpost.com/entry/supreme-court-to-hear-birthright-citizenship-arguments_n_69c595d6e4b0a6ee60c3f354"
+              "headline": "Trump Unveils Plans For His Presidential Library And... Um... Wow",
+              "url": "https://www.huffpost.com/entry/donald-trump-presidential-library_n_69cb2ab0e4b010178ee6bfe3"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Who is an American? The Supreme Court will decide",
-              "url": "https://www.npr.org/2026/03/30/nx-s1-5766096/supreme-court-birthright-citizenship-explainer"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Posts Video of Presidential Library in Miami",
+              "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-presidential-library-video.html"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
+              "source": "Forbes",
+              "initials": "FB",
               "domain": "news.google.com",
-              "headline": "The birthright citizenship case at the Supreme Court hits close to home for this immigrant mother",
-              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2xPODFqbjZxWUFpd3RXcVRQMFEwNVpUWWhXQ0Y0eHZPUXlOcThlaWRQbm9aYUYzbFNsNWRTRHVOWE5oR1dsSGdwQUY1YWxaeVNEd3c4aFppN3JiS3NkdE9ac1p5aGt0VXpyUXdBeGdIODFkWkEwTk9vQnpaQk5xbVM0eEJLVEFLTmlHZnBFRk9nYWNYQlBJeXhETTRVR1VnQ1JfRlIwUlltNnYxSnU5dFZsQktIM0JFVVJfZzR1cld2TGF5ZFE?oc=5"
+              "headline": "Trump Shares Renders Of His Future Presidential Library—A Miami Skyscraper Emblazoned With His Name",
+              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWTh1RDZNOXBLRHNIVTRiUFRETzBFM2xicGJ5SVdWSXl1UnVESy0waE9HUmJVaFh5VU8zQi0wZkRvRFdwZmpPOTZEcURRcnZkQUI1OExLQUdqTF9mR2xpVko4enFPYnFTSlhpSzZNSVZJYXkzd05kTEQ5Wlpoekk1NXhTTEQ3T1RFNGZERE9XREQ4d3ZHYXdwd0o4Tlc5Sy1RUmNMWWtMbFp5eTAwT0NpdUxCZm1GQW9TcDlTYjFMYlMzbEpTOXFJSTR0YUZ0TWRRS2JOeTJRVDV1eTNDYmZIMFNlSlZDTHhi?oc=5"
             },
             {
               "political": "right",
@@ -290,226 +299,15 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "What to know about the Supreme Court’s blockbuster birthright citizenship case",
-              "url": "https://www.foxnews.com/politics/what-know-about-supreme-courts-blockbuster-birthright-citizenship-case"
+              "headline": "Trump's proposed presidential library revealed as towering Miami skyscraper in striking new video",
+              "url": "https://www.foxnews.com/politics/trump-proposed-presidential-library-revealed-towering-miami-skyscraper-striking-new-video"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "Michigan synagogue attack was act of terrorism inspired by Hezbollah, federal officials say",
-          "neutralSummary": "Michigan synagogue attack was act of terrorism inspired by Hezbollah, federal officials say&nbsp;&nbsp;CBS NewsFBI: Temple Israel attack was Hezbollah-inspired, targeted Jewish community in West Bloomfield Township&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4Michigan synagogue attack was Hezbollah-inspi",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Michigan Synagogue Attack Was ‘Inspired by Hezbollah,’ Officials Say",
-              "url": "https://www.nytimes.com/2026/03/30/us/michigan-synagogue-attack-hezbollah.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Michigan synagogue attack was act of terrorism inspired by Hezbollah, federal officials say",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOW5BV2MyVnFDM2FUUk1XaG1zNVN3OHEzQW5aRkhFUEQyWkNfc3h6UGpZT1lxZUZDckw5anBaVFZBc0IxaTF6M3Y0UWtiOVNWQllkZDBrVXNRN2FmSVNWYXB1Zm5iYU1hTjdlQmI2dHV2Z1dIaW1RU2RoN0Rzd0dSTnVfMWZsbDA1WDNrcXQtdE04X1pLVEx3dFBOMkgzaF9vdGs2Rm9udzMzZXZhNnRhbm5BZ9IBuAFBVV95cUxOYnVPUW1OTmljTFhtOU5ad25LUmhuWS02SEtZbmd3RDN5czdjdmxJZU1ycldoVl9tQUVxQVVRS21TQkFxVm5KbzFMamRuX3AxaUtfTHcyZDBsRDd6T3JjR01ZX21ZbFRIV3FYSGJZc1lPaXBPeEdXTXdFcUVNeTRxdFdtUC1DNFFpVTIycWY1dmtULUxTVVhrb21xSE95LVFhLWh2S2lvb0NwRzBRaFk0SmNROGZrZWJS?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Michigan synagogue attack that left gunman dead inspired by Hezbollah, officials say",
-              "url": "https://www.washingtonexaminer.com/news/crime/4509827/michigan-synagogue-attack-terrorism-hezbollah/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Michigan Synagogue Terrorist Attack Was Directed By Hezbollah, DOJ Says",
-              "url": "https://www.dailywire.com/news/michigan-synagogue-terrorist-attack-was-directed-by-hezbollah-fbi-says"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "First look at Trump’s library: Miami skyscraper with ballroom, golden statue, even aircraft",
-          "neutralSummary": "Eric Trump, President Trump’s son, unveiled the first renderings of his father’s presidential library and museum on Monday, which will be built in downtown Miami.&#160; The younger Trump wrote on the social platform X that he has “poured my heart and soul into this project” with his team at the Trum",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "Trump’s skyscraper presidential library looms over Miami in newly released images",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc3g2M3dfR2x2ZE9wQmZUZjFxOHNMRVhSTzdQTXJtRkVxd0dKX2VpcVQ5d05jYzh3WGZhaUN2VU5mQzkwRFhfb21Fdzlja1ZnNHdON19lZ1dsc2xCbjlENUFmTjhFcGZ2bnZUZDdoNDdDNERycGV2LTFLZE8yOTdlUXdwOXluWW5wVFJyU2tlLVpJN3hsVE1YUGFQOGI4aFk?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "First look at Trump’s library: Miami skyscraper with ballroom, golden statue, even aircraft",
-              "url": "https://thehill.com/homenews/administration/5808314-trump-presidential-library-miami-first-look/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Trump unveils renderings for soaring Miami skyscraper that will serve as his presidential library",
-              "url": "https://nypost.com/2026/03/30/us-news/trump-unveils-renderings-for-miami-skyscraper-that-will-serve-as-his-presidential-library/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump reveals first look at presidential library in Miami",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4510114/trump-first-look-presidential-library-miami/"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "DeSantis signs bill to rename Palm Beach airport after Trump",
-          "neutralSummary": "Florida Gov. Ron DeSantis (R) on Monday signed legislation renaming Palm Beach International Airport (PBI) to “Donald J. Trump International Airport.” The bill, which Republicans in the Florida House and Senate passed last month via votes of 81-30 and 25-11, respectively, gives the state the authori",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "DeSantis Signs Bill to Rename Florida Airport for Trump",
-              "url": "https://www.nytimes.com/2026/03/30/us/politics/trump-airport-palm-beach-florida.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "news.google.com",
-              "headline": "Ron DeSantis signs bill renaming Palm Beach airport after Donald Trump",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSGp0bWZQVDNCeUFCaGFXZUUxcWQ0clhpUmJRTDJockZoNEVzRkViejVwdDFnMXdzUlBscmM1TkpKUEtJTFAxRFFqa1J6Q3FmT01RNVQwcDAzX1ZERGJHdUVvUmt4VlhQMzdFOUFNU2FCVFJvbGt1UWNBQVZ2N2tOM0IxSjZhYmgzYk1zYVVLQ0s1em5NSGw0?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "DeSantis signs bill to rename Palm Beach airport after Trump",
-              "url": "https://thehill.com/homenews/state-watch/5808226-donald-trump-international-airport-pbi-desantis-florida-legislature/"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "See Some Of The Most Powerful Photos From 'No Kings' Protests Across The Country",
-          "neutralSummary": "Protesters across the nation rallied against President Donald Trump and his administration.&nbsp;",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "See Some Of The Most Powerful Photos From 'No Kings' Protests Across The Country",
-              "url": "https://www.huffpost.com/entry/no-kings-protest-photos_n_69c6ac94e4b041837420b82c"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "The ‘No Kings’ Protests Released New Levels Of Absurd",
-              "url": "https://www.dailywire.com/news/the-no-kings-protests-released-new-levels-of-absurd"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Mark Sanford, Years After Scandal, Aims for a Comeback to Congress",
-          "neutralSummary": "The former South Carolina governor and congressman filed papers to run for his old seat, six years after running for president and nearly two decades after a high-profile affair.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Mark Sanford, Years After Scandal, Aims for a Comeback to Congress",
-              "url": "https://www.nytimes.com/2026/03/30/us/politics/mark-sanford-south-carolina-congress.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Mark Sanford attempting a congressional comeback months after allegation of affair with Olivia Nuzzi",
-              "url": "https://nypost.com/2026/03/30/us-news/mark-sanford-attempting-a-congressional-comeback-months-after-allegation-of-affair-with-olivia-nuzzi/"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "TSA agents see partial paychecks",
-          "neutralSummary": "TSA agents see partial paychecks&nbsp;&nbsp;Federal News NetworkTSA officers finally paid after 45-day shutdown, but struggles continue&nbsp;&nbsp;CBS NewsMajor US airports return to normal as TSA workers get paid&nbsp;&nbsp;ReutersAirport wait times plummet from hours to minutes as TSA workers star",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Airport wait times improve as TSA agents begin to get paychecks",
-              "url": "https://www.washingtonpost.com/nation/2026/03/30/tsa-wait-times-airport-security/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Federal News Network",
-              "initials": "FN",
-              "domain": "news.google.com",
-              "headline": "TSA agents see partial paychecks",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUzExTmxfbGhmQkxBU0pFbndBUW55ekJYcnpSVFljcUlOUnBTMzZYNG1OV2lfZi04TkN3aW85T3h5Wm9TVk1mb3JfdWtzdnZTX3o0YVk1dHkxZ2tsVjlZYjFtSHVxVW44TWxpQ3ZhV09BUC1qSTREV1NYUy14SVR2UnE0bDBsOTBuZ2p2OFBiUmVXYWI1OGRj?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Army reviews why helicopters flew near Kid Rock’s home, No Kings rallies",
-          "neutralSummary": "An Army official said “appropriate action” will be taken if the probe reveals violations of safety standards or other regulations.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Army reviews why helicopters flew near Kid Rock’s home, No Kings rallies",
-              "url": "https://www.washingtonpost.com/national-security/2026/03/30/kid-rock-helicopter-flyby/"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Trump lifts pause on asylum for some migrants",
-          "neutralSummary": "The Trump administration said Monday it is renewing processing of asylum applications from some countries, a move that will have limited impact but nonetheless scales back current restrictions. The administration further paused asylum processing by U.S. Citizenship and Immigration Services (USCIS) i",
+          "neutralHeadline": "Iran Attacks Oil Tanker After Trump Wavers on War Escalation",
+          "neutralSummary": "Iran Attacks Oil Tanker After Trump Wavers on War Escalation&nbsp;&nbsp;Bloomberg.comLive updates: Iran war; US gas hits $4 as Trump tells other nations to ‘go get your own oil’&nbsp;&nbsp;CNNIran sets giant oil tanker ablaze off Dubai after Trump warnings&nbsp;&nbsp;reuters.comIran War Live Updates",
           "versions": [
             {
               "political": "left",
@@ -517,8 +315,51 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Trump rolls back pause on asylum decisions imposed after D.C. National Guard shooting",
-              "url": "https://www.npr.org/2026/03/30/nx-s1-5766344/trump-rolls-back-pause-on-asylum-decisions"
+              "headline": "Trump tells Europe 'Go get your own oil,' Iran hits oil tanker off Dubai",
+              "url": "https://www.npr.org/2026/03/31/nx-s1-5766991/iran-war-lebanon-israel-dubai-trump-oil-europe"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "Trump tells the UK and other countries 'go get your own oil' from Strait of Hormuz",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zSDdjTFNGMU9HWS1rX0tMYWFlU3FnbmVpNy1aNGZhWFkwcWlzWnBpWno0THB1YzlHMnh5VDNUb3dEdTRlRVRsd09rM1EtR2JrRl9keA?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "news.google.com",
+              "headline": "Iran Attacks Oil Tanker After Trump Wavers on War Escalation",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkdJS0NGSjRWNGJCOGRJZTh6ZzFwTXE0UHYyOE9FTERaSHlFVk9MejFHVkRlQWF3Q2NIWjdDcndIa1EwWmhBQTcwcHpaU1ROaTBfMU1OZk9ocVNsNHB4N3JtWEpheHphSHBLNjNfbnBNWlNLa2tJbVdybjRoakZnV0szNHVRQzQ2V0tTV1dGbGk0RE5iNmtxRHVualFPSTJvQk1sZEhxQW16RTFkOHdpNg?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump tells allies to ‘just TAKE’ jet fuel from Iran as US has done ‘the hard part’",
+              "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4510267/trump-tells-allies-take-jet-fuel-iran/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "King Charles and Queen Camilla to visit Washington in April",
+          "neutralSummary": "The United Kingdom’s King Charles III and Queen Camilla are set to travel to Washington in late April to celebrate the relationship between the U.K. and the U.S. amid America’s 250th&#160;birthday this year. Buckingham Palace confirmed the visit Tuesday with Trump confirming shortly after that the r",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "news.google.com",
+              "headline": "King Charles’s state visit to US will be ‘humiliation’ amid Iran war",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDBNNV9FYjBwb2stT3E2OHZqbHZNeGZsQ3lHNGlMUm1LTThOeldCWkp1ZDJLX1h0dWtfdUZpbFJ3ODdpTE9LYy03bUNxUWo5NUp5NW0xS0gtdnVMU3lCeVpBMlBiTDJsNk9ObmRfWERNaUVtOU5oZEVXNkN1R1RreHJ1WVJCVEdUc2ZuZVpzSmVUY1pGZjRKSElCaVA4THZ5S2ZMU1djT3p6N0tJeWwzZ2ZqRl95NXpY?oc=5"
             },
             {
               "political": "center",
@@ -526,8 +367,185 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Trump lifts pause on asylum for some migrants",
-              "url": "https://thehill.com/homenews/administration/5808125-trump-scales-back-asylum-restrictions/"
+              "headline": "King Charles and Queen Camilla to visit Washington in April",
+              "url": "https://thehill.com/homenews/administration/5808653-royal-state-visit-april/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump announces state visit from King Charles and Queen Camilla",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4509204/trump-state-visit-king-charles-queen-camilla/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Live updates: Hegseth, Trump push US allies to help reopen Strait of Hormuz as gas prices hit $4",
+          "neutralSummary": "Defense Secretary Pete Hegseth told reporters on Tuesday morning, in the fifth week of the Iran conflict, that regime change &#8220;has occurred&#8221; in Iran and echoed the president in pushing U.S. allies to help reopen the Strait of Hormuz. President Trump on Tuesday lashed out at allies over th",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Live updates: Hegseth, Trump push US allies to help reopen Strait of Hormuz as gas prices hit $4",
+              "url": "https://thehill.com/homenews/administration/5807651-live-updates-trump-hegseth-iran-supreme-court/"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "politico.com",
+              "headline": "Trump says Strait of Hormuz is the world’s problem: ‘Go get your own oil!’",
+              "url": "https://www.politico.com/news/2026/03/31/trump-strait-of-hormuz-oil-prices-00851611"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Trump tells allies to build up ‘delayed courage,’ and help US take the Strait of Hormuz",
+              "url": "https://nypost.com/2026/03/31/us-news/trump-lashes-out-at-france-and-uk-over-strait-of-hormuz/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Supreme Court rules for Christian counselor in ‘conversion therapy’ ban case",
+          "neutralSummary": "The Supreme Court&#160;sided with a Christian counselor&#160;on Tuesday&#160;in her&#160;free speech&#160;challenge&#160;to&#160;Colorado’s ban on&#160;counselors&#160;attempting&#160;to change a minor’s sexual orientation or gender identity.&#160; Justice&#160;Neil Gorsuch,&#160;writing for the&#16",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Supreme Court rules for Christian counselor in ‘conversion therapy’ ban case",
+              "url": "https://thehill.com/regulation/court-battles/5808840-supreme-court-counselor-conversion-therapy/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Supreme Court sides with Christian counselor, strikes down Colorado ban on conversion therapy",
+              "url": "https://nypost.com/2026/03/31/us-news/supreme-court-sides-with-christian-counselor-strikes-down-colorado-ban-on-conversion-therapy/"
+            },
+            {
+              "political": "right",
+              "tone": "optimistic",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Supreme Court rules against Colorado in First Amendment dispute over ‘conversion therapy’ ban",
+              "url": "https://www.washingtonexaminer.com/news/supreme-court/4424515/supreme-court-rules-against-colorado-conversion-therapy-ban/"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Judge Questions Pentagon's Latest Press Restrictions: 'How Weird Is That?'",
+          "neutralSummary": "&ldquo;Is it 'Catch-22'? Is it Kafka? What&rsquo;s going on?\" the judge asked on Monday.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Judge Questions Pentagon's Latest Press Restrictions: 'How Weird Is That?'",
+              "url": "https://www.huffpost.com/entry/judge-pentagon-press-restrictions_n_69cad5a6e4b09eec10e15903"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "politico.com",
+              "headline": "Judge appears skeptical of Pentagon’s latest press restrictions: ‘Is this a Catch-22?’",
+              "url": "https://www.politico.com/news/2026/03/30/pentagon-press-access-nyt-hearing-00850545"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Hezbollah inspired man who crashed into Michigan synagogue: FBI",
+          "neutralSummary": "A man who crashed his car into a synagogue in Michigan earlier this month was motivated by Hezbollah, FBI special agent in charge Jennifer Runyan said on Monday. Runyan, the head of the bureau’s Detroit field office, told reporters that “based on the evidence gathered to date, we assess this attack",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Michigan Synagogue Attacker Was Inspired By Hezbollah, FBI Says",
+              "url": "https://www.huffpost.com/entry/ap-us-michigan-synagogue-attack_n_69cad811e4b0128a9ef97cf5"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Hezbollah inspired man who crashed into Michigan synagogue: FBI",
+              "url": "https://thehill.com/homenews/state-watch/5808634-hezbollah-inspired-man-synogogue-crash-michigan/"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "US average gas price hits $4 a gallon amid Iran war",
+          "neutralSummary": "US average gas price hits $4 a gallon amid Iran war&nbsp;&nbsp;AxiosAverage Gasoline Price Hits $4 in U.S., a ‘Headache’ for Drivers and Trump&nbsp;&nbsp;The New York TimesGas prices top $4 nationally. Fulton County leads price hike in Georgia&nbsp;&nbsp;USA TodayGas hits $4 a gallon for first time",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Drivers Count Their Pennies as Gas Hits $4 a Gallon Because of War in Iran",
+              "url": "https://www.nytimes.com/2026/03/31/us/gas-prices-iran-war.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Axios",
+              "initials": "AX",
+              "domain": "news.google.com",
+              "headline": "US average gas price hits $4 a gallon amid Iran war",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wQjIxakU3a2RKY21PSVRpV1ZBNWpzOXhzcndJd3Z2OTVrYm9hLXpiNHllV3dXUS1DN0EtckZJT0lYd09IN3dRZ2pQcy13REdzUG9pdmVfNld5WVFCVDRNZm0tZDE?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Latino Republicans in South Texas Turn on Trump Over Birthright Citizenship",
+          "neutralSummary": "Frustrated by the Trump administration’s immigration crackdown, some Latino voters say they also disagree with his plan, now before the Supreme Court, to reject automatic citizenship for children born in the United States to immigrant parents.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Latino Republicans in South Texas Turn on Trump Over Birthright Citizenship",
+              "url": "https://www.nytimes.com/2026/03/31/us/south-texas-latino-republicans-trump-birthright-citizenship.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "politico.com",
+              "headline": "The man behind Donald Trump’s push to end birthright citizenship",
+              "url": "https://www.politico.com/news/2026/03/31/birthright-citizenship-supreme-court-john-eastman-00851127"
             }
           ]
         }
@@ -538,8 +556,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Electricity, gas tariffs to go up from April to June, sharper increases expected later in 2026: EMA",
-          "neutralSummary": "Fuel prices are “expected to remain elevated in the foreseeable future”, the authority said.",
+          "neutralHeadline": "More SIA flights to and from Dubai cancelled amid ongoing Middle East conflict",
+          "neutralSummary": "Budget carrier Scoot's flights between Singapore and Jeddah are also cancelled till April 16.",
           "versions": [
             {
               "political": "center",
@@ -547,8 +565,33 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Electricity, gas tariffs to go up from April to June, sharper increases expected later in 2026: EMA",
-              "url": "https://www.straitstimes.com/singapore/electricity-gas-tariffs-to-go-up-from-april-to-june-sharper-increases-expected-later-in-2026-ema"
+              "headline": "More SIA flights to and from Dubai cancelled amid ongoing Middle East conflict",
+              "url": "https://www.straitstimes.com/singapore/more-sia-flights-to-and-from-dubai-cancelled-amid-ongoing-middle-east-conflict"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Dollar Poised for Best Month Since July Amid War in Middle East",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-31/dollar-wraps-up-best-month-since-2022-amid-war-in-middle-east"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "Singapore’s consumer watchdog issues warning to water filter company AOX over false claims",
+          "neutralSummary": "The company has admitted to committing the violation and agreed to stop using CCS’ logo.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Singapore’s consumer watchdog issues warning to water filter company AOX over false claims",
+              "url": "https://www.straitstimes.com/singapore/spores-consumer-watchdog-issues-warning-to-water-filter-company-aox-over-false-claims"
             },
             {
               "political": "center",
@@ -556,31 +599,15 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Singapore could see 'potentially sharper increases' in electricity, gas tariffs due to Middle East conflict: EMA",
-              "url": "https://www.channelnewsasia.com/singapore/singapore-could-see-potentially-sharper-increases-in-electricity-gas-tariffs-due-middle-east-conflict-ema-6024861"
-            }
-          ]
-        },
-        {
-          "id": "singapore-2",
-          "neutralHeadline": "Police appeal for information on missing 62-year-old man last seen near Queen Street",
-          "neutralSummary": "Mr Nordin Ani, 62, was last seen near Queen Street at about 4.45pm on March 29.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Police appeal for information on missing 62-year-old man last seen near Queen Street",
-              "url": "https://www.straitstimes.com/singapore/police-appeal-for-information-on-missing-62-year-old-man-last-seen-near-queen-street"
+              "headline": "Water filter firm AOX rapped for misusing consumer watchdog’s logo",
+              "url": "https://www.channelnewsasia.com/singapore/water-filter-company-aox-misuse-consumer-watchdog-ccs-logo-misleading-advertising-case-6028061"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Oil slips, stocks rise as report says Trump willing to end war",
-          "neutralSummary": "Oil slips, stocks rise as report says Trump willing to end war",
+          "neutralHeadline": "Myanmar lawmakers put junta chief on path to presidency",
+          "neutralSummary": "Military chief Min Aung Hlaing was elected as one of the three vice presidents who may go on to be chosen as president by parliament.",
           "versions": [
             {
               "political": "center",
@@ -588,40 +615,17 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Oil slips, stocks rise as report says Trump willing to end war",
-              "url": "https://www.channelnewsasia.com/business/asian-stocks-fall-oil-up-trump-threatens-iran-destroy-oil-export-hub-6027116"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Can Malaysia afford to keep subsidising fuel amid energy crunch caused by Iran war?",
-          "neutralSummary": "Continuing entrenched petrol subsidies may undermine Putrajaya’s long-term fiscal health but cutting them could provoke significant backlash against Prime Minister Anwar Ibrahim’s government, say experts.",
-          "versions": [
+              "headline": "Myanmar lawmakers put junta chief on path to presidency",
+              "url": "https://www.channelnewsasia.com/asia/myanmar-lawmakers-junta-chief-min-aung-hlaing-path-presidency-6028141"
+            },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Can Malaysia afford to keep subsidising fuel amid energy crunch caused by Iran war?",
-              "url": "https://www.channelnewsasia.com/asia/malaysia-ron95-fuel-subsidies-anwar-ibrahim-iran-war-6025361"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Myanmar military chief Min Aung Hlaing steps down, eyes presidency",
-          "neutralSummary": "Min Aung Hlaing spent a decade jostling with civilian leaders before mounting a 2021 coup, jailing Nobel Peace Prize laureate Aung San Suu Kyi and triggering a vicious civil war that is still being fought.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Myanmar military chief Min Aung Hlaing steps down, eyes presidency",
-              "url": "https://www.channelnewsasia.com/asia/myanmar-military-junta-chief-min-aung-hlaing-steps-down-eyes-presidency-6025011"
+              "source": "asiaone.com",
+              "initials": "A",
+              "domain": "news.google.com",
+              "headline": "Myanmar military chief Min Aung Hlaing steps down, eyes presidency, Asia News",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0w0V2Nma3NRVmxScFJvS2k5Zlc3YThwWEIwNmF4VERQWXBpV3Y1amtnYU9kV3hVMHB3S2g3aXJMZnB4SVpGa3dfR2pBNmEyT3I5Y3VwZmpralNmR3p5R08yakhTTGx2ZVo5TUQtWEFsXzUxbEtZVXd5Wm1FR3I3dmRKbzFPNWR3ajlwSlhPWTR4UnV4U0ZEenFB?oc=5"
             },
             {
               "political": "left",
@@ -635,50 +639,91 @@
           ]
         },
         {
-          "id": "singapore-6",
-          "neutralHeadline": "Kuwaiti Oil Tanker Is Set Ablaze After Attack Off the Coast of Dubai",
-          "neutralSummary": "Kuwaiti Oil Tanker Is Set Ablaze After Attack Off the Coast of Dubai&nbsp;&nbsp;nytimes.comIran war live: Kuwaiti oil tanker hit in Dubai port; 3 UN troops killed&nbsp;&nbsp;Al JazeeraLive updates: Trump threatens to ‘obliterate’ Iran’s energy sources, as Tehran calls US plan ‘unrealistic’&nbsp;&nbs",
+          "id": "singapore-4",
+          "neutralHeadline": "Oil slips, stocks rise as report says Trump willing to end war",
+          "neutralSummary": "Oil slips, stocks rise as report says Trump willing to end war",
           "versions": [
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "nytimes.com",
-              "initials": "N",
-              "domain": "news.google.com",
-              "headline": "Kuwaiti Oil Tanker Is Set Ablaze After Attack Off the Coast of Dubai",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEk2VjU0Z2o1RzlaNEpHS2FQZS1CQnNlX2xSckxyZ0FsQlBVZG9EdkU5OFZkcjh3UWdBdjdyYkRwdXRPblJiNG1wcmxqVGd4ZVhleWtWT0FGUmZmQ1BpaGpOd04tX2ltYXNDODE5M3FDa3ZaTnF4RG40Y0VmQUdkMFJEc1hMbmZuWV9tSGxn?oc=5"
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Oil slips, stocks rise as report says Trump willing to end war",
+              "url": "https://www.channelnewsasia.com/business/asian-stocks-fall-oil-up-trump-threatens-iran-destroy-oil-export-hub-6027116"
             },
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "optimistic",
               "source": "Bloomberg",
               "initials": "BB",
               "domain": "bloomberg.com",
-              "headline": "Iran War: What Attack on Kuwaiti Tanker Signals",
-              "url": "https://www.bloomberg.com/news/videos/2026-03-31/iran-war-what-attack-on-kuwaiti-tanker-signals-video"
+              "headline": "US Stocks Rally as Trump Signals Willingness to End Iran War",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-31/us-stock-futures-jump-as-trump-signals-desire-to-end-iran-war"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Police appeal for information on missing 44-year-old woman last seen near Ghim Moh",
+          "neutralSummary": "She was last seen near Block 23 Ghim Moh Link at about 6pm on March 19.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Police appeal for information on missing 44-year-old woman last seen near Ghim Moh",
+              "url": "https://www.straitstimes.com/singapore/police-appeal-for-information-on-missing-44-year-old-woman-last-seen-near-ghim-moh"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Microsoft plans over US$1 billion cloud, AI investment in Thailand",
+          "neutralSummary": "\"Our ambition is for Thailand to grow as a regional driving force in Asia's digital and AI economy,\" Thai Prime Minister Anutin Charnvirakul said.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Microsoft plans over US$1 billion cloud, AI investment in Thailand",
+              "url": "https://www.channelnewsasia.com/asia/microsoft-thailand-1-billion-investment-cloud-ai-data-6028496"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "Accused, 28, taken to crime scene for throwing eggs at police cars on three occasions",
-          "neutralSummary": "He made at least 18 prank calls to police and allegedly pelted their cars with eggs.",
+          "neutralHeadline": "Eurovision launching Asia edition, grand final to take place in Bangkok in November",
+          "neutralSummary": "So far, broadcasters from 10 countries across Asia have confirmed their participation.&nbsp;",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Accused, 28, taken to crime scene for throwing eggs at police cars on three occasions",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/accused-28-taken-to-crime-scene-for-throwing-eggs-at-police-cars-on-three-occasions"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Eurovision launching Asia edition, grand final to take place in Bangkok in November",
+              "url": "https://www.channelnewsasia.com/entertainment/eurovision-asia-2026-final-in-bangkok-6027051"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Eurovision Song Contest launches first-ever Asia edition",
+              "url": "https://www.bbc.com/news/articles/cx2rwq53zxyo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Singapore studying restrictions on direct messaging, auto-play on social media",
-          "neutralSummary": "The government is in talks with major social media platforms on the necessary safety enhancements.",
+          "neutralHeadline": "New decals at coffee shops encourage diners to maintain cleanliness",
+          "neutralSummary": "Motion-activated jingles in toilets will also be piloted to remind users to practise good hygiene.",
           "versions": [
             {
               "political": "center",
@@ -686,15 +731,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Singapore studying restrictions on direct messaging, auto-play on social media",
-              "url": "https://www.straitstimes.com/singapore/singapore-studying-restrictions-on-direct-messaging-auto-play-on-social-media"
+              "headline": "New decals at coffee shops encourage diners to maintain cleanliness",
+              "url": "https://www.straitstimes.com/singapore/new-decals-at-coffee-shops-encourage-diners-to-upkeep-cleanliness"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "TikTok, X issued letters after failing to detect and remove child sexual abuse, terrorism content: IMDA",
-          "neutralSummary": "Six social media platforms were assessed on how well they protect users from harmful content.",
+          "neutralHeadline": "1 in 5 people in S’pore volunteered in 2025, those with social ties did so more often: Study",
+          "neutralSummary": "People volunteered for a median of seven hours and donated a median amount of $120.",
           "versions": [
             {
               "political": "center",
@@ -702,8 +747,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "TikTok, X issued letters after failing to detect and remove child sexual abuse, terrorism content: IMDA",
-              "url": "https://www.straitstimes.com/singapore/tiktok-x-issued-letters-after-failing-to-detect-and-remove-child-sexual-abuse-terrorism-content-imda"
+              "headline": "1 in 5 people in S’pore volunteered in 2025, those with social ties did so more often: Study",
+              "url": "https://www.straitstimes.com/singapore/community/1-in-5-people-in-spore-volunteered-in-2025-those-with-social-ties-did-so-more-often-study"
             }
           ]
         }
@@ -714,8 +759,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Kuwaiti oil tanker ablaze in Dubai after Iranian attack",
-          "neutralSummary": "Kuwaiti oil tanker ablaze in Dubai after Iranian attack",
+          "neutralHeadline": "Next days in Middle East will be ‘decisive’: Hegseth",
+          "neutralSummary": "Next days in Middle East will be ‘decisive’: Hegseth",
           "versions": [
             {
               "political": "left",
@@ -723,8 +768,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Fully Loaded Kuwaiti Oil Tanker Damaged In Iranian Strike Near Dubai",
-              "url": "https://www.ndtv.com/world-news/fully-loaded-kuwaiti-oil-tanker-damaged-in-iranian-strike-near-dubai-middle-east-conflict-11289174#publisher=newsstand"
+              "headline": "\"Next Few Days In Iran War Will Be Decisive,\" Pete Hegseth Warns Tehran",
+              "url": "https://www.ndtv.com/world-news/next-few-days-in-iran-war-will-be-decisive-pete-hegseth-warns-tehran-11291686#publisher=newsstand"
             },
             {
               "political": "center",
@@ -732,24 +777,15 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Kuwaiti oil tanker ablaze in Dubai after Iranian attack",
-              "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/kuwaiti-loaded-oil-tanker-ablaze-in-dubai-port-after-iranian-attack/articleshow/129913855.cms"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Giant oil tanker off Dubai hit by Iranian strike, Trump threatens to obliterate Iran energy, oil plants",
-              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeTZaSk9nelRiZUdKVzVicVE0TTV5RDN6YWwxZ1pLckI5WU5pU1R5OE81OW5jM3QxUFpuVW1kN1ZCal83VXJBZGZScWlZSFhkUVIwVFRyUHA0bkZxOHBrU0xHX0F0d3ZwQWlIM3ZYZk1KcWtVd1dMN1ZtcUJDNkY0OW1taVN5VWc3TmVyNVBuczItZHBzRmJacHZlSkJOOFZwUDgtVmZsUy16RmIzYzFyMkR4OFV6VVFDRHRYRlBiUV9iWWthS3JYckFsVzk?oc=5"
+              "headline": "Next days in Middle East will be ‘decisive’: Hegseth",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/pete-hegseth-iran-middle-east-conflict-updates-defense-briefing/articleshow/129925710.cms"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Trump shares video of massive explosions in Iran's Isfahan; bunker-busters used?",
-          "neutralSummary": "US President Donald Trump intensified his rhetoric on the military campaign against Iran, sharing a striking image of Isfahan ablaze following Operation Epic Fury. American forces reportedly used powerful bunker-buster bombs on a large ammunition depot in the city, which also houses facilities linke",
+          "neutralHeadline": "Vir Vikram Yadav appointed new DGCA chief, Faiz Ahmed Kidwai moves to DoPT",
+          "neutralSummary": "Faiz Ahmed Kidwai, a 1996 batch IAS officer of Madhya Pradesh cadre, has been appointed as additional secretary in the department of personnel and training",
           "versions": [
             {
               "political": "left",
@@ -757,33 +793,24 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Massive Blasts In Iran's Isfahan After US-Israeli Strikes, Trump Shares Video",
-              "url": "https://www.ndtv.com/world-news/iran-war-news-massive-blasts-in-irans-isfahan-after-us-israeli-strikes-trump-shares-video-11289048#publisher=newsstand"
+              "headline": "Senior Bureaucrat Vir Vikram Yadav Appointed New Aviation Body Chief",
+              "url": "https://www.ndtv.com/india-news/senior-bureaucrat-vir-vikram-yadav-appointed-new-aviation-body-dgca-chief-11291758#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Trump shares video of massive explosions in Iran's Isfahan; bunker-busters used?",
-              "url": "https://timesofindia.indiatimes.com/world/middle-east/trump-shares-video-of-massive-explosions-in-irans-isfahan-following-us-israeli-strikes-bunker-busters-used/articleshow/129914709.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "timesofindia.indiatimes.com",
-              "initials": "T",
-              "domain": "news.google.com",
-              "headline": "Trump shares video of massive explosions in Iran's Isfahan following US-Israeli strikes; bunker-busters u",
-              "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPWTQxbVE1Q29OUHpRM3hrVUxJWV9SRU8wc0Rka2ExelBqZ0ZPQkZ1Wk11YVhickpNX2xSa0ZoT1pwdWxyY0hNSmx3b0xZUGUwNVNQcEpkUEZNSW1iS2IyZEZUN3A5WXl0TGxQaU0yU0FqSlo2T2xkNXFoeGZqeVJVOW91RlNpelQxMngwcTVnb3hDYjhvekdVV2NUcTEtdGhiOV9TdmlILUV1YkZsbUlkdXN6YzVmSEI4c1h2Z3l5NTBGWXhTOUpWOHlYLU9NUzJkRGZkLWxRWlp5TS1UclJCb052Z2xETEZRc0xabjBpQ1hOQUVoeTB0dUpndl9jdnliX3RFU2xpVTlkRW50SGlpOVpQenk?oc=5"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Vir Vikram Yadav appointed new DGCA chief, Faiz Ahmed Kidwai moves to DoPT",
+              "url": "https://www.hindustantimes.com/india-news/vir-vikram-yadav-appointed-new-dgca-chief-faiz-ahmed-kidwai-moves-to-dopt-101774958074901.html"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Pro-Jaish social sites circulate Masood’s elder brother’s death news",
-          "neutralSummary": "Pro-Jaish social sites circulate Masood’s elder brother’s death news",
+          "neutralHeadline": "\"Go Get Your Own Oil\": Trump's Message To UK, Other Countries On Hormuz Strait",
+          "neutralSummary": "Trump issues statement as Iran maintains chokehold on Hormuz Strait",
           "versions": [
             {
               "political": "left",
@@ -791,108 +818,40 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Jaish Chief Masood Azhar's Brother Dies In Pakistan. Cause Of Death Unknown",
-              "url": "https://www.ndtv.com/world-news/mohammad-tahir-anwar-jaish-e-mohammed-chief-masood-azhars-brother-dies-in-pakistan-cause-of-death-unknown-11289129#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Pro-Jaish social sites circulate Masood’s elder brother’s death news",
-              "url": "https://timesofindia.indiatimes.com/india/pro-jaish-social-sites-circulate-masoods-elder-bros-death-news/articleshow/129911179.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Today",
-              "initials": "TD",
-              "domain": "news.google.com",
-              "headline": "Jaish chief Masood Azhar's brother dies under mysterious circumstances in Pakistan",
-              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOEtiek5pZHpCR0pkTEtFRDFhSmoxQWJ5dzN3UXVsUzlUa3dIM2xPZ21pNVNydWJSd05oQk9mSmlwMnFpME9sY2MyelRMT2kzbWYySDlWUXJWdW5fMnFMelpHQkhXZ1NKTTJuZzR3RklNcG5qTEp6S3FWc1QxTlU2YU53NDJNWDVsdHh1V3dZTl9IaW9yUlpwakJhUVpTVElWSHlVTVZISXZLLVV1b2pHeFhsQ1pIRG5nTFdrOUV2M3RETTdlTFl30gHMAUFVX3lxTE5yekxsaG5VaEpNV20tNUZCa1FIeHNmQkZWX1IzVU50dHp3bXhwd0xkaExNVjVWcjFWSWxxcUZwd1Nud29MWS13RXhhODBwUHdHeTctemhvRlN6eF9LWnZNZGtLTGlIclNrNmhtSUs5MUdtZHQzZndWV1U0c2QtQWhUWk5yYmVnMWg0cEtMR1FQeHFJbnZvajNnS0xhVFVoOHZPM2xPMzVrRXZlQUxNYlBEZHJHUWZiVWo3RUgwbnRqamYzWlBOenVBSTMyMQ?oc=5"
+              "headline": "\"Go Get Your Own Oil\": Trump's Message To UK, Other Countries On Hormuz Strait",
+              "url": "https://www.ndtv.com/world-news/go-get-your-own-oil-trumps-message-to-uk-other-countries-on-hormuz-strait-11291279#publisher=newsstand"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "US Israel Iran War LIVE: Trump Escalates Threats, Vows Wider Attacks On Iran If War Drags On",
-          "neutralSummary": "US Israel Iran War News LIVE Updates: The United States and Israel continue to strike Iran, whose retaliatory attacks have targeted Israel and neighboring Gulf Arab states. More than 3,000 people have been killed.",
+          "neutralHeadline": "UK King Charles to tour US from April 27-30th for 1st time as Monarch",
+          "neutralSummary": "In a monumental move, King Charles III and Queen Camilla are gearing up for a state visit to the United States this April, a trip that coincides with the nation's 250th anniversary of independence. Amid rising tensions related to the Iran conflict and prevailing political discord, the royal couple a",
           "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "US Israel Iran War LIVE: Trump Escalates Threats, Vows Wider Attacks On Iran If War Drags On",
-              "url": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-pakistan-to-hold-regional-meeting-on-ending-iran-war-middle-east-conflict-saudi-arabia-turkey-egypt-strait-of-hormuz-11281097#publisher=newsstand"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Iran-Israel war LIVE updates: Trump willing to end war 'even if Strait of Hormuz remains largely closed', report says",
-              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3hUNUhlMkJoS2JkTUNmcWk1dmlZbklVSkdoSVhtU1NYN0N6NUJnamk1NnVWNnM4aVlhN2RDRlN5S0NpYVN3ZGp3WVNSUnhhM3lCaXotcVJraGtmcWNoUmYzZU85dWNVelRzNG81cy1kZVF2OGlwY3lrY2xGZ0tXZzAzckNKS0x0RnV5MVg4aFlNdzduTGJVWjk0OTBGekptQ1czRXl6NERLYjMtSHfSAbQBQVVfeXFMTXNhVXk3MGFMNVRVUWxXY1VORUdQUFFjcGd2VTRnQ3BFQi1sdFFLUjZFU0dMWEx2czNTTng4eDhMblpiWXZjcVYzcWZ1UlNsVm8zdDZrX3lBNFFubURodExSY3dYa2lVV1ppVFNDS09zSmQ0elZvRENnQmVTbDVFX1lVNVJ4STBjNzNsVXRxcHZkN29QRUxsM19WMmF5RzhfUlFXRDVYWEd1N0x3U0M0dkt0Szlj?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Trump To Call On Arab Nations To Pay For Iran War? What White House Said",
-          "neutralSummary": "US President Donald Trump",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Trump To Call On Arab Nations To Pay For Iran War? What White House Said",
-              "url": "https://www.ndtv.com/world-news/president-donald-trumpto-call-on-arab-nations-to-pay-for-iran-war-what-white-house-press-secretary-karoline-leavitt-said-middle-east-conflict-11288872#publisher=newsstand"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "Indian Express",
               "initials": "IE",
               "domain": "indianexpress.com",
-              "headline": "Trump interested in calling on Arab states to help pay for Iran war; here’s what White House says",
-              "url": "https://indianexpress.com/article/world/us-news/trump-arab-states-pay-for-iran-war-white-house-funding-10610635/"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "‘Kalkaji temple among targets’: LeT man’s arrest exposes Kolkata base for Delhi attacks",
-          "neutralSummary": "Delhi Police arrested Lashkar-e-Taiba commander Shabbir Ahmed Lone, a 'most wanted' operative, after a month-long operation. Lone, who allegedly ran a cross-border terror network from Bangladesh on ISI's directions, was instrumental in radicalizing youth for terror attacks. His arrest effectively di",
-          "versions": [
+              "headline": "King Charles III will undertake state visit to the US and Bermuda in April",
+              "url": "https://indianexpress.com/article/world/king-charles-iii-first-us-state-visit-trump-starmer-iran-war-10611926/"
+            },
             {
               "political": "center",
               "tone": "pessimistic",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "‘Kalkaji temple among targets’: LeT man’s arrest exposes Kolkata base for Delhi attacks",
-              "url": "https://timesofindia.indiatimes.com/city/delhi/let-commander-shabbir-ahmed-lone-arrested/articleshow/129909943.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "timesofindia.indiatimes.com",
-              "initials": "T",
-              "domain": "news.google.com",
-              "headline": "‘Kalkaji Temple among targets’: Shabbir Ahmed Lone’s arrest exposes LeT’s Kolkata base, anti-India poster",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVVjVHc1Qlhad0xqM0VmeFRhNC1aU0dSY2oyb3d4ZXRvdG5xRk1ONW5KczJTa08xeUxGRm5XS0hsa1VRUG9YZFd3VEltcnVQUE1lamNBa2NaYWxfdjB1b0lsNllrd2l5YXo0Y2llSERvb2U0VGRYbHhDWHp0OVN4V2dQYlJhNXk5RGhPTklLQmpLQ1JpWUk3MUVuVFh2V0lWWlJfLXZubmwxVzVjOG1RZUlvQUw?oc=5"
+              "headline": "UK King Charles to tour US from April 27-30th for 1st time as Monarch",
+              "url": "https://timesofindia.indiatimes.com/world/uk/historic-state-visit-king-charles-iii-to-tour-us-from-april-27-30th-for-1st-time-as-monarch-confirms-trump/articleshow/129927965.cms"
             }
           ]
         },
         {
-          "id": "india-7",
-          "neutralHeadline": "'Deeply emotional': Leaders lament Nitish Kumar’s exit from Bihar Legislative Council after Rajya Sabha election",
-          "neutralSummary": "To be sure, Nitish Kumar didn’t resign from his position as chief minister. The 75-year-old can remain Bihar chief minister for another six months.",
+          "id": "india-5",
+          "neutralHeadline": "New income tax law to take effect from April 1: Key changes and what you need to know",
+          "neutralSummary": "While tax slabs and rates remain unchanged, the new act significantly changes how income, deductions, and disclosures are reported and verified",
           "versions": [
             {
               "political": "center",
@@ -900,24 +859,65 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "'Deeply emotional': Leaders lament Nitish Kumar’s exit from Bihar Legislative Council after Rajya Sabha election",
-              "url": "https://www.hindustantimes.com/india-news/deeply-emotional-leaders-lament-nitish-kumar-s-exit-from-bihar-legislative-council-after-rajya-sabha-election-101774920308301.html"
+              "headline": "New income tax law to take effect from April 1: Key changes and what you need to know",
+              "url": "https://www.hindustantimes.com/india-news/income-tax-changes-2026-from-april-1-know-about-the-new-rules-hra-education-allowance-itr-returns-101774955446287.html"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Deccan Herald",
-              "initials": "DH",
+              "source": "Times of India",
+              "initials": "TOI",
               "domain": "news.google.com",
-              "headline": "Bihar News: Nitish Kumar Resigns as MLC to Join Rajya Sabha",
-              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0JEZVpsNjdYUHpaTWlUZDQyUVhmaVFkOVliakIyY3VPT1FrVzBUaTJoTXV0UE5iOEwyM2tIX0dhd0l2aXRfVEFuc19lQXdNNmhHdjg3YXEybTR0QXhtVWl4ZGFsS1gzeTlPQVdDckhKSFFIaWs1LVEwY3hqYlQ4OHhMdjdUVllFNkZtV1RjLTk1ZXpwcXZOQU5XaG9mUGtramZFSlVFVDl0TlQzOGVkQU1tSTVBNEhQdXlLajN3Zw?oc=5"
+              "headline": "Your income tax changes from April 1, 2026! Top 10 things salaried taxpayers should know about new rules & tax regime choice",
+              "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQLVM2UWczNzFybFAxcGpNQXMwWGtCLXYzc3hrc0lTdDZqbW16SjItTkxhejFiaVlLM05mcHMtbXlDazhLVmI4S0Y1SzN3cXIxVmNZbXdyYjNmck1GeXBjaGNCSjBfUTJVS3p3VklHNmxpN05JSnVYM2ZsbV9JcllZekY2X1cwQUI1UmNTZDZsNG9PenM5SUtyNDBYQlRtVEplajZrMlpUODk3VXlaYlg1bGFqVUk3WFNrdDVCVDdROGlVeDJ1b29peDNXMnBQTHI0bWdjYUVJSUxjaDN5MFRHdG9NZjZ4eWlDRm03Y2JnNHloWXJLU1o1YmJJOHRzUUFwdWRVWnFCYXlOVTF1S0VDbmpkOXFwN2tzWHBHTVQxazZCYjlLb0wyYUFPMmlacUFEZndNNmZuOWxfeVV0MVhBV2V3dVR6MVN4QUE?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Another Greek Oil Tanker Exits Hormuz Despite Iran’s Blockade",
+          "neutralSummary": "Another Greek-controlled oil tanker has crossed the Strait of Hormuz, marking the fourth such voyage since hostilities in the Middle East began.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Russian tanker heads to Cuba despite U.S. oil blockade",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnRONVYwOU15a0JyVm13QXhaVC1TdWtzc0w5eWVraHV0dFJLV050WlJNdFZFUFBBYlZKZU5WQ0NOUGI5YzE2d1pKaGZWcXVtQXBKUF82ZXVKakVDWmxKa1BDdFZvd2RqdVFBam1lenhXR2R2eF9HaGpya0JMalQwc2JBU1ZfMl9VLWdfNnFNdTM3VWNZaDhwb0h2c2puQkY3YVZLMms0Vkd6QWR4eElhbzZaNzRIQWfSAb4BQVVfeXFMUGo5eWo5dkhJaGFlWC1nMHZUb0Fva08xUE5vSWpkRVc1ZXJYVVpVbUc0LXdraUJDUzVzbW5yaWI1cFN6Q0FHcW01ME9NSk1iVUUtUXVvTlpZZzJoUnVwNWRhM1lPcFhTR25VTDVEQjlTTmtaMHRYVFdWU1FDcGJCczlUSFVPVm1jdTEzNXhQNnlId1NUOUxLS3JhdnlkZjRzTWV0eXplZ2tjeXBFSmVHVnRLVWh2eC1LMWdIRTl5UQ?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Another Greek Oil Tanker Exits Hormuz Despite Iran’s Blockade",
+              "url": "https://www.bloomberg.com/news/articles/2026-03-31/another-greek-oil-tanker-exits-hormuz-despite-iran-s-blockade"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "The Intra-Party Feud That Could Cost BJP Western Uttar Pradesh In 2027",
+          "neutralSummary": "The Intra-Party Feud That Could Cost BJP Western Uttar Pradesh In 2027",
+          "versions": [
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "The Intra-Party Feud That Could Cost BJP Western Uttar Pradesh In 2027",
+              "url": "https://swarajyamag.com/newsletters/the-intra-party-feud-that-could-cost-bjp-western-uttar-pradesh-in-2027-3"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Kerala Assembly Elections 2026: Jamaat-e-Islami Hind, Welfare Party of India at the centre of political storms",
-          "neutralSummary": "Kerala Assembly Elections 2026: Jamaat-e-Islami Hind, Welfare Party of India at the centre of political storms",
+          "neutralHeadline": "Kerala Assembly Elections 2026: 235 social media posts flagged for election code violations in Kollam",
+          "neutralSummary": "According to the District Collector, official notices have already been issued to the political parties and candidates responsible for these unauthorised digital expressions",
           "versions": [
             {
               "political": "left",
@@ -925,15 +925,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Kerala Assembly Elections 2026: Jamaat-e-Islami Hind, Welfare Party of India at the centre of political storms",
-              "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-jamaat-e-islami-hind-welfare-party-of-india-at-the-centre-of-political-storms/article70803584.ece"
+              "headline": "Kerala Assembly Elections 2026: 235 social media posts flagged for election code violations in Kollam",
+              "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-235-social-media-posts-flagged-for-election-code-violations-in-kollam/article70807656.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "High Court rules against MSRTC over driver’s dismissal based on media reports",
-          "neutralSummary": "Court holds corporation’s action violated service rules; orders reinstatement with 50% back wages",
+          "neutralHeadline": "Hassan DC visits Maragunda, interacts with local people",
+          "neutralSummary": "Hassan DC visits Maragunda, interacts with local people",
           "versions": [
             {
               "political": "left",
@@ -941,8 +941,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "High Court rules against MSRTC over driver’s dismissal based on media reports",
-              "url": "https://www.thehindu.com/news/national/maharashtra/high-court-rules-against-msrtc-over-drivers-dismissal-based-on-media-reports/article70804255.ece"
+              "headline": "Hassan DC visits Maragunda, interacts with local people",
+              "url": "https://www.thehindu.com/news/national/karnataka/hassan-dc-visits-maragunda-interacts-with-local-people/article70807410.ece"
             }
           ]
         }
