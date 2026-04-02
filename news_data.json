@@ -1,13 +1,140 @@
 {
-  "generatedAt": "2026-04-01T14:43:17.579651+00:00",
+  "generatedAt": "2026-04-02T04:19:14.629290+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "#Israel: Champagne in the Knesset as #death penalty law for #Palestinians passes",
-          "neutralSummary": "Far-right lawmakers in Israel’s Knesset were seen cheering and celebrating with champagne on Monday after a law was passed that would allow the execution by hanging of Palestinians convicted on terror charges for deadly attacks. The law has triggered widespread condemnation from rights groups and wa",
+          "neutralHeadline": "Trump makes his case for war with Iran, saying the conflict is 'nearing completion'",
+          "neutralSummary": "Trump used a prime-time address to outline his objectives for the war and discuss the military's progress to date. He also repeated an earlier claim that fighting could end in two to three weeks.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump makes his case for war with Iran, saying the conflict is 'nearing completion'",
+              "url": "https://www.npr.org/2026/04/01/nx-s1-5770093/trump-address-iran-war"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Iran war live: Trump claims goals nearing completion, vows to ‘finish job’",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire?traffic_source=rss"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Trump makes case to nation — taking out Iran is ‘investment in your children and your grandchildren’s future’",
+              "url": "https://nypost.com/2026/04/01/us-news/trump-announces-iran-will-be-hit-extremely-hard-over-the-next-2-3-weeks/"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Trump to deliver 'important update' on Iran war in televised speech",
+          "neutralSummary": "Donald Trump will give an “important update” on the Iran war in a prime-time televised address to the American nation on Wednesday evening, which is expected to reiterate the president's timeline for rolling back US military operations in the region.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Israel strikes Lebanon as Trump is set to deliver a speech on the Iran war",
+              "url": "https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Trump to deliver 'important update' on Iran war in televised speech",
+              "url": "https://www.france24.com/en/americas/20260401-trump-to-deliver-important-update-on-iran-war-in-televised-speech"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "In Full: Trump's Speech on Iran War",
+              "url": "https://www.bloomberg.com/news/videos/2026-04-02/in-full-trump-s-speech-on-iran-war-video"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Artemis II launches historic flyby lunar mission with diverse crew",
+          "neutralSummary": "Four astronauts – three Americans and one Canadian – blasted off Wednesday on NASA’s Artemis II, humanity’s first lunar flight in over 50 years. The 32-storey rocket soared from Kennedy Space Center, marking the start of a decade-long plan for sustainable Moon exploration and a future landing near t",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "NASA successfully launches historic Artemis II moon mission",
+              "url": "https://www.aljazeera.com/news/2026/4/1/nasas-artemis-ii-lifts-off-to-the-moon?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Artemis II launches historic flyby lunar mission with diverse crew",
+              "url": "https://www.france24.com/en/technology/20260401-artemis-2-set-for-historic-crewed-return-around-moon"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Artemis II to Return to Moon in Big Bet on NASA's Future",
+              "url": "https://www.bloomberg.com/news/videos/2026-04-02/artemis-ii-to-return-to-moon-in-big-bet-on-nasa-s-future-video"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
+          "neutralSummary": "Quake with epicentre west-north-west of Ternate island shakes cities and prompts regional tsunami warningOne person has been killed after a 7.4-magnitude earthquake that struck off Indonesia’s Ternate island, damaging buildings and triggering small tsunami waves.The quake, which had a depth of 35km,",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
+              "url": "https://www.theguardian.com/world/2026/apr/02/magnitude-78-earthquake-strikes-in-indonesia-sparking-tsunami-alert"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
+              "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Israel Passes Widely Condemned Death Penalty Law For Palestinian Prisoners",
+          "neutralSummary": "Rights groups have described the far-right measure as discriminatory, inhumane and contradictory of international conventions.",
           "versions": [
             {
               "political": "left",
@@ -24,235 +151,65 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "West Bank strikes over Palestinian-only death penalty",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/west-bank-strikes-over-palestinian-only-death-penalty?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "#Israel: Champagne in the Knesset as #death penalty law for #Palestinians passes",
-              "url": "https://www.france24.com/en/video/20260401-israel-champagne-in-the-knesset-as-death-penalty-law-for-palestinians-passes"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Russian military plane crashes in Crimea, killing 29 people",
-          "neutralSummary": "Russian military plane crashes in Crimea, killing 29 people&nbsp;&nbsp;CBS NewsAt least 29 dead after Russian military plane crashes in Crimea&nbsp;&nbsp;The GuardianRussian military plane crash kills 29 in occupied Crimea&nbsp;&nbsp;BBCRussian military transport plane crashes in Crimea, killing 29,",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Russian military plane crash kills 29 in occupied Crimea",
-              "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Russian military plane crashes in Crimea, killing 29 people",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pRmVkNkdZLWgzLTJaX3BfYTNEbkhmMzQ0c0NYczZQZk43d1pYZjBPdlVEa0Y2YUhzS0dUZU5GRUhsUkM5eGdpU21GODZjUEhnMmRLOXJ4QlZhdURqRTFMeEswNkFTQ1ZieFVHVG83Q1JkeGVLdW9sUjEya0dNWmvSAYQBQVVfeXFMTWNGbDluekdoZC1OOUFHakplQlpYdmFGMjJjb0VwQW5CN3c5cVh5VG1vdlJiMjBFcnpGWDgtamRiT1pvWkowTGk1alFGQlZNSWFINTY2TDZZWDc4YjlLdjFOOUUzaEpVNzVvX3JuSlRYanlwQXhOR2ozMnAtYzBnYWdMdVFa?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Russian military plane crash in Crimea kills 29 people",
-              "url": "https://www.foxnews.com/world/russian-military-plane-crash-crimea-kills-29-people"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "US journalist Shelly Kittleson kidnapped in Iraq",
-          "neutralSummary": "As a freelance journalist, Shelly #Kittleson has extensively covered #Syria and #Iraq. She was abducted in the heart of #Baghdad, with the kidnappers thought to be #Iran-backed militia Kataeb Hezbollah.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "US journalist Shelly Kittleson kidnapped in Baghdad",
-              "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "American journalist Shelly Kittleson kidnapped in Baghdad",
-              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS3p3TllLUWtycEw1bUs0YzBxcXdVUlJuNnBoZkhwWlhfdUlKOXJDMzVfQUhxQ0RYX0F3V09tN1ZpNWUycTBGb2R4aUlvYjQyZXlLTHhZRV84YU9OcEdtOWlWXzFkTEtJRzhKN2ZHOEZUV0I4VnpHcjVJZTc5ZFVLQVBycjVEY1Q4S0Q2QTlGMFVON29RSUR3R1pR?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "US journalist Shelly Kittleson kidnapped in Iraq",
-              "url": "https://www.france24.com/en/video/20260401-us-journalist-shelly-kittleson-kidnapped-in-iraq"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Trump to address nation on Iran war. And, SCOTUS considers birthright citizenship",
-          "neutralSummary": "Trump is set to address the nation after saying the U.S. will withdraw from Iran in 2-3 weeks. And, the president will be at the Supreme Court today as arguments on birthright citizenship begin.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump to address nation on Iran war. And, SCOTUS considers birthright citizenship",
-              "url": "https://www.npr.org/2026/04/01/g-s1-116034/up-first-newsletter-iran-war-strait-of-hormuz-birthright-citizenship-white-house-ballroom-npr-pbs"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "Markets rally, oil prices fall as Trump prepares to address nation on Iran war",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalhvekptbU9yUU82cnd6VjgyVmt1Tjd4VFkxQ2JBb2h0UjlHT21yMkQ5RnpnNS1zQVZhVmVxVTd3elhrNjZOeGFVaXB4X1NsakI1cmp0SXZuWVU5UGdHMThYc0pZVHFjYm5penRCTFR4eDQ3LVpVT3ZobzQ3OTlCcjZ5aw?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Trump says he’ll go to the Supreme Court on Wednesday for birthright citizenship case",
-              "url": "https://nypost.com/2026/04/01/us-news/trump-says-hell-go-to-the-supreme-court-on-wednesday-for-birthright-citizenship-case/"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Gulf allies privately make the case to Trump to keep fighting Iran",
-          "neutralSummary": "Gulf allies of the United States, led by Saudi Arabia and the United Arab Emirates, are urging President Donald Trump to continue prosecuting the war against Iran, arguing that Tehran hasn't been weakened enough by the monthlong US-led bombing campaign, according to US, Gulf and Israeli officials.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "How are NATO allies pushing back against Trump’s Iran war demands?",
-              "url": "https://www.aljazeera.com/news/2026/4/1/how-are-nato-allies-pushing-back-against-trumps-iran-war-demands?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Gulf allies privately make the case to Trump to keep fighting Iran",
-              "url": "https://www.france24.com/en/video/20260401-gulf-allies-privately-make-the-case-to-trump-to-keep-fighting-iran"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "More key US allies block military flights as Iran war rift widens with Trump",
-              "url": "https://www.foxnews.com/world/more-key-us-allies-block-military-flights-iran-war-rift-widens-trump"
+              "headline": "What are the consequences of Israel’s death penalty law for Palestinians?",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/4/1/what-are-the-consequences-of-israels-death-penalty-law-for-palestinians?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "Japan allows divorced couples to negotiate joint custody of children for first time",
-          "neutralSummary": "The new rules are the first major change to the country’s laws governing child-rearing in more than a centuryDivorced couples in Japan will be able to negotiate joint custody of their children from Wednesday, in the first major change to the country’s laws governing child-rearing in more than a cent",
+          "neutralHeadline": "Watch the moment Artemis II blasts into space",
+          "neutralSummary": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Japan allows divorced couples to negotiate joint custody of children for first time",
-              "url": "https://www.theguardian.com/world/2026/apr/01/japan-allows-divorced-couples-to-negotiate-joint-custody-of-children-for-first-time"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Divorced couples in Japan can now share custody of their children",
-              "url": "https://www.bbc.com/news/articles/c77m16n6dm0o?at_medium=RSS&at_campaign=rss"
+              "headline": "Watch the moment Artemis II blasts into space",
+              "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Watch the moment Artemis II launches historic mission around the moon",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/artemis-ii-successfully-launches-four-astronauts-into-space?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-7",
-          "neutralHeadline": "Israel to ‘demolish’ all houses in Lebanese border villages",
-          "neutralSummary": "Israel to ‘demolish’ all houses in Lebanese border villages&nbsp;&nbsp;Financial TimesIsrael says it will keep control over part of southern Lebanon after war with Hezbollah ends&nbsp;&nbsp;BBCIsrael kills 7 people in Beirut, Hezbollah fights invasion in south Lebanon&nbsp;&nbsp;Al JazeeraAs Lebanon",
+          "neutralHeadline": "Trump attends birthright citizenship hearing at Supreme Court in historic first",
+          "neutralSummary": "In a historic first, Donald Trump became the first US sitting president to attend oral arguments at the Supreme Court on Wednesday as it weighed his bid to restrict birthright citizenship. During more than two hours of questioning, justices from across the ideological spectrum assessed the policy’s",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Israel To Destroy 'All Houses' Near Lebanon Border, Defence Minister Says",
-              "url": "https://www.huffpost.com/entry/israel-lebanon-border-destruction_n_69cbf783e4b039d10fc73eea"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "US Supreme Court appears sceptical of US birthright citizenship challenge",
+              "url": "https://www.bbc.com/news/articles/cje47jk49k0o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Financial Times",
-              "initials": "FT",
-              "domain": "news.google.com",
-              "headline": "Israel to ‘demolish’ all houses in Lebanese border villages",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1B0SkpkTjNPVjVsSGZjb01rbEVYbXJqOUhlWmxGS2NZWENaUTRsMElyalo5ekRsOHZnaDNtakU2TjF4Wjlxa0U4cG9nS3FMdlF6cEJ0OTE0UGlpMThqejlzd2lOMEo4X1I4V3Rkd0xEYkpMNTBWRm95S0I3RHBVSWVhTUU?oc=5"
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Trump attends birthright citizenship hearing at Supreme Court in historic first",
+              "url": "https://www.france24.com/en/americas/20260401-trump-attends-birthright-citizenship-hearing-at-supreme-court-in-historic-first"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Trump Blinks As Russia Defies U.S. Blockade, Delivers Oil To Cuba",
-          "neutralSummary": "Asked about Trump&rsquo;s decision to allow the Russian oil tanker and not ones from other nations, White House press secretary Karoline Leavitt called it \"a decision that will continue to be made on a case-by-case basis.&rdquo;",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Blinks As Russia Defies U.S. Blockade, Delivers Oil To Cuba",
-              "url": "https://www.huffpost.com/entry/ap-cb-cuba-us-russia-oil_n_69cacd49e4b09eec10e13b24"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "US allows Russian oil tanker to reach Cuba amid blockade as Trump says island ‘has to survive’",
-              "url": "https://www.foxnews.com/world/us-allows-russian-oil-tanker-cuba-blockade-trump-survive"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Trump says the US could end the Iran war in two to three weeks",
-          "neutralSummary": "President Donald ​Trump said the United States could end its military attacks on Iran within two to three weeks and Tehran did not have to make a deal as a prerequisite for the conflict to wind down. The remarks underscored the shifting and at times contradictory statements from Washington about how",
+          "neutralHeadline": "Is the U.S. Navy ready to clear sea mines in the Persian Gulf?",
+          "neutralSummary": "Despite the danger of sea mines, experts say that mine clearing has received minimal attention and funding from the U.S. Navy — and it's often overshadowed by more high-profile weapons systems.",
           "versions": [
             {
               "political": "left",
@@ -260,17 +217,24 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Trump to address nation after saying U.S. may leave war within weeks",
-              "url": "https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump"
-            },
+              "headline": "Is the U.S. Navy ready to clear sea mines in the Persian Gulf?",
+              "url": "https://www.npr.org/2026/04/01/nx-s1-5766222/mines-persian-gulf-strait-navy-lcs"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "After Israel's invasion, many in southern Lebanon worry they'll never go home",
+          "neutralSummary": "Israel says it's creating a \"security zone\" inside Lebanon, where homes will be demolished, and residents won't be allowed to return home until people in northern Israel feel safe.",
+          "versions": [
             {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Trump says the US could end the Iran war in two to three weeks",
-              "url": "https://www.france24.com/en/video/20260401-trump-says-the-us-could-end-the-iran-war-in-two-to-three-weeks"
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "After Israel's invasion, many in southern Lebanon worry they'll never go home",
+              "url": "https://www.npr.org/2026/04/01/g-s1-115929/israel-south-lebanon-evacuation"
             }
           ]
         }
@@ -281,8 +245,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Live updates: Trump upends tradition, attends Supreme Court arguments on birthright citizenship",
-          "neutralSummary": "The Supreme Court on Wednesday will weigh President Trump&#8217;s executive order seeking to end birthright citizenship. The president will soon be in the courtroom, making him the first sitting president to attend oral arguments. At least twice this week he has ripped into the 14th Amendment&#8217;",
+          "neutralHeadline": "Five takeaways from President Trump’s address on Iran",
+          "neutralSummary": "President Trump delivered a primetime address about the war on Iran on Wednesday evening, more than a month after hostilities commenced. Trump’s decision to launch the war, in conjunction with Israel, has come to look more and more risky.&#160; The conflict has been unpopular since its inception. So",
           "versions": [
             {
               "political": "left",
@@ -290,8 +254,17 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Trump Arrives at Supreme Court for Oral Arguments in a Presidential First",
-              "url": "https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html"
+              "headline": "5 Takeaways From Trump’s Address on Iran",
+              "url": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war-address-takeaways.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "news.google.com",
+              "headline": "‘We have all the cards’: Trump says US war on Iran ‘nearing completion’",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWU8zLTdPM0hmTk5MTDhQQjVYaHpUNV9zMHBjeGNZRmJDLS0wRUZoS2Z3cm9pWGdVczBMY2licnY5N1VoNWttbmRsVGdXVG1pNE51MjVxTUVJSDBaWjhETWlzU1RLaEpCQ082dG42SEpQUDhZV1hxX3ZhZjlVU1pZY2Nna3ZfZDI4TXc?oc=5"
             },
             {
               "political": "center",
@@ -299,112 +272,8 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Live updates: Trump upends tradition, attends Supreme Court arguments on birthright citizenship",
-              "url": "https://thehill.com/homenews/administration/5809524-live-updates-trump-supreme-court-birthright-citizenship/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump says he will attend Supreme Court oral arguments on birthright citizenship challenge",
-              "url": "https://www.foxnews.com/politics/trump-says-he-will-attend-supreme-court-oral-arguments-birthright-citizenship-challenge"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "WATCH LIVE: Supreme Court holds oral arguments on birthright citizenship",
-              "url": "https://www.washingtonexaminer.com/news/supreme-court/4512292/watch-live-supreme-court-oral-argument-birthright-citizenship/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "LISTEN NOW: Supreme Court Hears Birthright Case As Trump Attends Arguments",
-              "url": "https://www.dailywire.com/news/supreme-court-weighs-trumps-push-to-end-birthright-citizenship-with-president-in-attendance"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "What's at risk if SCOTUS sides with Trump in birthright citizenship case",
-          "neutralSummary": "What's at risk if SCOTUS sides with Trump in birthright citizenship case&nbsp;&nbsp;AxiosSupreme Court hears arguments in birthright citizenship case&nbsp;&nbsp;CNNTrump makes historic Supreme Court visit for birthright citizenship case&nbsp;&nbsp;AxiosOur prediction for how SCOTUS will rule on birt",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump’s Birthright Citizenship Order Draws Lines Scholars Find Indefensible",
-              "url": "https://www.nytimes.com/2026/04/01/us/politics/trumps-birthright-citizenship-order-draws-lines-scholars-find-indefensible.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump to address nation on Iran war. And, SCOTUS considers birthright citizenship",
-              "url": "https://www.npr.org/2026/04/01/g-s1-116034/up-first-newsletter-iran-war-strait-of-hormuz-birthright-citizenship-white-house-ballroom-npr-pbs"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Axios",
-              "initials": "AX",
-              "domain": "news.google.com",
-              "headline": "What's at risk if SCOTUS sides with Trump in birthright citizenship case",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVEwYTI2SE9WcUE0Z3QtRFZnSTNZNFlYWlJ4YTRzTUlsVTJoNEdpbDFpclUxVEptR2oxVEVCdmFCN1hKNDdhWGVvWW9pSDAxMm1yZmgyRmpvOUtMZW9YVTlTWnhWaXRfbXpSSF9URm5Xa3BKbXc1OS1jTTVONUpKdg?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump attends Supreme Court as justices weigh birthright citizenship order in high-stakes test",
-              "url": "https://www.foxnews.com/politics/scotus-slated-weigh-future-birthright-citizenship-protections-millions-heres-what-stake"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Trump says he’ll go to the Supreme Court on Wednesday for birthright citizenship case",
-              "url": "https://nypost.com/2026/04/01/us-news/trump-says-hell-go-to-the-supreme-court-on-wednesday-for-birthright-citizenship-case/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Trump Says U.S. Will Be Out of Iran Within Two to Three Weeks",
-          "neutralSummary": "The White House said the president would address the nation about Iran on Wednesday evening.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Says U.S. Will Be Out of Iran Within Two to Three Weeks",
-              "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-says-us-will-be-out-of-iran-within-two-to-three-weeks.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump to address nation after saying U.S. may leave war within weeks",
-              "url": "https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump"
+              "headline": "Five takeaways from President Trump’s address on Iran",
+              "url": "https://thehill.com/homenews/administration/5812338-trump-address-iran-war/"
             },
             {
               "political": "right",
@@ -412,8 +281,8 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Trump says he's considering pulling US out of NATO over Iran war stance",
-              "url": "https://www.foxnews.com/politics/trump-nato-withdrawal-iran-war-allies"
+              "headline": "Trump says Iran ‘no longer a threat’ after 32 days — outlines next phase of US war",
+              "url": "https://www.foxnews.com/politics/trump-says-iran-no-longer-threat-after-32-days-outlines-next-phase-us-war"
             },
             {
               "political": "right",
@@ -421,15 +290,49 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Trump says Iran’s ‘New Regime President’ asked US for ceasefire",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4512227/trump-iran-new-regime-president-us-ceasefire/"
+              "headline": "WATCH LIVE: Trump gives ‘important update’ on Iran war in address to nation",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4511855/watch-live-trump-address-iran-war/"
             }
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "NASA's Artemis II astronauts launch to the moon today. Watch it here",
-          "neutralSummary": "NASA's Artemis II mission aims to send four astronauts around the moon on a roughly 10-day journey that could help pave the way toward a future lunar landing.",
+          "id": "us-2",
+          "neutralHeadline": "Trump admin tells Supreme Court birth tourism is evidence birthright citizenship needs to end",
+          "neutralSummary": "Trump admin tells Supreme Court birth tourism is evidence birthright citizenship needs to end&nbsp;&nbsp;CNBCBirthright citizenship live blog for Wednesday, April 1&nbsp;&nbsp;SCOTUSblogInside Scoop newsletter: Inside the Supreme Court arguments&nbsp;&nbsp;NBC NewsHundreds rally for birthright citiz",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Even this Supreme Court seems unwilling to end birthright citizenship",
+              "url": "https://www.vox.com/politics/484535/supreme-court-birthright-citizenship-trump-barbara"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Supreme Court majority seems inclined to rule against Trump on birthright citizenship",
+              "url": "https://www.npr.org/2026/04/01/nx-s1-5754762/trump-supreme-court-birthright-citizenship"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNBC",
+              "initials": "C",
+              "domain": "news.google.com",
+              "headline": "Trump admin tells Supreme Court birth tourism is evidence birthright citizenship needs to end",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdHY2U09PanFuSEhHczR0LVdfSDZWUXh6eXlQOVRWS0drUk5GUkVNWC1mVl9jVjVsMDNON1ZUbjNSRE1jTHFMVkszb3NZaU9aNENXc3BUOTRZWUlTQVpxNWs0RGhSdGJ6UUw2b251aE5GZ1VoRDZ5TURIUUxGZlYwY3A1UzNRYTBfYlFmRHBBY3rSAZYBQVVfeXFMTmFEV1ZSanhYcVljLTczdWhFT2dER3E3VzZvZ2xhY1h3azFoWDQ1aEJDSWFGcmlVajl3ZmNwQnV3bHVoRzcySXhZSkNSVm9zSFNxbHVqcFhxdjI3Z2pNR2RTSkV0NEZ0MzluYmszRFBCU09LMnJfWVp4c0UzRngwek1icHJPNVJzdmZWV3Nkd2gzZ1A4U1pn?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Trump makes his case for war with Iran, saying the conflict is 'nearing completion'",
+          "neutralSummary": "Trump used a prime-time address to outline his objectives for the war and discuss the military's progress to date. He also repeated an earlier claim that fighting could end in two to three weeks.",
           "versions": [
             {
               "political": "left",
@@ -437,33 +340,8 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "NASA's Artemis II astronauts launch to the moon today. Watch it here",
-              "url": "https://www.npr.org/2026/04/01/nx-s1-5768254/nasa-astronauts-about-to-launch-moon-artemis-ii"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "The Media Does Not Want To Talk About This Historic NASA Launch. Here’s Why.",
-              "url": "https://www.dailywire.com/news/the-media-does-not-want-to-talk-about-this-historic-nasa-launch-heres-why"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Kristi Noem, Trump respond to shocking cross-dressing photos tied to her husband",
-          "neutralSummary": "Photos allegedly showing Kristi Noem&apos;s husband Bryon Noem cross-dressing in private messages to women have emerged.",
-          "versions": [
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Kristi Noem, Trump respond to shocking cross-dressing photos tied to her husband",
-              "url": "https://www.foxnews.com/politics/kristi-noem-trump-respond-shocking-cross-dressing-photos-tied-her-husband"
+              "headline": "Trump makes his case for war with Iran, saying the conflict is 'nearing completion'",
+              "url": "https://www.npr.org/2026/04/01/nx-s1-5770093/trump-address-iran-war"
             },
             {
               "political": "right",
@@ -471,8 +349,8 @@
               "source": "NY Post",
               "initials": "NYP",
               "domain": "nypost.com",
-              "headline": "‘Marco Rubio finding out’ meme breaks the internet again — thanks to Kristi Noem’s cross-dressing, bust-loving husband",
-              "url": "https://nypost.com/2026/04/01/us-news/marco-rubio-finding-out-meme-breaks-the-internet-again-thanks-to-kristi-noems-cross-dressing-bust-loving-husband/"
+              "headline": "Trump makes case to nation — taking out Iran is ‘investment in your children and your grandchildren’s future’",
+              "url": "https://nypost.com/2026/04/01/us-news/trump-announces-iran-will-be-hit-extremely-hard-over-the-next-2-3-weeks/"
             },
             {
               "political": "right",
@@ -480,15 +358,15 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Trump Weighs In On Images Of Kristi Noem’s Husband Cross-Dressing: ‘That’s Too Bad’",
-              "url": "https://www.dailywire.com/news/trump-weighs-in-on-images-of-kristi-noems-husband-cross-dressing-thats-too-bad"
+              "headline": "LIVE UPDATES: Trump Declares Iran Objectives ‘On The Verge’ Of 100% Completion",
+              "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule"
             }
           ]
         },
         {
-          "id": "us-6",
-          "neutralHeadline": "Supreme Court Rules Against Law Banning Conversion Therapy For Minors",
-          "neutralSummary": "The justices ruled 8-1, with Justice Ketanji Brown Jackson as the lone dissenter.",
+          "id": "us-4",
+          "neutralHeadline": "'See You In Court': Democrats Respond To Trump's Mail-In-Voting Order",
+          "neutralSummary": "The order directs the Department of Homeland Security to create a national voter list of eligible voters in each state.&nbsp;",
           "versions": [
             {
               "political": "left",
@@ -496,8 +374,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Supreme Court Rules Against Law Banning Conversion Therapy For Minors",
-              "url": "https://www.huffpost.com/entry/supreme-court-ruling-conversion-therapy_n_698106e2e4b040ef29094d5c"
+              "headline": "'See You In Court': Democrats Respond To Trump's Mail-In-Voting Order",
+              "url": "https://www.huffpost.com/entry/trump-mail-in-voting-order-democrats-respond_n_69cc5c95e4b0332f12c04816"
             },
             {
               "political": "left",
@@ -505,15 +383,15 @@
               "source": "Vox",
               "initials": "VOX",
               "domain": "vox.com",
-              "headline": "Why an 8-1 Supreme Court just ruled in favor of anti-LGBTQ+ &#8220;conversion therapy&#8221;",
-              "url": "https://www.vox.com/politics/484391/supreme-court-chiles-salazar-conversion-therapy"
+              "headline": "Trump’s new attack on mail-in voting, briefly explained",
+              "url": "https://www.vox.com/the-logoff-newsletter-trump/484647/donald-trump-mail-in-voting-executive-order-midterm-elections"
             }
           ]
         },
         {
-          "id": "us-7",
-          "neutralHeadline": "Thousands more US troops headed to Middle East aboard aircraft carrier",
-          "neutralSummary": "The U.S. is sending thousands of additional U.S. service members to the Middle East aboard the aircraft carrier USS George H.W. Bush, even as President Trump on Wednesday claimed Iran has asked the U.S. for&#160;a ceasefire. The George H.W. Bush deployed Tuesday en route to the Middle East along wit",
+          "id": "us-5",
+          "neutralHeadline": "Marjorie Taylor Greene says all she heard from Trump’s speech was ‘war war war’",
+          "neutralSummary": "Former Rep. Marjorie Taylor Greene (R-Ga.) slammed President Trump’s Wednesday evening speech about his administration’s ongoing military operations against Iran.&#160; “I wanted so much for President Trump to put America First,” Greene wrote in a post on X. “That’s what I believed he would do. All",
           "versions": [
             {
               "political": "left",
@@ -521,8 +399,8 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Placing U.S. Troops in Middle East Hotels May Violate Laws of War",
-              "url": "https://www.nytimes.com/2026/04/01/us/politics/troops-iran-hotels.html"
+              "headline": "Transcript: Trump’s Speech on Iran War",
+              "url": "https://www.nytimes.com/2026/04/01/us/politics/trump-transcript-speech-iran.html"
             },
             {
               "political": "center",
@@ -530,15 +408,40 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Thousands more US troops headed to Middle East aboard aircraft carrier",
-              "url": "https://thehill.com/policy/defense/5810825-us-sends-troops-middle-east/"
+              "headline": "Marjorie Taylor Greene says all she heard from Trump’s speech was ‘war war war’",
+              "url": "https://thehill.com/homenews/administration/5812314-marjorie-greene-slams-trump-speech/"
             }
           ]
         },
         {
-          "id": "us-8",
-          "neutralHeadline": "Bomb Shelters and a Drone-Proof Roof: Trump Seeks to Justify Ballroom as Security Measure",
-          "neutralSummary": "President Trump spoke about his ballroom’s security as he argued against a judge’s orders to stop construction.",
+          "id": "us-6",
+          "neutralHeadline": "Man Threatened to Kill President Trump With Sword, Officials Say",
+          "neutralSummary": "The man made multiple threats on Facebook and said that the law enforcement agents responding to arrest him would be killed, officials said.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Man Threatened to Kill President Trump With Sword, Officials Say",
+              "url": "https://www.nytimes.com/2026/04/01/us/trump-kill-threats-fbi-sword.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Massachusetts lunatic charged with threatening to kill President Trump, ‘hang him’ from the Statue of Liberty",
+              "url": "https://nypost.com/2026/04/01/us-news/massachusetts-lunatic-charged-with-threatening-to-kill-president-trump-hang-him-from-the-statue-of-liberty/"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "U.S. Lifts Sanctions on Venezuela’s New Leader, Delcy Rodríguez",
+          "neutralSummary": "Removing sanctions would allow Delcy Rodríguez, the country’s acting leader, to conduct business with U.S. companies and potentially meet with President Trump.",
           "versions": [
             {
               "political": "left",
@@ -546,24 +449,33 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Bomb Shelters and a Drone-Proof Roof: Trump Seeks to Justify Ballroom as Security Measure",
-              "url": "https://www.nytimes.com/2026/03/31/us/politics/trump-ballroom-underground-security.html"
+              "headline": "U.S. Lifts Sanctions on Venezuela’s New Leader, Delcy Rodríguez",
+              "url": "https://www.nytimes.com/2026/04/01/us/politics/us-lifts-sanctions-rodriguez.html"
+            },
+            {
+              "political": "right",
+              "tone": "optimistic",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "US lifts sanctions on interim Venezuelan leader Delcy Rodriguez",
+              "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4513142/us-lifts-sanctions-venezuela-delcy-rodriguez/"
             }
           ]
         },
         {
-          "id": "us-9",
-          "neutralHeadline": "Trump says he may try to pull U.S. out of NATO since allies \"weren't there for us\" in Iran war",
-          "neutralSummary": "Trump says he may try to pull U.S. out of NATO since allies \"weren't there for us\" in Iran war&nbsp;&nbsp;CBS NewsTrump interview: I am strongly considering pulling out of Nato&nbsp;&nbsp;The TelegraphTrump Raises NATO Withdrawal as Allies Push Back on Iran War&nbsp;&nbsp;WSJLive updates: Iran and H",
+          "id": "us-8",
+          "neutralHeadline": "What to Know About Ted Bundy, the Notorious Serial Killer",
+          "neutralSummary": "On Wednesday, the authorities said DNA evidence had linked Mr. Bundy, who was executed in 1989, to the murder of a 17-year-old Utah girl in 1974.",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Trump says he may try to pull U.S. out of NATO since allies \"weren't there for us\" in Iran war",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxOHd0SGxsWDd1NUpSMXQwMHlpeUVsZ3NwUFBBWTJvMXIyWnY5WDZrZ3VzNFhKWnQ1VEY0Z3lNdjYxS0dUQXprOHV0Z1RYdWVOeWNRUjdycXoxQURNYnMzTnVaTkpxeGVmVFFFdGtMRzZadTjSAXhBVV95cUxNTmJBbUo5ekNhWDgyY0V6ZHl5Q0RQQ3IzMzJEeWFWX2ZtVFNNN2dQR1RiOVhhclVBVHl4X0UydVAxMDBjZC1uSDY0c1RmemZLOXhCY3FDNk00QklsVDMxZDN3RHZhbWN5WkZZMjdPTXVEU00xX2JHTlQ?oc=5"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "What to Know About Ted Bundy, the Notorious Serial Killer",
+              "url": "https://www.nytimes.com/2026/04/01/us/what-to-know-about-ted-bundy-serial-killer.html"
             },
             {
               "political": "right",
@@ -571,8 +483,24 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Trump Eyes Major NATO Shift After Allies Fail Key Test",
-              "url": "https://www.dailywire.com/news/trump-may-leave-nato-over-its-failure-to-back-iran-operation-paper-tiger"
+              "headline": "Five Decades After Her Murder, Evidence Now Points To Notorious Serial Killer",
+              "url": "https://www.dailywire.com/news/five-decades-after-her-murder-evidence-now-points-to-notorious-serial-killer"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "DNA Confirms Ted Bundy Killed Utah Teen in 1974, Investigators Say",
+          "neutralSummary": "Mr. Bundy had confessed to killing Laura Ann Aime before he was executed in 1989. Investigators said DNA testing provided conclusive proof.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "DNA Confirms Ted Bundy Killed Utah Teen in 1974, Investigators Say",
+              "url": "https://www.nytimes.com/2026/04/01/us/ted-bundy-utah-murder-confirmed.html"
             }
           ]
         }
@@ -583,8 +511,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Motorcyclist taken unconscious to hospital after accident with tipper truck in Defu industrial area",
-          "neutralSummary": "The accident happened at the junction of Defu Avenue 1 and Defu Lane 9.",
+          "neutralHeadline": "CFO of local tech firm becomes fourth executive to be charged in Nvidia chips probe",
+          "neutralSummary": "Jenny Lim is accused of conspiring to falsely represent the end user of the procured servers.",
           "versions": [
             {
               "political": "center",
@@ -592,79 +520,113 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Motorcyclist taken unconscious to hospital after accident with tipper truck in Defu industrial area",
-              "url": "https://www.straitstimes.com/singapore/motorcyclist-taken-unconscious-to-hospital-after-accident-with-tipper-truck-in-defu-industrial-area"
+              "headline": "CFO of local tech firm becomes fourth executive to be charged in Nvidia chips probe",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/cfo-of-local-tech-firm-fourth-executive-to-be-charged-in-nvidia-chips-probe"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Chief financial officer of tech company charged with fraud conspiracy in case linked to Nvidia chips",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2t0Yk5NamxIVVBXZlhXQlVEVXBtc2JUMDRmRXVrdVhrMnJFYmRhRXdobTQ3aWR3QkktTFZ2dmlCWldaQS1KZm5kWU16TzJmQlVoVzdBLXRBR2trVDlqZ19yMTFEMEtYTmhLWGRlZkRNOVNsejFjY1N4VUlUOE5OYUVyMWU3dldQVlNIT010N2U?oc=5"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Energy security versus geopolitics: ASEAN states face tough choices over Iran’s Strait of Hormuz passage",
-          "neutralSummary": "While Iran’s selective approach to allowing access to the Strait of Hormuz could push more countries to the negotiating table, the bigger issue is having to engage on Tehran’s terms rather than on the basis of a purely commercial right of passage, analysts say.",
+          "neutralHeadline": "Motorcyclist, 64, dies after accident on CTE; man arrested for careless driving",
+          "neutralSummary": "A 41-year-old female pillion rider was taken conscious to hospital.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Energy security versus geopolitics: ASEAN states face tough choices over Iran’s Strait of Hormuz passage",
-              "url": "https://www.channelnewsasia.com/asia/iran-war-strait-hormuz-toll-oil-price-6030686"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Motorcyclist, 64, dies after accident on CTE; man arrested for careless driving",
+              "url": "https://www.straitstimes.com/singapore/motorcyclist-64-dies-after-accident-on-cte-man-arrested-for-careless-driving"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Malaysian driver in fatal Klang crash charged with murder of motorcyclist",
-          "neutralSummary": "Saktygaanapathy Ravichandran was reportedly driving at a high speed and is believed to have overtaken several vehicles before veering into the opposite lane and hitting father-of-three Amirul Hafiz Omar on Sunday (Mar 29).",
+          "neutralHeadline": "Five of seven private health insurers hike premiums for existing plans",
+          "neutralSummary": "They cited rising medical costs and claims as reasons.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Malaysian driver in fatal Klang crash charged with murder of motorcyclist",
-              "url": "https://www.channelnewsasia.com/asia/malaysia-driver-fatal-klang-selangor-crash-murder-charge-motorcyclist-amirul-hafiz-omar-6030721"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Five of seven private health insurers hike premiums for existing plans",
+              "url": "https://www.straitstimes.com/singapore/health/five-of-seven-private-health-insurers-hike-premiums-for-existing-plans"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "India hikes jet fuel, commercial LPG cost",
-          "neutralSummary": "India hikes jet fuel, commercial LPG cost",
+          "neutralHeadline": "WWII bomb found at Changi Airport worksite successfully disposed of; airport operations not affected",
+          "neutralSummary": "The 250kg aerial bomb was assessed to be unsafe to move.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "India hikes jet fuel, commercial LPG cost",
-              "url": "https://www.channelnewsasia.com/asia/india-hikes-jet-fuel-commercial-lpg-cost-6030751"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "WWII bomb found at Changi Airport worksite successfully disposed of; airport operations not affected",
+              "url": "https://www.straitstimes.com/singapore/controlled-disposal-of-wwii-bomb-to-be-held-at-tanah-merah-coast-road-work-site-on-april-2-morning"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "Asia barters for scarce energy as Iran crisis throttles supplies",
-          "neutralSummary": "Russia could prove to be an unlikely supplier for some Asian countries after the United States issued a temporary waiver of sanctions for its attack on Ukraine.",
+          "neutralHeadline": "10 people arrested over alleged fraudulent work pass applications",
+          "neutralSummary": "The suspects included directors and employees from five construction firms.",
           "versions": [
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Asia barters for scarce energy as Iran crisis throttles supplies",
-              "url": "https://www.channelnewsasia.com/asia/iran-war-asia-barters-scarce-energy-supplies-6030136"
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "10 people arrested over alleged fraudulent work pass applications",
+              "url": "https://www.straitstimes.com/singapore/10-people-arrested-over-alleged-fraudulent-work-pass-applications"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AsiaOne",
+              "initials": "A",
+              "domain": "news.google.com",
+              "headline": "Directors, employees from 5 construction firms among 10 arrested for alleged fraudulent work pass applications: MOM",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMkc1RkV6RUxKbG5FTDAzUjhYT0I3YVpLWVJSMF9qa2pjMmtWeHgtS01PdjRMX1BzbXBJbVpFa0ppbUpxdmxjWDZLY1RRZno5VkhsV3V1TXdzbHNmd1M1azZuOFIwNlhOTzJwekxMd29XWXZ0aGpuM3B3cDFHZDU5SnVWQzVzbWZRT0FQNWxrWmNkcnJxUkhyY1dHb3hpVzV3TER4Z3AyN0UxQXZURWNTMEFJenlOZndWYjBXOURB?oc=5"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "Asian stocks rally after Trump says Iran war to end 'very soon'",
-          "neutralSummary": "Crude prices, however, jumped on lingering worries about the closure of the strategic Strait of Hormuz.",
+          "neutralHeadline": "NParks urges caution after recent crocodile sightings near Pulau Ubin",
+          "neutralSummary": "The sightings are likely to be of an estuarine crocodile, NParks said.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "NParks urges caution after recent crocodile sightings near Pulau Ubin",
+              "url": "https://www.straitstimes.com/singapore/nparks-urges-caution-after-recent-crocodile-sightings-near-pulau-ubin"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "7.4-magnitude quake off Indonesia kills one, tsunami warning lifted",
+          "neutralSummary": "Within half an hour of the quake, waves up to 75cm were recorded in North Minahasa and 20cm in Bitung, both&nbsp;north of Sulawesi island.",
           "versions": [
             {
               "political": "center",
@@ -672,65 +634,58 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Asian stocks rally after Trump says Iran war to end 'very soon'",
-              "url": "https://www.channelnewsasia.com/asia/asian-markets-trump-war-iran-may-be-over-two-weeks-6029831"
+              "headline": "7.4-magnitude quake off Indonesia kills one, tsunami warning lifted",
+              "url": "https://www.channelnewsasia.com/asia/indonesia-earthquake-tsunami-warning-molucca-sea-manado-6032326"
             },
             {
               "political": "center",
-              "tone": "optimistic",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Stocks Extend Rally Despite Mixed Messaging From US, Iran on War",
-              "url": "https://www.bloomberg.com/news/articles/2026-04-01/us-stock-futures-rise-as-us-iran-seek-exit-from-iran-war"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "US Manufacturing Expands as Input Costs Surge",
-          "neutralSummary": "US manufacturing activity expanded in March by the most since 2022, while input prices continued to surge amid the war with Iran. Mike McKee reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
-          "versions": [
-            {
-              "political": "center",
               "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "US Manufacturing Expands as Input Costs Surge",
-              "url": "https://www.bloomberg.com/news/videos/2026-04-01/us-manufacturing-expands-as-input-costs-surge-video"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "news.google.com",
+              "headline": "At least 1 dead as 7.4-magnitude quake hits eastern Indonesia; tsunami warning lifted after 2 hours",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOGtzZXBPUEU3NnhrQkN5RFZ3MDF5aEw0a01hQUFJRFg1a1pFTS1Td1U5ck1Genhkc2xrS0VfQUZ2aE5xelpfUjlwMXlGY0dhTFM1MWFab2dfV3duWVVZeXdtSFJkTDMycFZ1MU1VSHhrRWlmejF2Q09zUUlCNENMOUhqLTVpbzBkQWN2Y1NyNzF4c0hMU0t2VndIMVFPRkhaLVN3ZnYyODJwWEk?oc=5"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Veteran medical social worker Gilbert Fan dies at 67",
-          "neutralSummary": "Dr Fan was one of two people to receive the Outstanding Social Worker Award in 2021.",
+          "neutralHeadline": "Stocks slide, dollar advances after Trump speech on Iran war",
+          "neutralSummary": "Stocks retreated after President Donald Trump said the US would strike Iran \"extremely hard\" over the next two to three weeks.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Veteran medical social worker Gilbert Fan dies at 67",
-              "url": "https://www.straitstimes.com/singapore/veteran-medical-social-worker-gilbert-fan-dies-at-67"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Stocks slide, dollar advances after Trump speech on Iran war",
+              "url": "https://www.channelnewsasia.com/world/stocks-slide-trump-speech-iran-war-6032546"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "In Full: Trump's Speech on Iran War",
+              "url": "https://www.bloomberg.com/news/videos/2026-04-02/in-full-trump-s-speech-on-iran-war-video"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Higher education must sharpen human judgment, problem framing: Panellists at ST Education Forum",
-          "neutralSummary": "As AI becomes more embedded in daily life, education must move beyond imparting knowledge, the panel said.",
+          "neutralHeadline": "Trump Threatens to Escalate War in Iran Even As End Is \"Close”",
+          "neutralSummary": "President Donald Trump says the war in Iran is “very close” to completion, even as the US plans to continue attacks within the next two to three weeks. (Source: Bloomberg)",
           "versions": [
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Higher education must sharpen human judgment, problem framing: Panellists at ST Education Forum",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/higher-education-must-sharpen-human-judgment-problem-framing-panellists-at-st-education-forum"
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Trump Threatens to Escalate War in Iran Even As End Is \"Close”",
+              "url": "https://www.bloomberg.com/news/videos/2026-04-02/trump-threatens-to-escalate-war-in-iran-video"
             }
           ]
         }
@@ -741,51 +696,26 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Lok Sabha passes Jan Vishwas amendment bill",
-          "neutralSummary": "Lok Sabha passes Jan Vishwas amendment bill",
+          "neutralHeadline": "Iran endgame, gas prices, Hormuz crisis &amp; more: Key takeaways from Trump's big address",
+          "neutralSummary": "President Trump announced Operation Epic Fury is nearing completion, stating the Iran conflict will end within two to three weeks. He advised nations facing oil crises to purchase from the US or seize oil from the Strait of Hormuz, emphasizing Iran's untrustworthiness and its history of attacks.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Parliament Budget Session Highlights: Parliament passes Insolvency and Bankruptcy Code (Amendment) Bill, 2026",
-              "url": "https://www.thehindu.com/news/national/parliament-budget-session-live-updates-april-1-2026-lok-sabha-fcra-amendment-bill-rajya-sabha/article70810005.ece"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Trump's Iran War Objective And Mixed Messaging: Key Takeaways From 'End Plan'",
+              "url": "https://www.ndtv.com/world-news/iran-war-trump-speech-live-trumps-iran-war-objective-and-mixed-messaging-key-takeaway-from-end-plan-11299879#publisher=newsstand"
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Lok Sabha passes Jan Vishwas amendment bill",
-              "url": "https://economictimes.indiatimes.com/news/economy/policy/lok-sabha-passes-jan-vishwas-amendment-bill/articleshow/129954023.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "Blast outside Punjab BJP office; police cordon off area",
-          "neutralSummary": "Blast outside Punjab BJP office; police cordon off area",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Blast outside Punjab BJP office; police cordon off area",
-              "url": "https://timesofindia.indiatimes.com/india/blast-outside-punjab-bjp-office-police-cordon-off-area/articleshow/129950966.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Blast heard outside Punjab BJP office in Chandigarh, police probing incident",
-              "url": "https://www.hindustantimes.com/india-news/punjab-bjp-office-chandigarh-blast-police-probing-incident-101775046937988.html"
+              "headline": "Iran endgame, gas prices, Hormuz crisis &amp; more: Key takeaways from Trump's big address",
+              "url": "https://timesofindia.indiatimes.com/world/us/iran-endgame-gas-prices-strait-of-hormuz-crisis-more-key-takeaways-from-donald-trumps-big-address/articleshow/129964625.cms"
             },
             {
               "political": "center",
@@ -793,140 +723,8 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Blast outside Punjab BJP office, no injuries",
-              "url": "https://economictimes.indiatimes.com/news/india/explosion-outside-punjab-bjp-office-in-chandigarh-no-casualties/articleshow/129953340.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Transgender Amendment Bill gets Presidential assent amid protests",
-          "neutralSummary": "Transgender Amendment Bill gets Presidential assent amid protests&nbsp;&nbsp;Bar and BenchAs TG bill becomes law, community uncertain about status of 32000 TG certificates issued on basis of 'self-perceived identity'&nbsp;&nbsp;The Times of IndiaWhy right to self-determination is essential to improv",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "All about The Transgender Persons (Protection of Rights) Amendment Bill 2026",
-              "url": "https://www.thehindu.com/videos/all-about-the-transgender-person-protection-of-rights-amendment-bill-2026/article70811984.ece"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bar and Bench",
-              "initials": "BA",
-              "domain": "news.google.com",
-              "headline": "Transgender Amendment Bill gets Presidential assent amid protests",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlVOelh6cE1XUkxqWkdOdXJ2UzAtaENsaVpudXVJMlRDRnNwVUtNd29JRHJFSy1YM0RuR0k0YmJ2bnA1bVdHNWJ4dE43YXhBOUlfQkU2OEs5akJ6aGltVHVycVRpXzNYTDRESDF2eVdQbF9MX2QxZENGb0ZMMGJtZ3J1eDZkUjBmMng3YUFCV2xneXZvSW92VXJzREZnbkk?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Trump's Big \"Iran Wants Ceasefire\" Claim And A \"Blast To Stone Age\" Warning",
-          "neutralSummary": "Trump claimed that a ceasefire would only happen when the Strait of Hormuz is \"open, free, clear\"",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Trump's Big \"Iran Wants Ceasefire\" Claim And A \"Blast To Stone Age\" Warning",
-              "url": "https://www.ndtv.com/world-news/trump-says-iran-has-asked-for-ceasefire-but-will-blast-it-into-oblivion-till-hormuz-free-11297264#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Depression, secret marriage and marital discord: What suicide note in Bengaluru techie couple's case revealed",
-          "neutralSummary": "The couple was originally from Siddipet in Telangana and both worked as tech professionals in separate private firms in Bengaluru.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Behind Techie Couple's Suicide In Bengaluru, Job Loss Due To AI",
-              "url": "https://www.ndtv.com/india-news/behind-techie-couples-suicide-in-bengaluru-job-loss-due-to-ai-11297015#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Depression, secret marriage and marital discord: What suicide note in Bengaluru techie couple's case revealed",
-              "url": "https://www.hindustantimes.com/india-news/depression-secret-marriage-and-marital-discord-what-suicide-note-in-bengaluru-techie-couples-case-revealed-101775040686437.html"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Five doctors, an ambulance operator: Inside Kanpur’s multi-hospital kidney transplant racket",
-          "neutralSummary": "Five doctors, an ambulance operator: Inside Kanpur’s multi-hospital kidney transplant racket",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Five doctors, an ambulance operator: Inside Kanpur’s multi-hospital kidney transplant racket",
-              "url": "https://indianexpress.com/article/cities/lucknow/kanpur-kidney-transplant-racket-hospital-arrested-mba-student-donor-10613979/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "UP: Kanpur police bust kidney racket, 6 including 5 doctors arrested. Read how a Rs 50,000 dispute exposed multi-crore organ trade; Exclusive details",
-              "url": "https://www.opindia.com/2026/04/up-kanpur-kidney-racket-busted-6-including-5-doctors-arrested-rs-50000-dispute-exposed-organ-trade/"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Trump strongly considering pulling US out of NATO",
-          "neutralSummary": "Trump strongly considering pulling US out of NATO",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Trump strongly considering pulling US out of NATO",
-              "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-strongly-considering-pulling-us-out-of-nato-labels-alliance-a-paper-tiger/articleshow/129946988.cms"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "U.S. is considering exiting ‘paper tiger NATO’, says Trump",
-              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWm1kbHRKdFJpUFJ3ZTAyUGcxNXN0MVk5dFJMUnBVVHh6SEY3NGxOUWtnemk5QVZ0SUZPcEFKLTl3R0pIb0ZVczZHT2s0SkZQV3hMMVotMVpEQy1hT0hGQUxmMFdCRC1QYkRDaWkwSEdzVlkxajVYWkZoRGRQMjM3SFh0a19ZbjlMRVNmV2RPV09yT0JGdnZSSDAzR1lidFZZQTNsRkNLVTB3UDRiMUF5YUs3UldzZGdK0gG_AUFVX3lxTFBMaWg3anNJbXNYbUhWVHItWWFpbXNXZFZKMTVrMF9SdmdsdVk1Wkl3M25mM2UtblFtOXZCdkJUZFN4QTRvcUJyR0ttWXpjTGk0Qkx0dTNNay04bHNfQ05yLUFlNUxKODFWM0JSSXVIVkZFeFhFcE4xMDRhQ3JBZlFMaW5tMS1EUlN5UGJTdEg4WGtxMVlva3N0eTZsbmdZNkxyZldMRGFpblBWMV9ET2V2bWxaS2wwamRONTBrb1Q0?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Electronics cos stockpile amid rising input costs",
-          "neutralSummary": "Electronics cos stockpile amid rising input costs",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Electronics cos stockpile amid rising input costs",
-              "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/electronics-companies-stockpile-amid-rising-input-costs-and-supply-chain-uncertainty/articleshow/129951964.cms"
+              "headline": "What are the signals to markets from Trump on Iran?",
+              "url": "https://economictimes.indiatimes.com/news/international/global-trends/trumps-iran-war-speech-keeps-markets-away-from-what-they-were-looking-for-analysts/articleshow/129966095.cms"
             },
             {
               "political": "center",
@@ -934,24 +732,226 @@
               "source": "Bloomberg",
               "initials": "BB",
               "domain": "bloomberg.com",
-              "headline": "US Manufacturing Expands as Input Costs Surge",
-              "url": "https://www.bloomberg.com/news/videos/2026-04-01/us-manufacturing-expands-as-input-costs-surge-video"
+              "headline": "In Full: Trump's Speech on Iran War",
+              "url": "https://www.bloomberg.com/news/videos/2026-04-02/in-full-trump-s-speech-on-iran-war-video"
             }
           ]
         },
         {
-          "id": "india-9",
-          "neutralHeadline": "7,748 personnel deployed for census work: Mysuru Deputy Commissioner",
-          "neutralSummary": "7,748 personnel deployed for census work: Mysuru Deputy Commissioner",
+          "id": "india-2",
+          "neutralHeadline": "Oil Falls 2% as Trump Says U.S. Will Exit Iran 'Pretty Quickly'",
+          "neutralSummary": "Oil Falls 2% as Trump Says U.S. Will Exit Iran 'Pretty Quickly'&nbsp;&nbsp;oilprice.comMiddle East war live: Oil jumps as Donald Trump vows to hit Iran ‘extremely hard’&nbsp;&nbsp;Financial TimesStocks sink, oil surges as Trump vows to keep hitting Iran&nbsp;&nbsp;ReutersPolymarket and other predict",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "\"We Haven't Hit Iran's Oil Yet, We Can\": Trump's Top Quotes From War Speech",
+              "url": "https://www.ndtv.com/world-news/israel-iran-war-donald-trump-we-havent-hit-irans-oil-yet-we-can-trumps-top-quotes-from-war-speech-11299686#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "oilprice.com",
+              "initials": "O",
+              "domain": "news.google.com",
+              "headline": "Oil Falls 2% as Trump Says U.S. Will Exit Iran 'Pretty Quickly'",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0ZNU3hWV0hNcnotQ3pNTXpQYmFvdGw4WHlQQzNzbUtqWTdSZm5yUmJ4T3NxQlpFZnZZcHRwUWF4WFhYOTRXQjMyd2pjS2tMUkQ0U3lITkUwTmRrV1ZiT0QyRmNfYlJSc3g5UkNOdEJHLWl4Tk5tZjE3aG1wTmZub21OMFBwVEc1NGR2bC10Q1RxNVZFTjZkLWp4V2JieVhpX09CVVZlTFhVclZYOE1UbmxQRi3SAboBQVVfeXFMUEd3eFVNeWpMcU9ZZ0FNWHZObklWVXdKRXhGR194cVFlQVlNUmJlaFo0ckRFem10Zmc4aFFIaUFkOS1PWExfd2tOTXQwQkZjSTZqUkY5RDJyYTRmaDhqcHhmdE1FeV9fbzFQY3F6NDRsVkxWVmlDeVVucWRkRDRiendnZzVvdXBjcjNOV1VBRGJkS3JCNTJiNWZZQTJSTTFFWVZrbmtwbi1VMzFJWTZwd0RkdXBaemI3QVFn?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Trump Threatens to Escalate War in Iran Even As End Is \"Close”",
+              "url": "https://www.bloomberg.com/news/videos/2026-04-02/trump-threatens-to-escalate-war-in-iran-video"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Iran's President questions 'America First' policy",
+          "neutralSummary": "Iran's President questions 'America First' policy",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "In Open Letter To US Citizens, Iran President Asks If War Puts \"America First\"",
+              "url": "https://www.ndtv.com/world-news/continuing-along-path-of-confrontation-futile-iran-president-to-americans-11299112#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Iran's President questions 'America First' policy",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-president-questions-america-first-policy-calls-washington-a-proxy-for-israel-in-open-letter/articleshow/129965345.cms"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "The Hindu",
               "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "7,748 personnel deployed for census work: Mysuru Deputy Commissioner",
-              "url": "https://www.thehindu.com/news/national/karnataka/7748-personnel-deployed-for-census-work-mysuru-deputy-commissioner/article70811509.ece"
+              "domain": "news.google.com",
+              "headline": "Iran-Israel war LIVE: Trump to address nation; Iran President asks U.S. people if war puts 'America First'",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdTBQX1g1ckdqQWRiT0pud25NT2lKbFlQRkdfT1ZKZ0lTYU1CSzJLUzYxZl9sUnprSV91SDVhRzlKYUFnNVp1LUF1NE0yMlZTZ3BvTGFNQnhvazB5U3ZUQ1pDLXJOMFk2RXl4UlY4bjJFbnBPUExoYjR5VGVhLVZuaGJ3VEcwSXZCeVluZTJlaUZrRTRhM29mazJRVWtYYlZYVVVvX0RZSXBNTENSZEZVcXplRWRwT2ZSQlZ4STBZbjVtZFJBb0Y4OGV5bkFuNHZCMlHSAdgBQVVfeXFMTUlCTjJ1cjFTcGFRLUZpem1NOXQwd2ZLd3B0MkIyaGhhTkh4VF9Zbi05LU80dzRsaFJ6NWRWN0xXQzdrcVdfcmtZTHB5VnIwZ3lUYU9vbjNEQXptN3d4OUlSczVmY296c1BvdGhremw2cDNFRUU1Y21xSTltUl9jVllVTUx4YWNhUDhLZ1VrY00wbnpEem1LTFFJQ1VsVld4UVNMRVhocnhEZEtSaXhVMXNFQXRaRlNmNExRQVItaHJFN09nd3dKdVhYTVJhSDFJY3cwbXBoTHRl?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Kharge vs Rijiju: Row over Modi absence at West Asia meet in Parliament",
+          "neutralSummary": "Kharge vs Rijiju: Row over Modi absence at West Asia meet in Parliament&nbsp;&nbsp;deccanherald.comM Kharge Questions PM's Absence From All-Party Meet, Kiren Rijiju Replies&nbsp;&nbsp;NDTVMallikarjun Kharge, Kiren Rijiju spar over fuel crisis debate amid US-Iran war&nbsp;&nbsp;telegraphindia.comOppo",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "M Kharge Questions PM's Absence From All-Party Meet, Kiren Rijiju Replies",
+              "url": "https://www.ndtv.com/india-news/mallikarjun-kharge-questions-pm-modis-absence-from-all-party-meet-kiren-rijiju-replies-11296781#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "deccanherald.com",
+              "initials": "D",
+              "domain": "news.google.com",
+              "headline": "Kharge vs Rijiju: Row over Modi absence at West Asia meet in Parliament",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeUNxcTc1aFFyTkpEMXZRTEczZDkzRnFWVHhKMzdieWd1TmFYM0RDSXA3VzFKY1RIRldXZEdva21kZ0Vuazhuajl4WF9DWDRBeHNLRmtVOTVTSHo3S1VBMUVNVDBHMXktQS1uWG52b082aS1YTFJGcVZoOWFhTzlTQjVNXy11OVJtRVFNQmRRbUNqOW1lSjhvNXpBTjlBY3BKOFdseEZfR1dWUGJVTjRlclBwZ2c3aDk3Ti01RkhXUDVuMWc?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "1 Dead, Buildings Damaged In 7.4 Earthquake In Indonesia, Tsunami Warning Lifted",
+          "neutralSummary": "A man inspects debris at the site of a damaged building following an earthquake in Indonesia",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "1 Dead, Buildings Damaged In 7.4 Earthquake In Indonesia, Tsunami Warning Lifted",
+              "url": "https://www.ndtv.com/world-news/powerful-7-8-magnitude-earthquake-hits-indonesia-tsunami-warning-issued-11299496#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "Magnitude 7.4 quake hits off Indonesia’s Ternate, tsunami warning lifted",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd19MRFdJeHpUZ0lVTTNYblFHSGRSV0J2ZWJtd1Vtb0x3dEs2djdDemJZbmtjSEdCVkJydUxiUXJtaXYyM1p0RHB0MFp6Z084ZjA3Vmw4QU90NHg2MWMxTUZ3OHpJcVlRWE52UkJoSUlfZnY0ckN4MmQtSUFiQUlBOGxtWmt4V093VC1TbXhteGk2R3BfcGVoR3BIMXdkeHNjZ21fbzl5T1ZBZURVY0d2U1puMNIBuAFBVV95cUxNQUtZbWRjcVlEbFVkTFNsbHhTN1RHSXVaUFdZbnZkdG1QTGhnLWV1NXVtcEJlQVZJNFNzYkFfM3pjMFBoZWRXNUtIYXlrLXpnN1FRTTBPQmhUM2x4dzBxMHBFWExkYjJvZUZDUHJETHE3eDJaaE82SHJwaEY2RGVLZ20teXdQRFA2UXdCZ05LcEFfMExydnhPYkVxeGRiOUdGWGVYbzEtczVOOEl0TUpLQVpuZENFSW1S?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Oil Jumps on Trump’s War Threat, Stock Rally Fades: Markets Wrap",
+          "neutralSummary": "Oil jumped, while stocks and bonds fell after President Donald Trump warned the US would hit Iran “extremely hard” over the next two to three weeks, undermining expectations for an imminent resolution to the five-week-old Middle East conflict.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Stock Market LIVE Updates: Markets Likely To Open In Red As Trump's Speech Triggers Oil Rally",
+              "url": "https://www.ndtv.com/india-news/stock-markets-live-updates-sensex-nifty-today-gift-nifty-donald-trump-iran-war-oil-prices-april-2-11299805#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Oil Jumps on Trump’s War Threat, Stock Rally Fades: Markets Wrap",
+              "url": "https://www.bloomberg.com/news/articles/2026-04-01/asian-stocks-to-rise-on-hopes-iran-war-nearing-end-markets-wrap"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "\"Horrible, Evil Genius\": Trump Recalls Killing Of Iran's Qasem Soleimani",
+          "neutralSummary": "Trump believes the US still would have won the war had Soleimani been alive.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "\"Horrible, Evil Genius\": Trump Recalls Killing Of Iran's Qasem Soleimani",
+              "url": "https://www.ndtv.com/world-news/trump-recalls-killing-of-irans-qasem-soleimani-horrible-evil-genius-iran-war-iran-israel-us-war-11299828#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "‘Iran’s navy gone… leaders dead’ to ‘I killed an evil genius’: Top quotes from Trump’s address to nation",
+              "url": "https://indianexpress.com/article/world/iran-war-trump-address-to-nation-key-takeaways-10614652/"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Lok Sabha Passes Bill To Declare Amaravati As Andhra Pradesh Capital",
+          "neutralSummary": "Lok Sabha Passes Bill To Declare Amaravati As Andhra Pradesh Capital&nbsp;&nbsp;Live LawJagan alleges corruption in Amaravati project, proposes ‘MAVIGUN’ as alternative&nbsp;&nbsp;The HinduAndhra Chief Minister Lauds Passage Of Amaravati Bill In Lok Sabha&nbsp;&nbsp;NDTVHistoric Amendment to Establi",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Andhra Chief Minister Lauds Passage Of Amaravati Bill In Lok Sabha",
+              "url": "https://www.ndtv.com/india-news/andhra-chief-minister-lauds-passage-of-amaravati-bill-in-lok-sabha-11299704#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "Live Law",
+              "initials": "LL",
+              "domain": "news.google.com",
+              "headline": "Lok Sabha Passes Bill To Declare Amaravati As Andhra Pradesh Capital",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT05WdFUxVVBBMVpZNzktUG5NQmZ4QlZDLUpoUmRoaGtnUlNpd2hnUVRsbmxISDdtQWduT1ZnTTU5cnQzSnFWSHE0M2JqRkNHcnA0ekJ0R3M3Rm5tNGJwY3dKeEtJd010UGlNN1pXY0F1N3VKQnlYbkswZWY0YjkzVDR2ZVp5SGQ3Y2hLMHFtclFsUUVhNWVETmtGRDRfSFVGbjdIbG5lY1YzNGw0c2NibdIBtgFBVV95cUxNZ0FtYmdyY25zelpUYnBCT3lxNVdoakU2RVY0UVVxUTR3NkpEZWVERV94b0ZndjlOUGNSR1dacld0bU1YS21PSDBRSlA5bXNHR2htTUk0R0ZfNWhpdmh0aU9MREp4LXNvdGROWTREV1B6SnVpUzlfX2R4Ul9HUG9sSWlBR0pRZzZDalFwSzI0Q3lmTnRnX3pKdDZsTndPcXVqN3VjR2Q5alllRkstSnlJZ0xfd2IyUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "'Floccinaucinihilipilification', 'Worthless' Complaint: Why Delhi Court Dismissed Defamation Case Against ...",
+          "neutralSummary": "'Floccinaucinihilipilification', 'Worthless' Complaint: Why Delhi Court Dismissed Defamation Case Against ...&nbsp;&nbsp;Live LawDelhi court dismiss defamation case filed by wife of AAP’s Somnath Bharti against Nirmala Sitharaman&nbsp;&nbsp;The HinduDelhi court dismisses defamation plea against Sith",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Delhi Court Dismisses Defamation Case Against Nirmala Sitharaman",
+              "url": "https://www.ndtv.com/india-news/delhi-court-dismisses-defamation-case-against-nirmala-sitharaman-filed-by-somnath-bhartis-wife-11299687#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Live Law",
+              "initials": "LL",
+              "domain": "news.google.com",
+              "headline": "'Floccinaucinihilipilification', 'Worthless' Complaint: Why Delhi Court Dismissed Defamation Case Against ...",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0JienVZRlZaaDZmLWxKbk1rakxOUzNRUmpETC1wd2RmSjZQUFY1Um55V21CRTlXRDB2MEtOMzAwSEZZVEtlSWRGSTYwcjJzOW5BTXg2Y1BISHotOU5Sajk3b3d0emNYSlZidllJTVYxOW5tTTFPVHdYMDBQOEZZaTlEb3l3N1RxTEsyZUdJaGNLMk8zdy1CbXdPUDBoNGc5N1J6LXBPYUNQd2fSAbABQVVfeXFMUDhYeXM0TnA1RHB1dmNoUk1XTEtmWmRaU1NSVnRKWFVMWG51UGVrcS0yaU5uVl9XTVZqc0p0M21ZZE5udThELW5lb1FqaUJUbWZxY1lDN29TbnlJdDlLSHBxS0dkY2d6cEY3YnlWYUkyajFaTTJVY00yY3hJQVpNcTR1Vm10RXRoaTdBeUZGSFpvQVFOQ1FhRXhVaFZhOEdMVkxkWFNpU3hRSC1adm9YUVk?oc=5"
             }
           ]
         }
