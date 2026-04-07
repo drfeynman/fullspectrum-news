@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-04-06T14:12:47.688872+00:00",
+  "generatedAt": "2026-04-07T04:25:03.632374+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Pope calls for peace, and Trump vows hell for Iran on Easter",
-          "neutralSummary": "Pope calls for peace, and Trump vows hell for Iran on Easter&nbsp;&nbsp;AxiosPope Leo XIV Calls for Peace in First Easter Mass&nbsp;&nbsp;The New York TimesPope at Regina Caeli urges Christians to give voice to hope stifled by violence&nbsp;&nbsp;Vatican NewsNot in God’s name: How Pope Leo is pushin",
+          "neutralHeadline": "Trump says Iran could be 'taken out' on Tuesday",
+          "neutralSummary": "U.S. President ​Donald Trump on Monday told reporters that Iran could be taken out in one night, \"and that night might be tomorrow night,\" warning Tehran it had to make a deal by Tuesday night or face wider bombing raids. FRANCE 24's Reza Sayah reports from Tehran.",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "U.S., Iran Study Ceasefire Plan As Trump’s ‘Hell’ Warning Nears Deadline",
-              "url": "https://www.huffpost.com/entry/us-iran-ceasefire-plan_n_69d3b259e4b05047ac8eff37"
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
+              "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -24,17 +24,119 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Iran pushes back against Trump's deadline to open the Strait of Hormuz",
-              "url": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates"
+              "headline": "Trump threatens Iran's power plants, bridges. And, Artemis II readies for lunar flyby",
+              "url": "https://www.npr.org/2026/04/06/g-s1-116535/up-first-newsletter-trump-strait-of-hormuz-artemis-two-lunar-flyby-savannah-nancy-guthrie-ada"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Trump threatens new rampage as Iran deal deadline nears",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQblhFUEFiTDhvdnEzaEV6Ym9rMF9yXzFmVEwydXc0LXRYblNnM0lBbnphaUUtV1BJOFB1YmVlV0RnRGlKUzJ3QVVYSnRmVGs4VUxpME93azhJREhhLWVmVnNiNnhXWlNiaEFrUkNGTmNnZEs0MkRUZXpiZy0wdDFrcENYRkhsMjNNN05QNDNkb0t2YW1fUDFj?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/4/7/iran-war-live-trump-warns-of-devastating-attacks-as-deal-deadline-nears?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Trump says Iran could be 'taken out' on Tuesday",
+              "url": "https://www.france24.com/en/trump-says-iran-could-be-taken-out-on-tuesday"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "\"Slim Hope For Resolution\" Before Trump's Iran Deadline",
+              "url": "https://www.bloomberg.com/news/videos/2026-04-07/-slim-hope-for-resolution-before-trump-s-iran-deadline-video"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Donald Trump says US could destroy Iran ‘in one night’ as he demands opening of Strait of Hormuz",
+          "neutralSummary": "Donald Trump says US could destroy Iran ‘in one night’ as he demands opening of Strait of Hormuz&nbsp;&nbsp;Financial TimesTrump Says Iran Proposal Isn’t Enough to Stop Attacks on Bridges and Power Plants&nbsp;&nbsp;The New York TimesInside Iran's 10-point proposal to end war after rejecting US ceas",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Gives Iran 48 Hours To Open Strait Of Hormuz As Search Continues For Missing U.S. Pilot",
+              "url": "https://www.huffpost.com/entry/us-presses-search-missing-pilot-as-iran-calls-on-public-to-find-enemy_n_69d0fb6ae4b05047ac8e9784"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Financial Times",
+              "initials": "FT",
+              "domain": "news.google.com",
+              "headline": "Donald Trump says US could destroy Iran ‘in one night’ as he demands opening of Strait of Hormuz",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzdNd1NOV1dkOUpEWWxpc0t0bFRfLS16R216bzhkNGNWdDROSWVNeHZPVFp0VDlQNFpEWkRFZVlGdEE5MXc1SUJ4bnM5d0RaTjduSGFiZmJZdHV1UGpCX0kxb01ya2dOWVF0X0NqT1BacXUxMjJiU3V1d2ZCSWd5Y0ExUE8?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Trump says US could charge for Strait of Hormuz passage amid Iran war",
+              "url": "https://www.aljazeera.com/news/2026/4/6/trump-says-us-could-charge-for-strait-of-hormuz-passage-amid-iran-war?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Thailand PM urges working from home amid fears over energy crisis",
+          "neutralSummary": "Anutin Charnvirakul encourages measures such as home working and carpooling as country is reliant on oil importsThailand’s prime minister, Anutin Charnvirakul, has called on the public to conserve energy, urging work-from-home measures and carpooling, as he warned of the impact of the conflict in th",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Thailand PM urges working from home amid fears over energy crisis",
+              "url": "https://www.theguardian.com/world/2026/apr/06/thailand-pm-calls-for-energy-saving-as-middle-east-conflict-drives-price-surge"
             },
             {
               "political": "right",
               "tone": "neutral",
               "source": "Fox News",
               "initials": "FN",
-              "domain": "news.google.com",
-              "headline": "Trump warns Iran he may strike 'every power plant' as deadline to reopen Hormuz nears",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wOXZnd2Y0dlFwVEp0SmdYU0tDaWYzSlU1QTdWZkVpb0xEeTJ1Ni1SUFNXcEEtQzN4bzJhRTlzUG44Vld1djc3NHFUSXlocXZmYnk0dGZNT293eU9Qbm8xTHpaR0dUbUVJdUhJellGRkNoZENjck5XWFV30gF_QVVfeXFMTXpsc3FOMEM0WUZUdHpzX1BRWjg5emxueGVvaDhpOUpjTlVOR19nVmpwV0hnWVUxRkF2TUN4Xy11VHI0ZkZhTjk4WWNQRm9iZFBjQkgzMDdCRlZPV000eEtCZ3hpTFhPM2JVdHEtVE9Qa0F2THkxVWJLbDJjaWdIVQ?oc=5"
+              "domain": "foxnews.com",
+              "headline": "Cuba releases 2,000 prisoners amid Trump pressure, energy crisis",
+              "url": "https://www.foxnews.com/world/cuba-releases-2000-prisoners-amid-trump-pressure-energy-crisis"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Pope calls for peace, and Trump vows hell for Iran on Easter",
+          "neutralSummary": "Pope calls for peace, and Trump vows hell for Iran on Easter&nbsp;&nbsp;axios.comOpinion | Pope Leo XIV Goes to War&nbsp;&nbsp;WSJOn Easter, Pope Leo delivers commanding message of peace to a world at war&nbsp;&nbsp;The Washington PostPope Leo XIV Calls for Peace in First Easter Mass&nbsp;&nbsp;The",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Pope Leo Marks First Easter As Pontiff With Call For Hope Amid Iran War",
+              "url": "https://www.huffpost.com/entry/pope-leo-first-easter-homily-2026_n_69d23632e4b0d214cc71b62c"
             },
             {
               "political": "center",
@@ -44,88 +146,27 @@
               "domain": "news.google.com",
               "headline": "Pope calls for peace, and Trump vows hell for Iran on Easter",
               "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2U4TDVhRlBuUUcxTW5md21PaGhmZmUxcEVZenhOUmhXUFAzbm1xeWt2TzY3RUFqU3FrVGxPbmFwSWNpNnlYQnpINnBTdndGS05CY19XeEFTMmZRc1c4NEd5TnNrXzlpd1RFeGk1SDVHSmF4RzFCWks0Qi04QTdJczF4SG9zVjZI?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Trump’s ‘Bridge Day’ threat: Can a last-ditch ceasefire plan work?",
-              "url": "https://www.aljazeera.com/news/2026/4/6/trumps-bridge-day-threat-can-a-last-ditch-ceasefire-plan-work?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Oil Swings With Focus on Push for Iran Truce and Trump Deadline",
-              "url": "https://www.bloomberg.com/news/articles/2026-04-05/latest-oil-market-news-and-analysis-for-april-6"
             }
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "Iran war: Top intelligence chief killed in Israeli strike",
-          "neutralSummary": "Iran war: Top intelligence chief killed in Israeli strike&nbsp;&nbsp;DW.comLive updates: Israel says it attacked South Pars plant as Trump amps up threats against Iran&nbsp;&nbsp;AP NewsCluster missile attack causes widespread damage in central Israel, one injured&nbsp;&nbsp;The Times of IsraelIrani",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "DW.com",
-              "initials": "D",
-              "domain": "news.google.com",
-              "headline": "Iran war: Top intelligence chief killed in Israeli strike",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaFd0UGtZQUpoMnRVcG5LVDlpOHR2akUzb0lodkVnOXdZTGtQcllab242QUotTEgzREZuZS1iUFhFdzJMbThIZ2tLbWtDWjJIVmNENThjSWxmUnhKbDYxZERxSnI0LWFCaVZHS0VmZ3Rzd215VnBYM0d1LU1qTFZUdmRWSFViWk1zSmN6Nl94VDhld3lzenFF?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Israeli strikes kill Iran Guards intel chief as Trump deadline looms",
-              "url": "https://www.france24.com/en/israeli-strikes-kill-iran-guards-intel-chief-as-trump-deadline-looms"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "IDF confirms IRGC intel chief killed; Quds Force commander also eliminated in strike",
-              "url": "https://www.foxnews.com/world/idf-confirms-irgc-intel-chief-killed-quds-force-commander-also-eliminated-strike"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Thailand PM calls for energy saving as Middle East conflict drives price surge",
-          "neutralSummary": "Anutin Charnvirakul encourages measures such as home working and carpooling as country is reliant on oil importsThailand’s prime minister, Anutin Charnvirakul, has called on the public to conserve energy, urging work-from-home measures and carpooling, as he warned of the impact of the conflict in th",
+          "id": "global-5",
+          "neutralHeadline": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+          "neutralSummary": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Thailand PM calls for energy saving as Middle East conflict drives price surge",
-              "url": "https://www.theguardian.com/world/2026/apr/06/thailand-pm-calls-for-energy-saving-as-middle-east-conflict-drives-price-surge"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "European Ministers Call For Profit Caps On Energy Companies As Iran War Drives Price Surge",
-              "url": "https://www.huffpost.com/entry/european-ministers-call-profit-caps-on-energy-companies-iran-war-drives-price-surge_n_69d11acce4b05047ac8e9925"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+              "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "id": "global-4",
+          "id": "global-6",
           "neutralHeadline": "How rescue of US airman in remote part of Iran unfolded",
           "neutralSummary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
           "versions": [
@@ -141,18 +182,18 @@
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "How US operation to rescue air officer from Iran unfolded",
-              "url": "https://www.aljazeera.com/news/2026/4/6/how-us-operation-to-rescue-air-officer-from-iran-unfolded?traffic_source=rss"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump provides details behind the dramatic rescue of an American airman trapped in Iran",
+              "url": "https://www.npr.org/2026/04/06/nx-s1-5775736/trump-provides-details-behind-the-dramatic-rescue-of-an-american-airman-trapped-in-iran"
             }
           ]
         },
         {
-          "id": "global-5",
-          "neutralHeadline": "Young gray whale dies after swimming up river in Washington state",
-          "neutralSummary": "Hunger is a likely reason the whale, dubbed Willapa Willy, travelled inland, experts say.",
+          "id": "global-7",
+          "neutralHeadline": "Kanye West's right to enter UK under review after festival outcry",
+          "neutralSummary": "The rapper's appearance in London in July has caused controversy because of his past antisemitic comments.",
           "versions": [
             {
               "political": "left",
@@ -160,24 +201,49 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Young gray whale dies after swimming up river in Washington state",
-              "url": "https://www.bbc.com/news/articles/cew7n4glz54o?at_medium=RSS&at_campaign=rss"
+              "headline": "Kanye West's right to enter UK under review after festival outcry",
+              "url": "https://www.bbc.com/news/articles/cwywnkdn3zno?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Gray whale that swam 20 miles up a Washington state river is found dead",
-              "url": "https://nypost.com/2026/04/06/us-news/gray-whale-that-swam-20-miles-up-a-washington-state-river-is-found-dead/"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "A music festival booked Kanye West, now known as Ye, and lost major sponsors",
+              "url": "https://www.npr.org/2026/04/05/nx-s1-5774562/kanye-west-ye-wireless-festival-london-uk-pepsi-diageo"
             }
           ]
         },
         {
-          "id": "global-6",
-          "neutralHeadline": "War in the Middle East: Donald Trump threatens to hit Iran power plants",
-          "neutralSummary": "Israeli strikes killed the intelligence chief of Iran's Revolutionary Guards, as the Islamic republic on Monday defied threats from US President Donald Trump to devastate civilian infrastructure if it does not reopen the Strait of Hormuz.",
+          "id": "global-8",
+          "neutralHeadline": "US Supreme Court paves way for dismissal of Steve Bannon conviction",
+          "neutralSummary": "The order allows a lower court to consider dismissing the former Trump strategist's indictment.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "US Supreme Court paves way for dismissal of Steve Bannon conviction",
+              "url": "https://www.bbc.com/news/articles/cgqk4kyj4yvo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "US Supreme Court clears path for Steve Bannon criminal case dismissal",
+              "url": "https://www.aljazeera.com/news/2026/4/6/us-supreme-court-clears-path-for-steve-bannon-criminal-case-dismissal?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Trump steps up Iran threats, highlights successful rescue mission",
+          "neutralSummary": "US President Donald Trump said Monday he would lay waste to every bridge and power plant in Iran if it fails to bend to his demands, as he touted the high-risk operation that rescued two downed airmen.",
           "versions": [
             {
               "political": "left",
@@ -185,8 +251,8 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Trump threatens Iran's power plants, bridges. And, Artemis II readies for lunar flyby",
-              "url": "https://www.npr.org/2026/04/06/g-s1-116535/up-first-newsletter-trump-strait-of-hormuz-artemis-two-lunar-flyby-savannah-nancy-guthrie-ada"
+              "headline": "Trump reiterates threats to bomb Iran's power plants and bridges",
+              "url": "https://www.npr.org/2026/04/06/nx-s1-5775669/trump-iran-war-deadline-press-conference"
             },
             {
               "political": "center",
@@ -194,65 +260,8 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "War in the Middle East: Donald Trump threatens to hit Iran power plants",
-              "url": "https://www.france24.com/en/war-in-the-middle-east-donald-trump-threatens-to-hit-iran-power-plants"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted",
-          "neutralSummary": "Lebanon says at least 54 health workers are among more than 1,400 people killed by Israel during the current invasion. Human rights groups say first responders are being targeted — something Israel denies.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "In Lebanon, more than 50 medics have been killed by Israel. Some say they're targeted",
-              "url": "https://www.npr.org/2026/04/05/nx-s1-5763606/lebanon-medics-killed-targeted-israel"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "‘Smell’ of war comes to St Petersburg as Ukraine hammers Russian refineries",
-          "neutralSummary": "‘Smell’ of war comes to St Petersburg as Ukraine hammers Russian refineries&nbsp;&nbsp;Al JazeeraRussian Offensive Campaign Assessment, April 5, 2026&nbsp;&nbsp;Institute for the Study of WarRussia’s Key Black Sea Oil Terminal on Fire, NASA Data Show&nbsp;&nbsp;Bloomberg.comRussian Baltic port resum",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "‘Smell’ of war comes to St Petersburg as Ukraine hammers Russian refineries",
-              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYkg1WnlBNjRXLXdHclNNd1pyRi10LUt6VlF1TDB0UHdqUF9FYUhFQjVmZ0doQ2prUnBBYUk4a3JjalFxYjUyZmEyVk4zejR3ZDlERnM0RTJfbVVQaHBkbjYtV1VpMkRKeEYtVmdWeEh4Y3pKYjNIZ0o1WXNSMzVjU2VQc1MzUFNrUEpQS2Zacmxod1Z0LUllVUd0c3FuSUp4QWxSMFVPY21tYTI4elBMSm0yTlN1WU1L0gG-AUFVX3lxTE1sU2pETk50dU5nclhCYndfWllvTXkxNk9lcjFHdnJJclItU2hUWUlMWXRBSW96R3lNdW9fSTVNaEVuZTF5cWJacjNFMWc3b1J4RFhNZGRXS0lmRjBIWENVQnFkUXJySWI5SmR6cXozVWMyYWRTZDNyTDhZMEt0YWlZajJ0UGdGaE1IRGJMckRjYzdtTnhWclc3bXR1N3lmTzRHLXYtdlpEMmdvcUNHd2E1UThyb1NSbkxIN3lNc1E?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "South Korea says 'credible intelligence' indicates North Korean leader's daughter is successor",
-          "neutralSummary": "South Korea says 'credible intelligence' indicates North Korean leader's daughter is successor&nbsp;&nbsp;ReutersView Full Coverage on Google News",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "South Korea says 'credible intelligence' indicates North Korean leader's daughter is successor",
-              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdTRoVm5Sb2QtX0pmOEdERmdxSmpFVDFmNHdVMHJwbEV2Zkd1MHFTZXJNZ2pLMGRmRDhhS1E1QjlPSVpGdHBlbE0tNTUxZmktc1M2STNyYnpuMm9WWmxjMk5MelRhaUl1R1lFU3RMYXE3YWVZcF9UTTZ1OXgyWnktNE1iZ0J0dGRMZFpwaEtwcGphbjJSMVJyVUhfZFVwYXI1Zk4tMjVNZUZOT1oyNHYwNVduZHlZQmY0NHNId051WUt6MHRtX0xBb1M1bVN3dw?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "'Credible intelligence' reveals North Korea's successor to Kim Jong Un, South Korea says",
-              "url": "https://www.foxnews.com/world/credible-intelligence-reveals-north-koreas-successor-kim-jong-un-south-korea-says"
+              "headline": "Trump steps up Iran threats, highlights successful rescue mission",
+              "url": "https://www.france24.com/en/americas/20260406-trump-steps-up-iran-threats-highlights-successful-rescue-mission"
             }
           ]
         }
@@ -263,112 +272,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Pope calls for peace, and Trump vows hell for Iran on Easter",
-          "neutralSummary": "Pope calls for peace, and Trump vows hell for Iran on Easter&nbsp;&nbsp;AxiosPope Leo XIV Calls for Peace in First Easter Mass&nbsp;&nbsp;The New York TimesPope at Regina Caeli urges Christians to give voice to hope stifled by violence&nbsp;&nbsp;Vatican NewsOpinion | The president and the pope had",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump's Unhinged Easter Message To Iran: 'Open The F**kin' Strait, You Crazy Bastards!'",
-              "url": "https://www.huffpost.com/entry/trump-open-strait-of-hormuz-iran-threat-truth-social_n_69d2b05ae4b0d214cc71cc3b"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Iran pushes back against Trump's deadline to open the Strait of Hormuz",
-              "url": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Axios",
-              "initials": "AX",
-              "domain": "news.google.com",
-              "headline": "Pope calls for peace, and Trump vows hell for Iran on Easter",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2U4TDVhRlBuUUcxTW5md21PaGhmZmUxcEVZenhOUmhXUFAzbm1xeWt2TzY3RUFqU3FrVGxPbmFwSWNpNnlYQnpINnBTdndGS05CY19XeEFTMmZRc1c4NEd5TnNrXzlpd1RFeGk1SDVHSmF4RzFCWks0Qi04QTdJczF4SG9zVjZI?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Live updates: Trump to hold press conferences as deadline nears for Iran to open Strait of Hormuz",
-              "url": "https://thehill.com/homenews/administration/5816939-trump-iran-press-conference/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Why the Strait of Hormuz matters as Trump issues fresh ultimatum to Iran",
-              "url": "https://www.foxnews.com/politics/why-strait-hormuz-matters-trump-issues-fresh-ultimatum-iran"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump cranks his ‘madman’ persona up to 11: ‘Open the F*****’ Strait, you crazy b*******’",
-              "url": "https://www.washingtonexaminer.com/policy/defense/4516824/trump-cranks-his-madman-persona-up-to-11-open-the-f-strait-you-crazy-bastards/"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Trump Vows To Strike Civilian Infrastructure If Iran Does Not Reopen Strait Of Hormuz",
-          "neutralSummary": "In a violent Easter Sunday post, the president threatened to destroy Iran's power plants and bridges&nbsp;&mdash; a potential war crime under international law.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Vows To Strike Civilian Infrastructure If Iran Does Not Reopen Strait Of Hormuz",
-              "url": "https://www.huffpost.com/entry/iran-war-us-crew-rescue_n_69d1e273e4b05537a7f16e1b"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "news.google.com",
-              "headline": "Trump warns Iran he may strike 'every power plant' as deadline to reopen Hormuz nears",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wOXZnd2Y0dlFwVEp0SmdYU0tDaWYzSlU1QTdWZkVpb0xEeTJ1Ni1SUFNXcEEtQzN4bzJhRTlzUG44Vld1djc3NHFUSXlocXZmYnk0dGZNT293eU9Qbm8xTHpaR0dUbUVJdUhJellGRkNoZENjck5XWFV30gF_QVVfeXFMTXpsc3FOMEM0WUZUdHpzX1BRWjg5emxueGVvaDhpOUpjTlVOR19nVmpwV0hnWVUxRkF2TUN4Xy11VHI0ZkZhTjk4WWNQRm9iZFBjQkgzMDdCRlZPV000eEtCZ3hpTFhPM2JVdHEtVE9Qa0F2THkxVWJLbDJjaWdIVQ?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "CNN",
-              "initials": "CNN",
-              "domain": "news.google.com",
-              "headline": "Live updates: Iran rejects temporary ceasefire, as Trump sets deadline for reopening Strait of Hormuz",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CTXpWN2xQamtoU0dNZ3NCdEFJcjJkYkU2X3VrcjFNLXVUX2hybWk2eTdVWnVVb2NDeWJqNUFnVk9UOEppN2Nockczc1FQVkE4dFZrTy1VWWdKUk43M2E4UFNYZGxRSzNtbDVIc2gxc2pVZWRuS1p3?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "What could happen when Trump’s 48-hour Strait of Hormuz deadline lapses?",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4516554/what-could-happen-trump-hormuz-deadline/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Supreme Court paves way for Steve Bannon contempt case to be dismissed",
-          "neutralSummary": "Supreme Court paves way for Steve Bannon contempt case to be dismissed&nbsp;&nbsp;NBC NewsSupreme Court clears path for Trump’s DOJ to dismiss criminal case against Steve Bannon&nbsp;&nbsp;CNNSupreme Court agrees to help Trump DOJ move to dismiss Steve Bannon’s contempt case&nbsp;&nbsp;ms.nowUS Supr",
+          "neutralHeadline": "5 takeaways from Trump’s news conference on Iran",
+          "neutralSummary": "President Trump came to the lectern of the White House briefing room Monday for a lengthy news conference about the war on Iran. Trump, flanked by key allies including Defense Secretary Pete Hegseth, spent much of the first part of the event outlining how an airman who had been forced to eject from",
           "versions": [
             {
               "political": "left",
@@ -376,7 +281,107 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Supreme Court Clears the Way for Dismissal of Bannon Conviction",
+              "headline": "6 Takeaways From Trump’s News Conference on Iran",
+              "url": "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-news-conference.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "5 takeaways from Trump’s news conference on Iran",
+              "url": "https://thehill.com/homenews/administration/5818675-trump-threatens-iran-action/"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Hegseth Likens Easter Rescue of U.S. Airman to Resurrection of Jesus Christ",
+          "neutralSummary": "President Trump also asserted that God supports the American war against Iran “because God is good, and God wants to see people taken care of.”",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Hegseth Likens Easter Rescue of U.S. Airman to Resurrection of Jesus Christ",
+              "url": "https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Hegseth ties Iran rescue to Easter story and Jesus Christ: 'A pilot reborn'",
+              "url": "https://www.foxnews.com/politics/hegseth-ties-iran-rescue-easter-story-jesus-christ-a-pilot-reborn"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Trump Says Iran Proposal Isn’t Enough to Stop Attacks on Bridges and Power Plants",
+          "neutralSummary": "President Trump has told Iran it must open the Strait of Hormuz by 8 p.m. Tuesday or face the consequences, although he has delayed previous deadlines.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Says Iran Proposal Isn’t Enough to Stop Attacks on Bridges and Power Plants",
+              "url": "https://www.nytimes.com/2026/04/06/us/politics/trump-iran-cease-fire-proposal.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump reiterates threats to bomb Iran's power plants and bridges",
+              "url": "https://www.npr.org/2026/04/06/nx-s1-5775669/trump-iran-war-deadline-press-conference"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Shots Fired at Indianapolis Councilman’s Home, After Vote Backing Data Center",
+          "neutralSummary": "No one was injured, but the councilman, Ron Gibson, called it “deeply unsettling.”",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Shots Fired at Indianapolis Councilman’s Home, After Vote Backing Data Center",
+              "url": "https://www.nytimes.com/2026/04/06/us/indianapolis-data-center-shooting.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Shots fired at home of Indiana politician, who found ‘No data centers’ note",
+              "url": "https://www.washingtonpost.com/nation/2026/04/06/data-center-threat-shooting-indianapolis/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "US Supreme Court clears way for dismissal of case against Trump ally Steve Bannon",
+          "neutralSummary": "US Supreme Court clears way for dismissal of case against Trump ally Steve Bannon&nbsp;&nbsp;ReutersSupreme Court Clears the Way for Dismissal of Steve Bannon’s Conviction&nbsp;&nbsp;The New York TimesSupreme Court clears path for Trump’s DOJ to dismiss criminal case against Steve Bannon&nbsp;&nbsp;",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Supreme Court Clears the Way for Dismissal of Steve Bannon’s Conviction",
               "url": "https://www.nytimes.com/2026/04/06/us/politics/supreme-court-bannon-trump.html"
             },
             {
@@ -391,113 +396,18 @@
             {
               "political": "center",
               "tone": "neutral",
-              "source": "NBC News",
-              "initials": "NN",
+              "source": "Reuters",
+              "initials": "R",
               "domain": "news.google.com",
-              "headline": "Supreme Court paves way for Steve Bannon contempt case to be dismissed",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmVaTEh2QUU5MGFUbm9MbG90M1JpSlI0SmtyZWtMbVRwX09ZMEtsQmlnMS1pVkhfM0pwaHVMdk1ZdXJJMXRINWI1ckg4V2lzWU1RUUo0d21hWVNPYkhEMnZJMTUtM3IyMWVGRmRaM3hCdjBHaF9zUWVKOWRxNDVqRkFzaDNBVmN0QjBMdF9IWTVVeDZ1OXJqQnFyT2FGZ29RNTZwcFBFaGNJczVpZ0JZWGJzVXZDRkxGa1E?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Supreme Court clears way for dismissal in case of ex-Cincinnati councilman pardoned by Trump",
-              "url": "https://thehill.com/regulation/court-battles/5817731-cincinnati-councilman-bribery-pardon-supreme-court/"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Savannah Guthrie returns to ‘Today’ show",
-          "neutralSummary": "Savannah Guthrie returned to the &#8220;Today&#8221; show desk on Monday, weeks after her mother went missing in an apparent kidnapping authorities have been unable to solve. &#8220;Welcome to &#8216;Today&#8217; on this Monday morning. We are so glad you started your week with us, and it is good to",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Savannah Guthrie Returns To 'Today,' U.S. Pilots' Rescue Explained: Live Updates",
-              "url": "https://www.huffpost.com/entry/latest-updates_n_69d3a02fe4b05537a7f1b1ba"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Savannah Guthrie returns to the 'Today' show months after her mother's disappearance",
-              "url": "https://www.npr.org/2026/04/06/nx-s1-5772715/savannah-guthrie-today-show-return"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Savannah Guthrie returns to ‘Today’ show",
-              "url": "https://thehill.com/homenews/media/5817722-savannah-guthrie-today-show/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Savannah Guthrie returns to the ‘Today’ show 2 months after mom vanished: ‘Good to be home’",
-              "url": "https://nypost.com/2026/04/06/us-news/savannah-guthrie-returns-to-the-today-show-2-months-after-mom-snatched-from-home/"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Trump endorses former Fox News host Steve Hilton in California governor race",
-          "neutralSummary": "President Trump is backing Republican former Fox News host Steve Hilton in the race for California governor. “I have known and respected Steve Hilton, who is running for Governor of California, for many years. He is a truly fine man, one who has watched as this once great State has gone to Hell,” Tr",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "Trump endorses Steve Hilton in California governor's race",
-              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNkYyM3c4TXlCTFJ0ampldmJiaVBDRklUellodTAzZ0x0MnA5S0p3bXlGanhZRVJUWEpMNkwyOGJBUUltOWM3WTc0RmNVOWRmbF9vZ1lFaGozb044aUlLU2tBSHhyOHJmSHN4b3pPaE51dVlZUThyZlJ3R0RJWGtoS3hkWXQ4RVgyN2NIVkNvaVlabF9EcnByNzEzaWtsNDVqYnBJZ1Y3NXB3QQ?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump endorses former Fox News host Steve Hilton in California governor race",
-              "url": "https://thehill.com/homenews/campaign/5817681-donald-trump-steve-hilton-endorsement/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "President Trump makes endorsement in California gubernatorial race: 'He will be a GREAT Governor'",
-              "url": "https://www.foxnews.com/politics/president-trump-makes-endorsement-california-gubernatorial-race-he-great-governor"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Trump endorses former British government aide Steve Hilton in California governor’s race",
-              "url": "https://nypost.com/2026/04/06/us-news/trump-endorses-former-british-government-aide-steve-hilton-in-california-governors-race/"
+              "headline": "US Supreme Court clears way for dismissal of case against Trump ally Steve Bannon",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbldpd2lPakVwU0NZSWJSbHRiTEN3eEQ1d0xTRUFUdVFZOTBOVjVFOTd2YlNnakVvWUZwb3AtU1drLVZXTjloczdaNVJYQ1REOTFVcElVTVZmRWZxUlg2U05MNktnVU1NWVAzbFZnY0Rnd0xVVF9BTUp0aEtTQko0eXREbHZuYV94ZmxrdnBtcFhhaFN4dHNuTlhOckw4ZGNVSFZJRUlFaDc4bV9Hdk11WGFmVTFZems?oc=5"
             }
           ]
         },
         {
           "id": "us-6",
-          "neutralHeadline": "Democrats Clash Over Whether To Meet With Controversial Streamer",
-          "neutralSummary": "In recent weeks, Hasan Piker's involvement with the Democratic Party has come under attack.&nbsp;",
+          "neutralHeadline": "Trump suggests US could charge toll for Strait of Hormuz passage",
+          "neutralSummary": "President Trump suggested Monday that the U.S. could impose its own tolls on vessels trying to transit through the Strait of Hormuz — a strategy employed by Iran as it continues to control the key energy shipping choke point. During a White House press conference, a reporter asked Trump whether he w",
           "versions": [
             {
               "political": "left",
@@ -505,33 +415,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Democrats Clash Over Whether To Meet With Controversial Streamer",
-              "url": "https://www.huffpost.com/entry/cory-booker-ro-khanna-hasan-piker_n_69d2b397e4b0d214cc71ccbb"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Democrats, Republicans Clash Over Iran War in Week 6",
-              "url": "https://www.nytimes.com/2026/04/05/us/politics/democrats-republicans-trump-iran-war.html"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Trump administration asks appeals court to let White House ballroom construction resume",
-          "neutralSummary": "The Trump administration has asked a federal appeals court to let construction of President Trump&#8217;s $400 million White House&#160;ballroom project resume after a judge halted it. In an emergency motion late Friday, the Justice Department said that leaving the ballroom unfinished would &#8220;i",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Administration Asks Appeals Court To Pause Order Halting White House Ballroom Construction",
-              "url": "https://www.huffpost.com/entry/trump-white-house-ballroom_n_69d17ff5e4b0d214cc71a6d3"
+              "headline": "Trump Vows To Strike Civilian Infrastructure If Iran Does Not Reopen Strait Of Hormuz",
+              "url": "https://www.huffpost.com/entry/iran-war-us-crew-rescue_n_69d1e273e4b05537a7f16e1b"
             },
             {
               "political": "center",
@@ -539,15 +424,15 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Trump administration asks appeals court to let White House ballroom construction resume",
-              "url": "https://thehill.com/regulation/court-battles/5817630-white-house-ballroom-lawsuit/"
+              "headline": "Trump suggests US could charge toll for Strait of Hormuz passage",
+              "url": "https://thehill.com/homenews/administration/5818431-trump-us-tolls-strait-of-hormuz/"
             }
           ]
         },
         {
-          "id": "us-8",
-          "neutralHeadline": "Judge Halts Trump Effort Requiring Colleges To Show They Aren’t Considering Race In Admissions",
-          "neutralSummary": "Trump ordered the data collection in August after he raised concerns that colleges and universities were using personal statements and other proxies to consider race.",
+          "id": "us-7",
+          "neutralHeadline": "John Bolton Says Latest Iran War Development Has Trump 'Back In A Panic Mode'",
+          "neutralSummary": "The former national security adviser said this \"self-inflicted wound\" makes President Donald Trump and his White House look \"foolish.\"",
           "versions": [
             {
               "political": "left",
@@ -555,42 +440,58 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Judge Halts Trump Effort Requiring Colleges To Show They Aren’t Considering Race In Admissions",
-              "url": "https://www.huffpost.com/entry/judge-halts-trump-effort-requiring-colleges-to-show-they-arent-considering-race-in-admissions_n_69d135d7e4b0d214cc71969e"
+              "headline": "John Bolton Says Latest Iran War Development Has Trump 'Back In A Panic Mode'",
+              "url": "https://www.huffpost.com/entry/john-bolton-donald-trump-back-in-a-panic-mode-iran-war-fighter-jets_n_69d1138fe4b05047ac8e98dd"
             },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Federal judge blocks Trump push to collect race-based admissions data",
-              "url": "https://www.foxnews.com/politics/federal-judge-blocks-trump-push-collect-race-based-admissions-data"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "How one Democratic senator is tackling Trump’s corruption",
-          "neutralSummary": "President Donald Trump’s blatant, sometimes open corruption can feel disorienting. While other White Houses have made a point to show their administration is not for sale, this one has seemingly done the opposite — making a big show of their transactional relationship with corporations, Silicon Vall",
-          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "Vox",
               "initials": "VOX",
               "domain": "vox.com",
-              "headline": "How one Democratic senator is tackling Trump’s corruption",
-              "url": "https://www.vox.com/podcasts/484772/chris-murphy-interview-trump-corruption-democracy-economy"
+              "headline": "Why Trump’s latest threat against Iran could be a war crime",
+              "url": "https://www.vox.com/politics/484932/trump-threat-war-crimes-electricity-bridges"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "How Trump’s Endorsement in California Could Backfire Against Republicans",
+          "neutralSummary": "President Trump endorsed Steve Hilton, a Republican, in the governor’s race, which could help Democrats avoid being shut out of the general election.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "How Trump’s Endorsement in California Could Backfire Against Republicans",
+              "url": "https://www.nytimes.com/2026/04/06/us/california-governor-trump-hilton-democrats.html"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Trump Administration Pulls Out of Civil Rights Settlements Backing Trans Students",
+          "neutralSummary": "The Education Department said there was no precedent for the federal government terminating settlements stemming from civil rights investigations into schools.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Administration Pulls Out of Civil Rights Settlements Backing Trans Students",
+              "url": "https://www.nytimes.com/2026/04/06/us/politics/transgender-students-civil-rights.html"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "How Trump and Tokyo are tackling the treacherous copper gap with China",
-              "url": "https://www.washingtonexaminer.com/op-eds/4515854/trump-tokyo-tackling-treacherous-copper-gap-china/"
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Trump administration to end civil rights settlements for trans students",
+              "url": "https://www.washingtonpost.com/education/2026/04/06/education-department-transgender-settlements/"
             }
           ]
         }
@@ -601,8 +502,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Man to be charged after allegedly slapping 4-year-old boy outside Woodlands pre-school",
-          "neutralSummary": "The incident occurred on March 6.",
+          "neutralHeadline": "Man charged after he allegedly slapped 4-year-old boy at Woodlands bus stop",
+          "neutralSummary": "Muhammad Firdhaus Mokhtar, 36, also threatened to break the boy's fingers.",
           "versions": [
             {
               "political": "center",
@@ -610,14 +511,14 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Man to be charged after allegedly slapping 4-year-old boy outside Woodlands pre-school",
-              "url": "https://www.straitstimes.com/singapore/man-to-be-charged-after-allegedly-slapping-4-year-old-boy-outside-woodlands-pre-school"
+              "headline": "Man charged after he allegedly slapped 4-year-old boy at Woodlands bus stop",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/man-charged-after-he-allegedly-slapped-4-year-old-boy-at-woodlands-bus-stop"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
+              "source": "channelnewsasia.com",
+              "initials": "C",
               "domain": "news.google.com",
               "headline": "Man to be charged after allegedly slapping four-year-old boy outside preschool in Woodlands",
               "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmhyMF9McFRRdzQ2SG9EcmhhX1FpWnhLUUVLb21teDVRX3lvNXg1V0tLUDRGTjgtOXM1YnNYTUJIaEZEOFpRS3dMQkphWHVTNVVTWTNMekdTQzRQU0RMNlhualkzUkE3aTl5cEhqdmJjT2tuY3V1ZUlPdURuRUxPd3dFbXotR3JRV0hKLWxLMTV3QnNHcGV6ZEFlNTd4NFk?oc=5"
@@ -626,8 +527,8 @@
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Youth who used criminal force on public servant gets 6 weeks’ jail",
-          "neutralSummary": "He was sentenced to six weeks’ jail after he pleaded guilty to one count of using criminal force on a public servant.",
+          "neutralHeadline": "Ministers K. Shanmugam, Tan See Leng in court for defamation trial against Bloomberg and reporter",
+          "neutralSummary": "Both ministers considered a Bloomberg article libellous.",
           "versions": [
             {
               "political": "center",
@@ -635,15 +536,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Youth who used criminal force on public servant gets 6 weeks’ jail",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/foreigner-who-used-criminal-force-on-public-servant-gets-6-weeks-jail"
+              "headline": "Ministers K. Shanmugam, Tan See Leng in court for defamation trial against Bloomberg and reporter",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/ministers-k-shanmugam-tan-see-leng-in-court-for-defamation-trial-against-bloomberg-and-reporter"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Amos Yee case shows Singapore applies its laws fairly and evenly: Shanmugam",
-          "neutralSummary": "This is despite people trying to paint the Government’s actions as repressive and against free speech rights, he added.",
+          "neutralHeadline": "Fire breaks out at Buona Vista building which houses Mindef’s digital tech agency",
+          "neutralSummary": "The fire involved a cooling tower on the rooftop of a building.",
           "versions": [
             {
               "political": "center",
@@ -651,40 +552,65 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Amos Yee case shows Singapore applies its laws fairly and evenly: Shanmugam",
-              "url": "https://www.straitstimes.com/singapore/amos-yee-case-shows-spore-applies-its-laws-fairly-and-evenly-shanmugam"
+              "headline": "Fire breaks out at Buona Vista building which houses Mindef’s digital tech agency",
+              "url": "https://www.straitstimes.com/singapore/fire-breaks-out-at-buona-vista-building-which-houses-mindefs-digital-tech-agency"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Parliament to discuss cushioning S’pore from Middle East conflict’s impact; three ministers to speak",
-          "neutralSummary": "A total of 32 MPs have filed 62 questions on the issue.",
+          "neutralHeadline": "Southeast Asia swings narrowly back to China over US if forced to choose: Survey",
+          "neutralSummary": "Released by the ISEAS-Yusof Ishak Institute in Singapore on Tuesday (Apr 7), the survey findings place Beijing back in front after trailing Washington last year, reflecting shifting regional sentiment amid intensifying great power competition.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Parliament to discuss cushioning S’pore from Middle East conflict’s impact; three ministers to speak",
-              "url": "https://www.straitstimes.com/singapore/politics/parliament-to-discuss-cushioning-spore-from-middle-east-conflicts-impact-three-ministers-to-speak"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Southeast Asia swings narrowly back to China over US if forced to choose: Survey",
+              "url": "https://www.channelnewsasia.com/asia/southeast-asia-align-china-united-states-forced-choose-sides-iseas-survey-2026-6038766"
             },
             {
               "political": "center",
               "tone": "pessimistic",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "BOJ warns of economic hit from Middle East conflict",
-              "url": "https://www.channelnewsasia.com/business/boj-warns-economic-hit-middle-east-conflict-6038451"
+              "source": "channelnewsasia.com",
+              "initials": "C",
+              "domain": "news.google.com",
+              "headline": "Southeast Asia swings narrowly back to China over US if forced to choose: Survey",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRWVLWkN1dGlBNUhnbDRGR3VDeXlyODItWWNKZW5iaDZWZU1FMy1oeTktZGtwUE80SkFXclNheDVOZWVZX1MzU1FXVF9VN2NKM1hGM2V2SlBZUUV6MHRabmlvd1lfcFViZlNoa01wU3YxdXdMbDV5WWF4bUlhS25LUElYakR0bTh1NDVDdFktSUtUU1FSTlVmamhydy1rNmZPUzczaHhqNC1aNlAyTzFMa3k1VExDT2NlcFFUTG1oZFg?oc=5"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "Man allegedly vandalised police car after being sentenced for offences including mischief",
-          "neutralSummary": "Chia Chee Khiang was earlier sentenced to 12 weeks' jail for mischief and misappropriating items.",
+          "neutralHeadline": "Trump warns Iran: Country can be 'taken out'",
+          "neutralSummary": "Trump warns Iran: Country can be 'taken out'&nbsp;&nbsp;The Straits TimesIran rejects ceasefire as Trump says entire country can be 'taken out'&nbsp;&nbsp;channelnewsasia.comTrump warns Hormuz deadline ‘final’ as Iran pushes proposal to end war&nbsp;&nbsp;Al JazeeraIran’s 10-Point Proposal Demands a",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "news.google.com",
+              "headline": "Trump warns Iran: Country can be 'taken out'",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMlVtRm9oeERxWE5mVVZhZ2llQVJxdXZwZFJ6TmhDZ1AxMUdZdkx5cEYyOS10OW1nUTdjM0IxLW43aklRWmVMcWlfSXFoclg2T1Z6YURrUDhHdXh4VzdEQ3ZyWFJNZjNBU0lZTzBJdDhWLXJUM3hmR2MzSEM0eUE1TGQ0S0VFcDlDVm92YUFFMXRMbXI0TFluc1JBWmtQSVF1LXBXWEVOVmZRZUtVT1EyTVp1MHU2dw?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "\"Slim Hope For Resolution\" Before Trump's Iran Deadline",
+              "url": "https://www.bloomberg.com/news/videos/2026-04-07/-slim-hope-for-resolution-before-trump-s-iran-deadline-video"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Singapore Airlines to air World Cup matches live on board flights",
+          "neutralSummary": "Football fans on flights from June 11 to July 19 will be able to watch the matches live.",
           "versions": [
             {
               "political": "center",
@@ -692,81 +618,56 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Man allegedly vandalised police car after being sentenced for offences including mischief",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/man-allegedly-vandalised-police-car-after-being-sentenced-for-offences-including-mischief"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "WFH, fuel caps and subsidies: Southeast Asia scrambles to manage energy crisis",
-          "neutralSummary": "As the Iran war drags on into its sixth week, CNA takes a look at how some Southeast Asian states are responding to the energy crisis and skyrocketing costs.&nbsp;\n&nbsp;",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "WFH, fuel caps and subsidies: Southeast Asia scrambles to manage energy crisis",
-              "url": "https://www.channelnewsasia.com/asia/southeast-asia-iran-war-fuel-rising-prices-energy-6038826"
+              "headline": "Singapore Airlines to air World Cup matches live on board flights",
+              "url": "https://www.straitstimes.com/singapore/singapore-airlines-to-air-world-cup-matches-live-on-board-flights"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "AirAsia X to raise fares, cut capacity over Middle East war",
-          "neutralSummary": "AirAsia X to raise fares, cut capacity over Middle East war",
+          "neutralHeadline": "Two shuttle bus services to be rolled out to accommodate late opening of Circle Line",
+          "neutralSummary": "The services will operate from 5am to 9am on Sundays, from April 12 to May 17.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "AirAsia X to raise fares, cut capacity over Middle East war",
-              "url": "https://www.channelnewsasia.com/business/airasia-x-raise-fares-middle-east-war-iran-cut-capacity-6038301"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Two shuttle bus services to be rolled out to accommodate late opening of Circle Line",
+              "url": "https://www.straitstimes.com/singapore/two-shuttle-bus-services-to-be-rolled-out-to-accommodate-late-opening-of-circle-line"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Markets on edge as Trump threatens strikes on Iranian infrastructure",
-          "neutralSummary": "US President Donald Trump's threats to destroy civilian infrastructure in Iran if the Strait of Hormuz is not open by Tuesday have put traders on edge for reciprocal attacks by Tehran.",
+          "neutralHeadline": "Live: Parliament to discuss measures to cushion Iran war’s impact on S’poreans",
+          "neutralSummary": "Three ministers will make statements on the situation.",
           "versions": [
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Markets on edge as Trump threatens strikes on Iranian infrastructure",
-              "url": "https://www.channelnewsasia.com/business/asia-markets-us-iran-war-trump-assault-infrastructure-6038146"
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Live: Parliament to discuss measures to cushion Iran war’s impact on S’poreans",
+              "url": "https://www.straitstimes.com/singapore/live-parliament-to-discuss-measures-to-cushion-iran-wars-impact-on-sporeans"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Bangladesh says suspected measles outbreak kills about 100 children",
-          "neutralSummary": "Measles is one of the world's most contagious diseases and is transmitted when a person coughs or sneezes.",
+          "neutralHeadline": "Sumiko at 62: Four simple exercises from a physiotherapist for stronger knees",
+          "neutralSummary": "Strengthening leg muscles helps reduce stress on your knees and improves knee stability.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Bangladesh says suspected measles outbreak kills about 100 children",
-              "url": "https://www.channelnewsasia.com/asia/bangladesh-measles-outbreak-suspected-deaths-6037621"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Emergency jabs after 100 children die of suspected measles in a month in Bangladesh",
-              "url": "https://www.bbc.com/news/articles/cevkz2z7dm8o?at_medium=RSS&at_campaign=rss"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Sumiko at 62: Four simple exercises from a physiotherapist for stronger knees",
+              "url": "https://www.straitstimes.com/singapore/sumiko-at-62-four-simple-exercises-from-a-physiotherapist-for-stronger-knees"
             }
           ]
         }
@@ -777,8 +678,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Delhi Assembly security scare: Suspect caught on cam, arrested; car seized",
-          "neutralSummary": "A Tata Sierra car with UP registration breached the Delhi Assembly's Gate No. 2 on Monday, with an occupant placing a bouquet before driving off. Delhi Police have arrested the accused and seized the vehicle. Security was in place at the VIP gate, and no suspicious objects were found.",
+          "neutralHeadline": "Trump warns Iran could be 'taken out' on Tuesday",
+          "neutralSummary": "Trump warns Iran could be 'taken out' on Tuesday",
           "versions": [
             {
               "political": "left",
@@ -786,58 +687,76 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Masked Man Who Breached Delhi Assembly, Kept Bouquet Inside, Arrested",
-              "url": "https://www.ndtv.com/india-news/car-breaks-barrier-enters-delhi-assembly-ink-thrown-at-speakers-vehicle-11317676#publisher=newsstand"
+              "headline": "US-Iran War Live Updates: Iran Can Be Destroyed In 4 Hours, Trump Warns As Hormuz Deadline Nears",
+              "url": "https://www.ndtv.com/world-news/us-iran-israel-war-middle-east-live-updates-trump-deadline-strait-of-hormuz-oil-prices-dubai-uae-11316005#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Delhi Assembly security scare: Suspect caught on cam, arrested; car seized",
-              "url": "https://timesofindia.indiatimes.com/india/delhi-assembly-security-scare-police-nab-suspect-seize-car-no-bomb-like-object-found/articleshow/130059318.cms"
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Trump warns Iran could be 'taken out' on Tuesday",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-warns-iran-could-be-taken-out-in-one-night/articleshow/130067423.cms"
             },
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "Hindustan Times",
               "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "3 held for security breach at Delhi assembly: Masked man in car broke through VIP gate, placed a bouquet and left",
-              "url": "https://www.hindustantimes.com/india-news/man-in-car-breaks-through-delhi-assembly-complex-gate-places-bouquet-in-porch-101775468015089.html"
+              "domain": "news.google.com",
+              "headline": "'Iran can be taken out in one night': Trump's fresh claim as ‘deadline’ to open Strait of Hormuz nears | World News",
+              "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSktiRFNZSEdOQk5FempUQ3p6UHhFNXRTRm5RQVhDSFRLOThucWpCQk1DVUdQSU84dHVvU1VsdkZMb2QxckNTSTYxNXcxbTUxeUh1NkRjeDhrZjZxRVBuNC1IdWR2dV9nYjk2Y2c5RkFwdTQwVVBEYXQzcUVESWZSaXpzckZVZ1FMWHdzUzBQZTdNWWtNZENpTEFJMGh6dXhOa0VSQ1pYdVRWcm5waW1NTzJIdTh0Nm1Ha2JjN2VCUTVGQmhpeXNZLUxidU9kSWU1WXp1WDh6VnJSeXNfN3o3TWd4ZUhGTHg4TllsemNaaFdXaWlVcHBMQTBhNlRyeHRTRTFCZmFFONIBjAJBVV95cUxQUHM0TkNXbFh6VHpxX2RoYVhuOU1zWHZqZmUyRjJieXZ2M3RucFhkRURSek5IcS1tZTNOUjJJOWtfMWN0REptdi1NT1diaG11RUh5Z3Ntbm1hWlFKT0tYenNZbU92MlRFbkFiQUhWTVhyWlczcWFIMldTYnRfLUgxczlVX0liRFdoeGl2dVBra2pyb3cyZ2RIUEtIUndKd3RjVUZkdExTSFJRRlRsQXZjaDZZT3U4MXFLRUpRSzVqc0w4SnFxalozclFFZThGS0hMbVZDS3RFTTZhNkhtMWhzMk5vbklPVl84ekZ6bHFjVWR0Y05oODFnVjVwXzluNjNQWEQ3Q2ZrOXV6SFdH?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Today",
+              "initials": "TD",
+              "domain": "news.google.com",
+              "headline": "Iran asks youth to form human chains around power plants as Trump's deadline nears",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZHd2U3FjOXptMVFieHlhclpCLUF0bHFVU3VxV1hGV0RFemEzZzFjLVdDaHpObWVrZkRQSjZGdVY2TEVsNTBrYTBLc3lHQlFrSUhNMjd1cU5zbG1JWjhDOWozY0M2dTZ1ZFp0NUxuaU1ZRkZFdm5NQmVyMUl4VWZiM09mN0NpWW1EQWpqbWFGTlVsMjM3VnVUY3A0ZklGemFyWGNOdzhOVHZnd0ZpR3I3S2xOdjJlc1R4NjJlTWkzNjZBdnFXWFYxNGxjRjVmOGNLeFpj0gHYAUFVX3lxTFBRTUlhaHBUQjQwSG5Halc3MjA3Y3prVF9sUXk5RHJUNjFjR2c3c3Bsa0hoZU9hZ2loRzZZN05idWJ4THcyQThoOWVENUJlNmVTM0pVVHhsaHMwYzFYYlk4VndHa2F2WW5Ebm0wOTRGWk1FSGhLeGl6aWZ1SHJJdFJINm5MdldLVThET1VJdWY3Y0VQZWJxcU5feXZVamlqdV81RzN1a0JRMGlOZkZaTTVBQzFDMV9xWXpqclhvaGhvUXZYeEVOTGZpNnlfSjJlczJrNkdvUmcwdQ?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "\"Slim Hope For Resolution\" Before Trump's Iran Deadline",
+              "url": "https://www.bloomberg.com/news/videos/2026-04-07/-slim-hope-for-resolution-before-trump-s-iran-deadline-video"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "West Bengal elections: Supreme Court says Malda gherao was 'pre-planned', calls for NIA probe",
-          "neutralSummary": "The court pulled up West Bengal chief secretary for not taking calls of Calcutta HC chief justice over Malda incident and asked him to apologise.",
+          "neutralHeadline": "Amaravati gains legal status as capital; Andhra Pradesh leaders hail ‘historic victory’",
+          "neutralSummary": "Andhra Pradesh Chief Minister N. Chandrababu Naidu expressed profound gratitude to the President for her approval",
           "versions": [
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "West Bengal elections: Supreme Court says Malda gherao was 'pre-planned', calls for NIA probe",
-              "url": "https://www.hindustantimes.com/india-news/west-bengal-elections-supreme-court-says-malda-gherao-was-pre-planned-calls-for-nia-probe-101775479159233.html"
+              "political": "left",
+              "tone": "optimistic",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Amaravati gains legal status as capital; Andhra Pradesh leaders hail ‘historic victory’",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-gains-legal-status-as-capital-andhra-pradesh-leaders-hail-historic-victory/article70832757.ece"
             },
             {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Live Law",
-              "initials": "LL",
-              "domain": "news.google.com",
-              "headline": "West Bengal SIR & Judges' Gherao : Live Updates From Supreme Court",
-              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbVFIR2F0ZnFYM3J4OXZ0MmZHdVhJUVF5c2h6dnYyeTJEVHlsalEzVlktRkVoWmV3enpQWVF1aEJrdFdtU1h0QklZMHU5UkFQQmEwQ1YyeXJBTXYzbmVjcEwtbEtJanR1U2FJOFhKM01meWczVzhDNmhuMjJ5cEVBbWpBbGdHODlUUnhvZnUyQVBwdUVzTGoyT243LUpZZ3lCOElOUE9B0gGrAUFVX3lxTFBIeEZMdU05YWZ6NExIZGtYNzhMR1ZBZ2pYUnk1VXdzcnd0amNRdHBGMmlEcWlpYjRHVzdWVGROZFNWSTVNWTZ3WDJzNTB5QmhZdk5JT0tONlpXeTdIaHEyS3Z0Q3RaempKbkt4SXNaQTFUZkVjVGJRWTNFWVU3M1R0Q2FFY3NHdWR6cmo5TmxkRjhtbmpGV01GU3ZyVUU4c1ZYVXdTTi1VMnBJQQ?oc=5"
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Amaravati notified as Andhra Pradesh capital 12 years after bifurcation",
+              "url": "https://indianexpress.com/article/india/amaravati-notified-as-andhra-pradesh-capital-chandrababu-naidu-10622989/"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Assembly elections LIVE: Tamil Nadu CM, Congress in tacit understanding with BJP, says Mamata",
-          "neutralSummary": "In Kerala, Congress leader Rahul Gandhi launches a scathing attack on PM Modi and Kerala CM Pinarayi Vijayan, calling them “arrogant” and alleging that they have a “king” mindset over people rather than working with them",
+          "neutralHeadline": "Lok Sabha Speaker, Rajya Sabha chairman reject impeachment motion against poll body chief Gyanesh Kumar",
+          "neutralSummary": "Lok Sabha Speaker, Rajya Sabha chairman reject impeachment motion against poll body chief Gyanesh Kumar&nbsp;&nbsp;The Times of IndiaRajya Sabha Chairman, Lok Sabha Speaker reject Opposition notice seeking CEC’s removal&nbsp;&nbsp;The HinduSigned by 193 MPs, Notice to Impeach CEC Gyanesh Kumar Rejec",
           "versions": [
             {
               "political": "left",
@@ -845,15 +764,24 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Assembly elections LIVE: Tamil Nadu CM, Congress in tacit understanding with BJP, says Mamata",
-              "url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-puducherry-assam-live-updates-april-6-2026/article70828680.ece"
+              "headline": "Rajya Sabha Chairman, Lok Sabha Speaker reject Opposition notice seeking CEC’s removal",
+              "url": "https://www.thehindu.com/news/national/rajya-sabha-chairman-lok-sabha-speaker-reject-opposition-notice-seeking-cecs-removal/article70831391.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "Lok Sabha Speaker, Rajya Sabha chairman reject impeachment motion against poll body chief Gyanesh Kumar",
+              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYWF3dnU3YWQ3NHY2V3o1ZnczMGhISlZLcmlqbzdmNHNZdzg0Q0tmMm5NUGpubFJWQVpXODl6c2Z4bW84cVR6SlkwZnBpS3ZhVjNQNTl1M2N5dkRuY1JjaTNTS1BCOGZaalBna1h0OWRac1RpT0toNE0zVmtYU1A5amJkY3lYMVY5eVdoV1FQNmVSUHR0N3J2aHNvWEpXaTJLSk9wSkZLZzJJa3ZGQ3BPUVpkRTJIZWp4TzJHM3dyMTEyX2k1ZFJ5WE9ZRmtaSjdmMUl0dkFCODlvX2JzMEpJN3Q3Rmt5UkhZ?oc=5"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "Arvind Kejriwal to argue own case in Delhi HC over recusal of judge in excise policy case next week",
-          "neutralSummary": "Accompanied by his wife, Kejriwal reached the Delhi high court on Monday for hearing in the matter amid speculation of him arguing his own case.",
+          "neutralHeadline": "Stock market today: Nifty50 opens below 22,800, Sensex tumbles over 800 points",
+          "neutralSummary": "Dalal Street opened higher on Tuesday, with benchmark indices rising after a strong rebound in the previous session. Intense buying in banking and IT stocks, coupled with a strengthening rupee, boosted investor confidence. Global markets showed a mixed trend as oil prices climbed amid Middle East te",
           "versions": [
             {
               "political": "left",
@@ -861,8 +789,58 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "\"Will Argue My Own Case\": Arvind Kejriwal Seeks Judge's Recusal In Liquor Policy Case",
-              "url": "https://www.ndtv.com/india-news/will-argue-my-own-case-arvind-kejriwal-seeks-delhi-high-court-judges-recusal-in-liquor-policy-case-11318583#publisher=newsstand"
+              "headline": "Stock Market LIVE Updates, Sensex Today: Sensex Drops 500 Points As Iran Rejects US Ceasefire Proposal",
+              "url": "https://www.ndtv.com/india-news/share-market-live-updates-markets-bse-sensex-nse-nifty50-gift-nifty-us-iran-ceasefire-stock-market-today-april-7-11320909#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Stock market today: Nifty50 opens below 22,800, Sensex tumbles over 800 points",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-on-april-8-2026-nifty50-opens-below-22800-sensex-tumbles-over-600-points-as-oil-prices-stay-above-110/articleshow/130075151.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "'Tuesday at 2pm': Iran plans human chains at power plants as Trump’s strike deadline looms",
+          "neutralSummary": "'Tuesday at 2pm': Iran plans human chains at power plants as Trump’s strike deadline looms",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Trump Threatens To Bomb Iran Power Plants, Tehran Preps Human Chain Shield",
+              "url": "https://www.ndtv.com/world-news/us-iran-war-news-iran-calls-for-human-chains-around-key-power-plants-as-trumps-hormuz-deadline-nears-11320688#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Tuesday at 2pm': Iran plans human chains at power plants as Trump’s strike deadline looms",
+              "url": "https://timesofindia.indiatimes.com/world/middle-east/tuesday-at-2pm-iran-plans-human-chains-at-power-plants-as-trumps-strike-deadline-looms/articleshow/130074631.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Delhi-NCR wakes up to rain, cooler morning; IMD issues yellow alert for thunderstorms",
+          "neutralSummary": "Weather today: The IMD has issued a yellow alert for both Tuesday and Wednesday, forecasting thunderstorms accompanied by light rain and gusty winds.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Delhi Wakes Up To Rain, Weather Office Predicts Thunderstorms",
+              "url": "https://www.ndtv.com/delhi-news/delhi-weather-today-delhi-rain-delhi-wakes-up-to-rain-weather-office-predicts-thunderstorms-11320672#publisher=newsstand"
             },
             {
               "political": "center",
@@ -870,65 +848,15 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Arvind Kejriwal to argue own case in Delhi HC over recusal of judge in excise policy case next week",
-              "url": "https://www.hindustantimes.com/india-news/arvind-kejriwal-to-argue-own-case-in-delhi-hc-over-recusal-of-judge-in-excise-policy-case-next-week-101775466827830.html"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Iran has formulated its response to ceasefire proposals, foreign ministry spokesperson says",
-          "neutralSummary": "Iran has formulated its response to ceasefire proposals, foreign ministry spokesperson says&nbsp;&nbsp;ReutersMediators: Latest Efforts to Reach Cease-Fire Hit Dead End&nbsp;&nbsp;WSJIran says no talks 'under threats', accuses US, Israel of having 'no red lines' as war escalates&nbsp;&nbsp;Hindustan",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "1,777 Indians Brought Back From Iran Via Armenia, Azerbaijan: Foreign Ministry",
-              "url": "https://www.ndtv.com/world-news/iran-war-1-777-indians-brought-back-from-iran-via-armenia-azerbaijan-foreign-ministry-11318211#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Iran has formulated its response to ceasefire proposals, foreign ministry spokesperson says",
-              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc0hZMkxUcVZtT3VucnhOWk8yOHA3TnNPVUN1VnBiVU9ya19ERkVfTDdjYTNtSllGTUlCQ0dwX3RUQks2aGNNVGdSSGJRdE9NeEZaWlBaVExHWXJhTU5yWV94YzVkRHIwdEVSakw3OEk5dG40NnNlVkM5TnZ0YTlwRVpuVmxZYUw2RF9pcDdVeEFlUXlMWldPejh0eTBsNmFXdElSRWdMSDF3MkxEMkhsaFlSZ0FfU29wa2dqSE9GbE14WnJuMHlj?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "9 cops get death penalty in Sathankulam custodial torture case",
-          "neutralSummary": "Jeyaraj and Beniks were taken to the Sathankulam police in Tuticorin district late in the evening of June 19, 2020, on charges of having kept their shop open beyond the deadline during the Covid-19 lockdown. They were brutally assaulted by the policemen at night and were lodged in Kovilpatti sub-jai",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "9 cops get death penalty in Sathankulam custodial torture case",
-              "url": "https://timesofindia.indiatimes.com/city/madurai/sathankulam-custodial-deaths-nine-cops-sentenced-to-death/articleshow/130061312.cms"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "news.google.com",
-              "headline": "9 Tamil Nadu Cops Get Death Sentence In Father-Son Custodial Torture Case",
-              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSlNNNmllNzVkRUhYVTgxMk9WajFhcU1hamtQYVN6QjhQb3h4Y2N3Y3pjalRDQnVvQ1NiMU5raklSUy1EbmVnYmJJODR5WTU2WU9aSjdibV9CanVqZ0lULS1BcURLeVNmeGNfRVMzbTBNVEpHaGlnOWJGcW1seHpWc2FPaVllcUJESTBVSlFQUjNmRGVwTHkxYkxGZ29JM2Vfa0hFUmdDeExMNGNBcDBQQW9uRkUyTU43UDlOV1V1eW5PLU9vZkxyWUxkZmJPVm1UM2N6cVFB?oc=5"
+              "headline": "Delhi-NCR wakes up to rain, cooler morning; IMD issues yellow alert for thunderstorms",
+              "url": "https://www.hindustantimes.com/india-news/delhi-noida-rain-cooler-morning-imd-yellow-alert-thunderstorms-mausam-delhi-weather-today-ghaziabad-101775529025537.html"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Nasa's Artemis II crew reaches Moon, nears farthest distance ever flown by humans",
-          "neutralSummary": "Nasa's Artemis II astronauts entered lunar orbit Monday, approaching a record-breaking distance from Earth as they prepare to fly around the moon's far side. This historic mission, the first crewed test flight of the Artemis program, will see the crew capture unique images of Earth and the moon, mar",
+          "neutralHeadline": "Tata Sons' new ventures may lose up to 29,000 crore, up to 5x of FY26 estimates",
+          "neutralSummary": "Tata Sons' new ventures face mounting losses, with projections for FY26 reaching Rs 29,000 crore. This sharp increase has raised concerns, impacting leadership decisions. Tata Digital and Air India are major contributors to these losses. A plan to control spending is expected soon. The group is reas",
           "versions": [
             {
               "political": "center",
@@ -936,8 +864,8 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Nasa's Artemis II crew reaches Moon, nears farthest distance ever flown by humans",
-              "url": "https://timesofindia.indiatimes.com/science/nasas-artemis-ii-crew-reaches-moon-nears-farthest-distance-ever-flown-by-humans/articleshow/130059024.cms"
+              "headline": "Tata Sons' new ventures may lose up to 29,000 crore, up to 5x of FY26 estimates",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-new-ventures-may-lose-up-to-29k-cr/articleshow/130073021.cms"
             },
             {
               "political": "center",
@@ -945,58 +873,49 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Artemis II reaches record distance from Earth",
-              "url": "https://economictimes.indiatimes.com/news/science/artemis-ii-crew-reaches-the-moon-as-it-approaches-record-breaking-distance-from-earth/articleshow/130059414.cms"
+              "headline": "Tata Sons' new bet may lose up to Rs 29,000 crore",
+              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/air-india-tata-digital-losses-push-tata-sons-new-ventures-towards-rs-29000-crore-hit-report/articleshow/130073690.cms"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Two more Indian-flagged LPG tankers exit the Gulf",
-          "neutralSummary": "Two more Indian-flagged LPG tankers exit the Gulf",
+          "neutralHeadline": "5-year-old boy, infant sister killed in pre-dawn rocket attack in Manipur’s Bishnupur",
+          "neutralSummary": "A suspected rocket attack tragically killed two young children, a five-year-old boy and his five-month-old sister, in their Manipur home early Tuesday. The explosion occurred while they slept with their mother, who sustained injuries but survived the incident.",
           "versions": [
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Two more Indian-flagged LPG tankers exit the Gulf",
-              "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/two-more-indian-flagged-lpg-tankers-exit-the-gulf-tracking-data-shows/articleshow/130053451.cms"
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "5-year-old boy, infant sister killed in pre-dawn rocket attack in Manipur’s Bishnupur",
+              "url": "https://timesofindia.indiatimes.com/city/guwahati/5-year-old-boy-infant-sister-killed-in-pre-dawn-rocket-attack-in-manipurs-bishnupur/articleshow/130073996.cms"
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Two more Indian-flagged LPG ships exit the Gulf, tracking data shows",
-              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDg2dzFMdjhTRHpxZ0Rld1NQQ29taVNUQUQ5c3JHcy1xZVpRblBhTVkxSjVraG1DaHZQZUxMVTUyRnAydk1RT0hVaGdDT0dZOVJyOWxLelpoNGRDUG1aMTA2Zk1oZnZHQkZZc3lURUllU29CTkljR2w2Yy0yY3NBamhBOFZOZW03ODg0aFhVNHpFd0h3dTZHcm1uNmpaY18zZ0ZLTFU3RDhaZHNLS3JKbg?oc=5"
+              "tone": "pessimistic",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "2 children killed in bomb attack in Manipur",
+              "url": "https://economictimes.indiatimes.com/news/india/2-children-killed-in-bomb-attack-in-manipur/articleshow/130073744.cms"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Israel hits Iran’s South Pars with powerful strike",
-          "neutralSummary": "Israel hits Iran’s South Pars with powerful strike",
+          "neutralHeadline": "Indians travelling to visa-free Vietnamese island Phu Quoc warned over two things: Check advisory",
+          "neutralSummary": "Visa-free entry is limited to Phu Quoc Island and does not allow travel to mainland Vietnam; Indians cannot visit cities like Hanoi without a visa.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Israel hits Iran’s South Pars with powerful strike",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-carries-out-powerful-strike-on-irans-largest-petrochemical-complex-in-south-pars/articleshow/130059717.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "News18",
-              "initials": "N18",
-              "domain": "news.google.com",
-              "headline": "Iran Missile Hits Israel Drone Factory, CEO Says ‘Everything Blown To Pieces’",
-              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOE02UmNHTW9qTmhpRWZ5M2V3SVZHOVBXODcyLWJLU2N5OG5KRFNTbjB0SnpmcktmM25BcDVYWWF0VHhCTUhmR2oxVHZMRnk4ZlFGdjBZNmgyQl9QUDRaODRqRVFWQ2NkX0xGVUY5cko1OUJHTEgyMFZ6X28zZ0duLUZRQ0g1TDdvdmpFVkN1YjBHZnF5d3dmYVVGdTFzaUJCVDFSNVJsZ0VMOXZ5ZnY3c3JHNE1GVURQQmpxc201d9IBxAFBVV95cUxOZzRZb296U1dfWE9iQWVoNnBoYUF3Y0w3ZjZ1UzRqVEhxYm5KUVlqYjFTVUFGTHdCb0wwOGRPcmZTREZoRmItNTNGcnVvb1Bid21SeTFWN1JGTWZfSGljcTE3dXE5Qmh4ZHA5bkpGbDN2T0kyM1JQNU9JR1pVMkI3Qlhma2FRV2xJRjN2N20xUUF2QS1LRVNCY3hSU3hrbmpvNkVRZmpLWEZVU1d5WnlUY2pOZU9UX1dsTW5Lc1oxTURGY3JN?oc=5"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Indians travelling to visa-free Vietnamese island Phu Quoc warned over two things: Check advisory",
+              "url": "https://www.hindustantimes.com/india-news/indians-travelling-to-visa-free-vietnamese-island-phu-quoc-warned-over-two-things-check-advisory-101775531175215.html"
             }
           ]
         }
