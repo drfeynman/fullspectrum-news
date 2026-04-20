@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-04-20T04:50:13.186371+00:00",
+  "generatedAt": "2026-04-20T14:54:41.357717+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "A Mass Shooting In Ukraine's Capital Leaves 6 Dead Before Police Shot And Killed The Gunman",
-          "neutralSummary": "The mass shooting is unheard of in wartime Kyiv following Russia's all-out invasion of Ukraine in 2022.",
+          "neutralHeadline": "US seizes Iranian-flagged cargo ship",
+          "neutralSummary": "The #US said it had seized an Iranian-flagged cargo ship that tried to get past its naval blockade near the Strait of #Hormuz on Sunday. #Iran vowed to retaliate, throwing planned peace talks between the two countries into question.",
           "versions": [
             {
               "political": "left",
@@ -15,42 +15,17 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "A Mass Shooting In Ukraine's Capital Leaves 6 Dead Before Police Shot And Killed The Gunman",
-              "url": "https://www.huffpost.com/entry/ukraine-mass-shooting_n_69e3dcd0e4b0555d213c6691"
+              "headline": "U.S. Seizes Iranian-flagged Ship Near Strait Of Hormuz And Tehran Vows To Respond",
+              "url": "https://www.huffpost.com/entry/iran-strait-of-hormuz-closure_n_69e4c1cae4b0555d213c7be1"
             },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "A mass shooting in Ukraine's capital leaves 6 dead before police shot and killed the gunman",
-              "url": "https://www.npr.org/2026/04/18/nx-s1-5789903/mass-shooting-kyiv-ukraine"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Moscow-born gunman dead after Kyiv shooting rampage leaves at least 6 dead, 14 wounded: Zelenskyy",
-              "url": "https://www.foxnews.com/world/moscow-born-gunman-dead-kyiv-shooting-rampage-leaves-least-6-dead-14-wounded-zelenskyy"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Oil prices rise after Trump says Iranian ship seized",
-          "neutralSummary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
-          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Oil prices rise after Trump says Iranian ship seized",
-              "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss"
+              "headline": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+              "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -58,8 +33,8 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "U.S. says it seized an Iranian cargo ship, ceasefire expires soon",
-              "url": "https://www.npr.org/2026/04/19/nx-s1-5790487/u-s-says-it-seized-an-iranian-cargo-ship-ceasefire-expires-soon"
+              "headline": "Peace talks are in doubt as the U.S. seizes an Iranian ship",
+              "url": "https://www.npr.org/2026/04/20/nx-s1-5791256/iran-middle-east-updates"
             },
             {
               "political": "left",
@@ -67,13 +42,131 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Trump says US seized Iranian ship trying to get past blockade near Hormuz",
-              "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade?traffic_source=rss"
+              "headline": "What we know about the US capture of Iranian vessel near Hormuz",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/what-we-know-about-the-us-capture-of-iranian-vessel-near-hormuz?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "US seizes Iranian-flagged cargo ship",
+              "url": "https://www.france24.com/en/video/20260420-us-seizes-iranian-flagged-cargo-ship"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Iran-US ceasefire talks: Nuclear program remains sticking point",
+          "neutralSummary": "Differences over ​Iran's nuclear programme ​still remain, a senior Iranian source told Reuters ​on ‌Monday, ⁠as Iran and ‌the United States try ⁠to reach a lasting peace with ​the two-week ‌ceasefire ending soon. The senior Iranian source ‌said that Tehran's \"defensive capabilities\", ​including its",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Cloud over US-Iran talks: What are the key sticking points?",
+              "url": "https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Iran-US ceasefire talks: Nuclear program remains sticking point",
+              "url": "https://www.france24.com/en/video/20260420-iran-us-ceasefire-talks-nuclear-program-remains-sticking-point"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Iran Hesitant on Talks Even as Trump Says Vance Is on Way",
+              "url": "https://www.bloomberg.com/news/articles/2026-04-20/iran-wavers-on-peace-talks-as-tensions-rise-after-us-seizes-ship"
             }
           ]
         },
         {
           "id": "global-3",
+          "neutralHeadline": "Iranian American woman arrested in Los Angeles for alleged arms trafficking",
+          "neutralSummary": "Federal prosecutor says woman is suspected of dealing weapons to Africa on behalf of Iranian governmentA California woman was arrested at Los Angeles international airport after allegedly trafficking weapons on behalf of the Iranian government to contacts in Africa, including Sudan.Shamim Mafi, 44,",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Iranian American woman arrested in Los Angeles for alleged arms trafficking",
+              "url": "https://www.theguardian.com/us-news/2026/apr/19/woman-arrested-la-arms-trafficking-iran-africa"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Iranian woman arrested in US for allegedly trafficking arms to Sudan",
+              "url": "https://www.bbc.com/news/articles/ce9m7m1nmdeo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Japan tsunami alerts downgraded following powerful earthquake off northern coast – as it happened",
+          "neutralSummary": "People in affected areas are still urged to evacuate after quake registering 7.7 magnitude Australian officials in Japan are urgently following up on the tsunami warning off the northeastern coast of the island of Honshu.The Australian government said:We stand ready to provide consular assistance.Au",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Japan tsunami alerts downgraded following powerful earthquake off northern coast – as it happened",
+              "url": "https://www.theguardian.com/world/live/2026/apr/20/japan-tsunami-earthquake-sanriku-latest-news-updates"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "Japan earthquake: 7.7 magnitude quake triggers tsunami warning",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ON3NvUEZFYXk3WXlwWkdqTm84X1JUSjNnRDNTTWlzOUJ5YWtYcGRabGdkblBRc3FKWEZXQVZoVzFZcHZrNENObkExUGwtV0hzVXlEZjIwaXJudw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Humanoid robots show rapid advances as they race past humans in Beijing half marathon",
+          "neutralSummary": "Winning robot runs faster time than Jacob Kiplimo’s world recordMore than 100 robots run in parallel tracks to avoid collisions with humansThey can already carry the shopping, cook and clean. Now they can run and win half marathons.In perhaps the most unusual spectacle ever seen at the end of the 13",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Humanoid robots show rapid advances as they race past humans in Beijing half marathon",
+              "url": "https://www.theguardian.com/sport/2026/apr/19/humanoid-robots-race-beijing-half-marathon"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "A humanoid robot sprints past the human half-marathon world record in Beijing race",
+              "url": "https://www.npr.org/2026/04/20/g-s1-118086/humanoid-robot-half-marathon"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
           "neutralHeadline": "South Koreans breathe sighs of relief as escaped wolf is returned to zoo safely",
           "neutralSummary": "Nine-day search for two-year-old Neukgu gripped nation and sparked safety concerns for animal and publicThe internet in South Korea erupted in celebration as a two-year-old wolf that escaped from a zoo was captured safely after a nine-day search that had gripped the nation and made the animal a nati",
           "versions": [
@@ -98,7 +191,7 @@
           ]
         },
         {
-          "id": "global-4",
+          "id": "global-7",
           "neutralHeadline": "U.S. Coast Guard Spots Overturned Vessel Near Saipan During Search For Missing Ship",
           "neutralSummary": "The HC-130 Hercules crew saw the vessel early in the day about 100 nautical miles northeast of the Mariana&rsquo;s last known position.",
           "versions": [
@@ -123,93 +216,18 @@
           ]
         },
         {
-          "id": "global-5",
-          "neutralHeadline": "Iran Fully Closes Strait Of Hormuz Over U.S. Blockade And Fires On Ships",
-          "neutralSummary": "New attacks on the strait, through which roughly one-fifth of the&nbsp;world&rsquo;s oil&nbsp;normally passes, threatened to deepen the global energy crisis.",
+          "id": "global-8",
+          "neutralHeadline": "A Mass Shooting In Ukraine's Capital Leaves 6 Dead Before Police Shot And Killed The Gunman",
+          "neutralSummary": "The mass shooting is unheard of in wartime Kyiv following Russia's all-out invasion of Ukraine in 2022.",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Iran Fully Closes Strait Of Hormuz Over U.S. Blockade And Fires On Ships",
-              "url": "https://www.huffpost.com/entry/iran-closes-strait-of-hormuz_n_69e36eeee4b0b6f552ba3b46"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "Trump says U.S. seized Iranian ship trying to bypass blockade of Strait of Hormuz",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanFJd19CUnZMSkRITFo3bmh0OGdPN2hKM2x0V1ZDcGpvSU0tck56YU9nZlY3aWJJdFRsNzVEeDBnLXEyV21BWnI0MUFKTjYtel96T3N1ZzczRGEydWJrWDVoZWprS09qMDJacVVqVVlZX2E4dU9ocmNyd1V6OFdEUkY5X29ORU1UZHRkZjY1aU1CRHlS?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Eight children killed in Louisiana domestic violence mass shooting",
-          "neutralSummary": "Eight children died in a domestic-related mass shooting Sunday in Shreveport, Louisiana. The victims' ages ranged from one to about 14 years old, said Shreveport police spokesperson Chris Bordelon.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
-              "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Eight children killed in Louisiana domestic violence mass shooting",
-              "url": "https://www.france24.com/en/americas/20260419-8-children-between-1-and-14-killed-in-mass-shooting-in-louisiana-police-say"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
-          "neutralSummary": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
-              "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "U.S. seizes Iranian cargo ship in Strait of Hormuz",
-              "url": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Pope says 'tyrants' speech was not aimed at Trump",
-          "neutralSummary": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Pope says 'tyrants' speech was not aimed at Trump",
-              "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss"
+              "headline": "A Mass Shooting In Ukraine's Capital Leaves 6 Dead Before Police Shot And Killed The Gunman",
+              "url": "https://www.huffpost.com/entry/ukraine-mass-shooting_n_69e3dcd0e4b0555d213c6691"
             },
             {
               "political": "right",
@@ -217,33 +235,33 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Pope Leo says remarks about world being 'ravaged by a ​handful of tyrants' were not aimed at Trump: report",
-              "url": "https://www.foxnews.com/world/pope-leo-says-remarks-world-ravaged-handful-tyrants-aimed-trump-report"
+              "headline": "Moscow-born gunman dead after Kyiv shooting rampage leaves at least 6 dead, 14 wounded: Zelenskyy",
+              "url": "https://www.foxnews.com/world/moscow-born-gunman-dead-kyiv-shooting-rampage-leaves-least-6-dead-14-wounded-zelenskyy"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Australia's most decorated serviceman vows to fight war crime charges",
-          "neutralSummary": "An Australian former soldier charged with committing war crimes in Afghanistan vowed on Sunday to clear his name, saying he had never \"run from a fight\" in his first public comments since his arrest. Ben Roberts-Smith was granted bail on Friday after a high-profile arrest on five counts of \"war crim",
+          "neutralHeadline": "Iran Reopens Strait Of Hormuz, But Threatens To Close It Again As The US Maintains Its Blockade",
+          "neutralSummary": "Iran says it fully reopened the Strait of Hormuz to commercial vessels.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Australia's most-decorated soldier vows to fight war crime charges",
-              "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Iran Reopens Strait Of Hormuz, But Threatens To Close It Again As The US Maintains Its Blockade",
+              "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_69e2f001e4b0b6f552ba353e"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Australia's most decorated serviceman vows to fight war crime charges",
-              "url": "https://www.france24.com/en/australia-s-most-decorated-serviceman-vows-to-fight-war-crime-charges"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "news.google.com",
+              "headline": "Strait of Hormuz Traffic Is at a Standstill Again",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN0R4OHlXZndBV2NEdV9vQkx3M0FwbG45VkpzU3NWM2w2akxfamRLekJnTzUxajNsSDEwQmlFZnQ3WmRnUEZlSUI1SFVQdDBrY0JLcVZmVlByaENiYW55NFFlcFFFSkRDQUVOR1ZUdFpyMm9ZeTZJd2MxZFZzUDE2ZGNNWGxPZndVd1EzSG0yaGhNbkJDX3l3?oc=5"
             }
           ]
         }
@@ -254,26 +272,60 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Trump says US Navy forcibly seized Iranian-flagged cargo ship in Strait of Hormuz",
-          "neutralSummary": "President Trump on Sunday said the U.S. military attacked an Iranian-flagged cargo ship attempting to bypass the U.S. naval blockade in the Strait of Hormuz.&#160; “The U.S. Navy Guided Missile Destroyer USS SPRUANCE intercepted the TOUSKA [ship] in the Gulf of Oman, and gave them fair warning to st",
+          "neutralHeadline": "Iran War News Live Updates: U.S.-Iran Talks Uncertain as Cease-Fire Deadline Looms",
+          "neutralSummary": "Iran War News Live Updates: U.S.-Iran Talks Uncertain as Cease-Fire Deadline Looms&nbsp;&nbsp;WSJDoubts over talks between Iran and US after violence flares in Strait of Hormuz&nbsp;&nbsp;AP NewsIran live updates: Tehran has 'no plans' for new round of talks, spokesperson says&nbsp;&nbsp;ABC News -",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "New U.S.-Iran Peace Talks Uncertain, Tsunami Warning Issued For Japan: Live Updates",
+              "url": "https://www.huffpost.com/entry/latest-news-live-updates_n_69e5ebb9e4b0b6f552bad166"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "U.S. Fires on Iranian Cargo Ship in Arabian Sea",
-              "url": "https://www.nytimes.com/2026/04/19/us/us-military-iranian-ship.html"
+              "headline": "Vance Heads to New Talks With Iran. At Stake: Peace and His Own Standing.",
+              "url": "https://www.nytimes.com/2026/04/20/us/politics/vance-iran-peace-negotiations.html"
             },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "WSJ",
+              "initials": "W",
+              "domain": "news.google.com",
+              "headline": "Iran War News Live Updates: U.S.-Iran Talks Uncertain as Cease-Fire Deadline Looms",
+              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50ekRfbXRYTF9wRXBMbU1nM0QySFg1ZTNDUXlKc2RHNnkwUGdQSWFXaTBhdWhyLUxONWRxYndVUE5MX3gwSkZFU0FRRjc5YlBxaXRDV0RLZEpQZkp2VGtIWGtiUTRuaDN1NHpwMy0tYl9kMUEtOU9Kdkh3?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Live updates: Vance expected to head to Pakistan for Iran truce talks after tense weekend",
+              "url": "https://thehill.com/homenews/administration/5838415-live-updates-donald-trump-iran-talks/"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Carney: Canada’s economic ties with US now a weakness",
+          "neutralSummary": "Canadian Prime Minister Mark Carney on Sunday said the country’s economic ties to the U.S. have become a “weakness,” pointing to global uncertainty caused by President Trump&#8217;s trade and tariff policies. “The world is more dangerous and divided. The U.S. has fundamentally changed its approach t",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Oil prices jump after Trump says Iranian ship seized",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yR2laSVRwLW45ZkMyS3VXdmFMc1Z4cVBrclZjZkprdEVsYlMxMURWcW1fWUIycGR3QjQtTTRoZVBrUzBRMUdIQXJROVZsTjNzVDVmYlVQMVVidw?oc=5"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Canada's PM: Ties With U.S. Are A Weakness That Must Be Corrected",
+              "url": "https://www.huffpost.com/entry/mark-carney-canada-us-economic-relations_n_69e57402e4b0b6f552baa050"
             },
             {
               "political": "center",
@@ -281,42 +333,33 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Trump says US Navy forcibly seized Iranian-flagged cargo ship in Strait of Hormuz",
-              "url": "https://thehill.com/homenews/administration/5838719-trump-us-navy-intercepts-iranian-ship/"
+              "headline": "Carney: Canada’s economic ties with US now a weakness",
+              "url": "https://thehill.com/policy/international/5839265-carney-address-us-economic-ties/"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump says US captured Iranian-flagged cargo ship after it tried to break blockade",
-              "url": "https://www.washingtonexaminer.com/policy/defense/4535022/trump-us-iran-cargo-ship-captured-blockade/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "LIVE UPDATES: U.S. Flexes As Iranian Cargo Ship Learns What Happens When It Ignores Blockade Warning",
-              "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Canada's prime minister refers to US economic ties as a weakness",
+              "url": "https://www.foxnews.com/politics/canadas-prime-minister-refers-us-economic-ties-weakness"
             }
           ]
         },
         {
-          "id": "us-2",
-          "neutralHeadline": "Kaine: Strait of Hormuz should be ‘open to all’",
-          "neutralSummary": "Virginia Sen. Tim Kaine (D) said Sunday that the Strait of Hormuz must be reopened for all shipping traffic after Iran announced the waterway&#8217;s closure in response to the ongoing U.S. blockade. &#8220;If they&#8217;re going to be open, I think they have to be open to all,&#8221; Kaine told Fox",
+          "id": "us-3",
+          "neutralHeadline": "U.S. Fires on Iranian Cargo Ship Touska in Arabian Sea",
+          "neutralSummary": "The military said it had disabled the vessel after it ignored repeated warnings to stop, amid a U.S. blockade of Iranian ports. Marines boarded the ship and seized it.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Is the Strait of Hormuz really open?",
-              "url": "https://www.vox.com/the-logoff-newsletter-trump/486168/iran-war-trump-strait-of-hormuz-lebanon-negotiations"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "U.S. Fires on Iranian Cargo Ship Touska in Arabian Sea",
+              "url": "https://www.nytimes.com/2026/04/19/us/us-military-iranian-ship.html"
             },
             {
               "political": "left",
@@ -324,24 +367,65 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "U.S. seizes Iranian cargo ship in Strait of Hormuz",
-              "url": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Kaine: Strait of Hormuz should be ‘open to all’",
-              "url": "https://thehill.com/homenews/senate/5838454-kaine-strait-of-hormuz/"
+              "headline": "U.S. seizes Iranian cargo ship. And, tariff refund portal launches",
+              "url": "https://www.npr.org/2026/04/20/g-s1-118095/up-first-newsletter-us-iran-peace-talks-strait-of-hormuz-tariff-refunds-louisiana-shooting"
             }
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "Man kills 7 of his children and 1 other in mass shooting in Shreveport, Louisiana, police say",
-          "neutralSummary": "Man kills 7 of his children and 1 other in mass shooting in Shreveport, Louisiana, police say&nbsp;&nbsp;CBS NewsSuspect dead after 8 children killed, 2 women wounded in Louisiana shooting&nbsp;&nbsp;NBC NewsMan kills 7 of his children and 1 other in mass shooting in Shreveport, police say&nbsp;&nbs",
+          "id": "us-4",
+          "neutralHeadline": "3 killed in US strike on alleged drug boat in Caribbean",
+          "neutralSummary": "Three individuals were killed during a Sunday strike led by U.S. forces on an alleged drug boat in the Caribbean, officials said. U.S. Southern Command posted a video of the attack and said the boat was transiting along known narco-trafficking routes. It did not immediately respond to The Hill’s req",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "U.S. Military Strikes a Boat in the Caribbean, Killing 3",
+              "url": "https://www.nytimes.com/2026/04/19/us/politics/us-military-strike-boat-strike-caribbean.html"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "3 killed in US strike on alleged drug boat in Caribbean",
+              "url": "https://thehill.com/homenews/administration/5839177-us-forces-kill-three-caribbean/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "The pope's English fuels a Trump feud",
+          "neutralSummary": "The pope's English fuels a Trump feud&nbsp;&nbsp;AxiosEven Catholic Trump supporters feel conflicted over the president’s tiff with the pope&nbsp;&nbsp;CNNFrom Pulpits to Pews, Trump and the Pope Are on the Minds of Catholics&nbsp;&nbsp;The New York TimesSenate Republican knocks Trump over ‘holy war",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "From Pulpit to Pews, Trump and Pope Are on the Minds of Catholics",
+              "url": "https://www.nytimes.com/2026/04/19/us/trump-pope-catholics.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Axios",
+              "initials": "AX",
+              "domain": "news.google.com",
+              "headline": "The pope's English fuels a Trump feud",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sekRvZERTZkdwcTI3dVQ0ZmNJWV83WjRKZUVlRUFFN1NHRFlFclhNSFBiRVlQcXowbEFHTnZDY3hDaEpMa29JaGd6OUo5R1I3b0FyRFU4VWRucGFhY01RMnBTT09ucmk1bTd0cA?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "8 children killed in mass shooting in Shreveport, Louisiana, as father targets his family, police say",
+          "neutralSummary": "8 children killed in mass shooting in Shreveport, Louisiana, as father targets his family, police say&nbsp;&nbsp;CBS News8 children killed in Shreveport mass shooting identified by coroner’s office&nbsp;&nbsp;KSLALouisiana authorities identify eight children killed in ‘domestic incident’&nbsp;&nbsp;",
           "versions": [
             {
               "political": "left",
@@ -358,92 +442,24 @@
               "source": "CBS News",
               "initials": "CN",
               "domain": "news.google.com",
-              "headline": "Man kills 7 of his children and 1 other in mass shooting in Shreveport, Louisiana, police say",
+              "headline": "8 children killed in mass shooting in Shreveport, Louisiana, as father targets his family, police say",
               "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWdZTkdJVl9fcG5ZU0k4X2VJVkhTelM3b1VLTXlfeWxvM3dLc1Qyd0JfbmExWGg4SHJaVlNmZU8wM0lHLUFBbWNnajUxNW9YSXlDd1FYd013bm9meVc5MUpWQXE1LWl6RldLWC0wd0VaNTQydnBQNEhfRFRaOHJ0b3VoMWHSAYoBQVVfeXFMUE9ORkw3TmNOemdfekJ2VldTbVV5cGYzT1VHNDJMeG9xYmdBQUNoczNFY1hGTW10YXMxVkUwMVRPOXZEREkxS0dmdF9PeGROa1VvUWFrd1BNSll2WFhnZ1hlVjQ1ZzJIZ1pnbi1pYUJCSTEtaGV0dXctU2JvQjFxOEhtRFBfaEc1ZWtB?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Father killed 7 of his children and another child in Louisiana mass shooting: Police",
-              "url": "https://thehill.com/homenews/state-watch/5838951-shreveport-mass-shooting-suspect/"
             }
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "8 children killed, teenager among 3 people injured in ‘tragic’ Louisiana mass shooting: Police",
-          "neutralSummary": "Two women and a teenager were also injured in the incident, police said Sunday afternoon.",
+          "id": "us-7",
+          "neutralHeadline": "Peace talks are in doubt as the U.S. seizes an Iranian ship",
+          "neutralSummary": "President Trump said a U.S. delegation will head to Pakistan to resume talks to end the war with Iran, but Tehran expressed reluctance after the U.S. seized one of its cargo ships in the Strait of Hormuz.",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "8 children killed in Louisiana shooting, police say",
-              "url": "https://www.washingtonpost.com/nation/2026/04/19/louisiana-shooting/"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "8 children killed in a shooting in Louisiana, police say",
-              "url": "https://www.npr.org/2026/04/19/nx-s1-5790483/mass-shooting-eight-children-louisiana-shreveport"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "8 children killed, teenager among 3 people injured in ‘tragic’ Louisiana mass shooting: Police",
-              "url": "https://thehill.com/homenews/state-watch/5838488-8-children-all-younger-than-15-dead-following-louisiana-mass-shooting-police/"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Carney says Canada’s economic ties with US are a weakness that must be corrected",
-          "neutralSummary": "Carney says Canada’s economic ties with US are a weakness that must be corrected&nbsp;&nbsp;AP NewsCarney says Canada's US ties have become a weakness&nbsp;&nbsp;ReutersCanada's US ties have become a weakness, says Carney&nbsp;&nbsp;DW.comCanadian PM says close economic ties with US have become a ‘w",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Canada's PM: Ties With U.S. Are A Weakness That Must Be Corrected",
-              "url": "https://www.huffpost.com/entry/mark-carney-canada-us-economic-relations_n_69e57402e4b0b6f552baa050"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Carney says Canada’s economic ties with US are a weakness that must be corrected",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRld4dlVFa3c2N3AzOVZhd1EwS0ZMSGd3UThFQjg0X0N4anBmWVZhQnF4dk9OUEpuRHllU0dCQ1pwejFiS3BxOW82a1lCX0dESmtfT2pwVVdsb3F2eEwwQWFoRkdTWWcwOTNlb0NfaTBkWnNjR1BKZmF3V3NMR3ZoU0QzeVBoUWhMUmx1NGlESmxXYjlx?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Michigan Refuses DOJ's Demand For 2024 Election Ballots",
-          "neutralSummary": "State officials also accused&nbsp;the Trump administration of trying to cast doubt on the integrity of U.S. elections.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Michigan Refuses DOJ's Demand For 2024 Election Ballots",
-              "url": "https://www.huffpost.com/entry/justice-department-michigan-2024-election-ballots_n_69e56ec9e4b0b6f552ba9dc9"
+              "headline": "Peace talks are in doubt as the U.S. seizes an Iranian ship",
+              "url": "https://www.npr.org/2026/04/20/nx-s1-5791256/iran-middle-east-updates"
             },
             {
               "political": "right",
@@ -451,24 +467,24 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "DOJ seeking 2024 election ballots from Michigan county",
-              "url": "https://www.washingtonexaminer.com/news/justice/4535069/doj-2024-ballots-michigan-county/"
+              "headline": "State of peace talks uncertain as U.S. seizes Iranian ship, Trump warns ‘No more Mr. Nice Guy’",
+              "url": "https://www.washingtonexaminer.com/daily-on-defense/4535176/state-of-peace-talks-uncertain-as-u-s-seizes-iranian-ship-trump-warns-no-more-mr-nice-guy/"
             }
           ]
         },
         {
-          "id": "us-7",
-          "neutralHeadline": "Trump Or Pope Leo: Weed Insiders Debate Who Would Be Best 420 Hang",
-          "neutralSummary": "&ldquo;Trump feels like the kind of person who&rsquo;d turn even a joint into a negotiation,&rdquo; one cannabis industry pro said.",
+          "id": "us-8",
+          "neutralHeadline": "Trump administration launches tariff refund system as first step in paying back billions – US politics live",
+          "neutralSummary": "Trump administration launches tariff refund system as first step in paying back billions – US politics live&nbsp;&nbsp;The GuardianTrump Administration to Begin Refunding $166 Billion in Tariffs&nbsp;&nbsp;The New York TimesTrump administration launches tariff refund portal: Who is eligible?&nbsp;&n",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Or Pope Leo: Weed Insiders Debate Who Would Be Best 420 Hang",
-              "url": "https://www.huffpost.com/entry/trump-pope-best-hang-420_n_69e258d6e4b0555d213b2e32"
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "news.google.com",
+              "headline": "Trump administration launches tariff refund system as first step in paying back billions – US politics live",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWNNUGRGTm83WHNDR0lmYTVGZGdiUTBJWnl5THhZaHlRQWE0WTdVZ1gtTHZXNFRTQ3VRWTlnbkNNbGFvWmhLSURzd2JhTTMzS3praVNhakQ2STlKcnlPSVkxSTJRZzctRzhOMmJEVkZFRzV6VzQ0Z09UVnM0aVNPNUItNTNCakRzajdmOG1ZdlppUkxWYjJrTjI4c3dFMTBtR3dUX1h6c21KRUNBd2tubw?oc=5"
             },
             {
               "political": "right",
@@ -476,49 +492,33 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Vance says he's 'grateful' for Pope Leo's statement on not wanting public debate with Trump",
-              "url": "https://www.foxnews.com/politics/vance-says-hes-grateful-pope-leos-statement-wanting-public-debate-trump"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "U.S. Military Strikes a Boat in the Caribbean, Killing 3",
-          "neutralSummary": "The latest attack raised the death toll to at least 180 in the campaign by the United States against people it accuses of smuggling drugs at sea.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "U.S. Military Strikes a Boat in the Caribbean, Killing 3",
-              "url": "https://www.nytimes.com/2026/04/19/us/politics/us-military-strike-boat-strike-caribbean.html"
+              "headline": "After Supreme Court blow, Trump admin launches $166B tariff refund portal",
+              "url": "https://www.foxnews.com/politics/supreme-court-blow-trump-admin-launches-166b-tariff-refund-portal"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "From Pulpit to Pews, Trump and Pope Are on the Minds of Catholics",
-          "neutralSummary": "At churches with connections to Pope Leo and the Trump administration, pastors and parishioners speak out on the feud between the president and the pontiff.",
+          "neutralHeadline": "Supreme Court to hear Catholic preschools’ case involving same-sex parents",
+          "neutralSummary": "The Supreme Court took up a new religious rights case on Monday, agreeing to hear two Catholic parishes’ challenge to Colorado’s mandate that they enroll children of same-sex couples in their preschools to receive public funds. The case provides a&#160;pathway for the high court to narrow a&#160;sig",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "From Pulpit to Pews, Trump and Pope Are on the Minds of Catholics",
-              "url": "https://www.nytimes.com/2026/04/19/us/trump-pope-catholics.html"
+              "source": "CNN",
+              "initials": "CNN",
+              "domain": "news.google.com",
+              "headline": "Supreme Court will decide if preschools that decline children of same-sex couples may receive state funding",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPempsRWxIZ1pmdlVNT25TWTRVdnJDa3FrREdzaGpFM2loeFMzNzlZZVV4WUptZ2lvbjdES05fWGszMUtkZ19LV2xUT0h2WDBhNXhoTV90aHhTVkE2bWZSRVZudEJzTTNlUFdKYk9ycWVYeW02Tk13dE9XVnltM3dkbnBjQWZNbzQ?oc=5"
             },
             {
-              "political": "right",
+              "political": "center",
               "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Pope Leo Addresses ‘Narrative’ Suggesting He And Trump Are At War",
-              "url": "https://www.dailywire.com/news/pope-leo-addresses-narrative-suggesting-he-and-trump-are-at-war"
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Supreme Court to hear Catholic preschools’ case involving same-sex parents",
+              "url": "https://thehill.com/regulation/court-battles/5839319-supreme-court-religious-rights-colorado-preschools/"
             }
           ]
         }
@@ -529,72 +529,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Blocked crypto site sees surge in S’pore-related bets; ‘no blocking method is foolproof’, says Govt",
-          "neutralSummary": "Those who circumvent blocking measures to gamble online can be dealt with under the law.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Blocked crypto site sees surge in S’pore-related bets; ‘no blocking method is foolproof’, says Govt",
-              "url": "https://www.straitstimes.com/singapore/blocked-crypto-site-sees-surge-in-spore-related-bets-no-blocking-method-is-foolproof-says-govt"
-            }
-          ]
-        },
-        {
-          "id": "singapore-2",
-          "neutralHeadline": "‘I didn’t know what injuries she sustained’: Mum whose daughter, 5, was run over by van in 2023",
-          "neutralSummary": "To this day, the mother cannot bring herself to watch footage of the accident.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "‘I didn’t know what injuries she sustained’: Mum whose daughter, 5, was run over by van in 2023",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/i-didnt-know-what-injuries-she-sustained-mum-whose-daughter-5-was-run-over-by-van-in-2023"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
-          "neutralHeadline": "Couples in Singapore with dual incomes, no kids aspire to buy private property: Survey",
-          "neutralSummary": "The survey also found that private housing is popular among younger, higher-income singles.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Couples in Singapore with dual incomes, no kids aspire to buy private property: Survey",
-              "url": "https://www.straitstimes.com/singapore/housing/couples-with-dual-incomes-no-kids-aspire-to-buy-private-property-survey"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Death, trauma, divorce: How impact of traffic accidents in Singapore extends beyond A&E department",
-          "neutralSummary": "Tan Tock Seng Hospital sees about four cases of severe trauma injuries from road traffic accidents every week.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Death, trauma, divorce: How impact of traffic accidents in Singapore extends beyond A&E department",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/death-trauma-divorce-how-impact-of-traffic-accidents-in-spore-extends-beyond-ae-operating-rooms"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Oil jumps, stocks wobble as Mideast ceasefire hangs in the balance",
-          "neutralSummary": "Brent crude futures rose about 5% to US$95.16 a barrel.",
+          "neutralHeadline": "Japan issues warning after 7.7-magnitude quake hits north",
+          "neutralSummary": "Japan warned of an increased risk of earthquakes at magnitude 8.0 or stronger, after a powerful jolt occurred in Pacific waters off its northern Iwate prefecture on Monday.&nbsp;",
           "versions": [
             {
               "political": "center",
@@ -602,13 +538,120 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Oil jumps, stocks wobble as Mideast ceasefire hangs in the balance",
-              "url": "https://www.channelnewsasia.com/business/oil-jumps-and-stock-futures-slip-iran-tensions-unsettle-markets-6066891"
+              "headline": "Japan issues warning after 7.7-magnitude quake hits north",
+              "url": "https://www.channelnewsasia.com/east-asia/japan-earthquake-tsunami-warning-iwate-hokkaido-aomori-6068331"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "news.google.com",
+              "headline": "Japan warns of ‘huge’ earthquake after 7.7-magnitude tremor strikes north-eastern coast",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkllc1hTcGRqWTlzaDlBaHBZOC1PaUd4eE9sWTI0SWR0M1ZJNjVoWGE1aWJOc1V0UGlOUVlvMXE1SGVfZ2ltVFBMZlNmVENSdl9oWDFCTWNVam1OYnEzMnRFWkQzM2R1QVRwQjZ5WE14cU1fd2NNbTNGdGtCWVEyNVNRakwzV1dHT1ZUaFk3Wm1KLUJQWkhsUEFXZFJONzB4QXRCVzhsdEllUG1Q?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
+              "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "Woman, 91, with dementia found soiled, alone at daycare reception; centre says procedures followed",
+          "neutralSummary": "The daughter also questioned polyclinic protocols.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Woman, 91, with dementia found soiled, alone at daycare reception; centre says procedures followed",
+              "url": "https://www.straitstimes.com/singapore/elderly-woman-with-dementia-found-soiled-alone-at-daycare-reception-centre-says-procedures-followed"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
+          "neutralHeadline": "Avoid Jalan Boon Lay stretch, Gul Way junction due to risk of flash floods: PUB",
+          "neutralSummary": "PUB said the public should avoid the areas for an hour.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Avoid Jalan Boon Lay stretch, Gul Way junction due to risk of flash floods: PUB",
+              "url": "https://www.straitstimes.com/singapore/avoid-jalan-boon-lay-stretch-gul-way-junction-due-to-risk-of-flash-floods-pub"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Sarvambikai Shanmugaratnam, President Tharman’s mother, dies at age 99",
+          "neutralSummary": "She is survived by three children and four grandchildren, and two sisters.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Sarvambikai Shanmugaratnam, President Tharman’s mother, dies at age 99",
+              "url": "https://www.straitstimes.com/singapore/sarvambikai-shanmugaratnam-president-tharmans-mother-dies-at-age-99"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "NEA, US nuclear commission sign agreement to enhance Singapore’s nuclear safety capabilities",
+          "neutralSummary": "A new training programme will be designed for NEA and its Nuclear Safety Division.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "NEA, US nuclear commission sign agreement to enhance Singapore’s nuclear safety capabilities",
+              "url": "https://www.straitstimes.com/singapore/environment/nea-us-nuclear-commission-sign-agreement-to-enhance-singapores-nuclear-safety-capabilities"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Singapore, US to develop nuclear safety training programme",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON1AxM0lEXzJzbUFiWDRMNW55d0V6MWsyOVhacU50ZkI2RFpzdC1WRGNzbTVIdzViZms1RXNtVXpnTHJIOU5sdkE3U0dHcnEzcWVVbnZjMXVLWkstNVpjbnJZQmhhWEpKNld2NkxsZVFyTm5pc3RTeFU2b0l0VnJPb0xOTDdyc0xZSlJwN2JzNnVoMGZFOG1sNHdEeWRXRG9jUGxJcFRZM09vdw?oc=5"
             }
           ]
         },
         {
           "id": "singapore-6",
+          "neutralHeadline": "Guess where? SM Lee shares unpublished photos as he celebrates 14 years on social media",
+          "neutralSummary": "New Telegram stickers of recent photos were also added to his sticker pack.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Guess where? SM Lee shares unpublished photos as he celebrates 14 years on social media",
+              "url": "https://www.straitstimes.com/singapore/guess-where-sm-lee-shares-unpublished-photos-as-he-celebrates-14-years-on-social-media"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
           "neutralHeadline": "Fire razes 1,000 'stilt' homes in Malaysia's Sabah, thousands displaced",
           "neutralSummary": "Sandakan police chief George Abd Rakman was quoted by local English daily The Star as saying that the \"very large-scale and heartbreaking incident\" affected 9,007 residents.",
           "versions": [
@@ -633,18 +676,18 @@
           ]
         },
         {
-          "id": "singapore-7",
-          "neutralHeadline": "Oil prices jump after US seizure of Iranian ship imperils talks",
-          "neutralSummary": "Oil prices jump after US seizure of Iranian ship imperils talks&nbsp;&nbsp;The Straits TimesUS intercepts and seizes Iranian-flagged cargo ship, Trump says&nbsp;&nbsp;BBCVideo: US Navy Fires Upon, Seizes Iranian-Flagged Ship In Hormuz&nbsp;&nbsp;NDTVIran war live: Tehran slams US ‘piracy’ after ship",
+          "id": "singapore-8",
+          "neutralHeadline": "Fitch revises Philippines' outlook to 'negative' as energy shock weighs on growth",
+          "neutralSummary": "Fitch revises Philippines' outlook to 'negative' as energy shock weighs on growth",
           "versions": [
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Oil prices jump after US seizure of Iranian ship imperils talks",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXR6NDNHNzh4WlZrWmVhU0diM3lxb2ZRVGJtb3RZMXFlRnJTQWo2d0NTUXFhMElFbUdOcExkTnZMRkpHUElhUlBvci1LZG1VSndhMFdZeHdtVlpadi0tNEVOR25CTzh2Yk9uTlVyQmtXdnFERFRnUmlpMWRydzlLcktxSzlGcU1kUGpZckZFQTMxeWV2aTF0UlVmazVpdlE2dElWVVhaTzd5UlhQTm9vNkFJTXpia1dneEE?oc=5"
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Fitch revises Philippines' outlook to 'negative' as energy shock weighs on growth",
+              "url": "https://www.channelnewsasia.com/business/fitch-revises-philippines-outlook-negative-energy-shock-weighs-growth-6068141"
             },
             {
               "political": "center",
@@ -652,31 +695,15 @@
               "source": "Bloomberg",
               "initials": "BB",
               "domain": "bloomberg.com",
-              "headline": "Oil and Gas Jump After US Seizure of Iranian Ship Imperils Talks",
-              "url": "https://www.bloomberg.com/news/videos/2026-04-20/hormuz-standoff-intensifies-as-us-seizes-iranian-ship-video"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "S’pore’s consumer safety watchdog issues safety alert over baby self-feeding pillows",
-          "neutralSummary": "These self-feeding pillows pose serious risks of choking and suffocation to babies, it said.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "S’pore’s consumer safety watchdog issues safety alert over baby self-feeding pillows",
-              "url": "https://www.straitstimes.com/singapore/spores-consumer-safety-watchdog-issues-safety-alert-over-baby-self-feeding-pillows"
+              "headline": "Philippines Outlook Cut to Negative by Fitch on Growth Risks",
+              "url": "https://www.bloomberg.com/news/articles/2026-04-20/philippines-outlook-cut-to-negative-by-fitch-on-growth-risks"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Guess where? SM Lee shares unpublished photos as he celebrates 14 years on social media",
-          "neutralSummary": "New Telegram stickers of recent photos were also added to his sticker pack.",
+          "neutralHeadline": "Ex-chief hydrographer of Singapore gets top global award for playing key role in maritime navigation",
+          "neutralSummary": "Dr Parry Oei was awarded the Prince Albert I Medal for Hydrography.",
           "versions": [
             {
               "political": "center",
@@ -684,8 +711,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Guess where? SM Lee shares unpublished photos as he celebrates 14 years on social media",
-              "url": "https://www.straitstimes.com/singapore/guess-where-sm-lee-shares-unpublished-photos-as-he-celebrates-14-years-on-social-media"
+              "headline": "Ex-chief hydrographer of Singapore gets top global award for playing key role in maritime navigation",
+              "url": "https://www.straitstimes.com/singapore/ex-chief-hydrographer-of-singapore-gets-top-global-award-for-playing-key-role-in-maritime-navigation"
             }
           ]
         }
@@ -696,17 +723,51 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "'Bengal will remember': TMC jabs PM Modi over 'jhalmuri break', claims Jharkhand CM had to return",
-          "neutralSummary": "Trinamool Congress criticized Prime Minister Narendra Modi for his jhalmuri break in Jhargram, alleging it caused Jharkhand CM Hemant Soren to be denied chopper landing and return without campaigning for Mamata Banerjee. The party accused Modi of displaying an anti-Adivasi mindset and humiliating el",
+          "neutralHeadline": "'Can't let politician ...': Delhi HC Judge rejects Kejriwal's recusal plea in excise case",
+          "neutralSummary": "'Can't let politician ...': Delhi HC Judge rejects Kejriwal's recusal plea in excise case",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "PM Modi’s jhalmuri break in Jhargram leaves Trinamool fuming",
-              "url": "https://www.thehindu.com/elections/west-bengal-assembly/pm-modis-jhalmuri-break-in-jhargram-leaves-trinamool-fuming/article70881765.ece"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Supreme Court Rejects Umar Khalid's Bail Review Plea In 2020 Delhi Riots Case",
+              "url": "https://www.ndtv.com/india-news/supreme-court-rejects-umar-khalids-bail-review-plea-in-2020-delhi-riots-case-11383585#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Can't let politician ...': Delhi HC Judge rejects Kejriwal's recusal plea in excise case",
+              "url": "https://timesofindia.indiatimes.com/india/cant-let-politician-judge-judicial-competence-delhi-hcs-justice-swarana-kanta-rejects-kejriwals-recusal-plea-in-excise-case/articleshow/130393163.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Supreme Court rejects Umar Khalid’s review petition to seek bail in 2020 case",
+              "url": "https://www.hindustantimes.com/india-news/supreme-court-rejects-umar-khalid-s-review-petition-to-seek-bail-in-2020-case-101776691028909.html"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "Video: Fire At Rajasthan Refinery Day Before Its Inauguration By PM Modi",
+          "neutralSummary": "Huge black clouds could be seen after a fire at Pachpadra refinery in Rajasthan",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Video: Fire At Rajasthan Refinery Day Before Its Inauguration By PM Modi",
+              "url": "https://www.ndtv.com/india-news/fire-at-rajasthan-pachpadra-refinery-day-before-its-inauguration-by-pm-modi-11382516#publisher=newsstand"
             },
             {
               "political": "left",
@@ -714,67 +775,24 @@
               "source": "Indian Express",
               "initials": "IE",
               "domain": "indianexpress.com",
-              "headline": "Bengal elections 2026: PM Modi takes ‘jhalmuri break’ during campaign",
-              "url": "https://indianexpress.com/article/trending/trending-in-india/pm-modi-jhalmuri-break-bengal-elections-2026-10645841/"
+              "headline": "After fire at HPCL Rajasthan refinery, Tuesday’s inauguration by PM Modi postponed; probe launched",
+              "url": "https://indianexpress.com/article/business/hpcl-rajasthan-refinery-fire-tuesday-inauguration-pm-modi-10646785/"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Bengal will remember': TMC jabs PM Modi over 'jhalmuri break', claims Jharkhand CM had to return",
-              "url": "https://timesofindia.indiatimes.com/india/bengal-will-remember-tmc-jabs-pm-modi-over-jhalmuri-break-claims-jharkhand-cm-had-to-return/articleshow/130381950.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "TMC hits out at Modi, says Jharkhand CM forced to return to Ranchi due to PM's 'jhalmuri' break in Jhargram",
-              "url": "https://www.hindustantimes.com/india-news/tmc-hits-out-at-modi-says-jharkhand-cm-forced-to-return-to-ranchi-due-to-pms-jhalmuri-break-in-jhargram-101776650963933.html"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "'I have killed my children': Haunting call made by UP man after slitting throats of two daughters",
-          "neutralSummary": "A father in Kanpur allegedly strangled and slit the throats of his 11-year-old twin daughters after sedating them. The pharmaceutical businessman was arrested after reporting the crime himself. Police suspect mental stress, depression, and financial problems as motives for the horrific act.",
-          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "The Hindu",
               "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Kanpur man kills twin daughters by slitting their throats; arrested",
-              "url": "https://www.thehindu.com/news/national/uttar-pradesh/kanpur-man-kills-twin-daughters-by-slitting-their-throats-arrested/article70883009.ece"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'I have killed my children': Haunting call made by UP man after slitting throats of two daughters",
-              "url": "https://timesofindia.indiatimes.com/city/kanpur/man-kills-twin-daughters-dials-cops-to-confess/articleshow/130376400.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Twin daughters killed, wife and 6-year-old son in next room: Chilling details of Kanpur murder case",
-              "url": "https://www.hindustantimes.com/india-news/twin-daughters-killed-wife-and-6-year-old-son-in-next-room-chilling-details-of-kanpur-murder-case-101776648946655.html"
+              "domain": "news.google.com",
+              "headline": "Fire breaks out in Rajasthan HPCL refinery, PM Modi cancels planned inauguration",
+              "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUXptLWhCZmM1eHpjLS1nSVdFNFpaZWQyNHY0UjJfLUNyMWlscEt1T2xRTGxFc09CZFIxQXdYRV8teUFXUHlJYTMxSnE0Q1RmaTcxRFJQZ3FlMlB3R2JKckF4NGI0ODZSOHhfX3BMU3VYbTdYUElrQkd4VVlZQUY5b05iWDQzOTRSTk5QTVlFWElVTlNMWTZkQWp0SFhwckhZNVVicDRUYmR6UDUzR2s4Z091bnVHVExCTWQ2cGV5LTZHdUJmMzVoYkNfeHJxczJfNVVIdmwxTHh5bWM?oc=5"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Stock market today: Nifty50 opens below 24,300; Sensex down over 200 points",
-          "neutralSummary": "Stock market today: Sensex and Nifty opened in red on Monday on weak global cues as the closure of Strait of Hormuz led to an increase in oil prices. While Nifty50 went below 24,300, BSE Sensex dropped over 200 points.",
+          "neutralHeadline": "TCS Nashik case: Court denies anticipatory bail to accused Nida Khan",
+          "neutralSummary": "Her anticipatory bail application will be taken up for consideration on April 27.",
           "versions": [
             {
               "political": "left",
@@ -782,176 +800,158 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat As US-Iran Talks Hangs In Balance",
-              "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-20-april-us-iran-peace-talks-donald-trump-oil-prices-11381137#publisher=newsstand"
+              "headline": "No Interim Protection From Arrest For Missing TCS Case Accused Nida Khan",
+              "url": "https://www.ndtv.com/india-news/no-interim-protection-from-arrest-for-missing-tcs-case-accused-nida-khan-11383564#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Stock market today: Nifty50 opens below 24,300; Sensex down over 200 points",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-april-20-2026-dalal-street-indian-equities-global-markets-us-iran-ceasefire-donald-trump-oil-prices/articleshow/130381760.cms"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "TCS Nashik case: Court denies anticipatory bail to accused Nida Khan",
+              "url": "https://www.hindustantimes.com/india-news/tcs-nashik-case-court-denies-anticipatory-bail-to-accused-nida-khan-101776688718788.html"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
+              "source": "Bar and Bench",
+              "initials": "BA",
               "domain": "news.google.com",
-              "headline": "Iran-Israel war LIVE updates",
-              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMFJoQnpObkFxQnNmZWNrWTA4MUZ4ZC1SN0c0enJpZlc1YUItQ3FrSzJRUmlWM3kwT0FYd0hiRmxWT3pGNV9jcHVlODliRlFWMHFnMkhkVFBYR3p2S3ViUjdMeVZVYW8tT21pM2kyTDhVdnZMa3FwNjFKWDJaa25IbGpNdmgzeThQSlQtck5ubDRKaTl1LWtQN2dQN2NCLTdFUm9hMkJkTXowN1JEZDAtV1pZU2Z3RXRqem1fNlRJYndvN2RDcHk4RVFVZFNpbW5KVGxWZdIB2wFBVV95cUxNS1JyblA5Y0hjLWw0bFBCdHBEWHFscWd4MnlmejMwYmZwWjRHc3QtU1NEOWp4R3ZKUFBQMjY4aGxMNHZENXBVeGxjaFRwZ1plUTJJR1pGY05WX0o1enV4eW1VNjdEV3hNeTdvMkE1QmV6MGZ2UkFsbDJBRE1LRkdOWmtvU1A5dUJGbG5xR2U1T1BqU1U3WEx2eTRQN0NTcFczZ0NYM21pZmRCZ1ZsdTNGS2tqLWVuN0ZDRXQwR3ZxS2F5NVhEcDdfNFRWaE4yTHRBbkwza2lVLXVpVTA?oc=5"
+              "headline": "TCS Nashik case: Court denies interim anticipatory bail to Nida Khan",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUtnWEtpbUFfeWljcTFYcjk5eXJiYzVJZnNjRDgyb051clpOdlNwNVBtSzhzVUVPVE9wSkE1SnoyLURHdy05YkhqVlR3SHRKWGd5dWxWd3ZNQ1VoaGwxWTg2aE5qeVpZdTYta0VFNkliTXNteDFfMzNaTm5HX1FvLU9aYy11ZVowQWlFV044NjJYWG56NlRtWktQZG9ndDQwSEHSAa8BQVVfeXFMTUc4Rm01QkFLZzFmZ2xBUWJoejNXMFlSaW1HeUhvbTEzNGtQUkpWZXNzQWh0S3JTSG9MaDE5YUVIVGpBX1hubGU2WjNLenhoYTBQUU1yRkdQLUlTMUduLUVxMG9tRFNoSjBoQ2hnTEJ4OFQtRXIxZDJXZjA3WG5zY0JtY1FKTVJrd0hGcTctNTFiUUo1MXZvLXVWN2d3SHQ4U0tkYzI2QkN1VnpGTGhXYw?oc=5"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "'Blockade main obstacle': Iran rejects second round of talks with US in Pakistan",
-          "neutralSummary": "Iran has rejected further peace talks with the United States, citing excessive demands, shifting positions, and ongoing naval confrontations. Tehran blames Washington's \"coercive measures,\" including a naval blockade and recent maritime incidents, for the breakdown in diplomacy and a negative atmosp",
+          "neutralHeadline": "'Blockade of Iran ports hurdle to peace talks', Munir tells Trump; how US prez reacted",
+          "neutralSummary": "'Blockade of Iran ports hurdle to peace talks', Munir tells Trump; how US prez reacted",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Ceasefire Violations, Demands: Why Iran Rejected 2nd Round Of Talks With US",
-              "url": "https://www.ndtv.com/world-news/iran-us-news-iran-rejects-2nd-round-of-talks-with-us-excessive-demands-blame-games-11381107#publisher=newsstand"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "'Blockade main obstacle': Iran rejects second round of talks with US in Pakistan",
-              "url": "https://timesofindia.indiatimes.com/world/middle-east/blockade-main-obstacle-iran-rejects-second-round-of-talks-with-us-in-pakistan/articleshow/130380565.cms"
+              "headline": "'Blockade of Iran ports hurdle to peace talks', Munir tells Trump; how US prez reacted",
+              "url": "https://timesofindia.indiatimes.com/world/us/blockade-of-iran-ports-hurdle-to-peace-talks-pak-army-chief-asim-munir-tells-trump-how-us-prez-reacted/articleshow/130389808.cms"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Today",
-              "initials": "TD",
-              "domain": "news.google.com",
-              "headline": "Iran to skip talks 2.0 in Pak, blames excessive US demands, Hormuz blockade",
-              "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLW5mcUsyVGJTWnhGVVdHNmJXWnZxc1dYQUxaakNobHpnV1hXRl90QlVCNnlBNi1lUkJEYUtpbWVlTUpOc2RUSTM0UHByb25lU1ZLY211T1NDRE84eFkyQldheDRiN1lBRU9oRlBIUWQ5bnJSbWE1bjFYdE1KTk00ZjE5Q1M4dF9pZ3hJZ1dfamdGdlFfRUgyN0UxSWhvSm93a1FMTEJBMXlyb3V0YUxUMWtSQXI3Qko0c3dNMlZqcXBPaGo5TXVvdEFMQVVDR1NjMU5Iam9sTkpMU3c?oc=5"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Iran Hesitant on Talks Even as Trump Says Vance Is on Way",
+              "url": "https://www.bloomberg.com/news/articles/2026-04-20/iran-wavers-on-peace-talks-as-tensions-rise-after-us-seizes-ship"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Five deaths, no arrests as fresh violence grips Manipur",
-          "neutralSummary": "As the attackers remain unidentified, locals have hit the streets multiple times in the past one week and have clashed with security forces demanding arrests",
+          "neutralHeadline": "Delhi HC judge Swarana Kanta Sharma rejects to recuse from hearing Kejriwal's liquor policy case",
+          "neutralSummary": "Kejriwal, AAP's Manish Sisodia and 21 others were discharged by a trial court on February 27 in the in the excise policy case.",
           "versions": [
             {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Five deaths, no arrests as fresh violence grips Manipur",
-              "url": "https://www.thehindu.com/news/national/manipur/five-deaths-no-arrests-as-fresh-violence-grips-manipur/article70881487.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "National Herald case: Delhi High Court to hear today ED plea against Sonia, Rahul",
-          "neutralSummary": "Besides the Gandhis, the High Court had also issued notices to Suman Dubey, Sam Pitroda, Young Indian, Dotex Merchandise Pvt. Ltd. and Sunil Bhandari on the ED’s plea",
-          "versions": [
-            {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "National Herald case: Delhi High Court to hear today ED plea against Sonia, Rahul",
-              "url": "https://www.thehindu.com/news/national/national-herald-case-delhi-high-court-to-hear-ed-plea-against-sonia-rahul-gandhi-april-20-2026/article70881703.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Court To Hear Plea Against Sonia, Rahul Gandhi In National Herald Case Today",
-              "url": "https://www.ndtv.com/india-news/court-to-hear-plea-against-sonia-rahul-gandhi-in-national-herald-case-today-11380709#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "23 killed in explosion at fireworks unit near Virudhunagar",
-          "neutralSummary": "Most victims charred beyond recognition, with many bodies blown away by the impact of the explosion; the fireworks industry is shut on Sundays, but the unit was operating without permission, Virudhunagar Collector N.O. Sukhaputra",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "23 killed in explosion at fireworks unit near Virudhunagar",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/virudhunagar-fireworks-factory-explosion-tamil-nadu-death-toll-updates/article70880724.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "news.google.com",
-              "headline": "23 killed, 12 injured in explosion at firecracker unit in Virudhunagar",
-              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNktCQ2s1aXNrNjhmbXExd0hFQWhmM1JKSFZkZ1lXaERVb2dzRThNNjVNNUpfRXBQWXYyOWFlbW5wSE1DdUJmTHczTnR2LVdGbmU2WlljaHBROXRfMDhqckFQRGxiMXE5T2tZU3VlYVV1UTQ2YUhXd1p2c201WXE1TE1INnNzUS16Uk8yaGNvckdfYWpwOUt1amRlVWV0QTRfdXo4N1dnUUZfMTljbHBGUnBfaXg0T0cyY2RRbUJJT3VrX1hyUEJDTmJ5X24?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Congress committed to 33% quota for women: Sharmila",
-          "neutralSummary": "Sharmila accused the Central Government of linking the issue with delimitation for political gain, and described the Prime Minister as an “opportunist”",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Congress committed to 33% quota for women: Sharmila",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/congress-committed-to-33-quota-for-women-sharmila/article70881632.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "news.google.com",
-              "headline": "‘Modiji mentioned Congress 59 times’: Kharge calls PM ‘desperate’ after women quota Bill fails in Lok Sabha",
-              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGp5NGZ2ZERFT19XcDhJenlIaFJWbm9oeU5oV0pZUGVoYWF0NDBVRDFxdHg3Z2lfVWdnYUE5SFRhT1BzWWt1SWoxWTVyX2lDR1RZekpVMW14Z3dXakZLbnhDY3plVE5mRUJUWTRNUk9qUHpVaFg0c1dCVk9DN0RzdF9tVnp4VWNxdXc5Z20wUDFCMWY0cl9HLTdrc05iUUQ2djRTRXMtMTNubTB2MnI5RlBBVjB1aXJJcUNqb3ZSUGIwYjNFWFQ3d3BrMkx3Y2M5YUNyVGQ5b07SAd8BQVVfeXFMTWJscklrZERXTTZUMk9GYmJTMXAyRkdNbmNINUNEdHRKTnBWTFJTTmhWMEhkZVZkSzBoNjZGbm5uWEpBTzdNT2NtLW9HdFJ3a0J1S0JQMGE2dXRzdkdSNEtIZ2dGOFRZWEZkb3EtclhmY1VGNVZmOFd4Y1JpV1M1UU5MRGJXaVpmNjNSSWdzSVpZa2FScnpxOG5MZWowcHNNakNqd1hZV0s4X1p3NjJQd3A5UEttd1FYNG4yMU1sNDRJMnR3TmpoN2t3Q1E4TFowY1FxUzFSS2hhTE5iWHhDMA?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "'Vibes all the way down': Iran’s swipe at US comes with oil market warning amid Hormuz tensions",
-          "neutralSummary": "'Vibes all the way down': Iran’s swipe at US comes with oil market warning amid Hormuz tensions",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "'Vibes All the Way Down': Iran's Jibe At Safe-Haven Tag For US Bonds",
-              "url": "https://www.ndtv.com/world-news/us-iran-war-mohammad-bagher-ghalibaf-investment-us-bonds-treasuries-dated-brent-oil-market-11381275#publisher=newsstand"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Delhi HC judge Swarana Kanta Sharma rejects to recuse from hearing Kejriwal's liquor policy case",
+              "url": "https://www.hindustantimes.com/india-news/delhi-hc-judge-swarana-kanta-sharma-rejects-to-recuse-from-hearing-kejriwal-liquor-policy-case-101776686438179.html"
             },
             {
               "political": "center",
               "tone": "pessimistic",
               "source": "Times of India",
               "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "'Can't let politician judge judicial competence': Delhi HC's Justice Swarana Kanta rejects Kejriwal's re",
+              "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQTzJ4TlFzQ2tQcExKRjN4bFkzczJaYl9IQkNOMEIzam83dVJXbTNxNGZ2VkdTaFdlMnFQclA1QXRuakh6c3JHc3FzWnZLV0xTTFFiTnZURTRuNjRBR0ZhbTJpRzFZbzl6MmxmNlkzMV9CYWRzWmpuaDc1ZEhva0Z2NUZMUk9GODdJT25ld000NzU3MDZyMV95YTRoZ3A2dThCa1F2Y3k1a1Q1cEFpZ1Y2MWxqOWVVTWN4ajZzSkk4eVNKMzN2azdFQWFLMll4NDRndk1RSGRkR0QxM3FINjlHVS14VjJWMFJuWmFSVm5CWkdPV2VkWGNON2l0bnVRQzE1Q2l0S0xscmM0Y3FpemU1X2lyTDZLMEQ5d1dN?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Chhattisgarh govt confirms no plane crash",
+          "neutralSummary": "Chhattisgarh govt confirms no plane crash",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "\"No Evidence\": Officer On Reports Of Plane Crash In Chhattisgarh",
+              "url": "https://www.ndtv.com/india-news/no-evidence-officer-on-reports-of-plane-crash-in-chhattisgarh-11383013#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Chhattisgarh govt confirms no plane crash",
+              "url": "https://economictimes.indiatimes.com/news/india/chhattisgarh-plane-crash-state-govt-clears-air-says-no-evidence-found/articleshow/130393024.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "JEE Mains 2026 Session 2 result out: Download scorecards here",
+          "neutralSummary": "JEE Main 2026 Session 2 results are out! Over 11 lakh candidates received their scores and ranks for B.E./B.Tech admissions. The NTA also released the final answer key, noting two dropped Physics questions. Top 2.5 lakh performers will qualify for JEE Advanced, crucial for IIT admissions. Check your",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "'Vibes all the way down': Iran’s swipe at US comes with oil market warning amid Hormuz tensions",
-              "url": "https://timesofindia.indiatimes.com/world/middle-east/vibes-all-the-way-down-irans-swipe-at-us-comes-with-oil-market-warning-amid-hormuz-tensions/articleshow/130381831.cms"
+              "headline": "JEE Mains 2026 Session 2 result out: Download scorecards here",
+              "url": "https://timesofindia.indiatimes.com/education/news/jee-mains-2026-result-released-for-session-2-at-jeemain-nta-nic-in-direct-link-to-download-scorecards-here/articleshow/130395185.cms"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "news.google.com",
+              "headline": "JEE Main Session 2 Result 2026 LIVE Updates: NTA Scorecard Out Shortly, Answer Key Out, Download Link Here",
+              "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOc0tLZEFBX3Vpa3Q2azBoYmhYY1JDVXphV2x5TUk0bnh6cUpEaTJUdDB5aWp2blZDR0tSR1E2dzNCV0dPcTMwZDA5Qmloc3JjcTdJN3k5eU5YMXBOMUFhN1JtTFM0VlJXbzliRlQ5RkdZWm1uV1Z4SmVlN2VGRGNMaEZ1M29ianVvWlRIQ3VlQm1FZFFzM01pUURsamtFdlhoaHhIOUZxd2QxVTFCcHRJZVRoUUJNSVRTZ0t0WTNOczd1SXUtUVY5MmYtWXhwUXV4TDB1U2RmbEEwMXlDM0JrMmxEQXBPaVZNdzJkU1oyTjBDUTdvdmJXYV85RFkxM1JtSzRXLUpoaHhSNE45LTRB0gGXAkFVX3lxTE0wbXdJZ3ZwaEVhQXc2c2l4Q3BUYmpkVm5xZGZmV0VUT3NqMFVvbFdMTDJtaExIdFBMOTF5VXlsbzN5Sjc3Vm9GUEJINGZwTl81S2NGajlsUUs0RkRieGJ2bGtsa1laRUhQYVZvb1FieUFIMjQ2UTRJVngtdWlHZmdHSF9iT0RyRWRHRkJLb053QWZMM1lTOWRURF81VDBVdXJhR1FnMUdDZUJmTjN0cjhySEZwT3pXZVBScndmWGxTNURrbjk0XzhUUHJkLS1uNU9jU2Y3cC16TE5fem9LWG9hZ2duY01xSG1jUnI0V3ZVdFBwcjk2VEJiZllaRGNIdE16c0xJTlhKMFE1X0Q3ZU9JSmVUYkdjVQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Jamnagar Is India's Energy Crown Jewel — Which Also Makes It Biggest Strategic Liability",
+          "neutralSummary": "Jamnagar Is India's Energy Crown Jewel — Which Also Makes It Biggest Strategic Liability",
+          "versions": [
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "Jamnagar Is India's Energy Crown Jewel — Which Also Makes It Biggest Strategic Liability",
+              "url": "https://swarajyamag.com/newsletters/jamnagar-is-indias-energy-crown-jewel-which-also-makes-it-biggest-strategic-liability-3"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "Need to prioritise biofuels for aviation: IATA",
+          "neutralSummary": "Need to prioritise biofuels for aviation: IATA",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Need to prioritise biofuels for aviation: IATA",
+              "url": "https://www.thehindu.com/news/national/need-to-prioritise-biofuels-for-aviation-iata/article70884693.ece"
             }
           ]
         }
