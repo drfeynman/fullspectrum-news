@@ -1,49 +1,31 @@
 {
-  "generatedAt": "2026-05-01T05:34:27.935152+00:00",
+  "generatedAt": "2026-05-01T14:18:32.806692+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Israeli forces intercept Gaza aid flotilla and plans to drop off activists in Greece",
-          "neutralSummary": "Israeli forces intercept Gaza aid flotilla and plans to drop off activists in Greece&nbsp;&nbsp;AP NewsIsrael intercepts Gaza flotilla near Crete and detains 175 activists&nbsp;&nbsp;BBCRSF condemns ‘kidnapping’ of three journalists on board Gaza aid flotilla&nbsp;&nbsp;Al JazeeraItaly condemns 'unl",
+          "neutralHeadline": "Congress reduces Bolsonaro's jair term",
+          "neutralSummary": "Brazil’s Congress has voted to reduce the 27-year prison sentence of former President Jair Bolsonaro, though the highly controversial decision is expected to be appealed. Bolsonaro was convicted of plotting a coup after losing the 2022 presidential election, and the move to shorten his sentence is w",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Brazil’s congress approves bill reducing prison sentence of former president Jair Bolsonaro",
+              "url": "https://www.theguardian.com/world/2026/apr/30/brazils-congress-approves-bill-reducing-prison-sentence-of-former-president-jair-bolsonaro"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-              "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Activists say Israel has intercepted their Gaza aid flotilla near Crete",
-              "url": "https://www.npr.org/2026/04/30/g-s1-119486/israel-intercept-gaza-aid-flotilla"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Israeli forces intercept Gaza aid flotilla and plans to drop off activists in Greece",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3ZoUnVNSVlINEptUVdOak1DY3E0cmlYb04ydUhySWVhLUdUS2hrTFRIbjc2SlRra2RSV0hMdW1oX2VZeTBUMmc2dnZqSmhEZF9zRndhUVJ2NkIyMHR1RTNLcUI5NlJPVnd3dlJFSTVOanVDV3dlakp5Vm1wWjkwUHJPLUFqVWlZTnJDN0ZfM09hOWdjMlRseVh6U2Fva2JKTW5sOF94UlRkNVpGcUJqZjJmcmdjUQ?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Condemnation and protests against Israel’s raid of Gaza aid flotilla",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/condemnation-and-protests-against-israels-raid-of-gaza-aid-flotilla?traffic_source=rss"
+              "headline": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+              "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
@@ -51,15 +33,49 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Israel says detained Gaza flotilla activists to be taken to Greece",
-              "url": "https://www.france24.com/en/israel-says-detained-gaza-flotilla-activists-to-be-taken-to-greece"
+              "headline": "Congress reduces Bolsonaro's jair term",
+              "url": "https://www.france24.com/en/congress-reduces-bolsonaro-s-jair-term"
             }
           ]
         },
         {
           "id": "global-2",
-          "neutralHeadline": "Jury of Italy's Venice Biennale resigns over Russia row",
-          "neutralSummary": "The international jury of the Venice Biennale resigned Thursday, just days before the world’s oldest and most important contemporary art fair opens. No reason was given, but the move came as Italy's government opposed Russia's participation. FRANCE 24's Seema Gupta reports from Rome.",
+          "neutralHeadline": "U.K. Police Charge Man Over Stabbing Of 2 Jewish Men In London",
+          "neutralSummary": "British officials raised the national terrorism threat to its second-highest level, meaning a terrorist attack is highly likely within the next six months.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "U.K. Police Charge Man Over Stabbing Of 2 Jewish Men In London",
+              "url": "https://www.huffpost.com/entry/uk-police-charge-man-over-london-stabbing_n_69f46821e4b0510ddb7c50f7"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Man charged with attempted murder after stabbings of Jewish men in London",
+              "url": "https://www.npr.org/2026/05/01/g-s1-119674/man-charged-with-attempted-murder-after-london-stabbings"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "2 Jewish men stabbed in London attack classified as terrorism",
+              "url": "https://www.foxnews.com/world/2-jewish-men-stabbed-london-attack-classified-terrorism"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Australian Indigenous protesters and police clash over arrest of suspected killer of 5-year-old girl",
+          "neutralSummary": "Police fired tear gas into a crowd of hundreds of Indigenous people who gathered outside a hospital in the remote town of Alice Springs Thursday night following the arrest of a man accused of killing a five-year-old girl. Members of the crowd, who called for the suspect to be punished according to c",
           "versions": [
             {
               "political": "left",
@@ -67,7 +83,41 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Venice Biennale jury resigns days before start of exhibition",
+              "headline": "Violence in Australian town after arrest of man over girl's murder",
+              "url": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Riots erupt over Australian Aboriginal girl’s murder as suspect arrested",
+              "url": "https://www.aljazeera.com/news/2026/5/1/riots-erupt-over-australian-aboriginal-girls-murder-as-suspect-arrested?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Australian Indigenous protesters and police clash over arrest of suspected killer of 5-year-old girl",
+              "url": "https://www.france24.com/en/asia-pacific/20260501-australian-indigenous-protesters-and-police-clash-over-arrest-of-suspected-killer-of-5-year-old-girl"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Venice Biennale thrown into fresh turmoil as art jury resigns",
+          "neutralSummary": "Venice Biennale thrown into fresh turmoil as art jury resigns&nbsp;&nbsp;ReutersThe world’s most important art festival is imploding and Russia and Israel sit at the center of the crisis&nbsp;&nbsp;CNNVenice Biennale Jury Resigns En Masse Over Russia’s Controversial Return&nbsp;&nbsp;Radio Free Euro",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Venice Biennale jury resigns days before start of top art exhibition",
               "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss"
             },
             {
@@ -81,162 +131,35 @@
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Jury of Italy's Venice Biennale resigns over Russia row",
-              "url": "https://www.france24.com/en/jury-of-italy-s-venice-biennale-resigns-over-russia-row"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
-          "neutralSummary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
-              "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Myanmar junta says Suu Kyi moved to house arrest, doubts linger",
-              "url": "https://www.npr.org/2026/04/30/g-s1-119543/myanmar-junta-says-suu-kyi-moved-to-house-arrest-doubts-linger"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "CNN",
-              "initials": "CNN",
-              "domain": "news.google.com",
-              "headline": "Myanmar’s detained former leader Aung San Suu Kyi moved to house arrest, military says",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ya3diM1dLdFJsQV9XaFNXUnY1VlpWUi1JSjFzdG8ta1pPVFptNjhIbEJiM28tNjFvRUZhc2dhQkZEUzhJTHZoWXIyWnRxem16U3NrR2dfc1I2Z1IzcVNhb29xbms2NzR3aDQ1cmRDemhONHlRVGtEckxJelFTZw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Trump again criticizes Germany's Merz, tells him to stop interfering over Iran",
-          "neutralSummary": "Trump again criticizes Germany's Merz, tells him to stop interfering over Iran&nbsp;&nbsp;ReutersTrump news at a glance: president doubles down on rift with Germany’s chancellor&nbsp;&nbsp;The GuardianTrump’s call to reduce US troops in Germany shocks Pentagon&nbsp;&nbsp;PoliticoTrump threatens to p",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
-              "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump says he is weighing reducing American troop presence in Germany after Iran feud",
-              "url": "https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud"
-            },
-            {
-              "political": "center",
               "tone": "pessimistic",
               "source": "Reuters",
               "initials": "R",
               "domain": "news.google.com",
-              "headline": "Trump again criticizes Germany's Merz, tells him to stop interfering over Iran",
-              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUFV3WE9MUzNCX2xtWDFSVE4wQjFWYVBGRjdzOGNFajBtMlh3VDVXb3FQZ0tiTVNraUdTWTF4SENZY2pxMDd6Nnp0aDNqajAwQkxRMWw0MkM0cmNaQnY4LTl2SXZrdVJGNlU5Rk5RV3FMaEFjTThDYnAyTXhjeDdFMEdzRmxMYXdTM1V1bVEzS21wUVE4ODctZmJBU29tXzEwaFBTWUNiSHJqUTlRN2c?oc=5"
+              "headline": "Venice Biennale thrown into fresh turmoil as art jury resigns",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXo1aWZGd3ZCZzQ3ZlQ1dEEzREZyME5jTzN5bklnWG9ZMEtldjBkc1hZMWM4MkwyMEdJRU1uZ3RPaVU0aDg2Z3hBOFBSeldIaFFaSWJNZS1ZLU1ObXd6aC1WaEI0a0dyV1JVYzNKT2RYaU9DbkczRG9nT0dNRnBuQ2F5cnB2XzBqWVBFWk80RVAwcUlJRzd2YXYyQVIwSGlkckxucnFQbw?oc=5"
             }
           ]
         },
         {
           "id": "global-5",
-          "neutralHeadline": "Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon",
-          "neutralSummary": "In southern Lebanon, towns near the border with Israel have been largely destroyed by Israeli demolitions and strikes. Israel says it has been attacking Hezbollah infrastructure, but civilian infrastructure has also been significantly affected.",
+          "neutralHeadline": "Antigua and Barbuda prime minister set to win fourth term in election",
+          "neutralSummary": "Gaston Browne is on course to win 15 of the 17 seats in parliament after calling snap electionGaston Browne, the prime minister of Antigua and Barbuda, is set to win a fourth term in the country’s snap general election with preliminary results showing his party on course to win 15 of the 17 seats in",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Mirroring Gaza, Israel is destroying towns and villages in southern Lebanon",
-              "url": "https://www.npr.org/2026/04/30/g-s1-119210/lebanon-israel-war"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "How is Israel replicating its Gaza tactics in Lebanon?",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/4/30/how-is-israel-replicating-its-gaza-tactics-in-lebanon?traffic_source=rss"
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Antigua and Barbuda prime minister set to win fourth term in election",
+              "url": "https://www.theguardian.com/world/2026/may/01/antigua-barbuda-gaston-browne-win-election"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "Brazil Congress overrides Lula veto to reduce Bolsonaro prison sentence",
-          "neutralSummary": "Brazil’s Congress on Thursday overrode a presidential veto to pass a bill reducing former President Jair Bolsonaro’s 27-year sentence for plotting a coup, dealing a blow to President Luiz Inacio Lula da Silva. The measure, set to face legal challenges, could cut his term by about 20 years.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Brazil’s congress approves bill reducing prison sentence of former president Jair Bolsonaro",
-              "url": "https://www.theguardian.com/world/2026/apr/30/brazils-congress-approves-bill-reducing-prison-sentence-of-former-president-jair-bolsonaro"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Brazil Congress overrides Lula veto to reduce Bolsonaro prison sentence",
-              "url": "https://www.france24.com/en/americas/20260501-brazil-congress-lula-veto-reduce-bolsonaro-prison-sentence"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "‘A new chapter’: first commercial flight from US since 2019 lands in Venezuela",
-          "neutralSummary": "Four months after US capture of Nicolás Maduro, officials hail repairing of ties as airliner touches down in CaracasUS and Venezuelan officials have hailed a new era in diplomatic relations as the first direct commercial flight between the two countries in more than seven years landed in Caracas.Nea",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "‘A new chapter’: first commercial flight from US since 2019 lands in Venezuela",
-              "url": "https://www.theguardian.com/world/2026/apr/30/us-venezuela-first-direct-commercial-fight-since-2019-miami-simon-bolivar-airport"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "First US-Venezuela flight lands in Caracas after seven-year suspension",
-              "url": "https://www.aljazeera.com/economy/2026/4/30/first-us-venezuela-flight-lands-in-caracas-after-seven-year-suspension?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Happy ending? Stranded humpback whale is finally on his way home",
-          "neutralSummary": "Happy ending? Stranded humpback whale is finally on his way home&nbsp;&nbsp;Euronews.comWhale carried by barge out of German waters after weeks stranded on coast&nbsp;&nbsp;BBCA barge carrying Timmy the humpback whale journeys to the North Sea&nbsp;&nbsp;AP NewsWhale 'Timmy' reaches Denmark in rescu",
+          "neutralHeadline": "Barge Carrying Formerly Stranded Humpback Whale Journeys To North Sea",
+          "neutralSummary": "Timmy the whale had been stranded in shallow waters near Germany since March, prompting debate over whether he should be left alone.",
           "versions": [
             {
               "political": "left",
@@ -248,20 +171,20 @@
               "url": "https://www.huffpost.com/entry/barge-carrying-formerly-stranded-humpback-whale-journeys-to-north-sea_n_69f258b5e4b084a938d796fa"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Euronews.com",
-              "initials": "E",
+              "source": "BBC",
+              "initials": "BBC",
               "domain": "news.google.com",
-              "headline": "Happy ending? Stranded humpback whale is finally on his way home",
-              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVQ5N3BtN0NrMjFFWXJVWGNUbmljRzBsRWxmVnlrdzlLbFkyMU1aQXhvOUZodHg5THFveF9lZzFPN3k4LTNGTUFmTzNyOHJEd2R4bUJSZ0w1NGVmQ1o3YW1MekdXODY4OTJCbWZUYXljRTJ2aXQ1cWo3M3hYdGx1M2tkMHdZTVpaN0JiTlVkUWVDbkR4RlNmSlA1MFo0VGZnUTFFYXJIT2xIaExXa1ZuYWw1NjdFU2gxUDhHdnV1R1l0dw?oc=5"
+              "headline": "Whale carried by barge out of German waters after weeks stranded on coast",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FVEtBMjhfOFh2MDF0ek1KcW1Ob0NDVVlmQ0FzeURVVFRONXJmQmV2RTFwYUFWZ2JIa2lWbXZXLVFoV2k5VkdWVHBWQkFJTW5rWURocmFPVi1Sdw?oc=5"
             }
           ]
         },
         {
-          "id": "global-9",
-          "neutralHeadline": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
-          "neutralSummary": "The blockade comes days after Mali's defence minister was assassinated in a series of nationwide attacks.",
+          "id": "global-7",
+          "neutralHeadline": "Hegseth says clock paused on deadline to seek approval for Iran war",
+          "neutralSummary": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire.",
           "versions": [
             {
               "political": "left",
@@ -269,8 +192,58 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
-              "url": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss"
+              "headline": "Hegseth says clock paused on deadline to seek approval for Iran war",
+              "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
+              "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+          "neutralSummary": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+              "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Trump threatens Sánchez and Meloni with US troops withdrawal",
+          "neutralSummary": "Trump threatens Sánchez and Meloni with US troops withdrawal&nbsp;&nbsp;politico.euTrump’s threat: Why cutting US troops in Europe won’t be easy&nbsp;&nbsp;Al JazeeraTrump Threatens to Withdraw U.S. Troops From Italy and Spain as Europe Rift Widens&nbsp;&nbsp;Time MagazineTrump’s call to reduce US t",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Trump threatens Sánchez and Meloni with US troops withdrawal",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOamFaREU2LThYa1ZrNXVFcXh0Z0NRZmo0WGhfc3U2OXRaWTYxRUtfOE5JOElQNnNKUDJtYk5PYTNqNUo4ZHY1RnJKaTJfYmwzemVfOEhsdzJFdktINGFUdzBSTFlhcTFMNFYxelhYb1d3Y2dzX1JEeWtySi03Q2N0OERKME1yUUhUdE13QUV1YWo1am9nRTVvMTVvOW55ekxjQ3NidFRLLUk2ODVsdURQT1lfZm5vclNtdzVMRUZfSmlkaVQy?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Trump’s threat: Why cutting US troops in Europe won’t be easy",
+              "url": "https://www.aljazeera.com/news/2026/5/1/trumps-threat-why-cutting-us-troops-in-europe-wont-be-easy?traffic_source=rss"
             }
           ]
         }
@@ -281,76 +254,42 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Louisiana congressional primaries are suspended as a result of the Supreme Court’s ruling",
-          "neutralSummary": "Louisiana congressional primaries are suspended as a result of the Supreme Court’s ruling&nbsp;&nbsp;AP NewsWhat Peak Gerrymandering Could Look Like Now&nbsp;&nbsp;The New York TimesIn major Voting Rights Act case, Supreme Court strikes down redistricting map challenged as racially discriminatory&nb",
+          "neutralHeadline": "Pentagon reaches deal with leading AI companies for classified work",
+          "neutralSummary": "Seven of the country&#8217;s major artificial intelligence firms have agreed to deploying their AI systems in the Defense Department&#8217;s (DoD) classified networks, as the agency seeks to bolster the technology into military operations. OpenAI, Google, Nvidia, Reflection AI, Microsoft, Amazon Web",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Supreme Court Ruling Will Reshape American Politics. The Only Question Is When.",
-              "url": "https://www.huffpost.com/entry/supreme-court-voting-rights-redistricting_n_69f2d1dee4b084a938d820ae"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Supreme Court Voting Rights Ruling Could Fuel New Era of Redistricting Wars",
-              "url": "https://www.nytimes.com/2026/04/30/us/politics/supreme-courts-voting-rights-gerrymandering.html"
+              "headline": "Pentagon Makes Deals With A.I. Companies to Expand Classified Work",
+              "url": "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Louisiana congressional primaries are suspended as a result of the Supreme Court’s ruling",
-              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDgyTDlUOFdqRDV4amhGbmM4Y3FSRy1XLWsxVFlxOF9RUHdqVEZJOWJJbGY1ZU1zRmlhNWhEMlhoMVpJSktOSF9ZaDRKLUxBdTJNNlh6cmJ5Unk0d0FpdXJzbE1hcEhHU1Y0d0ZEc3E1Rl9udlExMi1wMFJGRUlsNWVXVVRXalo5VXU4aDV4M3hRS2NPbHVUSThUa2pGSnotbXg1eA?oc=5"
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Pentagon reaches deal with leading AI companies for classified work",
+              "url": "https://thehill.com/policy/technology/5858995-pentagon-ai-companies-classified-work-deal/"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Louisiana suspends congressional primaries in wake of Supreme Court gerrymandering ruling",
-              "url": "https://www.foxnews.com/politics/louisiana-suspends-congressional-primaries-wake-supreme-court-gerrymandering-ruling"
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Pentagon signs deal with six top AI companies for classified work after Anthropic fallout",
+              "url": "https://www.washingtonexaminer.com/policy/defense/4551093/pentagon-sign-deal-ai-companies-classified-work/"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "Fetterman on Platner after Mills exits Maine Senate race: ‘Republicans f‑‑‑ing love him’",
-          "neutralSummary": "Sen. John Fetterman (D-Pa.) made it clear that he’s not thrilled with Graham Platner (D) becoming the presumptive Democratic Senate nominee in Maine, declaring that “Republicans f‑‑‑ing love him” because of his liberal policy positions and controversial statements. “Democrats really, really like Pla",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Platner Consolidates Democratic Support In Maine Senate Race",
-              "url": "https://www.huffpost.com/entry/platner-consolidates-democratic-support-maine-senate-race_n_69f2b6f9e4b084a938d80cec"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Fetterman on Platner after Mills exits Maine Senate race: ‘Republicans f‑‑‑ing love him’",
-              "url": "https://thehill.com/homenews/campaign/5858515-maine-democrats-platner-fetterman/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "What to know about the Voting Rights Act after historic Supreme Court decision",
-          "neutralSummary": "In a 6-3 decision on Wednesday, the Supreme Court struck down Louisiana&#8217;s second majority Black congressional district, ruling it an unconstitutional gerrymander.&#160; The ruling has significant implications for future applications of the Voting Rights Act (VRA), which activists have long use",
+          "neutralHeadline": "Behind the scenes of Janet Mills’ US Senate campaign collapse",
+          "neutralSummary": "Behind the scenes of Janet Mills’ US Senate campaign collapse&nbsp;&nbsp;Bangor Daily NewsHow Janet Mills was boxed out of the Maine Senate race by Graham Platner’s rise&nbsp;&nbsp;CNNSchumer’s Maine pick Janet Mills drops out; VRA ruling boosts GOP path: Join Friday’s Whole Hog&nbsp;&nbsp;The HillO",
           "versions": [
             {
               "political": "left",
@@ -358,8 +297,42 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Here’s What States Might Do After the Voting Rights Decision",
-              "url": "https://www.nytimes.com/2026/04/30/us/elections/states-redistricting-voting-rights.html"
+              "headline": "What to Know About the Maine Senate Race After Janet Mills Drops Out",
+              "url": "https://www.nytimes.com/2026/05/01/us/politics/maine-senate-race-platner-collins-mills-takeaways.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bangor Daily News",
+              "initials": "BD",
+              "domain": "news.google.com",
+              "headline": "Behind the scenes of Janet Mills’ US Senate campaign collapse",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzNFbWpndFZsWmtaSGR4QTBQSHJMR25EWkRaZ3gxNFFoU3ljQWVjSThnR0xyQktVYTh5akNTbS1oa1BfOHlxZF9DT0wzYWRFYlRuRUM3UHY2N0tNUlN5bVlZVjhabU0tblpQZ3F1eGttQjBZZThoRXJ0MUs3b243SVctUmtWdnZwdkpPbGVXaDJ1YWlsd2lRaC1TU2ozcERHWFY5Z2ZTWHZCOE5FTklaWEJySDZ4UzFFUmxWM1NrYndlMTB1djhB?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Schumer’s Maine pick Janet Mills drops out; VRA ruling boosts GOP path: Join Friday’s Whole Hog",
+              "url": "https://thehill.com/newsletters/whole-hog-politics/5858933-chuck-schumer-maine-janet-mills-graham-platner-supreme-court-vra-whole-hog-live-discussion/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Trump administration says Iran war ‘terminated’ before 60-day deadline",
+          "neutralSummary": "A senior Trump administration official said Thursday that “for War Powers Resolution purposes,” the military operation against Tehran was already “terminated&#8221; following the ceasefire deal reached between the U.S. and Iran. Friday marks 60 days since the administration formally notified Congres",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Administration Says Its War In Iran Has Been 'Terminated' Before 60-Day Deadline",
+              "url": "https://www.huffpost.com/entry/trump-war-powers-iran_n_69f40140e4b0db8899bc1746"
             },
             {
               "political": "center",
@@ -367,33 +340,24 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "What to know about the Voting Rights Act after historic Supreme Court decision",
-              "url": "https://thehill.com/homenews/campaign/5858597-voting-rights-act-supreme-court-what-to-know/"
+              "headline": "Trump administration says Iran war ‘terminated’ before 60-day deadline",
+              "url": "https://thehill.com/homenews/administration/5858942-trump-administration-iran-war-60-day-clock-ceasefire/"
             }
           ]
         },
         {
           "id": "us-4",
-          "neutralHeadline": "Trump pulls Casey Means' stalled surgeon general nomination, announces new pick",
-          "neutralSummary": "President Trump says he's nominating former Fox News Channel contributor Dr. Nicole Saphier for surgeon general after Dr. Casey Means' path forward stalled in the Senate over questions about her experience and her stance on vaccines.",
+          "neutralHeadline": "The Devil Wears Prada 2 is capitalist art that hates capitalist art",
+          "neutralSummary": "The Devil Wears Prada is one of the great millennial fairy tales.&#160;&#160; Released in 2006, the year before the financial crisis and Great Recession would come for us all, the movie (based on a novel inspired by writer Lauren Weisberger’s experience working for Anna Wintour at Condé Nast) posits",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump pulls Casey Means' stalled surgeon general nomination, announces new pick",
-              "url": "https://www.npr.org/2026/04/30/g-s1-119571/nicole-saphier-trump-casey-means-surgeon-general-nomination"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "Casey Means: Murkowski sank my nomination",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3Z3ZzJrb3RvSFBNRklFc2xuS29td2NsYnlPZFl4bnRYeFUyTmhZZW5vQkxuLVgtc3BTOVgxa1REN2Jaa3BqRXpqQW55ZndJeDhJbFhsRHRzc2dSNUVmczBIZFVUd1dMZ2szODVLdmRSVjFqUnJqeVNPSmh6bjlLc2tWMXEyRVluY1BXQnp2NUp5VUE1STZnWUhtUUs?oc=5"
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "The Devil Wears Prada 2 is capitalist art that hates capitalist art",
+              "url": "https://www.vox.com/culture/487467/devil-wears-prada-2-review-journalism-consumerism"
             },
             {
               "political": "right",
@@ -401,15 +365,15 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Third Time’s The Charm? Trump’s New Nominee For Surgeon General.",
-              "url": "https://www.dailywire.com/news/third-times-the-charm-trumps-new-nominee-for-surgeon-general"
+              "headline": "‘The Devil Wears Prada 2’ Is The Rare Hollywood Sequel That Actually Respects Its Audience",
+              "url": "https://www.dailywire.com/news/the-devil-wears-prada-2-is-the-rare-hollywood-sequel-that-actually-respects-its-audience"
             }
           ]
         },
         {
           "id": "us-5",
-          "neutralHeadline": "California Police Can Start Ticketing Driverless Cars",
-          "neutralSummary": "The Department of Motor Vehicles says it could suspend or revoke permits for Waymo taxis and other driverless cars for continued violations.",
+          "neutralHeadline": "Arrest Made After Fatal Kentucky Bank Robbery, Police Say",
+          "neutralSummary": "Two employees at a bank in Berea, Ky., were shot and killed.",
           "versions": [
             {
               "political": "left",
@@ -417,13 +381,38 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "California Police Can Start Ticketing Driverless Cars",
-              "url": "https://www.nytimes.com/2026/04/30/us/california-ticket-driverless-car-violations.html"
+              "headline": "Arrest Made After Fatal Kentucky Bank Robbery, Police Say",
+              "url": "https://www.nytimes.com/2026/05/01/us/fatal-kentucky-bank-robbery-arrest.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "2 US Bank employees fatally shot in robbery in Kentucky — as police launch manhunt for suspect",
+              "url": "https://nypost.com/2026/05/01/us-news/2-us-bank-employees-fatally-shot-in-robbery-in-berea-kentucky-cops-searching-for-suspect/"
             }
           ]
         },
         {
           "id": "us-6",
+          "neutralHeadline": "Republicans Want Tennessee’s Last Democratic House District",
+          "neutralSummary": "Republicans sliced Nashville into three G.O.P.-leaning congressional districts in 2022. After the Supreme Court decision on voting rights, Memphis could be next.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Republicans Want Tennessee’s Last Democratic House District",
+              "url": "https://www.nytimes.com/2026/05/01/us/politics/republicans-want-tennessees-last-democratic-house-district.html"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
           "neutralHeadline": "Takeaways From Hegseth’s Second Day of Testimony on the Iran War",
           "neutralSummary": "The secretary was also questioned over civilian deaths, an accusation of antisemitic remarks and women in combat.",
           "versions": [
@@ -435,31 +424,6 @@
               "domain": "nytimes.com",
               "headline": "Takeaways From Hegseth’s Second Day of Testimony on the Iran War",
               "url": "https://www.nytimes.com/2026/04/30/us/politics/hegseth-senate-hearing-takeaways.html"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "5 wounded in possible stabbing attack at Washington state high school, police say",
-          "neutralSummary": "5 wounded in possible stabbing attack at Washington state high school, police say&nbsp;&nbsp;CBS News4 students, security guard injured after stabbing Foss High School in Tacoma&nbsp;&nbsp;MyNorthwest.comStudents stabbed inside Washington state high school as police respond to chaotic scene&nbsp;&nb",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "6 Are Injured in Stabbing at a High School in Washington State",
-              "url": "https://www.nytimes.com/2026/04/30/us/stabbing-foss-high-school-tacoma.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "5 wounded in possible stabbing attack at Washington state high school, police say",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGtZaWlsMHF0OWViY0llckFGMjFub29QY0pJNTYyUWNnbEZRR0JLc3NhcmdYRG5YcHpYd1c3dGxYekN3ckFibXNwX1lDQzNnVlBLQ3FmUUllM3VYcWdVQnZ1dXZCcWRLQWV4bmMweTFxYm1GeHlkemVxSkd2eDB0cC0ya3hRWHFCTmFEc1NqTU5jRHMtZVMzdFloSDUxN1dnWGtVT2x0eUrSAa4BQVVfeXFMT3VHVVFFZkFNWWRDMnBPcTRtbG9FTG51WGQ3M2QyN0tMR1lsWnhUMGp0T1QwYzUxa0d0YXdKU0ZVWm5KWnlHdGtsTnR5M3hCNmFRNmRFdUlnanVpYm1QT19EaHNiX2M2eTJjaFZyNlV0dmRJZVdfTUkyRHJMRzlnczM0ZTRCa0puZlk4QjVuNzBqQnNpMFRXQWZERXFSemo0azJSeW5NTWVTMldmVjJ3?oc=5"
             }
           ]
         },
@@ -490,26 +454,26 @@
         },
         {
           "id": "us-9",
-          "neutralHeadline": "The Venice Biennale jury resigns amid tensions over awards ban, Russian participation",
-          "neutralSummary": "The international jury of the Venice Biennale resigned Thursday amid tensions over Russia's participation and the panel's decision to bar prizes for countries accused of crimes against humanity.",
+          "neutralHeadline": "Wyoming official faces backlash after posting 'hang bad judges' comment on abortion ruling",
+          "neutralSummary": "Wyoming City Councilman Troy Bray draws criticism after posting that the state should &quot;hang bad judges&quot; following a ruling blocking an abortion ban.",
           "versions": [
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "The Venice Biennale jury resigns amid tensions over awards ban, Russian participation",
-              "url": "https://www.npr.org/2026/05/01/g-s1-119661/the-venice-biennale-jury-resigns"
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Wyoming official faces backlash after posting 'hang bad judges' comment on abortion ruling",
+              "url": "https://www.foxnews.com/politics/wyoming-official-faces-backlash-posting-hang-bad-judges-comment-abortion-ruling"
             },
             {
-              "political": "left",
+              "political": "right",
               "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Venice Biennale jury resigns days before start of exhibition",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YenVUNV8wYWlvajUtNzRDV0NOb3BYXy1TTnhINVgwVXh0TlpzWDF0RnM5TnBIcHVyT2l6SzVSTUU3QWpvNFc3VE54S0NuY1hVanJEWm9LVnZhUQ?oc=5"
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Wyoming official faces backlash after posting ‘hang bad judges’ comment on abortion ruling",
+              "url": "https://nypost.com/2026/05/01/us-news/wyoming-councilman-troy-bray-called-to-hang-bad-judges-after-abortion-ruling/"
             }
           ]
         }
@@ -535,11 +499,11 @@
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
+              "source": "Bangkok Post",
+              "initials": "BP",
               "domain": "news.google.com",
-              "headline": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, state media says",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQy1nRks4RUFpSC1fUUctR3BucEE4YzJqQ3pXS09oR3lUQ0JLY3QzZzNvMVF0aUJrWEpDcVJOWkJOcTMzNy1mRlJJRk5JWDRZS05iUVkxQWhEVG5XZDkyRlBGLUwtY1Q2TUVOWGRTc1htR0hJZHJBS3l0bUZ2OE9HcExGLUVUcmh5eUF1Qmo1OENWS1lwamdaYVhqc3k2d3A0R2J1d3BzcU9OdnFoVFpGM2NsRldNZw?oc=5"
+              "headline": "​Aung San Suu ⁠Kyi moved to ⁠house arrest",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1B5OVE0dU9XV1YtLUJubUxoTGdqSkZGMmlGd3d3VkFDRFBrT2Nya2JReWljSlpJcUI1aklwUHNxaERqU3I3TTJhNTFNb01XaU05VW53OXdmTDFCQ1VJQ250MGJfVHI2ZnJQNDVIQnJZZ3RzMWQ0eWxLQlo0dHA5ZkJSYV9hNjA?oc=5"
             },
             {
               "political": "left",
@@ -554,7 +518,7 @@
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Taxi drivers and operators welcome enhanced cross-border taxi scheme, although some cautious",
+          "neutralHeadline": "Taxi drivers, operators welcome enhanced cross-border taxi scheme but some still cautious",
           "neutralSummary": "Some are waiting to see how the measures will affect business.",
           "versions": [
             {
@@ -563,7 +527,7 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Taxi drivers and operators welcome enhanced cross-border taxi scheme, although some cautious",
+              "headline": "Taxi drivers, operators welcome enhanced cross-border taxi scheme but some still cautious",
               "url": "https://www.straitstimes.com/singapore/transport/taxi-drivers-and-operators-welcome-enhanced-cross-border-taxi-scheme-although-some-cautious"
             },
             {
@@ -579,81 +543,8 @@
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "‘Baited’, then sold: Telegram group circulating nude images of S’pore men",
-          "neutralSummary": "For a one-off payment of $600, members are offered access to thousands of images and clips.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "‘Baited’, then sold: Telegram group circulating nude images of S’pore men",
-              "url": "https://www.straitstimes.com/singapore/baited-then-sold-telegram-group-circulating-nude-images-of-spore-men"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "History of Japan's intervention in currency markets",
-          "neutralSummary": "History of Japan's intervention in currency markets",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "History of Japan's intervention in currency markets",
-              "url": "https://www.channelnewsasia.com/business/history-japans-intervention-in-currency-markets-6093821"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Japan’s Mimura Declines to Comment on Yen Intervention Talk",
-              "url": "https://www.bloomberg.com/news/articles/2026-05-01/japan-s-mimura-declines-to-comment-on-yen-intervention-chatter"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Police appeal for information on missing man, last seen in Jurong West",
-          "neutralSummary": "He was last seen in a blue shirt and dark-coloured pants around Block 549 Jurong West Street 42.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Police appeal for information on missing man, last seen in Jurong West",
-              "url": "https://www.straitstimes.com/singapore/police-appeal-for-information-on-missing-man-last-seen-in-jurong-west"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Scoot extends cancellation of flights between Singapore and Jeddah amid Middle East conflict",
-          "neutralSummary": "Flights TR796 (Singapore to Jeddah) and TR797 (Jeddah to Singapore) will be cancelled until May 31.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Scoot extends cancellation of flights between Singapore and Jeddah amid Middle East conflict",
-              "url": "https://www.straitstimes.com/singapore/scoot-extends-cancellation-of-flights-between-singapore-and-jeddah-amid-middle-east-conflict"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
           "neutralHeadline": "NTUC to commit $37 million to help workers in 2026",
-          "neutralSummary": "NTUC, the Manpower Ministry and the Singapore National Employers Federation formed the Tripartite Jobs Council to help workers and businesses.",
+          "neutralSummary": "The Tripartite Jobs Council was formed to help workers and businesses.",
           "versions": [
             {
               "political": "center",
@@ -667,9 +558,75 @@
           ]
         },
         {
-          "id": "singapore-8",
-          "neutralHeadline": "Govt can’t protect every job in AI shift, but will protect every worker: PM Wong",
-          "neutralSummary": "To aid the AI transition, Singapore will scale up company training committees across various sectors.",
+          "id": "singapore-4",
+          "neutralHeadline": "Hong Kong bans public vaping, eyes wider restrictions",
+          "neutralSummary": "Officials say the move is part of a broader push to curb tobacco use, with stricter rules likely to follow.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Hong Kong bans public vaping, eyes wider restrictions",
+              "url": "https://www.channelnewsasia.com/east-asia/hong-kong-vape-vaping-public-ban-smoking-ecigarettes-6094261"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Japan may have spent $35 billion in yen-buying intervention, BOJ data shows",
+          "neutralSummary": "Japan may have spent $35 billion in yen-buying intervention, BOJ data shows",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Japan may have spent $35 billion in yen-buying intervention, BOJ data shows",
+              "url": "https://www.channelnewsasia.com/business/japan-may-have-spent-35-billion-in-yen-buying-intervention-boj-data-shows-6094281"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Yen Traders on Alert After Japan’s $34.5 Billion Intervention",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-01/yen-rally-is-at-risk-of-fading-fast-without-more-intervention"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Man charged with ATM mischief in Singapore",
+          "neutralSummary": "Man charged with ATM mischief in Singapore&nbsp;&nbsp;The Straits Times",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "news.google.com",
+              "headline": "Man charged with ATM mischief in Singapore",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUnZBQTlZNzhjRnplQ05YN3A2RHRLTG1rVF9acjdrZy15VlBvTVJCSGtnbzh0dlpSWjBjYlJlTlI0ZGkxMGNWQkFBbUVMek15U0tnTVFVYnUzSGFRLU5wempscWh2RkNkN3hlQlZ1dXhPTUt0dFZpREtUM1B2am5xNEFtSEhsaUc1RVpfTkpfbV9UR05ReThVSnVXMUc1NlZuYVBRcU1GTG5hdnI5alpJSzZ0ejhLeXgyUkE?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AsiaOne",
+              "initials": "A",
+              "domain": "news.google.com",
+              "headline": "4 charged for harbouring immigration offenders, some stayed illegally for over 10 years, Singapore News",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXBGUms3M1lJcjAzbVNaX2l6ck1McWJUVDBDanBxY2x1TUxfWXlNUUlDX0tSNWpiVHJXVzJtVE9uLVVHQkRTMExGYWZpUlNRbDdmRURHaGdrdE1iSnBzdzR5TWczTmMxMl8yejBtbVNJMzlDaDZnNDkwYl9hbXM1QVV1d1AyeGtWUUN3bTBYbzJzTHdyS0ktSy1yeDBjbUNJRlJzTkNkcXc?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "Singapore HeritageFest to feature live show on bumboat celebrating nation’s maritime history",
+          "neutralSummary": "The show along the Singapore River is among the more than 100 festival programmes taking place from May 1 to 24.",
           "versions": [
             {
               "political": "center",
@@ -677,15 +634,31 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Govt can’t protect every job in AI shift, but will protect every worker: PM Wong",
-              "url": "https://www.straitstimes.com/singapore/politics/govt-cant-protect-every-job-in-ai-shift-but-will-protect-every-worker-pm-wong"
+              "headline": "Singapore HeritageFest to feature live show on bumboat celebrating nation’s maritime history",
+              "url": "https://www.straitstimes.com/singapore/live-show-on-bumboat-celebrates-nations-maritime-history-at-singapore-heritagefest"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "Man arrested for drink driving after accident in Clarke Quay",
+          "neutralSummary": "No injuries were reported, said police.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Man arrested for drink driving after accident in Clarke Quay",
+              "url": "https://www.straitstimes.com/singapore/man-arrested-for-drink-driving-after-accident-at-clarke-quay"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "S’pore must brace itself for difficult times ahead, but Govt will do more to help if needed: PM Wong",
-          "neutralSummary": "Singapore is better prepared for crisis and in a much stronger position today, said PM Wong at the May Day Rally.",
+          "neutralHeadline": "S’pore firm behind alert buzzer for seniors to acquire eldercare social enterprise for $11.2m",
+          "neutralSummary": "It has entered into a sale-and-purchase agreement with social enterprise The Gentle Group.",
           "versions": [
             {
               "political": "center",
@@ -693,8 +666,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "S’pore must brace itself for difficult times ahead, but Govt will do more to help if needed: PM Wong",
-              "url": "https://www.straitstimes.com/singapore/politics/spore-must-brace-itself-for-difficult-times-ahead-but-govt-will-do-more-to-help-if-needed-pm-wong"
+              "headline": "S’pore firm behind alert buzzer for seniors to acquire eldercare social enterprise for $11.2m",
+              "url": "https://www.straitstimes.com/tech/spore-firm-behind-wireless-alert-buzzer-for-seniors-to-acquire-eldercare-social-enterprise-for-11-2m"
             }
           ]
         }
@@ -705,8 +678,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Mamata storms EVM strongroom; TMC, BJP lock horns over tampering claims: How late-night drama unfolded",
-          "neutralSummary": "The Trinamool Congress staged a protest in Kolkata, alleging EVM tampering and procedural lapses in strongrooms before the West Bengal assembly polls. The party accused the BJP and Election Commission of collusion, while the EC asserted the strongrooms were secure and footage showed routine postal b",
+          "neutralHeadline": "West Bengal elections: Full list of South 24 Parganas polling booths where repoll has been ordered by EC",
+          "neutralSummary": "Repoll has been ordered by the EC at 15 booths across South 24 Parganas, including 11 in Magrahat Paschim and four in Diamond Harbour.",
           "versions": [
             {
               "political": "left",
@@ -714,17 +687,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Mamata Banerjee's Visit To Strongroom, Trinamool's Protest: Late-Night EVM Drama In Bengal",
-              "url": "https://www.ndtv.com/india-news/mamata-banerjees-visit-trinamool-protest-late-night-evm-drama-in-bengal-bjp-responds-ballot-boxes-opened-west-bengal-elections-11434024#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Mamata storms EVM strongroom; TMC, BJP lock horns over tampering claims: How late-night drama unfolded",
-              "url": "https://timesofindia.indiatimes.com/india/mamata-storms-evm-strongroom-tmc-bjp-lock-horns-over-tampering-claims-how-late-night-drama-unfolded/articleshow/130669719.cms"
+              "headline": "Repolling At 15 Booths In 2 West Bengal Constituencies Tomorrow",
+              "url": "https://www.ndtv.com/india-news/west-bengal-elections-repolling-at-15-booths-in-2-west-bengal-constituencies-tomorrow-11436092#publisher=newsstand"
             },
             {
               "political": "center",
@@ -732,33 +696,33 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Mamata Banerjee's 4 hours at strongroom, EVM tampering charge: What happened in Bengal overnight?",
-              "url": "https://www.hindustantimes.com/india-news/mamata-banerjee-4-hours-at-strongroom-evm-tampering-charge-west-bengal-election-results-trinamool-bjp-suvendu-adhikari-101777601999744.html"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "US places India on priority watch list for Intellectual Property rights. What it means",
-          "neutralSummary": "The annual report reviews how effectively US trading partners safeguard IP rights such as patents, copyrights and trademarks.&nbsp;",
-          "versions": [
+              "headline": "West Bengal elections: Full list of South 24 Parganas polling booths where repoll has been ordered by EC",
+              "url": "https://www.hindustantimes.com/india-news/west-bengal-elections-full-list-of-south-24-parganas-polling-booths-where-repoll-has-been-ordered-by-ec-101777640191622.html"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "The Hindu",
               "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "India stays on USTR priority watch list on IPR",
-              "url": "https://www.thehindu.com/business/india-stays-on-ustr-priority-watch-list-on-ipr/article70927412.ece"
-            },
+              "domain": "news.google.com",
+              "headline": "West Bengal election: ECI orders repoll in 15 booths of two constituencies on May 2",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX2hMNGtJSnRnSlBqVTlCbW5Rd1BFbnZJeVM2dzBjZVVzNTNUNWs0REh5SUhNU2E2dEZOMXJPTlBWOG04M25WUlZBSGNTeENMa2ltSl9HS1FzeWFzaVB2NGdQT05PYVBuUWhNZjU4OEVaMjR5NEJ3clVzTDdjYXlWUDNIZkROTzl3eVQ5N2xJaW83R1QySDQ4c2JfOEpKbGlBVjhSRDhMUFg4bGdndkNFdjVPdTUxM0hvNXJLWVFLdnA1UmxkM2Vib213Uk9wUW_SAdYBQVVfeXFMUEFiTjM4WDhneTZ1eHlqZ3VhQUdKLWZmVzI4RTFQTUNIZnBSQVpDM2FhQW82U2dXb0dnUGxueExmeGhubDl3T1ZFT1NwejIxREJlU000LVZxRHYydGVqRFo5bDlZdGNrTndiMEtaSnBuMHI1ZGt0dU5Sb3NQZUM5U0pIM3JnS1ZwZGpKSEFpTjF5NTV4YUM5UjNwTEVZd1ZmZkVMTDJ1RnF2NlpHbE9RcXJkYVRaWGRkZVhGQmlhbm05NWdOUHVZTnNMcXF1Q2ZSUmluaWtaZw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "Iran delivered new proposal for US talks via Pak",
+          "neutralSummary": "Iran delivered new proposal for US talks via Pak",
+          "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "US places India on priority watch list for Intellectual Property rights. What it means",
-              "url": "https://www.hindustantimes.com/india-news/us-places-india-on-priority-watch-list-for-intellectual-property-rights-what-it-means-101777607865044.html"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "US Iran Ceasefire News LIVE: Iran Delivers New Proposal For Talks With US Via Pakistan",
+              "url": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
             },
             {
               "political": "center",
@@ -766,15 +730,92 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "USTR retains India on priority watch list on IPR",
-              "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-trade-representative-retains-india-on-priority-watch-list-on-ipr-vietnam-faces-toughest-scrutiny/articleshow/130670304.cms"
+              "headline": "Iran delivered new proposal for US talks via Pak",
+              "url": "https://economictimes.indiatimes.com/news/defence/iran-delivered-new-proposal-for-us-talks-via-pakistan-state-media/articleshow/130678317.cms"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Israel-Iran war LIVE: Iran has sent latest proposal to U.S. via Pakistan, state media reports",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjNmdkpQZUNHejRqMWxySU1yQW9EMm1sbE1ZcWRuQ1FpTmE2Q2wzdWVQM0ZGX1BFWTBnV09aakR4U0xwNnJKVzJGMUNvdVlYZmtMLUZ5V2NSUEl4Y0FMcVl6MnJ5ckw2R0R1ZW5tVWhjdUltV1R0X3ZXUEc2RWNUSjMxV2twVG1QVk5oUXQtYTVrOU1EUnF5ZHo4QUFPTTN5cGt4VFNRelRNUQ?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Emerging Assets Extend Gains as Iran Delivers New Proposal to US",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-01/emerging-markets-eke-out-gains-in-thin-volume-holiday-trading"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "'Son found out about her affair': Hyderabad techie jumps to death in lake, wife arrested for abetment",
-          "neutralSummary": "Bachupally police have apprehended a woman and her alleged lover for abetting the suicide of her husband, a techie. The deceased reportedly took his life after discovering his wife's affair and the alleged online sharing of private videos. The investigation is ongoing following the family's complain",
+          "neutralHeadline": "'Major milestone': Noida int'l airport to begin flight ops from June 15",
+          "neutralSummary": "'Major milestone': Noida int'l airport to begin flight ops from June 15",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Noida airport to begin flights from June 15 after CEO change",
+              "url": "https://www.thehindu.com/news/national/noida-airport-to-begin-flights-from-june-15-after-ceo-change/article70928641.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Major milestone': Noida int'l airport to begin flight ops from June 15",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/major-milestone-noida-international-airport-to-begin-flight-operations-from-june-15/articleshow/130676201.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Noida airport to begin operations from June 15, IndiGo to operate 1st flight",
+              "url": "https://www.hindustantimes.com/india-news/noida-airport-to-begin-operations-from-june-15-101777630190548.html"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "'All speculation put to rest': Mann's trust motion passes Punjab assembly, takes jab at Cong",
+          "neutralSummary": "The Aam Aadmi Party government in Punjab moved a confidence motion in the state assembly following the defection of seven MPs to the BJP. Chief Minister Bhagwant Mann asserted the party's strength and national presence, aiming to dispel rumors of instability. AAP holds a significant majority in the",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "AAP govt. wins confidence motion in Punjab Assembly",
+              "url": "https://www.thehindu.com/news/national/punjab/aap-govt-moves-confidence-motion-in-punjab-assembly/article70928368.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'All speculation put to rest': Mann's trust motion passes Punjab assembly, takes jab at Cong",
+              "url": "https://timesofindia.indiatimes.com/india/there-are-rumours-mann-government-moves-confidence-motion-in-punjab-assembly-days-after-rajya-sabha-blow/articleshow/130677120.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Six Trapped As Bridge Collapses In Jammu, 2 Rescued",
+          "neutralSummary": "The labourers were working on the construction of another bridge.",
           "versions": [
             {
               "political": "left",
@@ -782,65 +823,24 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Hyderabad Techie Kills Self, Family Blames Wife's Affair, 'Mental Stress'",
-              "url": "https://www.ndtv.com/india-news/hyderabad-techie-kills-self-family-blames-wifes-affair-mental-stress-suicide-found-dead-in-lake-wife-lover-arrested-11434202#publisher=newsstand"
+              "headline": "Six Trapped As Bridge Collapses In Jammu, 2 Rescued",
+              "url": "https://www.ndtv.com/india-news/six-trapped-as-bridge-collapses-in-jammu-2-rescued-11436454#publisher=newsstand"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Son found out about her affair': Hyderabad techie jumps to death in lake, wife arrested for abetment",
-              "url": "https://timesofindia.indiatimes.com/city/hyderabad/woman-paramour-arrestedfor-abetting-husbands-suicide/articleshow/130649919.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "'Continue seeing Gaza on YouTube': Netanyahu mocks flotilla as 20 ships with 175 activists sent back",
-          "neutralSummary": "Israel's Navy successfully intercepted a Gaza-bound flotilla carrying activists near Crete, preventing any vessels from reaching Palestinian shores. Prime Minister Netanyahu commended the operation, stating all participants were turned back. The US State Department backed Israel's actions, calling t",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Continue seeing Gaza on YouTube': Netanyahu mocks flotilla as 20 ships with 175 activists sent back",
-              "url": "https://timesofindia.indiatimes.com/world/middle-east/continue-seeing-gaza-on-youtube-netanyahu-mocks-flotilla-as-israel-intercepts-more-than-20-ships-with-175-activists-draws-global-flak/articleshow/130669580.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "JPMorgan executive accused of sexually assaulting 'brown boy Indian'",
-          "neutralSummary": "A JPMorgan Chase executive is accused in a lawsuit of sexually harassing and abusing a junior male employee, including allegations of drugging him and racial abuse. The plaintiff claims the firm retaliated after he reported the conduct, placing him on involuntary leave. JPMorgan Chase denies the all",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "JPMorgan executive accused of sexually assaulting 'brown boy Indian'",
-              "url": "https://timesofindia.indiatimes.com/world/us/jpmorgan-executive-accused-of-sexually-assaulting-brown-boy-indian-report/articleshow/130669949.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Today",
-              "initials": "TD",
-              "domain": "news.google.com",
-              "headline": "Little brown boy: JPMorgan executive accused of drugging, sexually abusing staffer",
-              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNblpPS2F2ejdEZjY2M0VrOGdoMnktLVNyb3RhUFJab29zLXpNNWVHYzhraG50V1NmT2xnenhFM2d4UU1ndWh4X0VSaVZtM1NMSDY2ckxGaDduR0RDczd1SEFYYXBvaXRGd01jcVFGM1ZaX0xqMUh4aC12bWwyMlRiejROYUpxSnY0elpKdHVvTTZuTXFIUUEyRHVMYTI5WlVPdlRMazVFSFlOWTFLZV82bGNsSDFHeGpWcFNmS2p4ZnFnb0Vodnd6eVdHYVpncUV1QjlRcg?oc=5"
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Bridge collapse near Jammu leaves several people trapped",
+              "url": "https://indianexpress.com/article/india/jammu-bantalab-bridge-collapse-rescue-operation-labourers-trapped-debris-10666400/"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "Under US Congress deadline pressure, Trump admin claims Iran ceasefire 'terminated' hostilities",
-          "neutralSummary": "The Trump administration asserts the U.S. is not at war with Iran, despite approaching the War Powers Resolution's 60-day deadline. House Speaker Mike Johnson echoed this, stating no congressional authorization is needed as active hostilities have ceased. This stance, however, faces challenges from",
+          "neutralHeadline": "Petrol, diesel price hike in near future not ruled out, say govt sources",
+          "neutralSummary": "Petrol, diesel price hike in near future not ruled out, say govt sources",
           "versions": [
             {
               "political": "center",
@@ -848,56 +848,56 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Under US Congress deadline pressure, Trump admin claims Iran ceasefire 'terminated' hostilities",
-              "url": "https://timesofindia.indiatimes.com/world/us/trump-admin-claims-iran-ceasefire-terminated-hostilities-ahead-of-us-congress-60-day-deadline/articleshow/130669079.cms"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Israel-Iran war LIVE: Trump administration says its war in Iran has been ’terminated’ before 60-day deadline",
-              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMjNmdkpQZUNHejRqMWxySU1yQW9EMm1sbE1ZcWRuQ1FpTmE2Q2wzdWVQM0ZGX1BFWTBnV09aakR4U0xwNnJKVzJGMUNvdVlYZmtMLUZ5V2NSUEl4Y0FMcVl6MnJ5ckw2R0R1ZW5tVWhjdUltV1R0X3ZXUEc2RWNUSjMxV2twVG1QVk5oUXQtYTVrOU1EUnF5ZHo4QUFPTTN5cGt4VFNRelRNUdIBsAFBVV95cUxPTEtrc0lxRU11alUxRHU4M3YxSWd5SE00VEdWV3RBTUhIbmh1R3FNRnByTnNLT3JQNFkyQ3Y2cndvTzFUM3gtRXFNRmZLdHphSkhDbTAwSDZUOFQyaG9XLWVVcU9HNDE2RVpmZ1JfNVVhd1kzZVB0ZEFVOUJhYkF0d2ZxcjlYRGp5ZkoxcnoweXFXLXZNQlBwYmF6bTBwS0l0OXpXd3BYaEtUMTBkVmdWXw?oc=5"
+              "headline": "Petrol, diesel price hike in near future not ruled out, say govt sources",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/petrol-diesel-price-hike-in-near-future-not-ruled-out-say-govt-sources/articleshow/130675666.cms"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Key bridge in Manipur's Churachandpur collapses",
-          "neutralSummary": "Key bridge in Manipur's Churachandpur collapses",
+          "neutralHeadline": "‘With folded hands…’: Congress's appeal to Assam CM Himanta over Pawan Khera row, then a 'just begun' counter",
+          "neutralSummary": "Abhishek Manu Singhvi said statements attributed to Sarma in the public domain, quoted at length in judgment, were “unrepeatable, unprintable and unstatable”.",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Key bridge in Manipur's Churachandpur collapses",
-              "url": "https://www.thehindu.com/news/national/manipur/key-bridge-in-manipurs-churachandpur-collapses/article70927489.ece"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "‘With folded hands…’: Congress's appeal to Assam CM Himanta over Pawan Khera row, then a 'just begun' counter",
+              "url": "https://www.hindustantimes.com/india-news/with-folded-hands-congress-singhvi-urges-assam-cm-to-rethink-stand-after-sc-relief-to-pawan-khera-101777633345543.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Live Law",
+              "initials": "LL",
+              "domain": "news.google.com",
+              "headline": "Assam CM Himanta Biswa Sarma Made Unparliamentary Remarks Against Pawan Khera, Case Influenced By...",
+              "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUkFVSWV5UnZlTzk3SWt1QkhmTlRzbGNXVEtMd3NEMjZjWTZmRHhGMVNVRTNOdkM5TklPcUlpUTNWZzZ0MllVU2tRRzdjZkgzVWlFdmdWVkxYXzl0QVZNOXJ6MkxMSnM3WHJ4QVZJUEZjZDgzVWc5ckktbjdGbURnQzM3YWc1ZmdxOThlcEdQSEU0akk4NTNnNC15Z09UcmtqMnk0RTFjQllfRDRWbURIYmJBYnpOcHRwQ0s2NmRNcXR5NGh4dkRyelNoZHhhVlVxN2VBM01aZTVvcnRZckUyc05RenllMjN5dzlqV3JYVjREZ2RGSXpwcGxwSGZ6dTRxXzg3WWVR0gGLAkFVX3lxTE50bXUzRER1NVVmSDBGY19keDJVU3U3bHB6d0xuQzZPM29iNEJxbk81NWtwcXdkcTByRmJMLVJUOVNOWTNiTFZMQ1RWMGJrdEl6bXBiSUZINlBSWE1HSUE3eGlUT0E0VXZqX2pUNXJ2cDM5bFRhb3JkUzZfRWZTZFBPaFBVdU84SEpyYWN3Tjdibk5ock5HTy1Oc3QtRzdlOGdkX2R6OHdMa0JqTjdyUUtqYmVpRmJwbDZDZmhTeHZjMjNqWGRmNk94Xy03R1BRb2ZIRlRCR3pTaE1EQWJ0UjJEQy1vT3VvVllrU2pCZVVGdXVsYXpNWG0tUXZpWWxnLTBWcklESXlaU3ZBYw?oc=5"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Hyderabad hostels and PGs worry supply crunch due to LPG price hike and soaring grey market rates",
-          "neutralSummary": "With LPG cylinders already costing over ₹5,000 in some cases, PG operators are procuring only a fraction of their actual requirement, forcing a shift away from gas-based cooking",
+          "neutralHeadline": "Shivalinga found near Ujjain's Mahakaleshwar Temple complex during Simhastha 2028 work in Ujjain",
+          "neutralSummary": "The discovery was made while heavy machinery was engaged in clearing land for the temple’s expansion project.",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Hyderabad hostels and PGs worry supply crunch due to LPG price hike and soaring grey market rates",
-              "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hostels-and-pgs-worry-supply-crunch-due-to-lpg-price-hike-and-soaring-grey-market-rates/article70927512.ece"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Shivalinga found near Ujjain's Mahakaleshwar Temple complex during Simhastha 2028 work in Ujjain",
+              "url": "https://www.hindustantimes.com/india-news/shivalinga-found-near-ujjains-mahakaleshwar-temple-complex-during-simhastha-2028-work-in-ujjain-101777631122949.html"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "City Nature Challenge 2026: Andhra, Telangana record surge",
-          "neutralSummary": "A four-day global citizen science effort where cities document urban biodiversity, building valuable data through public participation",
+          "neutralHeadline": "Under-performing MLAs will have no second chance, says Chief Minister Chandrababu Naidu",
+          "neutralSummary": "Asserting that Andhra Pradesh is witnessing a renewed phase of development under NDA dispensation, the Chief Minister exhorts people to reject destructive forces as the State’s future depends on decisive leadership and sustained development",
           "versions": [
             {
               "political": "left",
@@ -905,8 +905,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "City Nature Challenge 2026: Andhra, Telangana record surge",
-              "url": "https://www.thehindu.com/sci-tech/energy-and-environment/city-nature-challenge-2026-andhra-telangana-record-surge/article70923342.ece"
+              "headline": "Under-performing MLAs will have no second chance, says Chief Minister Chandrababu Naidu",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/under-performing-mlas-will-have-no-second-chance-says-chief-minister-chandrababu-naidu/article70928667.ece"
             }
           ]
         }
