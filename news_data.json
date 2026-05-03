@@ -1,47 +1,31 @@
 {
-  "generatedAt": "2026-05-03T05:21:46.922979+00:00",
+  "generatedAt": "2026-05-03T14:12:55.287630+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
-          "neutralSummary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
-              "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next",
-              "url": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Middle East war live: Trump says he 'can't imagine' Iran's latest peace plan is acceptable",
-          "neutralSummary": "US President Donald Trump said Saturday he was going to review a new Iranian peace proposal but said he doubted it would be acceptable, saying that Tehran had \"not yet paid a big enough price\".  Trump’s comments came after Iran's Tasnim and Fars news agencies said Tehran had submitted a 14-point pro",
+          "neutralHeadline": "Two US service members missing after military exercises in Morocco",
+          "neutralSummary": "Search and rescue operation launched after service members reported missing near south-western city of Tan TanTwo US service members are missing in south-western Morocco after taking part in annual multinational military exercises in the North African country, the United States Africa Command (Afric",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Trump Says He Is Reviewing Iran’s Latest Offer but Doubts It Is Acceptable",
-              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdXhXVWhOeXk5UVRNZHlUM2g1Mmhzc05nbVpDbVJhWFhvZmI4cXpYS1VOc3JTMk51eVJpdjNsWW1tdzdYVmdKX0tpdDRnTGhSNHBPLXBTU0V0b1JDU2N4NTEzXy1rYk5XbC1WZE5Cb2E5ZmJkR1FGSW9MVzdWem9NaVA3NUo0NElkN2E5WU96R1hhbExEU201d1VWeXcyRTNSaWlKUml2NFpqZnZpbmVnMVJ5M1Zhd0dwNU9sdXRiNC1wY0E?oc=5"
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Two US service members missing after military exercises in Morocco",
+              "url": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Two US service members reported missing in Morocco, officials say",
+              "url": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -49,8 +33,33 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
-              "url": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss"
+              "headline": "US military says two service members taking part in Morocco drills missing",
+              "url": "https://www.aljazeera.com/news/2026/5/3/us-military-says-two-service-members-taking-part-in-morocco-drills-missing?traffic_source=rss"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "2 US troops missing after ‘Africa Lion’ training exercises in Morocco",
+              "url": "https://nypost.com/2026/05/03/world-news/2-us-troops-missing-during-africa-lion-training-exercises-in-morocco/"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "US President Trump says not likely to accept Iranian proposal",
+          "neutralSummary": "US President Donald Trump said Saturday he was going to review a new Iranian peace proposal but said he doubted it would be acceptable, saying that Tehran had \"not yet paid a big enough price\". Trump’s comments came after Iran's Tasnim and Fars news agencies said Tehran had submitted a 14-point prop",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "President Trump Says He Is Reviewing A New Iranian Proposal To End The War",
+              "url": "https://www.huffpost.com/entry/shipping-firms-could-face-sanctions-for-paying-iran-to-transit-the-strait-of-hormuz-us-warns_n_69f5ef2ce4b0ed2b90e2237d"
             },
             {
               "political": "center",
@@ -58,13 +67,63 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Middle East war live: Trump says he 'can't imagine' Iran's latest peace plan is acceptable",
-              "url": "https://www.france24.com/en/middle-east/20260503-middle-east-war-live-trump-says-he-can-t-imagine-iran-s-latest-peace-plan-is-acceptable"
+              "headline": "US President Trump says not likely to accept Iranian proposal",
+              "url": "https://www.france24.com/en/us-president-trump-says-not-likely-to-accept-iranian-proposal"
             }
           ]
         },
         {
           "id": "global-3",
+          "neutralHeadline": "Iranian Nobel laureate Narges Mohammadi hospitalised",
+          "neutralSummary": "Iran’s imprisoned Nobel Peace Prize laureate Narges Mohammadi has been urgently transferred from prison to hospital after what her foundation described as a severe deterioration in her health.\n \nShe reportedly fainted twice on Friday. The incident follows a suspected heart attack in late March, rais",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Concern for jailed Iranian Nobel laureate as family say health deteriorating",
+              "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Iranian Nobel laureate Narges Mohammadi hospitalised",
+              "url": "https://www.france24.com/en/iranian-nobel-laureate-narges-mohammadi-hospitalised"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Taiwan's Lai lands in Eswatini in a trip delayed by lack of overflight clearance",
+          "neutralSummary": "Eswatini remains the only African nation without tariff-free access to China's market due to its ties with Taiwan.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Taiwan's Lai lands in Eswatini in a trip delayed by lack of overflight clearance",
+              "url": "https://www.npr.org/2026/05/02/g-s1-119911/taiwans-lai-lands-in-eswatini-in-a-trip-delayed-by-lack-of-overflight-clearance"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "Taiwan leader visits Eswatini despite China’s attempts to block trip",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkpCbW5FR2JoeHM0TTVfNTVwTWphaW0ySEwyRnFnRWhlVWhQYmhwMVdvalB2Qnk2RUtEQnRKVjZiNjctektVdnRWT3FpdEdOT1A3bTY0aWt1Z3FFdnYtXzJIaDIyNFhPRUFxcXRTYmczejV0cFEtY2l0SXVwLW5kRWRvYURzRUsyUkM3QmkzclVfRFluWlo0MXBmVVJzVkdUVEptYnk1VXdSbDDSAbABQVVfeXFMTVhncVdyNXJOMDVZUnM0cENJdEktMjAySWRmaGl6bENlalE2TlFlTkV2eElabXdyeEJ4M05ObUxncFZDU3lyaHF6OGd0ZXdLU2dxd1RYMU1hQUN0Wm43S1Rpd1gxckRIZzJ0XzFmNGFhTVhIZnNiaUVvYldzVkQ4NW1pREtwTTBFLTRmb1B1NXUwTTZPbklLWUFtNXlJaDFfTDdncjdkSjhDYTV4SlhYNEo?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
           "neutralHeadline": "Zambia cancels world’s largest human rights and tech summit days before start",
           "neutralSummary": "Government blocks RightsCon 2026 conference saying it did not ‘align with national values’The world’s largest conference on human rights and technology has been cancelled just days before it was due to start after the Zambian government told organisers it did not align with “national values”.Zambia’",
           "versions": [
@@ -80,134 +139,102 @@
           ]
         },
         {
-          "id": "global-4",
-          "neutralHeadline": "U.S. Warns Shipping Firms Over Paying Iran To Transit The Strait Of Hormuz",
-          "neutralSummary": "About a fifth of the world's trade in oil and natural gas typically passes through the Strait Of Hormuz.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "U.S. Warns Shipping Firms Over Paying Iran To Transit The Strait Of Hormuz",
-              "url": "https://www.huffpost.com/entry/shipping-firms-could-face-sanctions-for-paying-iran-to-transit-the-strait-of-hormuz-us-warns_n_69f5ef2ce4b0ed2b90e2237d"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "US threatens shipping firms with sanctions if they pay Iran tolls",
-              "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Israeli airstrikes kill 7 in southern Lebanon as a Catholic convent is bulldozed",
-          "neutralSummary": "Israeli airstrikes kill 7 in southern Lebanon as a Catholic convent is bulldozed&nbsp;&nbsp;AP NewsThirteen killed in Israeli strikes on southern Lebanon, health ministry says&nbsp;&nbsp;BBCIsrael strikes in southern Lebanon kill 10 people as a Hezbollah drone wounds 2 Israeli soldiers&nbsp;&nbsp;NB",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-              "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Israeli airstrikes kill 7 in southern Lebanon as a Catholic convent is bulldozed",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaF9Fd2R3TU1zRjJHY1cwZkpXcmtodGhwVzhtc0FyZkJzNVhETGtOenNxcnhXVTFhUzVCbUd0NTRfeEYtSmFqc0Nva0ZvUk5pVlY1SHJ3SWk1V2hLajMtYWFxVFctZkJMOVZSMGptS3dXOUVBelpXeU5hQWxtRV94VnNWR1g3SHVWNFQ3NnhQOGdpWHpsNUJwMHhrbUk1OHNjOEJRaWF3Uzg?oc=5"
-            }
-          ]
-        },
-        {
           "id": "global-6",
-          "neutralHeadline": "Who shot a Secret Service officer at the Trump press dinner?",
-          "neutralSummary": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
+          "neutralHeadline": "How Israel Is Using the Same Tactics in Lebanon That It Did in Gaza",
+          "neutralSummary": "How Israel Is Using the Same Tactics in Lebanon That It Did in Gaza&nbsp;&nbsp;The New York TimesIsraeli airstrikes kill 7 in southern Lebanon as a Catholic convent is bulldozed&nbsp;&nbsp;AP NewsThirteen killed in Israeli strikes on southern Lebanon, health ministry says&nbsp;&nbsp;BBCIsrael issues",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Who shot a Secret Service officer at the Trump press dinner?",
-              "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "news.google.com",
+              "headline": "How Israel Is Using the Same Tactics in Lebanon That It Did in Gaza",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZlljbzhabF9fQVBUakFVMl9yQ2RfSWdEM3l5bzJpZThveWtVX3lfaWhHQkRqaklxSWtBZE5CYlZSdC16SDhUbW5NTWs2bFo5aW45dlB2UDEwU2dOc1VBWmlRcmVfbzlvbjdUZG9BejJSeTZFdW9qUUd3WDdkMm1mNkpVUmpSZXFDQnllUHZ1SzBFbUpyNlBXRHdwMVZMeXVDcWV6UG1hT1Z2QmdzWkRF?oc=5"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Unruly man nabbed by Secret Service at Trump’s Florida golf course a week after Correspondents’ Dinner shooting",
-              "url": "https://nypost.com/2026/05/02/us-news/unruly-man-nabbed-by-secret-service-at-trumps-florida-golf-course-a-week-after-correspondents-shooting/"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Who are the two Gaza flotilla activists abducted by Israel?",
+              "url": "https://www.aljazeera.com/news/2026/5/3/who-are-the-two-gaza-flotilla-activists-abducted-by-israel?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-7",
-          "neutralHeadline": "Taiwan president defiant as begins Eswatini trip; China calls him a 'rat'",
-          "neutralSummary": "Taiwan president defiant as begins Eswatini trip; China calls him a 'rat'&nbsp;&nbsp;ReutersTaiwan Outfoxes China in Test of Wills Over Tiny African Country&nbsp;&nbsp;WSJTaiwan president visits Eswatini days after blaming China for cancelled trip&nbsp;&nbsp;BBCTaiwan's Lai lands in Eswatini in a tr",
+          "neutralHeadline": "Trump says cutting US troops in Germany 'a lot further'",
+          "neutralSummary": "Trump says cutting US troops in Germany 'a lot further'&nbsp;&nbsp;DW.comGermany says U.S. troop withdrawal ‘anticipated', Spain and Italy could be next&nbsp;&nbsp;NPRRepublicans ‘concerned’ after Trump threatens to withdraw more US troops from Germany&nbsp;&nbsp;The GuardianGermany and Europe Have",
           "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "DW.com",
+              "initials": "D",
+              "domain": "news.google.com",
+              "headline": "Trump says cutting US troops in Germany 'a lot further'",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2NVYTdKaVRZVFdFdl9SandjRzlIZkZOa0doZjhOQ1BZc2RHNG1YSlFRZTRfUlZVOU5hNDh1cENKTmlON181cExaQkpJQ1ZSTUVSaG9ZcGdqaEFXX1hBTWZkVkZCZkJTMGFHS3BkNHppeXJ6bG9TNElwRzZYWjdSZ3pHQkt0M09PM0ExRk9Ra9IBjwFBVV95cUxPdmk4eWZKMElDYUgxdnJac2lEOWR1TGRoYm1fdWJiaDVuVWV3cDgxTGFWWW5LWE9McTdZTDdXaTJpR2Y5NEFYbXNwcDRla0NxYzBCRF9jeUlyRG0yT0x5cDMweHpWTDdrYTVyS1ZfQkJBNk8wWXliaVBUcWhzcnE4bzNMcmt5WEpPdVFZR0REdw?oc=5"
+            },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Taiwan's Lai lands in Eswatini in a trip delayed by lack of overflight clearance",
-              "url": "https://www.npr.org/2026/05/02/g-s1-119911/taiwans-lai-lands-in-eswatini-in-a-trip-delayed-by-lack-of-overflight-clearance"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Taiwan president defiant as begins Eswatini trip; China calls him a 'rat'",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSm1yTFdVY3dHd0JuVVBGOHoyUlltMENFblBHQ19uRmN3RFlZSEZDbC1aenBBUE1DQnZ2QW1xT0w1MzV6ajhTSlJyVmJQXzFNclFPdnU0WWpYMmpjMzJsMGVjOWhvNmNkcWdIdVFRRjBkU0l0SzUyRVh5dTRUd0lXSEpESXFYX3NYcGZ4ZWRYZFZ6ak9rdmJPSERtWHZ4dEY1N2pMcGpVWEtjbzJUVTZDYkFNVQ?oc=5"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "US to cut troops in Germany as Iran war spat deepens",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/us-to-cut-troops-in-germany-as-iran-war-spat-deepens?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Imprisoned Iranian Nobel Peace Prize winner in critical condition",
-          "neutralSummary": "Narges Mohammadi, an Iranian activist and 2023 Nobel Peace Prize laureate, was hospitalized after collapsing in prison. Her family says her condition has deteriorated since a March heart attack.",
+          "neutralHeadline": "Israel approves purchase of 2 more squadrons of F-35I and F-15IA fighter jets from US",
+          "neutralSummary": "Israel approves purchase of 2 more squadrons of F-35I and F-15IA fighter jets from US&nbsp;&nbsp;The Times of IsraelIsrael approves plan to buy F-35 and F-15IA fighter jets from Lockheed, Boeing&nbsp;&nbsp;CNBCIsrael to purchase 50 F-35s, 25 new F-15s, doubling fleet sizes&nbsp;&nbsp;The Jerusalem P",
           "versions": [
             {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Times of Israel",
+              "initials": "TT",
+              "domain": "news.google.com",
+              "headline": "Israel approves purchase of 2 more squadrons of F-35I and F-15IA fighter jets from US",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0FOaGpGQ3UtU0FYSVE5UFpsM2ZQUUo4YVY3Z1h6RzJyUVY2a0FLRXFSa09XdTRkRi11OWI0Uk1hVThSWVloY191TENqbmN6ckJ1Y0tybGM2VWk0UnIzRk4tQWRsNjBISnVOckdUNU5pU2ZWd0l2Y0trQ3ZlTzhSb3AtNkdLUG9BdTA5WFVJeXJZWjNJVFphRDRaV2tBREpScjdCX3BIQ3V2OFlvYmhiM2oxQjlfcU3SAbwBQVVfeXFMTzhuV0RrLVNFRHVzbjFaQ2I2RTZTNGcyQ0xWWE1iemRXNllBZDZiNFphVDB4ZXJwUWlUVDBVeEtxOFNZZGozVnJncEVsd3JMN01IRGoyNXN4bVNuOTlEcTIzZWY1ZDdJQnpKWTFVay1ZR1pqdUpFSUU1MVRMdUZnUWtkdnJaWTBTbVNWc2pSTXZzVGFjVGdhN1ppWWcwWmRCNVNaTlB1bkNyRWtiMEh4UXJXZHgtbUxDY2tOXzg?oc=5"
+            },
+            {
               "political": "left",
-              "tone": "pessimistic",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Imprisoned Iranian Nobel Peace Prize winner in critical condition",
-              "url": "https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition"
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Israel approves purchase of fighter jets from the US",
+              "url": "https://www.aljazeera.com/news/2026/5/3/israel-approves-purchase-of-fighter-jets-from-the-us?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Timmy the humpback whale escapes to the North Sea",
-          "neutralSummary": "Timmy the humpback whale escapes to the North Sea&nbsp;&nbsp;Al JazeeraTimmy the Stranded Whale Is Released After an Elaborate Rescue&nbsp;&nbsp;The New York TimesRescuers release humpback whale that was stranded off German coast&nbsp;&nbsp;The GuardianA barge carrying Timmy the humpback whale journ",
+          "neutralHeadline": "World Press Freedom Day 2026: RSF report says press freedom at its lowest in 25 years",
+          "neutralSummary": "Every year, the United Nations marks 3 May as World Press Freedom Day. This year comes at a particularly dark moment for journalists. According to a new report published today by Reporters Without Borders, global press freedom has fallen to its lowest level in 25 years. Last year, UNESCO said the de",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "Al Jazeera",
               "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Timmy the humpback whale escapes to the North Sea",
-              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONnJRcDlvU1JJN2UxclowY21EVEJIckV2LVBsQTlxNS1HSzFGWkVkRjFCNUh2S3gySExxSXBJZngxNmtsRWZhRU8ydGRGZGhLbi1FdFBnREx1eVdaMHQ4d2d4ZUFRTk5UaVJ3WHlwbXY2WlNHbFQ3UU41cWZMcEtkV0N2aTNBcG9wVndraU0wM2FyVEnSAZgBQVVfeXFMTUl1RHFSSlVyTUxHWVktVm1vTEZNd3hsLXhHa2c2OHY0Q2c3NE4zLVNWNlp3MG5oSTdjRlNZbTY2OU42V3BEbGMySDdmZnl3M0NYd2FjNWNpYUhKYmVUNV9TVnk3aVphblgteG80RGZGc0xxcWcwaWVkbnpFdVBJUlptUTl1d3dwcVFfS0VuMERGc1RmUW53VzI?oc=5"
+              "domain": "aljazeera.com",
+              "headline": "On World Press Freedom Day, Pope honours journalists killed in war zones",
+              "url": "https://www.aljazeera.com/news/2026/5/3/pope-honors-journalists-killed-in-war-zones-on-world-press-freedom-day?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "World Press Freedom Day 2026: RSF report says press freedom at its lowest in 25 years",
+              "url": "https://www.france24.com/en/video/20260503-world-press-freedom-day-2026-rsf-report-says-press-freedom-at-its-lowest-in-25-years"
             }
           ]
         }
@@ -218,8 +245,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Trump warns of more cuts following withdrawal of 5,000 US troops from Germany",
-          "neutralSummary": "President Trump said on Saturday that he might pull even more U.S. military troops out of Germany, a threat that came one day after he ordered the Pentagon to withdraw approximately 5,000 service members from the country.  “We are going to cut way down, and we’re cutting a lot further than 5,000,” T",
+          "neutralHeadline": "Maher tells Newsom his Fox News lawsuit ‘sounds like’ Trump",
+          "neutralSummary": "Late night host Bill Maher told California Gov. Gavin Newsom (D) that his lawsuit against Fox News “sounds a lot like” President Trump.&#160; “That sounds exactly like what [Trump] does, suing media,” Maher said during an interview with the governor on Friday evening. California’s top official sued",
           "versions": [
             {
               "political": "left",
@@ -227,8 +254,51 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "U.S. Withdrawing 5,000 Troops From Germany, U.S. Officials Say",
-              "url": "https://www.huffpost.com/entry/us-withdrawing-5000-troops-germany_n_69f525e9e4b0f658833beb8a"
+              "headline": "Gavin Newsom Defends Trump Trolling To Bill Maher, Deflects Talk Of 2028 Presidential Run",
+              "url": "https://www.huffpost.com/entry/gavin-newsom-bill-maher-interview-trump-trolling_n_69f596e3e4b0ed2b90e220c4"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Maher tells Newsom his Fox News lawsuit ‘sounds like’ Trump",
+              "url": "https://thehill.com/media/5861053-maher-tells-newsom-his-fox-news-lawsuit-sounds-like-trump/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Trump Trashes Bill Maher In Scathing Review Of Newsom Interview",
+              "url": "https://www.dailywire.com/news/trump-trashes-bill-maher-in-scathing-review-of-newsom-interview"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Trump says cutting US troops in Germany 'a lot further'",
+          "neutralSummary": "Trump says cutting US troops in Germany 'a lot further'&nbsp;&nbsp;DW.comGermany says U.S. troop withdrawal ‘anticipated', Spain and Italy could be next&nbsp;&nbsp;NPRRepublicans ‘concerned’ after Trump threatens to withdraw more US troops from Germany&nbsp;&nbsp;The GuardianGermany and Europe Have",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Says U.S. Will Reduce Number Of Troops In Germany 'A Lot Further' Than Withdrawal Of 5,000",
+              "url": "https://www.huffpost.com/entry/troop-withdrawal-announcement-adds-to-friction-between-europe-trump_n_69f64bcbe4b0ed2b90e22c75"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "DW.com",
+              "initials": "D",
+              "domain": "news.google.com",
+              "headline": "Trump says cutting US troops in Germany 'a lot further'",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2NVYTdKaVRZVFdFdl9SandjRzlIZkZOa0doZjhOQ1BZc2RHNG1YSlFRZTRfUlZVOU5hNDh1cENKTmlON181cExaQkpJQ1ZSTUVSaG9ZcGdqaEFXX1hBTWZkVkZCZkJTMGFHS3BkNHppeXJ6bG9TNElwRzZYWjdSZ3pHQkt0M09PM0ExRk9Ra9IBjwFBVV95cUxPdmk4eWZKMElDYUgxdnJac2lEOWR1TGRoYm1fdWJiaDVuVWV3cDgxTGFWWW5LWE9McTdZTDdXaTJpR2Y5NEFYbXNwcDRla0NxYzBCRF9jeUlyRG0yT0x5cDMweHpWTDdrYTVyS1ZfQkJBNk8wWXliaVBUcWhzcnE4bzNMcmt5WEpPdVFZR0REdw?oc=5"
             },
             {
               "political": "center",
@@ -238,6 +308,31 @@
               "domain": "thehill.com",
               "headline": "Trump warns of more cuts following withdrawal of 5,000 US troops from Germany",
               "url": "https://thehill.com/homenews/administration/5861129-trump-threatens-troop-withdrawal/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "2 US service members reported missing in Morocco",
+          "neutralSummary": "U.S. Africa Command (Africom) on Sunday said two U.S. service members participating in a military exercise missing in Morocco.  “The incident remains under investigation and the search is on-going,” Africom wrote in a statement. &#8220;Our focus is on the service members involved and their families.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "2 U.S. Service Members Are Missing After Military Exercise in Morocco",
+              "url": "https://www.nytimes.com/2026/05/03/us/politics/us-army-missing-service-members-morocco-african-lion.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "2 US service members reported missing in Morocco",
+              "url": "https://thehill.com/policy/defense/5861221-us-service-members-missing-morocco/"
             },
             {
               "political": "right",
@@ -245,15 +340,65 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Armed Services GOP chairmen criticize withdrawal of 5,000 US troops from Germany",
-              "url": "https://www.washingtonexaminer.com/policy/defense/4552555/armed-services-gop-chairmen-withdraw-troops-germany/"
+              "headline": "Two US service members missing after war games exercise in Morocco",
+              "url": "https://www.washingtonexaminer.com/policy/defense/4552747/us-service-members-missing-morocco-exercise/"
             }
           ]
         },
         {
-          "id": "us-2",
-          "neutralHeadline": "Trump says new strikes possible if Iran \"misbehaves\"",
-          "neutralSummary": "Trump says new strikes possible if Iran \"misbehaves\"&nbsp;&nbsp;AxiosTrump says he is reviewing a new Iranian proposal to end the war&nbsp;&nbsp;CNBCTrump reviews Iranian peace proposal, warns strikes could resume&nbsp;&nbsp;Al JazeeraTrump says renewed attacks 'a possibility' if Iran misbehaves&nbs",
+          "id": "us-4",
+          "neutralHeadline": "Spirit Airlines’ Shut Down Marks Industry’s First Iran War Casualty",
+          "neutralSummary": "Global carriers are contending with surging jet fuel prices since the U.S.-Israeli strikes on Iran disrupted traffic through the Strait of Hormuz.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Spirit Airlines’ Shut Down Marks Industry’s First Iran War Casualty",
+              "url": "https://www.huffpost.com/entry/spirit-airlines-shut-down-marks-industrys-first-iran-war-casualty_n_69f5f739e4b06e9242f491c5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Spirit Airlines Officially Shuts Down. See The Message Stranded Customers Woke Up To",
+              "url": "https://www.dailywire.com/news/spirit-airlines-officially-shuts-down-see-the-message-stranded-customers-woke-up-to"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Redistricting Battle Intensifies In States After U.S. Supreme Court Ruling On Voting Rights Act",
+          "neutralSummary": "Louisiana already has suspended its May 16 congressional primary to allow time for lawmakers to approve new U.S. House districts.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Redistricting Battle Intensifies In States After U.S. Supreme Court Ruling On Voting Rights Act",
+              "url": "https://www.huffpost.com/entry/ap-us-election-2026-voting-rights-states_n_69f5083ee4b0db8899bd74ab"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Behind Supreme Court Voting Rights Ruling, a Clash Over the Reality of Racism",
+              "url": "https://www.nytimes.com/2026/05/03/us/politics/supreme-court-voting-rights-act.html"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Trump Tells Congress Iran War Hostilities Have 'Terminated'",
+          "neutralSummary": "It's unclear whether lawmakers will accept Trump's claim the war is over if the U.S. maintains a naval blockade in the Strait of Hormuz.",
           "versions": [
             {
               "political": "left",
@@ -272,79 +417,11 @@
               "domain": "vox.com",
               "headline": "Why Trump says the US-Iran war is over",
               "url": "https://www.vox.com/the-logoff-newsletter-trump/487670/trump-us-iran-terminated-congress-war-powers-resolution"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Axios",
-              "initials": "AX",
-              "domain": "news.google.com",
-              "headline": "Trump says new strikes possible if Iran \"misbehaves\"",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mV1Rna195WmRWc19NWWJVUF90TTNfRi1wU3ZCSGk1VlhSMUZKaS1rR0hST2hPcUNYSHFfTl8yUmRMQWg3OF9hNWtLOVBqbWxxZHI4WUtYcEdxaVczYTJQUA?oc=5"
             }
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "Spirit Airlines shutting down after failed effort at government rescue deal",
-          "neutralSummary": "Spirit Airlines shutting down after failed effort at government rescue deal&nbsp;&nbsp;CBS NewsTravel plans upended as Spirit Airlines shuts down, leaving passengers scrambling for other options&nbsp;&nbsp;CNNFrontier Airlines Announces Discounted Rescue Fares to Support Spirit Airlines Customers&nb",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Spirit Airlines Preparing To Shutter After Rescue Deal Falls Through: Reports",
-              "url": "https://www.huffpost.com/entry/spirit-airlines-to-shutter-after-rescue-deal-falls-through-reports_n_69f4d601e4b02d8fdb5f8839"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Spirit Airlines shutting down after failed effort at government rescue deal",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbnB6Y1UwU1FSSWk3TnNrYXJ1SVlFQm56ZU1CbGpTNmhtVXVUVDlnYl9jb3BHRVRScXp3M0dVc3ZsTGRsSVVfSHBOTzZoQmJpV2RVam5ITDlBTkl1VVF3MGxBSHpmQm16MjQza25iU3A5Yzk5a3U0S1dKX0szZGEzS1g3cEXSAYoBQVVfeXFMUDBpcXBCNERxWmxYX2RzNlpWV1ZZQUNqbjVPX1poR2VEYTJaWHJuV3Q5TDBXMEJoVnNYdFJaQmxJNW8yZWRaU0txY0xfNFB1cjhfQVBFRkczNGtGdzZuTTUtMEVrQW4zcFZmcFVXdWhOREdiZVdIN0kxOTY1dUxSRlRGcmRKYjRXdDNn?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Spirit Airlines to shutter after no Trump deal: What to know",
-              "url": "https://thehill.com/policy/transportation/5860937-spirit-airlines-shutdown-what-to-know/"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Abortion Providers Forced to Adapt After Court Ruling Blocks Pill Access by Mail",
-          "neutralSummary": "The Fifth Circuit court’s ruling, which is being appealed, reinstates a requirement that patients visit a health care provider in person to obtain mifepristone, upending abortion access in the United States.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Abortion Providers Forced to Adapt After Court Ruling Blocks Pill Access by Mail",
-              "url": "https://www.nytimes.com/2026/05/02/us/abortion-pill-mifepristone-5th-circuit-court-ruling.html"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Abortion pill fight heads to Supreme Court as manufacturer warns of ‘chaos’ after ruling",
-              "url": "https://www.foxnews.com/politics/abortion-pill-fight-heads-supreme-court-manufacturer-warns-chaos-ruling"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
+          "id": "us-7",
           "neutralHeadline": "Graham Platner’s triumph, explained by a Maine reporter",
           "neutralSummary": "One of the most hotly contested Democratic primaries of 2026 ended with a whimper rather than a bang Thursday, as Maine Gov. Janet Mills (D) suspended her Senate campaign, making outsider oyster farmer Graham Platner the overwhelming favorite for the party’s nomination. The seat, currently held by f",
           "versions": [
@@ -369,84 +446,34 @@
           ]
         },
         {
-          "id": "us-6",
-          "neutralHeadline": "Man Shot by ICE in California Indicted on Assault Charges",
-          "neutralSummary": "Prosecutors have accused the man of hitting federal agents with his vehicle as they tried to arrest him.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Man Shot by ICE in California Indicted on Assault Charges",
-              "url": "https://www.nytimes.com/2026/05/02/us/ice-shooting-california-assault-charges.html"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Trump endorses Barr in Kentucky GOP Senate primary for McConnell’s seat",
-          "neutralSummary": "The leading GOP candidate in the primary race to replace retiring Sen. Mitch McConnell (R-Ky.) has now received the presidential stamp of approval. Rep. Andy Barr (R-Ky.) entered the race to fill the outgoing senator’s seat last April. President Trump lauded Barr as an “100% solid American Patriot”",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Endorses Andy Barr for Senate as Musk-Backed Candidate Exits Race",
-              "url": "https://www.nytimes.com/2026/05/01/us/politics/trump-andy-barr-kentucky-senate-endorsement.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump endorses Barr in Kentucky GOP Senate primary for McConnell’s seat",
-              "url": "https://thehill.com/homenews/campaign/5860894-trump-endorses-andy-barr/"
-            }
-          ]
-        },
-        {
           "id": "us-8",
-          "neutralHeadline": "Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next",
-          "neutralSummary": "Germany's defense minister is playing down the impact of the Pentagon's decision to pull 5,000 troops from the country, but the move has rattled NATO allies and added to growing fears that Europe can no longer rely on Washington.",
+          "neutralHeadline": "Fear and Vigilance Are Now Constant Companions for Many American Jews",
+          "neutralSummary": "Each new attack, like the London stabbings last week, brings a heightened sense of caution to an already wary population.",
           "versions": [
             {
               "political": "left",
               "tone": "pessimistic",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next",
-              "url": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Fear and Vigilance Are Now Constant Companions for Many American Jews",
+              "url": "https://www.nytimes.com/2026/05/03/us/jewish-antisemitism-violence-attacks.html"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Timmy the stranded whale rescued after weekslong effort",
-          "neutralSummary": "Timmy captured the hearts of whale lovers across the globe who rooted for a happy ending for the humpback.",
+          "neutralHeadline": "Indiana Primary Election Will Test Trump’s Influence With Republicans",
+          "neutralSummary": "The election on Tuesday will test the influence of President Trump, who endorsed challengers to Republican state senators who scuttled his push to redraw political maps.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Timmy the stranded whale rescued after weekslong effort",
-              "url": "https://www.npr.org/2026/05/02/g-s1-119913/timmy-the-stranded-whale-rescued-after-weekslong-effort"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Timmy the humpback whale escapes to the North Sea",
-              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONnJRcDlvU1JJN2UxclowY21EVEJIckV2LVBsQTlxNS1HSzFGWkVkRjFCNUh2S3gySExxSXBJZngxNmtsRWZhRU8ydGRGZGhLbi1FdFBnREx1eVdaMHQ4d2d4ZUFRTk5UaVJ3WHlwbXY2WlNHbFQ3UU41cWZMcEtkV0N2aTNBcG9wVndraU0wM2FyVEnSAZgBQVVfeXFMTUl1RHFSSlVyTUxHWVktVm1vTEZNd3hsLXhHa2c2OHY0Q2c3NE4zLVNWNlp3MG5oSTdjRlNZbTY2OU42V3BEbGMySDdmZnl3M0NYd2FjNWNpYUhKYmVUNV9TVnk3aVphblgteG80RGZGc0xxcWcwaWVkbnpFdVBJUlptUTl1d3dwcVFfS0VuMERGc1RmUW53VzI?oc=5"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Indiana Primary Election Will Test Trump’s Influence With Republicans",
+              "url": "https://www.nytimes.com/2026/05/03/us/indiana-senate-republican-primaries-trump.html"
             }
           ]
         }
@@ -482,8 +509,8 @@
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "‘I wondered when it’d be my turn’: Jurong traffic accident victim who heard others flatlining in ICU",
-          "neutralSummary": "Mr Patrick Pereira broke both arms and fractured his pelvis after a collision involving a lorry in 2017.",
+          "neutralHeadline": "Man arrested after allegedly slapping several people at church in Prinsep Street",
+          "neutralSummary": "The man was known to the church and had caused a nuisance before, the police said.",
           "versions": [
             {
               "political": "center",
@@ -491,15 +518,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "‘I wondered when it’d be my turn’: Jurong traffic accident victim who heard others flatlining in ICU",
-              "url": "https://www.straitstimes.com/singapore/i-wondered-when-itd-be-my-turn-jurong-traffic-accident-victim-who-heard-others-flatlining-in-icu"
+              "headline": "Man arrested after allegedly slapping several people at church in Prinsep Street",
+              "url": "https://www.straitstimes.com/singapore/man-arrested-after-allegedly-slapping-several-people-at-church-in-prinsep-street"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Man arrested after allegedly slapping several people at Prinsep Street church",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTV6S1B1Nk9ObEpZb1VKZVMtZC1jSTM4NEE2cWNDMHJ1ZVhvM0p1aXQzYXI2THZnc0pzMTg0Y3NQVXVVRUxFRVZzN0xUSzBXZmVsaW4yeFV2QXpvVkFFSGJUUlZwTVZrcTd6bmZ3SVRTR2xnNjhSQU5QU1N1MVkya1VMcjRiQzcyVXRBb05Ha1Vaa0h2dDdRTmY1czBiV0hqZEs0c0Y2WQ?oc=5"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Two fires break out in same Punggol HDB block; firefighters among six taken to hospital",
-          "neutralSummary": "The cause of both fires are under investigation.",
+          "neutralHeadline": "SM Lee to visit Pahang and Terengganu from May 4 to 8",
+          "neutralSummary": "MFA said the visit to the two states builds on the strong momentum of bilateral exchanges.",
           "versions": [
             {
               "political": "center",
@@ -507,31 +543,72 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Two fires break out in same Punggol HDB block; firefighters among six taken to hospital",
-              "url": "https://www.straitstimes.com/singapore/two-fires-break-out-in-same-punggol-hdb-block-firefighters-among-six-taken-to-hospital"
+              "headline": "SM Lee to visit Pahang and Terengganu from May 4 to 8",
+              "url": "https://www.straitstimes.com/singapore/politics/sm-lee-to-visit-pahang-and-terengganu-from-may-4-to-8"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "SM Lee to visit Pahang, Terengganu",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkowQjl5OENZSU5nNnpoNWJGRzBtSUx3WnhIZzZ6Ny1wZExJS3ByT282OUJ2Q1ZUN1E5eW1Lb25BTDduYmNoNGszbThPZWh0NTRpdERZSTZMZ1R0SW15RnVGY0ZnTXVRQ3Rsc01RWG5XRU1UUkZWcDlreWMzSUtiRUJ6NFhrN1NXSkZtWDVsM0NyTHlHR2xKWDdCWUtlQ28?oc=5"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "From Jakarta to Klang Valley, why is it so hard for Southeast Asia to fight this invasive catfish?",
-          "neutralSummary": "The suckermouth catfish originating from South America is swarming waterways in parts of Southeast Asia.&nbsp;",
+          "neutralHeadline": "How heat-proof is your home? Nearly half of over 400 HDB flats are warmer than outdoors: Study",
+          "neutralSummary": "Around 10 per cent of homes were up to 5 deg C hotter that the outside, based on the heat index.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "From Jakarta to Klang Valley, why is it so hard for Southeast Asia to fight this invasive catfish?",
-              "url": "https://www.channelnewsasia.com/asia/indonesia-malaysia-invasive-species-suckermouth-catfish-janitor-fish-6093921"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "How heat-proof is your home? Nearly half of over 400 HDB flats are warmer than outdoors: Study",
+              "url": "https://www.straitstimes.com/singapore/environment/how-heat-proof-is-your-home-nearly-half-of-over-400-hdb-flats-are-warmer-than-outdoors-study"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "Hong Kong bans public vaping, eyes wider restrictions",
-          "neutralSummary": "Officials say the move is part of a broader push to curb tobacco use, with stricter rules likely to follow.",
+          "neutralHeadline": "Construction work suspended at Chong Pang City after metal bar falls through HDB block roof",
+          "neutralSummary": "No one was injured and there was no damage to the interior of the HDB flats.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Construction work suspended at Chong Pang City after metal bar falls through HDB block roof",
+              "url": "https://www.straitstimes.com/singapore/construction-work-suspended-at-chong-pang-city-after-metal-bar-fell-through-roof-of-nearby-hdb-block"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Signalling fault causes hours-long disruption on Thomson-East Coast Line",
+          "neutralSummary": "Free bus services were offered during the disruption.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Signalling fault causes hours-long disruption on Thomson-East Coast Line",
+              "url": "https://www.straitstimes.com/singapore/no-mrt-service-between-caldecott-and-orchard-stations-on-thomson-east-coast-line-smrt"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "BN 'almost certain' to go solo in contesting Malaysia's next general election, says DPM Zahid",
+          "neutralSummary": "Barisan Nasional (BN)'s chairman&nbsp;and UMNO president&nbsp;Ahmad Zahid Hamidi however adds that there would still be a need to reach some understanding with other political blocs.",
           "versions": [
             {
               "political": "center",
@@ -539,13 +616,38 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Hong Kong bans public vaping, eyes wider restrictions",
-              "url": "https://www.channelnewsasia.com/east-asia/hong-kong-vape-vaping-public-ban-smoking-ecigarettes-6094261"
+              "headline": "BN 'almost certain' to go solo in contesting Malaysia's next general election, says DPM Zahid",
+              "url": "https://www.channelnewsasia.com/asia/bn-likely-solo-malaysia-ge16-election-zahid-6096776"
             }
           ]
         },
         {
-          "id": "singapore-6",
+          "id": "singapore-8",
+          "neutralHeadline": "North Korea's Kim casts youth as vanguard of state goals amid Russia war",
+          "neutralSummary": "North Korean leader Kim Jong Un met delegates to the ruling party's youth league congress in Pyongyang,&nbsp;a once-in-five-years political gathering aimed at mobilising citizens aged roughly 14 to 30.&nbsp;",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "North Korea's Kim casts youth as vanguard of state goals amid Russia war",
+              "url": "https://www.channelnewsasia.com/east-asia/north-koreas-kim-casts-youth-vanguard-state-goals-amid-russia-war-6096481"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AsiaOne",
+              "initials": "A",
+              "domain": "news.google.com",
+              "headline": "North Korea's Kim casts youth as vanguard of state goals amid Russia war, Asia News",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVEdWV3lQRVdTY3BYeGhnd0dHa2gyNjFQcHhCaFRkOHJwYXhHRmRyNWU4eDNDdlBFR1ZBNENmaFBVRXBtRC1jQkFTelFpMEFpQ0hfOFduYlZJZWZ1UzNaZEdWcFpaWXhtQVo4MENfZExMV3IyWmpJTFh4cVljMnpxLWhfc0dYNkxrbWhpejd1bDAzS2J3MW1KRWFB?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
           "neutralHeadline": "CEO Greg Abel moves to assure Berkshire shareholders in a post-Buffett world, with record cash",
           "neutralSummary": "CEO Greg Abel moves to assure Berkshire shareholders in a post-Buffett world, with record cash",
           "versions": [
@@ -568,63 +670,6 @@
               "url": "https://www.bloomberg.com/news/articles/2026-05-02/berkshire-meeting-highlights-tough-balancing-act-for-greg-abel"
             }
           ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Spirit Airlines shuts down, industry's first Iran war casualty",
-          "neutralSummary": "The collapse of Spirit will result in thousands of lost jobs and marks the first airline to fail in part due to a doubling in jet fuel prices during the two-month-old Iran war.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Spirit Airlines shuts down, industry's first Iran war casualty",
-              "url": "https://www.channelnewsasia.com/world/us-spirit-airlines-shuts-down-jet-fuel-iran-war-6095676"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Spirit Airlines Shuts Down at Airports Across US",
-              "url": "https://www.bloomberg.com/news/videos/2026-05-02/spirit-airlines-shuts-down-at-airports-across-us-video"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "Spirit Shuts Operations After White House Bailout Collapses",
-          "neutralSummary": "Spirit Aviation Holdings is winding down operations after the troubled US discount carrier buckled under the weight of surging fuel prices and a government bailout dangled by US President Donald Trump fell through. All Spirit flights have been canceled, and passengers have been advised not to go to",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Spirit Shuts Operations After White House Bailout Collapses",
-              "url": "https://www.bloomberg.com/news/videos/2026-05-02/spirit-shuts-down-after-white-house-bailout-collapses-video"
-            }
-          ]
-        },
-        {
-          "id": "singapore-9",
-          "neutralHeadline": "Missing: Police appeal for information on woman, 79, last seen in Taman Jurong",
-          "neutralSummary": "Ms Chen Bi Yu was last seen in a multi-coloured top with grey pants.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Missing: Police appeal for information on woman, 79, last seen in Taman Jurong",
-              "url": "https://www.straitstimes.com/singapore/missing-police-appeal-for-information-on-woman-79-last-seen-in-taman-jurong"
-            }
-          ]
         }
       ]
     },
@@ -633,33 +678,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "How to see election results of Assembly polls 2026? A step-by-step guide",
-          "neutralSummary": "Approximately 15.93 crore people have voted across the places going to polls, with West Bengal recording a voter turnout of 92.47%, its highest since India’s independence.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "How to see election results of Assembly polls 2026? A step-by-step guide",
-              "url": "https://www.thehindu.com/elections/how-to-check-election-results-2026-eci-vote-trends-time-and-date-of-declaration-constituency-wise-results/article70927578.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Assam Election Result 2026: Date, time, where to check Assam Assembly Election vote counting results online",
-              "url": "https://indianexpress.com/article/india/assam-election-result-2026-date-time-eci-result-link-how-to-check-10665955/"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "‘Jumped last, unaware of yellow alert’: Cruise boat's helmsman reveals lapses, his truth in Jabalpur tragedy",
-          "neutralSummary": "Helmsman Mahesh Patel, who said he has 20 years of experience, has been ferrying the boat six times a day for years.",
+          "neutralHeadline": "'Impossible military op or ...': Iran mocks US, says Trump has only 2 options left",
+          "neutralSummary": "Iran's Revolutionary Guard Corps stated the US faces a choice between an \"impossible\" military operation or a \"bad deal,\" as diplomatic efforts have stalled. Tehran reportedly submitted a 14-point proposal to Pakistan, outlining a 30-day framework to resolve issues, including US troop withdrawal and",
           "versions": [
             {
               "political": "left",
@@ -667,8 +687,67 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Jabalpur Cruise Boat Tragedy: Two More Bodies Recovered, Death Count At 11",
-              "url": "https://www.ndtv.com/india-news/jabalpur-cruise-boat-tragedy-two-more-bodies-recovered-death-count-at-11-11441245#publisher=newsstand"
+              "headline": "'Impossible Operation Or Bad Deal': Iran Guards' 2 Options For Trump",
+              "url": "https://www.ndtv.com/world-news/us-israel-iran-war-impossible-operation-or-bad-deal-iran-guards-2-options-for-trump-11442723#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Impossible military op or ...': Iran mocks US, says Trump has only 2 options left",
+              "url": "https://timesofindia.indiatimes.com/world/middle-east/impossible-military-op-or-iran-mocks-us-says-trump-has-only-2-options-left/articleshow/130732376.cms"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Arab News",
+              "initials": "AN",
+              "domain": "news.google.com",
+              "headline": "Iran Guards say US options are ‘impossible’ military operation or ‘bad deal’",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Lb2xDVnBQemwwdUlVZkF6cDZiX2ZMWmJaalM3a21SVFRHOXVFczctWjI3T18yQnd5RFkzeTlkc2dfaDVxVVBSRldfVy1oeWVmM08zdXNUbmJ0aGYwV3c?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "Assam elections: Top 10 seats to watch out",
+          "neutralSummary": "Assam elections: Top 10 seats to watch out",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Assam elections: Top 10 seats to watch out",
+              "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/assam/assam-assembly-elections-2026-from-jalukbari-jorhat-to-kaliabor-here-are-top-10-seats-to-watch-out/articleshow/130729441.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Moneycontrol.com",
+              "initials": "M",
+              "domain": "news.google.com",
+              "headline": "West Bengal elections: How many seats will see counting on May 4 after last-minute EC twist",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmNzdVU5RnhrekdyaC0yNTFpLXNtYnlHanFWdnVVbXZiRlBsMVUzbG9uVEZGQXJZV05ybmxZQzNuTWRnQlJISjVyT3o4U2RzRXNqaTVtcXBCU0xuaGN1blcwWWUzT0tUZ19hdEpVTVRTSkk5b29qM2NrRndGNXlDdFdNSnlHRTBtYzBXc1ZKeDN0R1h1WlcweGVueVEyT3puZkxFeXFNeHNNMUVFWXNQTTZFN0Zfdm5uckNoc0w2T21VVGE0Tmh0bEhQX3NlZTJyY3BrOGdpa1pvaUxr0gHiAUFVX3lxTE5XSFI1eFBNNGNvQWdsV01sZkNXajBXM3ducXdxTi1CVG01Q1RXb1B1Q3VVaHNWMGlnQkJUZXM0eUZpbHc2RW1pSjBHVmFqQTQwM2lzMVllZklrYURVTjJMVUJYb0xWMXI5aHRiVi1HSGtYaDhDR1FHa29JcURmbXJzd2IxRUU4b0RZRVpuNFFDTmRhNjdyRnc0UVpZYll6bnpoSWZxLWNnZTVta1FSMzBYUjFCWGFDbUlaa29hZTRZemk0eENMUXdLakg2MnQwU2NKRTVTY2FNTGpoMERPOGFHNXc?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Raghav Chadha to meet President Murmu over ‘targeted action’ against MPs who quit AAP",
+          "neutralSummary": "Raghav Chadha will meet President Murmu on Tuesday to flag alleged misuse of Punjab's state machinery for “political vendetta\".",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "AAP vs Rebel MPs: Both Camps To Meet President Murmu On Tuesday",
+              "url": "https://www.ndtv.com/india-news/aap-vs-rebel-mps-both-camps-to-meet-president-murmu-on-tuesday-11442945#publisher=newsstand"
             },
             {
               "political": "center",
@@ -676,49 +755,15 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "‘Jumped last, unaware of yellow alert’: Cruise boat's helmsman reveals lapses, his truth in Jabalpur tragedy",
-              "url": "https://www.hindustantimes.com/india-news/jumped-last-unaware-of-yellow-alert-cruise-boats-helmsman-reveals-lapses-his-truth-in-jabalpur-tragedy-mp-bargi-dam-101777777504592.html"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "WION",
-              "initials": "W",
-              "domain": "news.google.com",
-              "headline": "Bargi Dam cruise boat tragedy: Heartbreaking photo of mother and son clinging to each other fake? Jabalpur collector says...",
-              "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQX3IzVzVzOW4yV3VtUWF0QmwwUTlSS2Jza0cwTGJ2dGU1T3F6N2JkYXFBTVlNZVdTM1NOWHVDdXFrWGE3RmhDU0wtYmVjQmRDZUgyN3Nuek5CM0RrV29QaHlaNF9WM1lZb2lqa2xqN3duckxWZS1UMlEtbVpWd0V3Sk1MZ0pieG9NM2lKc0FGeDVKMmQ1ZUoxUWpvYklzbUtmOGFxUnAyUVZVemZMbUlOR3NmcWNaTTVmX2dXNlVMMTM0MGhrb3pWaEZzejBCNkdyU29rby10azdRQng2TnNUOGVvWW9jNmhZTEFrUWhCV1lidWF5M3FHZDR1Y094b2RxMGtJMGtCVlh2WDJ6dXfSAZMCQVVfeXFMUGFtQ0dsYUhDQnc3d2JGbGpKMkVjM3VRcUVhTVNhYkd2T3lkRWV4Mm1PMURSc1NjWGxFekZweHFnbHRzWlpFN3dDczkyMzhJdmdROHlIYmJZdG52UlBBc0x0VUJZc2lkWC1naGt2bXVzZHNzakxqcnNBT1Q3a190UXdQeXIyaVhKdkFZenlWZ21ueFp5UG5WZjVKV0JVOHp6dW9rREpadFdjby12MzVKem1vSXhzUlZCcnNiOU92Z3FGcmhtRm4zaGw2NjVNaDRzQzlIdUV4VFVKWGpKT3pDTVh6RmVpa0ZlZ0VUbFlSNFFlZFdUNkN1SS1LVlQzYmIteXEwYlVJdjVyTWx5S1hoYzdWWWc?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "9 killed in residential building fire in Delhi’s Shahdara; AC blast suspected",
-          "neutralSummary": "Tragedy struck Shahdara early Sunday as a devastating fire ripped through a residential building, claiming at least nine lives. Firefighters battled the inferno for hours after a distress call at 3:27 am. While preliminary reports point to a short circuit, the exact cause remains under investigation",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Did AC Explosion Lead To Delhi Building Fire? What Resident Says",
-              "url": "https://www.ndtv.com/delhi-news/delhi-building-fire-did-ac-explosion-lead-to-delhi-building-fire-in-vivek-vihar-shahdara-what-resident-says-11441547#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "9 killed in residential building fire in Delhi’s Shahdara; AC blast suspected",
-              "url": "https://timesofindia.indiatimes.com/city/delhi/4-dead-as-fire-breaks-out-in-four-storey-building-in-delhis-shahdara/articleshow/130726734.cms"
+              "headline": "Raghav Chadha to meet President Murmu over ‘targeted action’ against MPs who quit AAP",
+              "url": "https://www.hindustantimes.com/india-news/raghav-chadha-claims-mps-who-joined-bjp-targeted-to-meet-president-murmu-on-may-5-report-101777802837019.html"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "9 Killed, Many Rescued After Massive Fire At Residential Building In Delhi",
-          "neutralSummary": "More than a dozen people were rescued from the building, officials said.",
+          "neutralHeadline": "5 battlegrounds, 823 seats: All set for counting of votes for assembly elections tomorrow",
+          "neutralSummary": "Preparations for counting of votes is nearly complete in West Bengal, Kerala, Tamil Nadu, Assam and Puducherry. &nbsp;",
           "versions": [
             {
               "political": "left",
@@ -726,15 +771,24 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "9 Killed, Many Rescued After Massive Fire At Residential Building In Delhi",
-              "url": "https://www.ndtv.com/india-news/4-dead-over-10-rescued-after-massive-fire-at-building-in-delhis-vivek-vihar-11441436#publisher=newsstand"
+              "headline": "Counting Of Votes For Nagaland's Koridang Assembly Bypoll Tomorrow",
+              "url": "https://www.ndtv.com/india-news/nagaland-elections-2026-counting-of-votes-for-nagalands-koridang-assembly-bypoll-tomorrow-11442753#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "5 battlegrounds, 823 seats: All set for counting of votes for assembly elections tomorrow",
+              "url": "https://www.hindustantimes.com/india-news/assembly-elections-2026-counting-bengal-assam-tamil-nadu-kerala-puducherry-election-commission-tmc-bjp-udf-ldf-dmk-101777804009366.html"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "‘Not yet paid a big enough price’: Donald Trump sceptical as Iran submits 14-point plan to end war",
-          "neutralSummary": "‘Not yet paid a big enough price’: Donald Trump sceptical as Iran submits 14-point plan to end war&nbsp;&nbsp;The Times of IndiaIran war live: Trump to review 14-point plan; Israel pounds Lebanon&nbsp;&nbsp;Al Jazeera‘If they misbehave…’: Trump's fresh warning for Iran as he reviews peace proposal&n",
+          "neutralHeadline": "Deaths in Jabalpur cruise boat tragedy rise to 11, bodies of 2 more children found",
+          "neutralSummary": "Deaths in Jabalpur cruise boat tragedy rise to 11, bodies of 2 more children found&nbsp;&nbsp;India TodayMP Bargi dam boat tragedy: Death toll rises to 13; body of last missing person found&nbsp;&nbsp;The Hindu‘Jumped last, unaware of yellow alert’: Cruise boat's helmsman reveals lapses, his truth i",
           "versions": [
             {
               "political": "left",
@@ -742,58 +796,33 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "US Iran Ceasefire News LIVE: Iran Submits 14-Point Peace Plan, Trump Says Deal 'Unlikely'",
-              "url": "https://www.ndtv.com/world-news/us-israel-iran-war-ceasefire-news-live-updates-trump-khamenei-netanyahu-war-strait-of-hormuz-11433935#publisher=newsstand"
+              "headline": "\"Death Was In Front Of Us\": Jabalpur Boat Tragedy Survivors Recount Horror",
+              "url": "https://www.ndtv.com/india-news/death-was-in-front-of-us-jabalpur-boat-tragedy-survivors-recount-horror-11442634#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
+              "source": "Today",
+              "initials": "TD",
               "domain": "news.google.com",
-              "headline": "‘Not yet paid a big enough price’: Donald Trump sceptical as Iran submits 14-point plan to end war",
-              "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQN3MyNnozLUxvZ3hScVJ1VkxkX25YZVZLMVRpUlpmYTFDOEtha0tUT2dtOW5vSjRjeWd5QmR1cGFqUkQ4bFpSZWFkT3BGT0ZCRTFEVHhHTW5qejB5QWdtOVV5R3k0ZmFNQy10MWtCMFdsNldjcG5oWHY2T1kxUVk1VGF4M1F3cGxlX2otNy1Pa1N5UXZucGFIaVBJLW1tUVkzeER0N1hPZkFPT1hIVFp5NkNTWDYwNEMtWmRHbG1vTW41VmJadC1rbzNLd1M0Tmt3RmstRUVrNWFPcjZTZk8xUjZEZ3pGVmFvNFRJeG5KMmZBQ2FyU0lJa1FR?oc=5"
+              "headline": "Deaths in Jabalpur cruise boat tragedy rise to 11, bodies of 2 more children found",
+              "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVW5ZeTVwN3NaQmN1bjVVMGVxYkdZZGNGZkExTzJzOUxTNm4wYXA3dkUxcFI3MEhTRHVFWWlqbGZtcXdRM2hsNjhUYy01d3gtbm5BalhMNXYydHFiWXdUNE84ZWwyUlltYVJIa3RvS3FCbVlFZ0VvNElfT0NWU09VSHl5OTRUOGxLWjlhbmJnNGotbEdjMjctX19LOEc2a1JnQ19obzR6S2hZanNXN3ZGZzFTNTlvTDlrQUFmVWdKRmxmVlVCNDRmQ0ZTb0xQZFJRVUV3dVp2VFAzZ1dCbzFSckdGYkdzVmlhbC0tNHo5VXI4UdIB9wFBVV95cUxPaFhJYVA2bTdEZTNtMnh4RWFmdGcwaW1ObDhfZHg4SFZzZnZLekNjZDlORHJmelR5Y3luNEx4U0tRNXNGRE5VZUFuSEJMTE9ZWW82WE5qMXV3TXVZajRia2ZDQjB0YlQteG43OC0wM0hZRGJ2N3JQMmE5emwwX3pzazk4aVRRT2hqYS1JZUh1X3I4X3RqZEJlUEt6Q3MzZzAtaFcxSWpWYlVVb0VsWXlSY0ZVa0dWVUU0Wkt3aVR0b0hoQlRoWTFhSnktMlhydzZ4cHRTZ2NCWHFIZTJsTGFJWEJoVzBjVDdvb1I5M1RrLVNUWTdLTmhV?oc=5"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "Delhi court denies bail to Al-Falah University chief, says allegations against accused ‘grave’",
-          "neutralSummary": "Delhi court denies bail to Al-Falah University chief, says allegations against accused ‘grave’",
+          "neutralHeadline": "Bengal election results: 10 key seats to watch",
+          "neutralSummary": "Bengal election results: 10 key seats to watch",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Delhi court denies bail to Al-Falah University chief, says allegations against accused ‘grave’",
-              "url": "https://indianexpress.com/article/legal-news/delhi-court-denies-bail-to-al-falah-university-chief-over-alleged-student-fund-diversion-10668441/"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Court denies bail to woman accused in TCS Nashik case",
-              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEdoeGNRY1otdHVtRXplR2VHSDQwbWJRT1M1RVFXQjU4TXNzRUhfeElJdTh2bnhpc3VqT0NkQTVad3V1ckQ2SG9TeWEyN0tkTkpIMWRhYnNDbjlLTWZ5aVdMS0pRaGRZQmRXSmZDNUM1LW9rSFYtZTBUaWFNdUJub094dXhpa0JVNkl2OENaU1F3LVdrR1BCNi12THctUGtZTkxVUV9SamdNZEFMRW9HYnF30gG4AUFVX3lxTE5XbGUwTzU2SGozcDB5bEkzZzhQdGl5U19TdEpEVWtRbjYwS3Y4dlU1emoxX0VEWV9UX1otOFRtUVI5NmJTa3hidGtwdVlwRm9GUzBISUJmQXB5a2tXNFE4bEQySkFHaXBScmQ0Zmwxa1JMSlRobkdEX0Z0a0dBMm5ISVV1WkVaVi0zaG5rZThJTnV4SHA4dnk5TmFfUFNxUTExUl9aa2l1bE40cmdRSGRYTm10RXE5NUc?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "IPL playoff qualification scenarios: Time is running out for Mumbai Indians",
-          "neutralSummary": "The Mumbai Indians' dreams of IPL 2026 playoff qualification are hanging by a thread following an emphatic eight-wicket defeat to the Chennai Super Kings. The alarming trend of middle-order collapses, most recently in the battle against CSK, has been the story of MI this IPL 2026, and that has now p",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "IPL playoff qualification scenarios: Time is running out for Mumbai Indians",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/mi-ipl-2026-playoff-qualification-scenarios-time-is-running-out-for-mumbai-indians-after-chepauk-collapse/articleshow/130726829.cms"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "37 Bellwether Seats That Accurately Show Bengal's Poll Results Since 1977",
+              "url": "https://www.ndtv.com/india-news/west-bengal-assembly-election-bengal-election-result-37-bellwether-seats-that-accurately-show-bengals-poll-results-since-1977-11442172#publisher=newsstand"
             },
             {
               "political": "center",
@@ -801,49 +830,83 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "IPL 2026: CSK beat Mumbai Indians by 8 wickets",
-              "url": "https://economictimes.indiatimes.com/news/sports/ipl-2026-csk-beat-mumbai-indians-by-8-wickets-to-boost-playoff-prospects/articleshow/130722156.cms"
+              "headline": "Bengal election results: 10 key seats to watch",
+              "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/west-bengal/west-bengal-election-results-2026-10-key-seats-to-watch-as-bengal-counts-its-votes-tomorrow/articleshow/130730301.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "UP water tank tragedy: One dead, two hurt while filming reel; IAF chopper rescues stranded kids",
+          "neutralSummary": "UP water tank tragedy: One dead, two hurt while filming reel; IAF chopper rescues stranded kids",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "UP Teens Climb Water Tank To Shoot Reel, Get Stuck. Air Force Rescues Them",
+              "url": "https://www.ndtv.com/india-news/air-force-helicopter-rescues-2-uttar-pradesh-teens-stranded-on-water-tank-after-16-hours-11441661#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "UP water tank tragedy: One dead, two hurt while filming reel; IAF chopper rescues stranded kids",
+              "url": "https://timesofindia.indiatimes.com/india/up-water-tank-tragedy-one-dead-two-hurt-while-filming-reel-iaf-chopper-rescues-stranded-kids/articleshow/130733043.cms"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "India's island territories provide military deterrence against expansionist China",
-          "neutralSummary": "Today, an average of 6-7 PLA ships are in the Indian Ocean Region each month with aircraft carrier based task forces entering the region within this decade.",
+          "neutralHeadline": "Seats low, stakes high: Is BJP expanding quietly in Kerala?",
+          "neutralSummary": "The Bharatiya Janata Party is making inroads in Kerala, challenging the state's traditional two-front political system. Recent elections show the BJP gaining ground in specific constituencies, turning contests into triangular battles. This shift is evident in Lok Sabha and local body polls, indicati",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "India's island territories provide military deterrence against expansionist China",
-              "url": "https://www.hindustantimes.com/india-news/indias-island-territories-to-provide-military-deterrence-against-expansionist-china-101777781970735.html"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Seats low, stakes high: Is BJP expanding quietly in Kerala?",
+              "url": "https://timesofindia.indiatimes.com/india/kerala-assembly-election-results-2026-seats-low-stakes-high-is-bjp-expanding-quietly-in-kerala/articleshow/130731350.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Kerala elections: Top 10 seats to watch out",
+              "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/kerala/kerala-assembly-elections-2026-from-peravoor-dharmadam-to-palakkad-top-10-seats-to-watch-out/articleshow/130728880.cms"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "EC orders repoll at 285 stations in West Bengal's Falta on May 21 over ‘severe electoral offences’",
-          "neutralSummary": "The ECI had ordered repolls on Friday in 15 polling stations where allegations of EVM tampering were received during Phase 2 of the West Bengal elections.",
+          "neutralHeadline": "OPEC+ agrees third oil output quota hike since Hormuz closure",
+          "neutralSummary": "OPEC+ agrees third oil output quota hike since Hormuz closure&nbsp;&nbsp;ReutersOPEC+ announces 188,000 barrels-per-day output increase in first meeting without UAE&nbsp;&nbsp;CNBCWhy did the UAE quit OPEC and OPEC+?&nbsp;&nbsp;The HinduDaily Editorial Analysis 2 May 2026&nbsp;&nbsp;Vajiram & RaviOP",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "EC orders repoll at 285 stations in West Bengal's Falta on May 21 over ‘severe electoral offences’",
-              "url": "https://www.hindustantimes.com/india-news/ec-orders-repoll-at-285-stations-in-west-bengals-falta-on-may-21-over-severe-electoral-offences-101777774292114.html"
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "OPEC+ agrees third oil output quota hike since Hormuz closure",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDd4Y0FGSVFkY1NjbFBmd0V5Q01udExuM2l6MjhFWXBzOWJBZU04dnExbzJ6S001ckRnRThWd2dKODNuUnhKRVViWXdEdEFNZlJPbEJYOUlEYWxPSkVIRzgyeXlsMzNCTjNSME5GNEFfcUVNMlk2a2J1SzJ6MHk0dXNvdE1SeDJVSm5MblRZcWVueHV1UTFIR2lnSjdTb01MMlBmclhteFk3ZDN0SHc0TjVlNmVJYkpnWHNnYTF5VGNZRnpwclE?oc=5"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "ECI announces repolling for Falta Assembly seat in West Bengal on May 21",
-              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWJwVG92RndBR2wyeVdpZ0FVRHMzaUx6WjdkWHFWOXpOWnlfWkpBc1Q3OThya2s3Q2ljOEdkUlpvUU5OaDFpaE5YNnhqYldhYmo3UWh0ZURLTnpkd1Qyc3BNNXVDVjBlYVRuNWU0RGV6TFdjTTlSMUY1cFI5Y1d4NkVZLVg3ZTZXdGN4TnkxeUdwNF9HbnJyRUREM0pndHg4QjlZRE9XallWdm1FWVpObkFBWlptTU1WLXFwbGlxeExVajlvc1ppMlBmWU5sYkFNek14QUswVHFsSzdmZnplQ1Jn0gHoAUFVX3lxTE9YeVVUR2lLTC1jUnJwVUoxUzFoWTdMaDVDRkQ2S2JucGdEZVkyOUVSRTIyOVNwTzZ2aF80UkNXMDF1TTI1QlQ5OW1BVl93YzRVRmI4am9YQUJxalZqTWNCNmloMzhxODlVQ2gyeWU1TUJ1X3gxbks5VG1FQVNIeVBWak1TMF9KaEt6Ykw1RkMwX2VuYVhiaHFmRHBtRnVHQjA5OFdwTEJpbDgySVVTTm5vWENRU1FkOU5WSEVEdURDcW16X2p4MU8zSWtGanBqWmFuaTVwVHhKRWZTOEd2SXpvdVRPRlhQcEU?oc=5"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "OPEC+ Agrees Symbolic Quota Hike as UAE Touts Oil Investment",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-03/opec-agrees-to-symbolic-june-quota-increase-delegates-say"
             }
           ]
         }
