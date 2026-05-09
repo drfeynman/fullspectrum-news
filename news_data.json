@@ -1,11 +1,54 @@
 {
-  "generatedAt": "2026-05-08T14:55:06.655313+00:00",
+  "generatedAt": "2026-05-09T05:00:45.604104+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
+          "neutralHeadline": "Trump announces three-day ceasefire between Ukraine and Russia",
+          "neutralSummary": "US President Donald Trump on Friday announced a three-day ceasefire between Russia and Ukraine, starting on May 9. Aside from a pause in the fighting, the two warring sides will also engage in a prisoner swap, with 1,000 prisoners from each country.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Trump says Russia and Ukraine to observe three-day ceasefire",
+              "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire",
+              "url": "https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Trump announces three-day ceasefire in Russia-Ukraine war",
+              "url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Trump announces three-day ceasefire between Ukraine and Russia",
+              "url": "https://www.france24.com/en/europe/20260508-trump-announces-three-day-ceasefire-between-ukraine-and-russia"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
           "neutralHeadline": "British crew member in need of urgent medical care amid suspected hantavirus outbreak on cruise ship",
           "neutralSummary": "WHO says seven confirmed or suspected cases of hantavirus on MV Hondius, including three passengers who diedWhat is hantavirus, the infection thought to have killed three on cruise ship?A British crew member was in need of urgent medical care and a passenger from the UK remained in a critical but st",
           "versions": [
@@ -30,93 +73,7 @@
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "Hantavirus latest updates: 5 states are monitoring cruise ship passengers for potential infections",
-          "neutralSummary": "Hantavirus latest updates: 5 states are monitoring cruise ship passengers for potential infections&nbsp;&nbsp;YahooOpinion | Here’s How Freaked Out You Should Be About the Hantavirus Cruise Ship&nbsp;&nbsp;The New York TimesHantavirus cruise ship: race to trace passengers who disembarked before outb",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
-              "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
-              "url": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Yahoo",
-              "initials": "Y",
-              "domain": "news.google.com",
-              "headline": "Hantavirus latest updates: 5 states are monitoring cruise ship passengers for potential infections",
-              "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQLXVmLUloS3Vld180dUp2WDJXOU8yYldheW4teWJGeUVkUWFtOFBNQ2pzVEttSkJWdlkxNzdGZUptTzIwNnVLLTJXSktNZHI2VGpxUi0wbW1WWXdVazNiekIwblg0MHMxd1pxWEtIUDRXTFVXVUFJS3ZkV1VRQ2xBZUgwNzlCSG5FRzNKeUpuMEYwRmhHT0luZUYxLWJXT3M3MUE3TjV6bkZ5clpHLWowZmx0dk1QZU1PbXItUjRhZzNVWjZOZzlRNzU4bTRqbExzN2txMWxtQ2tYYy14TmR2U1FSdG1UZGpYOEdUeU5XODhLTzRXWDNmdQ?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Argentina investigators zero in on possible origin point of hantavirus in deadly cruise outbreak",
-              "url": "https://www.foxnews.com/world/argentina-investigators-zero-possible-origin-point-hantavirus-deadly-cruise-outbreak"
-            }
-          ]
-        },
-        {
           "id": "global-3",
-          "neutralHeadline": "What Russia’s low‑key Victory Day celebrations reveal about Putin and the war in Ukraine",
-          "neutralSummary": "What Russia’s low‑key Victory Day celebrations reveal about Putin and the war in Ukraine&nbsp;&nbsp;AP NewsRussia in No Mood for Celebration on Kremlin’s Biggest Day of the Year&nbsp;&nbsp;The New York TimesMeeting ‘Madyar’: the Ukrainian drones boss raining on Putin’s parade&nbsp;&nbsp;The Guardian",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
-              "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "As war on Ukraine continues, Russia prepares for smaller Victory Day parade",
-              "url": "https://www.npr.org/2026/05/08/nx-s1-5810926/as-war-on-ukraine-continues-russia-prepares-for-smaller-victory-day-parade"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "What Russia’s low‑key Victory Day celebrations reveal about Putin and the war in Ukraine",
-              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd09LLTRKSHdCV0doQ3k5bXlHajdMdXFrOWhZeUZlUDQtR0tlVVRvOEFScDJSaXFjSnU4UXNYdGdORHVCOXNyakFkRlptWWQwOWI0enZ5ZkNCZmdJQVIwMGRfYm9rUUkxdlhRSkJaTHFKMTlTY21VbENtWmc3aXkzT2x2aVlmWjBBVENUbzF2a3o5YVBHWUNtaVVJbG5RWThnRjUtWA?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Russia loses ground – but not the war – in Ukraine",
-              "url": "https://www.france24.com/en/europe/20260508-russia-loses-ground-but-not-the-war-in-ukraine-institute-for-study-of-war-isw"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
           "neutralHeadline": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
           "neutralSummary": "British guide Martin Anstee among those evacuated from MV Hondius, which is now heading for Canary IslandsExplainer: What is hantavirus?Three people with suspected hantavirus have been medically evacuated from a cruise ship.They include a British man who was an expedition guide onboard the ship, the",
           "versions": [
@@ -150,9 +107,43 @@
           ]
         },
         {
+          "id": "global-4",
+          "neutralHeadline": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
+          "neutralSummary": "Argentina, where the MV Hondius cruise departed, consistently ranked by WHO as having highest incidence of hantavirus in regionOfficials and experts in Argentina are scrambling to determine if their country is the source of a deadly hantavirus outbreak that has gripped an Atlantic cruise ship, amid",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
+              "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
+              "url": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Argentina investigators zero in on possible origin point of hantavirus in deadly cruise outbreak",
+              "url": "https://www.foxnews.com/world/argentina-investigators-zero-possible-origin-point-hantavirus-deadly-cruise-outbreak"
+            }
+          ]
+        },
+        {
           "id": "global-5",
-          "neutralHeadline": "Three hikers dead after Indonesia’s Mount Dukono volcano erupts",
-          "neutralSummary": "Two Singaporeans and a local person were in no-go zone when they were killed, say officialsThree hikers – two Singaporeans and an Indonesian – have died in an eruption of Indonesia’s Mount Dukono volcano, where they found themselves in a no-go zone, officials said.The eruption, on Halmahera island,",
+          "neutralHeadline": "At least three killed by volcano eruption in Indonesia",
+          "neutralSummary": "Authorities in Indonesia's Halmahera island are searching for people still missing after a volcano erupted on Friday. Twenty hikers are reported to have been on the volcano when the eruption occurred, despite safety restrictions. Fifteen were able to descend, three are dead. Story by Shirli Sitbon.",
           "versions": [
             {
               "political": "left",
@@ -173,18 +164,43 @@
               "url": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Indonesia volcano kills three hikers, two remain unaccounted for",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW9EeW1EU1JoQVpMdHNKRHpLNmUyOEpiTzZCbF9ZbG1uNVZqMHE1bTd2cENHSlpCaFpDRUoyR256eU9TYjYwV3Y0dTR0X05yd0sxYXJkV3RJZEhGVjh6ZkNLVjdBY1pGbmRpMDh6U2RWUW1zQlVTZlAyV1lCdHV1SlllT1huZmoyRjFMaFY4WkZyT3dWUi1wNmFkZzVzd0RpNXp6OHZwUTcwc0N10gGyAUFVX3lxTFB6MFNJeWtFRnNKUmFLZE4zVXZ1ZTJ0eUZ5eHA4dl96cW91cWZSM1otUXZGaWdyZDdRTy1IYUdRSE4zeTlfc1N0N2FwVlFJM1JkRWkzbjIzMC1hWF9LQlQtWTRuenBNSzZ5SXE3N1VUbndnbm9ocGFNOVhLT3BPelRHYWliRENfS1lBd0ZnVlBjWmtzNHBuLXoyU1huYXJ3VzRtTVc3RF9XbWRNRHNnUzcxY3c?oc=5"
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "At least three killed by volcano eruption in Indonesia",
+              "url": "https://www.france24.com/en/at-least-three-killed-by-volcano-eruption-in-indonesia"
             }
           ]
         },
         {
           "id": "global-6",
+          "neutralHeadline": "Starmer says he won't quit after local elections deliver losses for Labour and wins for Reform UK",
+          "neutralSummary": "Starmer says he won't quit after local elections deliver losses for Labour and wins for Reform UK&nbsp;&nbsp;AP NewsStarmer under pressure, as Labour suffers heavy election losses&nbsp;&nbsp;BBCNigel Farage will need to be 22 times more efficient to win the next general election&nbsp;&nbsp;politico.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Starmer says he won't quit after local elections deliver losses for Labour and wins for Reform UK",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMWF3dW5GcHh6WUJDQ1JnTnFhZzdqRlBpd0tvS3M3bmFLd3V4MFRwMWI5T3VsTktjZmcwRlYtcVhBVHBXQ3Y1N0k4TVBJcHM4a19pVGFtQVhWdlUtd08wTWFWbmZmU1FNcmt4My1TRDRPYmluaUFPaUdrNnZmNHBwdVVEM0F6Wm9ZanpUR2N4NjhrSmoyeWJJWlloeEFPUHdVajFjUzFmZzZsZw?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Labour suffers losses across the UK as Reform surges: “Starmer’s survival depends on improvement”",
+              "url": "https://www.france24.com/en/tv-shows/spotlight/20260508-labour-suffers-losses-across-the-uk-as-reform-surges-starmer-s-survival-depends-on-improvement"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
           "neutralHeadline": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
           "neutralSummary": "Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in NetherlandsWhat is hantavirus?Two Britons who were medically evacuated from the hantavirus-hit cruise ship are improving, global health officials have said.A British passenger, understood to be",
           "versions": [
@@ -209,77 +225,52 @@
           ]
         },
         {
-          "id": "global-7",
-          "neutralHeadline": "Starmer Says He Won't Resign Despite His Party's Disastrous Election Night",
-          "neutralSummary": "The votes are being widely seen as an unofficial referendum on the prime minister, whose popularity has plummeted.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Starmer Says He Won't Resign Despite His Party's Disastrous Election Night",
-              "url": "https://www.huffpost.com/entry/farage-starmer-uk-local-elections_n_69fda0ebe4b065a1677d9040"
-            },
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Live Updates: Early U.K. Local Election Results Point to Big Losses for Starmer’s Party",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPLWdHQWZ0U1Bzd0Z5aEFHdHo3MmlJZERBNjRMM040V3ZuMTF0R1JCVU5Mb0hnZGVyMDNkSHMxbzFHZkRVU21idkpWdkZ2MUlySHJ1MlZZRTFydTJ3cjJYMmM2T3RtUk9PS2FmU215dUVqWVlNUzJfOGZobjE?oc=5"
-            }
-          ]
-        },
-        {
           "id": "global-8",
-          "neutralHeadline": "Keir Starmer's Labour braces for heavy losses in UK local elections",
-          "neutralSummary": "The far right are making gains in England as the results of local elections are counted overnight. The governing Labour party has lost control of a number of councils... and pressure is piling on Prime Minister Keir Starmer. While most results won’t be declared until later Friday, Reform UK — led by",
+          "neutralHeadline": "Four south Florida men convicted in Haitian president’s assassination",
+          "neutralSummary": "Men were convicted in Miami federal court for plotting to kill Jovenel Moïse at his Port-au-Prince home in 2021Four south Florida men were convicted on Friday of plotting to kill the Haitian president, Jovenel Moïse, in 2021 by hiring mercenaries to assassinate him at his Port-au-Prince home, court",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "British Voters Have Spoken In Local Elections Seen As A Verdict On Keir Starmer's Leadership",
-              "url": "https://www.huffpost.com/entry/britain-elections_n_69fc574fe4b065a1677c2b0f"
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Four south Florida men convicted in Haitian president’s assassination",
+              "url": "https://www.theguardian.com/world/2026/may/08/four-men-convicted-haitian-president-assassination"
             },
             {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Keir Starmer's Labour braces for heavy losses in UK local elections",
-              "url": "https://www.france24.com/en/keir-starmer-s-labour-braces-for-heavy-losses-in-uk-local-elections"
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Four convicted in US related to killing of Haitian President Jovenel Moise",
+              "url": "https://www.aljazeera.com/news/2026/5/8/four-convicted-in-us-related-to-killing-of-haitian-president-jovenel-moise?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Iran and the US trade fire over Hormuz, Trump says ceasefire still in effect",
-          "neutralSummary": "A new exchange of fire between Iran and the US occurred late Thursday night in the Strait of Hormuz, with both countries accusing each other of firing first. The latest by Simon Moritz.",
+          "neutralHeadline": "Wild Fan Behavior Costs Australia Soccer Fans Major World Cup Tradition",
+          "neutralSummary": "The decision has triggered a furious response from Australian soccer pundits and a fan group.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-              "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Wild Fan Behavior Costs Australia Soccer Fans Major World Cup Tradition",
+              "url": "https://www.huffpost.com/entry/australia-world-cup-tradition-stopped_n_69fb1686e4b016ec076c8939"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Iran and the US trade fire over Hormuz, Trump says ceasefire still in effect",
-              "url": "https://www.france24.com/en/iran-and-the-us-trade-fire-over-hormuz-trump-says-ceasefire-still-in-effect"
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "World Cup ticket prices kick fans in the grass as LA match costs hit $1k+",
+              "url": "https://nypost.com/2026/05/08/us-news/world-cup-ticket-prices-kick-fans-in-the-grass/"
             }
           ]
         }
@@ -290,8 +281,189 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "US revoking passports of parents who owe more than $2,500 in child support",
-          "neutralSummary": "The State Department announced on Thursday that it will begin revoking passports from people who owe significant amounts in child support.&#160; Parents who owe more than $2,500 in child support payments are not eligible to receive U.S. passports. The government can also strip people of these docume",
+          "neutralHeadline": "Virginia Supreme Court strikes down Democrats’ redrawn US House maps, giving Republicans a win",
+          "neutralSummary": "Virginia Supreme Court strikes down Democrats’ redrawn US House maps, giving Republicans a win&nbsp;&nbsp;WTOPVirginia Democrats to appeal ruling against redistricting to U.S. Supreme Court&nbsp;&nbsp;NBC4 WashingtonTop House Democrat vows to go ‘all in’ on 2028 gerrymandering push after Virginia se",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "4 Takeaways From the Virginia Supreme Court Gerrymandering Decision",
+              "url": "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-gerrymandering-takeaways.html"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "WTOP",
+              "initials": "W",
+              "domain": "news.google.com",
+              "headline": "Virginia Supreme Court strikes down Democrats’ redrawn US House maps, giving Republicans a win",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNnBYMHlvQUVqYlF6Vm94N29OdEN5X2ZUN1FtNWxNX2VVWjl5ckRycGpwdE9OMm5heEFvdVhRNXZhenhiWTZmMTdqODlURmxLM25nVm5nbFl3elNFNTFlb244RWJ0d0sxYXVLdDBXWG9uMy1DS29oREVYSkZpUUo5cDk4ZHg4UXNOU3gxOXlJZVRyWm9ub1ptUFloS01zZ2N0azRuM0ZVdmdScVdrLWJpNTgzNEs4YnFTUVZPRTAzbklLTXk3SXRV?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Virginia Democrats ask state Supreme Court to halt redistricting ruling",
+              "url": "https://thehill.com/homenews/campaign/5870634-virginia-democrats-fight-redistricting-ruling/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Leftist streamer calls violent revolution 'inevitable' as Democrats explode over Virginia court decision",
+              "url": "https://www.foxnews.com/politics/leftist-streamer-calls-violent-revolution-inevitable-democrats-explode-virginia-court-decision"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Virginia Democrats make long-shot Supreme Court appeal after redistricting loss",
+              "url": "https://www.washingtonexaminer.com/news/supreme-court/4561533/virginia-democrats-supreme-court-appeal-redistricting-loss/"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire and a prisoner swap",
+          "neutralSummary": "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire and a prisoner swap&nbsp;&nbsp;AP NewsTrump says Russia and Ukraine have agreed to his request for a 3-day ceasefire&nbsp;&nbsp;NPRTrump announces three-day ceasefire in Russia-Ukraine war&nbsp;&nbsp;Al JazeeraUkraine's Z",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire",
+              "url": "https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire and a prisoner swap",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnNkLVVjWXZ0dTRuWWxPNElqZTZ5b3VOajlGVGJNbmhLYlU2RnEzUWRkVTBlSi1QX1l0OHpPVl9JQi1uNDd1VEtncndfY3JqS0FFNndCeFJIc2JhdmNoeUZhbGp1bTJBc0hsVEl0bmNJZ3dtN3laaVZYcGhIQkVRYkJoZmtHN1dxbDRuT2pXYi0wNlFKQWR4SWF1MVJvZGdtcHg1NDdLNjlvTXQ5?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump hopes for ‘big extension’ on Russia-Ukraine ceasefire",
+              "url": "https://thehill.com/homenews/administration/5870737-trump-hopes-russia-ukraine-ceasefire-extension/"
+            },
+            {
+              "political": "right",
+              "tone": "optimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump announces surprise three-day ceasefire in Russia-Ukraine war",
+              "url": "https://www.foxnews.com/politics/trump-announces-surprise-three-day-ceasefire-russia-ukraine-war"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Trump Announces Ceasefire In Russia-Ukraine War",
+              "url": "https://www.dailywire.com/news/trump-announces-ceasefire-in-russia-ukraine-war"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Alabama asks Supreme Court to clear way for Republicans’ redrawn voting map",
+          "neutralSummary": "Alabama urged the Supreme Court&#160;on Friday&#160;for an emergency order clearing the way for its redrawn&#160;congressional map that could boost Republicans&#8217; chances of holding on to the House in November. The ask&#160;landed&#160;just&#160;as Gov. Kay Ivey (R) signed&#160;the&#160;map, whi",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Alabama Asks Supreme Court to Allow it to Use New Voting Map",
+              "url": "https://www.nytimes.com/2026/05/08/us/politics/alabama-supreme-court-voting-map.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Alabama asks Supreme Court to clear way for Republicans’ redrawn voting map",
+              "url": "https://thehill.com/homenews/campaign/5870503-alabama-congressional-map-republicans/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Alabama asks Supreme Court to allow for redrawn congressional map",
+              "url": "https://www.washingtonexaminer.com/news/supreme-court/4561574/alabama-supreme-court-petition-redrawn-map/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Judge in Charlie Kirk case won't forbid cameras from courtroom",
+          "neutralSummary": "Judge in Charlie Kirk case won't forbid cameras from courtroom&nbsp;&nbsp;Courthouse NewsJudge allows cameras in Charlie Kirk assassination case, delays preliminary hearing&nbsp;&nbsp;Fox NewsJudge declines to boot cameras from courtroom for Charlie Kirk murder suspect’s trial, delays upcoming heari",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Judge Rejects Defense Plea to Ban Cameras in Charlie Kirk Trial",
+              "url": "https://www.nytimes.com/2026/05/08/us/tyler-robinson-charlie-kirk-cameras.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Courthouse News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "Judge in Charlie Kirk case won't forbid cameras from courtroom",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1R5cmxsWFN0Z2ppcEUxX0NzTFBiOUNJeUJjSnZweExfT01IYjZ3X1RiQUk0WU9RT0xyUUhZOGpvYzFUMGplOVlmN2x1MW1FTkRYWVl2a3VwSURLLTZPMF95WFZzQzR4YThkaDNWdzl5Wi1oMF9OWC1sd0dFeXVYbUplb0x5T0xRMDE2bTUtYXpGRnBodVltUA?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Judge allows cameras in courtroom for Tyler Robinson murder trial",
+              "url": "https://www.washingtonexaminer.com/news/justice/4561201/judge-allows-cameras-in-court-tyler-robinson-murder-trial/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Judge Rules On Cameras In Charlie Kirk Murder Trial",
+              "url": "https://www.dailywire.com/news/judge-rules-on-cameras-in-charlie-kirk-murder-trial"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Trump Drives Across Lincoln Memorial Reflecting Pool To Inspect New Blue Coating He's Putting On It",
+          "neutralSummary": "President Donald Trump has visited the Lincoln Memorial to see the reflecting pool he's painting in a color he calls “American flag blue.”",
           "versions": [
             {
               "political": "left",
@@ -299,8 +471,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "U.S. Will Revoke Passports For Thousands Of Parents Who Owe Child Support",
-              "url": "https://www.huffpost.com/entry/us-revoke-passports-child-support_n_69fd0932e4b06e786e3d6a7f"
+              "headline": "Trump Drives Across Lincoln Memorial Reflecting Pool To Inspect New Blue Coating He's Putting On It",
+              "url": "https://www.huffpost.com/entry/trump-lincoln-memorial-reflecting-pool_n_69fd5c39e4b065a1677d6d0c"
             },
             {
               "political": "left",
@@ -308,86 +480,73 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "State Department Will Revoke Passports of Parents Who Owe Child Support",
-              "url": "https://www.nytimes.com/2026/05/07/us/politics/passports-revoked-child-support-state-dept.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "US revoking passports of parents who owe more than $2,500 in child support",
-              "url": "https://thehill.com/homenews/administration/5869607-state-department-revokes-passports/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "State Department set to revoke passports of thousands of parents with unpaid child support debt",
-              "url": "https://nypost.com/2026/05/08/us-news/state-department-to-revoke-passports-of-americans-owing-up-to-100k-in-child-support/"
+              "headline": "Trump Gave Out a No-Bid Contract to Turn D.C.’s Reflecting Pool Blue",
+              "url": "https://www.nytimes.com/2026/05/08/us/politics/reflecting-pool-trump-contract.html"
             }
           ]
         },
         {
-          "id": "us-2",
-          "neutralHeadline": "Pentagon releases new batch of UFO files",
-          "neutralSummary": "The Pentagon on Friday released a new tranche of files focused on unidentified anomalous phenomena (UAPs), or UFOs, as part of the Trump administration&#8217;s vow to be transparent on the issue. President Trump ordered the Defense Department to identify and release documents given the public&#8217;",
+          "id": "us-6",
+          "neutralHeadline": "City Of LA Not Liable In Death Of Teen Girl Hit By Police Officer's Stray Bullet",
+          "neutralSummary": "A jury has found the city of Los Angeles not liable in the killing of a 14-year-old girl who was hit by a police officer’s stray bullet during a shootout in 2021.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "City Of LA Not Liable In Death Of Teen Girl Hit By Police Officer's Stray Bullet",
+              "url": "https://www.huffpost.com/entry/jury-says-city-of-la-not-responsible-for-teen-girls-death_n_69fd19e2e4b06e786e3d8073"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Pentagon Releases Files on U.F.O.s",
-              "url": "https://www.nytimes.com/2026/05/08/us/politics/pentagon-ufo-files.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "Pentagon releases swath of UFO files",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVJreXlTbDYwUFAtUnB0dktObEROclBwYTZLZUtpZ0RoUGw0bmsyN1JkZDdtbVpFdG1XNlhTanVNazN5Zk1SSnpQR0tXeUNpdWZDZlUzckF0OGRDYlNxSHE4YWZGMmVXaGpsWnJsaFJWYXZiWHozM1ZJSFFTX1cxdVNXdw?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Pentagon releases new batch of UFO files",
-              "url": "https://thehill.com/policy/defense/5869342-pentagon-ufo-files-release/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Pentagon releases dozens of UFO files offering transparency on ‘alien and extraterrestrial life’",
-              "url": "https://nypost.com/2026/05/08/us-news/pentagon-releases-dozens-of-ufo-files-trump-teased-as-very-interesting/"
+              "headline": "Jury Finds City of L.A. Not Liable in 2021 Police Shooting of Teen Girl",
+              "url": "https://www.nytimes.com/2026/05/08/us/valentina-orellana-peralta-police-shooting-los-angeles.html"
             }
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "In Huge Blow to Democrats, Virginia Court Strikes Down House Map",
-          "neutralSummary": "The decision is a major victory for Republicans, wiping away a measure approved by voters to allow Democrats to gain as many as four House seats in the midterms.",
+          "id": "us-7",
+          "neutralHeadline": "UFO files spanning decades are released by Defense Department",
+          "neutralSummary": "Cold War reports of mysterious rotating saucers; recent sightings of metallic elliptical objects floating in mid-air. Those and other reports of unidentified anomalous phenomena or UAPs — the military's term for UFOs — are described in documents released Friday.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "In Huge Blow to Democrats, Virginia Court Strikes Down House Map",
-              "url": "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html"
-            },
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "UFO files spanning decades are released by Defense Department",
+              "url": "https://www.npr.org/2026/05/08/g-s1-121186/ufo-files-released-defense-department"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Colombia's rogue hippos could find refuge in India",
+          "neutralSummary": "In Colombia, a plan to cull Pablo Escobar's invasive hippos is challenged by an Indian billionaire's offer to relocate dozens of the animals to India's wildlife reserve instead.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Colombia's rogue hippos could find refuge in India",
+              "url": "https://www.npr.org/2026/05/08/nx-s1-5814169/cocaine-hippos-colombia-india"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Warner slams court ruling on Virginia redistricting: ‘Justice was not served’",
+          "neutralSummary": "Virginia senior Sen. Mark Warner (D) criticized a state Supreme Court ruling Friday that struck down a Democratic-backed redistricting plan, arguing the decision undermined the will of voters. “Today, justice was not served in Virginia,” Warner said in a video shared on social platform X. “Against t",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
@@ -398,172 +557,13 @@
               "url": "https://www.npr.org/2026/05/08/nx-s1-5805193/redistricting-virginia-trump-midterms"
             },
             {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "BREAKING: Virginia Supreme Court Strikes Down Redistricting In Brutal Blow To Democrats",
-              "url": "https://www.dailywire.com/news/virginia-supreme-court-strikes-down-redistricting-in-brutal-blow-to-democrats"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Virginia Supreme Court blocks Democratic-drawn congressional map voters approved in April",
-          "neutralSummary": "Virginia Supreme Court blocks Democratic-drawn congressional map voters approved in April&nbsp;&nbsp;NBC NewsIn Huge Blow to Democrats, Virginia Court Strikes Down House Map&nbsp;&nbsp;The New York TimesVirginia Supreme Court strikes down redistricting referendum approved by voters in special electi",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "NBC News",
-              "initials": "NN",
-              "domain": "news.google.com",
-              "headline": "Virginia Supreme Court blocks Democratic-drawn congressional map voters approved in April",
-              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWY1WHYzRWZUdVRKdS1sMGJSbFJRRFBaLXE4ZjRVUl9UZFpxYmNpMUFwd0RPSXBkZFBiRHlud0xNWG5NaExCbzNyc0FENGdXOTNnaTBwVFVBTDFJMTcxdnR4U2RlZm5xSlVjYjJZdENHR2lQSU12a2RVdnNLamo1SGVla1BlQnNSdnJ4MllBMU45T3Y3OGYxZkFHLXJYSUNtWWZkNW5ORzFYcV9oUWFuTU1jREFPTHcteDVhTTlJdi16RkV0SmZJ?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Virginia Supreme Court overrules Democratic gerrymander, declaring new House maps ‘null and void’",
-              "url": "https://nypost.com/2026/05/08/us-news/virginia-supreme-court-overrules-democratic-gerrymander/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Virginia Supreme Court blocks redistricting referendum and invalidates new congressional map",
-              "url": "https://www.washingtonexaminer.com/news/4551658/virginia-supreme-court-blocks-redistricting-referendum/"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Live updates: Trump insists ceasefire holds after fresh US-Iran strikes",
-          "neutralSummary": "President Trump said late Thursday that the temporary truce with Tehran remains intact despite U.S. forces hitting military targets in Iran. The latest strikes came after Tehran attacked American-guided missile destroyers that were transiting the Strait of Hormuz, putting more pressure on the alread",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "‘He’s Insane’: Trump Stuns With ‘Orwellian’ Description Of Iran Strikes",
-              "url": "https://www.huffpost.com/entry/donald-trump-iran-strikes-description_n_69fd8b60e4b06e786e3db55a"
-            },
-            {
               "political": "center",
               "tone": "neutral",
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Live updates: Trump insists ceasefire holds after fresh US-Iran strikes",
-              "url": "https://thehill.com/homenews/administration/5868474-live-updates-donald-trump-us-iran-strikes-ceasefire/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "U.S. Trade Court Rules Trump Tariffs Illegal, But Issues Narrow Block",
-          "neutralSummary": "Small businesses argued the president was attempting to sidestep the Supreme Court's ruling last year shutting down his previous tariffs.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "U.S. Trade Court Rules Trump Tariffs Illegal, But Issues Narrow Block",
-              "url": "https://www.huffpost.com/entry/us-trade-court-rules-against-trump-global-tariffs_n_69fd067de4b065a1677d2341"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Court Moves Against Trump Trade Agenda In Major Ruling",
-              "url": "https://www.dailywire.com/news/court-moves-against-trump-trade-agenda-in-major-ruling"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Rubio Meets Meloni as U.S.-Italy Relations Strained and Trump’s Attacks on Pope",
-          "neutralSummary": "Secretary of State Marco Rubio flew to Rome this week after an unexpected spat between President Trump and Prime Minister Giorgia Meloni of Italy, once one of the president’s best friends in Europe.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Rubio Meets Meloni as U.S.-Italy Relations Strained and Trump’s Attacks on Pope",
-              "url": "https://www.nytimes.com/2026/05/08/us/politics/rubio-meloni-italy-us-trump-pope.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Rubio meets Meloni as Trump–Pope clash clash escalates US strains with key European ally",
-              "url": "https://www.foxnews.com/politics/rubio-meets-meloni-trump-pope-clash-clash-escalates-us-strains-key-european-ally"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Trump says ceasefire still intact after fire exchanged",
-          "neutralSummary": "President Trump signaled late Thursday that the U.S.-Iran ceasefire agreement is still in play, despite a fresh exchange of fire between the two sides in the Strait of Hormuz. “​If there’s no ceasefire​, you’re not going to have to know. You’re just going to have to look at one ​big glow​ coming out",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "Trump says ceasefire still intact after burst of violence with Iran",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb2FzdEttbVlOSzFNc3NMM2xsX1N3bTR2WndUQlJrRElaU0N0NWV6a3lPV1o5MHQxTWRTTUxaOHhmZHFlNXQxWkFiX2ZwTGpaVVNJaXRWWVdJOEw3aEhiazJ5c3pIUUFFeHd2aEZXOTBmbmU5R3JzN1JkeVIyMEhZblN4WnBhdlUyZVo0a1NQSQ?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump says ceasefire still intact after fire exchanged",
-              "url": "https://thehill.com/homenews/administration/5869360-donald-trump-us-iran-ceasefire-fresh-attacks/"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Hantavirus live updates: CDC classifies outbreak as 'Level 3' emergency response - ABC News",
-          "neutralSummary": "Hantavirus live updates: CDC classifies outbreak as 'Level 3' emergency response&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosOpinion | Here’s How Freaked Out You Should Be About the Hantavirus Cruise Ship&nbsp;&nbsp;The New York TimesHantavirus cruise ship: race to trace passengers wh",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Breaking News, Latest News and Videos",
-              "initials": "BN",
-              "domain": "news.google.com",
-              "headline": "Hantavirus live updates: CDC classifies outbreak as 'Level 3' emergency response - ABC News",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVo2aXdMeVdMTWVwbzhReUpwX2dFYUNoQnpLWmxMNEdkcGU4V3hrQ04xelk2WjJiWVgtWkNvNWE3X25Xc1F6SWVDYmYyY2huRHA0ZWZFYmhPaUdHdVZwZl92WFJFWG9YWk96QmVwQzRxY3ExMlhJU3gwMmZ6M2ZWdUt3cTBIejN0VWN5Y3hOQS1MNGlweXkzbWZZT3VrbXZrVEpVOTJmcnlveUFfRFpn0gG0AUFVX3lxTE45UXZGY3Z5UnNGRVh2ZERCMWZmSWs3cU1DNjJXT0hoYWtWdks2TjJHcXFObUlyRUNwVU43RXZYeENOcjZrWUtiRzFxSEFkUGozMklrQU5lT2k4SWQ3aDEzajdEdnNOMENqVzRlV1BwR1NJdFRJNEZPY0hCVzc1RzNpUWt3X1JLNHlTekNoRlE2dVd3enlfZTRIdDFfVVFvcXcyMF8xWG43d1ZYT3J4ZUp5dlFmYw?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "CDC hantavirus outbreak classification lowest emergency activation level: Report",
-              "url": "https://thehill.com/policy/healthcare/5869488-cdc-hantavirus-outbreak-low-emergency-cdc/"
+              "headline": "Warner slams court ruling on Virginia redistricting: ‘Justice was not served’",
+              "url": "https://thehill.com/regulation/court-battles/5870541-warner-slams-court-ruling-on-virginia-redistricting-justice-was-not-served/"
             }
           ]
         }
@@ -574,74 +574,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Two Singapore residents who were on board MV Hondius test negative for hantavirus infection",
-          "neutralSummary": "The cruise ship operator is currently unable to confirm if other Singaporeans were on board.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Two Singapore residents who were on board MV Hondius test negative for hantavirus infection",
-              "url": "https://www.straitstimes.com/singapore/health/two-singapore-residents-who-were-on-board-mv-hondius-test-negative-for-hantavirus-infection"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Two Singaporean residents test negative for hantavirus after deadly cruise outbreak",
-              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTRid01BSEpNRUxGcVBMTEd0bjlEOHdZX2FEMjc4c1FxX0poRTZEVG9tbW5yejlEdFFibDg0Vi1QSXoyamdWTzk0N1V4dTBfM0QyeHAybzFFbzlaeWw0V2pXT0JzS29oSWM5Zlp0QTZET3NBSkp6aUtpdVVVb2cyNTgxYldRMGZCc1kzUnZJWHNkN0F3OHJRMm5EX201VWc3Y1BOd3dEOC1rdUYzWHpISkp1aElXRVFCRUozYVBYa0NSU3VBZ3FnZndVVWtkLTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-2",
-          "neutralHeadline": "Jail for woman who 3D-printed gun, bought live round from church friend",
-          "neutralSummary": "The 5.56mm round was later confirmed by SAF to be similar to those in its armoury.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Jail for woman who 3D-printed gun, bought live round from church friend",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/jail-for-woman-who-3d-printed-gun-bought-live-round-from-church-friend"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Woman who possessed bullet, attempted to make 3D-printed gun gets jail",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOejdPTjFVMFczdkwwWDhOT3c5a01tM2x0N1pMYUZkRUdvZ1puX01TeUFlVU5MWUxDLUZEVGc1VDBoOUdNamdOdlQ5YV9vcXg4TjVjRGU3Nmt2TXFlNEFYejk5bzRsQUczclB5T0ctZWFpdngxZmxXX2IxZmtCa0lzSzc4SVE0aFJIbnQ1UE40UkdWaWllYXBXQ1RITFFONGs?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
-          "neutralHeadline": "Disney Adventure cruise cancelled due to mechanical issue",
-          "neutralSummary": "Passengers waited overnight on board before the voyage was cancelled on May 8.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Disney Adventure cruise cancelled due to mechanical issue",
-              "url": "https://www.straitstimes.com/singapore/transport/disney-adventure-cruise-cancelled-due-to-mechanical-issue"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Singapore working with Indonesia to assist Singaporeans affected by Mount Dukono eruption",
-          "neutralSummary": "Nine Singaporeans were reportedly among the 20 hikers who were climbing&nbsp;Mount Dukono when the volcano erupted.",
+          "neutralHeadline": "Indonesia resumes search for three hikers missing after Mount Dukono eruption",
+          "neutralSummary": "Authorities have deployed at least 100 rescuers, military and police personnel in the search, which is being&nbsp;hampered by continued eruptions.",
           "versions": [
             {
               "political": "center",
@@ -649,22 +583,54 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Singapore working with Indonesia to assist Singaporeans affected by Mount Dukono eruption",
-              "url": "https://www.channelnewsasia.com/singapore/mount-dukono-eruption-singapore-working-indonesia-assist-singaporeans-affected-6109201"
+              "headline": "Indonesia resumes search for three hikers missing after Mount Dukono eruption",
+              "url": "https://www.channelnewsasia.com/asia/indonesia-mount-dukono-eruption-search-resumes-missing-hikers-6110651"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "Straits Times",
               "initials": "ST",
               "domain": "news.google.com",
-              "headline": "Two Singaporeans among 3 hikers reported dead after Mount Dukono eruption in Indonesia",
-              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSHlLaHpNNmp1cDBpMHZrSzA0cFd4QnFpVmFnanlDckhneXJsc25RN1AtNUZ3RWpGNDZVT1NEN1Q0X3RTN0V4RVNJRG9rT1FxYmlYQXhacXpLSHctdFdWb0tCbjlPcmZmQXBhVS1TeVU2RXVvdXZTT0VtUWp0aXFYaTB0LTBjbHh3RDctOUljVU0zOUhLQlN4REVuNm9fYnNrT3NPbllIWWo2X3FzcE4zOGNpOUxfcUFLYktFTVdvbnB1eVZqWkg2OUZsWWdVTXpD?oc=5"
+              "headline": "Search resumes for 3 hikers, including 2 Singaporeans, after Mount Dukono eruption in Indonesia",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc2NseUY0V2s2QUtVLWlMWUtMakJjWG04LVlrUVBhbkFIdi1qbklMM0tVRkRIWHB0WnBVbndzc1IxWG9ZdS1CRWl3SzVsZHlSLVZ4Q0xHNkZhVEd4UG9NVWJxT3NWRzZRQ0VJRDRKdko0YXRzYndhZ3VkNGlGZmZKcllUaDhsZElSaWJLUjBKd0VhNUlRcC1YVGk5ZE1LNnFUNklNdDhrWkFrZ2ptVG91amtTTEstbEtreUF6Vkd2dW5ZamdDaUY5N0M3amI1M0xf?oc=5"
             }
           ]
         },
         {
-          "id": "singapore-5",
+          "id": "singapore-2",
+          "neutralHeadline": "Two men arrested after fight near Boat Quay",
+          "neutralSummary": "In a viral video, more than 10 people are seen involved in an altercation on a street.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Two men arrested after fight near Boat Quay",
+              "url": "https://www.straitstimes.com/singapore/two-men-arrested-after-fight-near-boat-quay"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
+          "neutralHeadline": "ASEAN mulls sharing fuel, food resources as fears of prolonged disruptions grow",
+          "neutralSummary": "Leaders proposed a regional fuel stockpile and a standby arrangement for food security at the 48th ASEAN Summit on Friday (May 8).",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "ASEAN mulls sharing fuel, food resources as fears of prolonged disruptions grow",
+              "url": "https://www.channelnewsasia.com/asia/asean-summit-energy-food-security-stockpile-6109526"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
           "neutralHeadline": "'No room for illegal activities’: Malaysia stresses security, efficiency for JB-Singapore RTS Link",
           "neutralSummary": "Speaking to reporters on Friday (May 8), Home Affairs Minister Saifuddin Nasution Ismail also pledged that Malaysia will adopt a more “proactive approach” to ensure immigration glitches do not recur ahead of the Rapid Transit System (RTS) launch.\n\n&nbsp;",
           "versions": [
@@ -680,7 +646,7 @@
           ]
         },
         {
-          "id": "singapore-6",
+          "id": "singapore-5",
           "neutralHeadline": "As it happened: Two Singaporeans among three hikers reported dead after Indonesia's Mount Dukono erupts",
           "neutralSummary": "Twenty hikers were on the slopes of the volcano when disaster struck, a local police chief told reporters.",
           "versions": [
@@ -705,9 +671,9 @@
           ]
         },
         {
-          "id": "singapore-7",
-          "neutralHeadline": "Amid Middle East conflict, ASEAN countries eye more coordinated response to future crises",
-          "neutralSummary": "The regional bloc reportedly plans to launch a contingency plan that covers emergency fuel sharing and upholds freedom of navigation.",
+          "id": "singapore-6",
+          "neutralHeadline": "IMF board approves $1.22 billion disbursement to Pakistan",
+          "neutralSummary": "IMF board approves $1.22 billion disbursement to Pakistan",
           "versions": [
             {
               "political": "center",
@@ -715,40 +681,40 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Amid Middle East conflict, ASEAN countries eye more coordinated response to future crises",
-              "url": "https://www.channelnewsasia.com/asia/asean-summit-iran-war-energy-crisis-economic-foreign-ministers-6106991"
+              "headline": "IMF board approves $1.22 billion disbursement to Pakistan",
+              "url": "https://www.channelnewsasia.com/business/imf-board-approves-122-billion-disbursement-pakistan-6110566"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Pakistan to Receive $1.32 Billion as IMF Board Approves Tranches",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-08/pakistan-to-receive-1-32-billion-as-imf-board-approves-tranches"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "Operators of critical services in S’pore must urgently raise defences amid AI threats: Shanmugam",
+          "neutralSummary": "IMDA has issued an advisory to the telcos to reinforce the urgency of the matter.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Operators of critical services in S’pore must urgently raise defences amid AI threats: Shanmugam",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/operators-of-critical-services-in-spore-must-urgently-raise-defences-amid-ai-threats-shanmugam"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "China's former defence ministers Wei Fenghe, Li Shangfu given suspended death sentences on graft charges",
-          "neutralSummary": "The punishments are believed to rank among the harshest imposed on senior Chinese military officials in decades, highlighting the severity of China's anti-corruption drive within its armed forces.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "China's former defence ministers Wei Fenghe, Li Shangfu given suspended death sentences on graft charges",
-              "url": "https://www.channelnewsasia.com/east-asia/china-former-defence-ministers-wei-fenghe-li-shangfu-suspended-death-sentence-graft-6106876"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "China announces suspended death sentences for former defence ministers",
-              "url": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-9",
-          "neutralHeadline": "ASEAN should uphold navigational rights to ensure supply chain resilience, says PM Wong",
-          "neutralSummary": "Allowing any party to weaponise and impose transit restrictions on waterways sets a dangerous precedent, he said.",
+          "neutralHeadline": "Life After: Thawing from a biotech winter to a $25m turnaround in just 4 years",
+          "neutralSummary": "Biotech company CellResearchCorp pivoted to cosmeceutical products due to the pandemic.",
           "versions": [
             {
               "political": "center",
@@ -756,8 +722,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "ASEAN should uphold navigational rights to ensure supply chain resilience, says PM Wong",
-              "url": "https://www.straitstimes.com/singapore/politics/asean-should-uphold-navigational-rights-to-ensure-supply-chain-resilience-says-pm-wong"
+              "headline": "Life After: Thawing from a biotech winter to a $25m turnaround in just 4 years",
+              "url": "https://www.straitstimes.com/singapore/health/life-after-thawing-from-a-biotech-winter-to-a-25m-turnaround-in-just-4-years"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
+          "neutralHeadline": "Students’ names, IDs ‘may have been exposed’ in Canvas cyberattack but passwords, marks safe: NUS",
+          "neutralSummary": "SUSS says access to the platform has been restored and there was 'no significant disruption'.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Students’ names, IDs ‘may have been exposed’ in Canvas cyberattack but passwords, marks safe: NUS",
+              "url": "https://www.straitstimes.com/singapore/students-names-ids-may-have-been-exposed-in-cyber-attack-but-passwords-marks-uncompromised-nus"
             }
           ]
         }
@@ -768,51 +750,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Suvendu Adhikari: Ex-Mamata loyalist, who defeated her twice, to be Bengal's 1st BJP CM",
-          "neutralSummary": "Suvendu Adhikari comes from one of the state’s most influential political families. His father, Sisir Adhikari, served both in the West Bengal Assembly and the Lok Sabha, while his brother Dibyendu Adhikari was earlier a Trinamool Congress (TMC) MP before joining the BJP in 2024. Suvendu began his p",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Suvendu Adhikari, BJP's 'Giantkiller', Will Be Bengal Chief Minister",
-              "url": "https://www.ndtv.com/india-news/suvendu-adhikari-to-be-bjps-bengal-chief-minister-11467330#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Suvendu Adhikari: Ex-Mamata loyalist, who defeated her twice, to be Bengal's 1st BJP CM",
-              "url": "https://timesofindia.indiatimes.com/india/suvendu-adhikari-ex-mamata-loyalist-who-defeated-her-twice-to-be-bengals-1st-bjp-cm-who-is-suvendu-adhikari/articleshow/130958048.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Suvendu Adhikari: Once an all-weather man of Mamata, is now next CM of West Bengal; 5 facts about him",
-              "url": "https://www.hindustantimes.com/india-news/suvendu-adhikari-once-an-all-weather-man-of-mamata-is-now-next-cm-of-west-bengal-5-facts-about-him-101778247478323.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "From giant-killer to Bengal CM: Suvendu’s rise",
-              "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/west-bengal/suvendus-rise-to-bengals-top-chair-marked-by-key-wins-and-fierce-opposition-to-mamata-banerjee/articleshow/130960105.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "Tamil Nadu government formation LIVE: TVK chief Vijay calls on Governor Arlekar for third time; visits CPI(M) office",
-          "neutralSummary": "Viduthalai Chiruthaigal Katchi that has won two seats is also likely to announce its support to Tamilaga Vettri Kazhagam, sources told The Hindu.",
+          "neutralHeadline": "‘Forgery’, ‘misinformation’: TVK vs AMMK over letter of support to Vijay amid Tamil Nadu government suspense",
+          "neutralSummary": "TVK, which is one MLA short of the magic figure of 118, gave a letter of support from AMMK’s lone MLA to governor on Friday, which the latter denied offering.",
           "versions": [
             {
               "political": "left",
@@ -820,8 +759,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Tamil Nadu government formation LIVE: TVK chief Vijay calls on Governor Arlekar for third time; visits CPI(M) office",
-              "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-government-formation-live-updates-cpi-cpim-vck-key-to-govt-formation-dmk-aiadmk-tvk-politics/article70953684.ece"
+              "headline": "Tamil Nadu government formation LIVE: VCK to support TVK, announcement soon",
+              "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-government-formation-live-updates-cpi-cpim-vck-dmk-aiadmk-ammk-tvk-alliance-parties-may-9-2026/article70958001.ece"
             },
             {
               "political": "left",
@@ -829,58 +768,17 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Tamil Nadu Government Formation LIVE: Vijay Meets Tamil Nadu Governor Third Time In 48 Hours",
+              "headline": "Tamil Nadu Government Formation LIVE: VCK To Take Call On Supporting Vijay's TVK Shortly",
               "url": "https://www.ndtv.com/india-news/tamil-nadu-government-formation-new-cm-announcement-live-updates-vijay-tvk-government-congress-aiadmk-dmk-pact-bjp-governor-tamil-nadu-election-result-11465061#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Ahmedabad Air India crash: Minister says probe in final stage, report expected next month",
-          "neutralSummary": "Ahmedabad Air India crash: Minister says probe in final stage, report expected next month",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Air India Plane Crash Probe In Final Stage, Report Likely In A month: Minister",
-              "url": "https://www.ndtv.com/india-news/air-india-plane-crash-probe-in-final-stage-report-likely-in-a-month-minister-ram-mohan-naidu-11467610#publisher=newsstand"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Ahmedabad Air India crash: Minister says probe in final stage, report expected next month",
-              "url": "https://timesofindia.indiatimes.com/india/ahmedabad-air-india-crash-minister-says-probe-in-final-stage-report-expected-next-month/articleshow/130960392.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Nashik court sends TCS case accused Nida Khan to police custody till May 11 in harassment probe",
-          "neutralSummary": "Nashik police is probing nine cases of molestation and harassment at the IT major's Nashik unit. They have arrested eight people so far.",
-          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Nashik court sends TCS case accused Nida Khan to police custody till May 11 in harassment probe",
-              "url": "https://www.hindustantimes.com/india-news/nashik-court-sends-tcs-case-accused-nida-khan-to-police-custody-till-may-11-in-harassment-probe-101778247938585.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "TCS case: Nida Khan held till May 11",
-              "url": "https://economictimes.indiatimes.com/news/india/tcs-sexual-harassment-forced-conversion-case-accused-nida-khan-sent-to-police-custody-till-may-11/articleshow/130961635.cms"
+              "headline": "‘Forgery’, ‘misinformation’: TVK vs AMMK over letter of support to Vijay amid Tamil Nadu government suspense",
+              "url": "https://www.hindustantimes.com/india-news/forgery-misinformation-tvk-vs-ammk-over-letter-of-support-to-vijay-amid-tamil-nadu-government-suspense-101778295015311.html"
             },
             {
               "political": "center",
@@ -888,40 +786,49 @@
               "source": "Today",
               "initials": "TD",
               "domain": "news.google.com",
-              "headline": "After weeks on the run, how TCS Nashik case accused Nida Khan was arrested",
-              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb3BCNWZ2Mmx4c2xreE9aLVU2WXlpeGZqMW5HbldyZV9HSmdTRnFiUFk3bXMzZFQ5YWpGTmlsSXA2SUdSYkhseGhnbGg2SzRXUjBvaTdGcmpaaDdPTnpjQWdVcktWdmYwRFd4QlZ0bUJ6MWZUTTYwazEtbUFPNjRCbHd6OFo4UElWN1ZZRnJuTkdtX3R3cVA1VV8yQllaYmhVN05pTkxQaXdJUVE2aWNfeGRHQmo3MXJ4a1JZc0pJOS1rREdNZGdsVNIBzgFBVV95cUxQNk9jMmdNM2lvTkI0QXdXb29YTFc2N0pBWW5hZFJscURvS0lfYTE2RWNvOHYzVjlDMVh1Y0IyVVlxT21odGxlUWVHUUtwaVZ3UW1HQk44RG1jX0E2VmZMSFhsRnY2VnZIdVY5TXhQckRTWDYwVno3cjQ4Y2IwbkVMM2cxLVZNTTFqNGlzR3JMOUZhRDgzbE5wVk9RRkdLRV9oQjNOa2N6M3dLMV84ZHVPM2RBQVh6d2R5cjR6UnF0VlZSTXVvbFc2OXFXQXoyZw?oc=5"
+              "headline": "Tamil Nadu Government Formation Live: Short of numbers Vijay unlikely to take oath today, Dhinakaran briefing at 11 am",
+              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWWsxSFpySTZCTmJ5Q0xCTlNjdkowVmdJUVJzemFBQXN1YzJqUUNtbDNGZTFoQlR0NVFFZUVsZFMzODJqal9qekxyM3NhaG1qN25nUWpuQnJvaEdMdnFfZ0FqNlNhbEN5UVpncS1xTWFZT1gxVWNtejIxZHA4TUlBc0sza3Ewa2p4amdFd3VRX1NpWGx4QjhFWEtWTDZEY3FIV2FuRjFfWjFlc0NBN3kxM05ibDBpV2JOaFFNM2l2TEloNjNHUXh5T2taNlJRMUVDS2Ria01qblNRR0l3UVZ5SWlTdG1uSjNiSk0yRkl2WHBpNENKRmVF?oc=5"
             }
           ]
         },
         {
-          "id": "india-5",
-          "neutralHeadline": "Tamil Nadu: Left extends support to Vijay’s TVK, but to 'continue to work' with DMK",
-          "neutralSummary": "TVK has got the support of Congress (5 seats), CPI (2) and CPM (2). TVK is likely to cross the magic number of 118 as it is expecting a positive response from the VCK leader, whose party has two MLAs.",
+          "id": "india-2",
+          "neutralHeadline": "West Bengal CM oath ceremony LIVE: Security tightened ahead of Suvendu Adhikari's swearing-in as Bengal CM",
+          "neutralSummary": "West Bengal CM oath ceremony LIVE: Adhikari, Bengal's first-ever BJP chief minister, is scheduled to take the oath on Saturday, coinciding with the birth anniversary of Nobel laureate Rabindranath Tagore.",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "optimistic",
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "CPI and CPI(M) tells Tamil Nadu Governor say their support is for stable secular government",
-              "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/cpi-and-cpim-express-unconditional-support-to-tamilaga-vettri-kazhagam-for-a-stable-government/article70955245.ece"
+              "headline": "West Bengal oath-taking LIVE: Suvendu Adhikari to take oath as first BJP CM today'; BJP leaders gather at Brigade Parade Ground",
+              "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-oath-taking-new-government-formation-suvendu-adhikariswearing-in-as-first-bjp-cm-live-updates-may-9-2026/article70958048.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Soviet Leaders To Saffron Oath: At Kolkata Ground, A Turn In Bengal Politics",
+              "url": "https://www.ndtv.com/india-news/suvendhu-adhikari-chief-minister-oath-kolkata-brigade-parade-grounds-long-arc-from-left-bastion-to-bjps-gateway-to-power-11468310#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Tamil Nadu: Left extends support to Vijay’s TVK, but to 'continue to work' with DMK",
-              "url": "https://timesofindia.indiatimes.com/city/chennai/left-parties-extend-support-to-vijays-tvk-to-form-govt-but-to-continue-to-work-with-dmk-to-safeguard-the-states-interest-and-rights/articleshow/130961298.cms"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "West Bengal CM oath ceremony LIVE: Security tightened ahead of Suvendu Adhikari's swearing-in as Bengal CM",
+              "url": "https://www.hindustantimes.com/india-news/west-bengal-cm-oath-taking-ceremony-live-bjp-suvendu-adhikari-swearing-in-pm-modi-brigade-parade-ground-kolkata-101778287127035.html"
             }
           ]
         },
         {
-          "id": "india-6",
-          "neutralHeadline": "Operation Sindoor: China admits it provided support to Pakistan last year",
-          "neutralSummary": "China has for the first time publicly acknowledged providing on-ground technical assistance to Pakistan during India's Operation Sindoor last year. Chinese engineers from AVIC's Chengdu Aircraft Design and Research Institute were involved in ensuring Pakistani aircraft operated at full combat capabi",
+          "id": "india-3",
+          "neutralHeadline": "Lt Gen NS Raja Subramani named next CDS, Vice Adm Krishna Swaminathan new navy chief",
+          "neutralSummary": "Lt Gen (retd) NS Raja Subramani will also serve as the as Secretary to government of India, Department of Military Affairs.",
           "versions": [
             {
               "political": "left",
@@ -929,23 +836,157 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "For 1st Time, China Confesses On-Site Tech Support To Pak During Op Sindoor",
-              "url": "https://www.ndtv.com/world-news/operation-sindoor-india-china-pakistan-for-1st-time-china-confesses-on-site-tech-support-to-pak-during-op-sindoor-11468095#publisher=newsstand"
+              "headline": "Vice Admiral Krishna Swaminathan, Who Commanded INS Vikramaditya, Named New Navy Chief",
+              "url": "https://www.ndtv.com/india-news/vice-admiral-krishna-swaminathan-who-commanded-ins-vikramaditya-named-india-new-navy-chief-11469896#publisher=newsstand"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Operation Sindoor: China admits it provided support to Pakistan last year",
-              "url": "https://timesofindia.indiatimes.com/defence/news/operation-sindoor-china-admits-it-provided-support-to-pakistan-last-year/articleshow/130961248.cms"
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Lt Gen NS Raja Subramani named next CDS, Vice Adm Krishna Swaminathan new navy chief",
+              "url": "https://www.hindustantimes.com/india-news/lt-gen-ns-raja-subramani-named-next-cds-vice-adm-krishna-swaminathan-new-navy-chief-101778288519485.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Vice Admiral Swaminathan is India's new Navy Chief",
+              "url": "https://economictimes.indiatimes.com/news/defence/vice-admiral-krishna-swaminathan-appointed-as-new-navy-chief-admiral-tripathi-retires-may-31/articleshow/130969868.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Who is Lt General NS Raja Subramani, the next Chief of Defence Staff of India?",
+          "neutralSummary": "Lt Gen NS Raja Subramani, set to be the next CDS of India, last served as the 47th Vice Chief of Army Staff until July 2025, before retiring.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Meet Lieutenant General NS Raja Subramani, India's New Chief Of Defence Staff",
+              "url": "https://www.ndtv.com/india-news/meet-lieutenant-general-ns-raja-subramani-indias-new-chief-of-defence-staff-11469834#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Who is Lt General NS Raja Subramani, the next Chief of Defence Staff of India?",
+              "url": "https://www.hindustantimes.com/india-news/who-is-lt-general-ns-raja-subramani-the-next-chief-of-defence-staff-cds-of-india-101778299401248.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Government appoints Lt Gen NS Raja Subramani (Retd) as next Chief of Defence Staff",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQWljSFlmT2lRU2RCVk42R042c0Z4d0tOZmNiU0k5Yl83NG02RV95NVBmdFpRUG5RcHNhanJ5MzVfcU9LM0NwRHZvVms2Qkg3UmZvYnRDdy1IcUZ2aVZyanBaWEtYMHEyWjB6VWowandxbU1LMkNIQUVNRmc2d2lOVmhsV3huLTZxVXRTWklrT1Y1LUczWGJGUW1fNkR6YUpWbDFjYlNXcDItdGFTMGtOclZpSGo3bG9oOFdYY1RHM3lsc3NaaFc3YmVYZFJ5ZTdORmQ4a2J30gHcAUFVX3lxTE1wNHpXWlFjZlFZZUJqdFA5NVNndUd4bnBIUVBvbVBVMzVaSldvZmsyQVllV0ZBMWxNOElRLVVpakRrejlxSjR6bGwwamdiaVRZUTM0NUl5Qk4zX1M2TGFXVFN4NkJhemFZVFZGQThhYi1UZjBDcEFVTDdodlVPRzNUeUpWXzdpeE8wc3RTNHJjdW9WVFd2M3BSYmRWRWdheVl0elJGU1FhdnF3N3lrSUQ4cEFnLUZfM2xXdUI3T2U4cVJET2ZNaUpfZURRaE9RVUxZRks1bU1oSHQ3Sl8?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "ED raids Punjab Minister Sanjeev Arora, linked persons again",
+          "neutralSummary": "The action was taken under the criminal sections of the Prevention of Money Laundering Act (PMLA), the officials said",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "ED raids Punjab Minister Sanjeev Arora, linked persons again",
+              "url": "https://www.thehindu.com/news/national/punjab/enforcement-directorate-sanjeev-arora-punjab-minister-searches/article70958089.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "ED searches premises linked to minister Sanjeev Arora: ‘Punjab will never bow to Modi’s tactics,’ hits out Bhagwant Mann",
+              "url": "https://indianexpress.com/article/cities/chandigarh/ed-raids-sanjeev-arora-fake-gst-money-laundering-probe-10680590/"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "5+2+2+2-2: Why math is not mathing for TVK's Vijay to form Tamil Nadu govt",
+          "neutralSummary": "With the halfway mark at 118, the TVK has been scrambling for the additional 11 seats from smaller parties and former allies of the DMK-led alliance.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "S Gurumurthy Flags Rookie Mistake By Vijay's TVK That Led To Tamil Nadu High Drama",
+              "url": "https://www.ndtv.com/india-news/tvk-badly-advised-s-gurumurthy-on-how-vijay-scored-a-self-goal-tamil-nadu-vijay-tvk-government-formation-aiadmk-dmk-bjp-11470190#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "5+2+2+2-2: Why math is not mathing for TVK's Vijay to form Tamil Nadu govt",
+              "url": "https://www.hindustantimes.com/india-news/why-math-is-not-mathing-for-tvk-vijay-to-form-tamil-nadu-government-formation-congress-vck-ammk-iuml-support-101778298309306.html"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "West Bengal Government Formation LIVE: Suvendu Adhikari Named Next Chief Minister Of Bengal",
+          "neutralHeadline": "US-Iran War News LIVE Updates: Trump Expects Iran Reply 'Tonight' On Latest US Proposal",
+          "neutralSummary": "US-Iran War Live Updates:",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "US-Iran War News LIVE Updates: Trump Expects Iran Reply 'Tonight' On Latest US Proposal",
+              "url": "https://www.ndtv.com/world-news/us-iran-war-news-live-updates-ceasefire-violation-donald-trump-abbas-araghchi-tehran-peace-proposal-strait-of-hormuz-11465293#publisher=newsstand"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Indian seafarer dies in ‘unfortunate’ incident in the Gulf, says Dubai consulate",
+          "neutralSummary": "The consulate said that they are in touch with the owner of the ship and are ascertaining further details.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Indian Crew Member Killed In 'Unfortunate' Maritime Incident",
+              "url": "https://www.ndtv.com/india-news/indian-crew-member-killed-in-unfortunate-maritime-incident-11469246#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Indian seafarer dies in ‘unfortunate’ incident in the Gulf, says Dubai consulate",
+              "url": "https://www.hindustantimes.com/india-news/indian-seafarer-dies-in-unfortunate-incident-in-the-gulf-says-dubai-consulate-101778291763720.html"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "West Bengal Government Formation Highlights: Suvendu Adhikari Named Next Chief Minister Of Bengal",
           "neutralSummary": "West Bengal Government Formation LIVE Updates: Prime Minister Narendra Modi, Union Home Minister Amit Shah, BJP president Nitin Nabin, along with several Union ministers, are expected to attend the swearing-in ceremony.",
           "versions": [
             {
@@ -954,58 +995,17 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "West Bengal Government Formation LIVE: Suvendu Adhikari Named Next Chief Minister Of Bengal",
+              "headline": "West Bengal Government Formation Highlights: Suvendu Adhikari Named Next Chief Minister Of Bengal",
               "url": "https://www.ndtv.com/india-news/west-bengal-government-formation-new-cm-announcement-live-updates-tmc-mamata-banerjee-resignation-bjp-govt-suvendu-adhikari-aide-murder-agnimitra-paul-11465102#publisher=newsstand"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
+              "source": "BBC",
+              "initials": "BBC",
               "domain": "news.google.com",
-              "headline": "West Bengal government formation LIVE: Suvendu Adhikari meets Bengal Governor, stakes claim to form government",
-              "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNLUNibWJBSUV1YWZ6RGZkdXhwSXhLYVJfOVBmQ2lxbmpTcnVDdTB6QTRPRjVMemZ3aUtnME00VEdBM0lGbVZ2QUowMDdTaXk3bUZaRThEc3FDRjh5SWVrYk5vWVhrVDFacllWck1QOWZWeHZEV3hpeWdaR2dGbHVGWXlhQzFMWnpfM3lDRmVGcWtGX1lYVUtiNjJCZ0VNNXhGSm5ZT2RTakM4aUFrMEo2dVVYM1dlTjc2RnhMOTYxMmJfVlpvNFNoWExNUHhNN19BSV9Jazc5Nmo4d0FOLUtFTUZqMWZXUmphYU8wV3czeEIzczdMblZySkxUZmZQZlNWYWV0Y1FCSVlIZUR3NTF5bXpR0gGYAkFVX3lxTE03U2w4cHh0UXd3MXM0RWNEOGJ0U2hNeWxPR3E3TGs4YzFNVjZLSDl2eEZfX0k4ZFZzT1c3c1BXbGFYRWtkWC15UkRodExIRDMzUTdWdDRiYUxDMGhVNUlDcDVhWkRIMncxeC1pLWZfTUhKSjA4bEw4RG10ckk3REFhdUhwM1Juc3ozaDVmc0dWVC1kRkRnY1U4R3F4T3FyQVlWa0tLd0VQWm9CcURwcS1VYVV3eWZUWVV3SUpuNFNoZVNvd1kyakt6VTBoR1NSM3FXWC1kc0NtcjNSU1h2a1NTdFRuNl9US21YUm5RQ2U3ZzBRX1JJeDhjcjBZbTZGMUhQdlc4OXJiRk9oWGRjTjZjS1BWRzFCSFM?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Dumped For Vijay, DMK Doesn't Want To Sit With Congress In Lok Sabha Anymore",
-          "neutralSummary": "The DMK had also called the Congress a \"backstabber\".",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Dumped For Vijay, DMK Doesn't Want To Sit With Congress In Lok Sabha Anymore",
-              "url": "https://www.ndtv.com/india-news/kanimozhi-stalin-dmk-tamil-nadu-election-vijay-tvk-dumped-for-vijay-dmk-doesnt-want-to-sit-with-congress-in-lok-sabha-anymore-11467120#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "Rohit Sharma set for entertainment debut",
-          "neutralSummary": "Rohit Sharma set for entertainment debut",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Rohit Sharma to make ‘the biggest entertainment debut’ with a Sony LIV show. Watch",
-              "url": "https://indianexpress.com/article/entertainment/television/rohit-sharma-to-make-the-biggest-entertainment-debut-with-a-sony-liv-show-watch-10679851/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Rohit Sharma set for entertainment debut",
-              "url": "https://economictimes.indiatimes.com/industry/media/entertainment/rohit-sharma-set-for-entertainment-debut-on-sony-platforms/articleshow/130960684.cms"
+              "headline": "From trusted aide to biggest rival: Suvendu Adhikari set to become West Bengal chief minister",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qQjhwVUJnelI0cEhoQWxac1FFWEZjNVF3dENVZmg0YUJZX3p5S0J6b0lUY2IycWtJXzFaRnBGZ1E4eHhVY2liaDVtZEllMHdMXzh1UDVzQ01uZw?oc=5"
             }
           ]
         }
