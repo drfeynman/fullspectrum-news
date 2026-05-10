@@ -1,13 +1,65 @@
 {
-  "generatedAt": "2026-05-09T14:18:47.880019+00:00",
+  "generatedAt": "2026-05-10T05:28:59.101816+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Hantavirus-hit cruise ship heads for Canary Islands to evacuate passengers",
-          "neutralSummary": "Spanish authorities on Friday were preparing to receive more than 140 passengers and crew members on board a hantavirus-stricken cruise ship headed for the Canary Islands, where health officials have said they will perform careful evacuations. The vessel is expected to arrive Sunday at the Spanish i",
+          "neutralHeadline": "Putin says Ukraine war 'heading to an end' despite ceasefire violations",
+          "neutralSummary": "Russia and Ukraine on Saturday accused the other of violating a a three-day US-brokered ceasefire, which coincides with Russia's World War II victory celebrations. Russian President Vladimir Putin, however, asserted at a press conference later that evening that the war was \"heading to an end.\"",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Putin says he thinks Ukraine conflict 'coming to an end'",
+              "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "news.google.com",
+              "headline": "Vladimir Putin suggests Ukraine war is ‘coming to an end’ | Russia",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTZpTU5uSHV0ZDJZaWJNejZwRmdWQVByeFVqdTV2WG5WT2FaUk4xazhHMFZJMWVfRU9lbXRlUU5YT284aC12clNPRGhfSjhHQmota2JWVE5hV3hDenl1UHNFTFVnTmFWTUdRQUdOd0NMcjNrelpVNVNiYS1PNkdkZHRhT0dvWE5NSXZxQVdBNkJ4QUhndTdvb2FPbm9QOXZGTGxZ?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
+              "url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Putin says Ukraine war 'heading to an end' despite ceasefire violations",
+              "url": "https://www.france24.com/en/europe/20260509-russia-and-ukraine-trade-accusations-of-truce-violations"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Putin says he thinks the war with Ukraine 'is coming to an end' as Trump-brokered 3-day ceasefire begins",
+              "url": "https://www.foxnews.com/world/putin-says-thinks-war-ukraine-coming-end-trump-brokered-3-day-ceasefire-begins"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
+          "neutralSummary": "Argentina, where the MV Hondius cruise departed, consistently ranked by WHO as having highest incidence of hantavirus in regionOfficials and experts in Argentina are scrambling to determine if their country is the source of a deadly hantavirus outbreak that has gripped an Atlantic cruise ship, amid",
           "versions": [
             {
               "political": "left",
@@ -28,13 +80,13 @@
               "url": "https://www.huffpost.com/entry/hantavirus-global-pandemic-spread-who_n_69fc9a9be4b0cb033e4fe620"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Hantavirus-hit cruise ship heads for Canary Islands to evacuate passengers",
-              "url": "https://www.france24.com/en/video/20260509-hantavirus-hit-cruise-ship-heads-for-canary-islands-to-evacuate-passengers"
+              "source": "CNN",
+              "initials": "CNN",
+              "domain": "news.google.com",
+              "headline": "Hantavirus-hit cruise ship approaches Tenerife, passengers expected to return home",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWlQaHNoaWNyYk5NYjBWRFQyQ3VjdGR5QjJCNnJhSnZOYldPS2pzQnVCa1d0ZzRmRVVYWE9GeGJiUjltNXlULUpKT3RLZ3ZVVEZTMFBUamdEX3lZNVZhUzlBbnRfaHBVQ0pmOWx4LUZMRGE2cGVHcmkxSHdINWZYTEFqeGpxTTg5M1VzRXpB?oc=5"
             },
             {
               "political": "right",
@@ -44,167 +96,22 @@
               "domain": "foxnews.com",
               "headline": "Argentina investigators zero in on possible origin point of hantavirus in deadly cruise outbreak",
               "url": "https://www.foxnews.com/world/argentina-investigators-zero-possible-origin-point-hantavirus-deadly-cruise-outbreak"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "‘Patient Zero’ in deadly hantavirus cruise ship outbreak was Dutch ornithologist Leo Schilperoord",
-              "url": "https://nypost.com/2026/05/09/world-news/hantavirus-patient-zero-was-dutch-ornithologist-leo-schilperoord/"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Russia marks Victory Day with scaled-back parade",
-          "neutralSummary": "Russian President Vladimir Putin on Saturday voiced confidence of victory in Ukraine as he oversaw a military parade on Red Square commemorating the defeat of Nazi Germany in World War II. But this year, for the first time in nearly two decades, the parade took place without tanks, missiles and othe",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Putin denounces Nato at scaled back Victory Day parade",
-              "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Russia holds downsized Victory Day parade",
-              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yaTFmV2JfWkphRWRWTzMxYmlMbW5fZGQyS3BnUFEtZUpQWGNqa3g1UGo3d1dnYzNQYnhDSWw5M3lBUWpmS25FdUc4NXR0R1d0dEFPeHB2aDlzVnFGb0FKVTA1S3VzTFNuQ2w3b2phajZ0SDJWVlVRQXR2a041TDDSAYQBQVVfeXFMT0c3Z3dHSzlyeWhTbS1fVzdIM2xzTUlxWXpLM2l1aWdmMV9MQ0huWUNLUTFaa3l0Ri1fd29iZUdvV2pLaUgwcV9UT1hVa1VwREZvYTdxaHB3dks4eHVVME1NOXM5czB3c0V6VkJwUTFYTHBMUUhFU2UzTXZOSWt5QXQzaHhB?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Russia marks Victory Day with scaled-back parade",
-              "url": "https://www.france24.com/en/russia-marks-victory-day-with-scaled-back-parade"
             }
           ]
         },
         {
           "id": "global-3",
-          "neutralHeadline": "Three hikers dead after Indonesia’s Mount Dukono volcano erupts",
-          "neutralSummary": "Two Singaporeans and a local person were in no-go zone when they were killed, say officialsThree hikers – two Singaporeans and an Indonesian – have died in an eruption of Indonesia’s Mount Dukono volcano, where they found themselves in a no-go zone, officials said.The eruption, on Halmahera island,",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Three hikers dead after Indonesia’s Mount Dukono volcano erupts",
-              "url": "https://www.theguardian.com/world/2026/may/08/hikers-dead-missing-eruption-indonesia-mount-dukono-volcano"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Three dead after volcano erupts on Indonesian island",
-              "url": "https://www.bbc.com/news/articles/cp3p418x513o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Indonesia volcano kills three hikers, two remain unaccounted for",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW9EeW1EU1JoQVpMdHNKRHpLNmUyOEpiTzZCbF9ZbG1uNVZqMHE1bTd2cENHSlpCaFpDRUoyR256eU9TYjYwV3Y0dTR0X05yd0sxYXJkV3RJZEhGVjh6ZkNLVjdBY1pGbmRpMDh6U2RWUW1zQlVTZlAyV1lCdHV1SlllT1huZmoyRjFMaFY4WkZyT3dWUi1wNmFkZzVzd0RpNXp6OHZwUTcwc0N10gGyAUFVX3lxTFB6MFNJeWtFRnNKUmFLZE4zVXZ1ZTJ0eUZ5eHA4dl96cW91cWZSM1otUXZGaWdyZDdRTy1IYUdRSE4zeTlfc1N0N2FwVlFJM1JkRWkzbjIzMC1hWF9LQlQtWTRuenBNSzZ5SXE3N1VUbndnbm9ocGFNOVhLT3BPelRHYWliRENfS1lBd0ZnVlBjWmtzNHBuLXoyU1huYXJ3VzRtTVc3RF9XbWRNRHNnUzcxY3c?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "What to know about British elections that hammered Starmer’s Labour Party",
-          "neutralSummary": "What to know about British elections that hammered Starmer’s Labour Party&nbsp;&nbsp;AP NewsBritain’s Electorate Is ‘Splintering.’ Can Its System Stand the Strain?&nbsp;&nbsp;The New York TimesUK PM Starmer says he plans to remain in office despite crushing local elections defeat&nbsp;&nbsp;CNBCAn E",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "British Voters Have Spoken In Local Elections Seen As A Verdict On Keir Starmer's Leadership",
-              "url": "https://www.huffpost.com/entry/britain-elections_n_69fc574fe4b065a1677c2b0f"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "What to know about British elections that hammered Starmer’s Labour Party",
-              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNTF6NmxITVhpYzZwbFlvVGNlcmtJcmhWZG5RZkdSQUtVeUQ3ZWl0bjNGNWh0YVNOdWo1cThrNUpQYnMyU3BjM1p4c2NfeEJUTHctRzI5WHFseFlIWUsxdmV3TnEwclJpZUlEcE55Y1k3Ql96OW1oOXl6d09JSE1hZVc1bUp1Q0FuSy1QMzVXLWc2dDJrOEF0andheDBuSlR0N0E?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "UK local elections: \"Starmer must address voters' frustration over change\"",
-              "url": "https://www.france24.com/en/tv-shows/spotlight/20260509-uk-local-elections-starmer-must-address-voters-frustration-over-change"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Hungary’s Magyar set to be sworn in as new prime minister",
-          "neutralSummary": "Hungary's incoming prime minister, Peter Magyar, arrived Saturday at the Parliament building to be sworn into office, ending Viktor Orban's autocratic 16-year rule. RFI Correspondent Florence Le Bruyère reports from Budapest.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Hungary's new PM sworn in during 'regime change' party",
-              "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "news.google.com",
-              "headline": "Péter Magyar sworn in as Hungary’s prime minister to end 16-year Orbán era",
-              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSjdLMHp2dzh6V0tWQzQydFkteTRMODZueU9FTjVZQjJhOEg1M29XUXhkQWtTcWdkaFZseU16MG51SHNEdFRUNkFFOVI0cTRpN0M5NUtabTRDNFJMakxpNm01dmllbDZFb2VHc3lWVGNKbUxnOUItVW1tNGdjYU90bW1TZktTdUJzSE0wc0hqVlUyU1ZxRWpwTEJoRmNuQnNfcWp4Ng?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Hungary’s Magyar set to be sworn in as new prime minister",
-              "url": "https://www.france24.com/en/hungary-s-magyar-set-to-be-sworn-in-as-new-prime-minister"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
           "neutralHeadline": "'Clean break' with Orban: Hungary's Magyar to usher in 'new era'",
           "neutralSummary": "Hungary's incoming prime minister Pater Magyar is marking a \"clean break\" with his predecessor Viktor Orban as he is set to be sworn into office on Saturday. \"It's officially a new era\", said Zsolt Kerner, senior reporter at Hungarian online media 24.hu. Magyar was previously a member of Orban's Fid",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Peter Magyar sworn in as Hungary’s PM, ending Orban’s 16 years in power",
-              "url": "https://www.aljazeera.com/news/2026/5/9/peter-magyar-sworn-in-as-hungarys-pm-ending-orbans-16-years-in-power?traffic_source=rss"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "news.google.com",
+              "headline": "Peter Magyar Takes Over as Hungary’s Leader From Viktor Orban",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT25oY3c3Y1BBOEF5TGFuNGZBdlhkdTdMSEl5SF93VkhSX1lXT2RXby1lV3VLNS1UdlhQMFFSUERXM0xCaHdBV1FubnJBdHF6aVpqQWd1R09XNjVsVTNxUVQ1V3pWVUpXRFFQMXdPX0tPLVpQMnFzcXl5ODRySlZYLTFmMmJ3SnVUZUoxYkdwNA?oc=5"
             },
             {
               "political": "center",
@@ -218,7 +125,7 @@
           ]
         },
         {
-          "id": "global-7",
+          "id": "global-4",
           "neutralHeadline": "Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital",
           "neutralSummary": "Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in NetherlandsWhat is hantavirus?Two Britons who were medically evacuated from the hantavirus-hit cruise ship are improving, global health officials have said.A British passenger, understood to be",
           "versions": [
@@ -243,7 +150,7 @@
           ]
         },
         {
-          "id": "global-8",
+          "id": "global-5",
           "neutralHeadline": "Three evacuated from hantavirus-hit ship as Spain says vessel can dock",
           "neutralSummary": "British guide Martin Anstee among those evacuated from MV Hondius, which is now heading for Canary IslandsExplainer: What is hantavirus?Three people with suspected hantavirus have been medically evacuated from a cruise ship.They include a British man who was an expedition guide onboard the ship, the",
           "versions": [
@@ -268,27 +175,93 @@
           ]
         },
         {
-          "id": "global-9",
-          "neutralHeadline": "Trump's feuds, tensions with allies likely to outlast Iran war",
-          "neutralSummary": "Trump's feuds, tensions with allies likely to outlast Iran war&nbsp;&nbsp;ReutersThe Real Cost of Withdrawing U.S. Troops From Germany&nbsp;&nbsp;The AtlanticTrump says US will reduce number of troops in Germany 'a lot further' than withdrawal of 5,000&nbsp;&nbsp;AP NewsPoland Says It’s Open to More",
+          "id": "global-6",
+          "neutralHeadline": "Indonesian rescuers retrieve body from Mount Dukono as search continues",
+          "neutralSummary": "Woman recovered after volcanic eruption on remote island, while operation to find two missing Singaporeans goes onRescuers have recovered the body of an Indonesian woman who was caught in a volcanic eruption on Mount Dukono on Indonesia’s remote island of Halmahera, officials have said.Search operat",
           "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Trump's feuds, tensions with allies likely to outlast Iran war",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa251MDhvbXRkZmpQYmxzZWpzdU9fLV91cW8taTJibUZkOEItUHVLMWZTbGcwZS1zdmVpbnZVdlpCMWdaNVdHdnRfbTZ0YWo5dkkya0UwZWF3Y01jR2Z3Zm1hQU1nQXNaOC1CZ1E2RkViemZ0VzVIV3lzLTN6RWJSNXowRjIwOXd5WEpRVU94UDVyZEd1SmFpZGd0OHVwZnFQM0F0RktYRHY?oc=5"
-            },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "The war on Iran will likely end in American retreat",
-              "url": "https://www.aljazeera.com/opinions/2026/5/9/the-war-on-iran-will-likely-end-in-american-retreat?traffic_source=rss"
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Indonesian rescuers retrieve body from Mount Dukono as search continues",
+              "url": "https://www.theguardian.com/world/2026/may/09/indonesia-volcano-mount-dukono-search-bodies-recovered"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
+          "neutralHeadline": "U.K. Prime Minister Keir Starmer faces calls to resign after disastrous local elections",
+          "neutralSummary": "U.K. Prime Minister Keir Starmer faces calls to resign after disastrous local elections&nbsp;&nbsp;CBS NewsAn Epic Collapse for Britain’s Labour Party&nbsp;&nbsp;The American ProspectBritain’s Electorate Is ‘Splintering.’ Can Its System Stand the Strain?&nbsp;&nbsp;The New York TimesLabour MPs have",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Starmer Says He Won't Resign Despite His Party's Disastrous Election Night",
+              "url": "https://www.huffpost.com/entry/farage-starmer-uk-local-elections_n_69fda0ebe4b065a1677d9040"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "U.K. Prime Minister Keir Starmer faces calls to resign after disastrous local elections",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjNGOGRtaU15VjVPVmtBanhrWjZYLXBveXVHR080b3d2ZDNlc1ZfV2VRWHdVNTRlbVdCV0VHTkU4OFU2amd3SG9zeGw3eHd2MldBTGd1ekZJcExOOWZ0UUE4QjRoaEZxeXowLVgyN0lsNnBhZ0JkRzd6MHpTMllmWHBIMG1VNWc3T0g1X9IBkgFBVV95cUxNc2N6SWpEMENzejZOUTdXRXJpSjZfZFM4aWkxUWIwYVlUOG5lazFucFB6YkZucUFQOXA3dXozVDhzYlpkV2lvX2NmODRkbmRKU2xIdFY4aUJnVGZEaFRSZmZfLUN0MUgtNTlSSzlwY055QlQ5ZmtLcmtRUWhpWS1UamlaUXlCN3JxNTBBS3JBcjZNUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Health Officials Downplay Pandemic Risk From Cruise Hantavirus Outbreak",
+          "neutralSummary": "The deadly hantavirus outbreak on a cruise ship doesn’t risk triggering the next pandemic, World Health Organization officials said, downplaying an incident that has raised concern about a new viral contagion. Former White House COVID Response Coordinator and Infectious Disease Expert Dr. Ashish Jha",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Health Officials Track Dozens Who Left Hantavirus-Stricken Ship After First Fatality",
+              "url": "https://www.huffpost.com/entry/dozens-passengers-left-hantavirus-stricken-cruise-ship-after-1st-fatality_n_69fc8ee1e4b0cb033e4fd0b5"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Health Officials Downplay Pandemic Risk From Cruise Hantavirus Outbreak",
+              "url": "https://www.bloomberg.com/news/videos/2026-05-09/health-officials-downplay-risk-from-hantavirus-outbreak-video"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "UK local elections: \"Starmer must address voters' frustration over change\"",
+          "neutralSummary": "Britain’s Prime Minister Keir Starmer is under growing pressure after Labour suffered major setbacks in local elections across England, while also struggling in Wales and Scotland as Reform UK continued to gain support. The results have raised fresh questions about Starmer’s leadership less than a y",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "British Voters Have Spoken In Local Elections Seen As A Verdict On Keir Starmer's Leadership",
+              "url": "https://www.huffpost.com/entry/britain-elections_n_69fc574fe4b065a1677c2b0f"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "UK local elections: \"Starmer must address voters' frustration over change\"",
+              "url": "https://www.france24.com/en/tv-shows/spotlight/20260509-uk-local-elections-starmer-must-address-voters-frustration-over-change"
             }
           ]
         }
@@ -299,8 +272,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Virginia Supreme Court Rejects Redistricting Measure, Hands GOP Major Win",
-          "neutralSummary": "The state's high court ruled Democrats failed to follow proper procedure when advancing a constitutional amendment to change map lines, dealing a blow to the party's hopes of flipping the U.S. House.",
+          "neutralHeadline": "Harris says Dems ‘rightfully outraged’ after Virginia Supreme Court tosses new map",
+          "neutralSummary": "Former Vice President Kamala Harris said on Friday that Democrats are justified in their anger about the Virginia Supreme Court’s decision this week to strike down a new congressional map.&#160; “Today, the Virginia Supreme Court ignored the will of the people and overturned those democratically cho",
           "versions": [
             {
               "political": "left",
@@ -319,22 +292,49 @@
               "domain": "npr.org",
               "headline": "Southern Republicans redistrict after Supreme Court rules, Dems lose big in Virginia",
               "url": "https://www.npr.org/2026/05/09/nx-s1-5812908/trump-midterms-redistricting-election"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Harris says Dems ‘rightfully outraged’ after Virginia Supreme Court tosses new map",
+              "url": "https://thehill.com/homenews/campaign/5871200-kamala-harris-outraged-virginia-redistricting-decision/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Harris accuses Trump allies of trying to ‘rig’ 2026 midterms after Virginia court tosses redistricting measure",
+              "url": "https://www.foxnews.com/politics/harris-accuses-trump-allies-trying-rig-2026-midterms-virginia-court-tosses-redistricting-measure"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "In Legal Dispute Over 'The View,' ABC Argues Trump Administration Is Trying To Chill Free Speech",
-          "neutralSummary": "ABC is accusing the Trump administration of trying to chill free speech and hinder open political discussion.",
+          "neutralHeadline": "Bobby Cox, One of Baseball’s Top Managers, Dies at 84",
+          "neutralSummary": "He led the Atlanta Braves to victory in the 1990s and was later inducted into the Baseball Hall of Fame for his leadership.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "In Legal Dispute Over 'The View,' ABC Argues Trump Administration Is Trying To Chill Free Speech",
-              "url": "https://www.huffpost.com/entry/media-abc-fcc-the-view-trump_n_69fea231e4b0cb033e51e8ad"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Bobby Cox, One of Baseball’s Top Managers, Dies at 84",
+              "url": "https://www.nytimes.com/2026/05/09/us/bobby-cox-dead.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Bobby Cox, Hall of Fame manager of Atlanta Braves, dies at 84",
+              "url": "https://www.washingtonpost.com/obituaries/2026/05/09/bobby-cox-braves-manager-dead/"
             },
             {
               "political": "left",
@@ -342,8 +342,8 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "ABC argues Trump administration is trying to chill free speech",
-              "url": "https://www.npr.org/2026/05/09/nx-s1-5816844/abc-trump-administration-free-speech"
+              "headline": "Bobby Cox, Hall of Fame manager of Atlanta Braves, dies at age 84",
+              "url": "https://www.npr.org/2026/05/09/g-s1-121311/bobby-cox-atlanta-braves-dies"
             }
           ]
         },
@@ -374,33 +374,24 @@
         },
         {
           "id": "us-4",
-          "neutralHeadline": "Virginia redistricting ruling deals blow to Democrats’ midterm hopes",
-          "neutralSummary": "The Virginia Supreme Court&#160;on Friday dealt a blow to Democrats’ hopes of flipping the House this fall,&#160;throwing out&#160;the&#160;redistricting referendum that&#160;was set to give&#160;Democrats a&#160;midterm boost.&#160;&#160; The Virginia court’s decision invalidates the state’s newly",
+          "neutralHeadline": "Kristin Smart Search Ends Without Recovery of Remains at California Property",
+          "neutralSummary": "A new lead brought investigators back to a property just south of San Luis Obispo, Calif., tied to the family of the man convicted of killing Ms. Smart, a student, 30 years ago.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Virginia Supreme Court Strikes Down Democrats’ Redistricting Plan, Dimming Party’s Midterm Hopes",
-              "url": "https://www.huffpost.com/entry/virginia-redistricting_n_69fdf0b5e4b065a1677dda6c"
-            },
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Virginia redistricting ruling deals blow to Democrats’ midterm hopes",
-              "url": "https://thehill.com/homenews/campaign/5870573-democrats-virginia-redistricting-setback/"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Kristin Smart Search Ends Without Recovery of Remains at California Property",
+              "url": "https://www.nytimes.com/2026/05/09/us/kristin-smart-search-no-remains-recovered-california-property.html"
             }
           ]
         },
         {
           "id": "us-5",
-          "neutralHeadline": "Frontier Jet Hits Person on Runway During Takeoff at Denver Airport",
-          "neutralSummary": "The plane reported an engine fire and aborted its takeoff. Those on board were safely evacuated.",
+          "neutralHeadline": "11 people injured, taken to hospitals after boat explosion near Miami",
+          "neutralSummary": "11 people injured, taken to hospitals after boat explosion near Miami&nbsp;&nbsp;AP News11 people hospitalized after possible boat explosion at Haulover Beach, fire rescue says&nbsp;&nbsp;NBC 6 South FloridaSuspected boat explosion injures 11 in Miami&nbsp;&nbsp;BBCAt Least 13 Injured in ‘Possible B",
           "versions": [
             {
               "political": "left",
@@ -408,24 +399,24 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Frontier Jet Hits Person on Runway During Takeoff at Denver Airport",
-              "url": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html"
+              "headline": "At Least 13 Injured in ‘Possible Boat Explosion’ in Florida, Officials Say",
+              "url": "https://www.nytimes.com/2026/05/09/us/boat-explosion-miami-beach.html"
             },
             {
-              "political": "right",
+              "political": "center",
               "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Frontier flight hits and kills person walking across runway in Denver",
-              "url": "https://www.washingtonexaminer.com/policy/infrastructure/4561762/frontier-flight-hits-kills-person-walking-across-runway-denver-airport/"
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "11 people injured, taken to hospitals after boat explosion near Miami",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWlzcU1WYTJmekVnMHNEb25TOUQ4RjV3U05HZWhnazZVRy1VdHhxMkptcHliVGNGQWRkSUdiRkJZdks4YUJ2SWF5QXE0bjdtTkJYQzZrVW5OblBXclVwbFZ4NG1BZVVndWpvQ29fOG4yc2JaR253WGhib2VGeDMzSDJINGpPV1U?oc=5"
             }
           ]
         },
         {
           "id": "us-6",
-          "neutralHeadline": "Judge Rejects Defense Plea to Ban Cameras in Charlie Kirk Trial",
-          "neutralSummary": "The judge ruled on Friday that defense lawyers for Tyler Robinson had failed to prove that Utah law would support a blanket ban on news cameras.",
+          "neutralHeadline": "Jeffries still confident Democrats will take back House after Virginia redistricting ruling",
+          "neutralSummary": "House Minority Leader Hakeem Jeffries (D-N.Y.) expressed confidence on Saturday that Democrats can still win back the House of Representatives, despite a recent redistricting loss in Virginia.  “We’re going to take back control of the House of Representatives,” Jeffries told MS NOW&#8217;s Ali Velsh",
           "versions": [
             {
               "political": "left",
@@ -433,24 +424,24 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Judge Rejects Defense Plea to Ban Cameras in Charlie Kirk Trial",
-              "url": "https://www.nytimes.com/2026/05/08/us/tyler-robinson-charlie-kirk-cameras.html"
+              "headline": "Redistricting Ruling in Virginia Adds to Gov. Abigail Spanberger’s Headaches",
+              "url": "https://www.nytimes.com/2026/05/09/us/politics/virginia-redistricting-democrats-abigail-spanberger.html"
             },
             {
-              "political": "right",
+              "political": "center",
               "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Judge Rules On Cameras In Charlie Kirk Murder Trial",
-              "url": "https://www.dailywire.com/news/judge-rules-on-cameras-in-charlie-kirk-murder-trial"
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Jeffries still confident Democrats will take back House after Virginia redistricting ruling",
+              "url": "https://thehill.com/homenews/house/5871116-jeffries-confident-midterms-virginia-redistricting-ruling/"
             }
           ]
         },
         {
           "id": "us-7",
-          "neutralHeadline": "Trump hopes for ‘big extension’ on Russia-Ukraine ceasefire",
-          "neutralSummary": "President Trump said on Friday that he hopes a temporary ceasefire between Russia and Ukraine will be extended beyond the announced three days, after the two countries agreed to halt fighting through the weekend. “I’d like to see a big extension,” Trump told The Hill’s sister network NewsNation afte",
+          "neutralHeadline": "Pedestrian killed after being struck by Frontier Airlines plane taking off in Denver",
+          "neutralSummary": "Pedestrian killed after being struck by Frontier Airlines plane taking off in Denver&nbsp;&nbsp;PBSFrontier Airlines jet bound for LAX hits, kills person on runway during takeoff at Denver International Airport&nbsp;&nbsp;ABC7 Los AngelesFlight from DIA aborts takeoff after hitting, killing pedestri",
           "versions": [
             {
               "political": "left",
@@ -458,49 +449,24 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire",
-              "url": "https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire"
+              "headline": "Frontier Airlines plane strikes and kills pedestrian",
+              "url": "https://www.npr.org/2026/05/09/g-s1-121305/frontier-airlines-plane-strikes-and-kills-pedestrian"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump hopes for ‘big extension’ on Russia-Ukraine ceasefire",
-              "url": "https://thehill.com/homenews/administration/5870737-trump-hopes-russia-ukraine-ceasefire-extension/"
+              "source": "PBS",
+              "initials": "P",
+              "domain": "news.google.com",
+              "headline": "Pedestrian killed after being struck by Frontier Airlines plane taking off in Denver",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenRvRXdYZS11cU9aWmdGR2tHeTB3dEN1OVhnQmVLQWNtR09MYjd3ajc5YjczUUduam9TSDFtVE9keXpUcy1tOUxtQ1c2VnVwb0toZjl3SlZDcTI2eVU2bVJCektiamd3aGNMZlo1UHFZSmhWLWNfbG85bXVWMUs3SFB3akhMVnRkV0ZGT005Y2FEaVZQT0p1WEZLYjNVMFRxMzZjQW9rU3Ayd09lNG1FUU0tTWNFTWEzcW5DNQ?oc=5"
             }
           ]
         },
         {
           "id": "us-8",
-          "neutralHeadline": "Live Updates: U.S. fires on 2 Iran-flagged tankers as U.S. awaits response on peace deal",
-          "neutralSummary": "Live Updates: U.S. fires on 2 Iran-flagged tankers as U.S. awaits response on peace deal&nbsp;&nbsp;CBS NewsIran War Live Updates: Attacks Test Fragile Cease-Fire Amid U.S-Iran Negotiations&nbsp;&nbsp;The New York TimesA fragile ceasefire holds as U.S. awaits Iran response, Bahrain detains dozens&nb",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Live Updates: U.S. fires on 2 Iran-flagged tankers as U.S. awaits response on peace deal",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmMzLVFDbWpCaVlOZFB6LUhDN3NMQl9hZ0VrRUxkRWRnWXZKbnBCR0FjZXRaUTBscDM3NnZaemdqcVMwYTFLa0ZvMVhOX202d2p1WWh5RUNMcEtEM1ozM1BVcE0wbENNd0pWeGItUUhwc1ktUElTNGZNMU1ZZGJqSWhXc2VnMEIzeEtVMDNQVdIBlAFBVV95cUxQU0xmeWl4aUpGZ0ROa2RLVkc0VmJia0tXczV0d0hrVXdfUVZ6ZEY2LWVmbFhVNUNwTlNvQ1lfanZ3aENZbmFUYzZvUERZQTJzN2JhNVhiQklzZTlXQW95T3d5anhybzdCVVFwTG00akM2bzJ0R0IwYk9rREJzTXNzVktLN0s1UjV6Q1FJZ09fZDNvVlJR?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "news.google.com",
-              "headline": "US awaiting response from Iran over proposals for ceasefire deal, says Rubio",
-              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVkwelMtbEU0cDlZQTdoZVBVRU5NSE5ta2JZejN3RlE1NU5IWE9fNTIwVXcxbWhSalJhRTlRMS1tMldva0xMRFF4SVZIMVJNamhaa2Zhd2o0WnhBZVJJc2I5bVhTeTVtR1MtUmpyZnhlX3NGbF9rWXBzblZ2YlFGSlFZZC1xMkNqY0VTRTBpOU9UMnVtdGcwLWVJcTE1NURt?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Péter Magyar sworn in as Hungary’s prime minister to end 16-year Orbán era",
-          "neutralSummary": "Péter Magyar sworn in as Hungary’s prime minister to end 16-year Orbán era&nbsp;&nbsp;The GuardianHungary's new PM to be sworn in during 'regime change' party&nbsp;&nbsp;BBCPeter Magyar Prepares to Take Over as Hungary’s Leader From Viktor Orban&nbsp;&nbsp;The New York TimesPéter Magyar Led Hungaria",
+          "neutralHeadline": "Vladimir Putin suggests Ukraine war is ‘coming to an end’ | Russia",
+          "neutralSummary": "Vladimir Putin suggests Ukraine war is ‘coming to an end’ | Russia&nbsp;&nbsp;The GuardianPutin says he believes Ukrainian conflict nearing end amid scaled-down Victory Day celebrations&nbsp;&nbsp;CBS NewsPutin says Ukraine war 'heading to an end' despite ceasefire violations&nbsp;&nbsp;France 24Put",
           "versions": [
             {
               "political": "left",
@@ -508,8 +474,8 @@
               "source": "The Guardian",
               "initials": "TG",
               "domain": "news.google.com",
-              "headline": "Péter Magyar sworn in as Hungary’s prime minister to end 16-year Orbán era",
-              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSjdLMHp2dzh6V0tWQzQydFkteTRMODZueU9FTjVZQjJhOEg1M29XUXhkQWtTcWdkaFZseU16MG51SHNEdFRUNkFFOVI0cTRpN0M5NUtabTRDNFJMakxpNm01dmllbDZFb2VHc3lWVGNKbUxnOUItVW1tNGdjYU90bW1TZktTdUJzSE0wc0hqVlUyU1ZxRWpwTEJoRmNuQnNfcWp4Ng?oc=5"
+              "headline": "Vladimir Putin suggests Ukraine war is ‘coming to an end’ | Russia",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTZpTU5uSHV0ZDJZaWJNejZwRmdWQVByeFVqdTV2WG5WT2FaUk4xazhHMFZJMWVfRU9lbXRlUU5YT284aC12clNPRGhfSjhHQmota2JWVE5hV3hDenl1UHNFTFVnTmFWTUdRQUdOd0NMcjNrelpVNVNiYS1PNkdkZHRhT0dvWE5NSXZxQVdBNkJ4QUhndTdvb2FPbm9QOXZGTGxZ?oc=5"
             },
             {
               "political": "right",
@@ -517,8 +483,33 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Hungary’s Peter Magyar is set to be sworn in as prime minister, ending Viktor Orban’s 16-year rule",
-              "url": "https://www.washingtonexaminer.com/news/world/4561797/hungary-peter-magyar-sworn-in-prime-minister-ending-viktor-orban-rule/"
+              "headline": "Putin thinks Ukraine war ‘coming to an end’ as three-day ceasefire goes into effect",
+              "url": "https://www.washingtonexaminer.com/news/world/4562051/putin-thinks-war-coming-to-end-ceasefire-into-effect/"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "CBS bows to pressure from Spencer Pratt over its ‘comical’ campaign coverage",
+          "neutralSummary": "CBS released its full interview with Los Angeles mayoral candidate Spencer Pratt hours after the candidate implored them to go beyond the digital article they released about him.",
+          "versions": [
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "CBS bows to pressure from Spencer Pratt over its ‘comical’ campaign coverage",
+              "url": "https://nypost.com/2026/05/09/us-news/cbs-bows-to-pressure-from-spencer-pratt-over-its-comical-campaign-coverage/"
+            },
+            {
+              "political": "right",
+              "tone": "optimistic",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Spencer Pratt Says There’s Only One Group Standing In His Way",
+              "url": "https://www.dailywire.com/news/spencer-pratt-says-theres-only-one-group-standing-in-his-way"
             }
           ]
         }
@@ -529,8 +520,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "2 Singaporeans dead after sports car crashes and goes up in flames on road to Mersing",
-          "neutralSummary": "The victims were the 34-year-old driver of the vehicle and a 33-year-old woman passenger.",
+          "neutralHeadline": "More cleaners hired in Tampines after cleaning lapses; town council penalises contractor",
+          "neutralSummary": "Tampines Town Council had received a higher volume of feedback relating to cleanliness in April.",
           "versions": [
             {
               "political": "center",
@@ -538,15 +529,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "2 Singaporeans dead after sports car crashes and goes up in flames on road to Mersing",
-              "url": "https://www.straitstimes.com/singapore/2-singaporeans-dead-after-sports-car-crashes-and-goes-up-in-flames-on-road-to-mersing"
+              "headline": "More cleaners hired in Tampines after cleaning lapses; town council penalises contractor",
+              "url": "https://www.straitstimes.com/singapore/housing/more-cleaners-hired-in-tampines-after-cleaning-lapses-town-council-penalises-contractor"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Teen arrested after scuffle with Amos Yee outside Suntec Singapore anime fest area",
-          "neutralSummary": "The 18-year-old was arrested for causing public nuisance.",
+          "neutralHeadline": "About 25 shops affected by flooding caused by water-pipe leak in Yishun; clean-up, repairs ongoing",
+          "neutralSummary": "PUB said there is no disruption to water supply for homes and businesses in the area.",
           "versions": [
             {
               "political": "center",
@@ -554,40 +545,31 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Teen arrested after scuffle with Amos Yee outside Suntec Singapore anime fest area",
-              "url": "https://www.straitstimes.com/singapore/teen-arrested-after-allegedly-attacking-amos-yee-near-suntec-singapore-anime-convention"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Teen arrested over alleged assault on Amos Yee at Suntec City",
-              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFlVLTRabVpjRXlxc3p5N3llRzlhTFc1VmtMdlVCUzVLbXJldll2OEx2RGNYMTYwY00wYmUwZ3JjVUZqVDkzVC1Wb3hfWnpVa25HMUJkeGpyOXAyWC1kZFkxS3lROFRhai11Y0lrOVJSMnkzUzFtTUpaYnZzYzNhdlJfYnBveWRMcWh6RnN6MWR4TmRTZGh2S3dnYXNEMmt2NXRRTzdjV28zN2hMcGpoVDNjTmN3ZVRnY1E2RC12TQ?oc=5"
+              "headline": "About 25 shops affected by flooding caused by water-pipe leak in Yishun; clean-up, repairs ongoing",
+              "url": "https://www.straitstimes.com/singapore/underground-water-pipe-leak-causes-flooding-in-yishun-repairs-ongoing-pub"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "7 arrested, 65 under probe for alleged involvement in registering SIM cards for illicit purposes",
-          "neutralSummary": "Preliminary investigations showed that suspects were offered between $10 and $20 per registered SIM card.",
+          "neutralHeadline": "Indonesian police arrest 321 foreigners in an operation to crack down on banned online gambling",
+          "neutralSummary": "Indonesian police arrest 321 foreigners in an operation to crack down on banned online gambling",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "7 arrested, 65 under probe for alleged involvement in registering SIM cards for illicit purposes",
-              "url": "https://www.straitstimes.com/singapore/7-arrested-65-others-being-probed-for-registering-sim-cards-for-illicit-purposes"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Indonesian police arrest 321 foreigners in an operation to crack down on banned online gambling",
+              "url": "https://www.channelnewsasia.com/asia/indonesia-police-arrest-321-foreigners-crackdown-online-gambling-6111341"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Rescuers find body of first confirmed fatality from Mount Dukono eruption; believed to be Indonesian national",
-          "neutralSummary": "Two Singaporean hikers remain missing despite their locations having been identified.",
+          "neutralHeadline": "Commentary: China's invisible hand is rebalancing the oil market",
+          "neutralSummary": "Amid a global energy crisis, China has quietly slashed oil imports without having to take extreme measures,&nbsp;says Javier Blas for Bloomberg Opinion.",
           "versions": [
             {
               "political": "center",
@@ -595,40 +577,31 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Rescuers find body of first confirmed fatality from Mount Dukono eruption; believed to be Indonesian national",
-              "url": "https://www.channelnewsasia.com/asia/indonesia-mount-dukono-volcano-eruption-hiker-death-confirmed-6110986"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Rescuers find body of Indonesian hiker on Mount Dukono, locate position of two Singaporean hikers",
-              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc2NseUY0V2s2QUtVLWlMWUtMakJjWG04LVlrUVBhbkFIdi1qbklMM0tVRkRIWHB0WnBVbndzc1IxWG9ZdS1CRWl3SzVsZHlSLVZ4Q0xHNkZhVEd4UG9NVWJxT3NWRzZRQ0VJRDRKdko0YXRzYndhZ3VkNGlGZmZKcllUaDhsZElSaWJLUjBKd0VhNUlRcC1YVGk5ZE1LNnFUNklNdDhrWkFrZ2ptVG91amtTTEstbEtreUF6Vkd2dW5ZamdDaUY5N0M3amI1M0xf?oc=5"
+              "headline": "Commentary: China's invisible hand is rebalancing the oil market",
+              "url": "https://www.channelnewsasia.com/commentary/iran-war-china-cuts-oil-imports-energy-prices-6109266"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "ASEAN mulls sharing fuel, food resources as fears of prolonged disruptions grow",
-          "neutralSummary": "Leaders proposed a regional fuel stockpile and a standby arrangement for food security at the 48th ASEAN Summit on Friday (May 8).",
+          "neutralHeadline": "China is no longer just protesting US sanctions - firms may now have to navigate two systems",
+          "neutralSummary": "China has invoked its “Blocking Rules” for the first time to counter US sanctions, marking a shift from rhetoric to enforcement, leaving companies caught between conflicting legal systems.",
           "versions": [
             {
               "political": "center",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "ASEAN mulls sharing fuel, food resources as fears of prolonged disruptions grow",
-              "url": "https://www.channelnewsasia.com/asia/asean-summit-energy-food-security-stockpile-6109526"
+              "headline": "China is no longer just protesting US sanctions - firms may now have to navigate two systems",
+              "url": "https://www.channelnewsasia.com/east-asia/china-us-sanctions-companies-caught-between-laws-6106346"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "PAP Women’s Wing to gather women’s views, submit recommendations to marriage, parenthood workgroup",
-          "neutralSummary": "It will gather feedback through listening sessions with the public from May to November.",
+          "neutralHeadline": "Missing: Girl, 11, last seen in Jurong West on May 9",
+          "neutralSummary": "She was wearing a white shirt and red shorts, said the police.",
           "versions": [
             {
               "political": "center",
@@ -636,15 +609,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "PAP Women’s Wing to gather women’s views, submit recommendations to marriage, parenthood workgroup",
-              "url": "https://www.straitstimes.com/singapore/community/pap-womens-wing-to-gather-womens-views-submit-recommendations-to-marriage-parenthood-workgroup"
+              "headline": "Missing: Girl, 11, last seen in Jurong West on May 9",
+              "url": "https://www.straitstimes.com/singapore/missing-girl-11-last-seen-in-jurong-west-on-may-9"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "LPA fees for customised powers lowered from $185 to $30 for Singaporeans",
-          "neutralSummary": "Previously, it cost $185 to do up an LPA via Form 2, which is more detailed than the simpler Form 1.",
+          "neutralHeadline": "Celebrating Mum on Mother’s Day",
+          "neutralSummary": "Don't let Mother’s Day go by quietly.",
           "versions": [
             {
               "political": "center",
@@ -652,15 +625,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "LPA fees for customised powers lowered from $185 to $30 for Singaporeans",
-              "url": "https://www.straitstimes.com/singapore/community/lpa-fees-for-customised-powers-lowered-from-185-to-30-for-sporeans"
+              "headline": "Celebrating Mum on Mother’s Day",
+              "url": "https://www.straitstimes.com/singapore/parenting-education/celebrating-mum-on-mothers-day"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Frail, socially isolated seniors in Toa Payoh to be engaged weekly under new initiative",
-          "neutralSummary": "Volunteers will help seniors reconnect with community life through things like grocery runs or breakfast outings.",
+          "neutralHeadline": "Why Singapore’s first inclusive pre-school slashed its fees by 50% despite losses",
+          "neutralSummary": "At Kindle Garden, children with special needs learn and play alongside neurotypical peers.",
           "versions": [
             {
               "political": "center",
@@ -668,15 +641,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Frail, socially isolated seniors in Toa Payoh to be engaged weekly under new initiative",
-              "url": "https://www.straitstimes.com/singapore/health/frail-socially-isolated-seniors-in-toa-payoh-to-be-engaged-weekly-under-new-initiative"
+              "headline": "Why Singapore’s first inclusive pre-school slashed its fees by 50% despite losses",
+              "url": "https://www.straitstimes.com/singapore/community/why-an-inclusive-spore-pre-school-slashed-its-fees-by-50-even-when-it-is-incurring-losses"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Over 200,000 people newly diagnosed with chronic kidney disease over four years",
-          "neutralSummary": "If their condition worsens, it may lead to a surge in demand for dialysis services.",
+          "neutralHeadline": "What cats and mothers have in common",
+          "neutralSummary": "Even in the animal world, motherhood is not about ease, it is about attentiveness and persistence.",
           "versions": [
             {
               "political": "center",
@@ -684,8 +657,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Over 200,000 people newly diagnosed with chronic kidney disease over four years",
-              "url": "https://www.straitstimes.com/singapore/health/over-200000-people-newly-diagnosed-with-chronic-kidney-disease-over-four-years"
+              "headline": "What cats and mothers have in common",
+              "url": "https://www.straitstimes.com/singapore/what-cats-and-mothers-have-in-common"
             }
           ]
         }
@@ -696,8 +669,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "VCK supported Vijay's TVK to prevent President's rule in Tamil Nadu, says chief Thirumavalavan",
-          "neutralSummary": "The Viduthalai Chiruthaigal Katchi founder said his party's decision, as he had mentioned earlier, was in sync with the decision of the Left parties.",
+          "neutralHeadline": "TVK ends DMK-AIADMK era, actor-politician Vijay sworn in as Tamil Nadu chief minister",
+          "neutralSummary": "C Joseph Vijay was sworn in as Tamil Nadu Chief Minister after his party, TVK, emerged as the single largest in the assembly. Vijay secured the required majority with support from Viduthalai Chiruthaigal Katchi and Indian Union Muslim League, unseating traditional Dravidian parties. He will seek a v",
           "versions": [
             {
               "political": "left",
@@ -705,8 +678,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Tamil Nadu government formation LIVE: TVK chief Vijay to take oath as CM tomorrow",
-              "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-government-formation-live-updates-cpi-cpim-vck-dmk-aiadmk-ammk-tvk-alliance-parties-may-9-2026/article70958001.ece"
+              "headline": "Tamil Nadu swearing-in ceremony LIVE: C. Joseph Vijay sworn in as Chief Minister",
+              "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-government-formation-tvk-swearing-in-vijay-oath-ceremony-new-chief-minister-live-updates-may-10-2026/article70960233.ece"
             },
             {
               "political": "left",
@@ -714,8 +687,17 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Tamil Nadu Government Formation LIVE: Vijay, Now With Majority, Stakes Claim To Form Government",
-              "url": "https://www.ndtv.com/india-news/tamil-nadu-government-formation-new-cm-announcement-live-updates-vijay-tvk-government-congress-aiadmk-dmk-pact-bjp-governor-tamil-nadu-election-result-11465061#publisher=newsstand"
+              "headline": "The Ministers In Team Vijay Who Will Take Oath In Tamil Nadu",
+              "url": "https://www.ndtv.com/tamil-nadu-news/the-ministers-in-team-vijay-who-will-take-oath-in-tamil-nadu-today-11473533#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "TVK ends DMK-AIADMK era, actor-politician Vijay sworn in as Tamil Nadu chief minister",
+              "url": "https://timesofindia.indiatimes.com/india/tvk-ends-dmk-aiadmk-era-actor-politician-vijay-sworn-in-as-tamil-nadu-chief-minister/articleshow/130986441.cms"
             },
             {
               "political": "center",
@@ -723,15 +705,24 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "VCK supported Vijay's TVK to prevent President's rule in Tamil Nadu, says chief Thirumavalavan",
-              "url": "https://www.hindustantimes.com/india-news/vck-supported-tvk-to-prevent-presidents-rule-in-tamil-nadu-says-chief-thirumavalavan-help-vijay-form-government-101778333086024.html"
+              "headline": "TVK chief C Joseph Vijay all set to be sworn in as Tamil Nadu chief minister",
+              "url": "https://www.hindustantimes.com/india-news/tvk-chief-c-joseph-vijay-all-set-to-sworn-in-as-tamil-nadu-chief-minister-101778388213255.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "TVK chief Vijay takes oath as Tamil Nadu CM",
+              "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/tamil-nadu/tvk-chief-vijay-oath-taking-ceremony-as-tamil-nadu-chief-minister-chennai-nehru-stadium-vck-tn-election-2026-government-formation/articleshow/130985911.cms"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "‘First enemy is BJP’: Mamata calls for Oppn unity in Bengal as Suvendu takes oath as CM",
-          "neutralSummary": "Mamata urged national parties to join her \"joint platform\" to fight the BJP.",
+          "neutralHeadline": "Karnataka minister D Sudhakar passes away at 66 following prolonged illness",
+          "neutralSummary": "Karnataka's Planning and Statistics Minister, D. Sudhakar, a senior Congress leader and MLA from Hiriyur, passed away early Sunday at 66 after a prolonged lung infection.  His demise, confirmed by the Krishna Institute of Medical Sciences, has deeply saddened Deputy Chief Minister D.K. Shivakumar, w",
           "versions": [
             {
               "political": "left",
@@ -739,8 +730,26 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Suvendu Adhikari takes oath as first BJP CM of West Bengal; five others sworn in as Ministers",
-              "url": "https://www.thehindu.com/elections/west-bengal-assembly/suvendu-adhikari-becomes-west-bengals-first-bjp-chief-minister/article70958299.ece"
+              "headline": "Karnataka’s Planning Minister D. Sudhakar passes away",
+              "url": "https://www.thehindu.com/news/national/karnataka/karnataka-planning-minister-sudhakar-passes-away/article70961370.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Karnataka Minister D Sudhakar Dies At 66 After Prolonged Illness",
+              "url": "https://www.ndtv.com/karnataka-news/karnataka-minister-d-sudhakar-dies-at-66-after-prolonged-illness-11473627#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Karnataka minister D Sudhakar passes away at 66 following prolonged illness",
+              "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-minister-d-sudhakar-passes-away-at-66-following-prolonged-illness/articleshow/130985630.cms"
             },
             {
               "political": "center",
@@ -748,24 +757,24 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "‘First enemy is BJP’: Mamata calls for Oppn unity in Bengal as Suvendu takes oath as CM",
-              "url": "https://www.hindustantimes.com/india-news/first-enemy-is-bjp-mamata-calls-for-oppn-unity-in-bengal-as-suvendu-takes-oath-as-cm-101778330120306.html"
+              "headline": "Karnataka minister D Sudhakar, 66, passes away after prolonged illness in Bengaluru",
+              "url": "https://www.hindustantimes.com/india-news/karnataka-minister-d-sudhakar-66-passes-away-after-prolonged-illness-in-bengaluru-101778379422697.html"
             },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Economic Times",
               "initials": "ET",
-              "domain": "news.google.com",
-              "headline": "TMC launches fresh jibe on EC in first reaction as Suvendu Adhikari becomes West Bengal CM",
-              "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMVZ5Q3RRYXZsMzNYWFpKYldFWmc5c3JHNzlTaG5RclNCVG5rbDdfNGtoMzBERHVHRFdZQ2I2ZkdBUHpITEJmMC0tRVZpa1M4Z29tSWUtck0weUw3dVF4S0ZVQTQ5YkJLV2ZUeHFxMkRSdnpWQjh3a0JKajRuTlJTRTlGTHRPM2FZZHFaNWNMRnI0QlB6ZXk3X1hvUm13OFBaTkNuUnRsYWpMUnFuVDZSS0p6UzFaOW1NNERmVFgwRlFqYXd0aGpHcDQzeUdUMmdWQ0JmRUdJR2cxbW9nckxjc0pSY2t1X2x2dG1LZHZMU1lCUFktbUpRR0RCUE1ZNXotMlJVY0dtQzZvVEFLdFdiUG9jNGp6S1FYTS1oNTJpeW_SAaYCQVVfeXFMUGg0VWctU2M2SkRseEMzeVNKS2NLOXN6NThKRkRsRUhMbzhwcXZnclg3QzJHeTF0U0VEa0JjME5oTk4ySWR0S1U3SzVfNVhjYkdMaVZDT1dEQ1Q4bEd5bzQwZnhZZThSeWVoRTAxZEROazlLZnF4S3dSODM1WHpnOEhYeEk0Y1l0ZUJhbUM3aDlERTRlMnFzVExVckpaNnA2SUV3MGt0bkx0cGpobS1Da2RZLV9USHA0YWhGYXotQndTd00yckIzdVRoRm1hU2NNTDk0d1BFenJYc2hfNUEzRmM1YWVwSnB1M3lZVlJWUWFfRDZwLWVxbkZwTlNMMDJldVBGanRWVjlqU3RLSmxkOGxqNVBkQjJoRVVfWjhWUmlabUMzQlp3?oc=5"
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Karnataka minister D Sudhakar dies",
+              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/karnataka-minister-d-sudhakar-dies/articleshow/130985394.cms"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "VCK, IUML offer ‘unconditional support’ to Vijay’s Tamilaga Vettri Kazhagam",
-          "neutralSummary": "The TVK, which won 108 seats, sought support from several smaller camps secure 118 seats in the 234-seat assembly",
+          "neutralHeadline": "Suvendu Adhikari sworn in as Bengal’s first BJP CM",
+          "neutralSummary": "Clad in a saffron kurta, Adhikari was sworn in as Bengal’s first BJP chief minister at a ceremony that doubled up as a show of the NDA's national strength.",
           "versions": [
             {
               "political": "left",
@@ -773,8 +782,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Vijay's Numbers Nightmare Ends, VCK And IUML Extend Support",
-              "url": "https://www.ndtv.com/india-news/tamil-nadu-government-formation-vijays-numbers-nightmare-ends-vck-extends-unconditional-support-sources-11471145#publisher=newsstand"
+              "headline": "Suvendu Adhikari Aide's Killers Knew Where He Sat In Car Before Shooting: Cops",
+              "url": "https://www.ndtv.com/india-news/suvendu-adhikari-aide-chandranath-rath-killers-knew-where-he-sat-in-car-before-shooting-cops-11473556#publisher=newsstand"
             },
             {
               "political": "center",
@@ -782,8 +791,8 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "VCK, IUML offer ‘unconditional support’ to Vijay’s Tamilaga Vettri Kazhagam",
-              "url": "https://www.hindustantimes.com/india-news/vck-iuml-offer-unconditional-support-to-vijay-s-tamilaga-vettri-kazhagam-101778329032776.html"
+              "headline": "Suvendu Adhikari sworn in as Bengal’s first BJP CM",
+              "url": "https://www.hindustantimes.com/india-news/suvendu-adhikari-sworn-in-as-bengal-s-first-bjp-cm-101778374723679.html"
             },
             {
               "political": "center",
@@ -791,15 +800,15 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "IUML extends unconditional support to TVK",
-              "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/tamil-nadu/iuml-extends-unconditional-support-to-tvk-vijay-now-backed-by-121-mlas/articleshow/130977671.cms"
+              "headline": "Suvendu Adhikari: Bengal's first BJP CM",
+              "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/west-bengal/suvendu-adhikari-sworn-in-as-bengals-first-bjp-chief-minister/articleshow/130982255.cms"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "28-year-old woman drugged, 'sexually assaulted' in Kerala; accused arrested",
-          "neutralSummary": "An auto-rickshaw driver in Kerala's Adoor has been arrested for allegedly drugging and sexually assaulting a woman. The accused, Vinod, reportedly threatened the victim with videos of the assault, leading her to inform her husband and eventually file a police complaint. Following an intensified inve",
+          "neutralHeadline": "Trump says Russia, Ukraine agree ceasefire",
+          "neutralSummary": "Trump says Russia, Ukraine agree ceasefire",
           "versions": [
             {
               "political": "left",
@@ -807,115 +816,33 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Man, 40, Sexually Assaults Sleeping Minor On Train In Kerala, Arrested: Cops",
-              "url": "https://www.ndtv.com/india-news/man-40-sexually-assaults-sleeping-minor-on-train-in-kerala-arrested-cops-11471434#publisher=newsstand"
+              "headline": "\"Coming To An End\": Vladimir Putin On Russia's War With Ukraine",
+              "url": "https://www.ndtv.com/world-news/coming-to-an-end-vladimir-putin-on-russias-war-with-ukraine-11473038#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "28-year-old woman drugged, 'sexually assaulted' in Kerala; accused arrested",
-              "url": "https://timesofindia.indiatimes.com/city/kochi/28-year-old-woman-drugged-and-sexually-assaulted-in-kerala-accused-arrested/articleshow/130971984.cms"
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Trump says Russia, Ukraine agree ceasefire",
+              "url": "https://economictimes.indiatimes.com/news/defence/trump-says-russia-and-ukraine-have-agreed-to-his-request-for-a-3-day-ceasefire-and-a-prisoner-swap/articleshow/130982417.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Today",
+              "initials": "TD",
+              "domain": "news.google.com",
+              "headline": "War coming to an end: Putin hints at possible Ukraine peace deal",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONHF3eGRfRC1iWjBuMHRGMVFTUS1Gem1vbUFGMnBaY1V1cEk1NmQ1clZXSmctTnNVY3I2Tjl3LU1CWnRsN2cwTS04Q2haTGExVkJrOUpZcGNnWDZleWpRNmRCY1pmcmxablRmMnFfcE9zZkQtQi1DMnFfcXAzTm9vN1JrX0lKSFNzdWpDM2pGM3Q2R25tVDFBUzdDQTA5dmFSeXZ1cWNKZWNOX1BnOEdwV9IBtgFBVV95cUxNSmxmSnB3OVF2ejJDLUl6QkcxMGxFaW93aWp6eUtCM3lZWXhlNndydEFtT1RDc3Iyb2s4bWVwbTJkRFd4SFdYWkVhM1QtZkhfbXJ3NHowRmplVDFMN0tSTFZTbEVTQVFOU3pJRFFPR2tvVi1kZlk5RXNhU21tVnZhTktSckNhRWswU0ZnR2lldVZ4QlozMEZkN0xieEthOU90d1lKWFlJWG12Q1RNQlFiNU9YS2lfZw?oc=5"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "17 Mumbai Locations Linked To Anil Ambani-Led Reliance Group Raided By CBI",
-          "neutralSummary": "The CBI earlier conducted searches at 14 locations in the last few months",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "17 Mumbai Locations Linked To Anil Ambani-Led Reliance Group Raided By CBI",
-              "url": "https://www.ndtv.com/india-news/17-mumbai-locations-linked-to-anil-ambani-led-reliance-group-raided-by-cbi-11471224#publisher=newsstand"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "CBI raids 17 Mumbai locations in Reliance ADA-linked bank fraud probe",
-              "url": "https://indianexpress.com/article/mumbai/cbi-raids-mumbai-anil-ambani-reliance-ada-group-bank-fraud-case-10681451/"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Big defence boost: India tests advanced Agni missile with MIRV capability",
-          "neutralSummary": "Big defence boost: India tests advanced Agni missile with MIRV capability",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Big defence boost: India tests advanced Agni missile with MIRV capability",
-              "url": "https://timesofindia.indiatimes.com/defence/news/india-has-successfully-conducted-flight-trial-of-agni-missile-with-mirv-tech-defence-ministry/articleshow/130976740.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "India successfully tests Agni missile with MIRV",
-              "url": "https://economictimes.indiatimes.com/news/defence/india-successfully-tests-agni-missile-with-mirv-system/articleshow/130977024.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Whom will Cong pick as next Kerala CM? Poster war among 3 contenders, a Tharoor-Kharge meet, Delhi decision anytime now",
-          "neutralSummary": "Three senior leaders are in the race: V D Satheesan, Ramesh Chennithala, and KC Venugopal. All three are in Delhi as of Saturday.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Whom will Cong pick as next Kerala CM? Poster war among 3 contenders, a Tharoor-Kharge meet, Delhi decision anytime now",
-              "url": "https://www.hindustantimes.com/india-news/whom-will-cong-choose-as-next-kerala-cm-poster-war-among-3-contenders-a-tharoor-kharge-meet-delhi-decision-awaited-101778325304568.html"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "A fragile ceasefire holds as US awaits Iran response",
-          "neutralSummary": "A fragile ceasefire holds as US awaits Iran response",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "A fragile ceasefire holds as US awaits Iran response",
-              "url": "https://economictimes.indiatimes.com/news/defence/a-fragile-ceasefire-holds-as-us-awaits-iran-response-bahrain-detains-dozens/articleshow/130976703.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "US Awaits Iranian Response After Hormuz Clashes Strain Ceasefire",
-              "url": "https://www.bloomberg.com/news/videos/2026-05-09/us-awaits-response-after-hormuz-clashes-strain-ceasefire-video"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "Bid to steal court documents in Ongole",
-          "neutralSummary": "Bid to steal court documents in Ongole",
+          "neutralHeadline": "Punjab minister Sanjeev Arora arrested by ED after raids; Kejriwal targets BJP",
+          "neutralSummary": "Punjab minister Sanjeev Arora arrested by ED after raids; Kejriwal targets BJP&nbsp;&nbsp;India TodayPunjab Minister Sanjeev Arora sent to seven-day ED custody&nbsp;&nbsp;The HinduBJP using central agencies for political gains: Arvind Kejriwal&nbsp;&nbsp;The Times of IndiaPunjab minister Sanjeev Aro",
           "versions": [
             {
               "political": "left",
@@ -923,8 +850,90 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Bid to steal court documents in Ongole",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/bid-to-steal-court-documents-in-ongole/article70959490.ece"
+              "headline": "Punjab Minister Sanjeev Arora sent to seven-day ED custody",
+              "url": "https://www.thehindu.com/news/national/punjab/punjab-minister-sanjeev-arora-money-laundering-case-ed-custody/article70961371.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Today",
+              "initials": "TD",
+              "domain": "news.google.com",
+              "headline": "Punjab minister Sanjeev Arora arrested by ED after raids; Kejriwal targets BJP",
+              "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSFowQ0JsNkZhSDJZQW8wR2hVLUg1R1hSd2VvZVl6Z25DRTh1RktLUE5USVFSYnQ1QTdSY1EtMnEzbnl0RGVWUG81bGhDYzhROFZ4NVdCNlhXZHR6YXdrZGJyck40QkQzaW1ld0pnb1lWX19yMk5BSmVKQnF0cm1YczliMWpiTDlVWmxNX21udEFVV0p3SmhnalZoYW82RmtnUzVHNzJncUJycDZfdE54WFlvN2FWWW9XelFlZC1TaW9xbWh0ekpOYU9LblVzcmlydm5adXkxZHcwYjVqMFhYNjkxdXRUc0t1VklIZUZhaGhjaFBXdnZEUWlVUmU?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Person dies after being hit by plane in Denver",
+          "neutralSummary": "Person dies after being hit by plane in Denver",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "One Dead After Being Hit By Frontier Airlines Plane That Was Taking Off From Denver",
+              "url": "https://www.ndtv.com/world-news/one-dead-after-being-hit-by-frontier-airlines-plane-that-was-taking-off-from-denver-11473230#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Person dies after being hit by plane in Denver",
+              "url": "https://economictimes.indiatimes.com/nri/latest-updates/person-dies-after-being-hit-by-frontier-airlines-plane-that-was-taking-off-at-denver-airport/articleshow/130985167.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Happy Mother's day: Top 100 wishes, messages, images, GIFs and greetings card",
+          "neutralSummary": "This Mother's Day, move beyond generic greetings to honor the women who raised you with meaningful messages. The article offers categorized heartfelt, witty, and minimalist quotes, acknowledging the \"mental load\" and celebrating \"mothers of choice.\"",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Happy Mother's day: Top 100 wishes, messages, images, GIFs and greetings card",
+              "url": "https://timesofindia.indiatimes.com/etimes/trending/happy-mothers-day-2026-top-50-wishes-messages-images-and-quotes-to-share-with-your-mother/articleshow/130961074.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "‘We’ll fight this battle': Mamata Banerjee urges Opposition to form ‘joint platform’ against BJP",
+          "neutralSummary": "Mamata Banerjee had earlier refused to resign from the CM’s post even after BJP swept the assembly polls winning 207 out of 294 seats.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "‘We’ll fight this battle': Mamata Banerjee urges Opposition to form ‘joint platform’ against BJP",
+              "url": "https://www.hindustantimes.com/india-news/well-fight-this-battle-mamata-banerjee-urges-opposition-to-form-joint-platform-against-bjp-west-bengal-101778373616722.html"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "Tamilaga Vettri Kazhagam | The star who stormed into politics",
+          "neutralSummary": "The political organisation built by actor-turned-politician Vijay, which emerged as the single largest party in the Assembly, declares itself as a secular movement, rooted in the Tamil experience, and committed to social justice and equality",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Tamilaga Vettri Kazhagam | The star who stormed into politics",
+              "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamilaga-vettri-kazhagam-vijay-the-star-who-stormed-into-politics/article70960039.ece"
             }
           ]
         }
