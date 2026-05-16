@@ -1,90 +1,13 @@
 {
-  "generatedAt": "2026-05-15T15:20:18.419866+00:00",
+  "generatedAt": "2026-05-16T05:19:46.060600+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Trump leaves China without breakthroughs on Iran, Taiwan or AI",
-          "neutralSummary": "US president hails ‘fantastic’ deals, but details remain scarce after pageantry and little progress at much-hyped summit with XiTrump in China – latest updatesDonald Trump left China on Friday after a much-hyped summit of the world’s two major powers that was rich in pageantry and promises of stabil",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Trump leaves China without breakthroughs on Iran, Taiwan or AI",
-              "url": "https://www.theguardian.com/world/2026/may/15/trump-china-visit-iran-agreement-xi-jinping-elusive"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "China's Xi Warns Trump That Differences Over Taiwan Could Lead To Conflict",
-              "url": "https://www.huffpost.com/entry/china-us-summit_n_6a05564fe4b0def65bfbe33b"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Key takeaways from Trump's China trip",
-              "url": "https://www.npr.org/2026/05/15/nx-s1-5822512/trump-china-xi-summit-takeaways"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Taiwan watches Trump-Xi meeting for signs China will test US resolve",
-              "url": "https://www.foxnews.com/world/taiwan-watches-trump-xi-meeting-signs-china-test-us-resolve"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Trump China visit live: US president says a lot of problems ‘settled’, as he meets with Xi on final day of summit",
-          "neutralSummary": "Trump says ‘a lot of good’ has come from summit and ‘we’ve made some fantastic trade deals for both countries’Xi warns Trump of ‘clashes and even conflicts’ with US over TaiwanAnalysis: For anxious Taiwan, Trump’s silence after Xi talks is best possible outcomeSign up for the Breaking News US emailJ",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Trump China visit live: US president says a lot of problems ‘settled’, as he meets with Xi on final day of summit",
-              "url": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "China economist shares takeaways from the Trump-Xi summit",
-              "url": "https://www.npr.org/2026/05/15/nx-s1-5822445/china-economist-shares-takeaways-from-the-trump-xi-summit"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Trump-Xi summit: China, US disagree on what they agreed on",
-              "url": "https://www.aljazeera.com/news/2026/5/15/trump-xi-summit-china-us-disagree-on-what-they-agreed-on?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
-          "neutralSummary": "Concerns raised that cases were caused by a new strain of the virus as African health officials race to coordinate and contain the infectionAn outbreak of Ebola has killed 65 people in the Democratic Republic of the Congo, according to African health officials.There have been 246 suspected cases of",
+          "neutralHeadline": "New Ebola outbreak hits DR Congo",
+          "neutralSummary": "First, the Ebola outbreak tears through eastern DR Congo, killing at least 65 people and triggering fears of wider regional spread. Also, final stretch in Cape Verde ahead of the legislative elections scheduled for Sunday.  And, Ethiopia’s coffee sector is under pressure as global prices plunge. But",
           "versions": [
             {
               "political": "left",
@@ -101,24 +24,60 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "New outbreak of Ebola kills 65 in eastern DR Congo",
+              "headline": "New outbreak of Ebola kills 80 in eastern DR Congo",
               "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Outbreak of rare strain of Ebola claims at least 65 lives in DR Congo",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/outbreak-of-rare-strain-of-ebola-claims-at-least-65-lives-in-dr-congo?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "New Ebola outbreak hits DR Congo",
+              "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260515-new-ebola-outbreak-hits-dr-congo"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Rare Ebola Strain With No Approved Vaccine Kills Dozens in Congo",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-16/rare-ebola-strain-with-no-approved-vaccine-kills-dozens-in-congo"
             }
           ]
         },
         {
-          "id": "global-4",
-          "neutralHeadline": "CIA director has met officials in Havana for talks, Cuba claims",
-          "neutralSummary": "Visit comes after US-Cuba relations deteriorated significantly, and as the island nation declared it had ‘absolutely no fuel’ because of US blockadeCIA director John Ratcliffe met Cuban officials in Havana on Thursday as a way to improve dialogue between the US and the communist-run island, the Cuba",
+          "id": "global-2",
+          "neutralHeadline": "Trump warns Taiwan against declaring independence from China after meeting Xi",
+          "neutralSummary": "US President Donald Trump on Friday warned Taiwan against formally declaring its independence in an interview with Fox News shortly before the end of his visit to China. During their meetings, Chinese President Xi Jinping had pressed him against supporting the self-ruling island.",
           "versions": [
             {
               "political": "left",
+              "tone": "pessimistic",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "China's Xi Warns Trump That Differences Over Taiwan Could Lead To Conflict",
+              "url": "https://www.huffpost.com/entry/china-us-summit_n_6a05564fe4b0def65bfbe33b"
+            },
+            {
+              "political": "left",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "CIA director has met officials in Havana for talks, Cuba claims",
-              "url": "https://www.theguardian.com/world/2026/may/14/cia-director-has-met-officials-in-havana-for-talks-cuba-claims"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+              "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -126,31 +85,33 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "CIA Director John Ratcliffe met with Raul Castro's grandson in Havana, US and Cuban officials say",
-              "url": "https://www.npr.org/2026/05/15/nx-s1-5823340/cia-director-john-ratcliffe-met-with-raul-castros-grandson-in-havana-us-and-cuban-officials-say"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Tape shows Bolsonaro son asking jailed banker for $26.8m to fund film on father",
-          "neutralSummary": "Revelation seen as serious blow to candidacy of Flávio Bolsonaro, Brazil’s leading rightwing presidential hopefulFlávio Bolsonaro, Brazil’s leading rightwing presidential hopeful, has been caught on tape asking a banker accused of corruption for $26.8m (£20m) to fund a film about his father, the for",
-          "versions": [
+              "headline": "Key takeaways from Trump's China trip",
+              "url": "https://www.npr.org/2026/05/15/nx-s1-5822512/trump-china-xi-summit-takeaways"
+            },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Tape shows Bolsonaro son asking jailed banker for $26.8m to fund film on father",
-              "url": "https://www.theguardian.com/world/2026/may/14/flavio-bolsonaro-banker-film-jair-bolsonaro"
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Trump warns Taiwan against declaring independence from China after meeting Xi",
+              "url": "https://www.france24.com/en/asia-pacific/20260515-trump-warns-taiwan-against-declaring-independence-from-china-after-meeting-xi"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Taiwan watches Trump-Xi meeting for signs China will test US resolve",
+              "url": "https://www.foxnews.com/world/taiwan-watches-trump-xi-meeting-signs-china-test-us-resolve"
             }
           ]
         },
         {
-          "id": "global-6",
-          "neutralHeadline": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing?",
-          "neutralSummary": "US president has said he and Chinese leader ‘settled a lot of different problems’ but has given little detail on solutionsTrump China visit live – latest updatesDonald Trump’s whirlwind trip to Beijing – the first US presidential visit in nearly a decade – wrapped up with much fanfare but little cla",
+          "id": "global-3",
+          "neutralHeadline": "Trump-Xi, the alpha power summit: a debrief",
+          "neutralSummary": "Dr Bates Gill is a prominent American International Relations scholar, and China specialist.",
           "versions": [
             {
               "political": "left",
@@ -160,6 +121,24 @@
               "domain": "theguardian.com",
               "headline": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing?",
               "url": "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "What did Trump and Xi discuss during the China summit?",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Trump-Xi, the alpha power summit: a debrief",
+              "url": "https://www.france24.com/en/tv-shows/spotlight/20260515-trump-xi-the-alpha-power-summit-a-debrief"
             },
             {
               "political": "right",
@@ -173,9 +152,152 @@
           ]
         },
         {
+          "id": "global-4",
+          "neutralHeadline": "Trump Says US Forces, Nigeria Armed Forces Killed ISIS Leader",
+          "neutralSummary": "US and Nigerian forces killed an ISIS leader who was hiding in Africa, President Donald Trump said, adding that his death has “greatly diminished” the group’s global operations.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
+              "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Trump Says US Forces, Nigeria Armed Forces Killed ISIS Leader",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-16/trump-says-us-forces-nigeria-armed-forces-killed-isis-leader"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump says Abu-Bilal al-Minuki, second in command of ISIS globally, killed in US-Nigerian operation",
+              "url": "https://www.foxnews.com/world/trump-says-abu-bilal-al-minuki-second-command-isis-globally-killed-us-nigerian-operation"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Israel strikes Gaza City building targeting Hamas military leader Izz al-Din al-Haddad",
+          "neutralSummary": "Israel strikes Gaza City building targeting Hamas military leader Izz al-Din al-Haddad&nbsp;&nbsp;ynetnewsIsrael carries out strike targeting most senior Hamas military leader in Gaza&nbsp;&nbsp;CNNIsraeli Strike Targeted Top Hamas Leader in Gaza, Officials Say&nbsp;&nbsp;The New York TimesSeven kil",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Israel says it has killed Hamas commander in Gaza air strike",
+              "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "ynetnews",
+              "initials": "Y",
+              "domain": "news.google.com",
+              "headline": "Israel strikes Gaza City building targeting Hamas military leader Izz al-Din al-Haddad",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HRjZxVTlZdTJNaGpKMWtMREpUeUtlWmVyYmQ4d0pEREdJN3pOdjdMZmJoT29SdWc2ZmowekRlVDlmaGpfRWlHZFdkc1hkX3BjYXBnelZn?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
+              "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "Middle East war live: Israel, Lebanon extend shaky ceasefire",
+          "neutralSummary": "Israel and Lebanon have agreed to extend a ceasefire, which was set to expire Sunday, and to hold expanded talks on a political settlement, the US announced after two days of talks in Washington. The April 17 ceasefire, which did not end fighting between Israel and Hezbollah, will be extended for 45",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Middle East war live: Israel, Lebanon extend shaky ceasefire",
+              "url": "https://www.france24.com/en/middle-east/20260516-middle-east-war-live-israel-lebanon-extend-shaky-ceasefire"
+            }
+          ]
+        },
+        {
           "id": "global-7",
-          "neutralHeadline": "Kyiv in mourning after 24 killed in strike as Russia, Ukraine exchange POWs",
-          "neutralSummary": "Ukraine's capital Kyiv declared a day of mourning Friday following a Russian attack that killed at least 24 people, including three children. Simultaneously, Moscow and Kyiv exchanged 205 prisoners of war from each side.",
+          "neutralHeadline": "Donald Trump’s allies pin hopes on Xi Jinping to defuse Strait of Hormuz crisis",
+          "neutralSummary": "Donald Trump’s allies pin hopes on Xi Jinping to defuse Strait of Hormuz crisis&nbsp;&nbsp;Financial TimesTrump reveals Xi’s stance on arming Iran as Hormuz tensions rattle markets&nbsp;&nbsp;Fox NewsChina: ‘No point’ in continuing Iran war&nbsp;&nbsp;The HillReadout of President Trump’s Meeting Wit",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Donald Trump does ‘not feel optimistic’ for Jimmy Lai after speaking with Xi Jinping",
+              "url": "https://www.theguardian.com/world/2026/may/16/trump-not-optimistic-jimmy-lai-release-xi-jinping"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Financial Times",
+              "initials": "FT",
+              "domain": "news.google.com",
+              "headline": "Donald Trump’s allies pin hopes on Xi Jinping to defuse Strait of Hormuz crisis",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPazF1Z2hWZnBlOW5wS2xPTUg3U1JnVk9XUHlqVVJJSTJEeUhtcFBBT3VTdjk3bUVaRU1reU1QWHJfZ2tvODRYNENMYllDNERsc0hITnZzcmlsUEl2bUdSQUY5MDk2MWw3M1lkeG9reld1RzZ6YXlZTUFCOU9leVFYTlJiTlc?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Where is Dela Rosa? Philippine senator outmanoeuvres president in evading arrest",
+          "neutralSummary": "Chaotic week in which enforcer of ‘war on drugs’ flees senate building leaves government looking ‘incompetent’The wanted man outran security agents, rallied protesters and even serenaded the media with a military hymn. Then, after a sudden exchange of gunfire, the Philippines’ most controversial law",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Where is Dela Rosa? Philippine senator outmanoeuvres president in evading arrest",
+              "url": "https://www.theguardian.com/world/2026/may/16/dela-rosa-week-chaos-philippines"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Gunfire Breaks Out In Philippine Senate Where Authorities Have Tried To Arrest A Senator",
+              "url": "https://www.huffpost.com/entry/gunfire-philippine-senate_n_6a04816de4b0af4eda4030e7"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Ukraine and Russia swap hundreds of prisoners, strike on Kyiv apartment block kills 24",
+          "neutralSummary": "Ukraine and Russia swap hundreds of prisoners, strike on Kyiv apartment block kills 24&nbsp;&nbsp;NBC NewsPrisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats&nbsp;&nbsp;BBCRussia and Ukraine swap 205 prisoners of war each&nbsp;&nbsp;ReutersSSU releases exclusive footage of t",
           "versions": [
             {
               "political": "left",
@@ -188,53 +310,12 @@
             },
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Kyiv in mourning after 24 killed in strike as Russia, Ukraine exchange POWs",
-              "url": "https://www.france24.com/en/europe/20260515-ukraine-in-mourning-after-24-killed-in-russian-attack-on-kyiv"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Australia court doubles payout for trans woman in landmark discrimination case",
-          "neutralSummary": "Roxanne Tickle has been awarded AU$40,000 in damages for being kicked off the Giggle for Girls app.",
-          "versions": [
-            {
-              "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Australia court doubles payout for trans woman in landmark discrimination case",
-              "url": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "US Supreme Court restores abortion pill access for now",
-          "neutralSummary": "Abortion pills are the most common method of terminating pregnancies in the US.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "US Supreme Court restores abortion pill access for now",
-              "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "SCOTUS upholds abortion pill telehealth access. And, Trump returns from China visit",
-              "url": "https://www.npr.org/2026/05/15/g-s1-122218/up-first-newsletter-mifepristone-trump-china-keir-starmer-new-york-salmon-river-students"
+              "source": "NBC News",
+              "initials": "NN",
+              "domain": "news.google.com",
+              "headline": "Ukraine and Russia swap hundreds of prisoners, strike on Kyiv apartment block kills 24",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjgyekNiX1VhNUJ1dW1XN2VwTUJjVHpCNEdFbE40NUxtQzhkdm9NZWVqeVBLeURXckFSY0tvcmJNTXpvM0NXTXVVb0ljVnRQU3JtVHNrdE9kdVR4aEd2RVcydy1mb0k2dkZsMmNEVjlWeTNCa202VUp6WVVuT0x5aTBkYjYwU1NuNFJSejdzQ0xTaUU4UlZpSDROUzI2dGJjMWdCcFlUTEhHS0lITWt1cQ?oc=5"
             }
           ]
         }
@@ -245,8 +326,148 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "5 takeaways from Trump’s trip to China",
-          "neutralSummary": "The most important foreign trip of President Trump’s second term to date concluded on Friday as he flew back to Washington from China. Trump had been met with great pageantry as he arrived for his meeting with Chinese President Xi Jinping, but the warmth of the welcome was offset by obvious tensions",
+          "neutralHeadline": "Supreme Court rejects Virginia’s bid to restore congressional map favoring Democrats",
+          "neutralSummary": "Supreme Court rejects Virginia’s bid to restore congressional map favoring Democrats&nbsp;&nbsp;AP NewsSupreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map&nbsp;&nbsp;The New York TimesUS Supreme Court tosses longshot appeal from Virginians to use new congressional map that w",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Supreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map",
+              "url": "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Supreme Court is death knell for Virginia's Democratic-friendly congressional maps",
+              "url": "https://www.npr.org/2026/05/15/nx-s1-5823911/supreme-court-virginia-redistricting"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Supreme Court rejects Virginia’s bid to restore congressional map favoring Democrats",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUnFNdlduX3paSm82ekFTdnlWbC1kLWZlc3hFTHRBRHRMUUF0MFZVcGE5T3FqNG9DYWliWU91bXNwbHM2bFlyMlNIbWtGb3lEOEdOOVQxeEpXUktRNmVpQkQwY1VqZE5kQW03bXRydzEydEZyWUsyc0pZNWhUUGs1VTkycy0zTjcwRDZMcGRRcUNWU0tBTUcwcVNCaGl6TFhMdGZfUjN3YkFSNmloYmlaVy1qSEIxSk03Tmc?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Supreme Court declines to restore Virginia Democrats’ congressional map",
+              "url": "https://thehill.com/regulation/court-battles/5880850-supreme-court-rejects-virginia-congressional-map/"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "politico.com",
+              "headline": "Supreme Court rejects bid to revive Democrats’ Virginia redistricting plan",
+              "url": "https://www.politico.com/news/2026/05/15/supreme-court-democrats-virginia-redistricting-00925046"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Supreme Court deals blow to Virginia Democrats in fight over state court election map ruling",
+              "url": "https://www.foxnews.com/politics/supreme-court-deals-blow-virginia-democrats-fight-over-state-court-ruling"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Supreme Court rejects Virginia’s bid to restore congressional map favoring Democrats",
+              "url": "https://nypost.com/2026/05/15/us-news/supreme-court-rejects-virginias-bid-to-restore-congressional-map-favoring-democrats/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Supreme Court denies Democrats’ bid to revive Virginia gerrymander",
+              "url": "https://www.washingtonexaminer.com/news/supreme-court/4570583/supreme-court-denies-democrat-bid-revive-virginia-gerrymander/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Supreme Court Has Final Word On Dem Hail Mary Over Virginia Map",
+              "url": "https://www.dailywire.com/news/supreme-court-has-final-word-on-dem-hail-mary-over-virginia-map"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Tina Peters to go free after Colorado Gov. Polis commutes her sentence",
+          "neutralSummary": "Tina Peters, a former elections clerk who was the first local official convicted over efforts to subvert the 2020 presidential election, will go free from prison after Colorado Gov. Jared Polis (D) commuted her sentence Friday. Polis told Colorado Public Radio earlier in the day from the governor&#8",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Tina Peters, Colorado Election Denier, Will Be Freed by Gov. Jared Polis",
+              "url": "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Colorado's Democratic governor will let Trump ally Tina Peters out of prison early",
+              "url": "https://www.npr.org/2026/05/15/nx-s1-5690286/tina-peters-polis-commutation-trump"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Tina Peters to go free after Colorado Gov. Polis commutes her sentence",
+              "url": "https://thehill.com/homenews/state-watch/5880729-election-clerk-freed-colorado/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Colorado governor commutes Tina Peters' sentence as Trump posts ‘FREE TINA!’",
+              "url": "https://www.foxnews.com/politics/colorado-governor-commutes-tina-peters-sentence-trump-posts-free-tina"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Election denier Tina Peters to be granted clemency by Jared Polis",
+              "url": "https://www.washingtonexaminer.com/news/crime/4571197/election-denier-tina-peters-clemency-jared-polis/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Eric Trump says he’ll sue Jen Psaki, MS NOW over report on China trip",
+          "neutralSummary": "President Trump&#8217;s son Eric Trump said Friday he will sue MS NOW, formerly MSNBC, and host Jen Psaki after a monologue on her show questioned whether his business interests, combined with traveling with his father on a high-stakes trip to China, was a conflict of interest. Psaki said on her sho",
           "versions": [
             {
               "political": "left",
@@ -263,74 +484,58 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "5 takeaways from Trump’s trip to China",
-              "url": "https://thehill.com/homenews/administration/5879806-trump-china-iran-tensions/"
+              "headline": "Eric Trump says he’ll sue Jen Psaki, MS NOW over report on China trip",
+              "url": "https://thehill.com/homenews/media/5880380-eric-trump-lawsuit-msnow-psaki/"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "politico.com",
+              "headline": "Big promises, thin results from Trump’s China trip",
+              "url": "https://www.politico.com/news/2026/05/15/big-promises-thin-results-from-trumps-china-trip-00924309"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump wraps widely-watched trip to China, departing on Air Force One after high-stakes Xi meeting",
-              "url": "https://www.foxnews.com/politics/trump-wraps-widely-watched-trip-chin-departing-air-force-one-high-stakes-xi-meeting"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "CIA Director Meets With Top Officials In Havana, Cuban Government Says",
-          "neutralSummary": "The meeting comes as tensions worsen over a U.S. fuel blockade that has starved the island of fuel and power generation.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "CIA Director Meets With Top Officials In Havana, Cuban Government Says",
-              "url": "https://www.huffpost.com/entry/cia-director-cuba_n_6a06448be4b098065be8ca59"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "CIA Director John Ratcliffe met with Raul Castro's grandson in Havana, US and Cuban officials say",
-              "url": "https://www.npr.org/2026/05/15/nx-s1-5823340/cia-director-john-ratcliffe-met-with-raul-castros-grandson-in-havana-us-and-cuban-officials-say"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "The Supreme Court abortion pills case, explained",
-          "neutralSummary": "Abortion pills have been on a bit of a journey in the United States over the past few weeks. It starts in Louisiana: The state sued the Food and Drug Administration late last year, seeking to eliminate access to the abortion pill mifepristone through telehealth and mail order. On May 1, the US Fifth",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "The Supreme Court abortion pills case, explained",
-              "url": "https://www.vox.com/podcasts/488434/supreme-court-abortion-pills-mifepristone-louisiana-telehealth"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Supreme Court Allows Abortion Pill Access by Mail to Continue",
-              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcU5SRFpORkdrSW44U19BUUNFVFhIemN2VVBKWGdxTVgwclFSZ2ZUcFZld1NucTBIV25PU2gwWDFYd2hZMWdpZFZubTAtbXFacktpTm5BMlF3MDlRZTZxTzRMbDVlam9PQ2FGcDlJODZzd0U2dlhYbl9uVW1acTRPNlgyTk1TUQ?oc=5"
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Eric Trump accuses Jen Psaki, MS NOW of airing ‘blatant lies’ about China trip  – says he’s suing both",
+              "url": "https://nypost.com/2026/05/15/us-news/eric-trump-accuses-jen-psaki-ms-now-of-airing-blatant-lies-about-china-trip-says-hes-suing-both/"
             }
           ]
         },
         {
           "id": "us-4",
-          "neutralHeadline": "Why a Retrial of the Murdaugh Case Could Look a Lot Different",
-          "neutralSummary": "It is not clear when another trial would take place. But both prosecutors and defense lawyers said they would be forced to revise their legal strategies.",
+          "neutralHeadline": "US-China summit exposes Trump's limits on Iran war, Taiwan",
+          "neutralSummary": "US-China summit exposes Trump's limits on Iran war, Taiwan&nbsp;&nbsp;DW.comWinners and Losers From Trump and Xi's Beijing Summit Talks&nbsp;&nbsp;Yahoo FinanceIn pageantry and politics, China summit yields Xi’s goal — equal footing with U.S.&nbsp;&nbsp;The Washington PostOpinion | The Good-News-Is-",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump, Xi Wrap Up Summit Claiming Progress Stabilizing U.S.-China Relations But Differences Persist",
+              "url": "https://www.huffpost.com/entry/trump-china-trip_n_6a06ddb7e4b098065be94745"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "DW.com",
+              "initials": "D",
+              "domain": "news.google.com",
+              "headline": "US-China summit exposes Trump's limits on Iran war, Taiwan",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDgzTHhvR0o5UnB4YVc5Q3NXc3d2VjdiM0ZRZzlJQ0E0cjZ5eGNNWjJBOG94ZE1tQTRRRU9kMnhKVDVmYWJHQkxQTE9UVG85Q1hhRm1tQUNvc2tEY2RwRWwzSDUtTkJDZDFRVFpic0xCOUVyVXZZcnNLdEwyX0dNTkF6YzdjU19HZ1Q5UkREM2NnTlHSAZMBQVVfeXFMTWJsNzZ4NTNqUzhjZ3lHLWp6TFNWRHU5OEkxWmhGbFY3c0JxckNDRHpVMU9ZY09nb1pIRmU2aXZvMUV2YmNZaDhiTUlyT0NyQVc3ZHlmd1MyM2FaZ09pcTVwejQ2U2dSQ1VsWlAzLVZfZ1Q3cklRX1BoUHAtZzJaRGhlbkwwbHgyeUJuYmFLSzQ0SFVn?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Top Drug Regulator Is Fired From the F.D.A.",
+          "neutralSummary": "Dr. Tracy Beth Hoeg said she did not know who had fired her or why, but the dismissal came amid tumult at the agency in recent days.",
           "versions": [
             {
               "political": "left",
@@ -338,65 +543,49 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Why a Retrial of the Murdaugh Case Could Look a Lot Different",
-              "url": "https://www.nytimes.com/2026/05/15/us/alex-murdaugh-murders-trial.html"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "After redistricting, what does representation mean to Tennessee voters?",
-          "neutralSummary": "What does representation look like for Tennessee voters who were split into three new congressional districts last week? NPR traveled from Memphis into the Nashville suburbs to ask.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "After redistricting, what does representation mean to Tennessee voters?",
-              "url": "https://www.npr.org/2026/05/15/nx-s1-5822329/memphis-gerrymandering-representation-voting-rights"
+              "headline": "Top Drug Regulator Is Fired From the F.D.A.",
+              "url": "https://www.nytimes.com/2026/05/15/us/politics/fda-drug-regulator-fired.html"
             }
           ]
         },
         {
           "id": "us-6",
-          "neutralHeadline": "US seeks indictment of former Cuban leader Raul Castro",
-          "neutralSummary": "US seeks indictment of former Cuban leader Raul Castro&nbsp;&nbsp;Al JazeeraUS takes steps to indict former Cuban leader Raúl Castro&nbsp;&nbsp;USA TodayDOJ seeks to indict Raul Castro in 1996 Brothers to the Rescue shoot down: Source&nbsp;&nbsp;NBC 6 South FloridaU.S. moving to indict Cuba's Raúl C",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "US seeks indictment of former Cuban leader Raul Castro",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTU56Wk1URVdEMUltOEUxMm02X0dZa081d2JRT1Y4WlBvMERTSjBrNHc1MFV1a3hoTzdlMDdmWlV2ZzFRdE5zbzV4ejh5cWZRQ1ZIS0l0c2tQWXV6VzVmb3RsbGdUZkZWNlRYM1hFUGtqNG5RVXJtdlVWUXNTTEdRdTRkS0N0UGQ0VjloZjRiVjFtSzYyenJiMnR5ONIBoAFBVV95cUxQdTFhcXlvZEUtWkZOci1WRzhGMEVXaW1MOUR2Q0staHZhQng1WUFHNTJ1encwbTNOcjA2aXNHNWpMNnVPelBqODM1ei1tUXk2ZHFxRTdIdGd3U0Z1LVd0UjFBbWRhWDJJOUR3WlgtV0YzN0gzaWJwRHpIWDE0RkRBbDFQeHBqQW4tTWV0LUtMeEU4by1MTUlhYnJScWpGQ2Mw?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "US moving to indict former Cuban leader Raúl Castro: source",
-              "url": "https://www.foxnews.com/politics/us-moving-indict-former-cuban-leader-raul-castro-source"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Live updates: As Trump departs Beijing, China calls for end to Iran conflict",
-          "neutralSummary": "President Trump departed China on Friday after a two-day summit with President Xi Jinping, that underscored dueling priorities and resulted in a potentially steadier relationship but no apparent major business deals. Trump was overheard saying Xi would gift Trump some roses for the White House Rose",
+          "neutralHeadline": "Texas Children’s will create ‘detransition clinic’ to settle DOJ and state investigation",
+          "neutralSummary": "Texas Children’s will create ‘detransition clinic’ to settle DOJ and state investigation&nbsp;&nbsp;NBC NewsTexas Children’s Hospital to develop ‘detransition clinic,’ fire physicians as part of settlement, AG says&nbsp;&nbsp;Houston Public MediaHospital Will Open First ‘Detransition’ Clinic in Lega",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Hospital Will Open First ‘Detransition’ Clinic in Legal Settlement With Texas",
+              "url": "https://www.nytimes.com/2026/05/15/us/detransition-transgender-clinic.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "NBC News",
+              "initials": "NN",
               "domain": "news.google.com",
-              "headline": "Trump Announces Boeing Jet Order From China. Beijing Stays Silent.",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY1M5bERheUtjTUd5bnlIdnNoYkFUZDRmVVFsaUFpOW5vR0FibFBUVWhIdHF1M09LOUY2V2dicWYyVmF0WmtydmktdUQ3UzNvck9FUDd6MDhSSmpNX280V28zUElmb2pOUVBCSmtMdk1rem5BU2pySG9HMXpZOFJrVg?oc=5"
+              "headline": "Texas Children’s will create ‘detransition clinic’ to settle DOJ and state investigation",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWldtbklUX2djdGRmOWp3bHpFclFqdkVEcFluTjN1SXA1Rm9DV1J2NTEzbl8tblJfdmVwMU5WcHI4eDlDelVWQVBpWndiMVJOb3hQV3JlVjlCQ0FyRE1tNW5hd2FLLUVvb3VKZVp3NlZUU29CYWJEdUNfdjU1b090R3U4U295YzBMZTJoR0ZYQVZ6TlV2YURFYXcwLTYyMTlkem5xUldsa0xiS1B0NEM4?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "DOJ requests 1,500 more National Guard troops for planned DC ‘summer surge’",
+          "neutralSummary": "The Trump administration wants another 1,500 National Guard troops deployed to the streets of Washington part of a “summer surge” of law enforcement to the nation’s capital ahead of America’s 250th birthday, Justice Department officials announced Friday. U.S. ⁠Marshals Service Director ​Gadyaces ‌Se",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Ahead of U.S. 250th Anniversary, More National Guard Troops to Arrive in D.C.",
+              "url": "https://www.nytimes.com/2026/05/15/us/politics/law-enforcement-agents-washington-dc.html"
             },
             {
               "political": "center",
@@ -404,49 +593,49 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Live updates: As Trump departs Beijing, China calls for end to Iran conflict",
-              "url": "https://thehill.com/homenews/administration/5878422-live-updates-trump-china-cuba/"
+              "headline": "DOJ requests 1,500 more National Guard troops for planned DC ‘summer surge’",
+              "url": "https://thehill.com/homenews/administration/5880579-nationa-guard-dc-america-250/"
             }
           ]
         },
         {
           "id": "us-8",
-          "neutralHeadline": "Trump says Xi agreed US became a ‘declining nation’ during Biden years",
-          "neutralSummary": "President Donald Trump turns Xi Jinping&apos;s apparent swipe at Western decline into an attack on Biden, saying the U.S. &quot;suffered immeasurably&quot; under the prior administration.",
+          "neutralHeadline": "The Trump administration is planning a prayer event on the National Mall. All but one of the speakers is Christian",
+          "neutralSummary": "The event comes as a new survey finds that many Americans aren't comfortable mixing religion and politics.",
           "versions": [
             {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump says Xi agreed US became a ‘declining nation’ during Biden years",
-              "url": "https://www.foxnews.com/politics/trump-says-xi-agreed-us-became-declining-nation-during-biden-years"
-            },
-            {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Xi Agreed To This. Trump Just Told The World.",
-              "url": "https://www.dailywire.com/news/trump-set-to-land-in-china-for-high-stakes-talks-with-xi"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "The Trump administration is planning a prayer event on the National Mall. All but one of the speakers is Christian",
+              "url": "https://www.npr.org/2026/05/15/g-s1-122276/the-trump-administration-is-planning-a-prayer-event-on-the-national-mall-all-but-one-of-the-speakers-is-christian"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Trump's 'Staggering' Insecurity Exposed In 1 Garden Moment With Xi, Critics Say",
-          "neutralSummary": "\"The level of emotional insecurity is staggering,\" one person observed.",
+          "neutralHeadline": "SCOTUS upholds abortion pill telehealth access. And, Trump returns from China visit",
+          "neutralSummary": "The Supreme Court kept access to the abortion pill mifepristone available via telehealth. And, Trump says he made multiple trade deals during his state visit to China.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump's 'Staggering' Insecurity Exposed In 1 Garden Moment With Xi, Critics Say",
-              "url": "https://www.huffpost.com/entry/donald-trump-xi-jinping_n_6a06e1dae4b0ee7169720336"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "SCOTUS upholds abortion pill telehealth access. And, Trump returns from China visit",
+              "url": "https://www.npr.org/2026/05/15/g-s1-122218/up-first-newsletter-mifepristone-trump-china-keir-starmer-new-york-salmon-river-students"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump administration sued by veterans after banning VA abortion access",
+              "url": "https://www.washingtonexaminer.com/policy/healthcare/4571111/veterans-sue-trump-administration-va-abortion-ban/"
             }
           ]
         }
@@ -457,6 +646,22 @@
       "stories": [
         {
           "id": "singapore-1",
+          "neutralHeadline": "Living with AI: What is Singapore’s strategy to stand out in the global AI race?",
+          "neutralSummary": "There's been a broad national push to attain AI literacy, to ensure Singaporeans and businesses don’t get left behind.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Living with AI: What is Singapore’s strategy to stand out in the global AI race?",
+              "url": "https://www.straitstimes.com/tech/living-with-ai-what-is-singapores-strategy-to-stand-out-in-the-global-ai-race"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
           "neutralHeadline": "VEP applications, renewal for foreign-registered vehicles with unpaid fines will be denied: LTA, MHA",
           "neutralSummary": "Drivers of vehicles with unpaid fines must settle them before applying for or renewing the permit.",
           "versions": [
@@ -468,56 +673,22 @@
               "domain": "straitstimes.com",
               "headline": "VEP applications, renewal for foreign-registered vehicles with unpaid fines will be denied: LTA, MHA",
               "url": "https://www.straitstimes.com/singapore/vep-applications-renewal-for-foreign-registered-vehicles-with-unpaid-fines-will-be-denied-lta-mha"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Singapore to deny VEP applications, renewals for foreign-registered vehicles with outstanding fines from Nov 2",
-              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3FTSjNaMmZGNlo4Vk0zcFZtdnd1NUI0TnNzNXBxZjFURmVHcGNtVkI2SDVmYjB2cExjd05BNjd0Z1NPTU1iRHRtY1ZZOTh2aklxUGFPcnZqcGxGeElyeW1hYzdHQTRlQ2lmLU9CSGVuYS1CYnNJVXdRQUhMMHo5SWliVjA5cWhnS2FKWHM5U1BUZzkwc0xibGRyMlZDZkZ2VC1pUWJZWTl0VXdyc3ZBcGdEeTFoaU5sV0hYWklfb2pLUjd2V3NYaw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-2",
-          "neutralHeadline": "No foul play suspected in case of father, daughter found dead in Sengkang flat in 2025: Coroner",
-          "neutralSummary": "Their remains were found in the Sengkang flat after the town council received complaints of a foul smell.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "No foul play suspected in case of father, daughter found dead in Sengkang flat in 2025: Coroner",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/no-foul-play-suspected-in-father-daughter-found-dead-in-sengkang-flat-in-2025-coroner"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Woman found dead in Sengkang flat with father’s remains relied on him for food: Coroner",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYllvZzQwQWNvMGJSd3ZaUjNkUDdNVTlkVHV6WFlqT3g0elZKWlRkcy0ya2IwQlgwQVUwdEk5aFFNLWI0T3hHUU5BdjJEU2NZakJQN2RTVzdvRVJfWEQ2azNtUVZoSFFCdERQb2U2OHRzVGpJdXA2aGI5R2lvcUl0dTl5cGpja0ZjR2g2ZlV5MVRfejRS?oc=5"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "First-time drug abusers who surrender from May 16 will not be sent to DRC: Edwin Tong",
-          "neutralSummary": "The number of young abusers has increased, with over half of them aged below 30 in the last three years.",
+          "neutralHeadline": "Crossing the Causeway? Here’s your guide to 9 JB malls and what each is best for",
+          "neutralSummary": "Not all JB malls offer the same experience. We map out the city’s best-known malls by their standout strengths, so you know exactly what to expect.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "First-time drug abusers who surrender from May 16 will not be sent to DRC: Edwin Tong",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/first-time-drug-abusers-who-surrender-from-may-16-will-not-be-sent-to-drc-edwin-tong"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Crossing the Causeway? Here’s your guide to 9 JB malls and what each is best for",
+              "url": "https://www.channelnewsasia.com/travel/johor-bahru-mall-guide-shopping-6077651"
             }
           ]
         },
@@ -555,49 +726,40 @@
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "Xi’s ‘Thucydides’ Trap’ warning during summit with Trump revives debate over US-China rivalry",
-          "neutralSummary": "The concept, which draws on the ancient Greek historian Thucydides, describes the danger that conflict can erupt when a rising power challenges an established one.",
+          "neutralHeadline": "S’pore dengue cases drop 66% in first 5 months of 2026; most breeding sites in 2025 found in homes",
+          "neutralSummary": "One death from dengue has been recorded, so far, in 2026.",
           "versions": [
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Xi’s ‘Thucydides’ Trap’ warning during summit with Trump revives debate over US-China rivalry",
-              "url": "https://www.channelnewsasia.com/world/trump-xi-summit-thucydides-trap-usa-china-graham-allison-6123436"
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "S’pore dengue cases drop 66% in first 5 months of 2026; most breeding sites in 2025 found in homes",
+              "url": "https://www.straitstimes.com/singapore/spore-dengue-cases-drop-66-in-first-5-months-of-2026-most-breeding-sites-in-2025-found-in-homes"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "Trump talks about Taiwan, espionage, trade deals and future meetings with Xi",
-          "neutralSummary": "Trump talks about Taiwan, espionage, trade deals and future meetings with Xi&nbsp;&nbsp;South China Morning PostKey takeaways: Trump leaves China short on deliverables but with signs of a stabilized relationship&nbsp;&nbsp;CNNDecoding what was said and achieved - or not - over key issues at Trump-Xi",
+          "neutralHeadline": "Missing: 84-year-old man last seen in Tampines on May 15",
+          "neutralSummary": "He was last seen wearing a blue checkered shirt and black shorts.",
           "versions": [
             {
               "political": "center",
-              "tone": "optimistic",
-              "source": "South China Morning Post",
-              "initials": "SC",
-              "domain": "news.google.com",
-              "headline": "Trump talks about Taiwan, espionage, trade deals and future meetings with Xi",
-              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTEI2OWd1cWxyeXBoNU1OMDNVWUhFMktUNnhXdU1nTVc3cGg4UkdvajBwN3NjY3NEaUFodmxVQnRtWTlaUEp0MU1PaHcwSER3ZzZ4YTBmMGJROFpQalk1OHlTZm5jWUM5dUpFcmtQbnEzUlVZRkQ0V3NndVZLbUZ4ZkNRNWlKVEdZeHYwbFlWcG1DRUdQUUVGSHdPdG5aTWtLT3pJVUdxWE1ZSXRVSTBxS0lQZU5uVXVKZ1RRZHRaX0RRcjY5Ymc?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
-              "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss"
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Missing: 84-year-old man last seen in Tampines on May 15",
+              "url": "https://www.straitstimes.com/singapore/missing-84-year-old-man-last-seen-in-tampines-on-may-15"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "12 coffee shops complete toilet renovations, begin deep cleaning with NEA grants",
-          "neutralSummary": "Since applications for grants opened in November 2025, NEA has received 171 eligible applications.",
+          "neutralHeadline": "Avoid Jalan Boon Lay due to risk of flash floods: PUB",
+          "neutralSummary": "Some sections of Jalan Boon Lay should be avoided between 9.50am and 10.50am, said PUB.",
           "versions": [
             {
               "political": "center",
@@ -605,15 +767,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "12 coffee shops complete toilet renovations, begin deep cleaning with NEA grants",
-              "url": "https://www.straitstimes.com/singapore/twelve-coffee-shops-complete-toilet-renovations-deep-cleaning-after-tapping-nea-grants"
+              "headline": "Avoid Jalan Boon Lay due to risk of flash floods: PUB",
+              "url": "https://www.straitstimes.com/singapore/avoid-jalan-boon-lay-due-to-risk-of-flash-floods-pub"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "First condo launches in Tengah and Bayshore ignite April jump in new private home sales",
-          "neutralSummary": "Tengah Garden Residences and Vela Bay accounted for 79 per cent of the overall new home sales for the month.",
+          "neutralHeadline": "Missing: 2 teenage girls last seen separately in Boon Lay and Bukit Panjang",
+          "neutralSummary": "Nur Qaseh Qalisha Fadhlee was last seen on May 8; Jade Tan on May 15.",
           "versions": [
             {
               "political": "center",
@@ -621,8 +783,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "First condo launches in Tengah and Bayshore ignite April jump in new private home sales",
-              "url": "https://www.straitstimes.com/singapore/housing/first-condo-launches-in-tengah-and-bayshore-ignite-april-jump-in-new-private-home-sales"
+              "headline": "Missing: 2 teenage girls last seen separately in Boon Lay and Bukit Panjang",
+              "url": "https://www.straitstimes.com/singapore/missing-2-teenage-girls-last-seen-separately-in-boon-lay-and-bukit-panjang"
             }
           ]
         }
@@ -633,17 +795,17 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "NEET paper leak 2026: CBI arrests 'kingpin', a Chemistry professor from Pune",
-          "neutralSummary": "CBI arrested a Chemistry teacher, identified as the \"kingpin\" behind the NEET-2026 paper leak, from Pune. The teacher, PV Kulkarni, allegedly conducted special coaching classes dictating leaked questions and answers to students. The medical entrance exam was subsequently cancelled, with a re-examina",
+          "neutralHeadline": "1991 law doesn’t apply to Bhojshala, rules Madhya Pradesh HC",
+          "neutralSummary": "The HC said the statutory freeze under the Places of Worship Act, 1991 would not apply since Bhojshalais governed by a different law",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "NEET paper leak 2026: CBI arrests 'kingpin', a Chemistry professor from Pune",
-              "url": "https://timesofindia.indiatimes.com/india/neet-paper-leak-2026-cbi-arrests-kingpin-a-chemistry-professor-from-pune/articleshow/131119187.cms"
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Why Madhya Pradesh High Court ruled that Bhojshala was a temple",
+              "url": "https://indianexpress.com/article/explained/explained-law/mp-high-court-bhojshala-temple-verdict-explained-10692190/"
             },
             {
               "political": "center",
@@ -651,58 +813,33 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "CBI arrests ‘kingpin’ of NEET-UG leak: Chemistry teacher Kulkarni who worked with NTA, leaked paper in Pune",
-              "url": "https://www.hindustantimes.com/india-news/cbi-arrests-kingpin-of-neet-ug-paper-leak-chemistry-professor-pv-kulkarni-from-latur-who-worked-with-nta-101778851080762.html"
+              "headline": "1991 law doesn’t apply to Bhojshala, rules Madhya Pradesh HC",
+              "url": "https://www.hindustantimes.com/india-news/1991-law-doesn-t-apply-to-bhojshala-rules-madhya-pradesh-hc-101778908097971.html"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
+              "political": "center",
+              "tone": "optimistic",
+              "source": "Live Law",
+              "initials": "LL",
               "domain": "news.google.com",
-              "headline": "CBI nabs alleged mastermind behind NEET-UG 2026 chemistry paper leak",
-              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZkpwQ2h0b0VFQ3VTT2F5bUZoSDdvNU5fWmR3MVg2ZTh1MVpvU0gtaWstNVk1d21XMXVXUVRyelFQdkVleHljaGZTUDFRWHdmOXQ1eDItX19TU0VLOWw4SjRabUc1TEJyaTlrT2NZRGpHTmtwNlF1eVdwR09fR3drTHM5MmNLT2o2MHVic3U2SEp4RXBaU0laOXlNM0JNd0k0T1VGTFBZTUhsYmFiMjhnSTFNd1hsNHFUWVBpRGdWSkxqOVY0Q0HSAcwBQVVfeXFMT1dZcTQwV1BtR1U0SXRmSEZwZzdramY0T3drYXZLb3VOWmpHMHNvM0pEU0xWLS1pczhObHFlYlpvRC15bTFLY1JlTXBhakR5RDhSUmtnWFRjS0tjN0ZlSTJwel84YXo3cHA5dzhtbXBMRjAxVldvTjlLNHV4OUNJc3EwVVFOOXJWR3B1aUt3al9aMXB6ZDR1NHFwczViM25iQ2xZZFJEOGJTQjNfQlZ6TEZpQjJmZDlPNHkzaUUyVkRBYXd1ek44NmxCc0k1?oc=5"
+              "headline": "Bhojshala Case: MP High Court Rejects Arguments Claiming Disputed Site Is Jain Temple",
+              "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNU0lZUXdOYU1yQ0o1Z2x3c21fcFBoaE00YTRtajdMaHp1eWJ0Sjh0WFEyNzhxNVZlSGl1VnF6UEVEZ2dwellmRm0zVm1qbGVZNDYtV3pTV25YcDJwUHhqZGZuM2hRUUJXdXh1Tm45S3JIaXUtUThIVlZPQ05TYUtFQm1TSUxfcFhCbGlMeWtmRWVJZFpXMnJ6ZGdlemtDTEYxbDlhTVRFR0xRVUhYaFRaQWNJeVUzOU9GWHRKSmtVVE42Z2J6SnRwUm9YU21kYWQwcHNvTmxvenV1MFpKMnAtcndaVVcybGI3eFYxdFg2emxnbHhI0gH6AUFVX3lxTE4yV2ZGSGk0cTV3TmMxUWg2U2ZQODdDTTNsZnp4VEswd2RuOTlMQ1lQbk05VlNKZEtvU2t3U2Vlb0xhT0hTZjBSQ2wtQ0dYUDVXNFJJYlFISW03VGp3M29MM2FpSkdXLTQ1YnFCcF9ZeTZwMmlRYTdFdFBCS2dtWWlmbnBXN0cwWTI3UmFESEJuTllaeVJaaVFoZV8xRnhjOW81NGdiQktvQmdmZGVQWFVpZS1pX21tMEtsUXFVWkJNZk1SMFp0dGk2YVo4SDl4b0FQMW1NN2pZVjVQNi1wbThaS2dDYnVkaE9Dd1FxZHY5N2JnUHZpOVJwT0E?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "OpIndia",
+              "initials": "OPI",
+              "domain": "opindia.com",
+              "headline": "Madhya Pradesh HC rules that Bhojshala is a Saraswati Temple: Read about the archaeological, historical, scientific and administrative reasons cited in the landmark verdict",
+              "url": "https://www.opindia.com/2026/05/the-archaeological-historical-scientific-and-administrative-reasons-cited-in-landmark-bhojshala-verdict/"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Dhar’s Bhojshala site is a Saraswati temple, rules MP high court",
-          "neutralSummary": "The high court did not pass any orders on the demand that the goddess’s idol be brought back from a London museum",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Dhar’s Bhojshala site is a Saraswati temple, rules MP high court",
-              "url": "https://www.hindustantimes.com/india-news/dhars-bhojshala-site-is-a-saraswati-temple-rules-mp-high-court-101778847653469.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "MP declares Bhojshala complex in Dhar as temple",
-              "url": "https://economictimes.indiatimes.com/news/india/madhya-pradesh-high-court-declares-bhojshala-complex-in-dhar-as-temple/articleshow/131113672.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Live Law",
-              "initials": "LL",
-              "domain": "news.google.com",
-              "headline": "BREAKING| MP High Court Declares Bhojshala Site As Temple, Quashes ASI Circular Allowing Muslims To Offer ...",
-              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY0xHM2VsVk9TNi1NeEZHNS1YZGdHcjdsck1acmxkRU9rbmQ3UUl6a29sTUstYVRDaVo0aEVXZ05tS3F6cXR2SWl4cjZQQWZtdDA2X1ZyN19xU1ZMbm9IcW9ac0lxNmNNQmdLWFdHNnd4cjFzU0J5R2p6Ty1hRFJqOEJqcWJ4VDN1YkxQcXV6WVdwQVpJRzFmSHZicl96S0JjclZOcEpad3FILW84dkVxYTYxX1ZTQjlEVnA0UVlPVHMyb2lncFl1VV8tambSAdIBQVVfeXFMUHQxdWtnZVlHVHlYSWZBdlg0Rm01YWNxR0RSZEU3SHlmV0lRVi1xNzR0WkJlRUJ1eU42RXVoUjdDNXRSR3I2ZGtucmJYUXpZczBfeGtaVUpVdDRhcFB6Mkp3bUdoRDhKcWhTSlpMS0RwN3drQTNiRUEyMGlsbmY1cGl6V3VBYTFBMnp6VXFQb1FQR0xxMVRPckg4T21ZV0RRMkxRTVpZVC01MW04dGxQYndaQnozU3hsSWRwZW9tMjFIQ0lkRzJjckR5QjcxRG14cnZB?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Supreme Court Introduces Fuel-Saving Measures : Only VC Hearing On Misc Days; Judges To Carpool; WFH For...",
-          "neutralSummary": "Supreme Court Introduces Fuel-Saving Measures : Only VC Hearing On Misc Days; Judges To Carpool; WFH For...&nbsp;&nbsp;Live LawSupreme Court goes fully virtual twice a week amid PM Modi’s appeal to save fuel&nbsp;&nbsp;Bar and BenchCarpooling, virtual hearing, WFH: SC judges follow through on PM Mod",
+          "neutralHeadline": "Op Epic Fury to resume? Trump weighs fresh Iran strikes after China visit: Report",
+          "neutralSummary": "As US President Trump returns from China, pressure mounts over Iran. Top aides are reportedly preparing options for renewed military action against Tehran if diplomacy falters, including intensified bombing and potential Special Operations deployments.  Iran, meanwhile, signals readiness for conflic",
           "versions": [
             {
               "political": "left",
@@ -710,24 +847,142 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Supreme Court To Go Virtual, Judges To Car-Pool Amid Save Fuel Push",
-              "url": "https://www.ndtv.com/india-news/supreme-court-to-go-virtual-judges-to-car-pool-amid-save-fuel-push-11500478#publisher=newsstand"
+              "headline": "Trump, Back From China, Preps Big Iran Strikes With Epic Fury 2.0: Report",
+              "url": "https://www.ndtv.com/world-news/donald-trump-back-from-china-preps-big-iran-strikes-with-epic-fury-2-0-report-11503065#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Op Epic Fury to resume? Trump weighs fresh Iran strikes after China visit: Report",
+              "url": "https://timesofindia.indiatimes.com/world/us/operation-epic-fury-to-resume-donald-trump-weighs-fresh-iran-strikes-after-china-visit-report/articleshow/131131463.cms"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Live Law",
-              "initials": "LL",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Trump calls meeting with China's Xi 'G-2'",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-returns-from-china-visit-calls-meeting-with-xi-g-2/articleshow/131130577.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "News18",
+              "initials": "N18",
               "domain": "news.google.com",
-              "headline": "Supreme Court Introduces Fuel-Saving Measures : Only VC Hearing On Misc Days; Judges To Carpool; WFH For...",
-              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOVZwcHhQUFcyU0dqNlN4a0tsUU56UWNGTWZlSmhCaGhwa1VGY2hCYm9uclVDd0tWNkpyV2xzN0J0QTJTOEtmSW90WVZpWGFOTTA5bGxweG9PTkdtMnVCT2Z0TWd5T2JueFYzeXZOYlE3RTBmWVpIakxYa1BDdk5aaHVtcjNtVlEyTkxYTDBFcmtGc1ctRndoeGRvQ29za3lYTTdfcllfc1ZMcW15TGdqbHhRNTdTTEs4c1BJOVZYR1pqZElIQXMxOVlTdkItaEllcVU4eFRKRWpqMTJtWEdGWUp30gHnAUFVX3lxTE14TFVMZGlxM2xQSGZva2tZUWZHZHIyYmlnbGFIWnlFSDlNb2xYcnBhaUlQZDZrWXp3LUpINzlTT3czZ25zVFdidnFRcWJlcElLZ1hTdWJLUTM4RjZ6SzMzS2hyY0tCUlBHRzVpdUxoMFFCZVdOZnBkakV2Skxicm4xTW92ODl3aTVaOEJKVGw0YUpHSGQwSjJHNW5iV1QwQmRUZ0l6U1E1LVl6dkdEWDJWdjkwWi1nSFpOMkl2TGpTVXg3MFBmRWZVSXVLRlhtV01hc3lvRzZXNzZsRnhtZ2s5ckRzLUhlSQ?oc=5"
+              "headline": "Peace Deal Or Renewed Military Strikes? Trump’s Iran Dilemma As He Returns From Beijing",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWE5kUXRsUWVUXzU5NDZCWUxSZXJGWmx6bW1ENVdjUkZkVThzazJpUFA1QXJ0UzRxcFN1emRCNVN1WU5lcnZEamNnZWRuQ1podmFieTQ1RkVkTnFrakhIQWxLYVBhYXFySFA4aENvbXNTaU03XzhFM19sTm5tM19nN3poTkhKMXhsNEU4cjRNOE5ZWDFjM0JGbG1PdTBUU082YlBEcXZzNmNjeXBJYjhsdlJFTzfSAboBQVVfeXFMTjVCcFhuZGN6NDZiUVpTaW94b1lSV09kTC1SSXNzN3o0ZVkzOUszbkQ1dzZMQ0t0eFk1RTFRNk4tSkJObmVmbS1ySk0zSWJCWHdHMlc5M2RtTlJKMUhLdVhHN2hRZE9EQS1OLTYzOEljM3h0a0dFWC1XOUpVY2RUbVpxZFBZQ1IxSEpkVGo3enNxd0JzLVZQRDQtV1hLVGR1R2d4QlRMMkR4SVdiNGRZYmIzOE9Ob1dZVDVB?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "'Expected to score 650 marks': 22-year-old NEET aspirant dies by suicide",
+          "neutralSummary": "A 22-year-old NEET aspirant died by suicide in Sikar, with his family attributing his death to severe stress following the NEET exam cancellation due to a paper leak. Another 20-year-old MBBS aspirant was found dead in Lakhimpur Kheri, with his family also linking it to the NEET exam's cancellation",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Rajasthan NEET Aspirant Dies By Suicide, Father Says Was Expecting 650 Marks",
+              "url": "https://www.ndtv.com/india-news/neet-ug-paper-leak-neet-exam-cancellation-rajasthan-neet-aspirant-dies-by-suicide-father-says-was-expecting-650-marks-11502885#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Expected to score 650 marks': 22-year-old NEET aspirant dies by suicide",
+              "url": "https://timesofindia.indiatimes.com/city/jaipur/expected-to-score-650-marks-22-year-old-neet-aspirant-dies-by-suicide/articleshow/131130741.cms"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "US arms sales safe, ties to deepen: Taiwan's message to China after Trump-Xi meet",
-          "neutralSummary": "Taiwan asserted that U.S. arms sales are protected by American law, aiming to reassure its citizens after the Trump-Xi summit. Taipei emphasized its commitment to deepening strategic ties with the United States, stressing that military assistance is not a negotiable concession with China.",
+          "neutralHeadline": "Trump Says US Forces, Nigeria Armed Forces Killed ISIS Leader",
+          "neutralSummary": "US and Nigerian forces killed an ISIS leader who was hiding in Africa, President Donald Trump said, adding that his death has “greatly diminished” the group’s global operations.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "\"Thought He Could Hide\": Trump Says Top ISIS Leader Abu-Bilal Killed",
+              "url": "https://www.ndtv.com/world-news/us-kills-isis-second-in-command-globally-abu-bilal-al-minuki-in-africa-says-donald-trump-11503177#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Trump Says US Forces, Nigeria Armed Forces Killed ISIS Leader",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-16/trump-says-us-forces-nigeria-armed-forces-killed-isis-leader"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "FIR against Abhishek Banerjee over inflammatory statements, remarks against Amit Shah",
+          "neutralSummary": "FIR against Abhishek Banerjee over inflammatory statements, remarks against Amit Shah&nbsp;&nbsp;The Times of IndiaTrinamool's Abhishek Banerjee Charged For Provocative Speeches During Poll Campaign&nbsp;&nbsp;NDTVFIR against Abhishek Banerjee for remarks against Amit Shah&nbsp;&nbsp;The Indian Expr",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Case Against Abhishek Banerjee Over 'Which Godfather Will Save Them' Remark",
+              "url": "https://www.ndtv.com/india-news/trinamool-congress-abhishek-banerjee-charged-for-provocative-speeches-during-west-bengal-poll-campaign-11502963#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "FIR against Abhishek Banerjee over inflammatory statements, remarks against Amit Shah",
+              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeEEwMXN2LXdYdXJEZnVKWUVoZnlJVmVPSTA3N2UzNVRKSTRiTHYzVGR5d1RMRm1pU1NOb2MyOXlZSlJVUElIeUVOemg3eTZYR2JndGVFTlJKRlM5bkRmb25TS2FEOUZ1aUc1SEhwZHVRQmNTSUFKS2xDaVBqVkdxSnNQalpESmlyeEd1RXdVbXhwLXpjcnd4TkZBR3lfSjc3S0pVRmdvcVVqc2FhQ1Q2cHg0U2lNbEh6eURjTW5NY1BnemZ3OUliV19fOHIxbVZwMVRpWWRUdUxmLXBDSXhRdnN5Mmd1aXJxeExIam1PUU7SAfYBQVVfeXFMT041ZmpaQmlrTzBkRlRMVUpRNlhBNnFNVktBRVI5U3FMcFNIbjFyT1lNQllnN01iRVVsMk5CMFNkSF9qbFpYcjkybzlRY2hlTU84US1BQ1ZRQTNPVWtZcHZCeng3a19MNjg0ZmlCUXMta2VxSTlOYi1fNERPeURBWExhd0s3cnktcFFscDR0a0M4ZEpweXlxOWZWWllrOEF2S0c5RWxtR2ZPcGZjZWRPM0FCZFpCcHprRGJWTlEyVmE5VFE0SmQ5aHNzd1JOSk5BTWxUeDUyZk8yZ3BUTFBsNHZpdmMxQW9LcGVYMm81SU55Um4tdHNB?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "'Calling to molest again': Lucknow professor offers to leak exam paper to girl student",
+          "neutralSummary": "Lucknow University's zoology assistant professor is in police custody following allegations of leaking exam papers and making inappropriate advances towards a female student. Audio recordings, submitted by the student, reportedly capture the professor discussing paper leaks and offering academic fav",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Lucknow University Professor Detained Over Paper Leak Allegations",
+              "url": "https://www.ndtv.com/lucknow-news/lucknow-university-professor-detained-over-paper-leak-allegations-11502818#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Calling to molest again': Lucknow professor offers to leak exam paper to girl student",
+              "url": "https://timesofindia.indiatimes.com/city/lucknow/lu-teacher-offers-to-leak-exam-paper-to-girl-student-in-exchange-of-favours/articleshow/131127214.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "'ISIS greatly diminished': Trump announces killing of 'most active terrorist' in Africa",
+          "neutralSummary": "US President Donald Trump announced the killing of Abu-Bilal al-Minuki, identified as ISIS's global second-in-command, in a joint US-Nigerian operation. Trump stated the mission, executed at his direction, successfully removed a key terrorist leader who was planning attacks on Americans and destabil",
           "versions": [
             {
               "political": "center",
@@ -735,88 +990,67 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "US arms sales safe, ties to deepen: Taiwan's message to China after Trump-Xi meet",
-              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/taiwans-message-to-china-after-trump-xi-meet-us-arms-sales-safe-washington-ties-to-deepen/articleshow/131120331.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Kadapa police issues warning against communal posts on social media",
-          "neutralSummary": "Kadapa police issues warning against communal posts on social media",
-          "versions": [
+              "headline": "'ISIS greatly diminished': Trump announces killing of 'most active terrorist' in Africa",
+              "url": "https://timesofindia.indiatimes.com/world/us/isis-greatly-diminished-trump-announces-killing-of-most-active-terrorist-abu-bilal-al-minuki-in-africa/articleshow/131131389.cms"
+            },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Kadapa police issues warning against communal posts on social media",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/kadapa-police-issues-warning-against-communal-posts-on-social-media/article70983865.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Minimal vehicles in Kerala CM’s convoy; people should not be blocked, says Satheesan",
-          "neutralSummary": "Satheesan says he will not be buying a new official car and will use whatever vehicle is available",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Minimal vehicles in Kerala CM’s convoy; people should not be blocked, says Satheesan",
-              "url": "https://www.thehindu.com/news/national/kerala/minimal-vehicles-in-kerala-cms-convoy-people-should-not-be-blocked-says-satheesan/article70984012.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "A global centre for peace also emerging as hub for defence projects, says Rammohan Naidu",
-          "neutralSummary": "The AMCA project symbolises a new dimension of national security and technological advancement and reflects Andhra Pradesh’s growing prominence in defence and aerospace sectors",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "A global centre for peace also emerging as hub for defence projects, says Rammohan Naidu",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/a-global-centre-for-peace-also-emerging-as-hub-for-defence-projects-says-rammohan-naidu/article70983671.ece"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "news.google.com",
+              "headline": "US Kills ISIS \"Second-In-Command\" Abu-Bilal-Al-Minuki In Africa, Says Trump",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSHBBNXRQUkU3QkVaNUpGVTNZWGNJZjJESGxTWW1YMmZOQ0dHQ1Y3OGs0UzVndjZmOGN4V3FkbmEyY2JZM0RLdUJTZEpaSUYyakE4dWRXVEVjSUs0QlFQTGlyNWJXZHJNcFJOOWw5RUd1S1VaUHphOGdPTHJuVmttSi1zS2VmUGRDeVluOUg5a1N2aERkalBpQTlUbUl2MkpET0JVeTNTbEhVdzB0ZmkzOGJHNTFRci1veVFoamhCUE5FNDNVeURDZQ?oc=5"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Many parts of Karnataka to receive rainfall over the next couple of days",
-          "neutralSummary": "Many parts of Karnataka to receive rainfall over the next couple of days",
+          "neutralHeadline": "India, UAE finalise defence, energy and shipping pacts worth $5 billion during Modi’s Abu Dhabi visit",
+          "neutralSummary": "PM Modi described the agreements between the two sides as pivotal for vital sectors and said they will boost the bilateral comprehensive strategic partnership.",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Many parts of Karnataka to receive rainfall over the next couple of days",
-              "url": "https://www.thehindu.com/news/national/karnataka/many-parts-of-karnataka-to-receive-rainfall-over-the-next-couple-of-days/article70983375.ece"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "India, UAE finalise defence, energy and shipping pacts worth $5 billion during Modi’s Abu Dhabi visit",
+              "url": "https://www.hindustantimes.com/india-news/india-uae-finalise-defence-energy-and-shipping-pacts-worth-5-billion-during-modi-s-abu-dhabi-visit-101778895828982.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "India deepens defence, energy ties with UAE during PM Modi visit",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDhoVjBDY3I3ZkJ1am9uYzZHaURtV3RwaUcyWHh1VzBMR0VuNGFjeVRDdEY0bzBUMmtqSS1QRHF2TVNpOFVsNXpPU2lhTkpQV20xd1FxMWxIdVRsTldPY203MDJ0dG1rbW5HTklFYllZMm5FT291T3JZMEFLVkNtQ0MtSzV3a2lHZ2x4UlhLRjJrVUVlZ0FMNHpSUUg4WkpwMkZXMlBCSEQ1blZkZGdoVg?oc=5"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Kochi Corporation to expedite ro-ro dry-docking as fleet falters",
-          "neutralSummary": "The vessels were due for dry-docking in December 2024, but the deadline has since been extended twice, pushing it to 2027 and resulting in significant wear and tear",
+          "neutralHeadline": "Married woman kills lover with husband's help, stuffs body in green drum before dumping it in Vasai; Arrested",
+          "neutralSummary": "The deceased, identified as Arbaz Maqsood Ali Khan, 26, was a resident of Mumbra and worked as an engineer with a prominent real estate developer in Dombivli.",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Kochi Corporation to expedite ro-ro dry-docking as fleet falters",
-              "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-to-fast-track-ro%E2%80%90ro-dry-dock-as-fleet-falters/article70981846.ece"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Married woman kills lover with husband's help, stuffs body in green drum before dumping it in Vasai; Arrested",
+              "url": "https://www.hindustantimes.com/india-news/married-woman-kills-lover-stuffs-body-in-blue-drum-before-dumping-it-in-thane-drain-arrested-husband-maharashtra-mumbai-101778894464840.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Today",
+              "initials": "TD",
+              "domain": "news.google.com",
+              "headline": "Blue drum horror 2.0? Maharashtra woman, husband kill lover, dumps body in drain",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM2JDdGZwSHJVNG1oR05LUldrSlg2endheGJWMktIc21zRUdSRkxGelpaQzBqd2dPSHE1a3lWQ1o2YXZmR3IxWkxfTUxXTk93WjhPOGlVVUFXRV8wNDR4eUM4TWdzcWEyZ1FTQ2FEVFlGRjNBcDJXd2V3bEVFVl9KNWhyazVVN1dVV04zR2prTW94Mks1dlo4SWdGXy1yS2g1NktyZUJwVUxiQTJocVJITmlSbjlwLWYwQXlTZjhVSUVqYVVoNVHSAcsBQVVfeXFMTkU4a2hrNUJCVkR3VnVqakpHbVBxMTMwNmtfbi1Fc0c4c0Z4VS1uSDJobmVoXzBlSmFaR0p5RHUzM0J4RHNhNmJMcGhaZnhDalZWY3ljckg0d002Ykg3bUJrRnU4NFhMZmxyYnpIcVA1YzlxSHl0ZEhMTU82WGZPZGFqbklDcVIyWWlKM0czN0NUS2xFLU1KNlBabV81RzJfTDJ5LU8wTWd1eW9MVm1CRlI3eGRTTFhRMXpnZnR6eHlKX3MxcHpxclBHWFk?oc=5"
             }
           ]
         }
