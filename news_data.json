@@ -1,11 +1,63 @@
 {
-  "generatedAt": "2026-05-17T14:27:23.435650+00:00",
+  "generatedAt": "2026-05-18T06:03:27.137116+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
+          "neutralHeadline": "WHO declares emergency as Ebola outbreak kills more than 80 in DR Congo",
+          "neutralSummary": "The World Health Organization declared an international health emergency on Sunday over an outbreak of an Ebola strain in the Democratic Republic of Congo that has killed more than 80 and for which there is no vaccine.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
+              "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "WHO declares Ebola outbreak in DR Congo an international emergency",
+              "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "news.google.com",
+              "headline": "A new Ebola outbreak has already killed 87 people in Democratic Republic of Congo",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRWpsSE0zTFlIWjNRNGVNazQzUkhmYjBGQTlOcWlvWnQ5bVRnWXhjdGVvZ05QZjRXN1lDVEhGN3Rmc0pjaXpmdnozaC1EVmM1WThuNXRyQThjMjFkcW51eEJxZUd2RXlGZWxFR0VlOElIU0tOLTRaNEhWT2dESmhZOGlGN0c0SjVoSjV2Sl9ITmx4NGhiSXcw?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Will the latest Ebola outbreak in DR Congo and Uganda spread further?",
+              "url": "https://www.aljazeera.com/video/inside-story/2026/5/17/will-the-latest-ebola-outbreak-in-dr-congo-and-uganda-spread-further?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "WHO declares emergency as Ebola outbreak kills more than 80 in DR Congo",
+              "url": "https://www.france24.com/en/who-declares-emergency-as-ebola-outbreak-kills-more-than-80-in-dr-congo"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
           "neutralHeadline": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
           "neutralSummary": "US president calls Abu-Bilal al-Minuki ‘most active terrorist in the world’ and says he was eliminated in ‘very complex mission’Donald Trump has said US and Nigerian forces killed the “second in command” global leader of the Islamic State.“Tonight, at my direction, brave American forces and the Arme",
           "versions": [
@@ -28,15 +80,6 @@
               "url": "https://www.huffpost.com/entry/trump-says-islamic-state-group-leader-killed-joint-us-nigerian-mission_n_6a085824e4b0ee716972e766"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump says Islamic State group leader was killed in a joint U.S.-Nigerian mission",
-              "url": "https://www.npr.org/2026/05/16/g-s1-122461/islamic-state-leader-killed"
-            },
-            {
               "political": "right",
               "tone": "neutral",
               "source": "Fox News",
@@ -48,77 +91,9 @@
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "WHO declares global health emergency over Ebola outbreak in DR Congo",
-          "neutralSummary": "General Tedros Adhanom Ghebreyesus declared the Ebola disease outbreak in Congo and neighboring Uganda a public health emergency of international concern on Sunday after more than 300 suspected cases and 88 deaths. In a post on X, the World Health Organization said the outbreak does not meet the cri",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
-              "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "WHO declares Ebola outbreak in DR Congo an international emergency",
-              "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "WHO declares global health emergency over Ebola outbreak in DR Congo",
-              "url": "https://www.france24.com/en/who-declares-global-health-emergency-over-ebola-outbreak-in-dr-congo"
-            }
-          ]
-        },
-        {
           "id": "global-3",
-          "neutralHeadline": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
-          "neutralSummary": "W.H.O. Declares Ebola Outbreak a Global Health Emergency&nbsp;&nbsp;The New York TimesEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)Ebola",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
-              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlBNcWJWdDIyakJkanY1eTFnLUJYaU10S0FXbzNrNWtfeDhJczA0c1VSeUZHejdWelNjZjZNVWZ2SW1HOUVJblNXeVZJV2p1UTJ2SDdRbFJKX29KMC1YQmF3allUaTV1NHJLSjNnblRrMVNYR2toLWxuY0lZYWU0TEt1dHVSc2dqdmhfemhYTjUzOXFOdmU2eGxJLXJzVmta?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "WHO declares Ebola outbreak in DRC a global health emergency",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/who-declares-ebola-outbreak-in-drc-a-global-health-emergency?traffic_source=rss"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "WHO declares Ebola outbreak in Central Africa a public health emergency after 80 suspected deaths",
-              "url": "https://www.foxnews.com/world/who-declares-ebola-outbreak-central-africa-public-health-emergency-80-suspected-deaths"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Humpback Whale Released After Spectacular Rescue Effort Found Dead Off Denmark",
-          "neutralSummary": "The finding brought a sad end to weeks of efforts to guide the mammal back to its natural habitat in the Atlantic Ocean.",
+          "neutralHeadline": "Dead humpback whale off Denmark is 'Timmy'",
+          "neutralSummary": "Dead humpback whale off Denmark is 'Timmy'&nbsp;&nbsp;DW.comTimmy the humpback whale found dead off Danish coast&nbsp;&nbsp;NPRHumpback whale released after spectacular rescue effort found dead off Denmark&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosWhale found dead near Danish island",
           "versions": [
             {
               "political": "left",
@@ -132,25 +107,25 @@
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Whale found dead near Danish island after German rescue operation",
-              "url": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
               "headline": "Timmy the humpback whale found dead off Danish coast",
               "url": "https://www.npr.org/2026/05/16/g-s1-122490/timmy-humpback-whale-dead-stranded-rescue-denmark"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "DW.com",
+              "initials": "D",
+              "domain": "news.google.com",
+              "headline": "Dead humpback whale off Denmark is 'Timmy'",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85VDJIdU1ZV1ZkcFEwMTVKOVlOcGNONjB1UWFJMUxyYncxblJKYmtPb3ZPcURvMEt6WHpYcVhXbmU1ekVUMHJTaVl1eWpNaHJ5bXhlRXVEYnExYk5CWEF3UExHMXFSRk5GeW5WdEF6ajdZRXN3ckZ4NXZUdmZKQdIBfkFVX3lxTE9MdzljeDBCU3lWYXVsWWdzcFhuaHRQaFVfM3c4N1pIY2N6Mm9tcFdUS2lieTV1eFVIR1RPMGs1WDN0LVZ5VV9GeDRqZXNsbl9xeVVhbDFjZzhwczdCV0dfTW9hcUw2blZuaG9NejByNzktUnJHRUVFcFRfRGpmZw?oc=5"
             }
           ]
         },
         {
-          "id": "global-5",
+          "id": "global-4",
           "neutralHeadline": "Maldives Suspends Search For 4 Italians In Underwater Cave After Military Diver Dies",
           "neutralSummary": "The group of five Italian divers is believed to have died while exploring a cave at a depth of about 50 meters (160 feet) in Vaavu Atoll on Thursday.",
           "versions": [
@@ -184,9 +159,9 @@
           ]
         },
         {
-          "id": "global-6",
-          "neutralHeadline": "Ukrainian drone strikes on Russia kill 4 and wound 12 others, while debris lands on a Moscow airport",
-          "neutralSummary": "Ukrainian drone strikes on Russia kill 4 and wound 12 others, while debris lands on a Moscow airport&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+          "id": "global-5",
+          "neutralHeadline": "US, Iran Far From Hormuz Deal as Trump Says Clock Ticking",
+          "neutralSummary": "US, Iran Far From Hormuz Deal as Trump Says Clock Ticking&nbsp;&nbsp;Bloomberg.com‘Won’t be anything left’: Trump issues warning to Iran after national security team meeting&nbsp;&nbsp;CNNStocks fall and oil prices gain after Trump warns the Iran ‘clock is ticking’&nbsp;&nbsp;AP NewsTrump warns Iran",
           "versions": [
             {
               "political": "left",
@@ -194,85 +169,17 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-              "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Ukrainian drone strikes on Russia kill 4 and wound 12 others, while debris lands on a Moscow airport",
-              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXlmX1k4LTM3YmxmVHBUSVpQTzBuaVJBSWxDdWlpWGJianNEbnl6ekQtMktpSkRuMEJFQ1JLNlBJaUVYOUJTTXd2VG1oR1dEZDI2VVlXbm9hNkZMMUo1aXBZVTZCaExDRWxJRld0dUZxdFJ4enJJVkJsSy16TXFwdDRsR2lyUUVsQ2I5N1dmNGppazBJRjlKbWVXWFdMSDVJYUxlVWl4dHlRekNQTkE?oc=5"
+              "headline": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+              "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
               "tone": "pessimistic",
               "source": "Bloomberg",
               "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Record Drone Attack on Moscow Kills Three, Targets Refinery",
-              "url": "https://www.bloomberg.com/news/articles/2026-05-17/record-drone-attack-on-moscow-kills-three-targets-refinery"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Trump-backed challenger defeats Republican senator who voted to convict president",
-          "neutralSummary": "Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent \"disloyal\".",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Trump-backed challenger defeats Republican senator who voted to convict president",
-              "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Republican Senator Cassidy loses Louisiana primary after opposing Trump",
-              "url": "https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump?traffic_source=rss"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Republican Sen. Bill Cassidy — who voted to convict Trump — loses Louisiana primary as president takes victory lap: ‘Political career is OVER!",
-              "url": "https://nypost.com/2026/05/16/us-news/la-republican-sen-bill-cassidy-fails-to-make-runoff-in-primary-as-trump-backed-challenger-tops-vote/"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Middle East: Israel attacks south Lebanon day after ceasefire extension",
-          "neutralSummary": "Israel launched a massive series of airstrikes on southern Lebanon on Saturday, despite an extension of the truce between the two countries.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-              "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "New wave of Israeli strikes pound Lebanon despite ceasefire",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/new-wave-of-israeli-strikes-pound-lebanon-despite-ceasefire?traffic_source=rss"
+              "domain": "news.google.com",
+              "headline": "US, Iran Far From Hormuz Deal as Trump Says Clock Ticking",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0Q3c3h1X0QwTW12M19VTDR4dWRlUDMzTDROSnl3YmRrMGczaHBORmRUQ09qRzBBckJiQXBSMVRXZ3p2SUhXdVJJdlZJZnpoQXA4RnRXWUJZVXMzaWhTYm9xY25leUFiczIwanZpa19RRmtHdnF0cUlycW5fUDctUHVFanExcU9rYXpWVFVLSV8xRDBLV1AtOFBXcncxMFRlcTRyM1I5NVg1S3lqUDdvWENQbw?oc=5"
             },
             {
               "political": "center",
@@ -280,15 +187,74 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Middle East: Israel attacks south Lebanon day after ceasefire extension",
-              "url": "https://www.france24.com/en/middle-east-israel-attacks-south-lebanon-day-after-ceasefire-extension"
+              "headline": "Trump warns Iran that 'there won't be anything left of them' without peace deal",
+              "url": "https://www.france24.com/en/middle-east/20260518-trump-warns-iran-peace-deal"
             }
           ]
         },
         {
-          "id": "global-9",
-          "neutralHeadline": "Search For Italian Divers Killed In Maldives Cave Dive Suspended Due To Bad Weather",
-          "neutralSummary": "Italy’s Foreign Ministry said the five divers “apparently died while attempting to explore caves at a depth of 50 meters (164 feet)” in the Vaavu Atoll on Thursday.",
+          "id": "global-6",
+          "neutralHeadline": "Hantavirus-hit cruise ship due to arrive at Rotterdam port as final destination",
+          "neutralSummary": "Hantavirus-hit cruise ship due to arrive at Rotterdam port as final destination&nbsp;&nbsp;ReutersHantavirus-stricken cruise ship expected to arrive in the Netherlands&nbsp;&nbsp;The Seattle TimesMV Hondius cruise ship to arrive in the Netherlands on Monday&nbsp;&nbsp;NBC NewsHantavirus-hit cruise s",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Canadian from hantavirus-hit cruise ship tests positive",
+              "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "Hantavirus-hit cruise ship due to arrive at Rotterdam port as final destination",
+              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSHpfby11Z3pRQWN0SUZrZkZHVXhaZnRvNUJHbUZoZDV0VFNlVW9tOU1qVTJNZEx3VU9ZZ1NXeDg1V1Y2NWdBSzVYMVA3TE9jdzVxNDBOMWtOV25ScVpvNkJSYW5HXzZOSU5QWFBja1VvU0tkVkRORkxManJGY3FGaUtOUk5wcGF6c0lucjhtMWF5U2M4aW1MbzE3cVhMcmM3NDZjSk5iNzJmbjRNeXdNTFZEWnVvcnQ4RFJlZVI4aTVTUXFCSk54aVhxc1hMVVdvTlkxZnk5VUI3dw?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Hantavirus-hit cruise ship MV Hondius arrives in Rotterdam for disinfection",
+              "url": "https://www.france24.com/en/europe/20260518-hantavirus-hit-cruise-ship-mv-hondius-arrives-in-rotterdam-for-disinfection"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
+          "neutralHeadline": "Canada confirms first hantavirus case in isolation in British Columbia",
+          "neutralSummary": "The person was onboard the MV Hondius, the center of the outbreak that has claimed three livesCanadian officials said on Saturday that a test for one of the four Canadians currently quarantining in British Columbia after being exposed to the hantavirus while on board the cruise ship where the outbre",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Canada confirms first hantavirus case in isolation in British Columbia",
+              "url": "https://www.theguardian.com/world/2026/may/16/canada-first-hantavirus-case-british-columbia"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Canada confirms hantavirus case linked to cruise ship outbreak that has killed three passengers",
+              "url": "https://www.foxnews.com/world/canada-confirms-hantavirus-case-linked-cruise-ship-outbreak-killed-three-passengers"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "3 Finnish divers arrive in the Maldives to remap the search for the bodies of 4 Italian divers",
+          "neutralSummary": "3 Finnish divers arrive in the Maldives to remap the search for the bodies of 4 Italian divers&nbsp;&nbsp;AP NewsTop divers join perilous mission to recover Italian tourists’ remains from Maldives sea cave&nbsp;&nbsp;CNNRescue diver dies during search for bodies of Italians who drowned in Maldives c",
           "versions": [
             {
               "political": "left",
@@ -300,13 +266,38 @@
               "url": "https://www.huffpost.com/entry/high-risk-search-underway-for-4-italian-divers-killed-in-maldives-cave-dive_n_6a071405e4b098065be960e4"
             },
             {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "3 Finnish divers arrive in the Maldives to remap the search for the bodies of 4 Italian divers",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVVE3YVNtY3hLbmJ1Q2c4TkR6Z3ZRR0pDZFd3dEtuUEFadGlVcGVSdHgtOHc1RGVyWE1lTXhKRTZiUWwzTHJDekVWcWtUZHNudkNzMElRRGRMTjR2bW9XUUh6dy1mT1lUWUktNE5MTFpfb1hDdlY3YUtLLS1zOFRLMXhZcDFrTnBwWUhWLU1kNVNZX2tWeUZ5NW9aQXJ5ZEhQRkEw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Moment two fighter jets collide mid-air at US air show",
+          "neutralSummary": "Four crew members safely ejected from US Navy jets and are in a stable condition after the collision.",
+          "versions": [
+            {
               "political": "left",
               "tone": "neutral",
-              "source": "CNN",
-              "initials": "CNN",
-              "domain": "news.google.com",
-              "headline": "Top divers join perilous mission to recover Italian tourists’ remains from Maldives sea cave",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPakxFc2FtQV9LYWdvbkxRc2VyWnYxZEhqMEUxSlJpa2RBV3F2Y2J1V0M2TjR2TlBqc2xGT0FxVHBGd08zNWRDbkFveEY0aDZtU0hDZW5zWHFDaS14X3ZfNW5IWmkxOGsyWHJBSU93SExaRFYtRnBzSG96a1RCVWtoMG9Id2o?oc=5"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Moment two fighter jets collide mid-air at US air show",
+              "url": "https://www.bbc.com/news/videos/ce8pzkg7klgo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Moment of collision between two Navy jets at Idaho air show",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/moment-of-collision-between-two-navy-jets-at-idaho-air-show?traffic_source=rss"
             }
           ]
         }
@@ -317,8 +308,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Senate parliamentarian nixes Trump’s ballroom fund in budget bill",
-          "neutralSummary": "Senate parliamentarian nixes Trump’s ballroom fund in budget bill&nbsp;&nbsp;NBC NewsSenate Ruling Threatens Ballroom Funding in G.O.P. Budget Bill&nbsp;&nbsp;The New York TimesSenate parliamentarian rules against Trump’s White House ballroom funding in budget bill&nbsp;&nbsp;The HillFederal funding",
+          "neutralHeadline": "Crew members safely eject after Navy jets collide during Idaho air show",
+          "neutralSummary": "Crew members safely eject after Navy jets collide during Idaho air show&nbsp;&nbsp;PBSTwo F-18 fighter jets have crashed during an airshow at Mountain Home Air Force Base&nbsp;&nbsp;KBOIMidair collision sparks crash at Idaho air show; crews ejected, ‘found safe’&nbsp;&nbsp;Idaho StatesmanTwo jets cr",
           "versions": [
             {
               "political": "left",
@@ -326,76 +317,42 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Senate Ruling Threatens Ballroom Funding in G.O.P. Budget Bill",
-              "url": "https://www.nytimes.com/2026/05/16/us/politics/white-house-ballroom-senate.html"
+              "headline": "Two Military Jets Collide in Midair at Idaho Air Show",
+              "url": "https://www.nytimes.com/2026/05/17/us/planes-crash-gunfighter-skies-show.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Military aircrew in 'stable condition' following midair collision at Idaho air show",
+              "url": "https://www.npr.org/2026/05/17/nx-s1-5825065/airshow-crash-idaho-military-air-force"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "NBC News",
-              "initials": "NN",
+              "source": "PBS",
+              "initials": "P",
               "domain": "news.google.com",
-              "headline": "Senate parliamentarian nixes Trump’s ballroom fund in budget bill",
-              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRFZwYkJkS0tnS2pIR3FHVjY3LXhuWlV4VVhXbW1nOEJhel9nRFAyNkdfakVMemdOdVVzUVBUTV9FeERZZEFnbFVLTXljckxTZldaMUhOTXdOanlVWk1heEM1RUFwRURET250VWJNLWRINERUaVpET2p0bXhwa1I1VVFjNjRLNjRweUlDNVJaTGlwM1FFSGVzSXc0ajA2Zk92dmNuVkdBTno3WFJGUmg5MWM1SXJXODJZazBTdEw4SFQ0SFRv?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Senate parliamentarian rules against Trump’s White House ballroom funding in budget bill",
-              "url": "https://thehill.com/homenews/senate/5882011-senate-parliamentarian-rejects-trump-white-house-ballroom-funding/"
+              "headline": "Crew members safely eject after Navy jets collide during Idaho air show",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3pNN3hsWEJqNGNzVEJ4XzJ2UzU5eXl6VHBnU2RrZk5KdGpUak5UalZZOUtISzItTTdBU1ZkSUc2TEdXVjliTURtZ3F6VnZwRlNCZTBKQThyS0xRUzZEYTRLTVl1c2tSOFphQUx3YVZHYlVHTklsRFVvelFFbl95SXRPVFhBMUJqc2tQZHpDTm9jMDJtci00YVdsYW95Y252OVdJZ0FuM1VfQQ?oc=5"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Trump’s White House ballroom funding in jeopardy after Senate ruling, Democrats say",
-              "url": "https://nypost.com/2026/05/17/us-news/trumps-white-house-ballroom-funding-in-jeopardy-after-senate-ruling/"
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "WATCH: Military Jets Collide Midair At Idaho Air Show",
+              "url": "https://www.dailywire.com/news/military-jets-collide-idaho-air-show"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "Trump calls for GOP challenger to Rep. Boebert as she campaigns with Massie in Kentucky",
-          "neutralSummary": "President Trump threatened to pull his endorsement of Rep. Lauren Boebert (R-Colo.) on Saturday, as she campaigned with Rep. Thomas Massie (R-Ky.) ahead of a tough reelection fight. Trump railed against Boebert in a pair of back-to-back posts on Truth Social, calling her “weak-minded” and asking if",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump calls for GOP challenger to Rep. Boebert as she campaigns with Massie in Kentucky",
-              "url": "https://thehill.com/homenews/campaign/5881792-trump-boebert-endorsement-threat/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump calls out Rep Thomas Massie: 'Kentucky, get this LOSER out of politics' Tuesday",
-              "url": "https://www.foxnews.com/politics/trump-calls-rep-thomas-massie-kentucky-get-loser-politics-tuesday"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Trump threatens ‘weak minded’ Boebert with primary after she campaigns for Massie",
-              "url": "https://nypost.com/2026/05/16/us-news/trump-threatens-weak-minded-boebert-with-primary-after-she-campaigns-for-massie/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Cassidy loses Louisiana Senate GOP primary as Trump-backed challenger advances to runoff",
-          "neutralSummary": "Sen. Bill Cassidy (R-La.) was projected to fail to advance to the runoff in Louisiana’s GOP Senate primary Saturday, according to Decision Desk HQ, ending the incumbent senator’s reelection bid after years of political fallout from his vote to convict President Trump following the Jan. 6, 2021, Capi",
+          "neutralHeadline": "Trump-Backed Rep. Letlow, State Treasurer Fleming Advance To Louisiana Senate Runoff, Oust Cassidy",
+          "neutralSummary": "U.S. Rep. Julia Letlow has advanced to a runoff in Louisiana’s Republican Senate primary.",
           "versions": [
             {
               "political": "left",
@@ -412,8 +369,92 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Cassidy Loses Senate Primary in Louisiana, as Trump Vanquishes G.O.P. Foe",
-              "url": "https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html"
+              "headline": "What to Know About Letlow And Fleming in the Louisiana Senate Race",
+              "url": "https://www.nytimes.com/2026/05/17/us/politics/letlow-fleming-cassidy-louisiana-senate.html"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Teenagers arrested in random shootings across Austin that left 4 injured",
+          "neutralSummary": "Teenagers arrested in random shootings across Austin that left 4 injured&nbsp;&nbsp;AP News3 in custody following multiple 'random' shootings in Austin&nbsp;&nbsp;KVUEMayor, APD chief talk license plate readers following shootings&nbsp;&nbsp;KXAN Austin2 teenagers in custody following weekend crime",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "2 Teenagers Arrested After Drive-By Shootings in Austin Injure at Least 4",
+              "url": "https://www.nytimes.com/2026/05/18/us/austin-texas-shooting-arrest.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Teenagers arrested in random shootings across Austin that left 4 injured",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlJ6MjAza0ZSTGdWdkgtYmtlV1BHTGticFI3NU5Nc1NPQVJVbTBUWldtbUI1YnFIbTRzV0dZbWYzbGpDcTFJR255ZUtmRS1JbDRhc0hqTzlLUGlCZjVHcER2aUdnWXg3UndyRUNjNG1KTWFqTXJEZDZYZ2dXVGxsdHd3UVhnb0NsWmc?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "3 teens arrested for at least 10 ‘random’ weekend shootings across Austin",
+              "url": "https://nypost.com/2026/05/17/us-news/2-teens-arrested-1-wanted-for-at-least-10-random-weekend-shootings-across-austin/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Trump-backed prayer festival on National Mall draws thousands: ‘We welcome Jesus!’",
+          "neutralSummary": "Trump-backed prayer festival on National Mall draws thousands: ‘We welcome Jesus!’&nbsp;&nbsp;The Washington PostTrump Administration Pushes Narrative of Christian Nation at Prayer Rally in D.C.&nbsp;&nbsp;The New York TimesWashington prayer rally draws thousands to the National Mall, in photos&nbsp",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Trump-backed prayer festival on National Mall draws thousands: ‘We welcome Jesus!’",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeDVURnE1Z2xQMWIzR2lEQ3lCWnBINmZ3eS1tdmdlTUc2RGhKN3hHbFNhQndMdnZFeVFFMkQ0SVVZRkFFWEs3cW1iajhJakxjSUNGTVVDWG9jeEhZLUVGM0VXd2h6OVJ0LVNManR5VXdmWnhULTNLaHNQemhwMUhzazJSTzUtLXlOWVdoRkQ0cGl2UUEzQzdKeUdWWm5Pd25Ma1E?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump reads Bible as thousands pack National Mall for America 250 prayer rally",
+              "url": "https://www.foxnews.com/politics/trump-reads-bible-thousands-pack-national-mall-america-250-prayer-rally"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Thousands Of Christians Fill National Mall For Prayer Service Celebrating America’s Faith Heritage",
+              "url": "https://www.dailywire.com/news/thousands-of-christians-fill-national-mall-for-prayer-service-celebrating-americas-faith-heritage"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Trump warns Iran ‘clock is ticking’ as peace negotiations stall",
+          "neutralSummary": "President Trump on Sunday warned Iran that the &#8220;clock is ticking&#8221; as peace negotiations between the U.S. and Tehran appear to be at a standstill. “For Iran, the Clock is Ticking, and they better get moving, FAST, or there won’t be anything left of them. TIME IS OF THE ESSENCE,” the presi",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01R2lYa2NMU1Joc2U4RFJUYnRTaHVReEc1VGdzdWRmYUhLYjlsbVVjak9NM2w1dlc5aTFZcHQ5MEZOZm10MDZmUk9CdlNMVnhqbGJzbEVGUFJhQQ?oc=5"
             },
             {
               "political": "center",
@@ -421,13 +462,22 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Cassidy loses Louisiana Senate GOP primary as Trump-backed challenger advances to runoff",
-              "url": "https://thehill.com/homenews/campaign/5876242-cassidy-fails-louisiana-gop-primary-letlow-fleming/"
+              "headline": "Trump warns Iran ‘clock is ticking’ as peace negotiations stall",
+              "url": "https://thehill.com/homenews/administration/5882193-trump-iran-clock-ticking/"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump warns Iran's 'clock is ticking': Move 'fast' or 'there won't be anything left'",
+              "url": "https://www.foxnews.com/politics/trump-warns-irans-clock-ticking-move-fast-there-wont-anything-left"
             }
           ]
         },
         {
-          "id": "us-4",
+          "id": "us-6",
           "neutralHeadline": "Trump Blasts 'Disloyal' Senator Who Voted To Impeach Him, Urges Votes For Challenger On Morning Of GOP Primary",
           "neutralSummary": "\"Senator Bill Cassidy of Louisiana is a disloyal disaster,\" began a post by President Donald Trump on the day that the senator faced two challengers in his state primary.",
           "versions": [
@@ -441,15 +491,6 @@
               "url": "https://www.huffpost.com/entry/trump-bill-cassidy-julia-letlow-primary_n_6a089472e4b0ee716972ed0d"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Louisiana senator who voted to convict Trump loses Republican primary",
-              "url": "https://www.npr.org/2026/05/16/nx-s1-5824533/bill-cassidy-lost-louisiana-primary-letlow-trump"
-            },
-            {
               "political": "right",
               "tone": "pessimistic",
               "source": "Fox News",
@@ -461,68 +502,9 @@
           ]
         },
         {
-          "id": "us-5",
-          "neutralHeadline": "Cassidy Loses His Primary in Louisiana, as Trump Vanquishes Another G.O.P. Foe",
-          "neutralSummary": "Cassidy Loses His Primary in Louisiana, as Trump Vanquishes Another G.O.P. Foe&nbsp;&nbsp;The New York TimesTrump sent a message by targeting Bill Cassidy. In defeat, Cassidy delivered one back&nbsp;&nbsp;CNNBill Cassidy: Republican senator who voted to convict Trump battles for re-election in Louis",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Cassidy Loses His Primary in Louisiana, as Trump Vanquishes Another G.O.P. Foe",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXJ3ZkVVWEtxZXNBVGZNY013TVBaY283N21aNnA3VnlOQ0JfTnQ3aXhQaVpxRVhqTFJCaHI2Y3BQWFFiYlFTcHlIMGdNaTFZcEl4NEh4ZEl2cTVkRFhxcHU3TVVzZEFGNTI2UktucWZMQ3ZkYXRZT0pyTi1HUGJMZEJwb3d1Z1E?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump scores major Republican primary victory as Cassidy ousted in Louisiana",
-              "url": "https://www.foxnews.com/politics/trump-scores-major-republican-primary-victory-cassidy-ousted-louisiana-"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Republican Sen. Bill Cassidy — who voted to convict Trump — loses Louisiana primary as president takes victory lap: ‘Political career is OVER!",
-              "url": "https://nypost.com/2026/05/16/us-news/la-republican-sen-bill-cassidy-fails-to-make-runoff-in-primary-as-trump-backed-challenger-tops-vote/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Supreme Court Rebuffs Virginia Democrats In Bid For New Voting Map",
-          "neutralSummary": "The justices declined to halt a ruling by Virginia's top court that blocked a voter-approved pro-Democratic map for the midterms.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Supreme Court Rebuffs Virginia Democrats In Bid For New Voting Map",
-              "url": "https://www.huffpost.com/entry/supreme-court-virginia-democrats-map_n_6a07a0a2e4b0a33000e1f6d3"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "At Supreme Court, Virginia Democrats Pressed Legal Theory Embraced by Trump",
-              "url": "https://www.nytimes.com/2026/05/16/us/at-supreme-court-virginia-democrats-pressed-legal-theory-embraced-by-trump.html"
-            }
-          ]
-        },
-        {
           "id": "us-7",
-          "neutralHeadline": "To Critics, Trump Remarks Reveal a Billionaire Out of Touch",
-          "neutralSummary": "The president has never pretended to be an ordinary American, but a recent “truth bomb” has opened him to criticism that he doesn’t grasp the economic strain of his war with Iran.",
+          "neutralHeadline": "Americans Among Those Affected by Ebola Outbreak, C.D.C. Says",
+          "neutralSummary": "A small number of U.S. citizens have been directly affected by the outbreak in the Democratic Republic of Congo and Uganda, the C.D.C. said on Sunday.",
           "versions": [
             {
               "political": "left",
@@ -530,15 +512,24 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "To Critics, Trump Remarks Reveal a Billionaire Out of Touch",
-              "url": "https://www.nytimes.com/2026/05/17/us/politics/to-critics-trump-remarks-reveal-a-billionaire-out-of-touch.html"
+              "headline": "Americans Among Those Affected by Ebola Outbreak, C.D.C. Says",
+              "url": "https://www.nytimes.com/2026/05/18/us/ebola-outbreak-congo-uganda-americans-cdc.html"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "‘Small number of Americans’ affected by Ebola outbreak in Congo: CDC",
+              "url": "https://www.washingtonexaminer.com/news/world/4572175/small-number-americans-affected-ebola-outbreak-congo/"
             }
           ]
         },
         {
           "id": "us-8",
-          "neutralHeadline": "Lamar Alexander Wants Republicans to Stand Up to Trump",
-          "neutralSummary": "In a new memoir, the former senator, governor and cabinet member says President Trump committed an impeachable offense on Jan. 6 and calls on Congress to assert its power.",
+          "neutralHeadline": "Trump Administration Pushes Narrative of Christian Nation at Prayer Rally in D.C.",
+          "neutralSummary": "The day-long prayer event featured speakers from President Trump’s cabinet and a program that drew connections between the nation’s founding and Christianity.",
           "versions": [
             {
               "political": "left",
@@ -546,33 +537,42 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Lamar Alexander Wants Republicans to Stand Up to Trump",
-              "url": "https://www.nytimes.com/2026/05/17/us/politics/lamar-alexander-republicans-trump.html"
+              "headline": "Trump Administration Pushes Narrative of Christian Nation at Prayer Rally in D.C.",
+              "url": "https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump and administration officials address Christian gathering on National Mall",
+              "url": "https://www.npr.org/2026/05/17/nx-s1-5825003/trump-christian-national-mall-prayer-service-250"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "7 Republicans Voted to Convict Trump. Most Are No Longer in Office.",
-          "neutralSummary": "Senator Bill Cassidy’s defeat means no more than two of them will be left in Congress next year.",
+          "neutralHeadline": "Drone strikes UAE nuclear plant highlighting risk of renewed war",
+          "neutralSummary": "A drone strike sparked a fire on the edge of the United Arab Emirates' sole nuclear power plant on Sunday in what authorities called an \"unprovoked terrorist attack.\"",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "7 Republicans Voted to Convict Trump. Most Are No Longer in Office.",
-              "url": "https://www.nytimes.com/2026/05/16/us/politics/republicans-trump-cassidy-conviction-impeachment.html"
+              "tone": "pessimistic",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Drone strikes UAE nuclear plant highlighting risk of renewed war",
+              "url": "https://www.npr.org/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant"
             },
             {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Voters Decide Fate Of Senator Who Voted To Convict Trump",
-              "url": "https://www.dailywire.com/news/voters-decide-fate-of-senator-who-voted-to-convict-trump"
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Fire sparked after drone strike at UAE nuclear plant",
+              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMG5rbmpvbjB4X19wZjdnanNWQWFDaGNEZzdyakFvTnpjcmxlc0xyTzIyNnNJejBtd0dzYlZ0WnptVXJicW85SUdIQ2dTX2xoLTlYaTdTN25TUGlCSWs4RGdaZkIydmVxQ1NaU0VxbGEtN1lETDNUamI3ZXdGcElTcmVMc2FZZ19jRFhBQ2JlRWRTbTltbklHbUIwM1BQdw?oc=5"
             }
           ]
         }
@@ -583,8 +583,106 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Train-bus collision kills at least 8 in Bangkok: Police",
-          "neutralSummary": "Images on social media show the train approaching a level crossing at a moderate speed before colliding with the bus, which instantly burst into flames.",
+          "neutralHeadline": "Keppel to allow Simba’s bid for M1 to lapse, explore new buyers",
+          "neutralSummary": "Keppel to allow Simba’s bid for M1 to lapse, explore new buyers",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Keppel to allow Simba’s bid for M1 to lapse, explore new buyers",
+              "url": "https://www.straitstimes.com/tech/keppel-to-allow-simbas-bid-for-m1-to-lapse-explore-new-buyers"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Keppel to let M1-Simba deal lapse on May 21 deadline after IMDA suspends review",
+              "url": "https://www.channelnewsasia.com/singapore/m1-simba-deal-lapse-deadline-imda-suspends-review-6127551"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "3 retailers caught using misleading website features such as fake visitor counts, countdown timers",
+          "neutralSummary": "They have stopped these practices and provided formal undertakings to CCS.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "3 retailers caught using misleading website features such as fake visitor counts, countdown timers",
+              "url": "https://www.straitstimes.com/singapore/3-online-retailers-caught-using-misleading-website-features-such-as-fake-visitor-counts-countdown"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
+          "neutralHeadline": "IMDA suspends review of proposed Simba-M1 merger amid probe into possible breach",
+          "neutralSummary": "IMDA learnt that Simba could have been using radio frequency bands to provide mobile services without authorisation.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "IMDA suspends review of proposed Simba-M1 merger amid probe into possible breach",
+              "url": "https://www.straitstimes.com/tech/imda-suspends-review-of-telco-merger-between-simba-and-m1"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "IMDA suspends review of Simba's proposed acquisition of M1 amid probe into potential regulatory breach",
+              "url": "https://www.channelnewsasia.com/singapore/imda-m1-simba-sale-acquisition-investigation-keppel-6127346"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Driver arrested after pedestrian dies in Jalan Besar accident",
+          "neutralSummary": "The 58-year-old female pedestrian had been taken unconscious to Tan Tock Seng Hospital.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Driver arrested after pedestrian dies in Jalan Besar accident",
+              "url": "https://www.straitstimes.com/singapore/man-arrested-after-pedestrian-dies-in-jalan-besar-accident"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "MRT construction worker dies after being hit by concrete slab at Cross Island Line work site",
+          "neutralSummary": "The incident happened at the construction site of the upcoming Turf City MRT station.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "MRT construction worker dies after being hit by concrete slab at Cross Island Line work site",
+              "url": "https://www.straitstimes.com/singapore/construction-worker-dies-after-being-struck-by-concrete-slab-in-turf-club-road"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Earthquake hits southwest China; thousands evacuate, buildings collapse",
+          "neutralSummary": "Thirteen buildings collapsed after the quake shook&nbsp;Guangxi's Liuzhou city.",
           "versions": [
             {
               "political": "center",
@@ -592,72 +690,54 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Train-bus collision kills at least 8 in Bangkok: Police",
-              "url": "https://www.channelnewsasia.com/asia/thailand-bangkok-train-bus-collision-fire-makkasan-station-6125566"
+              "headline": "Earthquake hits southwest China; thousands evacuate, buildings collapse",
+              "url": "https://www.channelnewsasia.com/east-asia/china-earthquake-liuzhou-guangxi-southwest-region-6127481"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Train driver charged over fatal collision with bus in Bangkok",
-              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWpYTnlONExGd1dBVU5qWVFYVWRUdU1uUVFqOThyTG11bXRhZEFRUkVCQnZYWkhqOFJEOGVBb0V5MmZGMW9jSEx2R3NCdDc5SG9DV19HN0swengwNEtETHdlMFZ1OHQ5c2R1cnVwbDNrRUhYQ2tKdHZxZDB2NFd1blJaZ21uYXhHZFVDbjh1SUE0aVJkc0dxZXRrNjl3MEdKenIxTU9B?oc=5"
-            },
-            {
-              "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Freight train and bus crash kills at least eight in Bangkok",
-              "url": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss"
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "Earthquake hits southwest China; thousands evacuate, buildings collapse",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUUJQWUNMNGxockJVa3B6SmdrdkpHMktlZ0xfaWYxNVlzV2RkaFptTkE0Um1Yd2Z0MzJ2VFBGMUhBTF9UeWFXdFFGZlh1bWR0aUxWdmc2eWxUbnUzVG5haXJXQ1ZFVGp2WlhFdHljdWw5QndpMFpBWkhEMUJURVBHb2s3cG9kaURTOFlHOTJTU1FVbVZmUlBBTWx3UkR1LVBBQW1XSWJ4ekhYSWJRdWY0M29jQUpXTU4t?oc=5"
             }
           ]
         },
         {
-          "id": "singapore-2",
-          "neutralHeadline": "Found: 14-year-old last seen in Woodlands on May 16",
-          "neutralSummary": "Hans Rafael Yuhanis was last seen in a black T-shirt and black pants near Causeway Point.",
+          "id": "singapore-7",
+          "neutralHeadline": "Commentary: Are the glory days for Southeast Asian budget carriers over?",
+          "neutralSummary": "Skyrocketing fuel prices are starting to impact air travel in Southeast Asia with low-cost carriers particularly vulnerable, writes aviation analyst Brendan Sobie.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Found: 14-year-old last seen in Woodlands on May 16",
-              "url": "https://www.straitstimes.com/singapore/missing-police-appeal-for-information-on-14-year-old-last-seen-in-woodlands-on-may-16"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AsiaOne",
-              "initials": "A",
-              "domain": "news.google.com",
-              "headline": "Missing girls last seen in Boon Lay and Bukit Panjang found, Singapore News",
-              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ3JpcG43ZThJNEJ0NEVYcE9DM2hBb0hfc0t5VlFUX3pvRExjbXlwdFdpNG1WRkNPSjNvZWZ3ZmM3UzBEdUlFa1pnaHF0Y3FmXzJpNS1TOGFQMWlidXJtRzNtdE0yampnR2FRbkR4WlFCTXpBU3ZUT0dxeEZxcENJdTI5cTRQTmZaNXBTdkJTX3ZzVU9kZkJFczIwcnVMb0dlcng5bXp2cTB6WUZWaFE4UDlNRFpFRjB1S1VrN09VaDM3R2c3UWlr?oc=5"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Commentary: Are the glory days for Southeast Asian budget carriers over?",
+              "url": "https://www.channelnewsasia.com/commentary/energy-crisis-jet-fuel-budget-carrier-southeast-asia-travel-6121311"
             }
           ]
         },
         {
-          "id": "singapore-3",
-          "neutralHeadline": "Site supervisor dies after bricks, canopy collapse on him at house near Upper Paya Lebar",
-          "neutralSummary": "MOM is investigating the incident and has instructed a stop to all works at the worksite.",
+          "id": "singapore-8",
+          "neutralHeadline": "Anwar says ready to call GE and ‘fight’ BN after it signals intent to go solo in Johor",
+          "neutralSummary": "Speaking at a Pakatan Harapan (PH) convention, PM Anwar Ibrahim suggested that Barisan Nasional’s announcement that it would go solo in contesting upcoming Johor state polls was akin to threats that could amount to “betrayal” to their unity government partnership.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Site supervisor dies after bricks, canopy collapse on him at house near Upper Paya Lebar",
-              "url": "https://www.straitstimes.com/singapore/site-supervisor-dies-after-bricks-canopy-collapse-on-him-at-house-near-upper-paya-lebar"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Anwar says ready to call GE and ‘fight’ BN after it signals intent to go solo in Johor",
+              "url": "https://www.channelnewsasia.com/asia/anwar-ph-general-election-johor-bn-6126706"
             }
           ]
         },
         {
-          "id": "singapore-4",
+          "id": "singapore-9",
           "neutralHeadline": "South Korea says it will pursue all options to avoid Samsung strike",
           "neutralSummary": "Just one day of suspension at Samsung Electronics' semiconductor factory is expected to incur direct losses of as much as US$667.68 million, said Prime Minister Kim Min-seok.",
           "versions": [
@@ -671,86 +751,6 @@
               "url": "https://www.channelnewsasia.com/business/south-korea-samsung-strike-avoid-6126406"
             }
           ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Construction worker dies after being struck by concrete slab in Turf Club Road",
-          "neutralSummary": "The incident happened during hacking works.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Construction worker dies after being struck by concrete slab in Turf Club Road",
-              "url": "https://www.straitstimes.com/singapore/construction-worker-dies-after-being-struck-by-concrete-slab-in-turf-club-road"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Muslims in Singapore to celebrate Hari Raya Haji on May 27: Mufti",
-          "neutralSummary": "Hari Raya Haji is celebrated on the 10th day of Zulhijjah and marks the end of the haj pilgrimage to Mecca in Saudi Arabia.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Muslims in Singapore to celebrate Hari Raya Haji on May 27: Mufti",
-              "url": "https://www.straitstimes.com/singapore/muslims-in-singapore-to-celebrate-hari-raya-haji-on-may-27-mufti"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Missing: 14-year-old girl last seen near Toa Payoh on May 11",
-          "neutralSummary": "She was last seen wearing a school uniform comprising a dark blue top and dark blue skirt.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Missing: 14-year-old girl last seen near Toa Payoh on May 11",
-              "url": "https://www.straitstimes.com/singapore/missing-14-year-old-girl-last-seen-near-toa-payoh-on-may-11"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "Missing: 66-year-old man last seen in Choa Chu Kang on the morning of May 17",
-          "neutralSummary": "He was wearing a light purple shirt, black shorts and grey sandals.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Missing: 66-year-old man last seen in Choa Chu Kang on the morning of May 17",
-              "url": "https://www.straitstimes.com/singapore/missing-66-year-old-man-last-seen-in-choa-chu-kang-on-the-morning-of-may-17"
-            }
-          ]
-        },
-        {
-          "id": "singapore-9",
-          "neutralHeadline": "Growth of urban cities discussed at Lianhe Zaobao’s inaugural cultural forum",
-          "neutralSummary": "The event featured four prominent cultural figures from across Asia, including a film director and writer.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Growth of urban cities discussed at Lianhe Zaobao’s inaugural cultural forum",
-              "url": "https://www.straitstimes.com/singapore/community/growth-of-urban-cities-discussed-at-lianhe-zaobaos-inaugural-cultural-forum"
-            }
-          ]
         }
       ]
     },
@@ -759,8 +759,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "After Kerala, Karnataka becomes Congress’s next leadership challenge",
-          "neutralSummary": "The Kerala Congress leadership change has fueled speculation in Karnataka, with Deputy CM D K Shivakumar's supporters pushing for his elevation to the top post. While the party high command has publicly backed Chief Minister Siddaramaiah, Shivakumar's camp sees the Kerala development as a hopeful pr",
+          "neutralHeadline": "Kerala gets new govt as UDF returns after 10 years; VD Satheesan takes oath as CM",
+          "neutralSummary": "Kerala gets new govt as UDF returns after 10 years; VD Satheesan takes oath as CM",
           "versions": [
             {
               "political": "left",
@@ -768,58 +768,17 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Kerala Cabinet: Congress leadership in talks with UDF allies to seal allocation of ministerial berths",
-              "url": "https://www.thehindu.com/news/national/kerala/kerala-cabinet-congress-leadership-in-talks-with-udf-allies-to-seal-allocation-of-ministerial-berths/article70989702.ece"
+              "headline": "Kerala swearing-in ceremony LIVE: Congress leader Satheesan takes oath as Chief Minister, Cabinet Ministers follow",
+              "url": "https://www.thehindu.com/news/national/kerala/kerala-oath-taking-swearing-in-ceremony-congress-udf-vd-satheesan-live-updates-may-18-2026/article70991409.ece"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "After Kerala, Karnataka becomes Congress’s next leadership challenge",
-              "url": "https://timesofindia.indiatimes.com/city/bengaluru/after-kerala-karnataka-becomes-congresss-next-leadership-challenge/articleshow/131151640.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "Chennithala, Muraleedharan among Congress ministers in Kerala cabinet, IUML to get 5 posts",
-          "neutralSummary": "The ministers in the cabinet include Congress leaders Ramesh Chennithala, K Muraleedharan and KPCC chief Sunny Joseph.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "IUML to get five Cabinet posts in UDF government in Kerala",
-              "url": "https://www.thehindu.com/news/national/kerala/iuml-to-get-five-cabinet-posts-in-udf-government-in-kerala/article70990367.ece"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Chennithala, Muraleedharan among Congress ministers in Kerala cabinet, IUML to get 5 posts",
-              "url": "https://www.hindustantimes.com/india-news/chennithala-muraleedharan-among-congress-ministers-in-kerala-satheesan-cabinet-iuml-to-get-5-posts-101779022659416.html"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "From uranium transfer to frozen assets, US sets 5 conditions in response to Iran’s proposal",
-          "neutralSummary": "From uranium transfer to frozen assets, US sets 5 conditions in response to Iran’s proposal",
-          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Uranium Transfer, Nuclear Limits: US Sets 5 Conditions In Ongoing Iran Talks",
-              "url": "https://www.ndtv.com/world-news/uranium-transfer-nuclear-limits-us-sets-5-conditions-in-ongoing-iran-negotiations-11507870#publisher=newsstand"
+              "headline": "VD Satheesan Takes Oath As Kerala Chief Minister With 20-Member Cabinet",
+              "url": "https://www.ndtv.com/india-news/vd-satheesan-with-20-member-cabinet-to-take-oath-in-kerala-today-11509390#publisher=newsstand"
             },
             {
               "political": "center",
@@ -827,24 +786,8 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "From uranium transfer to frozen assets, US sets 5 conditions in response to Iran’s proposal",
-              "url": "https://timesofindia.indiatimes.com/world/middle-east/from-uranium-transfer-to-frozen-assets-us-sets-5-conditions-in-response-to-irans-proposal/articleshow/131155154.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "From Lahore to Kashmir to a hair-transplant clinic: How a terrorist switched aims to fight baldness instead",
-          "neutralSummary": "During interrogation, Usman Jatt ‘Chinese’ allegedly said life in Kashmir bore no resemblance to picture painted at terrorist training camps across the border.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Lashkar Terrorist's Mission Detour: A Hair Transplant In Kashmir",
-              "url": "https://www.ndtv.com/india-news/lashkar-terrorists-mission-detour-a-hair-transplant-in-kashmir-11507830#publisher=newsstand"
+              "headline": "Kerala gets new govt as UDF returns after 10 years; VD Satheesan takes oath as CM",
+              "url": "https://timesofindia.indiatimes.com/india/kerala-gets-new-govt-as-udf-returns-after-10-years-vd-satheesan-takes-oath-as-cm/articleshow/131167507.cms"
             },
             {
               "political": "center",
@@ -852,115 +795,8 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "From Lahore to Kashmir to a hair-transplant clinic: How a terrorist switched aims to fight baldness instead",
-              "url": "https://www.hindustantimes.com/india-news/from-lahore-to-kashmir-to-a-hair-transplant-clinic-how-a-terrorist-switched-aims-to-fight-baldness-instead-101779024401663.html"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Tamil film producer K Rajan dies by suicide at the age of 85 in Chennai",
-          "neutralSummary": "Tamil film producer K Rajan died by suicide on Sunday after allegedly jumping off the Adyar bridge in Chennai, leaving the industry in shock. Rajan, who had a multifaceted career as a producer, writer, director, and actor, was known for his work on films like Brammacharigal and Thunivu. Police have",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Veteran Tamil producer K Rajan dies by suicide; Kushboo expresses shock",
-              "url": "https://indianexpress.com/article/entertainment/tamil/veteran-tamil-producer-k-rajan-dies-by-suicide-kushboo-expresses-shock-10694471/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Tamil film producer K Rajan dies by suicide at the age of 85 in Chennai",
-              "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/tamil-film-producer-k-rajan-dies-by-suicide-at-the-age-of-85-in-chennai/articleshow/131154921.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "New Keralam govt: VD Satheesan announces cabinet before oath - check full list",
-          "neutralSummary": "Kerala chief minister-designate V. D. Satheesan has announced his new cabinet, set to be sworn in on Monday. Prominent leaders like Ramesh Chennithala and Sunny Joseph will be part of the ministry. Thiruvanchoor Radhakrishnan has been named Speaker, with Shanimol Usman as Deputy Speaker.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Satheesan announces Kerala Cabinet, CM rival Chennithala part of team",
-              "url": "https://indianexpress.com/article/political-pulse/kerala-cabinet-list-cm-vd-satheesan-ramesh-chennithala-ldf-congress-10694446/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "New Keralam govt: VD Satheesan announces cabinet before oath - check full list",
-              "url": "https://timesofindia.indiatimes.com/india/new-keralam-govt-cm-designate-vd-satheesan-announces-cabinet-before-oath-check-full-list/articleshow/131154792.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Watch: Gripen fighter jets escort PM Modi's plane as it enters Swedish airspace",
-          "neutralSummary": "Watch: Gripen fighter jets escort PM Modi's plane as it enters Swedish airspace",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Watch: Gripen fighter jets escort PM Modi's plane as it enters Swedish airspace",
-              "url": "https://timesofindia.indiatimes.com/india/watch-gripen-fighter-jets-escort-pm-modis-plane-as-it-enters-swedish-airspace/articleshow/131154342.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Gripen fighter jets escort PM Modi's plane as it enters Swedish airspace: Video",
-              "url": "https://www.hindustantimes.com/india-news/gripen-fighter-jets-escort-pm-modis-plane-as-it-enters-swedish-airspace-video-101779019689063.html"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Indian among dead in Ukrainian drone strike in Russia; Zelenskyy calls attack 'justified'",
-          "neutralSummary": "A Ukrainian drone strike in the Moscow region resulted in the death of one Indian worker and injuries to three others. Ukrainian President Volodymyr Zelenskyy stated the attack was justified retaliation for Russia's continued assaults on Ukraine. Russia reported intercepting hundreds of drones in on",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Indian among dead in Ukrainian drone strike in Russia; Zelenskyy calls attack 'justified'",
-              "url": "https://timesofindia.indiatimes.com/india/indian-among-dead-in-mass-ukrainian-drone-strike-in-russia-zelenskyy-calls-attack-justified/articleshow/131154252.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "PM Modi’s Netherlands visit: The dam India may look to for water lessons",
-          "neutralSummary": "Prime Minister Narendra Modi's visit to the Afsluitdijk dam in the Netherlands highlighted Dutch expertise in water management, relevant to India's ambitious Kalpasar Project. This mega-project aims to create a freshwater reservoir in Gujarat, addressing water scarcity and flood protection, mirrorin",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "PM Modi’s Netherlands visit: The dam India may look to for water lessons",
-              "url": "https://timesofindia.indiatimes.com/india/why-pm-modi-visited-netherlands-afsluitdijk-dam-the-dutch-model-india-may-need/articleshow/131151801.cms"
+              "headline": "Kerala welcomes new UDF government after 10 years as VD Satheesan takes oath as new CM",
+              "url": "https://www.hindustantimes.com/india-news/kerala-welcomes-new-udf-government-after-10-years-as-vd-satheesan-takes-oath-101779079230699.html"
             },
             {
               "political": "center",
@@ -968,8 +804,217 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "PM Modi leaves for Sweden after Netherlands visit",
-              "url": "https://economictimes.indiatimes.com/news/india/pm-modi-leaves-for-sweden-after-netherlands-visit-boosts-strategic-ties/articleshow/131152640.cms"
+              "headline": "Satheesan takes oath as Kerala's new chief minister",
+              "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/kerala/v-d-satheesan-takes-oath-as-keralas-new-chief-minister-leads-udfs-return-after-decade/articleshow/131165531.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "'Dangerous escalation': India condemns drone strike near UAE's Barakah nuclear plant, urges restraint",
+          "neutralSummary": "In a statement, the Ministry of External Affairs urged all sides to exercise restraint and return to dialogue and diplomacy to prevent further tensions.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Deeply concerned: India on drone strike near UAE's Barakah nuclear plant",
+              "url": "https://www.thehindu.com/news/national/deeply-concerned-india-on-drone-strike-near-uaes-barakah-nuclear-plant/article70992537.ece"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "\"Dangerous Escalation\": India Condemns Attack On UAE Nuclear Plant",
+              "url": "https://www.ndtv.com/world-news/iran-war-dangerous-escalation-india-condemns-attack-on-uae-barakah-nuclear-plant-11510087#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "'Dangerous escalation': India condemns drone strike near UAE's Barakah nuclear plant, urges restraint",
+              "url": "https://www.hindustantimes.com/india-news/india-condemns-drone-strike-near-uae-barakah-nuclear-plant-urges-restraint-us-iran-war-abu-dhabi-news-mea-dubai-news-101779074617889.html"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Fire breaks out in Bihar passenger train; no casualties reported",
+          "neutralSummary": "Fire breaks out in Bihar passenger train; no casualties reported&nbsp;&nbsp;The Times of IndiaFire breaks out inside train in Bihar's Sasaram, no casualties reported&nbsp;&nbsp;The HinduAnother train fire: Massive blaze engulfs Sasaram-Patna passenger train coach | Watch&nbsp;&nbsp;Moneycontrol.comM",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Fire breaks out inside train in Bihar's Sasaram, no casualties reported",
+              "url": "https://www.thehindu.com/news/national/bihar/fire-breaks-out-inside-train-in-bihars-sasaram-no-casualties-reported/article70992532.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Passenger Train Catches Fire In Bihar, Short Circuit Likely Cause",
+              "url": "https://www.ndtv.com/india-news/fire-in-bihars-sasaram-patna-passenger-train-short-circuit-likely-cause-11509852#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "Fire breaks out in Bihar passenger train; no casualties reported",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaDAyQXlVVDZmMHJDTndHQ3kzTURmUE1iVnU3cUZILUdHZElEckRTQ3ctNEloY2NRazVhWDRaNXg4eEVFdHBYbUo2RTJmSlhjSU5iZUNNRHE3ZXhXQ0s2cjdrX0FfLWt2X2o0NUtyTEYza2RPQkJNZ05ibEhCNTJ3Q2JDRnNnS3RlUjVtYTFXMWxxWjNNdDFxMjhFS000RUJpdy02TU0yT1FNdU8xRHRLZm11bW5scEJTaE53ZUc0ejNmZjNpUW5jTjQzNA?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Man kills 23-yr-old pregnant wife by inserting hacksaw blade into private part",
+          "neutralSummary": "A man in Chhattisgarh's Surguja district allegedly killed his 23-year-old pregnant wife by inserting a hacksaw blade into her private part during a severe assault. The accused confessed to the brutal act, which occurred in the presence of their four-year-old daughter. The victim was three months pre",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Man kills 23-yr-old pregnant wife by inserting hacksaw blade into private part",
+              "url": "https://timesofindia.indiatimes.com/city/raipur/man-kills-23-year-old-pregnant-wife-by-inserting-hacksaw-blade-into-private-parts/articleshow/131167236.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Man inserts hacksaw blade into pregnant wife's private part, kills her: Report",
+              "url": "https://www.hindustantimes.com/india-news/man-inserts-hacksaw-blade-into-pregnant-wifes-private-part-kills-her-report-101779073874217.html"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Manipur: Security forces launch operations to rescue those who still in captivity of armed groups",
+          "neutralSummary": "Manipur: Security forces launch operations to rescue those who still in captivity of armed groups",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Security forces launch operations in Manipur to rescue those who still in captivity of armed groups",
+              "url": "https://www.thehindu.com/news/national/manipur/security-forces-launch-operations-in-manipur-to-rescue-those-who-still-in-captivity-of-armed-groups/article70992584.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Manipur: Security forces launch operations to rescue those who still in captivity of armed groups",
+              "url": "https://www.hindustantimes.com/india-news/manipur-security-forces-launch-operations-to-rescue-those-who-still-in-captivity-of-armed-groups-101779075091739.html"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Stock Market LIVE Updates, Sensex Today: Sensex Falls 700 Points As Trump Warns Iran 'Clock Is Ticking'",
+          "neutralSummary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates: Markets Open In Red.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Stock Market LIVE Updates, Sensex Today: Sensex Falls 700 Points As Trump Warns Iran 'Clock Is Ticking'",
+              "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-18-may-hormuz-iran-us-donald-trump-oil-price-11509767#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Iran-Israel war highlights: Trump says 'clock is ticking' for Iran",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQR19vMXdaZ2NHSjBjZmRPOEpoU0k3NmJwOXk1X0sxeU9zcnQ5SG9SY3k0OGRqTkU3RmhmSEhwNGtaOEVjUmp6ZUYwMGRFZEhEb09kUVZkSVRYeFZVUnJxN0o5Z2gtNGMxZEtqZW1yZ2Ewc3A3U2JCc1hSTzNKY3d3N0NoZ1dBd0pjaXVDZHlIZ3U1UkJHMTBDcDl0TnlQYWp2aEZMbmpXMEwyNmdUVGQxalBNOUFRVmZmV3FvNDZ0MVhRcTdhZTR2cFo3NlVsTVc4LTRndm5IN2NpNzBtZzl2QVFmd2dlZ9IB7AFBVV95cUxPdk5FVjl1LUFxTGp2bVFwTTFPcy1YVG4yak84NEEyYXI3Y2NFWm5pQXl2M09kdlhrbnRTU0d3bGVJSk04c1M3MVNqdmoxUU1kWTRCZFFHTGRxZVFJSE1xTmhUX084N0xVYU5EWml0OTEzd1dMT003SDZMR2hQVnZWMVFLdVhuTnZnS21sMkNsbFRraWVmcDFDTVlRTXYtczhpSDdmb2N0bDgxSFltRXBISEExZXNzUDd1T3hMOEpQcnQ3WWlRNUV3emo5WlpkQVNjVGhxblFRaUsxMnljVnd6VUZrQWNnZjF6YU8xag?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Delhi High Court transfers Rohini judge after video of verbal spat with lawyer in courtroom surfaces",
+          "neutralSummary": "The incident took place on May 15 during a case hearing, when the judge and the defence lawyer engaged in a verbal spat.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Delhi High Court transfers Rohini district judge after viral video incident",
+              "url": "https://indianexpress.com/article/legal-news/delhi-hc-transfers-rohini-judge-rakesh-kumar-v-viral-video-10695124/"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Delhi High Court transfers Rohini judge after video of verbal spat with lawyer in courtroom surfaces",
+              "url": "https://www.hindustantimes.com/india-news/delhi-high-court-transfers-rohini-judge-after-video-of-verbal-spat-with-lawyer-in-courtroom-surfaces-101779071342987.html"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "'All will be forgiven in Washington': Secret Pak cipher hints at US role in Imran Khan's fall",
+          "neutralSummary": "A resurfaced Pakistani diplomatic cable alleges US involvement in Imran Khan's 2022 ouster. The document, citing a meeting with a US official, suggests American concerns over Khan's Russia stance and hints that his removal via a no-confidence vote would mend ties. Khan's party views this as proof of",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'All will be forgiven in Washington': Secret Pak cipher hints at US role in Imran Khan's fall",
+              "url": "https://timesofindia.indiatimes.com/world/pakistan/all-will-be-forgiven-in-washington-secret-pakistan-cipher-revives-claims-of-us-role-in-imran-khans-ouster/articleshow/131167321.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "‘Told Ruturaj he is free not to take any advice’: Dhoni ahead of CSK’s final home game",
+          "neutralSummary": "MS Dhoni's potential final appearance at Chepauk sparks anticipation. He shared insights with captain Ruturaj Gaikwad, emphasising the captain's decision-making role and encouraging him to lead authentically. Dhoni also reflected on his genuine fan connection, attributing it to authenticity rather t",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "‘Told Ruturaj he is free not to take any advice’: Dhoni ahead of CSK’s final home game",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-told-ruturaj-he-is-free-not-to-take-a-single-piece-of-advice-dhoni-ahead-of-csks-final-home-game/articleshow/131165771.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Final Game: The big question surrounding Dhoni",
+              "url": "https://economictimes.indiatimes.com/news/sports/ms-dhoni-walks-out-to-will-msd-play-in-csks-final-game-at-chepauk-of-ipl-2026-vs-srh/articleshow/131166001.cms"
             }
           ]
         }
