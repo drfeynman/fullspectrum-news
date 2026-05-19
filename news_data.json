@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-18T16:28:49.262597+00:00",
+  "generatedAt": "2026-05-19T05:58:15.432950+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "WHO Declares Global Health Emergency Over Ebola Outbreak",
-          "neutralSummary": "WHO said the outbreak in Congo and Uganda doesn't meet the criteria for a pandemic emergency and advised against closing international borders.",
+          "neutralHeadline": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
+          "neutralSummary": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected&nbsp;&nbsp;Ars TechnicaThis Ebola outbreak raises questions about when it all began — and the U.S. response&nbsp;&nbsp;NPREpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Ug",
           "versions": [
             {
               "political": "left",
@@ -21,15 +21,6 @@
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "What is Ebola and why is stopping this outbreak so difficult?",
-              "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
@@ -37,13 +28,22 @@
               "url": "https://www.npr.org/2026/05/18/g-s1-122577/up-first-newsletter-bill-cassidy-trump-ebola-elon-musk-openai-sam-altman-idaho-airshow-collision"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "DRC health minister visits hotspot for Ebola outbreak",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/drc-health-minister-visits-hotspot-for-ebola-outbreak?traffic_source=rss"
+              "source": "Ars Technica",
+              "initials": "AT",
+              "domain": "news.google.com",
+              "headline": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONU1naVJ0Vy0zWXEzX2JuMnBRN01ZdElrU01MdmJ5UmxucVF3XzBYZG1UVlRzQUtSUnZ6d2JQaGZSVDFDS0p2VjBEOV9NMFZVTFZHblhENE1iSlhSR0tyVFJKQU5iNVhXNmtKQkN6cnFQdWkwRzZKYXlnOGUtNXRaLWJHa0I4ZXV5SkRfcHpEUjFHSmtkMGVmb2lhbnpPc01VYndwdWlMb1FJZEpLaTFyMWIyem50dw?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "US tightens Ebola precautions as outbreak declared international emergency",
+              "url": "https://www.france24.com/en/americas/20260518-us-tightens-ebola-precautions-as-outbreak-declared-international-emergency"
             },
             {
               "political": "right",
@@ -58,26 +58,78 @@
         },
         {
           "id": "global-2",
-          "neutralHeadline": "Ebola: DR Congo outbreak a global health emergency, says WHO",
-          "neutralSummary": "An outbreak of a rare strain of the Ebola virus in DR Congo was declared “a public health emergency of international concern” by the World Health Organization on Sunday. The outbreak in the eastern Ituri province has already caused at least 91 deaths, with around 350 suspected cases.",
+          "neutralHeadline": "Oil Declines After Trump Says He Called Off Strike on Iran",
+          "neutralSummary": "Oil fell after President Donald Trump said he’d called off a strike on Iran planned for Tuesday following an appeal by Persian Gulf allies.",
           "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo",
-              "url": "https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed",
-              "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss"
+              "headline": "Trump says he called off new Iran attack at request of Gulf states",
+              "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump says he's called off Iran strike at request of Gulf allies",
+              "url": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Trump says he’s called off an attack on Iran to give talks more time",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeVdjaDlZX3JFeDhwd0o4MmNFMHA2UTJ3SUhyVEg4cHg2QjVvd0NmT0ZkdFJBcWJ3a3Z6UUpkUFRQTmtQSWFOeWt2SlFmeHp4NFVsczVuNFZxUDZjdXNiMFpyQUZhN1FuUURmaVlleGJQWExCU2Fnam4yd2RhSUEyRWtJYTM2Z19HUFFRc2UzYy01SGc?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Oil Declines After Trump Says He Called Off Strike on Iran",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-18/latest-oil-market-news-and-analysis-for-may-19"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Three killed in attack at San Diego Islamic Centre in suspected hate crime",
+          "neutralSummary": "Two teenage gunmen opened fire at an Islamic centre in San Diego on Monday, killing three men before taking their own lives nearby, police said. Authorities are investigating the attack as a hate crime, with officials saying a mosque security guard likely prevented further casualties.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
+              "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Two teen gunmen kill three at San Diego mosque in suspected hate crime",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/two-teen-gunmen-kill-three-at-san-diego-mosque-in-suspected-hate-crime?traffic_source=rss"
             },
             {
               "political": "center",
@@ -85,13 +137,13 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Ebola: DR Congo outbreak a global health emergency, says WHO",
-              "url": "https://www.france24.com/en/video/20260518-ebola-dr-congo-outbreak-a-global-health-emergency-says-who"
+              "headline": "Three killed in attack at San Diego Islamic Centre in suspected hate crime",
+              "url": "https://www.france24.com/en/americas/20260518-three-killed-in-attack-at-san-diego-islamic-centre-in-suspected-hate-crime"
             }
           ]
         },
         {
-          "id": "global-3",
+          "id": "global-4",
           "neutralHeadline": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
           "neutralSummary": "US president calls Abu-Bilal al-Minuki ‘most active terrorist in the world’ and says he was eliminated in ‘very complex mission’Donald Trump has said US and Nigerian forces killed the “second in command” global leader of the Islamic State.“Tonight, at my direction, brave American forces and the Arme",
           "versions": [
@@ -125,118 +177,9 @@
           ]
         },
         {
-          "id": "global-4",
-          "neutralHeadline": "Divers find bodies of 4 Italians in Maldives sea cave",
-          "neutralSummary": "Divers find bodies of 4 Italians in Maldives sea cave&nbsp;&nbsp;CBS NewsItaly's foreign minister says divers found bodies of 4 Italians dead in Maldives sea cave&nbsp;&nbsp;YahooBodies of four missing Italian divers located in Maldives sea cave&nbsp;&nbsp;CNNA Maldivian military diver has died whil",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Maldives Suspends Search For 4 Italians In Underwater Cave After Military Diver Dies",
-              "url": "https://www.huffpost.com/entry/maldivian-military-diver-dies-searching-bodies-four-italian-divers_n_6a086cf9e4b0a33000e21363"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Divers find bodies of 4 Italians in Maldives sea cave",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95bHZDc2FFTjJqdFNSam13YVNDNVdZRGtMRXNUNmJNTVg3d2g2MDJjXzhRbFZiQk5uNFYxc2xhenRkUFc4b193dmJYVW1UX2t3Z09YMDVCdjFSTG9nTTRha0ZpNzhQX2hQeHdrREh2d2RpNFl3UXFqNGZPVF_SAYIBQVVfeXFMUGVwUm5QdWRrVm8tckxDVm1ReFZtWHVvbHFVdDI5Tko5VHhsa3JUaG54Wm9CNWVnYTFPMy1VVzBMT0tLREhCZ3NfTkRaSWZZVmdfWHNfd2lMRUZPQUg2WWN2dlJFcEpwOE90V2VITm9yM2locWhIY2Nlc09oSjdzcDNZZw?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Maldives military diver dies searching for four Italian divers missing inside underwater cave system",
-              "url": "https://www.foxnews.com/world/maldives-military-diver-dies-searching-four-italian-divers-missing-inside-underwater-cave-system"
-            }
-          ]
-        },
-        {
           "id": "global-5",
-          "neutralHeadline": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-          "neutralSummary": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-              "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Iran war live: Talks ongoing via Pakistan; Lebanon death toll tops 3,000",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3BDQ1VQdWtIeDFYbkN6aFNpdDdsdEszTkl3aEN6b2pma05MOFNnZHRSNzdFZmJrQzAzY0ZTTEZXVDhfWXQ0b1J4TW95V25KbFEtdXBlaUo3a1R3OGdmQWZIaFJ1N3FxOV9FRnhMZlNPUzBZbXNzZHZxUzRQaldBcDlKQURGVHlLaXV0YlB3ZEVvVEttTjRLd0NKc2E2Nk5zYS05eDE0MWNibldKX3Q5QUZFWWMtM2NrR2JfNNIBwgFBVV95cUxPcWRGdWhXT2FIMENnaGR6Q1JLeV9qc3NFY1hkcmNYNXBTLXl4eFQ0aUhsVEFrOVFSV2tUd2lFRDNGUFZTSlQxWXd1WFVnVFhnV0FRYjdXVTNtQVdpQk1fdl9FOHowYktWUXlsOXVYbkVxNFRDQ2hHUFZDblNqSnQtRmdlMmF6X1FfU19VcHowYzcwaThhUktzNnlieHljWTUtS3ZPMFRrRDNsa2dFQmtvMDdaeGEzOUFUcUg3enViZmJfdw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-          "neutralSummary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-              "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Ukraine launches large-scale drone strikes on Russia",
-              "url": "https://www.npr.org/2026/05/18/nx-s1-5824988/ukraine-launches-large-scale-drone-strikes-on-russia"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Drone strikes UAE nuclear plant highlighting risk of renewed war",
-          "neutralSummary": "A drone strike sparked a fire on the edge of the United Arab Emirates' sole nuclear power plant on Sunday in what authorities called an \"unprovoked terrorist attack.\"",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Drone strikes UAE nuclear plant highlighting risk of renewed war",
-              "url": "https://www.npr.org/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "What is the UAE’s Barakah nuclear plant, nearly hit by a drone?",
-              "url": "https://www.aljazeera.com/news/2026/5/18/what-is-the-uaes-barakah-nuclear-plant-nearly-hit-by-a-drone?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Canada confirms first hantavirus case in isolation in British Columbia",
-          "neutralSummary": "The person was onboard the MV Hondius, the center of the outbreak that has claimed three livesCanadian officials said on Saturday that a test for one of the four Canadians currently quarantining in British Columbia after being exposed to the hantavirus while on board the cruise ship where the outbre",
+          "neutralHeadline": "Cuba warns of ‘bloodbath’ as US imposes new sanctions amid rising tensions",
+          "neutralSummary": "Cuba’s leadership warned Monday of a “bloodbath” in the event of a US attack, as Washington imposed new sanctions on the country’s intelligence agency and senior officials. The escalation comes amid reports of heightened military tensions and claims of Cuban drone acquisitions from Russia and Iran.",
           "versions": [
             {
               "political": "left",
@@ -244,33 +187,33 @@
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "Canada confirms first hantavirus case in isolation in British Columbia",
-              "url": "https://www.theguardian.com/world/2026/may/16/canada-first-hantavirus-case-british-columbia"
+              "headline": "Cuba warns US of ‘bloodbath’ if military action follows drone claims",
+              "url": "https://www.theguardian.com/world/2026/may/18/cuba-warns-of-bloodbath-us-military-drone-claim"
             },
             {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Canada confirms hantavirus case linked to cruise ship outbreak that has killed three passengers",
-              "url": "https://www.foxnews.com/world/canada-confirms-hantavirus-case-linked-cruise-ship-outbreak-killed-three-passengers"
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Cuba warns of ‘bloodbath’ as US imposes new sanctions amid rising tensions",
+              "url": "https://www.france24.com/en/americas/20260519-cuba-warns-of-bloodbath-as-us-imposes-new-sanctions-amid-rising-tensions"
             }
           ]
         },
         {
-          "id": "global-9",
-          "neutralHeadline": "Dead humpback whale off Denmark is 'Timmy'",
-          "neutralSummary": "Dead humpback whale off Denmark is 'Timmy'&nbsp;&nbsp;DW.comHumpback whale released after spectacular rescue effort found dead off Denmark&nbsp;&nbsp;AP NewsWhale found dead near Danish island after German rescue operation&nbsp;&nbsp;BBCTimmy the humpback whale found dead off Danish coast&nbsp;&nbsp",
+          "id": "global-6",
+          "neutralHeadline": "China's moment? Putin heads to Beijing after Trump courts Xi",
+          "neutralSummary": "China's moment? Putin heads to Beijing after Trump courts Xi&nbsp;&nbsp;DW.comPutin heads to Beijing days after Trump in test of China's balancing act&nbsp;&nbsp;CNBCWhat really holds China and Russia together&nbsp;&nbsp;BBCXi’s double act: Putin set to arrive in China days after Trump’s departure&n",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Humpback Whale Released After Spectacular Rescue Effort Found Dead Off Denmark",
-              "url": "https://www.huffpost.com/entry/humpback-whale-released-after-spectacular-rescue-effort-found-dead-off-denmark_n_6a08bb3de4b0ee716972f344"
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Xi prepares to welcome Putin to China four days after hosting Trump",
+              "url": "https://www.theguardian.com/world/2026/may/18/xi-jinping-vladimir-putin-china-russia-four-days-after-donald-trump-us-visit"
             },
             {
               "political": "center",
@@ -278,8 +221,110 @@
               "source": "DW.com",
               "initials": "D",
               "domain": "news.google.com",
-              "headline": "Dead humpback whale off Denmark is 'Timmy'",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85VDJIdU1ZV1ZkcFEwMTVKOVlOcGNONjB1UWFJMUxyYncxblJKYmtPb3ZPcURvMEt6WHpYcVhXbmU1ekVUMHJTaVl1eWpNaHJ5bXhlRXVEYnExYk5CWEF3UExHMXFSRk5GeW5WdEF6ajdZRXN3ckZ4NXZUdmZKQdIBfkFVX3lxTE9MdzljeDBCU3lWYXVsWWdzcFhuaHRQaFVfM3c4N1pIY2N6Mm9tcFdUS2lieTV1eFVIR1RPMGs1WDN0LVZ5VV9GeDRqZXNsbl9xeVVhbDFjZzhwczdCV0dfTW9hcUw2blZuaG9NejByNzktUnJHRUVFcFRfRGpmZw?oc=5"
+              "headline": "China's moment? Putin heads to Beijing after Trump courts Xi",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNm1mMW15aUJVUm1BRzBXWnVvWEx1ckVpT2lUOUp2UXlIcmpIamJfMk9SelQwejFSZk1TdkNNY3hNUTE2QXhrOVZPRnpBc052N3FTTHFDQjVneTVtVEk0UGU0VXZ5dWNmTUNsNXBkN1ZjWG02dGxBMDIzRF9NMzROcUtJc1RwSjU3dTNmYmJYVDBoa0JOV0HSAZYBQVVfeXFMTkZhMERieXpDTW1jTTFnTlE3UFFTWjlJMHJUajBIREZXdWkzdDBWSUc3WWYyY25lLVcwZ0RBVjN2cFlLTS1yT2ItNnRaSjZ1Z2owb0g0cTlvcEdtYXd6aE9oTWNPZFE1WkxjSzFYWDV5U2l3OFZjUXhSLVZWODZPZThBREM4cHNkRnVFWWhRREphYzZUNC1B?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Putin seeks to reinforce China ties after Trump-Xi summit",
+              "url": "https://www.france24.com/en/asia-pacific/20260519-putin-seeks-to-reinforce-china-ties-after-trump-pageantry"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
+          "neutralHeadline": "2 Americans arrested after one climbed into Punch the monkey's habitat at the Ichikawa City Zoo in Japan",
+          "neutralSummary": "2 Americans arrested after one climbed into Punch the monkey's habitat at the Ichikawa City Zoo in Japan&nbsp;&nbsp;ABC7 Los AngelesTwo men arrested over stunt at enclosure of famous monkey Punch&nbsp;&nbsp;BBCAmerican tourists arrested in Japan after alleged break-in at viral monkey Punch’s enclosu",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Two men arrested over stunt at enclosure of famous monkey Punch",
+              "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "ABC7 Los Angeles",
+              "initials": "AL",
+              "domain": "news.google.com",
+              "headline": "2 Americans arrested after one climbed into Punch the monkey's habitat at the Ichikawa City Zoo in Japan",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM05PUmRFeWxsZG02WEdTLWc5ZXNwMG5reS1UbzlIWVBZWHlWT0tlTk52YWpxbHlIVUhySUdJWkViNUJNTV9pN1M0dmFtdmVrV3k5bDFpSEFfRDNOM0FOUFJLOG5VY3J5d2hweEFYYTVTcnZhQ1ZxVDNXSFVaOGd0S1hKamJPSHZoemZOaTE0enFTR3RLOW1qWnZiUUVqTXByalJGVlVwWlNEZ9IBrwFBVV95cUxObElDUVhNbVFrZnN2UVBLcUhPaU91SFhTN3YzbGtzYlBCc1RVN21waTRZYjJQS0VsaU5oT1pwUExWQnF1QmxuNVhVb1JLOG93VHR1WWY1VzBfUEhHUFUwNnk2RXM0aHlKTml2M2lDUzNqUGtnaDJNTGY0YVFfNzZWNjNZTDlkT1BVMVdoYnlIT3c1Q3BSdTU2ZjdzWGktVkg4QjdOSENkTGp4Tm1YQWc4?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "American tourists arrested in Japan after alleged break-in at viral monkey Punch’s enclosure",
+              "url": "https://www.foxnews.com/world/american-tourists-arrested-japan-after-alleged-break-in-viral-monkey-punchs-enclosure"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Maldives investigates if Italian divers went too deep in fatal cave dive",
+          "neutralSummary": "Maldives investigates if Italian divers went too deep in fatal cave dive&nbsp;&nbsp;ReutersItaly's foreign minister says divers found bodies of 4 Italians dead in Maldives sea cave&nbsp;&nbsp;YahooItaly's foreign minister says divers found bodies of 4 Italians in Maldives sea cave&nbsp;&nbsp;Dallas",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Bodies of missing Italian divers found in Maldives",
+              "url": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "Maldives investigates if Italian divers went too deep in fatal cave dive",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOblNua1FXZEUwblBuLTUwYW1iM2M0Ri12cjZlcnptc09tWWtTeEZDajAzbnNFZFJmNEEtRGViZEg0a0FOVk14TzgwaHNiSTY3aGFmOVJkV1E4bUdxeVRqLUhMczlacjVpNEV6WjYyNHFFLW91VUNkay1FRHN6THAzYmZWRWYxd2JjbjRiVGRkaDRqTV9VT1pRb3ktcDliWlNKeHd1OC1VejhYQzZqeU5RZA?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Bodies of four missing Italian divers found inside 'shark cave' in Maldives days after they vanished",
+              "url": "https://www.foxnews.com/world/bodies-four-missing-italian-divers-found-inside-shark-cave-maldives-days-vanished"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Trump’s shifting remarks on Taiwan are perfect for China to exploit",
+          "neutralSummary": "President’s remarks about Taiwan arms deals being a ‘negotiating chip’ with Beijing have been seized on by Chinese state mediaIt has been an unsettling few days for Taiwan’s government. When Donald Trump met Xi Jinping in Beijing on Thursday, many feared the unpredictable US leader could upend Washi",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Trump’s shifting remarks on Taiwan are perfect for China to exploit",
+              "url": "https://www.theguardian.com/world/2026/may/19/china-exploits-trump-taiwan-weapons-sales-analysis"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump's Description Of Taiwan As A ‘Good Negotiating Chip’ With China Raises Anxieties",
+              "url": "https://www.huffpost.com/entry/trumps-description-taiwan-good-negotiating-chip-china-raises-anxieties_n_6a08777fe4b098065bea299b"
             }
           ]
         }
@@ -290,17 +335,17 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "The Supreme Court’s Voting Rights Decision Spurred Swift Action in Louisiana and Alabama",
-          "neutralSummary": "The timing brought the court into the middle of a fight to redraw voting maps across the South, even as some primaries were underway.",
+          "neutralHeadline": "Jury says Elon Musk was too late in case against Sam Altman",
+          "neutralSummary": "{beacon} Technology   The Big Story  Jury says Elon Musk was too late in case against Sam Altman A California federal jury unanimously rejected Elon Musk’s claims against OpenAI and its co-founder Sam Altman, ending the latest chapter in a nearly decade-long feud. © Markus Schreiber and Czarek Sokol",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "The Supreme Court’s Voting Rights Decision Spurred Swift Action in Louisiana and Alabama",
-              "url": "https://www.nytimes.com/2026/05/18/us/politics/supreme-court-voting-rights-act-timing.html"
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "The 5 most unhinged revelations from Elon Musk&#8217;s lawsuit against OpenAI",
+              "url": "https://www.vox.com/future-perfect/488770/musk-openai-trial-explained"
             },
             {
               "political": "left",
@@ -308,153 +353,17 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "The Supreme Court avoids taking up a fight over Voting Rights Act enforcement for now",
-              "url": "https://www.npr.org/2026/05/18/nx-s1-5616665/supreme-court-voting-rights-act-private-right"
+              "headline": "Jury dismisses all claims in Elon Musk's lawsuit against OpenAI CEO Sam Altman",
+              "url": "https://www.npr.org/2026/05/18/nx-s1-5822366/musk-altman-openai-jury-verdict-claims-dismissed"
             },
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "CNN",
-              "initials": "CNN",
+              "tone": "optimistic",
+              "source": "Washington Post",
+              "initials": "WP",
               "domain": "news.google.com",
-              "headline": "Supreme Court puts off fight over who can sue to enforce what’s left of the Voting Rights Act",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelplU2k3ME9tenMtRlk3a0V0U2VvZlA0ZnNsYnlSczNEYWFVclN6YW4wZUhMMmdrZ2hZbjVObzVqLU9hbVhteC1La0JtV0JKYThEZlh0OTRwMjhXVVRVbzNsWkpfZzZWakZ2aUtUdnFDaWxUMFo1aE1pVWljajZKc19nc3dRS1ZDZy10MTkyTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Judge in Luigi Mangione's N.Y. case to decide if key evidence can be used",
-          "neutralSummary": "Judge in Luigi Mangione's N.Y. case to decide if key evidence can be used&nbsp;&nbsp;CBS NewsLuigi Mangione evidence ruling could determine what jurors see at his September murder trial&nbsp;&nbsp;Fox NewsJudge allows gun, notebook as evidence at Mangione's trial in UnitedHealthcare CEO's killing&nb",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Judge in Luigi Mangione's N.Y. case to decide if key evidence can be used",
-              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX1pEN2pTbl9IbXlNd0JzejF4YjlXRDRXUEliLWo5czI5Y2dPWGlTVnNFTzY0dndMd3FKVm41dlhETkdVd3ZiQlRfVlhROVRVZFFnTExmcUN4SFFXRE44bm1FMEVibThVMTdLNWJxU2FFa1V6elVUaGl0b2E1SUNLRThIdVdEX2NkUzNJRWh2aVpaUQ?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Luigi Mangione fanatics line up outside courthouse before key hearing in murder case",
-              "url": "https://nypost.com/2026/05/18/us-news/luigi-mangione-fanatics-line-up-outside-courthouse-before-key-hearing-in-murder-case/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Judge clears gun and diary for use as evidence in Luigi Mangione trial",
-              "url": "https://www.washingtonexaminer.com/news/justice/4572457/judge-clears-gun-diary-evidence-luigi-mangione-trial/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Luigi Mangione Scores Another Win As Judge Tosses Out Key Evidence",
-              "url": "https://www.dailywire.com/news/luigi-mangione-scores-another-win-as-judge-tosses-out-key-evidence"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Thousands attend America-themed prayer rally in Washington",
-          "neutralSummary": "Thousands attend America-themed prayer rally in Washington&nbsp;&nbsp;DW.comTrump-backed prayer festival on National Mall draws thousands: ‘We welcome Jesus!’&nbsp;&nbsp;The Washington PostLone rabbi speaking at mass DC prayer rally calls antisemitism ‘utterly un-American’&nbsp;&nbsp;The Times of Is",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Thousands Flock To National Mall For Prayer Rally With Vance, Hegseth And Rubio",
-              "url": "https://www.huffpost.com/entry/prayer-rally-washington-mall-christianity_n_6a0a5cf2e4b098065bea9045"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "DW.com",
-              "initials": "D",
-              "domain": "news.google.com",
-              "headline": "Thousands attend America-themed prayer rally in Washington",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZVdiWl9jSFRYa1ZoS2loZVlmcVFmRVZab2pHa3VjeFc4V3M1WGw4LXBubTBXR2tTT3JIWVVUbENuY19yd1RHbEFMMmdxWjNuRDFhQTA5YkItRDlwR2pCM1pocU1RcEVEQWQtRWhEWXRYMFJwcGNGU0VuTnpwNUh2WkFxSEY0XzNCZ21aUkZ4d0NZT1VfU3gxeFYyVdIBmwFBVV95cUxNUG84dmZsemM5MTY1R3lGd0FISTl6SUx0N1p5ZG9hZjh5UUJrRUNaMTVsc01hbnNObl9Jd3JrWTAxLW5tbGtiSVNXc2VzeDBOdXB6Z0EtLXFJT01TMmw5dG5EeW1za3NuU1djdnNuSEFUcVJmSlpCUGw0b1U3VXRJWEx6OXlSQjdHVm9YS0tEVUxET1ZDR0tKdDNXVQ?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump reads Bible as thousands pack National Mall for America 250 prayer rally",
-              "url": "https://www.foxnews.com/politics/trump-reads-bible-thousands-pack-national-mall-america-250-prayer-rally"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Crew members safely eject after Navy jets collide during Idaho air show",
-          "neutralSummary": "Crew members safely eject after Navy jets collide during Idaho air show&nbsp;&nbsp;PBSFour aviators eject as 2 jets collide midair at Idaho Air Force base show&nbsp;&nbsp;NBC News2 Navy jets collide at air show in Idaho, all 4 crew members eject safely&nbsp;&nbsp;MS NOWTwo F-18 fighter jets have cra",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Two Military Jets Collide in Midair at Idaho Air Show",
-              "url": "https://www.nytimes.com/2026/05/17/us/planes-crash-gunfighter-skies-show.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "PBS",
-              "initials": "P",
-              "domain": "news.google.com",
-              "headline": "Crew members safely eject after Navy jets collide during Idaho air show",
-              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3pNN3hsWEJqNGNzVEJ4XzJ2UzU5eXl6VHBnU2RrZk5KdGpUak5UalZZOUtISzItTTdBU1ZkSUc2TEdXVjliTURtZ3F6VnZwRlNCZTBKQThyS0xRUzZEYTRLTVl1c2tSOFphQUx3YVZHYlVHTklsRFVvelFFbl95SXRPVFhBMUJqc2tQZHpDTm9jMDJtci00YVdsYW95Y252OVdJZ0FuM1VfQQ?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "WATCH: Military Jets Collide Midair At Idaho Air Show",
-              "url": "https://www.dailywire.com/news/military-jets-collide-idaho-air-show"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Trump drops ‘unprecedented’ $10 billion lawsuit against IRS over leaked tax records",
-          "neutralSummary": "Trump drops ‘unprecedented’ $10 billion lawsuit against IRS over leaked tax records&nbsp;&nbsp;NBC NewsTrump drops $10 billion lawsuit against IRS&nbsp;&nbsp;CNBCTrump drops $10 billion IRS lawsuit as DOJ creates $1.776 billion anti-weaponization fund&nbsp;&nbsp;qz.comTrump drops lawsuit against IRS",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump drops IRS lawsuit, paving the way for a settlement",
-              "url": "https://www.npr.org/2026/05/18/g-s1-119783/trump-irs-lawsuit-settlement"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "NBC News",
-              "initials": "NN",
-              "domain": "news.google.com",
-              "headline": "Trump drops ‘unprecedented’ $10 billion lawsuit against IRS over leaked tax records",
-              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmRvaTRQOUxwZFZBaS01RmNOZmR0RUE1eGhoa19zWVhFZUtrY09xamh3UXhiaC1jb0ZBZzZHQlVWb1JvSmxuSkFyd1RoVjA0TElscXl0SmRscWRBTWhkbXgzVTBLdEhNeWpkNlRsb3d5Y2VZOXkxUUJmLS0yQXZEbFlyazNZUVREeU1uRXUtZHE1Tldic2kxUF83RWlRM2VRd3BlTUZwTkYzZ1I4dC0ybVpGVUJfUjZHWnRPN0tNSQ?oc=5"
+              "headline": "All of Musk’s claims in lawsuit against OpenAI dismissed in federal trial",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa210ajBTak5xUjhqWGNIVGJwVlo3aDVLRXRmdHpTeTgyQ1lRSXFwbG5kOWpOWmJiX3NpOUhMZnFVT0dOSVdCaGVRSDVQemxVM1g5aWMxa05TVExGQlM2OTFuWmhwODlyaWZGOWVjU1FvbTVHbVJuVWNaVWFoRXNCbWZocTZROERhTC1TVjMzQV9RUUJlQ1pOV1hINmFqanFFSWdPNUxzTXY4eUcyT3B5RUt0ZnlqRkFuR3c?oc=5"
             },
             {
               "political": "center",
@@ -462,31 +371,194 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Trump moves to dismiss $10B lawsuit against IRS",
-              "url": "https://thehill.com/homenews/administration/5882920-donald-trump-withdraws-irs-lawsuit/"
+              "headline": "Jury says Elon Musk was too late in case against Sam Altman",
+              "url": "https://thehill.com/newsletters/technology/5884015-elon-musk-sam-altman-openai-case/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Musk vows to appeal after losing case against OpenAI",
+              "url": "https://www.washingtonexaminer.com/news/business/4573613/musk-appeal-openai-case-altman/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Jury Nixes Elon Musk’s OpenAI Lawsuit In Under Two Hours",
+              "url": "https://www.dailywire.com/news/jury-nixes-elon-musks-openai-lawsuit-in-under-two-hours"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Trump creates $1.8B \"anti-weaponization\" fund after dropping IRS suit",
+          "neutralSummary": "Trump creates $1.8B \"anti-weaponization\" fund after dropping IRS suit&nbsp;&nbsp;AxiosTrump administration creates $1.776 billion fund for allies of the president after he drops lawsuit against IRS&nbsp;&nbsp;CNNTop Treasury Lawyer Resigns After Creation of ‘Anti-Weaponization Fund’&nbsp;&nbsp;The N",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Trump gets his slush fund",
+              "url": "https://www.vox.com/the-logoff-newsletter-trump/488998/trump-settlement-anti-weaponization-fund-justice-department"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Axios",
+              "initials": "AX",
+              "domain": "news.google.com",
+              "headline": "Trump creates $1.8B \"anti-weaponization\" fund after dropping IRS suit",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1abGZ0VGgtVndickpoT1JMMVNWSWM5M3hpX0M1dHhMd3hkMzlqY25UbUlsSjdONVUtZGxqWHJpdFJOMVlON2FGV0J1QVFOMUtWdkxhWmNUX2d3SzU5ZExYUkJhejVNdDNDb2c?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "GOP Sen. Cassidy calls out Trump DOJ’s $1.8 billion compensation fund as ‘slush fund’",
+              "url": "https://thehill.com/homenews/5884237-cassidy-calls-out-trump-fund/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Trump Establishes $1.776B Fund To Combat Deep State ‘Weaponization’",
+              "url": "https://www.dailywire.com/news/trump-establishes-1-776b-fund-to-combat-deep-state-weaponization"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "3 killed in shooting at San Diego mosque, 2 suspects found dead",
+          "neutralSummary": "Three people were killed in a shooting at the Islamic Center of San Diego, the county's largest mosque. Two suspects in the shooting are dead, police confirmed.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "A Fearful Phone Call and Frantic Search Preceded San Diego Mosque Shooting",
+              "url": "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "3 killed in shooting at San Diego mosque, 2 suspects found dead",
+              "url": "https://thehill.com/homenews/state-watch/5883746-3-killed-in-shooting-at-san-diego-mosque-2-suspects-found-dead/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "‘Hate rhetoric’ involved in deadly San Diego mosque shooting, police say",
+              "url": "https://www.washingtonexaminer.com/news/crime/4573716/hate-rhetoric-san-diego-mosque-shooting/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Pelosi endorses San Francisco’s Connie Chan to succeed her",
+          "neutralSummary": "Retiring Rep. Nancy Pelosi (D-Calif.) on Monday endorsed San Francisco Supervisor Connie Chan (D) in the race to succeed her in California’s 11th Congressional District. “I know and love this district, I know the Congress and I know Connie,” Pelosi said, with Chan sitting next to her, in a video tha",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Nancy Pelosi Endorses Connie Chan to Succeed Her",
+              "url": "https://www.nytimes.com/2026/05/18/us/nancy-pelosi-endorses-connie-chan.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Pelosi endorses San Francisco’s Connie Chan to succeed her",
+              "url": "https://thehill.com/homenews/campaign/5884230-pelosi-endorses-connie-chan/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Long Island Rail Road strike to end as MTA, unions reach tentative deal",
+          "neutralSummary": "Long Island Rail Road strike to end as MTA, unions reach tentative deal&nbsp;&nbsp;CBS NewsLIRR strike live updates: LIRR, MTA reach agreement to end 3-day strike, Gov. Hochul announces&nbsp;&nbsp;ABC7 New YorkDeal reached to end strike at largest US commuter railroad | CNN Business&nbsp;&nbsp;CNNPa",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "Long Island Rail Road strike to end as MTA, unions reach tentative deal",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEpTZ3B0RFJNOU41dk9fS0szZXJDNzFFSjU5RXNiZHFXTVBobGI0UkV2QkJlTktxT2tEUkJrM193Z0E2ZGlGQjRKcU9TTUtVeWJQSEh0c3BEaWdHdExQYTA5T3lVN3RVZmJYUXA2RWJXOS1sMXRpa09yXzRyV1dLYkFKR0N1OEFoX2xsajNhQ3g?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "LIRR strike over after MTA, unions reach deal following 3-day walkout, commuter chaos",
+              "url": "https://nypost.com/2026/05/18/us-news/lirr-strike-over-after-mta-unions-reach-deal/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Long Island Rail Road strike to end as deal is reached to halt three-day work stoppage",
+              "url": "https://www.washingtonexaminer.com/news/4573807/long-island-rail-road-strike-to-end-as-deal-is-reached-to-halt-three-day-work-stoppage/"
             }
           ]
         },
         {
           "id": "us-6",
-          "neutralHeadline": "Brookings Institution Report: Over 100,000 Family Separations in Trump Crackdown",
-          "neutralSummary": "The Brookings Institution suggests that federal statistics are an undercount because immigrant parents are not being asked about or not disclosing their American children.",
+          "neutralHeadline": "White House’s Donald Trump-As-James Bond Post Hands Critics A License To Cringe",
+          "neutralSummary": "The attempt at a 007 moment for the president left critics shaken and not stirred.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "White House’s Donald Trump-As-James Bond Post Hands Critics A License To Cringe",
+              "url": "https://www.huffpost.com/entry/donald-trump-white-house-james-bond-007_n_6a0abff1e4b0ee7169737992"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Brookings Institution Report: Over 100,000 Family Separations in Trump Crackdown",
-              "url": "https://www.nytimes.com/2026/05/18/us/brookings-institution-report-family-separations.html"
+              "headline": "Trump Is Said to Have Proposed a New Helipad at the White House",
+              "url": "https://www.nytimes.com/2026/05/18/us/politics/trump-helipad-white-house.html"
             }
           ]
         },
         {
           "id": "us-7",
-          "neutralHeadline": "In Massie’s Kentucky Primary, Fidelity to Trump Is on the Ballot",
-          "neutralSummary": "Representative Thomas Massie, the Republican who wears his rifts with President Trump as badges of honor, is battling Trump-backed challenger Ed Gallrein to keep his seat.",
+          "neutralHeadline": "San Diego Mosque Shooting Comes Amid Rising Reports of Islamophobia in the U.S.",
+          "neutralSummary": "The Council on American-Islamic Relations said complaints about bias against Muslims are at levels unseen in decades.",
           "versions": [
             {
               "political": "left",
@@ -494,24 +566,24 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "In Massie’s Kentucky Primary, Fidelity to Trump Is on the Ballot",
-              "url": "https://www.nytimes.com/2026/05/18/us/politics/thomas-massie-kentucky-trump-election.html"
+              "headline": "San Diego Mosque Shooting Comes Amid Rising Reports of Islamophobia in the U.S.",
+              "url": "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-islamaphobia.html"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump calls out Rep Thomas Massie: 'Kentucky, get this LOSER out of politics' Tuesday",
-              "url": "https://www.foxnews.com/politics/trump-calls-rep-thomas-massie-kentucky-get-loser-politics-tuesday"
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "San Diego mayor shamed at mosque shooting briefing: ‘Direct result of your leadership’",
+              "url": "https://www.washingtonexaminer.com/news/crime/4573739/san-diego-mayor-mosque-shooting/"
             }
           ]
         },
         {
           "id": "us-8",
-          "neutralHeadline": "Trump’s Approval Sinks Amid Unpopular War, Darkening G.O.P. Prospects",
-          "neutralSummary": "With the midterms nearing, President Trump’s approval rating has hit a second-term low as voters question his handling of the economy, according to the latest New York Times/Siena poll.",
+          "neutralHeadline": "San Diego Mosque Shooting Shatters a Neighborhood’s Peace",
+          "neutralSummary": "First came a series of pops, then a race to render aid. It was too late.",
           "versions": [
             {
               "political": "left",
@@ -519,33 +591,42 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Trump’s Approval Sinks Amid Unpopular War, Darkening G.O.P. Prospects",
-              "url": "https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html"
+              "headline": "San Diego Mosque Shooting Shatters a Neighborhood’s Peace",
+              "url": "https://www.nytimes.com/2026/05/18/us/san-diego-mosque-attack-scene.html"
             },
             {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "news.google.com",
-              "headline": "Donald Trump’s approval rating sinks to lowest point of second term",
-              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaFlYeUQ1MjNzcTRWNjh4RzEyTlBSSTJpSVZSSWh6ejJ2c0k1R2J1eXJZR1l1MDB0T0RyX3pSRXRieUJoX3JyOEJSMWVkbTJlSjhPMUtvcjBfejNHWGJmZDVvYWtOdTRUWTNqaXdlS3kyOW5sS1ZLSHdTeXc2bjEyMHBuc1c5UUMxemxncVlwdjRNWFByd1E3YzlR?oc=5"
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Mullin says San Diego mosque could have been protected if DHS were funded",
+              "url": "https://www.washingtonexaminer.com/policy/national-security/4573764/mullin-san-diego-mosque-shooting-dhs-shutdown/"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Sen. Bill Cassidy loses primary. And, WHO declares Ebola outbreak a global emergency",
-          "neutralSummary": "Sen. Bill Cassidy, who voted to convict Trump, lost the Republican primary in Louisiana. And, the WHO has declared a global health emergency over a new Ebola outbreak.",
+          "neutralHeadline": "What to Know About San Diego’s Islamic Center",
+          "neutralSummary": "A visitor said that the mosque is highly diverse. Its services are in English, because attendees come from all over the world.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Sen. Bill Cassidy loses primary. And, WHO declares Ebola outbreak a global emergency",
-              "url": "https://www.npr.org/2026/05/18/g-s1-122577/up-first-newsletter-bill-cassidy-trump-ebola-elon-musk-openai-sam-altman-idaho-airshow-collision"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "What to Know About San Diego’s Islamic Center",
+              "url": "https://www.nytimes.com/2026/05/18/us/islamic-center-san-diego-mosque.html"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Several Victims Killed In San Diego Islamic Center Shooting; Teen Suspects Dead",
+              "url": "https://www.dailywire.com/news/police-respond-to-reports-of-active-shooter-near-islamic-center"
             }
           ]
         }
@@ -556,83 +637,83 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "IMDA suspends review of proposed Simba-M1 merger amid probe into possible breach",
-          "neutralSummary": "It learnt that Simba could have been using radio frequency bands to provide mobile services without authorisation.",
+          "neutralHeadline": "Starbucks Korea CEO sacked over 'Tank Day' campaign that evokes 1980 massacre",
+          "neutralSummary": "Starbucks Korea CEO sacked over 'Tank Day' campaign that evokes 1980 massacre",
           "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "IMDA suspends review of proposed Simba-M1 merger amid probe into possible breach",
-              "url": "https://www.straitstimes.com/tech/imda-suspends-review-of-telco-merger-between-simba-and-m1"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "IMDA suspends review of Simba's proposed acquisition of M1 amid probe into potential regulatory breach",
-              "url": "https://www.channelnewsasia.com/singapore/imda-m1-simba-sale-acquisition-investigation-keppel-6127346"
+              "headline": "Starbucks Korea CEO sacked over 'Tank Day' campaign that evokes 1980 massacre",
+              "url": "https://www.channelnewsasia.com/east-asia/starbucks-korea-ceo-tank-day-gwangju-6129621"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Starbucks Korea sacks CEO over controversial 'Tank Day' promotion",
+              "url": "https://www.bbc.com/news/articles/c0k2dz4y6gxo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "ST Explains: Why is it important for telcos to stay on their approved radio frequency bands?",
-          "neutralSummary": "Telcos are allowed to use only the spectrum frequency assigned to them.",
+          "neutralHeadline": "Japan arrests Americans over stunt at baby monkey Punch's zoo",
+          "neutralSummary": "Japan arrests Americans over stunt at baby monkey Punch's zoo",
           "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "ST Explains: Why is it important for telcos to stay on their approved radio frequency bands?",
-              "url": "https://www.straitstimes.com/tech/st-explains-why-is-it-important-for-telcos-to-stay-on-their-approved-radio-frequency-bands"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "CNA Explains: How radio frequency bands are regulated - and why it matters for telcos",
-              "url": "https://www.channelnewsasia.com/singapore/radio-frequency-bands-how-it-regulated-simba-m1-6127906"
+              "headline": "Japan arrests Americans over stunt at baby monkey Punch's zoo",
+              "url": "https://www.channelnewsasia.com/east-asia/japan-arrests-americans-baby-macaque-punch-6129711"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Two men arrested over stunt at enclosure of famous monkey Punch",
+              "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Keppel to allow Simba’s bid for subsidiary M1 to lapse, explore new buyers",
-          "neutralSummary": "Keppel’s chief executive said plans to monetise M1 will now be moved back by about one to two years.",
+          "neutralHeadline": "Trump says he paused attack on Iran as negotiations continue",
+          "neutralSummary": "US President Donald Trump said leaders from Qatar, Saudi Arabia and the UAE had urged him to delay the attack because they believed a deal could still be reached.",
           "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Keppel to allow Simba’s bid for subsidiary M1 to lapse, explore new buyers",
-              "url": "https://www.straitstimes.com/tech/keppel-to-allow-simbas-bid-for-m1-to-lapse-explore-new-buyers"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Keppel to let M1-Simba deal lapse on May 21 deadline after IMDA suspends review",
-              "url": "https://www.channelnewsasia.com/singapore/m1-simba-deal-lapse-deadline-imda-suspends-review-6127551"
+              "headline": "Trump says he paused attack on Iran as negotiations continue",
+              "url": "https://www.channelnewsasia.com/world/trump-iran-attack-peace-proposal-6128111"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Oil Declines After Trump Says He Called Off Strike on Iran",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-18/latest-oil-market-news-and-analysis-for-may-19"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Train driver charged after deadly Bangkok bus collision",
-          "neutralSummary": "An initial urine test of the driver found illicit drugs in his system, said the chief of the local police station.&nbsp;",
+          "neutralHeadline": "Amazon's Singapore retreat: Why its US playbook failed in Southeast Asia",
+          "neutralSummary": "Regional platforms compete on price and volume of unbranded sellers, \"not a play that Amazon has traditionally been strong at\", an analyst says.",
           "versions": [
             {
               "political": "center",
@@ -640,81 +721,63 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Train driver charged after deadly Bangkok bus collision",
-              "url": "https://www.channelnewsasia.com/asia/thailand-bangkok-train-bus-collision-driver-charged-6127821"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Deadly Bangkok crash: Train driver tested positive for drugs, crossing guard also charged",
-              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQUlZZXdwVE55RzFSU0QwUXFnY2lvaXhUNXY0TmFQSkU2MmpTZGQ1Y2hsNm1kQjRKa1ZzMlRBdEFudy1tMHB4ZktvX3FOcUxGQ3NqQ2l3MzlLZ25UYVY1UGRpUTRueWNXMS12YlNGT1JnenhlZ1Nxa0VOM1JMWjNnV3RSTVYxdldLWERrQ2t6VGg1UHZvUkdBY2lqWmRMdU9ybVY5Y3BvRGdmbTdmbmpNVHVxMmcxY1hVMGk3N2pQdw?oc=5"
+              "headline": "Amazon's Singapore retreat: Why its US playbook failed in Southeast Asia",
+              "url": "https://www.channelnewsasia.com/business/amazon-singapore-end-local-fulfilment-ecommerce-6121221"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "Indonesia rupiah hits new record low; president downplays day-to-day impact of currency weakness",
-          "neutralSummary": "Indonesia rupiah hits new record low; president downplays day-to-day impact of currency weakness",
+          "neutralHeadline": "Over 1,100 SingLit book titles added to SG Culture Pass list",
+          "neutralSummary": "The pass can now be used at another 6 bookstores too.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Indonesia rupiah hits new record low; president downplays day-to-day impact of currency weakness",
-              "url": "https://www.channelnewsasia.com/business/indonesia-rupiah-record-low-6127636"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Over 1,100 SingLit book titles added to SG Culture Pass list",
+              "url": "https://www.straitstimes.com/singapore/over-1100-singlit-book-titles-added-to-sg-culture-pass-list"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "Earthquake hits southwest China; thousands evacuate, buildings collapse",
-          "neutralSummary": "Thirteen buildings collapsed after the quake shook&nbsp;Guangxi's Liuzhou city.",
+          "neutralHeadline": "Indonesian nasi padang chain Sederhana to take over shuttered Warong Nasi Pariaman’s premises",
+          "neutralSummary": "The eatery did not disclose the opening date.",
           "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Earthquake hits southwest China; thousands evacuate, buildings collapse",
-              "url": "https://www.channelnewsasia.com/east-asia/china-earthquake-liuzhou-guangxi-southwest-region-6127481"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Straits Times",
               "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Earthquake hits south-west China; thousands evacuate, buildings collapse",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc0JVNDR5aUc2ekUtX0JiZXV1NGJ1bjFPbUVnYU8xbGJ1bVZIb0ZaM1QweE8yeXJzZUt3SjlDVVRTY0o5cW1PUV9ndXQ3aVNweV82dVFaOWlpRjl1dndfbDhfa1dpMk9jTWR1dG5Da1pIZjZ3cTFPc21oRFRtbGNMWWVFYmJmV1R3M3JfeGFIMHdOZ2lkazloSnpIUjRaSFdBZVlDOE5zMkxWdE5LbkxYMXJHcw?oc=5"
+              "domain": "straitstimes.com",
+              "headline": "Indonesian nasi padang chain Sederhana to take over shuttered Warong Nasi Pariaman’s premises",
+              "url": "https://www.straitstimes.com/singapore/indonesian-nasi-padang-chain-sederhana-to-take-over-shuttered-warong-nasi-pariamans-premises"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "Commentary: Are the glory days for Southeast Asian budget carriers over?",
-          "neutralSummary": "Skyrocketing fuel prices are starting to impact air travel in Southeast Asia with low-cost carriers particularly vulnerable, writes aviation analyst Brendan Sobie.",
+          "neutralHeadline": "Cantonese restaurant Wing Seong Fatty’s to end 100-year run",
+          "neutralSummary": "The restaurant found itself without a successor to continue the business.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Commentary: Are the glory days for Southeast Asian budget carriers over?",
-              "url": "https://www.channelnewsasia.com/commentary/energy-crisis-jet-fuel-budget-carrier-southeast-asia-travel-6121311"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Cantonese restaurant Wing Seong Fatty’s to end 100-year run",
+              "url": "https://www.straitstimes.com/singapore/cantonese-restaurant-wing-seong-fattys-to-end-100-year-run"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Lease for S’pore’s largest used-car hub set to be renewed till 2040 after owners pay $68m",
-          "neutralSummary": "The owners of Automobile Megamart still need to submit land survey reports and pay stamp duty.",
+          "neutralHeadline": "Snow City to close after 26 years, last day of operations will be Sept 30",
+          "neutralSummary": "The Science Centre said Snow City’s staff will be supported closely through this transition.",
           "versions": [
             {
               "political": "center",
@@ -722,15 +785,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Lease for S’pore’s largest used-car hub set to be renewed till 2040 after owners pay $68m",
-              "url": "https://www.straitstimes.com/singapore/transport/lease-for-spores-largest-used-car-hub-set-to-be-renewed-till-2040-after-owners-pay-68m"
+              "headline": "Snow City to close after 26 years, last day of operations will be Sept 30",
+              "url": "https://www.straitstimes.com/singapore/snow-city-to-close-after-26-years-last-day-of-operations-will-be-sept-30"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Temasek unlikely to meet 2030 climate targets due to exposure to aviation and power sectors: CEO",
-          "neutralSummary": "It aimed to halve emissions from 2010 levels to 11 million tonnes by 2030.",
+          "neutralHeadline": "Bird deaths in Singapore hit record high, with man-made structures named top culprit",
+          "neutralSummary": "The recent deaths of two peregrine falcon chicks have been linked to collisions with such structures.",
           "versions": [
             {
               "political": "center",
@@ -738,8 +801,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Temasek unlikely to meet 2030 climate targets due to exposure to aviation and power sectors: CEO",
-              "url": "https://www.straitstimes.com/singapore/environment/unlikely-for-temasek-to-meet-2030-climate-targets-due-to-exposure-to-aviation-and-power-sector-ceo"
+              "headline": "Bird deaths in Singapore hit record high, with man-made structures named top culprit",
+              "url": "https://www.straitstimes.com/singapore/environment/as-bird-fatalities-logged-in-singapore-hit-high-man-made-structures-emerge-as-top-culprit"
             }
           ]
         }
@@ -750,51 +813,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Karnataka’s Dubare elephant camp tragedy: 5 rules to follow in presence of wildlife",
-          "neutralSummary": "A tourist tragically died at Dubare Elephant Camp after being caught between two fighting elephants during a bathing session. This incident highlights the dangers of close wildlife encounters, even with trained animals, and underscores the need for strict adherence to safety guidelines around wildli",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "No Selfies, Feeding: Karnataka's New Elephant Camp Rules After Tourist Death",
-              "url": "https://www.ndtv.com/india-news/no-selfies-feeding-karnatakas-new-elephant-camp-rules-after-tourist-death-11512797#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Karnataka’s Dubare elephant camp tragedy: 5 rules to follow in presence of wildlife",
-              "url": "https://timesofindia.indiatimes.com/life-style/travel/news/karnatakas-dubare-elephant-camp-tragedy-5-rules-to-follow-in-the-presence-of-wildlife/articleshow/131180647.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Tourist crushed to death amid fight between two elephants in Karnataka's Kodagu",
-              "url": "https://www.hindustantimes.com/india-news/tourist-crushed-to-death-amid-fight-between-two-elephants-in-karnataka-kodagu-video-101779111303605.html"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Tamil Nadu tourist dies after being caught in clash between two elephants at Dubare Elephant Camp in Karnataka",
-              "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMXNBOGZieEY1U2dNbHJad2NzdHdSSXJfM3U1VWhfaDB6aHlLNVBCdUR5dHlJSENkM0tKNl95ZU9QLUNtS0xIZk5JaV94c0NNZWZzSGxPdnFacjdUTzd3T0MxcmlrVDczTEd3REt1ZzJQZHhnTkIxbE1EWDR1MllSVDhBTmpyal9mMVA0dTJkVXRVNUhnczJobnJyOWRpNDI2b040Y2N4eEZOT1V1RzlUd1VWbU5ndXlpRTBGQ1c5QnBveEJJNzB3X3p1YTRQdUFoY0V0WTBKeW4yQjR3YjRFcFRxMkNZR2djT0tCR2c4RUVVeGxwcERsV2I1NVRIWmJWZ3ROejJxSzNrWHPSAZICQVVfeXFMTlZJNEdUREJGNGN4S1pBWUlYNXg5cnVzUm54a2ZiXzlHWm9ZRjFrb2ZzV2xQaGY0a3RaWUE1cDJRUVlUelk5dWQzYjFmSnNxWmk2NVBZdDlwLURrSjFicW9CUWk3TkxGdkZ1MFhodzVjeTZJUEprUmlOczZ0bGx1TmVTTi1fanRUYi1OaXBoZ3Y1Zkhla2JLbk1uNlRRVGxaNDQxMThxUWQ5S05iUDlxMnRrU1g3c1dHTXROX2VXdEJnTVN5MGFBTUZqbU14dDNCaTdFV25rZHJmQU1TUElxOEdqZEtzRU5Ib2xBdHNNTU9TTWhDREJYU0VuN3lXLVFPRVVTS0ZtVlAyNE9saDVIa2tidw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "13 killed, over 20 injured as truck collides with another carrying wedding family group in Maharashtra's Palghar",
-          "neutralSummary": "Around 25 people suffered sustained serious injuries and are currently undergoing treatment at the Kasa sub-district hospital.",
+          "neutralHeadline": "Petrol, diesel prices hiked again within a week by nearly 90 paise a litre",
+          "neutralSummary": "The latest revision follows an increase of  ₹3 per litre each in both fuels last week.",
           "versions": [
             {
               "political": "left",
@@ -802,8 +822,17 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "10 killed in accident as van collides with truck in Lakhimpur Kheri",
-              "url": "https://www.thehindu.com/news/national/uttar-pradesh/road-crash-in-uttar-pradesh-leaves-10-dead-after-van-collides-with-truck/article70993291.ece"
+              "headline": "Petrol, diesel prices hiked 90 paise per litre in second hike within a week",
+              "url": "https://www.thehindu.com/news/national/petrol-diesel-price-hike-fuel-rise-may-19-2026/article70996398.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Petrol, Diesel Prices Hiked By Nearly 90 Paise Per Litre, Second Time In A Week",
+              "url": "https://www.ndtv.com/india-news/fuel-price-hike-petrol-diesel-prices-hiked-by-nearly-90-paise-per-litre-second-time-in-a-week-11514795#publisher=newsstand"
             },
             {
               "political": "center",
@@ -811,165 +840,8 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "13 killed, over 20 injured as truck collides with another carrying wedding family group in Maharashtra's Palghar",
-              "url": "https://www.hindustantimes.com/india-news/several-in-wedding-party-killed-as-truck-collides-with-truck-in-maharashtras-palghar-101779107662924.html"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Modi in Norway LIVE: PM holds interaction with Norwegian business leaders",
-          "neutralSummary": "PM Modi was conferred with Norway's highest civilian honour, the Grand Cross of the Royal Norwegian Order of Merit",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Modi in Norway LIVE: PM holds interaction with Norwegian business leaders",
-              "url": "https://www.thehindu.com/news/national/narendra-modi-five-nation-tour-live-updates-norway-trade-investment-west-asia-crisis/article70992687.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Key accused in Bengal CM Suvendu aide's murder arrested in UP's Muzaffarnagar",
-          "neutralSummary": "On May 11, a Special Investigation Team (SIT) probing Rath's murder had arrested three people before widening its probe across multiple states. The cops suspected that hired sharpshooters were brought in from outside West Bengal to carry out the killing with military-style precision. A key breakthro",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Key Accused In Suvendu Adhikari Aide's Murder Arrested From UP",
-              "url": "https://www.ndtv.com/india-news/key-accused-in-suvendu-adhikari-aides-murder-arrested-from-up-11513243#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Key accused in Bengal CM Suvendu aide's murder arrested in UP's Muzaffarnagar",
-              "url": "https://timesofindia.indiatimes.com/india/key-accused-in-bengal-cm-suvendu-aides-murder-arrested-in-ups-muzaffarnagar/articleshow/131179260.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Relief For Adani Group, US Sanctions Probe Ends In $275 Million Settlement",
-          "neutralSummary": "The settlement does not constitute a finding of guilt or wrongdoing.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Relief For Adani Group, US Sanctions Probe Ends In $275 Million Settlement",
-              "url": "https://www.ndtv.com/india-news/relief-for-adani-group-us-sanctions-probe-ends-in-275-million-settlement-11513403#publisher=newsstand"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "US reaches $275 million settlement with Adani Enterprises over alleged Iran sanctions violations",
-              "url": "https://indianexpress.com/article/world/adani-enterprises-us-sanctions-iran-settlement-sec-lawsuit-dropped-10696300/"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Severe heatwave over northwest and central India, warns IMD",
-          "neutralSummary": "Heat wave to severe heat wave conditions are likely over a few pockets of west Uttar Pradesh till May 24, IMD warned",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Weather Office Warns Of Heatwave Across Northwest, Central India This Week",
-              "url": "https://www.ndtv.com/india-news/weather-office-warns-of-severe-heatwave-across-northwest-central-india-11513291#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Severe heatwave over northwest and central India, warns IMD",
-              "url": "https://www.hindustantimes.com/india-news/severe-heatwave-over-northwest-and-central-india-warns-imd-101779107305853.html"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Twisha dowry death case: Absconding husband's bail plea rejected; Rs 10k reward for info",
-          "neutralSummary": "A Bhopal court denied anticipatory bail to lawyer Samarth Singh, accused of abusing his wife Twisha Sharma, whose recent death has sparked dowry harassment claims. Police have announced a Rs 10,000 reward for information leading to Singh's arrest, with efforts underway to prevent him from fleeing th",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "No Interim Bail For Twisha Sharma's Husband, Cops Announce Rs 10,000 Reward",
-              "url": "https://www.ndtv.com/india-news/no-interim-bail-for-twisha-sharmas-husband-cops-announce-rs-10-000-reward-11512839#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Twisha dowry death case: Absconding husband's bail plea rejected; Rs 10k reward for info",
-              "url": "https://timesofindia.indiatimes.com/city/bhopal/twisha-sharma-dowry-death-husbands-bail-plea-rejected-ex-judge-claims-daughter-in-law-was-a-drug-addict/articleshow/131178185.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "First look of India's proposed bullet train between Mumbai and Ahmedabad unveiled, Railways shares image",
-          "neutralSummary": "Earlier last year, railways minister Ashwini Vaishnaw said the bullet train service would start operations on the Ahmedabad to Vapi section by August 2027.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "First Glimpse Of Mumbai-Ahmedabad Bullet Train's Proposed Design",
-              "url": "https://www.ndtv.com/india-news/first-glimpse-of-mumbai-ahmedabad-bullet-trains-proposed-design-11512970#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "First look of India's proposed bullet train between Mumbai and Ahmedabad unveiled, Railways shares image",
-              "url": "https://www.hindustantimes.com/india-news/first-look-of-india-inaugural-bullet-train-mumbai-ahmedabad-unveiled-railways-share-picture-101779105181249.html"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "Delhi HC declines interim relief to Vinesh Phogat in 2026 Asian Games trials",
-          "neutralSummary": "The bench said that while it appreciated Phogat was on maternity leave, on the other hand, the national interest needs to be looked at as well",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Delhi HC declines interim relief to Vinesh Phogat in 2026 Asian Games trials",
-              "url": "https://www.hindustantimes.com/india-news/delhi-hc-declines-interim-relief-to-vinesh-phogat-in-2026-asian-games-trials-101779113249205.html"
+              "headline": "Petrol, diesel prices hiked again within a week by nearly 90 paise a litre",
+              "url": "https://www.hindustantimes.com/india-news/petrol-diesel-rates-increased-delhi-sees-0-87-0-91-kolkata-mumbai-bengaluru-price-rise-101779155955503.html"
             },
             {
               "political": "center",
@@ -977,8 +849,208 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "No relief from HC for wrestler Vinesh Phogat",
-              "url": "https://economictimes.indiatimes.com/news/sports/no-relief-from-hc-for-wrestler-vinesh-phogat-for-participating-in-may-30-trials-for-asia-games/articleshow/131179701.cms"
+              "headline": "Aam aadmi fumes over petrol, diesel price hike",
+              "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/petrol-diesels-second-price-hike-in-5-days-leaves-common-man-concerned-about-price-burden/articleshow/131190133.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "US nod to possible sale of support services for Apache helicopters, M777A2 howitzers to India",
+          "neutralSummary": "US nod to possible sale of support services for Apache helicopters, M777A2 howitzers to India&nbsp;&nbsp;The Economic TimesApache Choppers, Howitzers: US Clears $428 Million Defence Sale To India&nbsp;&nbsp;NDTVU.S. nod to possible sale of support services for Apache helicopters, M777A2 howitzers&nb",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "U.S. nod to possible sale of support services for India’s Apache helicopters, M777A2 howitzers",
+              "url": "https://www.thehindu.com/news/international/us-nod-to-possible-sale-of-support-services-for-apache-helicopters-m777a2-howitzers/article70996557.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Apache Choppers, Howitzers: US Clears $428-Million Defence Support To India",
+              "url": "https://www.ndtv.com/world-news/apache-choppers-howitzers-us-clears-428-2-million-defence-sale-to-india-11515377#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "news.google.com",
+              "headline": "US nod to possible sale of support services for Apache helicopters, M777A2 howitzers to India",
+              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWXE4clJxemR5VUY3ZnV2NDRKSmJ5RGxRYjlrSVpIVmpsTzZscWsxVXF5dTRVcUNaTHhjVW5Zb3haeXd6X0ZyNWo4b0kyYS03aXQwZTBhM283RzRzODFmOUNxaG5adDBCSUhDUU9DRE1hSUt6VEs1TlIyWTFsYjQ2N3lxQl9mUDhtZ3RNZGdYMG53Z0RGZUhoRHZib3poX1JwOWlXOFpCX3prTWJxckZfbHVKN2RvNmlZcGFDcTZLZ2Vwa3dnaEpRMXhQdHU0S3RWVUJjYlU1S3h3WmtIeXlFYlNQOW3SAeoBQVVfeXFMTlEtYTJHMXJTX1BSNXdwUE9Oc2o2R29HbDlUZ0hiWjAyNmJaYzJ2bFNveDJDaU1id1IzcWVSOUxpRkhqUlk3WUVQOTFXSUVmRGVOblJEOEgtZzBEb3hZUGpIaXJlU3ktVmppelRFZjFJTTZQUTBxamJLQlhPYnNTQXlCMXZqQWczRk83QXFzRWVCbGlqSHIwNlJtREF3SFhxVkNwOE8zVkRid1ZIamRwYWdYNlRuWGhOM3J5UjhUUmlOQ1RHOHM5TFcwdkdMdGFYUDVRQW1fTU96ak4tbTdtWUNXaVhtdzR6YkF3?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Father pushed Twisha into glamour world, gave weight-loss pills in childhood",
+          "neutralSummary": "Twisha Sharma's mother-in-law, a retired judge, claims Twisha underwent a medical termination of pregnancy and had estrangement from her parents. She also alleged Twisha was undergoing psychiatric treatment. Twisha's father, however, suspects murder and demands a fresh post-mortem, accusing his son-",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "\"Pushed Into Glamour, Disowned By Parents\": Twisha Sharma's Mother-In-law",
+              "url": "https://www.ndtv.com/india-news/noidas-twisha-sharma-death-latest-news-she-took-marijuana-during-pregnancy-twisha-sharmas-mother-in-laws-giribala-singh-big-claim-11515025#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Father pushed Twisha into glamour world, gave weight-loss pills in childhood",
+              "url": "https://timesofindia.indiatimes.com/city/bhopal/a-strange-man-father-pushed-twisha-sharma-into-glamour-world-weight-loss-pills-given-in-childhood-claims-ex-judge/articleshow/131189556.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Twisha Sharma death case: Chilling chats, absconding husband, powerful in-laws",
+          "neutralSummary": "Twisha Sharma death case: Chilling chats, absconding husband, powerful in-laws&nbsp;&nbsp;India Today\"Pushed Into Glamour, Disowned By Parents\": Twisha Sharma's Mother-In-law&nbsp;&nbsp;NDTVCourt denies pre-arrest bail to Bhopal lawyer wanted for wife's death; cops declare bounty for info&nbsp;&nbsp",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Twisha Sharma Death Case Updates: Rs 10,000 Bounty On Twisha Sharma's Husband, Passport To Be Cancelled",
+              "url": "https://www.ndtv.com/india-news/twisha-sharma-death-updates-noida-woman-33-found-dead-in-bhopal-at-husbands-home-family-demands-justice-11511093#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Today",
+              "initials": "TD",
+              "domain": "news.google.com",
+              "headline": "Twisha Sharma death case: Chilling chats, absconding husband, powerful in-laws",
+              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQckxkSkRrZnJpZ2RMRlY0MVFlaXRfeUg3M0tMZUxaRlY1NjhtUFpDOGQ3S0xVRmw4cnViOGhxZDUxV1pwTXBrT2dwZDBFM1RhMmg5R0xxNE9mQnp6cEdZQlA4aW55blRwTHM1WVRWTzl0NTI3M1NwTERSbERjQmZCVEFST0xlR1doZ21LZXNzUnFxanM0Y1ZXeTFqMDJ3bUc1UGZSb2pLQTJ2VC0ySXVuSy1oSVRhdVRhRldZb2hFSFFOdHB0dS1HR2dFRDBFWFpNbDkxZm9CNGxwZw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Five dead, including teen gunmen, in suspected hate crime at San Diego mosque",
+          "neutralSummary": "Five dead, including teen gunmen, in suspected hate crime at San Diego mosque&nbsp;&nbsp;India TodayTeen suspects fatally shoot three in suspected hate crime at San Diego mosque, say police&nbsp;&nbsp;BBCA Fearful Phone Call and Frantic Search Preceded San Diego Mosque Shooting&nbsp;&nbsp;The New Yo",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "3 Killed In Shooting At San Diego's Largest Mosque, 2 Teen Suspects Dead",
+              "url": "https://www.ndtv.com/world-news/3-killed-in-shooting-at-us-san-diego-mosque-2-suspects-dead-cops-11514615#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Today",
+              "initials": "TD",
+              "domain": "news.google.com",
+              "headline": "Five dead, including teen gunmen, in suspected hate crime at San Diego mosque",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnAxYloteW9hMkVUTG9aMy1SR2hnQ0NzRVE0ODNtYlVzdEVSRHlpd2lKUzQxTUZKUnRyRk0yQ3BUeE1KZlAtUkpMWUJqY19mRHRqZ1RIS1ZaeGRSalhQbEFCdmRVRW82dGNvcmZGM1hFeDh6aHRKTlIzMERIbGZHSk9NNzRKWlV1Tjh4dkRlNkVTaGJqZWJtaURzT2ZXWUZucEpfOFU5SzF6T1pIUlJwWkpQSGTSAboBQVVfeXFMTTVROWtJYW1yVFdpcmsyQ0lYNmx4eHdvSVVUaEdaeWRGYk5KcUp2RW53Ni13LVpzNXJNaXdGNkd5dXFnb3J6SlBjaEh5QlFnem1rYzFtVmp0N295aFFEbExHclh4czU2TWZmWWZUa1NZSGFOb0EtVjJpOXBNT010LXJBRkVQeVpZTlk3UXQzQW16QlZuY3J3d1gzMHhQcm5yZzBhcjFtQzVMd1pLSWktMVFFZTBNb1pPcGpR?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Asia Group's Lin on Putin’s China Visit, US-China Ties",
+          "neutralSummary": "The Asia Group China Country Director Han Lin unpacks the geopolitical and economic significance of Russian President Vladimir Putin’s visit to Beijing. He also explores the evolving dynamics of US-China relations. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Putin visits China to reaffirm Russia ties as Xi also seeks stable US relations after Trump summit",
+              "url": "https://indianexpress.com/article/world/vladimir-putin-china-visit-xi-jinping-meeting-beijing-trump-10696889/"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Asia Group's Lin on Putin’s China Visit, US-China Ties",
+              "url": "https://www.bloomberg.com/news/videos/2026-05-19/asia-group-s-lin-on-putin-s-china-visit-us-china-ties-video"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "'No understanding': MEA secretary’s pointed response to Norway reporter; 'ignorant NGOs' retort",
+          "neutralSummary": "'No understanding': MEA secretary’s pointed response to Norway reporter; 'ignorant NGOs' retort",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'No understanding': MEA secretary’s pointed response to Norway reporter; 'ignorant NGOs' retort",
+              "url": "https://timesofindia.indiatimes.com/india/no-understanding-of-the-scale-of-india-mea-slams-ignorant-ngo-reports-after-tense-press-clash-in-oslo/articleshow/131188336.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Petrol, diesel price hike: Congress targets Centre, takes 'inflation man' swipe at PM Modi",
+          "neutralSummary": "Fuel prices have seen their second hike in less than a week, with petrol and diesel increasing by approximately 90 paise per litre. This follows a nearly four-year freeze by state-run oil companies, with prices now reaching their highest levels since May 2022. Opposition parties allege the freeze wa",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Petrol, diesel price hike: Congress targets Centre, takes 'inflation man' swipe at PM Modi",
+              "url": "https://timesofindia.indiatimes.com/india/petrol-diesel-price-hike-congress-targets-centre-takes-inflation-man-swipe-at-pm-modi/articleshow/131190282.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Check petrol, diesel rates for Delhi, Mumbai, Kolkata after fresh price hike",
+              "url": "https://www.hindustantimes.com/india-news/petrol-and-diesel-prices-hiked-by-nearly-90-paise-litre-check-new-rates-for-delhi-mumbai-kolkata-chennai-bangalore-101779157241792.html"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "All charges dropped by US department of justice: Adani Group stocks rally up to 3%",
+          "neutralSummary": "Stocks of several Adani Group firms, including Adani Enterprises, Adani Green, Adani Power, Adani Ports, Adani Energy and Adani Total Gas, rose by as much as 3.5% after the case was effectively closed the securities and wire alleged fraud case in New York.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "All charges dropped by US department of justice: Adani Group stocks rally up to 3%",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/all-charges-dropped-by-us-department-of-justice-adani-group-stocks-rally-up-to-3/articleshow/131191708.cms"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "US Justice Department drops all criminal charges against Gautam Adani in landmark case closure",
+              "url": "https://swarajyamag.com/news-brief/us-justice-department-drops-all-criminal-charges-against-gautam-adani-in-landmark-case-closure"
             }
           ]
         }
