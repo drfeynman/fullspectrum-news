@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-26T05:58:02.672806+00:00",
+  "generatedAt": "2026-05-26T16:44:13.403134+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Oil Rebounds as Strikes Near Strait Muddy Outlook for Iran Deal",
-          "neutralSummary": "Oil rebounded as fresh US military strikes in Iran clouded the outlook for an interim deal between Tehran and Washington to reopen the Strait of Hormuz, with the talks set to continue for several more days.",
+          "neutralHeadline": "Emerging Currencies Slide as Iran War ‘Confusion’ Jolts Market",
+          "neutralSummary": "Most emerging-market currencies weakened on Tuesday as overnight clashes near the Strait of Hormuz offset signs of progress toward a US-Iran peace deal, even as developing-nation stocks rose on optimism around artificial intelligence.",
           "versions": [
             {
               "political": "left",
@@ -15,17 +15,42 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Trump Says A Deal With Iran And Opening Of Strait Of Hormuz Are 'Largely Negotiated'",
-              "url": "https://www.huffpost.com/entry/iran-united-states-signal-some-progress-in-talks-as-trump-weighs-new-round-attacks_n_6a11c000e4b0f1ba1f665fb6"
+              "headline": "What We Know And Don't Know About The Emerging Deal To End The Iran War",
+              "url": "https://www.huffpost.com/entry/iran-us-deal-explained_n_6a14deb0e4b062ca52d49e51"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Deal with US not imminent, Iran says",
-              "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss"
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Rubio says US-Iran peace deal could take ‘a few more days’",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVWllMVUza2hTTEQ5TUo1dkFUa3NZU3ZJTld5TTZ6cWtJV1FZZ0x0WG9PRjJTZXJfdmRRZERkNlN4LUs4WG9Od0NGZV9IemIwdG1xbENEcEN4NmtfVEJaZFU1RGxFbzVOWlVlcEliMU9BeTQyU1JVSU5QeHNpWFEtSFNyRQ?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Emerging Currencies Slide as Iran War ‘Confusion’ Jolts Market",
+              "url": "https://www.bloomberg.com/news/articles/2026-05-26/emerging-stocks-extend-rally-as-ai-boom-outweighs-iran-doubts"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Israeli Opposition Leader Lapid Says Trump’s Emerging Deal With Iran Is 'Bad For The Region'",
+          "neutralSummary": "Israel's opposition leader Yair Lapid says the U.S.-Iran deal fails to meet Israel's goals and is criticizing Prime Minister Netanyahu for allowing Washington to negotiate with little Israeli input.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Israeli Opposition Leader Lapid Says Trump’s Emerging Deal With Iran Is 'Bad For The Region'",
+              "url": "https://www.huffpost.com/entry/israel-trump-deal-lapid-bad_n_6a14ce11e4b062ca52d49d5e"
             },
             {
               "political": "left",
@@ -35,92 +60,22 @@
               "domain": "npr.org",
               "headline": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI's rise",
               "url": "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Oil Rebounds as Strikes Near Strait Muddy Outlook for Iran Deal",
-              "url": "https://www.bloomberg.com/news/articles/2026-05-25/latest-oil-market-news-and-analysis-for-may-26"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Rubio says Iran deal could take days as US launches fresh strikes",
-          "neutralSummary": "Rubio says Iran deal could take days as US launches fresh strikes&nbsp;&nbsp;ReutersIran war latest: US conducts 'self-defence strikes' near Strait of Hormuz&nbsp;&nbsp;Sky NewsWhat’s in the proposed deal that could end the US-Iran conflict?&nbsp;&nbsp;CNNRubio Says Strait of Hormuz Will Be ‘Open On",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "US launches new strikes on Iran, targeting missile sites and boats",
-              "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Rubio says Iran deal could take days as US launches fresh strikes",
-              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2M1OFpXcm8tVlBZczVzcFhhdF9PQmw4UkdFRVRxS3BydkZPVXNiNXhyVU5fTFZXOE1TY040LXAtTFhzNEhHOU12UTNoSjllTHpzM2JxMmJUazZyVkRqUmFlbUtzd1FhdkNma1lGeHVFdjZfOHNLYW80dlJrbjJ5VmRnMURtejlVRjdOdlAwdGwxbURIdU9RMUZ1YjZVd2Rhdm84QU5xY0lJVDdVTXUzUzZPZjY5V3c?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "US strikes southern Iran in ‘self defence’ targeting Iranian mine boats",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_reported-us-strikes-southern-iran-in-self-defence-250526?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Middle East live: US targets Iranian vessels, missile sites in new strikes",
-              "url": "https://www.france24.com/en/middle-east/20260526-middle-east-live-us-carries-out-self-defense-strikes-on-iran"
             }
           ]
         },
         {
           "id": "global-3",
-          "neutralHeadline": "Israel pounds Lebanon with fresh air strikes, vows to 'crush' Hezbollah",
-          "neutralSummary": "Israel intensified air strikes across southern and eastern Lebanon on Monday after Prime Minister Benjamin Netanyahu vowed to “crush” Hezbollah, deepening fears of a wider regional conflict. The escalation comes despite an April ceasefire and as another round of US-Iran talks takes place in Doha in",
+          "neutralHeadline": "'Europe grieves with Belgium' following fatal crash between train and school bus",
+          "neutralSummary": "Four people, including two children were killed in northern Belgium on May 26 when a train hit a school minibus. Camera footage from the level crossing shows that it was closed at the time of the accident, with the barriers down. The investigation into how the school vehicle got onto the tracks is u",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Netanyahu says Israel will intensify strikes against Hezbollah",
-              "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon",
-              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEJSOXNPajBiZlpPdnJfcnBqZy1EdW5IMmZvZ192bHhuVE9QMWsxYUQ4YXBFQXF6T2p0ekZqd0kwVEtfMmVlOExLNWVCbWh2STVHRGpHc1Y4eFdLZVp0aEhOajd1VXlsRnJBdGhaUlo5MjBmbUJQNklvLTVkVXNPUDBWeVFsVjZWcGd6UTFjN3VKSGZ1NlE?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Israel to intensify Lebanon offensive to ‘crush’ Hezbollah",
-              "url": "https://www.aljazeera.com/news/2026/5/25/israel-to-intensify-lebanon-offensive-in-bid-to-crush-hezbollah?traffic_source=rss"
+              "headline": "Four killed as school minibus collides with train in Belgium",
+              "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
@@ -128,47 +83,72 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Israel pounds Lebanon with fresh air strikes, vows to 'crush' Hezbollah",
-              "url": "https://www.france24.com/en/middle-east/20260525-israel-steps-up-lebanon-strikes-as-netanyahu-escalates-offensive"
+              "headline": "'Europe grieves with Belgium' following fatal crash between train and school bus",
+              "url": "https://www.france24.com/en/europe-grieves-with-belgium-following-fatal-crash-between-train-and-school-bus"
             }
           ]
         },
         {
           "id": "global-4",
-          "neutralHeadline": "Iran is beating Trump at the art of the deal",
-          "neutralSummary": "Iran is beating Trump at the art of the deal&nbsp;&nbsp;Financial TimesWhy Trump’s possible Iran deal may be almost as divisive as his decision to wage war&nbsp;&nbsp;CNNWhy Trump Lost to Iran&nbsp;&nbsp;The AtlanticOpinion | Trump’s Iran exit ramp is a long shot. He doesn’t have a better option.&nb",
+          "neutralHeadline": "Russia tells Marco Rubio U.S. citizens should leave Kyiv ahead of 'systematic' strikes on Ukrainian capital",
+          "neutralSummary": "Russia tells Marco Rubio U.S. citizens should leave Kyiv ahead of 'systematic' strikes on Ukrainian capital&nbsp;&nbsp;CNBCRussian Offensive Campaign Assessment, May 25, 2026&nbsp;&nbsp;Institute for the Study of WarRussia pressures U.S., Ukraine’s allies to flee Kyiv, threatening ‘systematic strike",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Three Months In, Is Trump Losing The Iran War?",
-              "url": "https://www.huffpost.com/entry/trump-losing-iran-war_n_6a137d19e4b0f1ba1f669bea"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump says a deal to end war with Iran is near, but many questions remain",
-              "url": "https://www.npr.org/2026/05/24/nx-s1-5833093/trump-says-a-deal-to-end-war-with-iran-is-near-but-many-questions-remain"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+              "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Financial Times",
-              "initials": "FT",
+              "source": "CNBC",
+              "initials": "C",
               "domain": "news.google.com",
-              "headline": "Iran is beating Trump at the art of the deal",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRmdiM1BRNGEwLW02Nnhtck9pUnlWdWdPRTVUZUdJWWlDYWpESTk0YU9XMzlHdW8yRG94YUE0UUhFWmlXOV96Q05GT2xkcWVZX0V0YmNWNEk0cllxSzd0MWJXQ0o5dzZVbDNSakNVT0FTZ0w1cTNiZzk1LWJUY2RibHdPOVE?oc=5"
+              "headline": "Russia tells Marco Rubio U.S. citizens should leave Kyiv ahead of 'systematic' strikes on Ukrainian capital",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlRvMlFKbWZJclBrLTVfRnVRVmg3NHVZdkNtek9IZkZNbERhZkZkNTFtUEU4eGdrc0x5bjRyeUlvTDd1Y1F5TmwweW85bG5UVkcwQzRsbVd0NjE2MzQ2SktwazZPZWNUVFpYcUlwT2NlcU53RDkzZFhoVnZmeHMwNTNJQ244d9IBiwFBVV95cUxPX2F5MV9uc3pJcG5GVXhEbkc4endvVnF4NG1LZnFWaDlVdHJqZFRJNEhyOElZaG9qdE9taUYxaldFR2E3UGU5aUJYeDR4ck9EaEp6VDRaMlViYld2RW9FV2xNUF8xWHJMQ2lmSW5QZ3BkR0NuSjB1eFJPR2VLQ3RXbDR6akd3VzNfc2NN?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation",
+              "url": "https://www.aljazeera.com/news/2026/5/26/leave-kyiv-why-russias-latest-ukraine-threat-is-a-major-escalation?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-5",
+          "neutralHeadline": "Thai rescuers join effort to free seven people trapped in Laos cave",
+          "neutralSummary": "Group have been stuck in flooded cave in central Laos for five days after heavy rain caused landslidesDivers who helped in the dramatic rescue of a young Thai football team in 2018 have joined efforts to free seven people who have been trapped for five days inside a remote, flooded cave in central L",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Thai rescuers join effort to free seven people trapped in Laos cave",
+              "url": "https://www.theguardian.com/world/2026/may/25/laos-flooded-cave-thai-rescuers"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Rescuers race to free seven people trapped in flooded Laos cave",
+              "url": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
           "neutralHeadline": "China mine death toll at least 82 after gas blast",
           "neutralSummary": "Xi Jinping urges authorities to ‘spare no effort’ in rescue operation after explosion in northern Shanxi provinceAt least 82 people have been killed in a gas explosion at a coalmine in northern China’s Shanxi province, in the country’s worst mining disaster in 17 years.The explosion happened on Frid",
           "versions": [
@@ -193,9 +173,59 @@
           ]
         },
         {
-          "id": "global-6",
-          "neutralHeadline": "Russia deploys hypersonic missile in latest major strikes on Ukraine",
-          "neutralSummary": "Kyiv is still dealing with the aftermath of a large-scale Russian overnight strike that killed four people and injured dozens, with emergency teams continuing search and cleanup operations across the city. More than 50 sites were hit, including homes, a school and a museum, while Russia says it used",
+          "id": "global-7",
+          "neutralHeadline": "U.S. Military Strikes Iranian Boats, Missile Launch Sites: CENTCOM",
+          "neutralSummary": "U.S. Central Command said in a statement the strikes were designed \"to protect our troops from threats posed by Iranian forces.\"",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "U.S. Military Strikes Iranian Boats, Missile Launch Sites: CENTCOM",
+              "url": "https://www.huffpost.com/entry/us-military-strikes-iran_n_6a14dbffe4b0457678e3fd70"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "US launches new strikes on Iran, targeting missile sites and boats",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WaDJGdEZ0YndpVVJXUlUydGhtZnZWVUFDdnR6MUdTSmhQNVMyZmRKUGMxZC0yTUNNTGw1Q2Q1M3VsNWVacFJ2X3cwd1BiOTd4b1BSYWxBM1Bodw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Trump’s Iran War Was a Failure",
+          "neutralSummary": "Trump’s Iran War Was a Failure&nbsp;&nbsp;The BulwarkOpinion | Will Trump Bail Out Iran’s Regime?&nbsp;&nbsp;WSJThe Key Sticking Points for a US-Iran Peace Deal&nbsp;&nbsp;Bloomberg.comTrump’s Pressure Had Little Effect on Iran’s Terms for a Peace Deal&nbsp;&nbsp;The New York TimesOpinion | Trump’s",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Three Months In, Is Trump Losing The Iran War?",
+              "url": "https://www.huffpost.com/entry/trump-losing-iran-war_n_6a137d19e4b0f1ba1f669bea"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Bulwark",
+              "initials": "TB",
+              "domain": "news.google.com",
+              "headline": "Trump’s Iran War Was a Failure",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcktaRFFTdTJDQnpzYlhXQjFPa2lnd1hXdURqNWhPdTlCdzk4RWQzckU4Z3A3SXE2VnY2M25BM09YNTdGODJqRlRMWjRDSTlLVzExcVU0U01hdkdzdmxUSXVLZlZEcTVtcTd6elRKbmFVT19TSjQzeTctclRyODJtNmdaWFJibmF1VFNveF9uVEQzTjQwTVhjSFo5LXFYeXhzVzZnQWxnaWxPSXRscFRteFA5Y0djOFhYMXJISVA0dVkwZw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Russia Uses Hypersonic Oreshnik Missile In Mass Attack On Kyiv",
+          "neutralSummary": "The intense aerial assault damaged buildings across the Ukrainian capital, including near government offices, residential buildings, schools and a market, Ukrainian authorities said.",
           "versions": [
             {
               "political": "left",
@@ -207,88 +237,13 @@
               "url": "https://www.huffpost.com/entry/russia-ukraine-war-hypersonic-oreshnik-missile-kyiv_n_6a134bc4e4b0bb04cec7c1ea"
             },
             {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Russia deploys hypersonic missile in latest major strikes on Ukraine",
-              "url": "https://www.france24.com/en/russia-deploys-hypersonic-missile-in-latest-major-strikes-on-ukraine"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Iran's Top Negotiator Says Tehran Will Not Compromise In Talks With U.S.",
-          "neutralSummary": "The talks reportedly centered on a 14-point document proposed by Iran.",
-          "versions": [
-            {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Iran's Top Negotiator Says Tehran Will Not Compromise In Talks With U.S.",
-              "url": "https://www.huffpost.com/entry/irans-top-negotiator-says-tehran-will-not-compromise-in-talks-with-us_n_6a11a206e4b084c012e70dad"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Iran war live: US strikes Iran’s south, Tehran officials in Qatar for talks",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Russia threatens fresh Kyiv strikes, warns foreigners to leave",
-          "neutralSummary": "Russia said Monday it would intensify strikes on Kyiv, targeting what it called Ukraine’s “decision-making centres”, and urged foreign diplomats and civilians to evacuate the capital. The warning followed a weekend barrage of drones, missiles and hypersonic weapons that killed four people, as Moscow",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-              "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Russia threatens fresh Kyiv strikes, warns foreigners to leave",
-              "url": "https://www.france24.com/en/europe/20260525-russia-threatens-fresh-kyiv-strikes-warns-foreigners-to-leave"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Muslims begin the annual Hajj in sweltering heat against a backdrop of war concerns",
-          "neutralSummary": "Muslims begin the annual Hajj in sweltering heat against a backdrop of war concerns&nbsp;&nbsp;PBSThousands of Iranians Travel to Saudi Arabia in a Tense Wartime Pilgrimage&nbsp;&nbsp;WSJMore than 1.5m foreign pilgrims begin Hajj despite Iran war fears&nbsp;&nbsp;BBCPhotos of the annual Hajj pilgrim",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Muslims begin the annual Hajj against a backdrop of war concerns",
-              "url": "https://www.npr.org/2026/05/25/nx-s1-5833671/muslims-begin-annual-hajj"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "PBS",
-              "initials": "P",
-              "domain": "news.google.com",
-              "headline": "Muslims begin the annual Hajj in sweltering heat against a backdrop of war concerns",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVDEwVWlCc3FDNVlxM3RkaktGNF9mMWZ4N19BejBWTjJIRWNXTWJ2b1lJM05OLXFtTXlLVllhYXR0Y0piczc3M1plMTFiSVozbGo0TWpKdHJhYlI0bkxkaFZINFBDQnJ5T2hRLWkzckpVWDNfTTVONEU1RDZRUmNkcVhMNmFZN1UwVXd0VXdoZnljY19wN2RtM1ZLNlRURGh2dndyOUQ1eDZQSWdCR3hndU5pbk9xQ2FJTGfSAb8BQVVfeXFMTjU3dTNXYnljWWtOSjU2MFpsSHUyNjF0aTl2N2xMTUhubmRsWHVYdmpYNjRhc0JjNXdBTVEwUUVadnY1eHRxRGJ4a2kweGxRUzdQV0hUS0VPaGVqT1dDY1BmT3FqVDR2S1NQTmZMcGswcFBTVXBGa0dha1dXNjAzRTNrM1E1RUFIcGl2V0t0UjN3dXlNdjRSMzRZQzJRdjVCV1ctRUcxLU90WnFiNUF6X2dZRF9Sb051N2x3bTRMZEU?oc=5"
+              "headline": "Russia threatens more strikes against Kyiv after drone and missile attack",
+              "url": "https://www.npr.org/2026/05/26/nx-s1-5833816/russia-threatens-more-strikes-against-kyiv-after-drone-and-missile-attack"
             }
           ]
         }
@@ -299,8 +254,76 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Iran is beating Trump at the art of the deal",
-          "neutralSummary": "Iran is beating Trump at the art of the deal&nbsp;&nbsp;Financial TimesWhy Trump’s possible Iran deal may be almost as divisive as his decision to wage war&nbsp;&nbsp;CNNWhy Trump Lost to Iran&nbsp;&nbsp;The AtlanticOpinion | Trump’s Iran exit ramp is a long shot. He doesn’t have a better option.&nb",
+          "neutralHeadline": "What to Watch in Texas Runoff Elections: Trump Endorsements, Democratic Incumbents and More",
+          "neutralSummary": "All eyes will be on the Republican Senate runoff between the incumbent John Cornyn and Attorney General Ken Paxton. But Tuesday’s runoffs in Texas will feature other key contests.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "What to Watch in Texas Runoff Elections: Trump Endorsements, Democratic Incumbents and More",
+              "url": "https://www.nytimes.com/2026/05/26/us/politics/texas-runoffs-cornyn-paxton.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "A runoff in Texas primary will test Trump’s grip on GOP",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObS10M2UxaDJKWkhlYWdTd3hCbEZJWHVWdHFQOVRjekNFcFFSZnVSMTBqRy1TdG11X3c4cTRuUTVuMy00UTF4eXg0WmI1dDBnM0VfdTl3MlVJdERVZ3ZTTUFxN0x5NUxuQW9BbUVaM3hULVBYRFA4eTZ4Z2R5VmRPR1dWVDVKOV9lOTFHRU1vekRNaXVJa3VUODdFRzdJbkVYblk2VWhqSWN5X2NZ?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "‘Put us down for Ken Paxton’: Trump endorsement energizes Texas voters ahead of runoff",
+              "url": "https://www.foxnews.com/politics/put-us-ken-paxton-trump-endorsement-energizes-texas-voters-ahead-runoff"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Trump to hold Cabinet meeting Wednesday at Camp David",
+          "neutralSummary": "President Trump is set to make a rare appearance at Camp David on Wednesday to conduct a Cabinet meeting, just hours after U.S. strikes on Iran left a peace deal hanging in the balance. Every member of the Cabinet will be in attendance, including Director of National Intelligence Tulsi Gabbard, who",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump to hold Cabinet meeting Wednesday at Camp David",
+              "url": "https://thehill.com/homenews/administration/5895106-trump-cabinet-meeting-campdavid/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump convenes rare Camp David Cabinet meeting as Iran deal pressure grows",
+              "url": "https://www.foxnews.com/politics/trump-convenes-rare-camp-david-cabinet-meeting-iran-deal-pressure-grows"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump and Cabinet head to Camp David as negotiations to end the Iran war continue",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4581830/trump-cabinet-camp-david-iran-war/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "House Democrat perplexed by Trump Abraham Accords push amid Iran talks",
+          "neutralSummary": "Rep. Jake Auchincloss (D-Mass.) on Monday expressed confusion over President Trump’s push for other countries to join the Abraham Accords as he seeks a deal with Iran to end the war. Earlier in the day, Trump called for Persian Gulf allies to join the Abraham Accords amid talks between the U.S. and",
           "versions": [
             {
               "political": "left",
@@ -312,56 +335,93 @@
               "url": "https://www.huffpost.com/entry/donald-trump-united-states-middle-east-post_n_6a13f709e4b0bb04cec7eb07"
             },
             {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "House Democrat perplexed by Trump Abraham Accords push amid Iran talks",
+              "url": "https://thehill.com/homenews/house/5895169-trump-abraham-accords-auchincloss/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Trump Undergoes a Physical Exam at Walter Reed",
+          "neutralSummary": "President Trump, whose health has been a subject of public scrutiny, will turn 80 next month.",
+          "versions": [
+            {
               "political": "left",
               "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Trump Urges More Countries to Normalize Relations With Israel as Part of Iran Deal",
-              "url": "https://www.nytimes.com/2026/05/25/us/politics/trump-israel-iran-abraham-accords.html"
-            },
+              "headline": "Trump Undergoes a Physical Exam at Walter Reed",
+              "url": "https://www.nytimes.com/2026/05/26/us/politics/trump-physical-walter-reed.html"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "As Trump Politicizes Justice Dept., Prosecutors Struggle With Grand Juries",
+          "neutralSummary": "Judges and grand juries have increasingly lost faith in the Justice Department as the president uses it to reward his friends and go after his opponents.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "As Trump Politicizes Justice Dept., Prosecutors Struggle With Grand Juries",
+              "url": "https://www.nytimes.com/2026/05/26/us/politics/trump-justice-department-grand-juries.html"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "U.S. strikes Iran. And, immigration courts use new tactic to speed up deportations",
+          "neutralSummary": "The U.S. military has launched new attacks on Iran while talks to end the conflict are ongoing. And, the Department of Justice is using a new tactic in immigration courts to accelerate deportations.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "U.S. strikes Iran. And, immigration courts use new tactic to speed up deportations",
+              "url": "https://www.npr.org/2026/05/26/g-s1-124277/up-first-newsletter-iran-war-russia-ukraine-immigration-courts-trump-health"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Attacks from residents complicate the fight against a rare type of Ebola",
+          "neutralSummary": "Three times in the past week, healthcare facilities have been attacked. On Sunday, angry young men stormed a hospital treating Ebola patients, forcing medical staff to evacuate them as gunfire rang out.",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Trump says U.S. and Iran nearing a peace deal. And, Pope Leo weighs in on AI's rise",
-              "url": "https://www.npr.org/2026/05/25/g-s1-124191/up-first-newsletter-iran-war-trump-ebola-california-chemical-tank-pope-leo-ai"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Financial Times",
-              "initials": "FT",
-              "domain": "news.google.com",
-              "headline": "Iran is beating Trump at the art of the deal",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRmdiM1BRNGEwLW02Nnhtck9pUnlWdWdPRTVUZUdJWWlDYWpESTk0YU9XMzlHdW8yRG94YUE0UUhFWmlXOV96Q05GT2xkcWVZX0V0YmNWNEk0cllxSzd0MWJXQ0o5dzZVbDNSakNVT0FTZ0w1cTNiZzk1LWJUY2RibHdPOVE?oc=5"
+              "headline": "Attacks from residents complicate the fight against a rare type of Ebola",
+              "url": "https://www.npr.org/2026/05/26/nx-s1-5834815/attacks-complicate-fight-against-ebola"
             }
           ]
         },
         {
-          "id": "us-2",
-          "neutralHeadline": "Graham hails Trump’s Abraham Accords push after Iran deal criticism: ‘Brilliant’",
-          "neutralSummary": "Sen. Lindsey Graham (R-S.C.) on Monday voiced support for President Trump&#8217;s proposal that Saudi Arabia, Qatar and other Gulf states join the Abraham Accords as part of the U.S. and Iran&#8217;s negotiations to end conflict in the region. Graham called the expansion &#8220;simply brilliant&#822",
+          "id": "us-8",
+          "neutralHeadline": "Federal court blocks new Republican-friendly voting map in Alabama",
+          "neutralSummary": "Federal court blocks new Republican-friendly voting map in Alabama&nbsp;&nbsp;The GuardianCourt Rejects Alabama House Map, Calling It Unfair to Black Voters&nbsp;&nbsp;The New York TimesFederal court blocks Alabama plan for new congressional districts that could help Republicans&nbsp;&nbsp;CNNJudges",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
+              "source": "The Guardian",
+              "initials": "TG",
               "domain": "news.google.com",
-              "headline": "As new Iran deal faces sharp criticism, Trump seeks to widen Abraham Accords",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbG80dUZlanZBTUVzNDFSdFpWOXlUU0lkLTNvMU91NWU0VVViTlpiUmh4MktyZjBJSm5lZ0tydlRhdk9MLVFwQmdyWFl3anB3R3VjeXdmdFE5Ul9GbmZpbkloVHh1Uk9TVzRuNEwxQ2tKMTFFeDVYRFRyakxhbFlSUWJRZkpHYmQ1Wmpvem1QWWxiam9Pdjk3bzVlbXdMWi1vVnFsS1A5TGpQajBCcUtTemdHbXY3cFptWXc?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Graham hails Trump’s Abraham Accords push after Iran deal criticism: ‘Brilliant’",
-              "url": "https://thehill.com/homenews/senate/5894032-lindsey-graham-donald-trump-abraham-accords-us-iran-deal/"
+              "headline": "Federal court blocks new Republican-friendly voting map in Alabama",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVBZRzB4RmR3NkxxTExmQjR6dGxlQXpLZk5XWWlfZW9zMjMwd0NJZWtDS3dDMmU3RlhBV2xfRlZ0ZmlYdUhhTVdXel9DUUpYb256UHl6cG9wMHQzYzl4eURLNjBBeUxtUU1LU3JvNHhmUDVqX1VMY3JwRjRvWVcxYUJMTklSNS1yYk9rLXlfelhuUUE?oc=5"
             },
             {
               "political": "right",
@@ -369,126 +429,24 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Trump calls on Arab nations to sign Abraham Accords",
-              "url": "https://www.foxnews.com/politics/trump-calls-arab-nations-sign-abraham-accords"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Trump Wants More Muslim Nations To Join Abraham Accords — Even Iran",
-              "url": "https://www.dailywire.com/news/trump-wants-more-muslim-nations-to-join-abraham-accords-even-iran"
+              "headline": "Federal judge blocks Alabama redistricting plan in blow to Trump",
+              "url": "https://www.foxnews.com/politics/federal-judge-blocks-alabama-redistricting-plan-blow-trump"
             }
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "US forces conduct strikes in Iran, Centcom says",
-          "neutralSummary": "U.S. Central Command (Centcom) on Monday said U.S. forces fired &#8220;defensive strikes&#8221; in southern Iran amid discussions to bring the U.S.-Israeli conflict with Tehran to an end. These strikes were intended &#8220;to protect our troops from threats posed by Iranian forces&#8221; — specifica",
+          "id": "us-9",
+          "neutralHeadline": "Protesters form barricades outside Newark immigrant center Monday after weekend of clashes",
+          "neutralSummary": "Protesters form barricades outside Newark immigrant center Monday after weekend of clashes&nbsp;&nbsp;GothamistGov. Sherrill Demands Access to ICE Facility as Hunger Strike Widens&nbsp;&nbsp;The New York TimesUS senator says he was pepper sprayed by federal agents during protest at ICE facility&nbsp",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
+              "source": "Gothamist",
+              "initials": "G",
               "domain": "news.google.com",
-              "headline": "US military says it has launched new strikes on southern Iran",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WaDJGdEZ0YndpVVJXUlUydGhtZnZWVUFDdnR6MUdTSmhQNVMyZmRKUGMxZC0yTUNNTGw1Q2Q1M3VsNWVacFJ2X3cwd1BiOTd4b1BSYWxBM1Bodw?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "US forces conduct strikes in Iran, Centcom says",
-              "url": "https://thehill.com/policy/defense/5894404-us-strikes-iran-centcom/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "U.S. Launches ‘Self-Defense Strikes’ In Iran",
-              "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Israeli opposition leader pushes back on reported US-Iran peace framework",
-          "neutralSummary": "Israeli opposition leader pushes back on reported US-Iran peace framework&nbsp;&nbsp;The HillIsraeli opposition leader Lapid says Trump’s emerging deal with Iran is `bad for the region’&nbsp;&nbsp;AP NewsNetanyahu admits difficulty influencing Trump decisions on Iran, sources say&nbsp;&nbsp;ReutersI",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Israeli opposition leader pushes back on reported US-Iran peace framework",
-              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmRLOGktSjdvT0FvSVVsWWsyS0gzeFd4RS1MMnBoWjJIODNYTzZ2Zm5NRTVIWGJpUGlwUjU0NDlrbHdyaWViblV0LWJhZ0ZOSDN6bnVYVmFmb1FjUnNhLTBhQ3lUZUstODZJOEVDdlVNNkVmM0t3OHVVakQ2V0hPRWF3UHFPYXlJS3RJZTBuV0vSAZYBQVVfeXFMT2dUR2VlaFcxWU8zbE5uRkhxRVFIdDJuU1haX19NTENRdE9UcElLLUpYN1l1WGJCUVpMbE5QVElvTWlmOWVfWDJrQVAtMWNrdHFaLW5WZklsS1BfRW9wbk5SR0o1a0dpNnJmUkFhaEJPdTJFZDBzYkt3QWx5cG5QTnQtX0hXUmswWWNUVDFKVG95R3piRnVn?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Israeli opposition leader Yair Lapid denounces emerging US-Iran peace deal",
-              "url": "https://www.washingtonexaminer.com/news/world/4581484/yair-lapid-israel-opposition-us-iran-peace-deal-denounce/"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Sherrill denied access to ICE detention facility in New Jersey",
-          "neutralSummary": "New Jersey Gov. Mikie Sherrill (D) on Monday said she was denied access to an Immigration and Customs Enforcement (ICE) detention center in Newark amid protests outside the facility and a hunger strike within its walls. The governor said being denied access to Delaney Hall, the detention center, rai",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Gov. Sherrill Demands Access to ICE Facility as Hunger Strike Widens",
-              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0ltZk1SV2RnS2sxek1Ld1hDVWNWZHBkRUNFTjBBNTU5Wk02elFyMmhaWjVCTTgwbzFma1phV191VXMyS2IxS2NxSEJNQjZjUm5zbW1DUENJSFRiOWZlWDZvMU9BWXAxTHJZUUJQZjNaeEdUWEFuM1RDaVlUSkJjU3JoZmNPUjkxTk1J?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Sherrill denied access to ICE detention facility in New Jersey",
-              "url": "https://thehill.com/homenews/state-watch/5894189-new-jersey-detention-center-sherrill/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Mikie Sherrill denied access to ICE facility as detainees go on hunger strike",
-              "url": "https://www.washingtonexaminer.com/policy/immigration/4581315/mikie-sherrill-ice-facility-hunger-strike/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Trump outlines options for disposal of Iran’s enriched uranium",
-          "neutralSummary": "President Trump on Monday outlined options for the fate of Iran&#8217;s enriched uranium stockpile if both countries sign on to a peace agreement currently under negotiation with Tehran. &#8220;The Enriched Uranium (Nuclear Dust!) will either be immediately turned over to the United States to be bro",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump outlines options for disposal of Iran’s enriched uranium",
-              "url": "https://thehill.com/homenews/administration/5894298-trump-iran-enriched-uranium-deal/"
+              "headline": "Protesters form barricades outside Newark immigrant center Monday after weekend of clashes",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3VKcFFBTmtFMkhIUEhuNTd2eVlQRGV4M2xSOVdGUzlGdEo1VmdsVnNsaXJGRFVMX1J0Y1J1Q0FtdTlWeWp6bGNUYkpmWWdSRHh3V1VGTDl3dmVjTzRUTlRfMmd5Y0VYRW9BR04yM1ZISWl3V2tEenFSYkpFakJ1cm1VNF9NUmJiR1NKS2xJaGdVeHRhUE1GdWw5cTVLN3d3clpuc212eERuNldiQzFuOFItOGJHcEk?oc=5"
             },
             {
               "political": "right",
@@ -496,92 +454,8 @@
               "source": "NY Post",
               "initials": "NYP",
               "domain": "nypost.com",
-              "headline": "US officials weigh two face-saving options for Iran to dispose of its enriched uranium",
-              "url": "https://nypost.com/2026/05/25/us-news/us-officials-weigh-two-face-saving-options-for-iran-to-dispose-of-its-enriched-uranium/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump says enriched uranium will be handed over or destroyed ‘immediately’",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4581403/trump-enriched-uranium-handed-over-destroyed/"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "The Wall Street Journal board warns Trump against ‘economic bailout’ in Iran deal",
-          "neutralSummary": "The Wall Street Journal editorial board on Sunday pushed back on the reported terms of a peace deal being negotiated by the Trump administration and Iranian government. The editorial board wrote that while the administration “can claim real achievements” from the war, the ceasefire period “may deliv",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Wall Street Journal Says Donald Trump Presidency May Be ‘All But Over’ Without 1 Major Change",
-              "url": "https://www.huffpost.com/entry/wall-street-journal-donald-trump-lost-the-plot_n_6a13ff09e4b0bb04cec7efa0"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "The Wall Street Journal board warns Trump against ‘economic bailout’ in Iran deal",
-              "url": "https://thehill.com/homenews/media/5894035-wall-street-journal-board-donald-trump-us-iran-deal/"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Sheinbaum: Mexico to host Iran’s World Cup team amid US tensions",
-          "neutralSummary": "Mexican President Claudia Sheinbaum on Monday said her country will host Iran&#8217;s FIFA World Cup team amid simmering tensions between the Latin American country and the U.S. Sheinbaum told reporters at a press conference that her government has agreed to allow the team into Mexico amid the war i",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Iran Moves World Cup Base Out Of U.S. Amid Security And Visa Concerns",
-              "url": "https://www.huffpost.com/entry/iran-base-world-cup_n_6a13e566e4b0bb04cec7e397"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Sheinbaum: Mexico to host Iran’s World Cup team amid US tensions",
-              "url": "https://thehill.com/policy/international/5894106-mexico-iran-world-cup/"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "The pope takes on AI",
-          "neutralSummary": "Monday morning, the Roman Catholic Church made its biggest foray yet into the discourse on artificial intelligence and the role it should play in human life as the technology develops. In the first encyclical of his papacy, titled Magnifica humanitas (Latin for “magnificent humanity”), Pope Leo XIV",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "The pope takes on AI",
-              "url": "https://www.vox.com/technology/489534/pope-ai-magnificas-humanitas-artificial-intelligence-catholic-social-teaching-church-encyclical"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Pope Leo  takes aim at big tech in sweeping encyclical on AI",
-              "url": "https://www.npr.org/2026/05/25/nx-s1-5828375/pope-leo-to-weigh-in-on-the-perils-and-promises-of-artificial-intelligence"
+              "headline": "Chaotic video shows anti-ICE protesters clash with officers outside Newark immigration detention center",
+              "url": "https://nypost.com/2026/05/26/us-news/anti-ice-protesters-clash-with-officers-outside-newarks-delaney-hall/"
             }
           ]
         }
@@ -592,8 +466,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "MOM investigating after helper seen cleaning window on 24th-floor ledge at Lentor condo",
-          "neutralSummary": "The images were first shared by a resident in a group chat.",
+          "neutralHeadline": "Woman dead, man injured after incident in Choa Chu Kang",
+          "neutralSummary": "The woman was allegedly stabbed near the lift on the 12th floor of Block 248 Choa Chu Kang Avenue 2.",
           "versions": [
             {
               "political": "center",
@@ -601,24 +475,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "MOM investigating after helper seen cleaning window on 24th-floor ledge at Lentor condo",
-              "url": "https://www.straitstimes.com/singapore/mom-investigating-after-helper-seen-cleaning-window-on-24th-floor-ledge-at-lentor-condo"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AsiaOne",
-              "initials": "A",
-              "domain": "news.google.com",
-              "headline": "Maid spotted on 24th-floor Lentor condo ledge, sparking MOM probe, Singapore News",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXF4TV9iSjZ1TXhRVThaLTRZSkdZWHE0TVFKNXMyTk44bXJQeWhOX21aV3R4ejFNQmQ2SElldDBFc3lzb0FTZlZIQmlNNzJNSG8xNEVaWDl0YlhTcU5kVV9qdlRKb2R4cUFxNXdjTzJ3bVhlZ3ExX01aLWhBZXB0SXh2bmJrNk1pYmRfdDZYbU5hbmxrMjRn?oc=5"
+              "headline": "Woman dead, man injured after incident in Choa Chu Kang",
+              "url": "https://www.straitstimes.com/singapore/woman-dead-man-injured-after-incident-in-choa-chu-kang"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Truth decay, echo chambers a challenge for Singapore courts: Chief Justice",
-          "neutralSummary": "That is why it is critical that people believe the courts make decisions based on evidence, he said.",
+          "neutralHeadline": "Man files appeal after being handed maximum 3-year jail term for dodging full-time national service",
+          "neutralSummary": "He was convicted in March following a trial for failing to report for enlistment, and in April for his immigration offences.",
           "versions": [
             {
               "political": "center",
@@ -626,24 +491,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Truth decay, echo chambers a challenge for Singapore courts: Chief Justice",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/era-of-truth-decay-rise-of-echo-chambers-a-challenge-for-singapore-courts-chief-justice-menon"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Social media and truth decay: Chief Justice on the battle to preserve public trust in Singapore’s courts",
-              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3piTl96cGp6V3Q0Nmp6TTJHN3NQcFBxdXBFbE1UVWUyV2x6WmZoQ2tHX0V1U3NpRGJNMVZkaDUwS0dlaHRmVk9ERk01MERiWHdjYkhMcDlHb09Wdm1GS3czQ19pSUFUalhCeWY4MVF2X0xDT0hMZklUaEU0OVpCWTRGMm9rdlFqXzFIQlFPWFczbmJrN0pDM0cyZHNEQkUwWndzang5d0Y1N1BreDNOMg?oc=5"
+              "headline": "Man files appeal after being handed maximum 3-year jail term for dodging full-time national service",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/man-files-appeal-after-being-handed-maximum-3-year-jail-term-for-dodging-full-time-national-service"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Construction at Chong Pang City to resume on May 26, weeks after bar from site fell on nearby block",
-          "neutralSummary": "SLA said additional safety measures will be put in place at the construction site.",
+          "neutralHeadline": "S’porean man linked to global insider trading scheme has appeal for bail denied by High Court",
+          "neutralSummary": "The 34-year-old has been in remand since his arrest in Singapore in July 2024.",
           "versions": [
             {
               "political": "center",
@@ -651,40 +507,31 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Construction at Chong Pang City to resume on May 26, weeks after bar from site fell on nearby block",
-              "url": "https://www.straitstimes.com/singapore/construction-at-chong-pang-city-to-resume-on-may-26-weeks-after-bar-from-site-fell-on-nearby-block"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Chong Pang City construction site incident: Metal bar that damaged HDB block slipped from workers' hands",
-              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd0QzLWZuNGIwUkZ4NHI0ZTRQQ1NydWdxOXlhU3RBNUZxekt1M2IxS1BsVXAxWFBENFROQkN1SXduaHRQNTg2cDgwQ0NtdnJ4Y2phUE1rMFRWTktBdzhOSlBsN3VhTVBPSlJSV3pRck55RGlpRmV2MThFWDlnRERoczVzaWJ1MG85cllwUy1yM1F3cGw2cU9TSWtETlJPUnJPa1pjS2txQVpySTNDcU5wOQ?oc=5"
+              "headline": "S’porean man linked to global insider trading scheme has appeal for bail denied by High Court",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/sporean-man-linked-to-global-insider-trading-scheme-has-appeal-for-bail-denied-by-high-court"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Starbucks sees sharp drop in Korean sales after 'Tank Day' marketing backlash",
-          "neutralSummary": "The chairman of Shinsegae Group, the operator of Starbucks Korea, asked people not to take out any anger on their employees and frontline staff.",
+          "neutralHeadline": "Near and dear: Why one couple’s void deck wedding hit all the right spots",
+          "neutralSummary": "A key priority was making the venue accessible for elderly guests.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Starbucks sees sharp drop in Korean sales after 'Tank Day' marketing backlash",
-              "url": "https://www.channelnewsasia.com/east-asia/south-korea-starbucks-tank-day-marketing-backlash-6141736"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Near and dear: Why one couple’s void deck wedding hit all the right spots",
+              "url": "https://www.straitstimes.com/singapore/near-and-dear-why-one-couples-void-deck-wedding-hit-all-the-right-spots"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "Two Singaporeans among eight arrested in drug raid at Kuala Lumpur hotel after man dies: Reports",
-          "neutralSummary": "A 31-year-old Malaysian man was pronounced dead at Kuala Lumpur Hospital’s emergency department after being brought there on Sunday (May 24) morning.",
+          "neutralHeadline": "Search continues for 7 villagers trapped in flooded Laos cave",
+          "neutralSummary": "Experts from Thailand who aided the dramatic 2018 retrieval of a youth football team from a Thai cave joined rescue efforts on Monday to extract the seven people, Laotian state media said.",
           "versions": [
             {
               "political": "center",
@@ -692,74 +539,65 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Two Singaporeans among eight arrested in drug raid at Kuala Lumpur hotel after man dies: Reports",
-              "url": "https://www.channelnewsasia.com/asia/malaysia-kuala-lumpur-singaporeans-arrested-drug-raid-hotel-dead-6140126"
+              "headline": "Search continues for 7 villagers trapped in flooded Laos cave",
+              "url": "https://www.channelnewsasia.com/asia/laos-flooded-cave-7-trapped-search-continues-thailand-rescuers-6142161"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Eight men, including 2 Singaporeans, arrested in drug raid at KL hotel after guest dies",
-              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSTYyWU1DNi04eXNVTnBaSUMtNG15TzdBNzQyMEtlYnFnRzVrSjRJdFVRbTVsa2d6UlI2SWk1TE9DNU9ZajF3dWtYNU1WRFBWOU41cmlXekVBdllHWVdDa2o1SFNQX2E3bXNmUzVEMnNSRGtjMXlTVFdjYW9ieTZzYnBIbDVXZkVJVlJxUmJWRTNlb1liZzlLamk4S2NQYTd0SWZ5NzlFZWZLNUpjeUU1Y3hkOHp3SmtIQ2ZSRE5KMDVHTi1CaVE?oc=5"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Rescuers race to free seven people trapped in flooded Laos cave",
+              "url": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "Oil slips 5% on hopes of US-Iran deal",
-          "neutralSummary": "Oil prices fell to a two-week low on optimism that the US and Iran were moving closer towards a peace deal, even though they remained at odds over key issues.",
+          "neutralHeadline": "Hong Kong residents share their thoughts after witnessing the first astronaut from the SAR's journey to space",
+          "neutralSummary": "Hong Kong residents share their thoughts after witnessing the first astronaut from the SAR's journey to space&nbsp;&nbsp;Global TimesChina launches rocket to send astronaut on year-long space mission as it eyes 2030 moon landing&nbsp;&nbsp;CNASpaceflight fulfills childhood dream&nbsp;&nbsp;China Dai",
           "versions": [
             {
               "political": "center",
-              "tone": "optimistic",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Oil slips 5% on hopes of US-Iran deal",
-              "url": "https://www.channelnewsasia.com/world/oil-prices-us-iran-peace-deal-strait-hormuz-6139481"
+              "tone": "neutral",
+              "source": "Global Times",
+              "initials": "GT",
+              "domain": "news.google.com",
+              "headline": "Hong Kong residents share their thoughts after witnessing the first astronaut from the SAR's journey to space",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RX2V4blpWaHd5R1JtUU1Gejgxalh5WGFSbW4wdTMxSV80MkY3aE0tengtVy1saXBydzRoOGxlWTQ4UHMzV1VlWklxSmpSTTBIX0tQRTR2Ukw1SWFycVQ1aHF3?oc=5"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Strikes Near Strait Muddy Outlook for Iran Deal",
-              "url": "https://www.bloomberg.com/news/videos/2026-05-26/strikes-near-strait-muddy-outlook-for-iran-deal-video"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "First Hong Kong astronaut launches into space onboard Chinese mission",
+              "url": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "Singaporean wanted by the US for global insider trading denied bail again",
-          "neutralSummary": "Singaporean wanted by the US for global insider trading denied bail again&nbsp;&nbsp;CNA",
+          "neutralHeadline": "Building resilience in peacetime helped SATS post record revenue despite Middle East crisis: CEO",
+          "neutralSummary": "It reported a revenue of $6.35 billion, a 9 per cent increase from FY2025.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Singaporean wanted by the US for global insider trading denied bail again",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYkJXSW5GVUNPZ1RCVzJ1dDF1MERGU1lYLU8wdHpLbmNRYjJHMW13RFBKaTlsRHd5S3BEbHh5bWRkOG85eGlIUU41VDlCME5WUDU2TjJKQXp0U1JUY1BGSzE2ZEQ1NUZkSzdwblRLYU1GUWFLcUFMUlFGTUZUX0VoT3l0VHg0RDl5Nlg1Q183TUxmc0VXTEREN1RvWXRlX25TNVZJbGpmcWpyenNFY3BqUWx1aw?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Singaporean Accused by US of Insider Trading Denied Bail",
-              "url": "https://www.bloomberg.com/news/articles/2026-05-26/alleged-singaporean-leader-of-insider-trading-ring-denied-bail"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Building resilience in peacetime helped SATS post record revenue despite Middle East crisis: CEO",
+              "url": "https://www.straitstimes.com/singapore/transport/building-resilience-in-peacetime-helped-sats-post-record-revenue-despite-mid-east-crisis-ceo"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "14 drivers caught providing illegal cross-border ride-hailing services in joint LTA-ICA operation",
-          "neutralSummary": "Over 3,900 vehicles have been checked since July 2025.",
+          "neutralHeadline": "Canopy Hawkers Group to run Yishun Park Hawker Centre from July 20",
+          "neutralSummary": "Canopy also manages and operates the Bukit Canberra Hawker Centre.",
           "versions": [
             {
               "political": "center",
@@ -767,15 +605,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "14 drivers caught providing illegal cross-border ride-hailing services in joint LTA-ICA operation",
-              "url": "https://www.straitstimes.com/singapore/14-drivers-caught-providing-illegal-cross-border-ride-hailing-services-in-joint-lta-ica-operation"
+              "headline": "Canopy Hawkers Group to run Yishun Park Hawker Centre from July 20",
+              "url": "https://www.straitstimes.com/singapore/canopy-hawkers-group-to-run-yishun-park-hawker-centre-from-july-20"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Universal Studios Singapore performer dies in hospital days after ‘medical emergency’ while training",
-          "neutralSummary": "He was taken to hospital after he suffered a “medical emergency” during a training session on May 19.",
+          "neutralHeadline": "Alibaba Cloud joins other tech firms in giving free AI tools to SMEs, students in Singapore",
+          "neutralSummary": "Over 800 of these firms and 200 tertiary students and developers will benefit from the one-year initiative.",
           "versions": [
             {
               "political": "center",
@@ -783,8 +621,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Universal Studios Singapore performer dies in hospital days after ‘medical emergency’ while training",
-              "url": "https://www.straitstimes.com/singapore/universal-studios-singapore-performer-dies-in-hospital-days-after-medical-emergency-while-training"
+              "headline": "Alibaba Cloud joins other tech firms in giving free AI tools to SMEs, students in Singapore",
+              "url": "https://www.straitstimes.com/tech/alibaba-cloud-joins-other-tech-firms-to-lure-smes-students-in-singapore-with-free-ai-tools"
             }
           ]
         }
@@ -795,8 +633,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Dera chief Gurmeet Ram Rahim, out on another parole, has already spent 406 days out of jail",
-          "neutralSummary": "The self-styled godman walked out of Sunaria Jail at around 6:34 am on Tuesday for 30 days, with minimal visible security arrangements during his exit.",
+          "neutralHeadline": "Passengers evacuated using slides at BLR after smoke on taxiing IndiGo aircraft",
+          "neutralSummary": "An IndiGo flight from Bengaluru to Chennai experienced a smoke scare while taxiing, prompting an emergency evacuation of passengers via slides. The Directorate General of Civil Aviation (DGCA) is investigating the incident, which marks the second such evacuation for IndiGo this month. All passengers",
           "versions": [
             {
               "political": "left",
@@ -804,8 +642,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Dera chief Ram Rahim granted parole for 16th time since 2017 conviction",
-              "url": "https://www.thehindu.com/news/national/haryana/dera-chief-ram-rahim-granted-parole-for-16th-time-since-2017-conviction/article71023736.ece"
+              "headline": "Emergency evacuation carried out at KIA after smoke detected inside IndiGo aircraft",
+              "url": "https://www.thehindu.com/news/national/karnataka/emergency-evacuation-carried-out-at-kia-after-smoke-detected-inside-indigo-aircraft/article71026330.ece"
             },
             {
               "political": "left",
@@ -813,235 +651,33 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Rape Convict Gurmeet Ram Rahim Gets 30-Day Parole, 16th Time Since 2017",
-              "url": "https://www.ndtv.com/india-news/rape-convict-gurmeet-ram-rahim-gets-30-day-parole-16th-time-since-2017-11547442#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Dera chief Gurmeet Ram Rahim, out on another parole, has already spent 406 days out of jail",
-              "url": "https://www.hindustantimes.com/india-news/dera-chief-gurmeet-ram-rahim-getting-out-on-parole-has-already-spent-406-days-out-of-jail-101779768682534.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Ram Rahim Singh out on 30-day parole",
-              "url": "https://economictimes.indiatimes.com/news/india/dera-chief-gurmeet-ram-rahim-singh-out-on-30-day-parole-marks-16th-release-since-conviction/articleshow/131321541.cms"
+              "headline": "Smoke Scare On IndiGo Aircraft, Then An Emergency Evacuation",
+              "url": "https://www.ndtv.com/india-news/smoke-scare-on-indigo-aircraft-in-bengaluru-passengers-evacuated-11550904#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "Dera chief Ram Rahim gets parole again, leaves from Rohtak jail",
-              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOWU0WnFOUkRlYWM1SjlsYTZRZmd2Sk5EVFRuaEFBYUVMeWFGZmtFLWV3SzlhS25ZdW85aVptOU5ucm9jLUVKZjhidGNKTUY2YzV1dTNfRmQ3enVmbVBhT0xOTlY3TVFQbzAwM1A5UEczNWd0N19UdTE1MTQyMHg2dXlnU0VMQXRnUHNTR0M2b2ZYeWlpaGh3T2lRdXplSWhGMWgwQU95MnMxdXRGeGd4NktvUGhKc0J2ZTJDek1DOFNBVVhzSlVXMlp1b0J4X2pmM1ktcUNzNA?oc=5"
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Passengers evacuated using slides at BLR after smoke on taxiing IndiGo aircraft",
+              "url": "https://timesofindia.indiatimes.com/india/passengers-evacuated-using-slides-at-blr-after-smoke-on-taxiing-indigo-aircraft/articleshow/131332693.cms"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Quad Foreign Ministers meet LIVE: Rubio announces launch of Indo-Pacific Maritime Surveillance Co-operation initiative",
-          "neutralSummary": "The New Delhi meeting is being attended by U.S. Secretary of State Marco Rubio, Australian Foreign Minister Penny Wong and Japanese Foreign Minister Toshimitsu Motegi, with External Affairs Minister S. Jaishankar presiding over it",
+          "neutralHeadline": "India slams Pakistan-China joint statement on Kashmir, hits back on CPEC",
+          "neutralSummary": "References in joint statement indicate Beijing wants to play the Kashmir card along with a water resources card to appease its all-weather ally in Islamabad.",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Quad Foreign Ministers meet LIVE: Rubio announces launch of Indo-Pacific Maritime Surveillance Co-operation initiative",
-              "url": "https://www.thehindu.com/news/national/quad-foreign-ministers-meet-s-jaishankar-indo-pacific-ties-delhi-live-updates-may-26-2026/article71023497.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Quad foreign ministers meet in Delhi today: What is the Quad and what are its objectives?",
-              "url": "https://indianexpress.com/article/explained/explained-global/quad-foreign-ministers-meeting-objectives-10708049/"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "CNG prices hiked fourth time in eleven days in Delhi and North India; latest by ₹2/kg",
-          "neutralSummary": "CNG in the National Capital territory of Delhi now costs ₹83.09 per kg; prices have effectively risen ₹6 per kilogram spanning across four tranches",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "CNG prices hiked fourth time in eleven days in Delhi and North India; latest by ₹2/kg",
-              "url": "https://www.thehindu.com/news/national/cng-price-hiked-by-2-per-kg-fourth-hike-in-less-than-two-weeks/article71023570.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "CNG Prices Hiked By Rs 2, To Now Cost Rs 83.09 Per Kg In Delhi",
-              "url": "https://www.ndtv.com/india-news/cng-prices-hiked-by-rs-2-to-now-cost-rs-83-09-per-kg-in-delhi-11547210#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "India, Canada eye 'game changer' deal; aim to triple bilateral trade to $50 bn by 2030",
-          "neutralSummary": "India and Canada are accelerating free trade agreement negotiations, aiming to boost bilateral trade to $50 billion by 2030. Both nations are committed to deepening economic ties, with a \"Team Canada\" business delegation set to visit India later this year to explore new opportunities.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Canada \"Working Fast\" For \"Game Changer\" Trade Deal With India",
-              "url": "https://www.ndtv.com/world-news/canada-working-fast-for-game-changer-trade-deal-with-india-mark-carney-11547428#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "India, Canada eye 'game changer' deal; aim to triple bilateral trade to $50 bn by 2030",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/india-canada-eye-game-changer-deal-aim-to-triple-bilateral-trade-to-50bn-by-2030/articleshow/131321554.cms"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "India, Canada negotiating a 'game changer' free trade deal: 'We're working fast'",
-              "url": "https://www.hindustantimes.com/india-news/india-canada-negotiating-a-game-changer-free-trade-deal-were-working-fast-101779767021205.html"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Oil Rebounds as Strikes Near Strait Muddy Outlook for Iran Deal",
-          "neutralSummary": "Oil rebounded as fresh US military strikes in Iran clouded the outlook for an interim deal between Tehran and Washington to reopen the Strait of Hormuz, with the talks set to continue for several more days.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "US-Iran War LIVE: US Says Hormuz Strait Has To Open 'One Way Or Other' After Bandar Abbas Strikes",
-              "url": "https://www.ndtv.com/world-news/iran-us-israel-war-news-live-updates-us-strikes-iran-boats-missile-sites-trump-attack-self-defence-11547133#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Oil Rebounds as Strikes Near Strait Muddy Outlook for Iran Deal",
-              "url": "https://www.bloomberg.com/news/articles/2026-05-25/latest-oil-market-news-and-analysis-for-may-26"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Indo-Pacific must remain driver for global growth: Jaishankar at Quad meet",
-          "neutralSummary": "Indo-Pacific must remain driver for global growth: Jaishankar at Quad meet",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Quad Foreign Ministers meet: Indo-Pacific must remain driver for global growth: Jaishankar",
-              "url": "https://www.thehindu.com/news/national/quad-foreign-ministers-meeting-delhi-s-jaishankar-marco-rubio-penny-wong-toshimitsu-motegi-address-updates/article71023725.ece"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Indo-Pacific must remain driver for global growth: Jaishankar at Quad meet",
-              "url": "https://www.hindustantimes.com/india-news/indopacific-must-remain-driver-for-global-growth-jaishankar-at-quad-meet-101779771227098.html"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Rubio says Iran deal could take days as US launches fresh strikes",
-          "neutralSummary": "Rubio says Iran deal could take days as US launches fresh strikes&nbsp;&nbsp;ReutersDeal with US not imminent, Iran says&nbsp;&nbsp;BBCUS-Iran War News Live Updates: Strait of Hormuz will reopen 'one way or the other', Rubio says amid peace talks in Qatar&nbsp;&nbsp;The Times of IndiaIran denies dea",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"Turn Over Nuclear Dust\": Trump Warns Iran As US Conducts Fresh Strikes",
-              "url": "https://www.ndtv.com/world-news/us-iran-war-donald-trumps-message-on-what-happens-to-irans-enriched-uranium-after-us-fresh-strikes-on-tehran-11547172#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Rubio says Iran deal could take days as US launches fresh strikes",
-              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2M1OFpXcm8tVlBZczVzcFhhdF9PQmw4UkdFRVRxS3BydkZPVXNiNXhyVU5fTFZXOE1TY040LXAtTFhzNEhHOU12UTNoSjllTHpzM2JxMmJUazZyVkRqUmFlbUtzd1FhdkNma1lGeHVFdjZfOHNLYW80dlJrbjJ5VmRnMURtejlVRjdOdlAwdGwxbURIdU9RMUZ1YjZVd2Rhdm84QU5xY0lJVDdVTXUzUzZPZjY5V3c?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "US Conducts 'Self-Defence' Strikes On Iranian Boats, Missile Launch Sites",
-          "neutralSummary": "The US military carried out strikes on Monday in southern Iran.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "US Conducts 'Self-Defence' Strikes On Iranian Boats, Missile Launch Sites",
-              "url": "https://www.ndtv.com/world-news/us-military-strikes-iranian-boats-missile-launch-sites-report-11547064#publisher=newsstand"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "U.S. Military carries out ‘self-defence’ strikes in Iran, including on missile launch sites",
-              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeHBsaGVnUGNpb0lIQVc2ekFacjR0NmdjV2IzdmFCNFpSQ1RlejFWUzI3b0tvUWM3Wmc2Zl9ZLWtrbnZxaEpOX2NvQVhGcEJYMXl5QjhkVGhtUUZTMnZiR0F5ano0QmRkbTQ5VENuVjEwOXlLY3EtcDJxcXVmdzhhcVFaQ2RPdW9jaDZVTXAydzlha213MnQzUHdYbHBEYkhUUk56aXY3MmNMSjg2dDFLbEhCdzg2aU80SEJYVUl5YWN2V1JjYzlzS2hLMlNkVDAtalFZ0gHaAUFVX3lxTE9XZ29tS21vQU5BaDNfc3FLRzk3Uk9wNDFuaDJZcmhIWDJLVEc5ZTFMZTFEbndUVWkzVjN0UkdDRHZDWDBpSHNHOWw5TVpFaXpqMXpMMVVDdlpJOV9fdUZodWJvV1dPbDdfQTVLYUdZZDJnd1ZfRnBhWnV5aGJocE1yMEdic0gxU1RLZzQyWEEtcXcwdmRFSDc5Q1lySm92MFQ3ZTRsb1h3US1jU0VmTGVQSER6T1d6d2NkeFBGdGU1aUlzOWYzdHB3QjhVOXZXNUZfMHVXbkM1dWN3?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "Abraham Accords explained: Who signed, who didn't, and why it matters now",
-          "neutralSummary": "Abraham Accords explained: Who signed, who didn't, and why it matters now",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Abraham Accords explained: Who signed, who didn't, and why it matters now",
-              "url": "https://timesofindia.indiatimes.com/world/middle-east/abraham-accords-explained-who-signed-who-didnt-and-why-it-matters-now/articleshow/131321737.cms"
+              "headline": "India slams Pakistan-China joint statement on Kashmir, hits back on CPEC",
+              "url": "https://www.hindustantimes.com/india-news/mea-slams-pak-china-statement-referencing-j-k-inalienable-parts-of-india-101779806319064.html"
             },
             {
               "political": "center",
@@ -1049,8 +685,174 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Abraham Accords: What it means &amp; why Pak is rattled",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/abraham-accords-explained-what-it-means-and-why-pakistan-is-rattled-by-trumps-push/articleshow/131321203.cms"
+              "headline": "India rejects China-Pakistan remarks on J&amp;K",
+              "url": "https://economictimes.indiatimes.com/news/india/india-rejects-china-pakistan-remarks-on-jk-calls-kashmir-ladakh-integral-parts-of-country/articleshow/131331381.cms"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "India rejects ‘unwarranted’ references to J&K by China and Pakistan",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0NBX0oxdjdPNEE5eDhVSTg1aUdOeW01TnQ3aENocUdTRUxMMkg5MkpuQXo1LXRxVmVmUnpyWW9KOTBMb1BmTVJNU1JjSmRRNnFidWVuVkdfTDVpSlFGVnZqZ3BMTk04MlJEWVRfMkducGJ1U0RzQzMzbTJfcTlfUUpmZkFyTlBFcDV4ZE1NUExaUi1sWUgyRXNEU0phZ0F2MUNBUWZCcGhsYVQyZE02dG94bGF2ZkV6Yk5fY2YwNV_SAccBQVVfeXFMUGc4Q0UyNk5wbTRGOWpWTG5WOTdGTUxMeXBtVHpDbWM2V3hNYWlYdjVmYjdqaTJ1QVlLZkRsUHRLYlZPQjA4S28tN2gwc1NkQjhoeFNvNk5XUEtGdTdyVS0xMWk1YVc2Z0xSV0dKUHJ2Mk5qVm05TGpVdVNXSm0xNjQ5dHRHZzc1NEl1TTdtS2RwRWtNVkZlVTdSQWI2bThZbXc2TVBwVlZ4UGYxYkY2SnlYUHFDcmZTUmZ2UHAzYllXYUViYm1NUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "'Clear violation': In letter to PM Modi, Tamil Nadu CM Vijay urges stop Karnataka’s Mekedatu dam project",
+          "neutralSummary": "'Clear violation': In letter to PM Modi, Tamil Nadu CM Vijay urges stop Karnataka’s Mekedatu dam project&nbsp;&nbsp;The Times of IndiaT.N. CM Vijay instructs officials to take continued legal action on Mekedatu dam issue&nbsp;&nbsp;The HinduVijay Urges PM Modi To Reject Mekedatu Dam Proposal Ahead O",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Tamil Nadu CM Vijay to fly to New Delhi on Wednesday, to call on PM Modi",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/cmvijayto-fly-to-new-delhi-on-wednesday-to-call-on-pm-modi/article71025857.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "'Clear violation': In letter to PM Modi, Tamil Nadu CM Vijay urges stop Karnataka’s Mekedatu dam project",
+              "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR29yVGlIYWVwQnVhdmw1YUdud01NQlhhb3BfZTAzVkg1WDBFRVdtTEVSZ1g0ckhQTy1kVHVGaVQyZGtqZnFxSjNEa1hSVmZzNzFpYU1nOHJnbndyM1VIQlgxR0tseGM3SHRUSXVqejVCb3Z3MEVPZWpDYzhCUmo2RHRIZG41T2pTVWRqc2cycnpwNGRMLVRKWExGZW4tVjRGSTU5djNZSW9ySmkyOXpXeThWWmtFTXFhZXg2cGxTUFFzUEFUTDdrRk42RUtXVVpZRW05R2JGaThtM0ppN19PT2RpMXRvMkkzWHFUUTRzM0VNallqSkpCbWE2cw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Why Trump's Abraham Accords push may be doomed to fail - explained",
+          "neutralSummary": "US President Donald Trump is pushing several Muslim nations, including Saudi Arabia and Pakistan, to join the Abraham Accords and recognize Israel as part of a potential Iran deal. Experts, however, deem the plan unrealistic, citing the Gaza war's impact on Arab public opinion and the persistent dem",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Why Trump's Push For Muslim Nations To Join Abraham Accords Is Unrealistic",
+              "url": "https://www.ndtv.com/world-news/why-trumps-push-for-muslim-nations-to-join-abraham-accords-is-unrealistic-11551081#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Why Trump's Abraham Accords push may be doomed to fail - explained",
+              "url": "https://timesofindia.indiatimes.com/world/us/why-trumps-abraham-accords-push-may-be-doomed-to-fail-explained/articleshow/131330886.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "RS seat, Delhi role: Congress 'negotiates' with Sidda to make way for DKS in Karnataka",
+          "neutralSummary": "Karnataka's leadership tussle between CM Siddaramaiah and Deputy CM DK Shivakumar persists despite high command meetings. Discussions focused on Rajya Sabha and Council elections, with no official confirmation of leadership change talks. Shivakumar's camp reportedly pushes for a power-sharing formul",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "No Chief Minister Change In Karnataka, Congress Reveals Delhi Meet Agenda",
+              "url": "https://www.ndtv.com/india-news/siddaramaiah-dk-shivakumar-speculation-no-reality-congress-plays-down-karnataka-power-shift-buzz-11549979#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "RS seat, Delhi role: Congress 'negotiates' with Sidda to make way for DKS in Karnataka",
+              "url": "https://timesofindia.indiatimes.com/india/karnataka-cm-post-tussle-siddaramaiah-offered-rajya-sabha-berth-central-role-to-make-way-for-dks-says-report/articleshow/131332799.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Raped, Screamed At, Denied Food: 'Massive' School Abuse Scandal In France",
+          "neutralSummary": "School monitors are adults responsible for overseeing children. (AI-generated image)",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Raped, Screamed At, Denied Food: 'Massive' School Abuse Scandal In France",
+              "url": "https://www.ndtv.com/world-news/france-school-monitor-preschool-raped-screamed-at-denied-food-massive-school-abuse-scandal-in-france-11550212#publisher=newsstand"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "IndiGo Bengaluru-Chennai flight evacuated after smoke detected during taxiing, airline responds",
+          "neutralSummary": "In a statement, an IndiGo spokesperson said all passengers and crew members were safe and had been shifted back to the terminal.&nbsp;",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "IndiGo Bengaluru-Chennai flight evacuated after smoke detected during taxiing, airline responds",
+              "url": "https://www.hindustantimes.com/india-news/indigo-bengaluru-chennai-flight-evacuated-after-smoke-detected-during-taxiing-airliner-responds-101779807133597.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "IndiGo flight evacuated after smoke seen",
+              "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/indigo-flight-from-bengaluru-to-chennai-evacuated-after-smoke-spotted-on-aircraft-during-taxing/articleshow/131332210.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Delhi Gymkhana Club vs Centre: An elite legal fight",
+          "neutralSummary": "Delhi Gymkhana Club vs Centre: An elite legal fight",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Delhi Gymkhana Club vs Centre: An elite legal fight",
+              "url": "https://economictimes.indiatimes.com/news/india/delhi-gymkhana-club-vs-centre-the-legal-fight-over-one-of-indias-most-elite-social-addresses/articleshow/131323563.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Live Law",
+              "initials": "LL",
+              "domain": "news.google.com",
+              "headline": "Eviction Of Delhi Gymkhana Club Will Be After Notice As Per Law : Centre To Delhi High Court",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORk5QM0ZNdEVLcHdjVVBqQnUxdEFReGRSMDYwR1JBVVdWX3d5TjJvUDVISk9aSmJMd3lTaWdQSWdxdTRaX3NtVnlCX2tjU1BVZFNJM0RaVG56WEQtNlI3NlphOGctMll5OGZUU2xqcG9vYVpKSDVxZmpsSFpURWlTcHF6NWhlT3FFdmMzOWVQejc4aVl4aUxVY1czblFoSkVwcnFuSHVOQUJXYlVLTUdXSW5Nano5UFZKUXZ2SUlvblQxZ2ZyMHRla3NpZTdhdW9sU3NnZURscWJNZFM4N1FqMlFR0gHnAUFVX3lxTE8zSVplZldFdXV4eW1UNFJaSkJiaDlsRGlKNkFWQ2djV3pyTXVjcklXVnFZRkJ0VUg3ZS1oRHFSal8tZHdyWkEtOENPYjFBWkVmcG9vTFVtVEZkVkQ0MTNqdVhsMlM2QThWZXBRdTRjai1OSnZHRzdDYzV3aVE2N0FERmNvdXFLXzVnUUt1cC1sZVVONlRNSDZoY1FxcUVNR3dmYVpXeTFMRjhpa1MwYmd4TjlLQjE0clk2RzZ2TzZ2SktlYk9vSy1PcDdzejA3djdaYUd0TUhwU3lSNFQ3ZHBzOExEaG93OA?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "Andhra Pradesh launches initiative to clear water hyacinth and revive water bodies",
+          "neutralSummary": "MA&amp;UD Principal Secretary says the unchecked growth of the weed has obstructed irrigation channels, degraded water quality, and disrupted aquatic ecosystems, posing challenges to agriculture and public health",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Andhra Pradesh launches initiative to clear water hyacinth and revive water bodies",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-launches-initiative-to-clear-water-hyacinth-and-revive-water-bodies/article71026160.ece"
             }
           ]
         }
