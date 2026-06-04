@@ -1,13 +1,133 @@
 {
-  "generatedAt": "2026-06-03T18:01:55.901506+00:00",
+  "generatedAt": "2026-06-04T06:27:55.187537+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum",
-          "neutralSummary": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum&nbsp;&nbsp;AP NewsUkrainian drones strike St. Petersburg, hours before ‘Putin’s Davos’ opens&nbsp;&nbsp;CNNUkrainian drones hit St. Petersburg oil terminal before city hosts Russian economic forum&nbsp;&nbsp;CBCUk",
+          "neutralHeadline": "Live Updates: Israel, Lebanon agree to renew ceasefire as Iran launches deadly attack on Kuwait airport",
+          "neutralSummary": "Live Updates: Israel, Lebanon agree to renew ceasefire as Iran launches deadly attack on Kuwait airport&nbsp;&nbsp;CBS NewsUS ally Kuwait condemns 'brutal and ongoing Iranian attacks' after airport was hit&nbsp;&nbsp;Fox NewsBall Of Fire, Roof Collapse: Video Shows Moment Drone Hit Kuwait Airport&nb",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+              "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "Live Updates: Israel, Lebanon agree to renew ceasefire as Iran launches deadly attack on Kuwait airport",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmVQTjduVEoyLVF3Ym84c25PRXR5dmFoMjlXUy10N3NMYjlEbWxoS0JtSW9Oc280eXRqWVNDOEZZLW1OWXRFdEVwUFl2NXNjSWVTdjNjOXpBcXZ1QUVjZEpiREZEM25YUlVlR1M0UTBUWVF0cVZGaUE4dzQ1cVZvTWFaREh0czBnX2Y5YXY1Mi1Ic3BOSGpRTXROMFhoSWtYU0dDYw?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Israel and Lebanon renew ceasefire on condition Hezbollah holds its fire",
+              "url": "https://www.france24.com/en/middle-east/20260604-israel-and-lebanon-agree-to-renew-ceasefire-condition-hezbollah-holds-fire"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Iran says no 'tangible progress' in war talks, Trump says deal close",
+          "neutralSummary": "Iran's foreign minister said on Wednesday that negotiations to end the Middle East war had made \"no tangible progress\" after fresh US and Iranian strikes tested a fragile ceasefire. Kuwaiti officials said an Iranian drone strike on Kuwait International Airport killed one person and wounded 63, while",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+              "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump confirms calling Netanyahu 'crazy,' says they still get along",
+              "url": "https://www.npr.org/2026/06/03/g-s1-125631/trump-confirms-calling-netanyahu-crazy-says-they-still-get-along"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Trump seeks to split Lebanon talks from war on Iran negotiations",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/trump-seeks-to-split-lebanon-talks-from-war-on-iran-negotiations?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Iran says no 'tangible progress' in war talks, Trump says deal close",
+              "url": "https://www.france24.com/en/middle-east/20260603-iran-says-no-tangible-progress-in-war-talks-trump-says-deal-close"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+          "neutralSummary": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+              "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again",
+              "url": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Kuwait releases CCTV footage of deadly Iranian strike on airport",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "US ally Kuwait condemns 'brutal and ongoing Iranian attacks' after airport was hit",
+              "url": "https://www.foxnews.com/world/us-ally-kuwait-condemns-brutal-ongoing-iranian-attacks-airport-hit"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+          "neutralSummary": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.",
           "versions": [
             {
               "political": "left",
@@ -28,88 +148,20 @@
               "url": "https://www.npr.org/2026/06/03/nx-s1-5844793/ukrainian-drones-hit-st-petersburg"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
+              "source": "Washington Post",
+              "initials": "WP",
               "domain": "news.google.com",
-              "headline": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXlOckxvdi1hSVFuQ1ZpU28xdlJWYjBQbzJ1YURNa2x6dDJUWjY3bDh5SjhYaXVqTlJwcGloVkc0emt1Vm1neGNURXF1bXlHaXlfZVdwWW9nTmRjSHhvVF84MG5DVkZDMjQ2UkVwR0Nka3BRU1ozWEtyVGo4WXpZYVNMSlVqOWdGVjFfQzhFdFVEMlhubk84UlE5NGtBV0tXcUt1LWRJUlJTMlBZWVFZ?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "What is the St Petersburg forum, Putin’s economic outreach to the world?",
-              "url": "https://www.aljazeera.com/news/2026/6/3/what-is-the-st-petersburg-forum-putins-economic-outreach-to-the-world?traffic_source=rss"
+              "headline": "Ukraine hits oil refinery as Russia opens St. Petersburg economic forum",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOelBpNk5VdnFKcHM1cF9Kb1F4M09TckJuR2Fpb0FMLWdUX1ZMLXdKX2Z4elpSMnl5dEljYWFKWlczVnpsSXVNNmNQRGg5U2Y0X3BuSWt3VUNUWGlYSV9vN2VDZGRlLVBoal8yc3VXcURGRFE2RU5mU3pkSWpadkgxSVBBMkhhb3ROd1NFazg2enZsSHlaV3NSZUZwTldQcUpHQ0xSUDAtM2xuWm0tYUpMai1lRWZ5M00?oc=5"
             }
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-          "neutralSummary": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-              "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Iran War Live Updates: Kuwait Says One Killed and Dozens Injured in Iranian Attack on Airport",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZWtvZ043SmhSOWZFck94VFJscTREUzlfYzZWQUVnWGdDM0V4ZzVXeTZJOUk4ZzN1RWZRWWY1cm5JWkkzNC1lUVM4WEtDMWQ2aHVYNXI3Tk1nZDlGcTdvUHJ0alBGM01kT0xhQXoyNnpLM3loQllhQjJ3N0FaSzFEeg?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "US ally Kuwait condemns 'brutal and ongoing Iranian attacks' after airport was hit",
-              "url": "https://www.foxnews.com/world/us-ally-kuwait-condemns-brutal-ongoing-iranian-attacks-airport-hit"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
-          "neutralSummary": "Tedros Adhanom Ghebreyesus says the virus ‘had a big head start’  but that the response was catching upThe Ebola outbreak in the Democratic Republic of the Congo could have begun as early as January, the head of the World Health Organization said, giving the virus “a big head start”.Dr Tedros Adhano",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
-              "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "The Ebola outbreak the world isn’t paying attention to",
-              "url": "https://www.aljazeera.com/video/the-take-2/2026/6/3/aje-onl-tt_glb_ebola26_video-030626?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Russian Attack Kills At Least 18 In Ukraine, Some Of Them Children Buried Under Rubble",
-          "neutralSummary": "Kyiv residents had been on edge for days after Russia warned that a massive aerial attack was coming and warned foreign diplomats to leave.",
+          "id": "global-5",
+          "neutralHeadline": "At Least 21 Killed in Russian Strikes Across Ukraine",
+          "neutralSummary": "At Least 21 Killed in Russian Strikes Across Ukraine&nbsp;&nbsp;The Moscow TimesRussian Offensive Campaign Assessment, June 2, 2026&nbsp;&nbsp;Institute for the Study of WarRussia Launches Deadly Strikes on Kyiv After Threatening Ukraine for a Week&nbsp;&nbsp;The New York TimesAt Least 11 Killed in",
           "versions": [
             {
               "political": "left",
@@ -121,45 +173,20 @@
               "url": "https://www.huffpost.com/entry/russia-ukraine-war_n_6a1e92ade4b032392fa5ecf1"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "pessimistic",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Russian attack on Ukraine kills 22 people, officials say, as Moscow escalates fighting",
-              "url": "https://www.npr.org/2026/06/02/nx-s1-5844071/russian-attack-ukraine"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Israel Orders Strikes On Beirut’s Southern Suburbs As Hezbollah Fires Rockets",
-          "neutralSummary": "The latest attacks came just before Lebanon and Israel hold their next round of direct talks in Washington starting Tuesday.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Israel Orders Strikes On Beirut’s Southern Suburbs As Hezbollah Fires Rockets",
-              "url": "https://www.huffpost.com/entry/lebanon-israel-hezbollah_n_6a1d54d9e4b032392fa397c0"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-              "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss"
+              "source": "The Moscow Times",
+              "initials": "TM",
+              "domain": "news.google.com",
+              "headline": "At Least 21 Killed in Russian Strikes Across Ukraine",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONzBkM2V5NmxDVEdHdFhTa2M1Wm9ycWdzN2ZTb0gxemJMZXFUTVIwcmloRUtJMTl1cXU2OHhXbTdhQ1pUN3FDU1k1RDBfV0lfbnhkbG55NmVnMXU5clhfTm5CODVNa08yNnJFUVkzVW5La3BsbnJsNzlreU9GN2UzWFJLRVoxV210b1dzOVQ3dnl4UHM2VUpKemZIdEdKeFlVX193?oc=5"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "US announces new tariffs over forced labour concerns",
-          "neutralSummary": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
+          "neutralHeadline": "US House votes to rein in Trump's war powers in rebuke over Iran",
+          "neutralSummary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
           "versions": [
             {
               "political": "left",
@@ -167,65 +194,83 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "US announces new tariffs over forced labour concerns",
-              "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss"
+              "headline": "US House votes to rein in Trump's war powers in rebuke over Iran",
+              "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "optimistic",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "US cites forced labour concerns as grounds for new tariffs",
-              "url": "https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs?traffic_source=rss"
+              "headline": "US House passes Iran war powers resolution in rare pushback against Trump",
+              "url": "https://www.aljazeera.com/news/2026/6/3/us-house-of-representatives-passes-war-powers-resolution-in-rebuke-to-trump?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-7",
-          "neutralHeadline": "Scenes from the aftermath of Russia's latest massive attack on Kyiv",
-          "neutralSummary": "Russian missile and drone attacks killed  civilians across Ukraine overnight, in one of Moscow's largest assaults in recent months.",
+          "neutralHeadline": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
+          "neutralSummary": "Johann Wadephul said it was \"no secret\" Russia had stirred up sentiment against Germany over its support for Ukraine.",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Scenes from the aftermath of Russia's latest massive attack on Kyiv",
-              "url": "https://www.npr.org/sections/the-picture-show/2026/06/02/nx-s1-5844159/ukraine-kyiv-russia-drone-missile-strikes"
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Germany blames Russia for 'bitter defeat' in UN Security Council bid",
+              "url": "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Ukraine's attack on Saint Petersburg 'brings war back to Russia'",
-          "neutralSummary": "Volodymyr Zelensky called Kyiv's attack on Saint Petersburg a 'fair' response to the deadly Russian strikes on several Ukrainian cities a day earlier. It is also a testimony to Ukraine's growing capacity to strike further inside Russia. FRANCE 24's Douglas Herbert tells us what that means for Russia",
+          "neutralHeadline": "Trump compares White House UFC arena to Eiffel Tower, hints it could stay permanently",
+          "neutralSummary": "In a video posted to his official Tiktok account on Wednesday, US President Donald Trump suggested he may never remove the enormous UFC arena that’s being constructed on the White House lawn for his birthday celebrations. He also compared it to the iconic Eiffel Tower in Paris, also initially meant",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Senate Republicans axe $1bn for Trump's new White House ballroom",
+              "url": "https://www.bbc.com/news/articles/c0r2kxrvlgpo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Ukraine's attack on Saint Petersburg 'brings war back to Russia'",
-              "url": "https://www.france24.com/en/ukraine-s-attack-on-saint-petersburg-brings-war-back-to-russia"
+              "headline": "Trump compares White House UFC arena to Eiffel Tower, hints it could stay permanently",
+              "url": "https://www.france24.com/en/trump-compares-white-house-ufc-arena-to-eiffel-tower-hints-it-could-stay-permanently"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Shnaider beats Sabalenka at French Open to make semi-finals",
-          "neutralSummary": "Shnaider beats Sabalenka at French Open to make semi-finals",
+          "neutralHeadline": "Protests continue over Trump family-linked beach resort in Albania",
+          "neutralSummary": "Protests continue over Trump family-linked beach resort in Albania&nbsp;&nbsp;EuronewsProtests in Albania grow over Jared Kushner-backed luxury resort&nbsp;&nbsp;The GuardianAlbanians protest over Jared Kushner-linked luxury resort on pristine coastline&nbsp;&nbsp;ReutersAlbania’s growing ‘flamingo",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Plans for a Trump family-linked resort spark protests in Albania",
+              "url": "https://www.npr.org/2026/06/04/g-s1-125926/albania-protests-trump-family-linked-resort"
+            },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Shnaider beats Sabalenka at French Open to make semi-finals",
-              "url": "https://www.france24.com/en/sport/20260603-shnaider-beats-sabalenka-at-french-open-to-make-semi-finals"
+              "source": "Euronews",
+              "initials": "E",
+              "domain": "news.google.com",
+              "headline": "Protests continue over Trump family-linked beach resort in Albania",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQWdzb3ljRFluNmt6X1lrdlNKaHE3MWxtT2xMeWVyVmFOWVVCVWFHU1VNa1hYYXpJa0FGZWxZOVBXSjAzZzJXbldwQnBONzloTTNyRVpNaHJxTDZzOXFYTVJDMmg1TVBlQWFMM29obmU0Z0hBa0tydmdDeXhrUmVLS1M4MnZYLVd3MVg2N3hDZGtobm16OHRzZ3hTclJfdGtmNVlwYTdEQXJyVm43TmVUdWhpQ0lUc3BPaE5XU1ZDaDJ2VDJZV0U4WHYtWksxX00?oc=5"
             }
           ]
         }
@@ -236,6 +281,169 @@
       "stories": [
         {
           "id": "us-1",
+          "neutralHeadline": "Massie, 3 Other House Republicans Broke From Trump on Iran War Powers Vote",
+          "neutralSummary": "Four Republicans from different ideological factions crossed party lines to vote with Democrats in favor of reining in the president’s power to wage war unilaterally.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Massie, 3 Other House Republicans Broke From Trump on Iran War Powers Vote",
+              "url": "https://www.nytimes.com/2026/06/03/us/politics/iran-war-powers-trump-republicans.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "House passes war powers resolution directing Trump to end hostilities with Iran",
+              "url": "https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "In a first, House votes to block Trump from ordering more strikes on Iran",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODc2a3FZVmZfdkhrbEpZc3MtZlpwWWVWRUdVemJQSi1COTh6YjlMcU8tWEtBbTUyUWVMWHNvVEJQTUVSMFYyNHJUZDRNXzBHTU5jRHJmSF90M2JnSTBENHVBNnFCU2RNYlI2b2JpbERRR2JWa1JUQVBNWHdOUTFWM0ZvcEM5VVMxSVdfSFVmcTRsNDZJZzVWNXFTTXdNUm5DclNtVExpX0pHMHZUSVEw?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump suffers rare House defeat as bipartisan vote moves to withdraw troops from Iran conflict",
+              "url": "https://www.foxnews.com/politics/trump-suffers-rare-house-defeat-bipartisan-vote-moves-withdraw-troops-from-iran-conflict"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Trump formalizes move of career federal workers into ‘at will’ roles",
+          "neutralSummary": "President Trump formally moved to implement his plan for making it easier to fire federal workers in policy roles, signing an executive order moving them into a new class that critics say will be akin to political employees. Schedule Policy/Career (P/C), an effort pushed under the first Trump admini",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Signs Executive Order Removing Job Protections From Federal Workers",
+              "url": "https://www.nytimes.com/2026/06/03/us/politics/trump-executive-order-job-protections.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump strips job protections from 8,000 federal workers",
+              "url": "https://www.npr.org/2026/06/03/nx-s1-5742806/trump-federal-employees-civil-service-job-protections-schedule-f"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump formalizes move of career federal workers into ‘at will’ roles",
+              "url": "https://thehill.com/homenews/5908761-trump-federal-workers-schedule-pc/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Unions condemn Trump order making federal workers ‘at-will’ employees",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4594195/unions-trump-order-federal-workers-at-will/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "President Trump says he will nominate Todd Blanche to serve as attorney general",
+          "neutralSummary": "Trump said at a dinner at the White House that he plans to nominate Blanche formally, according to a video of the event posted on social media by a White House aide.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "President Trump says he will nominate Todd Blanche to serve as attorney general",
+              "url": "https://www.npr.org/2026/06/04/nx-s1-5846307/trump-todd-blanche-ag"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Trump expected to nominate Todd Blanche to be attorney general",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdUt1UkZVUmxYUnZHNkc5cnhuanV5YndWNzdXRENOUFZNcTJLODlLWTZyS2Rtakk0RHpLRnlyUnpGNVRwMnA0WUNoTGtweVhyVWlCUzE3UGdaTnlJS19iX3lPYlZMRmxCckJLM0VXQndaVHNNa05RM1ZGaXFmdDd3Wmg4Y0NYUHNQY0FpSVdn?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump says he will nominate acting AG Todd Blanche to permanently lead Justice Department",
+              "url": "https://www.foxnews.com/politics/trump-says-he-nominate-acting-ag-todd-blanche-permanently-lead-justice-department"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump expected to nominate Todd Blanche as attorney general: Reports",
+              "url": "https://www.washingtonexaminer.com/news/justice/4594412/trump-nomination-todd-blanche-attorney-general/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Flesh-eating screwworm arrives in US with first case in Texas",
+          "neutralSummary": "Flesh-eating screwworm arrives in US with first case in Texas&nbsp;&nbsp;BBCCurrent Status&nbsp;&nbsp;aphis.usda.govFlesh-eating screwworm confirmed in Texas calf as parasite crosses border from Mexico&nbsp;&nbsp;ReutersFlesh-eating New World screwworm detected in Texas calf, USDA says, signaling ma",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "Flesh-eating screwworm arrives in US with first case in Texas",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9meDZYQUFJT1ZkejZkT2QyR3VzVUdKdEtvZ1NwSUVrUm95YkoyQUJ4b3JHQ2VlcUdTY0hteEtlQnlja3YtNDg1U1RKQ054N1AyTmNQa3k2VWV2Zw?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "‘Horror’ flesh-eating New World screwworm case detected in Texas: USDA",
+              "url": "https://nypost.com/2026/06/03/us-news/horror-flesh-eating-new-world-screwworm-case-detected-in-texas-usda/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Flesh-Eating ‘Screwworm’ Scare Reaches The U.S",
+              "url": "https://www.dailywire.com/news/flesh-eating-screwworm-scare-reaches-the-u-s"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
           "neutralHeadline": "Trump Confirms Call Where He Reportedly Called Netanyahu 'F**king Crazy': I Was 'Perturbed'",
           "neutralSummary": "“I said, ‘Bibi we gotta stop this, we gotta stop it,’” the president said.",
           "versions": [
@@ -251,193 +459,18 @@
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Trump Confirms He Called Netanyahu ‘Crazy’ and Hopes to Meet Iran’s Supreme Leader",
-              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVGxORVYxSFFzRlZEdHRtZlFOdHlRRGIzMkFaUXNFVTRYTl9rSFlSVWJIYl84bVE3MW10QjNEa1VJZ202WEZaSDhyUEsxUnNMeVh0bEFNc1lJRFlmY3RLbXpoNFV4SXV6bjVWdEJONW0tN0luWVZNYTk1dUxESjdUbDFid3pjZjVteE0wQm91RFY?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump confirms ‘crazy’ Netanyahu clash as questions mount over push to hold fire on Hezbollah terrorists",
-              "url": "https://www.foxnews.com/politics/trump-confirms-crazy-netanyahu-clash-questions-mount-over-push-hold-fire-hezbollah-terrorists"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Alabama’s new congressional maps do the one thing the Supreme Court still forbids",
-          "neutralSummary": "Allen v. Milligan, an Alabama redistricting case that is now before the Supreme Court for the third time, is a face-palm, wrapped in a head-desk, wrapped in some of the most incompetent legislative draftsmanship that has ever been presented to the justices. If Alabama Republicans have any sense, the",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Alabama’s new congressional maps do the one thing the Supreme Court still forbids",
-              "url": "https://www.vox.com/politics/490608/supreme-court-allen-milligan-alabama-callais"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Supreme Court allows Alabama GOP-backed congressional map for midterms",
-              "url": "https://www.foxnews.com/politics/supreme-court-allows-alabama-gop-backed-congressional-map-midterms"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Trump to Drop $1.8 Billion Fund in IRS Deal, Keeps Tax Probe Ban",
-          "neutralSummary": "Trump to Drop $1.8 Billion Fund in IRS Deal, Keeps Tax Probe Ban&nbsp;&nbsp;Yahoo FinanceThe end of Trump's 'weaponisation' fund is another sign Republicans are fighting back&nbsp;&nbsp;BBCRepublicans consider next steps after scrapping of $1.8 billion fund for Trump allies&nbsp;&nbsp;Dallas NewsTop",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Is Trump giving up on his slush fund?",
-              "url": "https://www.vox.com/the-logoff-newsletter-trump/490543/trump-anti-weaponization-slush-fund-doj-settlement"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Yahoo Finance",
-              "initials": "YF",
-              "domain": "news.google.com",
-              "headline": "Trump to Drop $1.8 Billion Fund in IRS Deal, Keeps Tax Probe Ban",
-              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUzRvTVNHc0U5THlvNmdWSS1oUkRoYjF5U09jY1lQeXJ3OVE0LVFIbVB3enk1eXdEYW5EelE1aXZsRHlZTmdoVnFYQ0p5WmwyU3dmMmZQQ0xnLWRkejBPQkpBMVRlNW8tYzlacXNuOWdVZlFISXkzMDNMbkwzTXliS0s1bUtMcWlMaDl5cC1uSFY4VEJ5anZNZjRYUnRjWjNNYjJIa2I4STJPLTg4YWFUdWN2WWt0OF9aREtPNHJLTnIwOUEy?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Toby Doeden and Larry Rhoden Advance to Runoff for South Dakota Governor",
-          "neutralSummary": "Toby Doeden, a businessman, and Gov. Larry Rhoden advanced to a runoff. A competitive contest emerged after Kristi Noem stepped down as governor to join President Trump’s cabinet.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Toby Doeden and Larry Rhoden Advance to Runoff for South Dakota Governor",
-              "url": "https://www.nytimes.com/2026/06/03/us/south-dakota-governor-doeden-rhoden.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "South Dakota governor survives crowded primary -- for now",
-              "url": "https://www.foxnews.com/politics/south-dakota-governor-survives-crowded-primary-for-now"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Trump: Vance, Rubio team would be ‘hard to beat’ in 2028",
-          "neutralSummary": "President Trump suggested Vice President Vance and Secretary of State Marco Rubio should run together on a joint Republican ticket in the 2028 presidential election, though he stopped short of saying whom he’d prefer as his successor. In an episode of The New York Post’s “Pod Force One” released Wed",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Suggests Vance and Rubio Should Run Together in 2028 Election",
-              "url": "https://www.nytimes.com/2026/06/03/us/politics/trump-vance-rubio-2028-election.html"
-            },
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump: Vance, Rubio team would be ‘hard to beat’ in 2028",
-              "url": "https://thehill.com/homenews/campaign/5908001-trump-suggests-2028-vance-rubio-ticket/"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump confirms calling Netanyahu 'crazy,' says they still get along",
+              "url": "https://www.npr.org/2026/06/03/g-s1-125631/trump-confirms-calling-netanyahu-crazy-says-they-still-get-along"
             }
           ]
         },
         {
           "id": "us-6",
-          "neutralHeadline": "President Trump seeks control of science funding",
-          "neutralSummary": "The White House Office of Management and Budget is moving to take more control of billions of dollars in federal grants. Critics say the proposed change would jeopardize the integrity of U.S. science.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "President Trump seeks control of science funding",
-              "url": "https://www.npr.org/2026/06/03/nx-s1-5844678/trump-science-funding-omb-budget-office-rule-change"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum",
-          "neutralSummary": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum&nbsp;&nbsp;AP NewsUkrainian drones strike St. Petersburg, hours before ‘Putin’s Davos’ opens&nbsp;&nbsp;CNNUkrainian drones hit St. Petersburg oil terminal before city hosts Russian economic forum&nbsp;&nbsp;CBCUk",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Ukrainian drones strike a St. Petersburg oil terminal ahead of Putin visit",
-              "url": "https://www.npr.org/2026/06/03/nx-s1-5844793/ukrainian-drones-hit-st-petersburg"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Ukrainian drones hit St Petersburg oil terminal before it hosts Russian economic forum",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXlOckxvdi1hSVFuQ1ZpU28xdlJWYjBQbzJ1YURNa2x6dDJUWjY3bDh5SjhYaXVqTlJwcGloVkc0emt1Vm1neGNURXF1bXlHaXlfZVdwWW9nTmRjSHhvVF84MG5DVkZDMjQ2UkVwR0Nka3BRU1ozWEtyVGo4WXpZYVNMSlVqOWdGVjFfQzhFdFVEMlhubk84UlE5NGtBV0tXcUt1LWRJUlJTMlBZWVFZ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Steve Hilton and Xavier Becerra lead California governor primary vote count",
-          "neutralSummary": "Steve Hilton and Xavier Becerra lead California governor primary vote count&nbsp;&nbsp;BBCDemocratic Voters Acted Strategically in a Turbulent California Election&nbsp;&nbsp;The New York TimesSteve Hilton takes slim lead over Becerra in California governor race&nbsp;&nbsp;KTLACalifornia primary elec",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Steve Hilton and Xavier Becerra lead California governor primary vote count",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rWndiZTdjakswejNIdXF0cGkySVFoWFdJa0Z3Zm5GaUVIQkY3MlgtSHVXSER5bU9DT3JFQ0lmM2xzZWxvb0UwOFJGMGdBZDFHMzc4aXFPRVJvZw?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Hilton, Becerra in the lead with votes still being counted in battle for California governor",
-              "url": "https://www.foxnews.com/politics/hilton-becerra-lead-votes-still-being-counted-battle-california-governor"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "‘Daily Show’ To Ivanka Trump: ‘Can You Make This Sound Even More Out Of Touch?’",
-          "neutralSummary": "Host Michael Kosta torched the president’s daughter for failing to “read the room” after an extravagant purchase.",
+          "neutralHeadline": "Jill Biden Opens Up About Deeply Awkward Motorcade Moment With Melania Trump",
+          "neutralSummary": "The former first lady said Trump \"kept trying to switch the topic\" at one point in the ride to her husband's second inauguration.",
           "versions": [
             {
               "political": "left",
@@ -445,8 +478,92 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "‘Daily Show’ To Ivanka Trump: ‘Can You Make This Sound Even More Out Of Touch?’",
-              "url": "https://www.huffpost.com/entry/michael-kosta-ivanka-trump-failing-to-read-the-room_n_6a202aa3e4b08a03cfbdc714"
+              "headline": "Jill Biden Opens Up About Deeply Awkward Motorcade Moment With Melania Trump",
+              "url": "https://www.huffpost.com/entry/jill-biden-melania-trump-motorcade-inauguration-memoir_n_6a1ffcc9e4b08a03cfbda53d"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Joe Biden teases book release before November in awkward exchange with Jill",
+              "url": "https://www.washingtonexaminer.com/news/entertainment/4594405/joe-biden-book-awkward-exchange-jill/"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Democrats question reported White House intervention in loan for Donald Trump Jr.",
+          "neutralSummary": "Several Democratic lawmakers are demanding answers following a report that a White House official intervened to grant a $620 million Pentagon loan to a company linked to President Trump’s eldest son.&#160; “We write to demand a full explanation for what appears to be an egregious example of Trump ad",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "White House Tries To Explain Donald Trump's Record-Breaking Truth Social Posting Spree",
+              "url": "https://www.huffpost.com/entry/donald-trump-posts-record-white-house-explains_n_6a1fdcdfe4b032392fa751f2"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Democrats question reported White House intervention in loan for Donald Trump Jr.",
+              "url": "https://thehill.com/homenews/senate/5909127-democrats-question-reported-white-house-intervention-in-loan-for-donald-trump-jr/"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Trump says UFC arena outside White House could be permanent",
+          "neutralSummary": "President Trump suggested on Wednesday that the UFC arena currently under construction on the White House’s South Lawn could be a permanent addition.  “I’m looking at it and maybe we’ll never ever take it down,” Trump said in a video posted on his official TikTok account on Tuesday.&#160; The presid",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Now Says This Bizarre White House Addition Might 'Never Ever' Go Away",
+              "url": "https://www.huffpost.com/entry/trump-white-house-ufc-cage_n_6a1fc27be4b032392fa73969"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump says UFC arena outside White House could be permanent",
+              "url": "https://thehill.com/homenews/administration/5908763-trump-suggests-permanent-ufc-arena/"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "The Supreme Court’s new decision tilting the midterms toward Republicans, explained",
+          "neutralSummary": "Here’s a familiar story. On Tuesday night, the Supreme Court handed down a decision that will almost certainly give the Republican Party an additional seat in the US House of Representatives. Not all of the justices disclosed how they voted, but the decision appears to have come down 6-3 along parti",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "The Supreme Court’s new decision tilting the midterms toward Republicans, explained",
+              "url": "https://www.vox.com/politics/490841/supreme-court-gerrymandering-allen-milligan-alabama-republicans"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Supreme Court's Alabama redistricting decision could encourage more chaos, experts warn",
+              "url": "https://www.npr.org/2026/06/03/nx-s1-5845082/supreme-court-alabama-redistricting"
             }
           ]
         }
@@ -457,6 +574,104 @@
       "stories": [
         {
           "id": "singapore-1",
+          "neutralHeadline": "Man charged after he allegedly assaulted male stranger wearing cap with Israeli emblem",
+          "neutralSummary": "The man Muhammad Asyraf Said assaulted was given a stern warning for displaying a foreign national emblem in public.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Man charged after he allegedly assaulted male stranger wearing cap with Israeli emblem",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/man-charged-after-he-allegedly-assaulted-male-stranger-wearing-cap-with-israeli-emblem"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "Anthropic looks to set up shop in Singapore, fill roles in finance and product support",
+          "neutralSummary": "A regional research economist based in the Republic can expect to receive an annual salary of over $300,000.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Anthropic looks to set up shop in Singapore, fill roles in finance and product support",
+              "url": "https://www.straitstimes.com/tech/anthropic-looks-to-set-up-shop-in-spore-fill-roles-from-finance-to-product-support"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
+          "neutralHeadline": "Asian stocks slide on flare-up in Middle East fighting, oil eases off highs",
+          "neutralSummary": "\"Financial markets shifted back into a risk-off mode as the US and Iran exchanged fire again,\" analysts from Westpac wrote in a research report.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Asian stocks slide on flare-up in Middle East fighting, oil eases off highs",
+              "url": "https://www.channelnewsasia.com/asia/asian-stocks-up-middle-east-flare-up-oil-eases-6161061"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Hong Kong principal fired for swearing at security guards on Singapore school trip",
+          "neutralSummary": "San Wui Commercial Society Secondary School says it refused to accept the resignation of Lee Cheuk-hing, who violated the code of conduct for staff.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Hong Kong principal fired for swearing at security guards on Singapore school trip",
+              "url": "https://www.channelnewsasia.com/east-asia/hong-kong-school-principal-fired-swear-security-guards-singapore-6161256"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "South China Morning Post",
+              "initials": "SC",
+              "domain": "news.google.com",
+              "headline": "Hong Kong principal fired for swearing at security guards on Singapore school trip",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQUJ4UkphYVY4TFhzWTlBay1yTEI2TEdHakNPOHVDYUxUT3BkSzVEaDJsUXNUdlBZejVXLVVZaHVlMnBrUFVzNDlrTU8wTGJBSEFuN1FIdWdxaV83WlFacFltMFd2WjA5b3ZnUTRXQ2VaeFB4YTVzWEVtZmM4MmdyR1BvbUlyQ1dJMjc5d0tWRy1tR0ZnY3hBNVFxRDZKM0MzWHIya2tfWEp2d09BSkhHa1AzaUc1bzRLaFdkZEI5ZTZIcXZKcklFeEljR0ptNjDSAc8BQVVfeXFMT0t6YnFQSGM1NkU3S1FGcTE1X1NNMGJMSEZDMldaejVJaVJSUjRhdlBGclEtRXQ2S0U0T1Mwa2lwMkRUdHRERGdOM3Nsc29lUHpIa0NJUWFNZkhNOTJFT183Z0JlOWFrZGFJQ2cyWDZYcGR1VXdYRVdhOEJVcWdTQWdUODNFa3RpTWJOSnNwVGp0Mk5DNWZKa0QyV3o2QTh1QUxfSkZ5Q2pRdEl3SGpBR256blhfSldYRFZ4NmlDX2lnbm85YzNUMWpKSks0LTVj?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "South Korea ruling party sweeps local elections but loses Seoul mayor race",
+          "neutralSummary": "The loss of Seoul delivers a symbolic blow to South Korean President Lee Jae Myung despite his party’s broader gains.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "South Korea ruling party sweeps local elections but loses Seoul mayor race",
+              "url": "https://www.channelnewsasia.com/east-asia/south-korea-elections-democratic-party-sweep-losing-seoul-6160966"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "South Korea Lee's ruling party sweeps local elections but loses Seoul mayor race",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHZiSUtXeTgxUGNqN2htSE83Y0FucmNQY3VZeTZoQTlHVDdCcVlLOVo0Z2RTMGpsaWRpUURQWkNCU0tiNjY2cW5XcTJleV96SG8zLVBfX1hmWkwzRE9ZNXlmWnJEcGFRTTRuYkJmSTh4ZE9La1RwSVJTd241ZW11SEVVN0F2LW01OUJGVDU4bUw2S1FvTTByRkJIanNSRXFBWEFUZXV5ZVRpRFJIaHZ3dXowLUh2WW9ISllvajJsdzY4bkZMM3pVcXlnYmo?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
           "neutralHeadline": "Indonesia arrests former head of President Prabowo’s flagship free meal scheme",
           "neutralSummary": "The scheme was linked to cases of food poisoning that have reportedly affected at least 33,000 children as of April.",
           "versions": [
@@ -481,32 +696,7 @@
           ]
         },
         {
-          "id": "singapore-2",
-          "neutralHeadline": "Japan fertility rate falls again to record low",
-          "neutralSummary": "Japan fertility rate falls again to record low",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Japan fertility rate falls again to record low",
-              "url": "https://www.channelnewsasia.com/east-asia/japan-fertility-birth-rate-fall-record-low-6159416"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Nikkei Asia",
-              "initials": "NA",
-              "domain": "news.google.com",
-              "headline": "Japan's fertility rate at record low; 10th straight year of decline",
-              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjVBZTB2aUtIUkpRTC05M0QyczFXXzBldUZVVEQxMzRDVHZkaHFCWGNUR0JHTm9yeDRSdzBPZzl1NUw5RFNGYnUyTUJxcGNWR0twNWFfcThDSHd5bnBNLWhKclFITmx3R1BfdTF4UmJCOWNwdjFRVTFoaWs1a2tWeEl0aldveWpVdUxVTWY5ak1xcUZjX0FIazAtV004blcyNklRb1VUS0hLYnNiYkE?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
+          "id": "singapore-7",
           "neutralHeadline": "UMNO defends Johor polls timing as newly relaunched Bersama party says it will contest state election",
           "neutralSummary": "Parti Bersama Malaysia (Bersama) - helmed by former federal ministers Rafizi Ramli and Nik Nazmi Nik Ahmad - said that further discussions would be held with party representatives in Johor to identify the seats the party would contest.",
           "versions": [
@@ -522,91 +712,9 @@
           ]
         },
         {
-          "id": "singapore-4",
-          "neutralHeadline": "Fire sweeps through New Delhi building, killing at least 21 people",
-          "neutralSummary": "Fire sweeps through New Delhi building, killing at least 21 people",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Fire sweeps through New Delhi building, killing at least 21 people",
-              "url": "https://www.channelnewsasia.com/asia/new-delhi-fire-india-building-death-6159166"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Foreign nationals among at least 21 killed in Delhi fire",
-              "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "SpaceX will disrupt $1.6 trillion US communications industry, Oppenheimer says",
-          "neutralSummary": "SpaceX will disrupt $1.6 trillion US communications industry, Oppenheimer says",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "SpaceX will disrupt $1.6 trillion US communications industry, Oppenheimer says",
-              "url": "https://www.channelnewsasia.com/business/spacex-will-disrupt-16-trillion-us-communications-industry-oppenheimer-says-6160066"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Vanguard’s VOO Hits $1 Trillion of Assets in ETF Industry First",
-              "url": "https://www.bloomberg.com/news/articles/2026-06-03/vanguard-s-voo-hits-1-trillion-of-assets-in-etf-industry-first"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "AirAsia reviewing policy after family with cerebral palsy child removed from flight due to 'safety requirements'",
-          "neutralSummary": "The woman said that her daughter had flown with AirAsia before, and questioned if that meant the policy was breached during those earlier flights.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "AirAsia reviewing policy after family with cerebral palsy child removed from flight due to 'safety requirements'",
-              "url": "https://www.channelnewsasia.com/asia/airasia-reviews-policy-family-cerebral-palsy-child-removed-flight-safety-requirements-6159361"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Thai PM calls for urgent talks with Malaysia after shrimp import ban sparks concerns for farmers’ livelihoods",
-          "neutralSummary": "Prime Minister Anutin Charnvirakul has instructed his ministers to seek a bilateral trade solution with Malaysia.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Thai PM calls for urgent talks with Malaysia after shrimp import ban sparks concerns for farmers’ livelihoods",
-              "url": "https://www.channelnewsasia.com/asia/thai-pm-anutin-charnvirakul-urgent-discussions-malaysia-temporary-thai-shrimp-import-ban-farmer-livelihood-6159371"
-            }
-          ]
-        },
-        {
           "id": "singapore-8",
-          "neutralHeadline": "Thailand ready for UN mediation on maritime dispute with Cambodia",
-          "neutralSummary": "Thailand ready for UN mediation on maritime dispute with Cambodia",
+          "neutralHeadline": "Oil falls as Lebanon and Israel agree on a ceasefire",
+          "neutralSummary": "Oil falls as Lebanon and Israel agree on a ceasefire",
           "versions": [
             {
               "political": "center",
@@ -614,15 +722,24 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Thailand ready for UN mediation on maritime dispute with Cambodia",
-              "url": "https://www.channelnewsasia.com/asia/thailand-cambodia-un-mediation-maritime-dispute-6159406"
+              "headline": "Oil falls as Lebanon and Israel agree on a ceasefire",
+              "url": "https://www.channelnewsasia.com/business/oil-falls-lebanon-and-israel-agree-ceasefire-6161091"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "news.google.com",
+              "headline": "Israel and Lebanon agree to implement ceasefire, boosting hopes for Iran deal",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTDBzOXdma2c4WkZoSGVINTZmcWlUT2wzZUJLT0psQ2ljcUQ3b2ZVampNUjItM2RSTzVTUTZUQlV0QTJBdElEQ0dxRnJTS3lEaXJIY00xZXMxUi1zVDdSd05BRUUtVUtIb3NzbXpCbV9CSC01ZTRkcUNaaURWVXdaS0l4UVZhZVZmWm1oRXJaSEdQWUE?oc=5"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Solomon Islands' PM says to review secretive security pact with China",
-          "neutralSummary": "Solomon Islands' PM says to review secretive security pact with China",
+          "neutralHeadline": "NTUC concerned about employers presenting retrenchments as 'new opportunities' by asking workers to reapply for roles abroad",
+          "neutralSummary": "Some employers take this approach in order to avoid the optics of a retrenchment, say manpower experts.",
           "versions": [
             {
               "political": "center",
@@ -630,8 +747,8 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Solomon Islands' PM says to review secretive security pact with China",
-              "url": "https://www.channelnewsasia.com/world/solomon-islands-china-security-pact-review-australia-6159286"
+              "headline": "NTUC concerned about employers presenting retrenchments as 'new opportunities' by asking workers to reapply for roles abroad",
+              "url": "https://www.channelnewsasia.com/singapore/retrenchment-disguised-job-loss-apply-overseas-new-opportunity-6155641"
             }
           ]
         }
@@ -642,8 +759,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Delhi hotel fire: After hours on the run, owner Lavkesh Bajaj detained",
-          "neutralSummary": "Owner Lavkesh Bajaj has been detained in connection with a Malviya Nagar hotel fire that killed 21 people. The hotel operated at nearly four times its permitted capacity, lacked fire safety clearance, and had unauthorized additional floors.  Authorities issued a lookout circular and conducted raids",
+          "neutralHeadline": "Tabling of White Paper in Assembly on Kerala financial health leads to war of words",
+          "neutralSummary": "Tabling of White Paper in Assembly on Kerala financial health leads to war of words",
           "versions": [
             {
               "political": "left",
@@ -651,167 +768,24 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Delhi hotel fire LIVE: Hotel building owner arrested",
-              "url": "https://www.thehindu.com/news/cities/Delhi/delhi-malviya-nagar-restaurant-fire-live-updates-june-3-2026/article71056012.ece"
+              "headline": "Kerala CM V.D. Satheesan tables White Paper on State finances in Assembly",
+              "url": "https://www.thehindu.com/news/national/kerala/kerala-cm-vd-satheesan-tables-white-paper-on-state-finances-in-assembly/article71059591.ece"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Delhi hotel fire: After hours on the run, owner Lavkesh Bajaj detained",
-              "url": "https://timesofindia.indiatimes.com/city/delhi/delhis-malviya-nagar-hotel-fire-airport-railway-alerts-issued-as-owner-faces-loc-medical-stay-hub-lacked-fire-safety-clearance/articleshow/131487440.cms"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Delhi fire: Hotel under scanner, owner detained, 18 foreign nationals killed | Top points on Malviya Nagar blaze",
-              "url": "https://www.hindustantimes.com/india-news/delhi-fire-hotel-under-scanner-owner-absconding-18-foreign-nationals-killed-top-points-on-malviya-nagar-blaze-101780497501522.html"
+              "headline": "Tabling of White Paper in Assembly on Kerala financial health leads to war of words",
+              "url": "https://www.hindustantimes.com/india-news/tabling-of-white-paper-in-assembly-on-kerala-financial-health-leads-to-war-of-words-101780549133122.html"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "From student activist to Karnataka chief minister: The rise of DK Shivakumar",
-          "neutralSummary": "For Shivakumar, popularly known as 'Kanakapura Bande' (the Rock of Kanakapura), patience had become a political necessity.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Explained | How D.K. Shivakumar finally became Karnataka’s Chief Minister",
-              "url": "https://www.thehindu.com/videos/explained-how-d-k-shivakumar-finally-became-karnatakas-chief-minister/article71057403.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Karnataka Chief Minister DK Shivakumar Takes Oath, G Parameshwara Is His Deputy",
-              "url": "https://www.ndtv.com/india-news/karnataka-chief-minister-dk-shivakumar-takes-oath-g-parameshwara-is-his-deputy-11585721#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "From student activist to Karnataka chief minister: The rise of DK Shivakumar",
-              "url": "https://www.hindustantimes.com/india-news/from-student-activist-to-karnataka-chief-minister-the-rise-of-dk-shivakumar-101780496606289.html"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Rival coaching director among 3 held for attack on ‘Khan Sir’s’ Patna institute | India News",
-          "neutralSummary": "Rival coaching director among 3 held for attack on ‘Khan Sir’s’ Patna institute | India News&nbsp;&nbsp;Hindustan Times'Khan Sir' coaching institute vandalised in Bihar's Patna&nbsp;&nbsp;The Hindu\"Appeal to our CM to provide security\": Educator Khan Sir after firing outside his coaching institute&n",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Three arrested for attack on ‘Khan Sir’s’ coaching institute in Patna",
-              "url": "https://www.thehindu.com/news/national/bihar/khan-sir-coaching-institute-in-patna-vandalised-pelted-with-stones/article71055729.ece"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "news.google.com",
-              "headline": "Rival coaching director among 3 held for attack on ‘Khan Sir’s’ Patna institute | India News",
-              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUkhIUmROcUZ5VTRYbVR5LW10OUdfQUFVZ0o4UWdPb09Wa2MyemtUWUtrclJoNjEycGYzWGxWc2xNM3pka3lhR0E1TlJqRUZMVDJXNUdJSWE1U3N4Y1E2Y3pkMk9rUVI4VVdDMEk5OTZzNW1xYjVxdkVvN2djOFRCR01Kb2I3Mkd3X1RhbGFzVDFVdlZmeVp5ZlFaTTJqa1FhYlBwckZBU0xZUEVvc0FiQWZFckdrNzJvcnJrLVFQUEU1eDVYTnJBd1RZY1g4UDQ2cFFOeUJFVdIB3AFBVV95cUxQbGRTaGNWa0tPM3RseG5CcTAwYkY5WTBydXVybjNDQXdIU0tDM0daOV9heU5RbVpJbTg4cmlJWXYwUFlyZmVuQXR1LUREWlpDdk1qRGhKeXpOQmx6RFdyX2QwbVpyU1llMFdER0dSdi0wbkVOQ1pOMjZuVWJqSm1qVmdkdzc2OW02dzhqQlU3aElvNDJKbFg3X2VjUk8ySmpoS0k3MGhIdlFhT3Qta2N2RXRndGRrcF9qMlgxMGVmVmQyU0I0ZXhVbE5pdHY0OHJHOF9jR2ItRUtwMllv?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Delhi court charges Sukesh, Jacqueline in  ₹200 crore money laundering case",
-          "neutralSummary": "The court highlighted 36 pieces of crucial evidence against Chandrashekar, including testimonies, call detail records and chats recovered from phones",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Jacqueline Fernandez Denies Charges In Rs 200 Crore Extortion Racket Case",
-              "url": "https://www.ndtv.com/india-news/jacqueline-fernandez-denies-charges-in-rs-200-crore-extortion-racket-case-11586214#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Delhi court charges Sukesh, Jacqueline in  ₹200 crore money laundering case",
-              "url": "https://www.hindustantimes.com/india-news/delhi-court-charges-sukesh-jacqueline-in-200-crore-money-laundering-case-101780500043379.html"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Indian Killed In Iranian Attack On Kuwait Airport",
-          "neutralSummary": "The strikes hit Terminal One and caused casualties and damage to airport facilities",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Indian Killed In Iranian Attack On Kuwait Airport",
-              "url": "https://www.ndtv.com/world-news/indian-national-killed-in-iranian-attack-on-kuwait-airport-11585900#publisher=newsstand"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Indian national killed in attack on Kuwait airport",
-              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWp4Ym9NamtUYnNSLVVVNy1YMXZoQ21VZ1JrOTBBaER3WjlBempoMHJCTDRaRGxTc1FjMnVnSTNVeVhhZjZvZlVya0l5LU9URlJDcFkyYWp3cmhBNE82Umg1VFpOX2JYWmNZRUFBaTZWREYtTWdEWkZsNGVQYUpVM3pPVjQtc0dSN0dVRzBKX2xqRGcyVVJOaUNjZFhBcUFYWFh3UjFfMG5JcEFFSWfSAbQBQVVfeXFMUEt0aTVIOGNSNXM0bEl3T0tMajZsOUdaWlR3LVFVQ1VfLUg0bm9uRmV6ZTRLRTZMNHJlXzh3YW1QaTN2SVRPdmNDbW5UTF9rdkxUNnlpUFVuRG50cXhsNWZNMlNCcWVCZG9ZQUx6Mnc3aXBjRDI4TGZrZFR4YVVpNUpHam1YekFLcXdGTWpjS0hKNzdfa21rOFdzSjZDanpmS2VTVGE5ZnR3M0N3MW56WllsRVoz?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "TMC's rebel leader now LoP, ED summons Abhishek, mayor ‘quits’: Mamata faces many setbacks",
-          "neutralSummary": "This blow for TMC also comes a month after it suffered a major loss against the Bharatiya Janata Party in the West Bengal Assembly elections.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"Real\" Trinamool Backs Rebel For Key Post, Says 'Mamata Banerjee Our Leader'",
-              "url": "https://www.ndtv.com/india-news/mamata-banerjee-abhishek-banerjee-leader-of-opposition-ritabrata-banerjee-sandipan-saha-in-trinamool-vs-trinamool-rebel-claims-59-mlas-support-for-key-11584266#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "TMC's rebel leader now LoP, ED summons Abhishek, mayor ‘quits’: Mamata faces many setbacks",
-              "url": "https://www.hindustantimes.com/india-news/tmc-ritabrata-banerjee-now-lop-ed-summons-abhishek-banerjee-firhad-hakim-quits-mamata-tmc-faces-setbacks-101780504011837.html"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "'Took deposit of Rs 15,000': 500 techies jobless as IT firm shuts Pune's Hinjewadi branch without notice;",
-          "neutralSummary": "'Took deposit of Rs 15,000': 500 techies jobless as IT firm shuts Pune's Hinjewadi branch without notice;&nbsp;&nbsp;The Times of India700 Employees Left Jobless As Pune IT Firm Shuts Overnight, CEO Arrested&nbsp;&nbsp;NDTV700 recruits, 12 projects, one vanished company: Inside Pune's IT job fraud&n",
+          "neutralHeadline": "Virat Kohli likely to miss Afghanistan ODIs; suspense continues over Rohit Sharma",
+          "neutralSummary": "Virat Kohli was in sublime form during IPL 2026, scoring 675 runs at an average of 56.25 and top-scoring with an unbeaten 75 in the title clash. He had reportedly felt discomfort in his right hamstring while batting during the final. Meanwhile, Rohit Sharma is yet to report to the BCCI's Centre of E",
           "versions": [
             {
               "political": "left",
@@ -819,58 +793,8 @@
               "source": "Indian Express",
               "initials": "IE",
               "domain": "indianexpress.com",
-              "headline": "How Pune IT firm duped nearly 700 techies before vanishing",
-              "url": "https://indianexpress.com/article/cities/pune/pune-thynktech-india-fake-it-startup-scam-harshal-thakre-arrested-hinjewadi-10722879/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "'Took deposit of Rs 15,000': 500 techies jobless as IT firm shuts Pune's Hinjewadi branch without notice;",
-              "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRGRGYTNQRXZfRU5pT3BnSWR2WFNjZ2ZSdE13cjd4TnZkMzdMTDdvb1hwNkVHZldIb0lud19BYVJkclprdTVRU29sdWNxX2M1d3dVSmlXT0tBMEVfX1l4cFE2VGVtTTFHQlpyMXBTQXZZVUlwc1JOX2djREQ5TWhvZkRkV0lqWEJLUnV5emRrMmpTN2VsdTZ4dHI2WFl5SG01QjVLX0l5YmRZTTB1NjVrbEdoSExVSV9VU1dDeERBMW5Idm40QXUtTkRZNURuVWNTaW1hbFEwXzFPOF9jc0Vya3JpOU9MXzRnNVg1eERpUdIB9AFBVV95cUxNRWQ2eTh4cm1OQ0NVMkNFU0hfUFNnTERKSmsxMXBnOVV2QjUyYkphRmdVd29meDdoeDNhcV9TVGtCdGxUTzNlV3VIXzZGcUJvb1dxZVJ4MHNsQTJRMjgzZm5TMTA4ZXAxMkNxengxLURUWmo3OEZqc2JNX1dPa2NCOHlFQXpwd25YN242X1lvaWVaZUtPTzhIYWhfR25FbzMtVC02MTJJOXBWN2ZYUHJPUWQ1YnZtMnVTa3JSRWZwQUFXVk5lbnNwd1FYNU9zOUZZaGZXdTB0NUVmaWRUU1JkUXEtM2hjMnRfaFJaVkNSM1RSb2kt?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "UK foreign secretary Yvette Cooper to meet Jaishankar to review ties",
-          "neutralSummary": "Yvette Cooper, who completed a trip to China on Wednesday, travelled to India close on the heels of a visit by UK business and trade secretary Peter Kyle",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "British Foreign Secretary to meet PM Modi, Jaishankar on June 3",
-              "url": "https://indianexpress.com/article/india/british-foreign-secretary-yvette-cooper-india-visit-pm-modi-jaishankar-fta-10722819/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "UK foreign secretary Yvette Cooper to meet Jaishankar to review ties",
-              "url": "https://www.hindustantimes.com/india-news/uk-foreign-secretary-yvette-cooper-to-meet-jaishankar-to-review-ties-101780505688291.html"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "'Players like Jofra might not play for England if ... ': Stokes reacts to IPL criticism",
-          "neutralSummary": "England captain Ben Stokes has defended Jofra Archer after criticism over the fast bowler missing the first Test against New Zealand following his IPL stint with Rajasthan Royals. Stokes said modern cricket offers players more opportunities than before and insisted Archer remains committed to Englan",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Ben Stokes on Jofra Archer: ‘He is committed and loves playing for England’",
-              "url": "https://indianexpress.com/article/sports/cricket/ben-stokes-jofra-archer-criticism-england-vs-nz-committed-10722847/"
+              "headline": "Kohli ruled out of India’s ODIs vs Afghanistan with hamstring injury: Report",
+              "url": "https://indianexpress.com/article/sports/cricket/virat-kohli-ruled-out-india-vs-afghanistan-odi-series-hamstring-injury-10723259/"
             },
             {
               "political": "center",
@@ -878,8 +802,156 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "'Players like Jofra might not play for England if ... ': Stokes reacts to IPL criticism",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/news/players-like-jofra-might-not-play-for-england-if-captain-ben-stokes-reacts-to-criticism-of-archers-ipl-stint/articleshow/131486590.cms"
+              "headline": "Virat Kohli likely to miss Afghanistan ODIs; suspense continues over Rohit Sharma",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/virat-kohli-likely-to-miss-afghanistan-odis-suspense-continues-over-rohit-sharma/articleshow/131497008.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "'Injured' Virat Kohli ruled out of Afghanistan ODIs",
+              "url": "https://economictimes.indiatimes.com/news/sports/virat-kohli-out-of-afghanistan-odis-with-hamstring-injury/articleshow/131497050.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Tax cuts, easier bond rules on the cards: How India plans to attract more foreign investment",
+          "neutralSummary": "Reports suggest that PM Narendra Modi-led Union Cabinet on Wednesday cleared an ordinance that will amend the Income Tax Act and enable the proposed tax exemption.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "India's Big Move To Attract Foreign Investment Amid Iran War: Sources",
+              "url": "https://www.ndtv.com/india-news/indias-big-move-to-attract-foreign-investment-amid-iran-war-sources-11588779#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Tax cuts, easier bond rules on the cards: How India plans to attract more foreign investment",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-india-looks-to-attract-foreign-investment-capital-gains-tax-on-government-securities-may-be-scrapped/articleshow/131495909.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Bank lending boom lifts market volumes",
+          "neutralSummary": "Bank lending boom lifts market volumes",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Bank lending boom lifts market volumes",
+              "url": "https://economictimes.indiatimes.com/news/economy/finance/india-money-market-volumes-jump-to-record-as-bank-lending-booms/articleshow/131497394.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "India Money Market-Volumes Jump to Record as Bank Lending Booms",
+              "url": "https://www.bloomberg.com/news/articles/2026-06-04/india-money-market-volumes-jump-to-record-as-bank-lending-booms"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "US moots 12.5% tariff on India, 53 others over ‘forced labour’",
+          "neutralSummary": "US moots 12.5% tariff on India, 53 others over ‘forced labour’&nbsp;&nbsp;The Times of IndiaWhat India Said On Trump's Proposed Tariff Amid Talks On Trade Pact&nbsp;&nbsp;NDTVTrump’s 12.5% additional tariffs move under Section 301: What does it mean for India & trade deal talks?&nbsp;&nbsp;The Times",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "US moots 12.5% tariff on India, 53 others over ‘forced labour’",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc2JXazM4aVgwTnJYaGNLSmpGUVNlZnZMcHlyaG1mWFY1UkRnUnlKUjYyQWNpS1pKOGxGU1g0aktIUmRldzFvRVFjcXNqYjB3Slp6X01oM2g1WTJLdWJBemoxbGx0Mko2cV9CUlAtWXdCLXhIS2dXNUtOM3c4NVJFY0lKeVhPcGJIaFV2eldETUx5MTU4ZThtT3ZfZmRVbl9TNDYzazlkdEoweWhFTllTa0JUVVMwYjZiWERCbHhXc1FkejR6RFpWT2ZQLVpmeFZkRW1qbW9WZWpNVHVQ?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "OpIndia",
+              "initials": "OPI",
+              "domain": "opindia.com",
+              "headline": "USTR proposes 12.5% tariffs on India, others over ‘forced labour’: Is Trump inventing new ways to reimpose tariffs struck down by the Supreme Court?",
+              "url": "https://www.opindia.com/2026/06/ustr-proposes-12-5-tariffs-on-india-others-over-forced-labour-is-trump-inventing-new-ways-to-reimpose-tariffs-struck-down-by-the-supreme-court/"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Absolute incompetence of BJP unmasked by NFHS-6 data: Kharge",
+          "neutralSummary": "Congress chief Mallikarjun Kharge accused the BJP of having a five-step formula to hide its sin: burying selected data, abandoning the vulnerable, advertising “Sabka Saath” and “Amrit Kaal”, manipulating the narrative and protecting Prime Minister Narendra Modi’s PR at all costs",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Absolute incompetence of BJP unmasked by NFHS-6 data: Kharge",
+              "url": "https://www.thehindu.com/news/national/absolute-incompetence-of-bjp-unmasked-by-nfhs-6-data-kharge/article71059760.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Naidu asks ONGC to speed up K-G basin projects and use CSR for villages",
+          "neutralSummary": "ONGC chairman Arun Kumar Singh calls on Chief Minister N. Chandrababu Naidu, who asks the firm to speed up its Krishna-Godavari basin projects and spend CSR funds on nearby villages",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Naidu asks ONGC to speed up K-G basin projects and use CSR for villages",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-asks-ongc-to-speed-up-k-g-basin-projects-and-use-csr-for-villages/article71057986.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Nepal is a priority partner, says Modi after meeting RSP chief",
+          "neutralSummary": "By focusing on shared civilizational bonds, digital corridors, and seamless connectivity, we can truly build a partnership defined by progress and mutual trust, says Rabi Lamichanne",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Nepal is a priority partner, says Modi after meeting RSP chief",
+              "url": "https://www.thehindu.com/news/national/nepal-is-a-priority-partner-says-modi-after-meeting-rsp-chief/article71058228.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "Is shoot-to-disable the new normal? | Explained",
+          "neutralSummary": "Why is Operation Langda a pragmatic strategy? Has a sporadic enforcement tactic become a routine practice? What makes it legally defensible ?To what extent does the State endorse half-encounters? Is it a self-sustaining system? Why are piecemeal reforms insufficient?",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Is shoot-to-disable the new normal? | Explained",
+              "url": "https://www.thehindu.com/news/national/is-shoot-to-disable-the-new-normal/article71056685.ece"
             }
           ]
         }
