@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T06:00:10.557847+00:00",
+  "generatedAt": "2026-06-09T16:06:00.194770+00:00",
   "regions": {
     "global": {
       "name": "Global",
@@ -21,11 +21,20 @@
             {
               "political": "left",
               "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
+              "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "optimistic",
               "source": "NPR",
               "initials": "NPR",
-              "domain": "npr.org",
+              "domain": "news.google.com",
               "headline": "Xi and Kim express hopes for greater ties between China and North Korea",
-              "url": "https://www.npr.org/2026/06/08/g-s1-126863/xi-and-kim-express-hopes-for-greater-ties-between-china-and-north-korea"
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalhEMUhxZjhJSE9oeWIxaFp5V3pZZnF5V0MzZ3RCdEZfTGZMRzZLc2duRWlKVFpIRjR4ZGx5SlkxT0hQYjdHb012LWo4Vmxlb3dvU0x1TUo3cE50LXNJTXFSQXNIeWdKMzQwOVB0MzZaX0JncmdBSTU5SzY1NUxSQURXUWdnZ2RtajdkRk1HREdUMWJZQlUwNTZfcVhHMUpoNmVObkprSzVmbFVRbU90Rks3LXk?oc=5"
             },
             {
               "political": "right",
@@ -40,42 +49,8 @@
         },
         {
           "id": "global-2",
-          "neutralHeadline": "Israel and Iran step back from further strikes after renewed clashes",
-          "neutralSummary": "Israel and Iran appeared to pull back from further military action on Monday after exchanging fire for the first time since a US-brokered ceasefire two months ago. Both sides warned they would retaliate if attacked again, while regional powers and the Trump administration pushed to prevent the confl",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-              "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "After escalating strikes, Israel and Iran signal end to attacks",
-              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDNZeVlhTlB0ZW9nUHJBRmJyTGlFT3pjX1p5Sld4WWdyTlNMT0Q2WHdWQVh4aWoxSVlWZ040MkxKRTNmaUgzV25acXJHVHNodXA0ZU14MmgtMVVxT2c4VG55RjJtck5ic1U1dzNISG1NZWdUT0JzREpsU2R2dmx5M01QekNXcU1tdzVHQ2w1Ylc1UWhKa0VhTldhUWo2Y0ZTTVZWVnZZODNBVy1wNGdUTg?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Israel and Iran step back from further strikes after renewed clashes",
-              "url": "https://www.france24.com/en/middle-east/20260608-israel-and-iran-step-back-from-further-strikes-after-renewed-clashes"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Powerful earthquake in southern Philippines leaves at least 37 dead",
-          "neutralSummary": "People told not to enter damaged buildings for fear of aftershocks from magnitude-7.8 quakeAt least 37 people have died and hundreds have been injured after a magnitude-7.8 earthquake shook part of the southern Philippines early on Monday, collapsing buildings and triggering tsunami alerts.The quake",
+          "neutralHeadline": "'Americans can take their Ebola back': Kenyans protest plan for US quarantine centre",
+          "neutralSummary": "Demonstrators continue to take to the streets in Kenya, as frustrations mount with authorities who granted the US permission to open an Ebola quarantine centre dedicated to US citizens suspected of having been in contact with the virus. While construction of the facility is under a pause order from",
           "versions": [
             {
               "political": "left",
@@ -83,8 +58,8 @@
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "Powerful earthquake in southern Philippines leaves at least 37 dead",
-              "url": "https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings"
+              "headline": "Man shot during protest against proposed US Ebola quarantine facility in Kenya",
+              "url": "https://www.theguardian.com/world/2026/jun/09/man-shot-during-protest-against-proposed-us-ebola-quarantine-facility-in-kenya"
             },
             {
               "political": "left",
@@ -92,15 +67,24 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "At least 35 dead after major earthquake strikes southern Philippines",
-              "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss"
+              "headline": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
+              "url": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "'Americans can take their Ebola back': Kenyans protest plan for US quarantine centre",
+              "url": "https://www.france24.com/en/americans-can-take-their-ebola-back-kenyans-protest-plan-for-us-quarantine-centre"
             }
           ]
         },
         {
-          "id": "global-4",
-          "neutralHeadline": "Israel Says It Has Struck Iran As It Takes Missile Fire",
-          "neutralSummary": "The attacks further strain efforts to reach a permanent ceasefire in the war between Iran and the United States.",
+          "id": "global-3",
+          "neutralHeadline": "U.S. Army Helicopter Crashes Near Strait Of Hormuz",
+          "neutralSummary": "President Donald Trump says the pilots are \"fine.\"",
           "versions": [
             {
               "political": "left",
@@ -108,197 +92,17 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Israel Says It Has Struck Iran As It Takes Missile Fire",
-              "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_6a262057e4b022a41ab30047"
+              "headline": "U.S. Army Helicopter Crashes Near Strait Of Hormuz",
+              "url": "https://www.huffpost.com/entry/us-army-helicopter-crash-strait-hormuz_n_6a279df9e4b0d7105b0ce296"
             },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Israel kills 14 in southern Lebanon after trading fire with Iran",
-              "url": "https://www.aljazeera.com/news/2026/6/9/israel-kills-14-in-southern-lebanon-after-trading-fire-with-iran?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Chinese Leader Xi Jinping Will Travel To North Korea Next Week In First Visit Since 2019",
-          "neutralSummary": "His trip will be the latest in a series of steps by China to reinforce its close ties with its nuclear-armed neighbor.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Chinese Leader Xi Jinping Will Travel To North Korea Next Week In First Visit Since 2019",
-              "url": "https://www.huffpost.com/entry/xi-jinping-to-visit-north-korea_n_6a228cebe4b0a18aef0b63b5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Chinese president visits North Korea for the first time in 7 years",
-              "url": "https://www.npr.org/2026/06/08/nx-s1-5847691/chinese-president-visits-north-korea-for-the-first-time-in-7-years"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-          "neutralSummary": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
-          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-              "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Iran war live: Trump warns Netanyahu as Israel, Tehran halt fighting",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/6/9/iran-war-live-trump-warns-netanyahu-as-israel-tehran-halt?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-          "neutralSummary": "The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-              "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "New York City crowd boos US President Donald Trump at NBA playoff game",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/new-york-city-crowd-boos-us-president-donald-trump-at-nba-playoff-game?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Pentagon labels tech giant Alibaba and car maker BYD as aiding Chinese military",
-          "neutralSummary": "The Pentagon has added several prominent Chinese businesses to its list of Chinese military companies. The move prevents them from securing U.S. defense contracts.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Pentagon labels tech giant Alibaba and car maker BYD as aiding Chinese military",
-              "url": "https://www.npr.org/2026/06/09/g-s1-126961/pentagon-labels-alibaba-and-byd-as-aiding-chinese-military"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "US lists China’s BYD, Alibaba, Baidu as ‘Chinese military companies’",
-              "url": "https://www.aljazeera.com/economy/2026/6/9/us-lists-chinas-byd-alibaba-baidu-as-chinese-military-companies?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Trump’s $100,000 H-1B Visa Fee Rejected by Judge",
-          "neutralSummary": "A federal judge struck down a $100,000 fee President Donald Trump ordered for H-1B visa applications, providing a reprieve for US technology companies that rely on hiring skilled foreign workers. Bloomberg's Sankalp Phartiyal breaks down the developments. (Source: Bloomberg)",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Federal judge strikes down Trump's $100,000 fee on new H-1B visas",
-              "url": "https://www.npr.org/2026/06/09/nx-s1-5851474/federal-judge-fee-h1b-visa"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Trump’s $100,000 H-1B Visa Fee Rejected by Judge",
-              "url": "https://www.bloomberg.com/news/videos/2026-06-09/trump-s-100-000-h-1b-visa-fee-rejected-by-judge-video"
-            }
-          ]
-        }
-      ]
-    },
-    "us": {
-      "name": "United States",
-      "stories": [
-        {
-          "id": "us-1",
-          "neutralHeadline": "Who is Nithya Raman, Los Angeles mayoral candidate who knocked out Spencer Pratt",
-          "neutralSummary": "Los Angeles Councilmember Nithya Raman (D) is set to battle Los Angeles Mayor Karen Bass (D) in the city’s mayoral race later this year, a race that is likely to feature intraparty tension amid a broader discussion about the future of the Democratic Party. According to Decision Desk HQ, Bass was sit",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Nithya Raman Secures Second LA Mayor Spot, Ending Spencer Pratt’s Run",
-              "url": "https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Who is Nithya Raman, Los Angeles mayoral candidate who knocked out Spencer Pratt",
-              "url": "https://thehill.com/homenews/campaign/5915716-los-angeles-mayoral-race-raman-bass/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Spencer Pratt loses LA mayor’s race as Nithya Raman surges through to runoff after massive dump of ballots",
-              "url": "https://nypost.com/2026/06/08/us-news/nithya-raman-widens-lead-over-spencer-pratt-in-la-mayor-race/"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Crew Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz",
-          "neutralSummary": "It was not immediately clear what led to the incident, which came at a time when the cease-fire in the war has grown tenuous.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Crew Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz",
-              "url": "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html"
+              "headline": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+              "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -312,18 +116,27 @@
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "Netanyahu called off major Iran strike after Trump warned Israel would be on its own — reports",
-          "neutralSummary": "Netanyahu called off major Iran strike after Trump warned Israel would be on its own — reports&nbsp;&nbsp;The Times of IsraelLive Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire&nbsp;&nbsp;The New York TimesIran-Israel strikes halted after Trump intervention; Israel repo",
+          "id": "global-4",
+          "neutralHeadline": "ICC chief prosecutor suspended after probe finds he committed serious sexual misconduct",
+          "neutralSummary": "ICC chief prosecutor suspended after probe finds he committed serious sexual misconduct&nbsp;&nbsp;The Times of IsraelICC suspends top prosecutor after investigating misconduct allegations&nbsp;&nbsp;BBCA sexual misconduct probe against ICC's chief prosecutor says he engaged in 'serious misconduct'&",
           "versions": [
             {
               "political": "left",
-              "tone": "optimistic",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Netanyahu Called Off Iran Strikes After Trump Claimed Progress in Nuclear Talks, Officials Say",
-              "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-netanyahu-iran-call.html"
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "ICC Chief Prosecutor Suspended Over Sexual Misconduct Allegations Pending Decision By Oversight Body",
+              "url": "https://www.huffpost.com/entry/icc-chief-prosecutor-suspended_n_6a2743c6e4b0c0ad13996b6a"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "ICC suspends top prosecutor after investigating misconduct allegations",
+              "url": "https://www.bbc.com/news/articles/c77yx53015no?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
@@ -331,92 +144,40 @@
               "source": "The Times of Israel",
               "initials": "TT",
               "domain": "news.google.com",
-              "headline": "Netanyahu called off major Iran strike after Trump warned Israel would be on its own — reports",
-              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY2d1ZTQ0Z19EZ3NXT1hzV2R3STFTOVZqYTItT1BtSHFXazJCMXJEM1VuZDhCa1JHOTJQdjE0LVVyNUNIbTNTdEVxZDNCaUhIMnlDTTF2bTJaUFNyeTFISkJwZmo2T0lMTWRucmxVMDNxdmk5VzB3bHFJdGlMR3E5U2V0NHFsN21aaTl3Tm1TckNsd095M241bGNXVHJNaVAyVHZHYXk2Y1VjZUg1clRKZ0hpbzliSWfSAbwBQVVfeXFMT2Z5WkpTUXdYN2VPOEhZOGR4VXc3WVQ1THJ5SlktRjJ3TXlMX002aE01VE5rZElWb3piOERWbGJ6WWpybl95VzVBTmhNcEQ3SWxIRzBfenQwQTMyOHliNTJabDhyTWZGRDduYUZTclFhX1ZaNUxmZm1qQTk1V19YTTN4ekVuSTFpd3hkamFPMlVVWmRHUHdSSU44MFlyN2Vmc25ZdHdoYzlMdUxfR2dTRGM4SFYzZWhTZFdPWTQ?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Netanyahu defies Trump as Iran, Lebanon drive wedge",
-              "url": "https://thehill.com/policy/international/5915570-israel-defies-trump-iran-strike/"
+              "headline": "ICC chief prosecutor suspended after probe finds he committed serious sexual misconduct",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUg3YmQ2TEdPb1VBMHE4dEJtNzU0dUFDOUdycGJrb3BNQThXbEJDY3RvRS02M0pHcXQ0T29ZODB4NVl0UDlraEk5RjFlVlVONy0zbjFZdExVdFI3ZnJJc1ZfLU5JU00wV2ZOWlZTT19BOVhSQ2MtQWY5NXRtSDZ1Qmc2VDBwdVg1U3JsUmpxU1B3N2ZJdHVDd2R0Z0ppTDZOdkVyX21SZWs3UHFGLXBzbnZ0T19lMm9CT1HSAb8BQVVfeXFMT1JTZXFJN1ZxUTA4YU94VjJlMWRYTktHdEdEb3VNNWNBY2RzRno1S0tUOTh5WmM5cDkwbGdsbjYxd3pMR0dwWXUxelBTVzRSemtoUFNGN1lKeVBOczY2UlpPVksyX01HMzFJX2RkQTJmTF9UWWxJSXRCTkpvNHJiQWFYWDB4aHo1Z0l0aVZ1eFVYRmg1RTN3UGowdUh1Wkw2c1BWMkp4WDZaUDZqMHJwcnJzX2ltNlRwN3ZnamdrcDg?oc=5"
             }
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "OpenAI files to go public as IPO race heats up",
-          "neutralSummary": "OpenAI has confidentially filed paperwork to go public, the company announced Monday. It is one of three leading AI companies preparing for an initial public offering (IPO), alongside SpaceX and Anthropic, which have both filed with the Securities and Exchange Commission (SEC) in recent months. The",
+          "id": "global-5",
+          "neutralHeadline": "Japanese city captures bear that caused fear and school closures",
+          "neutralSummary": "Japanese city captures bear that caused fear and school closures&nbsp;&nbsp;AP NewsJapanese city suspends 94 schools after first-ever bear sighting&nbsp;&nbsp;ReutersBlack bear caught in Japan after days of sightings&nbsp;&nbsp;BBCJapanese city closes nearly 100 schools after bear sightings as post-",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Japanese city shuts down nearly 100 schools after unprecedented bear sighting",
+              "url": "https://www.theguardian.com/world/2026/jun/08/utsunomiya-city-japan-bear-sighting-all-primary-secondary-schools-shut"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "AP",
+              "initials": "AP",
               "domain": "news.google.com",
-              "headline": "OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90QWIzaHhCR2xlRVVmWEZyWWNrMXkyOUtCZFJJN2dSOHp0ZWtLdkg1dGdIdU9rVEtVMG5ZeGVVRFZIemFLalZhSnQySFE0VnM4VmNmSEY3eHB1aXl6SmRpQ01QLWw4ZUdKV2h4bXpn?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "OpenAI files to go public as IPO race heats up",
-              "url": "https://thehill.com/business/5915457-openai-ipo-sec-filing/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "OpenAI confidentially files paperwork for IPO",
-              "url": "https://www.washingtonexaminer.com/policy/technology/4599960/openai-confidential-file-paperwork-ipo/"
+              "headline": "Japanese city captures bear that caused fear and school closures",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYWhySUFqNXBuZmZwV0JUbWVxelJkd1d0dGxlZ19RVkJ6XzIxR2hLU0toenh6WGp1Vk5scDJKLUZvczhkTnRnZ2Q5NGhVTUpNOHBwcmVlLWhFbF92QkRobG85Q015bmFLRDlOQlhKWnphYkUyOS1kdmxPX1FhSVZpQnBfRjVoNjE0VWpSQm9GZG5iTGc?oc=5"
             }
           ]
         },
         {
-          "id": "us-5",
-          "neutralHeadline": "Platner says he won’t be an ‘a–hole’ like Fetterman in Senate",
-          "neutralSummary": "Maine Democratic Senate candidate Graham Platner went after Sen. John Fetterman (D-Pa.) on Sunday during a town hall, calling the Pennsylvania senator “an a&#8211;hole.” “The Senate really is a place of — it&#8217;s a lot about relationships, and &#8230; I don&#8217;t want to go down there and simpl",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Platner says he won’t be an ‘a–hole’ like Fetterman in Senate",
-              "url": "https://thehill.com/homenews/campaign/5915534-maine-senate-race-platner-fetterman/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Platner calls Fetterman ‘a--hole’ at town hall as Democratic feud heats up",
-              "url": "https://www.foxnews.com/politics/platner-calls-fetterman-a-hole-town-hall-democratic-feud-heats-up"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Platner vows not to be ‘a**hole’ like Fetterman if elected to Senate",
-              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4600015/graham-platner-john-fetterman-asshole-senate/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Susie Wiles on reported White House departure: ‘I am not going anywhere’",
-          "neutralSummary": "Susie Wiles, President Trump’s chief of staff, denied that she will soon leave the White House in response to the Daily Mail reporting on Friday that she is departing after the midterms. “After an accomplishment filled week by President Trump, I have the pleasure of reading a piece of Friday fiction",
+          "id": "global-6",
+          "neutralHeadline": "A 7.8 magnitude quake in the Philippines kills at least 35, collapses buildings and triggers tsunami",
+          "neutralSummary": "A 7.8 magnitude quake in the Philippines kills at least 35, collapses buildings and triggers tsunami&nbsp;&nbsp;PBSHundreds of aftershocks jolt Philippines as officials say death toll could rise&nbsp;&nbsp;BBCFast-Food Restaurant Collapses in Deadly Philippines Quake&nbsp;&nbsp;YahooDozens killed af",
           "versions": [
             {
               "political": "left",
@@ -424,49 +185,95 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Susie Wiles Addresses Report She's About To Quit Donald Trump's White House",
-              "url": "https://www.huffpost.com/entry/susie-wiles-addresses-report-leaving-donald-trump_n_6a266a89e4b0a2296d1b5748"
+              "headline": "7.8 Magnitude Quake In The Philippines Kills At Least 32, Collapses Buildings And Sparks Tsunami",
+              "url": "https://www.huffpost.com/entry/philippines-earthquake_n_6a267cc1e4b009b22c867555"
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Susie Wiles on reported White House departure: ‘I am not going anywhere’",
-              "url": "https://thehill.com/homenews/administration/5915316-susie-wiles-denies-white-house-exit/"
+              "tone": "pessimistic",
+              "source": "PBS",
+              "initials": "P",
+              "domain": "news.google.com",
+              "headline": "A 7.8 magnitude quake in the Philippines kills at least 35, collapses buildings and triggers tsunami",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWZxR3F1RDN6cXRGOUpPMjh0MjVDQ1g5MFAtY2wtT1FYczRCTklta1RvWXZwZnlYSGZHM1JGUFg0bFpFMnVNd1VQRmV6a3VjZ3lySGRla0dhaXBvVDNSYzFSR2tfVno2dllWU192WWRYc2NSVnlqUVBTSkhvOU1GN0M1Ukt4WU9la0RGM3lWT3JJOTRXZ2xzdnIxc0FvWV9Kc28tQ2plU1Mxbk1oMnVmbEVhM1IycVVmUWFyZzNON1lQY3MtdWhRbVJFS19uT0nSAdQBQVVfeXFMT05UZGhTMzkzUlpVUjd1cGxYTU53aUNyaXJCSi1vVzlPMWNERFp2cnhNNDMwOEtIbHNFSDV6Z1JDQ3hsWU5BaXpzZmRlbEhwUDdsVm9VUEVGM2FsdU0wSlh4NHBHV1NZREZJQ2J2Z0xxMHR5T1dYbk8xY3dDUWRwTHk5aWlsWHpwcG9BRE1ENHZ5bE10U1plRl9FYlZCRE5JX0QtMlBLRWRRRkZ1YUIxbFF5ZWxrSThvVmdTNEJxSmdmcTdQMjFtUDhvZUFmMHVyTjNDcWQ?oc=5"
             }
           ]
         },
         {
-          "id": "us-7",
-          "neutralHeadline": "Former Knicks star and Sen. Bill Bradley says Trump is \"second fiddle\" for fans at NBA Finals Game 3",
-          "neutralSummary": "Former Knicks star and Sen. Bill Bradley says Trump is \"second fiddle\" for fans at NBA Finals Game 3&nbsp;&nbsp;CBS NewsTrump booed before Knicks lose to Spurs at Madison Square Garden in NBA Finals Game 3&nbsp;&nbsp;CNBCDonald Trump booed by Madison Square Garden crowd at Knicks-Spurs NBA Finals ga",
+          "id": "global-7",
+          "neutralHeadline": "Middle East: Israel strikes Lebanon despite Iran warning",
+          "neutralSummary": "Middle East: Israel strikes Lebanon despite Iran warning&nbsp;&nbsp;dw.comLive updates: Iran war news, Israel strikes on Lebanon&nbsp;&nbsp;CNNIsraeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks&nbsp;&nbsp;BBCIran War Live Updates: Israel Strikes Southern Lebanon Af",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Israel And Iran Trade Strikes, Threatening To Drag Region Back To Full-Scale War",
+              "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_6a262057e4b022a41ab30047"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "dw.com",
+              "initials": "D",
+              "domain": "news.google.com",
+              "headline": "Middle East: Israel strikes Lebanon despite Iran warning",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkhBd2JCeWR3UzUzMjhTaG4tNVU0RzhBZWNfUldIT2VqOGwxUGNyMTVkSkRIdWxzWV9NRkdKb2Utdmw0ZmpheWlVR3FRWDFWbUl4V3dOUng2SXlPZlVGVkNHSHhCN0hDVEk3WC1RQ2FnbFNnRnVoYXNZeGNyNzNGSnZ6Q3c5YjJhOEJlM25WRHRteGJlRXc?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "World Cup tickets for Iran fans revoked days before tournament, says country's federation",
+          "neutralSummary": "Iran's allocation of fan tickets for the group stage of the World Cup has been revoked just days before the start of the tournament, the country's football federation said Tuesday, in the latest controversy surrounding the Iranian squad as it prepares to play its group matches on US soil.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Knicks Fans Fear Trump Is Ruining 'The Vibe' With Plans To Attend The NBA Finals",
-              "url": "https://www.huffpost.com/entry/knicks-fans-react-trump-plans-attend-nba-finals-game-3-msg_n_6a254d60e4b05951fb60f755"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Tickets for Iran fans revoked, says federation",
+              "url": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Former Knicks star and Sen. Bill Bradley says Trump is \"second fiddle\" for fans at NBA Finals Game 3",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcFdJTU9EZTFrLTAyWnNiV24weUZySE5PUi1xOTE2VXN6SHczUWxPUHdvTUU2eVgteDJPRlVLODg1QVprajVlVTRxUEVSOGtSbDlIYkxjdnFqV2JodXZPVlFXdFZYOV81NENEeHd5Qk54a2tUX3JWSUJqa2xOSmwwQ2NoNnZ2MlV4bEcyaHgyRUhqYl94WkRhcDFUTQ?oc=5"
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "World Cup tickets for Iran fans revoked days before tournament, says country's federation",
+              "url": "https://www.france24.com/en/sport/20260609-world-cup-tickets-for-iran-fans-revoked-days-before-tournament-says-ffiri-federation"
             }
           ]
         },
         {
-          "id": "us-8",
-          "neutralHeadline": "Judge Throws Out Trump Administration’s Policy Imposing $100,000 Fees for H-1B Visas",
-          "neutralSummary": "The ruling voided “in its entirety” a policy from September requiring companies to pay $100,000 fees for H-1B visa petitions.",
+          "id": "global-9",
+          "neutralHeadline": "Conflicts are on the rise globally, at the highest level since WWII, data shows",
+          "neutralSummary": "Global conflicts surged to the highest number tallied by Uppsala Conflict Data Program. Fatalities were the highest on record since 1994, with approximately 244,600 people killed in conflict in 2025.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Conflicts are on the rise globally, at the highest level since WWII, data shows",
+              "url": "https://www.npr.org/2026/06/09/nx-s1-5850355/data-highest-conflicts-iran-israel-ukraine-russia-world-war-ii"
+            }
+          ]
+        }
+      ]
+    },
+    "us": {
+      "name": "United States",
+      "stories": [
+        {
+          "id": "us-1",
+          "neutralHeadline": "Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz",
+          "neutralSummary": "It was not immediately clear what led to the incident, which came at a time when the cease-fire in the war has grown tenuous.",
           "versions": [
             {
               "political": "left",
@@ -474,33 +281,35 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Judge Throws Out Trump Administration’s Policy Imposing $100,000 Fees for H-1B Visas",
-              "url": "https://www.nytimes.com/2026/06/08/us/politics/judge-visa-skilled-workers-fee-trump.html"
+              "headline": "Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz",
+              "url": "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Federal judge strikes down Trump's $100,000 fee on new H-1B visas",
-              "url": "https://www.npr.org/2026/06/09/nx-s1-5851474/federal-judge-fee-h1b-visa"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "A flesh-eating cattle parasite spreads beyond Texas as new screwworm cases are found",
-          "neutralSummary": "A flesh-eating cattle parasite spreads beyond Texas as new screwworm cases are found&nbsp;&nbsp;AP NewsConfirmed Detections of New World Screwworm&nbsp;&nbsp;aphis.usda.govUSDA Secretary Rollins calls Texas ag chief 'unserious' amid screwworm threat&nbsp;&nbsp;CNBCGovernor Abbott activates Emergency",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
+              "source": "BBC",
+              "initials": "BBC",
               "domain": "news.google.com",
-              "headline": "A flesh-eating cattle parasite spreads beyond Texas as new screwworm cases are found",
-              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVUFSVXdhNjZWUEVreGxwSVZteWlBbEQtak84S1V3X1NGMVVFa2pBOFJzWW1MWWtmQlppUnlodnlVTVZOMzQ4SFh6OE1DWTlHOEVhRXIwTjRRd1loU25BTEFlMXFFbHE4MFBTWDgwLVhuYk1UWldKQTlPZURpVmo4MEd0MlBPbzY3QWtmR3dXbkxGMHJieHNuRmIzd2xkWE9tdHRHQVpDTQ?oc=5"
+              "headline": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VZ01BV1JiemZqQkVaMzJyck1namFDSGx3WmN5b2pQR1UwX0hqcV8zMFk4WTZOYlB5RHowSERtRTUtNWcwUjdUNWpjVFF5NzRGM05ybnVxNjZMZw?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "US Army helicopter goes down, but President Donald Trump says 'pilots are fine'",
+              "url": "https://www.foxnews.com/politics/us-army-helicopter-goes-president-donald-trump-says-pilots-fine"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "US naval drone rescued two pilots after helicopter crash near Strait of Hormuz",
+              "url": "https://www.washingtonexaminer.com/policy/defense/4600390/naval-drone-rescues-pilots-helicopter-crash-strait-of-hormuz/"
             },
             {
               "political": "right",
@@ -508,8 +317,190 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Trump Admin Declares ‘War On Screwworm’ To Contain Flesh-Eating Parasite",
-              "url": "https://www.dailywire.com/news/trump-admin-declares-war-on-screwworm-to-contain-flesh-eating-parasite"
+              "headline": "U.S. Forces Jump Into Action After Army Helicopter Goes Down Near Strait Of Hormuz",
+              "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "The World Cup has a Trump problem",
+          "neutralSummary": "This story appeared in&#160;The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&#160;Subscribe here. Welcome to The Logoff: The World Cup starts this week, and the Trump administration is already creating prob",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "The World Cup has a Trump problem",
+              "url": "https://www.vox.com/the-logoff-newsletter-trump/491295/fifa-world-cup-2026-trump-immigration-visas-somalia-referee"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "How Trump’s ex-campaign chief is getting his hands on World Cup fans’ data",
+              "url": "https://www.washingtonexaminer.com/news/washington-secrets/4600493/trump-ex-campaign-chief-brad-parscale-world-cup-fan-data/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Iran’s Attack on Israel Reveals New and Aggressive Regional Ambitions",
+          "neutralSummary": "Iran’s Attack on Israel Reveals New and Aggressive Regional Ambitions&nbsp;&nbsp;WSJNetanyahu’s Bow to Trump’s Iran Pressure Spurs New Criticism&nbsp;&nbsp;The New York TimesIsrael and Iran appear to pause strikes after trading fire for the first time since April ceasefire&nbsp;&nbsp;AP NewsIran ack",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "The growing US-Israel split over Iran",
+              "url": "https://www.vox.com/politics/491264/trump-netanyahu-iran-war"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "WSJ",
+              "initials": "W",
+              "domain": "news.google.com",
+              "headline": "Iran’s Attack on Israel Reveals New and Aggressive Regional Ambitions",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb090N2xPdlRHeWphNmYzNDVRUWI2ZjRkSE11WlZyRHIwSUQySXg4OVBJa3NqTmRUQWJwWEpmRkxFSVRQM0plaUlIUG5sZnQ3ZnNjZEZjTTRkSDA4dXdyYjRKNXptSFdiejRjSDQ2UlpSYTRkTlI3VjJ3Nk5DZmlhMnJRUGQ5X3lVYkwtV2oxeENVaTdXTFB1bEFQLVMxa3otUXhFSEk0UUhUblgwZDFZUjZPVEM3QQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Man attacked by alligator after allegedly fleeing DWI investigation in Louisiana",
+          "neutralSummary": "Despite his injuries, the driver allegedly continued to flee before being found again.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "After Saying See You Later to Louisiana Police, Man Is Attacked by Alligator",
+              "url": "https://www.nytimes.com/2026/06/09/us/man-attacked-alligator-louisiana.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Man attacked by alligator after allegedly fleeing DWI investigation in Louisiana",
+              "url": "https://thehill.com/homenews/state-watch/5916295-alligator-attacks-fleeing-driver/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Trump Fuels Election-Fraud Claims in California",
+          "neutralSummary": "Trump Fuels Election-Fraud Claims in California&nbsp;&nbsp;WSJTrump Previews Fall Strategy With Baseless Claims of California Vote Fraud&nbsp;&nbsp;The New York TimesPratt lost because he was a laughable candidate. Period. | Opinion&nbsp;&nbsp;USA TodayCalifornia's \"red mirage\" feeds MAGA fraud fren",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Previews Fall Strategy With Baseless Claims of California Vote Fraud",
+              "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "WSJ",
+              "initials": "W",
+              "domain": "news.google.com",
+              "headline": "Trump Fuels Election-Fraud Claims in California",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGx3VUNTSmNRNmpIM215LS1Nd0hCU3RKZDBld0VaS2VOSW5CSVRxOEFMYTlkNFlUY3VJUDV1VU1fZXNjX29fOGFNSVllWFl2N3VfU01RYlZBTUtQeVZNdmd5WTlfZEpYcVNMNW5ucHNjY2twT3I5Vjd4R0RqQll0OUU1RmoyWVM2WWhrbmpQZ3FTVE96OHpnVlRyYw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Maine's Senate race and much more. Here are the primary contests to watch today",
+          "neutralSummary": "Republican incumbents are facing tough challenges in Maine and Nevada. In South Carolina, a crowded field of MAGA-devoted Republicans are facing off to be the next governor.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Maine's Senate race and much more. Here are the primary contests to watch today",
+              "url": "https://www.npr.org/2026/06/09/nx-s1-5850231/maine-nevada-south-carolina-primary-trump"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Conflicts are on the rise globally, at the highest level since WWII, data shows",
+          "neutralSummary": "Global conflicts surged to the highest number tallied by Uppsala Conflict Data Program. Fatalities were the highest on record since 1994, with approximately 244,600 people killed in conflict in 2025.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Conflicts are on the rise globally, at the highest level since WWII, data shows",
+              "url": "https://www.npr.org/2026/06/09/nx-s1-5850355/data-highest-conflicts-iran-israel-ukraine-russia-world-war-ii"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "The White House is digging in on tariff refunds",
+          "neutralSummary": "The White House is digging in on tariff refunds&nbsp;&nbsp;PoliticoTariff refund tensions and new data will give tariff watchers a lot to chew on this week&nbsp;&nbsp;Yahoo FinanceAs US Customs refines its tariff refund system, who gets in to apply is under dispute&nbsp;&nbsp;AP NewsUS customs agenc",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "The White House is digging in on tariff refunds",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTTRaelNFRU1tZlVvWUdBejQyT0pkLU1GZEdob1J3ZVYtYkREYWp5Xy1nMmQzVUx0dDdMTllxa1puOFNOdkZVaGFVY3NxRmhyb2cyb2NJd29IdGxlQXZyLU9Lb0kwemJsaEhuc2o5TW92RGtJejNWWC1sbDQ5WTdJR1dDems?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "news.google.com",
+              "headline": "White House urges UK not to ban social media for under-16s",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnFDMWQxSUoxQ1FVZ2NaSXEweENoeGV2NmdJb0lPRHlIYTVqNVZFQkpNbUhVLVJNRGZpaGswWnA4bFc2QnRjT1JtZ1ZJMGQxSTlhVjNweVVsQnNLTTVqWUk4VHIwVlYtWmRlLUR5SlBKcEw3WnJrRzRkRU9Mb3R1MXFBUTlmLWtzTm52OWdFMERRMVVvNTFVLWZpUHNhNTRa?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Maine Votes as Graham Platner’s Past Poses New Conundrums",
+          "neutralSummary": "Maine Votes as Graham Platner’s Past Poses New Conundrums&nbsp;&nbsp;The New York TimesOpinion | I know firsthand why Graham Platner shouldn’t be a U.S. senator&nbsp;&nbsp;The Washington PostSome Maine Democrats are wavering on Graham Platner&nbsp;&nbsp;PoliticoGraham Platner, amid controversies, lo",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "news.google.com",
+              "headline": "Maine Votes as Graham Platner’s Past Poses New Conundrums",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPclprR0cwa2hnNHhsWDdiVW1oY0VvdWl4VVJKZi1kSVdwbFZsNUdTdDluUWFpSTlUVTdJT2FNaWdxcy0tQTk0X1U0T0NVWUhxc0RDUFhMMnhWck1MU2pwTVlYUEZHMG9HSUo1WWlhdk94ZmtUc0RmNEt4bUwzWEVfV0pkQUpuV0gzeUcyZGlrVlVrbzhrX055NXJOaVR1NHdP?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Sen Collins slams Bernie-backed Graham Platner as too far-left for Maine voters",
+              "url": "https://www.foxnews.com/politics/sen-collins-slams-bernie-backed-graham-platner-far-left-maine-voters"
             }
           ]
         }
@@ -520,31 +511,38 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Defying Trump with brief Iran fight, Israel seeks sway over peace talks",
-          "neutralSummary": "Trump, who launched the war alongside Israel in February, has been trying to reach a negotiated settlement with Iran, while excluding Israel from those talks.",
+          "neutralHeadline": "Singapore benefits from Middle East flight reroutings but only temporarily: IATA",
+          "neutralSummary": "SIA was commended for its quick response in adding more capacity to Asia-Europe routes.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Defying Trump with brief Iran fight, Israel seeks sway over peace talks",
-              "url": "https://www.channelnewsasia.com/asia/defying-trump-brief-iran-fight-israel-seeks-sway-over-peace-talks-6169516"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Iran, Israel Pledge to End Attacks That Threatened Talks",
-              "url": "https://www.bloomberg.com/news/videos/2026-06-09/iran-israel-pledge-to-end-attacks-that-threatened-talks-video"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Singapore benefits from Middle East flight reroutings but only temporarily: IATA",
+              "url": "https://www.straitstimes.com/singapore/transport/singapore-benefits-from-middle-east-flight-reroutings-but-only-temporarily-iata"
             }
           ]
         },
         {
           "id": "singapore-2",
+          "neutralHeadline": "Singapore to negotiate FTA with regional bloc of 8 East African countries",
+          "neutralSummary": "This would be Singapore's first free trade agreement with an African partner.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Singapore to negotiate FTA with regional bloc of 8 East African countries",
+              "url": "https://www.straitstimes.com/singapore/politics/singapore-to-negotiate-fta-with-regional-bloc-of-8-east-african-countries"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
           "neutralHeadline": "Pioneer Generation seniors to receive MediSave top-ups of $300 to $1,200 in July",
           "neutralSummary": "The top-ups amount to more than $145m in total for over 450,000 seniors born in 1949 or earlier.",
           "versions": [
@@ -569,41 +567,9 @@
           ]
         },
         {
-          "id": "singapore-3",
-          "neutralHeadline": "PM Wong on population, AI-enabled disinformation and whether a Cabinet reshuffle is coming",
-          "neutralSummary": "He also spoke on the US-China relationship and Singapore’s priorities for Asean chairmanship in 2027.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "PM Wong on population, AI-enabled disinformation and whether a Cabinet reshuffle is coming",
-              "url": "https://www.straitstimes.com/singapore/pm-wong-on-population-ai-enabled-disinformation-and-whether-a-cabinet-reshuffle-is-coming"
-            }
-          ]
-        },
-        {
           "id": "singapore-4",
-          "neutralHeadline": "Power-washing artist flooded with support, business inquiries after SMRT removes work in Mountbatten",
-          "neutralSummary": "The June 1 incident, which Marcus Pang posted about on Instagram on June 5, even drew the attention of MPs.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Power-washing artist flooded with support, business inquiries after SMRT removes work in Mountbatten",
-              "url": "https://www.straitstimes.com/singapore/power-washer-flooded-with-support-business-inquiries-after-smrt-removes-artwork-near-mountbatten"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Asian stocks track Wall Street tech bounce, oil eases on Middle East hope",
-          "neutralSummary": "The gains across most equity markets followed a rebound on Wall Street, fuelled by a race to pick up cheaper assets following a sell-off sparked by bets on a US interest rate hike and warnings over tech firms' valuations.",
+          "neutralHeadline": "Iran’s proxies moving towards ‘violent gig economy’, but no imminent threat to Southeast Asia: Expert",
+          "neutralSummary": "While there are no reports of Iran-linked “violent gig economy” activities in Southeast Asia, “well-to-do” societies may be more vulnerable to threats, says a counterterrorism expert at a dialogue in Singapore.",
           "versions": [
             {
               "political": "center",
@@ -611,13 +577,79 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Asian stocks track Wall Street tech bounce, oil eases on Middle East hope",
-              "url": "https://www.channelnewsasia.com/asia/asian-stocks-wall-street-tech-oil-eases-middle-east-6170346"
+              "headline": "Iran’s proxies moving towards ‘violent gig economy’, but no imminent threat to Southeast Asia: Expert",
+              "url": "https://www.channelnewsasia.com/asia/iran-proxies-violent-gig-economy-southeast-asia-counterrorism-hezbollah-hamas-6168846"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Japan city relieved as bear caught after roaming streets for days",
+          "neutralSummary": "The bear had roamed the streets of Utsunomiya for four days, forcing the closure of all primary and middle schools in the city.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Japan city relieved as bear caught after roaming streets for days",
+              "url": "https://www.channelnewsasia.com/east-asia/japan-bear-caught-utsunomiya-school-closures-6171226"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Black bear caught in Japan after days of sightings",
+              "url": "https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-6",
+          "neutralHeadline": "Malaysia’s PAS severs ties with Bersatu, throwing opposition pact PN's fate into question",
+          "neutralSummary": "Parti Islam Se-Malaysia’s president Abdul Hadi Awang said the decision took into account the state of relations between the two parties.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Malaysia’s PAS severs ties with Bersatu, throwing opposition pact PN's fate into question",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-pas-bersatu-opposition-pact-perikatan-nasional-6170511"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "China's Xi hails deeper understanding at end of North Korea summit",
+          "neutralSummary": "North Korean leader Kim Jong Un and Chinese President Xi Jinping agreed to expand cooperation in the areas of politics, economy and culture at a summit in Pyongyang that opened a new chapter in ties, KCNA said.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "China's Xi hails deeper understanding at end of North Korea summit",
+              "url": "https://www.channelnewsasia.com/east-asia/north-korea-china-summit-kim-jong-un-xi-jinping-boost-ties-6169991"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Watch: Why is China's Xi Jinping visiting North Korea?",
+              "url": "https://www.bbc.com/news/videos/c5yzje727l5o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
           "neutralHeadline": "China's Xi vows unwavering support for North Korea's Kim in rare Pyongyang visit",
           "neutralSummary": "China's Xi vows unwavering support for North Korea's Kim in rare Pyongyang visit",
           "versions": [
@@ -636,60 +668,19 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Watch: Why is China's Xi Jinping visiting North Korea?",
-              "url": "https://www.bbc.com/news/videos/c5yzje727l5o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "BN sees Johor snap polls as vehicle for 'blue wave' comeback nationwide, says chairman Zahid",
-          "neutralSummary": "Prime Minister Anwar Ibrahim had earlier warned the component parties within his Pakatan Harapan coalition against clashing with Barisan Nasional as they are still partners in the federal government.&nbsp;",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "BN sees Johor snap polls as vehicle for 'blue wave' comeback nationwide, says chairman Zahid",
-              "url": "https://www.channelnewsasia.com/asia/johor-state-election-barisan-nasional-blue-wave-anwar-ibrahim-6168541"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "As it happened: Magnitude 7.8 earthquake strikes southern Philippines, triggering tsunami warnings",
-          "neutralSummary": "Authorities ordered evacuations in coastal areas of the Philippines and Indonesia after the quake struck near Mindanao, while Japan and Malaysia also issued tsunami advisories.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "As it happened: Magnitude 7.8 earthquake strikes southern Philippines, triggering tsunami warnings",
-              "url": "https://www.channelnewsasia.com/asia/live-philippines-mindanao-earthquake-tsunami-6168141"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "At least 35 dead after major earthquake strikes southern Philippines",
-              "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss"
+              "headline": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
+              "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-9",
           "neutralHeadline": "Xi Jinping arrives in a North Korea armed with advanced warships and AI drones",
-          "neutralSummary": "Xi Jinping arrives in a North Korea armed with advanced warships and AI drones&nbsp;&nbsp;South China Morning PostNorth Korean and Chinese leaders agree to boost ties at Pyongyang summit&nbsp;&nbsp;CNANorth Korea needs China for survival: Why does Beijing need Pyongyang?&nbsp;&nbsp;Al JazeeraXi Pled",
+          "neutralSummary": "Xi Jinping arrives in a North Korea armed with advanced warships and AI drones&nbsp;&nbsp;South China Morning PostAnalysis: Why China’s Xi wants a ‘brighter’ future with North Korea&nbsp;&nbsp;CNNXi Jinping and Kim Jong Un vow stronger ties in North Korea visit&nbsp;&nbsp;BBCXi Jinping’s visit to No",
           "versions": [
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "optimistic",
               "source": "South China Morning Post",
               "initials": "SC",
               "domain": "news.google.com",
@@ -714,76 +705,51 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "US army Apache gunship goes down near Strait of Hormuz: Report",
-          "neutralSummary": "A US military Apache helicopter went down near the Strait of Hormuz on Tuesday amidst escalating tensions with Iran. The incident occurred following a significant military campaign launched by Donald Trump's administration against the Iranian regime. The exact cause of the crash, whether enemy actio",
+          "neutralHeadline": "Setback for Congress: Meenakshi Natarajan's Rajya Sabha nomination rejected",
+          "neutralSummary": "Meenakshi Natarajan, a Congress Rajya Sabha candidate from Madhya Pradesh, had her nomination rejected due to alleged concealment of a pending criminal case in Telangana from her affidavit. BJP candidate Mahesh Kewat filed the complaint, citing Supreme Court guidelines. Congress countered, stating a",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "US Iran War Live: Crew Rescued After US Helicopter Goes Down Near Hormuz",
-              "url": "https://www.ndtv.com/world-news/us-iran-war-live-updates-israel-iran-trade-attacks-trump-says-i-call-the-shots-11605112#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "US army Apache gunship goes down near Strait of Hormuz: Report",
-              "url": "https://timesofindia.indiatimes.com/world/middle-east/us-army-apache-gunship-goes-down-near-strait-of-hormuz-report/articleshow/131601258.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "US Army Apache helicopter crashes near Hormuz",
-              "url": "https://economictimes.indiatimes.com/news/defence/us-army-apache-helicopter-crashes-near-strait-of-hormuz-report/articleshow/131601096.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "US court strikes down Trump's ‘unlawful’ $100,000 fee for H-1B visa. What it means for Indians?",
-          "neutralSummary": "In September last year, US President Donald Trump hiked the fee for the application of H-1B visa to a whopping $100,000.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "US court strikes down Trump's ‘unlawful’ $100,000 fee for H-1B visa. What it means for Indians?",
-              "url": "https://www.hindustantimes.com/india-news/us-court-strikes-down-trumps-unlawful-100-000-fee-for-h-1b-visa-what-it-means-for-indians-101780975862574.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Trump’s $100k H-1B visa fee ruled unlawful",
-              "url": "https://economictimes.indiatimes.com/nri/latest-updates/trumps-100000-h-1b-visa-fee-is-unlawful-us-judge-rules/articleshow/131593494.cms"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "The Hindu",
               "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Indian diaspora groups welcome court ruling striking down $100,000 H-1B visa fee",
-              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNTFvejVqY2hNWlN1VUFvRU5uOEFrbWhGRWtmRGZOdkxwSnFkU09fTUJJU1FhcmVJWkdFWlVNOGZtQm8wS1VmY0ItcHZpR1dYY3BaaU9kN2tZUWNqVTd4REFoVDlWT2JoLVlhcE5BSmdtaEdJX1BpMndYYkEtaGZGc05VMVVRRFlGWGNBN1JmWVRjczlWWm10blFYakhSMlVJLWRYTWJpNzVSUS03NEh2SEc3Y2VxMTJhdUExY1VzSlhMTHN3dGZFdTdWU2J2VmN5SVNB0gHaAUFVX3lxTE03by12djhlMzg2YzNJRjdBLTlTMlVkZ0lrV3F3ODg2ZFhQbC1HTENhMWpYRUh4LTh6bWtTcDlMWnZmcTJUdmZIVGdaRFZKVTNfemVvbnZ4ODQ0UFpTd2xub25oUXVUYTFqU1pvQUgxcmVId0hBY1poeWR0cUVlanRWaV9EUU9sVzdlczdkLURMMGFIZDJfVnMzSDNNamIxdWp2elFLUHlQcG5BNzA4RjllX1pESGVqbll3elNGTnYzWHcxM0FXSmVoMUw5Mk4tVlRIUnlaemwzQ3Vn?oc=5"
+              "domain": "thehindu.com",
+              "headline": "Rajya Sabha polls: Congress candidate from Madhya Pradesh Meenakshi Natarajan’s nomination rejected",
+              "url": "https://www.thehindu.com/news/national/rajya-sabha-election-meenakshi-natarajan-congress-candidate-madhya-pradesh-nomination-rejected/article71081481.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Rajya Sabha Pick Meenakshi Natarajan's Nomination Junked, Congress Protests",
+              "url": "https://www.ndtv.com/india-news/meenakshi-natarajan-madhya-pradesh-kc-venugopal-rajya-sabha-pick-meenakshi-natarajans-nomination-junked-congress-protests-11613472#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Setback for Congress: Meenakshi Natarajan's Rajya Sabha nomination rejected",
+              "url": "https://timesofindia.indiatimes.com/india/setback-for-congress-rajya-sabha-nominee-meenakshi-natarajans-nomination-rejected-for-hiding-information-about-case/articleshow/131612648.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Huge row after Congress candidate Meenakshi Natarajan's RS nomination rejected in Madhya Pradesh",
+              "url": "https://www.hindustantimes.com/india-news/meenakshi-natarajan-s-rajya-sabha-nomination-rejected-over-alleged-concealment-of-case-details-101781015572301.html"
             }
           ]
         },
         {
-          "id": "india-3",
-          "neutralHeadline": "Wedding turns into tragedy in Uttarakhand as bride's father dies of heart attack after dowry dispute",
-          "neutralSummary": "Angry relatives of the bride, joined by locals, held the groom and several wedding guests hostage and assaulted them.",
+          "id": "india-2",
+          "neutralHeadline": "India's nuclear weapons spending rose in 2025: How does it compare with China and Pakistan?",
+          "neutralSummary": "Global spending on nuclear weapons hit an all-time high of nearly $119 billion in 2025, a 19% increase, fueling concerns of a new arms race. China is identified as the fastest-growing nuclear power, while major nations are modernizing arsenals and increasing deployable warheads despite declining sto",
           "versions": [
             {
               "political": "left",
@@ -791,74 +757,108 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Woman's Father Dies Of Heart Attack Amid Dowry Dispute In Uttarakhand: Cops",
-              "url": "https://www.ndtv.com/india-news/womans-father-dies-of-heart-attack-amid-dowry-dispute-in-uttarakhand-cops-11610267#publisher=newsstand"
+              "headline": "India Adds More Nuclear Warheads: Where Do Pakistan, China Stand?",
+              "url": "https://www.ndtv.com/world-news/india-adds-more-nuclear-warheads-where-do-pakistan-china-stand-11613481#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Wedding turns into tragedy in Uttarakhand as bride's father dies of heart attack after dowry dispute",
-              "url": "https://www.hindustantimes.com/india-news/wedding-turns-into-tragedy-in-uttarakhand-as-brides-father-dies-of-heart-attack-after-dowry-mehr-amount-dispute-101780983273167.html"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "India's nuclear weapons spending rose in 2025: How does it compare with China and Pakistan?",
+              "url": "https://timesofindia.indiatimes.com/defence/international/indias-nuclear-weapons-spending-rose-in-2025-how-does-it-compare-with-china-and-pakistan/articleshow/131600056.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Tribune",
+              "initials": "TT",
+              "domain": "news.google.com",
+              "headline": "India, Pakistan developing new nuclear weapon delivery systems: Report",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0dwNTJjbXlidlYzcmM3RlRrbms2YW9Yb2x5b29lTGZWVUpvOFc2all1aGxOTUVNN3pzMjFqdVZOdWZRS3dXYXVyLU12X2lNS1ZMRU9UejNfSld6cmJVOEVyb3hJT3piU01EdGdSMURXdmRmX3dfWTdnSDZLRmEyR2Z5TXl0VXFBWTQ0RU9pYzJXTk1XYm10NUw1RDNUTVVWcmxGM1NKQ0k3aXdneGc?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Protests, Poverty And Power: The Story Of Pakistan-Occupied Kashmir",
+          "neutralSummary": "Security personnel patrol a street in PoK on June 8, 2026 on the eve of JAAC's anticipated rally.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Protests, Poverty And Power: The Story Of Pakistan-Occupied Kashmir",
+              "url": "https://www.ndtv.com/world-news/pok-protests-poverty-and-power-the-story-of-pakistan-occupied-kashmir-11612957#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "Deadly protests in Pakistan-administered Kashmir: What’s going on?",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT01nWXRwZnU0SUtwNXhPR3VTR0dFN1k1Xzg1ZkxXSlpjeUZQWXVjNzh6LWh0REIzVVFqOV9mMmMzSDhzRmdvemljMmRwUkpISGhqbDJMYzlBZElxS040M1YwUkpCMDQxY2dVRlFKYzBBXzNsZklnRHpuQjNwWHdSWWNJNUt3U2tnX0JaczRNd2piNDJ2MnN2WC05c0JiWTMwRkY0TFpB0gGrAUFVX3lxTFBSbTRkVHRWMWliWUFWRlpTWFBiSWhGc1pJdTd1UVdhaFgyTU5CSUhtSUdYZjh0cmZ4LVQzRlk4TkU4TXQxcG50X2dtVUFDY2c4bkplcWJienh1bjlLMXg3OU05MVZrc0RhRjlRSTc1RVA1bThrZ3A1LXVlZktjeE9hR2dmeTFJUHR1bjJBN2d1TlA3VS1vUi1oVTJCYklhWUszblpWYldhajQ4aw?oc=5"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "SpiceJet's cash crunch deepens: Many pilots unpaid since March, airline seeks emergency loan",
-          "neutralSummary": "SpiceJet pilots and employees are still awaiting salaries owed since March, as the airline seeks an emergency government-backed loan. Internal messages reveal significant financial strain, with employees struggling to manage daily expenses. The airline acknowledges payment delays, attributing them t",
+          "neutralHeadline": "CID searches Mamata’s home on Kolkata in ‘forgery’ case as she meets Sonia Gandhi in Delhi for her future",
+          "neutralSummary": "Mamata Banerjee is fighting to control the TMC after a series of defections and rebellions rocked the party in the weeks following its electoral defeat.",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "SpiceJet's cash crunch deepens: Many pilots unpaid since March, airline seeks emergency loan",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/spicejets-cash-crunch-deepens-many-pilots-unpaid-since-march-airline-seeks-emergency-loan/articleshow/131602595.cms"
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Amid CID searches and TMC rebellion, Mamata meets Sonia in Delhi",
+              "url": "https://indianexpress.com/article/india/mamata-banerjee-meet-sonia-gandhi-delhi-cid-search-tmc-rebellion-10731923/"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "SpiceJet funding crunch delays pilots' pay",
-              "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/spicejet-funding-crunch-delays-pilot-pay-messages-show-as-it-seeks-state-backed-loan/articleshow/131602212.cms"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "CID searches Mamata’s home on Kolkata in ‘forgery’ case as she meets Sonia Gandhi in Delhi for her future",
+              "url": "https://www.hindustantimes.com/india-news/cid-searches-mamata-banerjee-s-home-and-tmc-headquarters-over-forged-signature-row-abhishek-banerjee-sonia-gandhi-delhi-101781005920635.html"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Trump’s $100K H-1B visa application fee declared illegal; what Federal judge order says",
-          "neutralSummary": "A federal judge has blocked a $100,000 fee for new H-1B visa applications imposed by the Trump administration. The judge ruled the fee was an unlawful tax exceeding presidential authority, siding with California and 19 other states. This decision prevents the fee from impacting businesses and potent",
+          "neutralHeadline": "Operation Blue Star a ‘black day’: Maharashtra minister Girish Mahajan's remark triggers row",
+          "neutralSummary": "Maharashtra minister's remarks gained swift pushback from the Congress who accused BJP of raising the Khalistan issue ahead of Punjab polls",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Trump’s $100K H-1B visa application fee declared illegal; what Federal judge order says",
-              "url": "https://timesofindia.indiatimes.com/technology/tech-news/donald-trumps-100000-h-1b-visa-application-fee-declared-illegal-heres-what-complete-court-order-by-federal-judge-says/articleshow/131600226.cms"
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Congress, Sena (UBT) seek Girish Mahajan’s removal over Operation Blue Star remarks",
+              "url": "https://indianexpress.com/article/cities/mumbai/girish-mahajan-operation-blue-star-row-congress-sena-ubt-removal-demand-10731906/"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Trump’s $100,000 H-1B Visa Fee Rejected by Judge",
-              "url": "https://www.bloomberg.com/news/videos/2026-06-09/trump-s-100-000-h-1b-visa-fee-rejected-by-judge-video"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Operation Blue Star a ‘black day’: Maharashtra minister Girish Mahajan's remark triggers row",
+              "url": "https://www.hindustantimes.com/india-news/operation-blue-star-a-black-day-maharashtra-bjp-minister-triggers-row-101781001311335.html"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "'Organised factory of hate': India tears into Pakistan's 'Fitna al Hindustan' campaign at UN",
-          "neutralSummary": "India has strongly condemned Pakistan's alleged state-sponsored propaganda campaign at the United Nations, accusing Islamabad of labeling militant groups as 'Fitna al Hindustan' to deflect blame.  New Delhi highlighted Pakistan's internal challenges and military's influence, while also holding it re",
+          "neutralHeadline": "ATF price stabilisation plan: Jet fuel prices rise 10% as oil retailers roll out scheme",
+          "neutralSummary": "Aviation turbine fuel prices rose by 10% as a government-backed price stabilization scheme locks in rates for airlines at Rs 115 per litre for up to three years. This voluntary scheme aims to shield carriers from global oil price volatility, with the government providing interest-free advances to oi",
           "versions": [
             {
               "political": "center",
@@ -866,83 +866,65 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "'Organised factory of hate': India tears into Pakistan's 'Fitna al Hindustan' campaign at UN",
-              "url": "https://timesofindia.indiatimes.com/india/organised-factory-of-hate-india-tears-into-pakistans-fitna-al-hindustan-campaign-at-un/articleshow/131600575.cms"
+              "headline": "ATF price stabilisation plan: Jet fuel prices rise 10% as oil retailers roll out scheme",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/atf-price-stabilisation-plan-jet-fuel-prices-rise-10-as-government-rolls-out-scheme/articleshow/131614107.cms"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "‘Organised factory of hate’: India blasts Pakistan at UN over ‘Fitna al-Hindustan’ designation to groups",
-              "url": "https://www.hindustantimes.com/india-news/organised-factory-of-hate-india-blasts-pakistan-at-un-over-fitna-al-hindustan-designation-to-groups-101780972978978.html"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Inflation Pressures Rise in Asia Despite Fuel Price Caps",
+              "url": "https://www.bloomberg.com/news/videos/2026-06-09/inflation-pressures-rise-in-asia-despite-fuel-price-caps-video"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "From Mamata loyalist to rebel camp leader: Kakoli Ghosh Dastidar's journey",
-          "neutralSummary": "Kakoli Ghosh Dastidar is now spearheading a breakaway group that claims the support of a large section of TMC MPs in the Lok Sabha.",
+          "neutralHeadline": "UDF has failed to honour promises it made to come to power, says K. Surendran",
+          "neutralSummary": "The Congress and the LDF are two sides of the same coin in terms of deceiving the people, he says",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "From Mamata loyalist to rebel camp leader: Kakoli Ghosh Dastidar's journey",
-              "url": "https://www.hindustantimes.com/india-news/kakoli-ghosh-dastidar-journey-from-mamata-loyalist-to-rebel-camp-leader-101780978917964.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Fresh blow to TMC: Mamata, Abhishek in Delhi; 20 rebel MPs join NDA under Kakoli Ghosh Dastidar",
-              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS25Zb1kwbHdjZ3dqVmphbW5NRHlvWEh6aTNzMDJOc0VxV29CREdvYzVWeG5uTVNtY3NaeDcwQ25tRENwSjRpQ1JaY1dhamlmalFxbld2WEhQS3ltMjh1YW1SNDhoMFdyS3VIeVJFNjM2Qnc1RDJNTl9GOEVEY0h2d2U5QmpPUTMwNE16NWRPU1BJN2lJYk5oT1lWMEdoQm9paWp3SnhZOFVkYVRBZjk2amh0Umdxa1RpaTJmTGZrc3BCWjhfekFEbktFaTVMVnpkS1pNaW1PRl9uVEs0aXpZUGxXTDTSAeoBQVVfeXFMT1NnT3oxank2eFpTTE1xd0t6cXNXSXNfaHQ4aG5Md0VXMjB5cUNyVlNTMjJoWHFmRHViQnEyLVVBc3M1bHg1TTg0d3A2cFRqbjhmVUlBR3F3bEtETDg0MllieWJjMjh5aTMwdDd0clk2eDhWd21aZ2dFQUhoY2taRC04U1ZtVWhfLWl3M2tSWUliUk43OFFiQUN1TGNJNzNnTkRkRkp4NlJkWnNuNk9jd01QYjVHNnV5VEhuTl8yMmhROTNMay1xbWlNUHh3dHpibEx2cHZDZGwwa3JnM3FUZkprbWRIeF9sbW9R?oc=5"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "UDF has failed to honour promises it made to come to power, says K. Surendran",
+              "url": "https://www.thehindu.com/news/national/kerala/udf-has-failed-to-honour-promises-it-made-to-come-to-power-says-k-surendran/article71081586.ece"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "‘It was avoidable’: Vizag plant accident spurs safety concerns",
-          "neutralSummary": "Former chairman and managing director of the plant said that, based on his experience, the accident must have occurred due to inadequate maintenance of plant.",
+          "neutralHeadline": "ACB raids 15 locations linked to Telangana R&B Engineer-in-Chief in disproportionate assets case",
+          "neutralSummary": "ACB raids 15 locations linked to Telangana R&B Engineer-in-Chief in disproportionate assets case",
           "versions": [
             {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "‘It was avoidable’: Vizag plant accident spurs safety concerns",
-              "url": "https://www.hindustantimes.com/india-news/it-was-avoidable-vizag-visakhapatnam-plant-accident-spurs-safety-concerns-101780972886252.html"
-            },
-            {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Vizag steel plant accident to receive relief: Centre",
-              "url": "https://economictimes.indiatimes.com/news/india/vizag-steel-plant-accident-centre-announces-rs-25-lakh-ex-gratia-job-for-victims-kin/articleshow/131601608.cms"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "ACB raids 15 locations linked to Telangana R&B Engineer-in-Chief in disproportionate assets case",
+              "url": "https://www.thehindu.com/news/national/telangana/acb-raids-nine-locations-linked-to-telangana-rb-engineer-in-chief-in-disproportionate-assets-case/article71079815.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Iran, Israel Pledge to End Attacks That Threatened Talks",
-          "neutralSummary": "Iran and Israel agreed to ease strikes against each other after a flare-up in violence threatened to derail peace negotiations and led President Donald Trump to appeal for de-escalation. Bloomberg's Dan Williams and Jill Disis report. (Source: Bloomberg)",
+          "neutralHeadline": "Telangana achieves record paddy procurement of 1.47 crore tonnes in 2025-26",
+          "neutralSummary": "Minister for Civil Supplies Uttam Kumar Reddy flays Oppn. parties for playing spoilsport",
           "versions": [
             {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Iran, Israel Pledge to End Attacks That Threatened Talks",
-              "url": "https://www.bloomberg.com/news/videos/2026-06-09/iran-israel-pledge-to-end-attacks-that-threatened-talks-video"
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Telangana achieves record paddy procurement of 1.47 crore tonnes in 2025-26",
+              "url": "https://www.thehindu.com/news/national/telangana/telangana-achieves-record-paddy-procurement-of-147-crore-tonnes-in-2025-26/article71081770.ece"
             }
           ]
         }
