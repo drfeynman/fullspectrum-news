@@ -1,13 +1,81 @@
 {
-  "generatedAt": "2026-06-10T06:13:02.096953+00:00",
+  "generatedAt": "2026-06-10T16:37:59.140947+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "US Launches Strikes Against Iran After Helicopter Shot Down",
-          "neutralSummary": "US Launches Strikes Against Iran After Helicopter Shot Down&nbsp;&nbsp;Bloomberg.comLive updates: Iran launches retaliatory strikes on US targets in the Middle East&nbsp;&nbsp;CNNTehran targets Bahrain, Kuwait and Jordan after U.S. strikes Iranian assets&nbsp;&nbsp;CNBCIran war live: Tehran targets",
+          "neutralHeadline": "Xi Jinping arrives in Pyongyang on trip to revitalise China-North Korea ties",
+          "neutralSummary": "Kim Jong-un welcomes Chinese leader on visit to renew relations strained amid Pyongyang’s closeness with RussiaXi Jinping has arrived in North Korea for a two-day trip, his first in nearly seven years, as China’s leader looks to revitalise ties with his junior ally.Footage published by China’s Xinhu",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Xi Jinping arrives in Pyongyang on trip to revitalise China-North Korea ties",
+              "url": "https://www.theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "China re‑centers North Korea ties as nuclear silence reshapes balance",
+              "url": "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "US adversaries China, North Korea strengthening ties as Xi, Kim set to begin talks",
+              "url": "https://www.foxnews.com/world/xi-jinping-north-korea-kim-jong-un-talks"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Trump says Iran has taken too long to negotiate, will 'pay the price'",
+          "neutralSummary": "US President Donald Trump on Wednesday said Tehran has taken too ​long to negotiate a deal and would now \"have to pay the price\" after Iran and the United States exchanged strikes in the region amid reported efforts to continue ​talks. \"Iran ‌is all talk and no action,\" Trump wrote in ⁠a social medi",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Trump says US will hit Iran 'hard' again on Wednesday",
+              "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Trump says Iran has taken too long to negotiate, will 'pay the price'",
+              "url": "https://www.france24.com/en/video/20260610-trump-says-iran-has-taken-too-long-to-negotiate-will-pay-the-price"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Stocks Fall as Trump Says US to Attack Iran Hard: Markets Wrap",
+              "url": "https://www.bloomberg.com/news/articles/2026-06-09/stock-market-today-dow-s-p-live-updates"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "U.S. And Iran Launch Airstrikes After Trump Blames Tehran For Downing Army Helicopter",
+          "neutralSummary": "In a statement posted to social media, U.S. Central Command said the strikes would be “a proportional response to unjustified Iranian aggression.”",
           "versions": [
             {
               "political": "left",
@@ -15,17 +83,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "U.S. Strikes Iran After Trump Blames Tehran For Downing Army Helicopter",
+              "headline": "U.S. And Iran Launch Airstrikes After Trump Blames Tehran For Downing Army Helicopter",
               "url": "https://www.huffpost.com/entry/us-army-helicopter-crash-strait-hormuz_n_6a279df9e4b0d7105b0ce296"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "US strikes Iran in response to downing of military helicopter",
-              "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -35,31 +94,72 @@
               "domain": "npr.org",
               "headline": "President Trump says U.S. 'must' respond to Iran attack that downed Army helicopter",
               "url": "https://www.npr.org/2026/06/09/nx-s1-5851862/president-trump-says-u-s-must-respond-to-iran-attack-that-downed-army-helicopter"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "news.google.com",
-              "headline": "US Launches Strikes Against Iran After Helicopter Shot Down",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWxwSnhNbkxnamhvdWdNWEdZcF9oOHg0Si1tbXpqWDJNOWhsMF9vM2xQckkzaTRQYjJ2b1I2RHNmaU5IbHZuam96WFluUGNjWmVrOTVoU2h5bWJuTGVOUEVpTXhVN2FqM2dlUjdBNUItdm1OdFZiVHRLY250LUlmNXJsb1kyZlo4MVJLVGtPR3lHU3VKUjA5dk1rZXlZNE15U01iNWRubHZ0ME1NNDNldjBURVI?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "US, Iran exchange air strikes after Trump accuses Tehran of downing army helicopter",
-              "url": "https://www.france24.com/en/middle-east/20260610-us-iran-airstrikes-trump-tehran-downing-army-helicopter"
             }
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "Kenya: one dead at protest anti US Ebola quarantine center",
-          "neutralSummary": "In tonight's programme, violence flared in Kenya, leaving at least one person dead, as police confronted protesters over an Ebola quarantine centre planned for US citizens. Outrage over the US ban on referee Omar Artan who was set to make history as the first Somali to officiate at a World Cup. And",
+          "id": "global-4",
+          "neutralHeadline": "IDF Strikes Kill 30 in Lebanon Over Past Day, Health Ministry Says",
+          "neutralSummary": "IDF Strikes Kill 30 in Lebanon Over Past Day, Health Ministry Says&nbsp;&nbsp;HaaretzSee more headlines & perspectives on Google News",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Israeli strikes in southern Lebanon kill 17, reports say",
+              "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Haaretz",
+              "initials": "H",
+              "domain": "news.google.com",
+              "headline": "IDF Strikes Kill 30 in Lebanon Over Past Day, Health Ministry Says",
+              "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQVzRFOV9aT1BJZjV1eGk0eUpFMHFvOHNDZDBXSUh4eXBGMjVONWNBeEc2cGdYX2N3ZER2a2J4ZERWNkdmQjNJMllMWVJOM0k2dW4tTkJRbVFDQUJZR29RcWhtSVE3MTBtUlI0S1E4Qll3eUJVano0emV6OThPZnRTbldDRlc2U25IeVNZSHJFQXhDaU9tQ21TdGg0aGpmc0dxSC16WTMxa2U5TjFMaE9iLVptUzh1VHRJb3hUdERaRWlpei1OVEI4OTNfY0s3c09DaDBBOXRuaHY2cjJXdHhZbW1uSWNxVTZnaDJMcDlQSVJJd2RRaUE3aWZyMHc5NldpNnF1RUc1cGVNVU4tNFNabWJxNmFlWDhqd2ZN?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "Pakistani air strikes kill at least 13 in Afghanistan, Taliban says",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemV2S3JBMkp2Q3dnWXlLYkNsaTRoZHBjNVpzYUNMMWphVE01VU13ODJob0lRajJwekpTVVRlb3NJaHVEWVYtT19KanMwRlRyeHBvTUJleEVTVDhYRldWOTNnemRwYzR3RHZvYWFtUVFlNnlmM19UNld2cnowUkMzd0pseVhMMVRIaEFkX3lTb0w3QmxkWG5uVWVHYTZSZkFRa0s1a1VhYnI2YkIxdzU0WHJhYw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Ukraine says missiles hit military plant deep inside Russia",
+          "neutralSummary": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Ukraine says missiles hit military plant deep inside Russia",
+              "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Ukraine-made ‘Flamingo’ missile hits target 900 km inside Russia",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/ukraine-made-flamingo-missile-hits-target-900-km-inside-russia?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "Man shot dead during protest against proposed US Ebola quarantine facility in Kenya",
+          "neutralSummary": "Police dispersed demonstrators in Nanyuki, 120 miles from Nairobi, amid rising anger at US plansKenyan police have shot dead a man during a protest against a proposed Ebola quarantine facility for US citizens.Patrick Wahome, who has organised protests in Nanyuki against the centre, told Reuters on T",
           "versions": [
             {
               "political": "left",
@@ -78,22 +178,13 @@
               "domain": "bbc.com",
               "headline": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
               "url": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Kenya: one dead at protest anti US Ebola quarantine center",
-              "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260609-violence-flares-in-kenya-over-the-us-ebola-quarantine-centre"
             }
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "Former Air Canada pilot charged after allegedly flying without proper license for 16 years",
-          "neutralSummary": "Geoffrey Wall is alleged to have flown over 900 flights domestically and internationally between 2009 and 2025A former Air Canada pilot has been charged after flying for years without a proper license, Canadian police have said.Geoffrey Wall, of Barrie, Ontario, is alleged to have operated as an air",
+          "id": "global-7",
+          "neutralHeadline": "Air Canada pilot accused of flying over 900 flights without valid license: \"Like a movie script\"",
+          "neutralSummary": "Air Canada pilot accused of flying over 900 flights without valid license: \"Like a movie script\"&nbsp;&nbsp;CBS NewsAir Canada pilot flew passengers for years with a fake pilot’s license, police say&nbsp;&nbsp;CNNAir Canada pilot accused of flying for 17 years without correct licence&nbsp;&nbsp;BBCM",
           "versions": [
             {
               "political": "left",
@@ -105,54 +196,20 @@
               "url": "https://www.theguardian.com/world/2026/jun/09/air-canada-former-pilot-charged-license"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Air Canada pilot accused of flying for 17 years without proper licence",
-              "url": "https://www.aljazeera.com/economy/2026/6/10/air-canada-pilot-accused-of-flying-for-17-years-without-proper-licence?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "China's Xi says he reached important consensus with Kim in North Korea visit, KCNA reports",
-          "neutralSummary": "China's Xi says he reached important consensus with Kim in North Korea visit, KCNA reports&nbsp;&nbsp;ReutersBehind the Pageantry in Pyongyang With Xi and Kim&nbsp;&nbsp;The New York TimesXi Cements Sway Over North Korea as Kim Names China Top Priority&nbsp;&nbsp;Bloomberg.comKim Jong Un hosts Xi Ji",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Xi Jinping arrives in Pyongyang on trip to revitalise China-North Korea ties",
-              "url": "https://www.theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea"
-            },
-            {
               "political": "center",
               "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
+              "source": "CBS News",
+              "initials": "CN",
               "domain": "news.google.com",
-              "headline": "China's Xi says he reached important consensus with Kim in North Korea visit, KCNA reports",
-              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1NxMG9WUENnRktQYmZKQWxMSlRDQXkzMk9UVGhsTEJHTHQySXJPSWtiZUdVa0FSSlBOOVJzWmJrWkl1M2JsRTZHbEF6MU4xQVIwVUFUUkdIZjR3X3NSX2d5YS16RXI4OWhFN0Z3NjduWmR2RWFIQTZvblRYNWZMTHRRVG45dkstOVp0cjJjVFZKYzZpX3dTd2cxYlJidmtqVDFKakJkb3BIRkNqY0IybEh5aEJadjhoc0RrQkNzVUtNZUk?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "US adversaries China, North Korea strengthening ties as Xi, Kim set to begin talks",
-              "url": "https://www.foxnews.com/world/xi-jinping-north-korea-kim-jong-un-talks"
+              "headline": "Air Canada pilot accused of flying over 900 flights without valid license: \"Like a movie script\"",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTBOUGV3S0xHOXh4T1hsSV9xM2pEOU5vS2gyTVRfRFNuQzF0YWFVYzBObERzaW9kcUJPNVU3TXFULUFQQlM2NjJIc3duc3VBY1VLak5Gb2N3dzFJNjJWbkpCYjQ3anFoUExDNll3ZFFfdU10MDZTaFRBM1VLaVZoRkhPR25URzZXQWhWVWpNeHM0R1E?oc=5"
             }
           ]
         },
         {
-          "id": "global-5",
-          "neutralHeadline": "Israel and Iran exchange strikes after Beirut attack, in photos",
-          "neutralSummary": "Israel and Iran exchange strikes after Beirut attack, in photos&nbsp;&nbsp;AP NewsNetanyahu’s Bow to Trump’s Iran Pressure Spurs New Criticism&nbsp;&nbsp;The New York TimesIran’s Attack on Israel Reveals New and Aggressive Regional Ambitions&nbsp;&nbsp;WSJIran and Israel say attacks halted after Tru",
+          "id": "global-8",
+          "neutralHeadline": "US strikes Iran after blaming Tehran for helicopter crash",
+          "neutralSummary": "The United States launched airstrikes early Wednesday against Iran after blaming Tehran for the crash of an American attack helicopter, and Iran fired back at countries in the region — another escalation that threatened to derail efforts to end the war. Hours after Bahrain, Kuwait and Jordan came un",
           "versions": [
             {
               "political": "left",
@@ -160,90 +217,42 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Israel And Iran Trade Strikes, Threatening To Drag Region Back To Full-Scale War",
-              "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_6a262057e4b022a41ab30047"
+              "headline": "U.S. Launches Airstrikes On Iran After Blaming Tehran For Helicopter Crash, Prompting Retaliation",
+              "url": "https://www.huffpost.com/entry/iran-us-trade-strikes_n_6a291ecde4b02d9edc7e943d"
             },
             {
               "political": "center",
               "tone": "pessimistic",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Israel and Iran exchange strikes after Beirut attack, in photos",
-              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZDZCdFJ3aFZCUkJOLTRDZk1uVG5waXBMMUhTUmsxUk82bjdsQWpsLW84OGFheTJwTnZRSU1HamtidHdUTWRtRjdjM0RvMDZxOFJNQmdFQWhkYk5nc0pIejg1aHZwRE1lTjBCZWFyTzhVb3FiNUtMdXBFNzBvUkY0ZThDQWdGSnNTVlVpRUlyU1NxVkVvQlJKV1U2LTJkenhnMVhtRUxicE9QcEpIcDhDU01NbVl1S1Fpd2RlNndB?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Conflicts are on the rise globally, at the highest level since WWII, data shows",
-          "neutralSummary": "Global conflicts surged to the highest number tallied by Uppsala Conflict Data Program. Fatalities were the highest on record since 1994, with approximately 244,600 people killed in conflict in 2025.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Conflicts are on the rise globally, at the highest level since WWII, data shows",
-              "url": "https://www.npr.org/2026/06/09/nx-s1-5850355/data-highest-conflicts-iran-israel-ukraine-russia-world-war-ii"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Middle East live: Iranian missiles target US bases in Jordan and Bahrain, Revolutionary Guards say",
-          "neutralSummary": "Iran's Revolutionary Guards said Wednesday they had struck four targets at a US base in Jordan and one in Bahrain, as Tehran pressed its attack in response to fresh US strikes over the downing of a helicopter. Follow our liveblog for the latest updates.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Jordan intercepts Iranian missiles over its airspace",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/jordan-intercepts-iranian-missiles-over-its-airspace?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Middle East live: Iranian missiles target US bases in Jordan and Bahrain, Revolutionary Guards say",
-              "url": "https://www.france24.com/en/middle-east/20260610-middle-east-live-iran-s-revolutionary-guards-say-missiles-targeted-us-base-in-jordan-and-bahrain"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
-          "neutralSummary": "Amazon and Sony among firms that may have sourced coltan, used in phones, from supply chains controlled by the M23 rebels, says Global WitnessLeading global brands including Amazon, Ericsson and Sony are “likely” to have sourced minerals linked to a militia accused of widespread sexual violence, sum",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Global brands ‘likely’ using mineral that funds rebels accused of atrocities in DRC, investigation finds",
-              "url": "https://www.theguardian.com/global-development/2026/jun/10/coltan-drc-m23-global-witness-investigation"
+              "headline": "US strikes Iran after blaming Tehran for helicopter crash",
+              "url": "https://www.france24.com/en/video/20260610-us-strikes-iran-after-blaming-tehran-for-helicopter-crash"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
-          "neutralSummary": "Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police sayArmed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negotiations, authorities and residents said on Monday, highlighting",
+          "neutralHeadline": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+          "neutralSummary": "Another nine people were injured at an informal settlement in Cleveland late on Tuesday.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
-              "url": "https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+              "url": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "Twelve killed in Johannesburg mass shooting, manhunt under way",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUMyMjRyR0pJTnBDUUtpWlBNZXZ5MmtlazZNai1NWXRWb0djVjljMTlhd2dSZ2pISWFRem9Fd3ZlcTJVZTVHN1FIc053Z3p4TW5JY203YjhKRHYtNTRXWTNYNTFQSWhheUkzalk0WmVtZmQ5dUYzMVpSMXVuUzdOQUVjQTdhMlJXUlJmQnNkM1g0cnBTazZpelF2X0hZR3B1RjZ2YtIBqgFBVV95cUxNZDdwT05zaWw0ZjhRNEFhNDhhMkhiSXN4WUFhbm5lcWxJUUhWMWI2WTJUMVY3bGVaeTkzZVU0MTZIak1oZ1BQdmk3STI0YkJZbnMxUGl2M2JMc2FUajRhT0kwNjZDV090WVV5dEdNVHVzT0h3bHM3N2E4QzkxUXJrZzlCbG15Y0QzYkViZFBudHFVQjY5a1owbDNGWVhCWWpJNWlvRzVTczNadw?oc=5"
             }
           ]
         }
@@ -254,26 +263,67 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Graham Platner wins Dem nomination in key Maine Senate race",
-          "neutralSummary": "Graham Platner wins Dem nomination in key Maine Senate race&nbsp;&nbsp;AxiosGraham Platner tears into Republicans after clinching Susan Collins matchup in Maine, and other primary night takeaways&nbsp;&nbsp;CNNWill Maine's scandal-hit Graham Platner help save or sink Democrats?&nbsp;&nbsp;BBCPlatner",
+          "neutralHeadline": "Trump-Backed Air Force Veteran Wins Republican House Primary in Nevada",
+          "neutralSummary": "David Flippo won his party’s nomination for a safely Republican open seat, defeating a candidate backed by the G.O.P. governor.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump-Backed Air Force Veteran Wins Republican House Primary in Nevada",
+              "url": "https://www.nytimes.com/2026/06/10/us/politics/flippo-trump-nevada-republicans-house.html"
+            },
+            {
+              "political": "right",
+              "tone": "optimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump-endorsed candidate will face top GOP target in Nevada House district",
+              "url": "https://www.foxnews.com/politics/trump-endorsed-candidate-will-face-top-gop-target-nevada-house-district"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Rolling the dice on Graham Platner",
+          "neutralSummary": "Graham Platner’s primary victory in Maine means Democrats officially have their candidate in a race that is pivotal for their hopes of retaking the Senate. But Platner isn’t a typical Democratic nominee. For reasons both personal and political, his candidacy has captivated national attention and bec",
           "versions": [
             {
               "political": "left",
               "tone": "optimistic",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Platner Wins Maine Senate Primary After a Turbulent Stretch of His Bid",
-              "url": "https://www.nytimes.com/2026/06/09/us/politics/maine-senate-platner-mills.html"
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Rolling the dice on Graham Platner",
+              "url": "https://www.vox.com/politics/491402/graham-platner-maine-senate-nominee-scandals"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "neutral",
-              "source": "Axios",
-              "initials": "AX",
-              "domain": "news.google.com",
-              "headline": "Graham Platner wins Dem nomination in key Maine Senate race",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzJTOG5xSlFwWHZGdlFRb2ZyS2Qwc1FYZ0dTVk1MeENzTjV4c2YyWC1WTGNqaTI1WDI0SnhBUWZjbE11TnE4S3U3Rl9RWkI0WWJvcjZVWTlRdHQzTHIxVzcxMjFoOUtsWkRKUm03eHJJV0dLMHNfcDczQkdfZDdHR1pOcTM?oc=5"
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump says Graham Platner is a “thug” and a “pig”",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4602645/graham-platner-thug-pig-trump/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "How to watch every Team USA match in the FIFA World Cup",
+          "neutralSummary": "The United States has three group-stage matches scheduled at two stadiums on the West Coast.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "There’s a new threat to the World Cup. FIFA might not be ready.",
+              "url": "https://www.vox.com/culture/491233/fifa-world-cup-2026-extreme-heat-us"
             },
             {
               "political": "center",
@@ -281,8 +331,49 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Khanna: Maine voters gave Platner a ‘chance at redemption’ with primary win",
-              "url": "https://thehill.com/homenews/campaign/5917594-khanna-maine-voters-gave-platner-a-chance-at-redemption-with-primary-win/"
+              "headline": "How to watch every Team USA match in the FIFA World Cup",
+              "url": "https://thehill.com/policy/sports-gaming/5917423-fifa-world-cup-2026-matches-how-to-watch/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Graham Platner’s Victory in Maine Senate Primary Gives Democrats Hope and Fears",
+          "neutralSummary": "Graham Platner’s primary victory sets up a high-stakes contest between an insurgent progressive with political baggage and a battle-tested but vulnerable Republican senator.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Graham Platner’s Victory in Maine Senate Primary Gives Democrats Hope and Fears",
+              "url": "https://www.nytimes.com/2026/06/10/us/politics/senate-control-maine.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "Graham Platner wins Maine primary election: Results and key takeaways",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUtjdFB5SkxxTTlJR3dwVktBbVlQZHNZZzdEOXQydkR6WGtoZmlpOGtVUXllTmJBczlLdVR4QXdmSDlsTW0wbmQ0WVhSRmdGQm9WX1l0TDk5eW5WdkdHUlVsWHhaS2xmRF9Qc0dCTDRCVndZeWxMRmhkVHl3WlJaNWhSQXVzSW5ldkN1MWRveVlac1BmNXdLZVQ5cUh4dVFIQl9taEVhcUk3MkJLOHfSAbMBQVVfeXFMTzNGX3ppcTRNZE1aNFpqSzdYckxPeGJsSWZOaHJyRHZYRE1HUS1QUnBRdmJXWlh3VE9FLWtNRnIwbkN1UTIyOEF5eUdCWDZNZkpsbmdrWkJMMFJma0JDZ2V4cGhCajRwdjhaelRtaDdjZjlQZVY5QjZSeXZrYnQtT2l5Y0FwaEt4SE9peVNuUWxTb0xfNURHTnpUbnFNbWVVc3dlNU1UYzBSdm42VXVTbDkzTmc?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Inflation tops 4% for the first time in 3 years on spike in gasoline prices",
+          "neutralSummary": "Inflation has surged to its highest level in more than three years since the U.S. and Israel launched their war on Iran, triggering a surge in gasoline prices.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Inflation tops 4% for the first time in 3 years on spike in gasoline prices",
+              "url": "https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices"
             },
             {
               "political": "right",
@@ -290,94 +381,56 @@
               "source": "NY Post",
               "initials": "NYP",
               "domain": "nypost.com",
-              "headline": "Sen. Susan Collins’ allies preview ‘the end for Graham Platner’ in Maine Senate war",
-              "url": "https://nypost.com/2026/06/09/us-news/sen-susan-collins-allies-preview-war-strategy-for-maine-senate-the-end-for-graham-platner/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Collins and Platner set up blockbuster Maine Senate showdown",
-              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4601303/collins-platner-maine-senate-primary-results/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Maine Democrats Choose Nazi-Tatted Graham Platner In Senate Primary",
-              "url": "https://www.dailywire.com/news/maine-democrats-choose-nazi-tatted-graham-platner-in-senate-primary"
+              "headline": "Trump brushes off major inflation spike as consumer prices skyrocket:  ‘I love the inflation’",
+              "url": "https://nypost.com/2026/06/10/us-news/trump-brushes-off-major-inflation-spike-as-consumer-prices-skyrocket-i-love-the-inflation/"
             }
           ]
         },
         {
-          "id": "us-2",
-          "neutralHeadline": "Evette, Wilson head to runoff in heated South Carolina GOP governor’s race",
-          "neutralSummary": "The GOP primary race for governor of South Carolina is projected to head to a runoff between Lt. Gov. Pamela Evette (R) and state Attorney General Alan Wilson (R), according to Decision Desk HQ.&#160; Evette, who is backed by President Trump, and Wilson were the top two vote-getters, but neither sna",
+          "id": "us-6",
+          "neutralHeadline": "China re‑centers North Korea ties as nuclear silence reshapes balance",
+          "neutralSummary": "Xi's silence on North Korea's nuclear program came as Kim tried to convince the world of the irreversibility of his country's status as a nuclear power.",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Republicans in Maine Governor’s Race Head to Ranked-Choice Runoff",
-              "url": "https://www.nytimes.com/2026/06/10/us/politics/gop-runoff-maine-governor-race.html"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Evette, backed by Trump, and Wilson, a Trump supporter, head to S.C. governor runoff",
-              "url": "https://www.npr.org/2026/06/09/nx-s1-5851591/trump-south-carolina-evette-wilson-governor"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Evette, Wilson head to runoff in heated South Carolina GOP governor’s race",
-              "url": "https://thehill.com/homenews/campaign/5915247-evette-wilson-south-carolina-governor-runoff/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Pamela Evette and Alan Wilson head to runoff for South Carolina governor GOP nod",
-              "url": "https://www.washingtonexaminer.com/news/campaigns/state/4601714/pamela-evette-alan-wilson-runoff-south-carolina-governor/"
+              "headline": "China re‑centers North Korea ties as nuclear silence reshapes balance",
+              "url": "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties"
             }
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "Republican Primary for Open Congressional Seat in South Carolina Heads to Runoff",
-          "neutralSummary": "The largely coastal district has voted overwhelmingly Republican in recent elections. Representative Nancy Mace ran unsuccessfully for governor instead of seeking re-election to the seat.",
+          "id": "us-7",
+          "neutralHeadline": "San Francisco immigration court shuts down, striking at heart of historic advocacy",
+          "neutralSummary": "The main San Francisco court was one of the busiest in the country, hearing thousands of cases a year. It was also one of the courts most likely to grant an immigrants' asylum application.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Republican Primary for Open Congressional Seat in South Carolina Heads to Runoff",
-              "url": "https://www.nytimes.com/2026/06/09/us/politics/jenny-honeycutt-mace-south-carolina.html"
-            },
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "San Francisco immigration court shuts down, striking at heart of historic advocacy",
+              "url": "https://www.npr.org/2026/06/10/g-s1-126345/san-franciso-court-immigration-closure-asylum-layoffs"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Bill Gates is appearing before Congress over Epstein involvement",
+          "neutralSummary": "Gates will sit for a closed-door interview before the House Oversight Committee about his relationship with convicted sex offender Jeffrey Epstein.",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "Nancy Mace loses GOP primary for South Carolina governor",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdWh5cEhKNTg2TUFCTkdaTFZTV0ZOck1DZHBuRVktUzF2TGJ3cjNnTzBUdkwwR3pvZlVaejdEVElrZHVOTFBxWUdPdkxBM21NUTlmbTB1dGg4T3o2WmJvQV9hNlh1UjllU2pEdU93amJfSnVzMDZONEZaZVIzZG1RSFZ4ZllIQlpiR29nZnk4V2taTmxDUEFv?oc=5"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Bill Gates is appearing before Congress over Epstein involvement",
+              "url": "https://www.npr.org/2026/06/10/nx-s1-5851609/bill-gates-jeffrey-epstein-files-congress-pam-bondi"
             },
             {
               "political": "right",
@@ -385,8 +438,24 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "South Carolina GOP race to replace Nancy Mace heads to runoff",
-              "url": "https://www.foxnews.com/politics/south-carolina-gop-race-replace-nancy-mace-heads-runoff"
+              "headline": "Bill Gates faces House investigators over Jeffrey Epstein ties",
+              "url": "https://www.foxnews.com/politics/bill-gates-faces-house-investigators-over-jeffrey-epstein-ties"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Middle East crisis live: Trump accuses Iran of taking too long to make a deal and says ‘it will now pay a price’",
+          "neutralSummary": "Middle East crisis live: Trump accuses Iran of taking too long to make a deal and says ‘it will now pay a price’&nbsp;&nbsp;The GuardianTrump pledges more Iran attacks, saying U.S. will be 'attacking them very hard'&nbsp;&nbsp;CNBCTrump hardens tone against Iran, says ‘may keep going’ with strikes&n",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "news.google.com",
+              "headline": "Middle East crisis live: Trump accuses Iran of taking too long to make a deal and says ‘it will now pay a price’",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYVRrbUlGa2FOQi1SSnhKZmNKNDh6NURTOFdVSjVHeEpTTVM5b0RyNDQxWnhIaXRwTVRBNEhMY2x4c1EtM1VXYkp5VWp1a1huZV84MEFVb3ZIVEZtSHBRWlVuMXJPNXc5dmdQSnctOGNRckMwNFFheUdWVE9uWmFpdU9fS0lZZmlJd2M0dWoxUlpZNVk1SnZHeVZ3MG41aDZKQ24yQkNueGNEUGN5alJNTjhjUWdFeGZkQ0k0QndwQ21heGxvNXpnTGdCRVA?oc=5"
             },
             {
               "political": "right",
@@ -394,194 +463,8 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Trump-Backed Candidate Advances In South Carolina Governor Primary",
-              "url": "https://www.dailywire.com/news/trump-backed-candidate-advances-in-south-carolina-governor-primary"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Mace endorses Wilson after losing South Carolina gubernatorial bid",
-          "neutralSummary": "Rep. Nancy Mace (R-S.C.) endorsed South Carolina Attorney General Alan Wilson (R) in the Palmetto State’s GOP gubernatorial primary after she lost the initial primary Tuesday. “I want you to know that I&#8217;m going to endorse Alan Wilson for governor,” Mace told supporters after polls closed.  “I",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Evette and Wilson Advance to Runoff in South Carolina Republican Primary for Governor",
-              "url": "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-governor-republican-evette-wilson.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Mace endorses Wilson after losing South Carolina gubernatorial bid",
-              "url": "https://thehill.com/homenews/campaign/5917678-mace-endorses-wilson-after-losing-south-carolina-gubernatorial-bid/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Mace endorses old foe Alan Wilson for South Carolina governor: ‘Buried the hatchet’",
-              "url": "https://www.washingtonexaminer.com/news/4601941/mace-endorses-alan-wilson-for-south-carolina-governor/"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Graham faces pediatrician Annie Andrews in South Carolina Senate race",
-          "neutralSummary": "Sen. Lindsey Graham (R-S.C.) is projected to face off against Annie Andrews in November as the pediatrician seeks to unseat the four-term incumbent in South Carolina, according to Decision Desk HQ.  Graham and Andrews, who ran against five Republicans and two Democrats, respectively, won their prima",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Lindsey Graham Wins Republican Senate Primary in South Carolina",
-              "url": "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html"
-            },
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "Sen. Lindsey Graham wins primary over ‘America First’ challenger",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSW9UR0NKZE1FaUFPZGdCV1JSQXE4aXN2bDNrUnoxZy1xQks0LV9xNlY5dkV4OFlXeTdBcnpqRkVYTXpWVTNBamR1aE9pc2owYS12WGpYSFR1cHh2a2dVTjg0TkFEY2JHSTFpdVVhM1lPT2phZnE2TDFaYzhvUkc0ZkdENWRLT2NrM2J3clFsLWZLZzJEbTlzcUNaenpQNnBPT0pFdFBUWGJwZUFx?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Graham faces pediatrician Annie Andrews in South Carolina Senate race",
-              "url": "https://thehill.com/homenews/campaign/5914962-graham-south-carolina-senate-primary/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Navy admiral fired by Hegseth advances to runoff in Democratic primary for Mace seat",
-          "neutralSummary": "Nancy Lacore, a three-star admiral that Defense Secretary Pete Hegseth fired last year, is projected head to a runoff against veteran Mac Deford in the Democratic primary for South Carolina’s 1st Congressional District, according to&#160;Decision Desk HQ. Lacore and Deford defeated a group of Democr",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Navy Admiral Fired by Hegseth Advances to Runoff to Replace Mace",
-              "url": "https://www.nytimes.com/2026/06/09/us/politics/nancy-lacore-mace-south-carolina.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Navy admiral fired by Hegseth advances to runoff in Democratic primary for Mace seat",
-              "url": "https://thehill.com/homenews/campaign/5915278-lacore-south-carolina-house-primary/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Navy admiral fired by Hegseth and local attorney advance to runoff in Dem primary to replace Nancy Mace",
-              "url": "https://www.foxnews.com/politics/navy-admiral-fired-pete-hegseth-local-attorney-advance-runoff-replace-nancy-mace"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "U.S. Launches Strikes on Iran in Response to Downed Apache Helicopter",
-          "neutralSummary": "U.S. Launches Strikes on Iran in Response to Downed Apache Helicopter&nbsp;&nbsp;WSJTrump invokes ‘The West Wing’ in apparent justification of latest Iran strikes&nbsp;&nbsp;The Washington PostSea drone rescues US army helicopter crew near Strait of Hormuz&nbsp;&nbsp;BBCIran war live: US strikes Ira",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "WSJ",
-              "initials": "W",
-              "domain": "news.google.com",
-              "headline": "U.S. Launches Strikes on Iran in Response to Downed Apache Helicopter",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1NCUi1ER19KYTBHTk80MkdYQjBxSUlJTUpKU3hNejFxZ09SYWZYV1llVlJVWlhuZUhWRENyeHpJbG5ILV9hNTN5Wi1rR1YyWm5ub2xWY2Q4dEtHMkEwVVo3V2dRSjU2R1Z2dE1oSlpBSUluOTQxdjFpUWF3ZTBhWElCVzg0LUFf?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "news.google.com",
-              "headline": "Middle East crisis live: Iran launches broad retaliatory attacks after US strikes over downed helicopter",
-              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYVRrbUlGa2FOQi1SSnhKZmNKNDh6NURTOFdVSjVHeEpTTVM5b0RyNDQxWnhIaXRwTVRBNEhMY2x4c1EtM1VXYkp5VWp1a1huZV84MEFVb3ZIVEZtSHBRWlVuMXJPNXc5dmdQSnctOGNRckMwNFFheUdWVE9uWmFpdU9fS0lZZmlJd2M0dWoxUlpZNVk1SnZHeVZ3MG41aDZKQ24yQkNueGNEUGN5alJNTjhjUWdFeGZkQ0k0QndwQ21heGxvNXpnTGdCRVA?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "US says it has completed strikes on Iran in response to Apache shootdown",
-              "url": "https://www.washingtonexaminer.com/policy/defense/4601593/us-strikes-iran-apache-helicopter-shot-down/"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "CNN Rebuffs Trump's L.A. Election Uproar With Decade Of 'Rigged' Clips",
-          "neutralSummary": "The president and his allies have been crying foul since mail-in ballots caused a shakeup in the Los Angeles mayoral primary over the weekend.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "CNN Rebuffs Trump's L.A. Election Uproar With Decade Of 'Rigged' Clips",
-              "url": "https://www.huffpost.com/entry/cnn-supercut-trump-rigged-elections-la-mayor_n_6a273826e4b0a8fe2cc6c465"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Trump’s California election conspiracy",
-              "url": "https://www.vox.com/the-logoff-newsletter-trump/491412/trump-california-los-angeles-spencer-pratt-election-conspiracy"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Trump Family, UFC Selling $12,000 'Freedom 250'-Themed Coins Ahead Of White House Fight Night",
-          "neutralSummary": "The medallions, which come in a case featuring Trump's signature, are billed as a way to commemorate a \"defining patriotic moment\" between the president and the company.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Family, UFC Selling $12,000 'Freedom 250'-Themed Coins Ahead Of White House Fight Night",
-              "url": "https://www.huffpost.com/entry/trump-organization-ufc-selling-freedom-250-coins_n_6a26db25e4b0626f4fe031e5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Meteorologists hopeful storms won’t interfere with Trump’s White House UFC fight",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4601745/meteorologists-storms-trump-white-house-ufc-fight/"
+              "headline": "Trump Says Iran Ran Out Of Time To Make A Deal And Will Now Pay The Price",
+              "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule"
             }
           ]
         }
@@ -592,6 +475,38 @@
       "stories": [
         {
           "id": "singapore-1",
+          "neutralHeadline": "S’pore and Tanzania’s complementary strengths can create good jobs, growth: President Tharman",
+          "neutralSummary": "There is “real potential for meaningful partnership” from sectors such as agri-business to tourism, he said.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "S’pore and Tanzania’s complementary strengths can create good jobs, growth: President Tharman",
+              "url": "https://www.straitstimes.com/singapore/politics/spore-and-tanzanias-complementary-strengths-can-create-good-jobs-growth-president-tharman"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "5,000 S’porean children receive $10k grant and other benefits under scheme to spur large families",
+          "neutralSummary": "The Large Families Scheme was announced by Prime Minister Lawrence Wong during Budget 2025.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "5,000 S’porean children receive $10k grant and other benefits under scheme to spur large families",
+              "url": "https://www.straitstimes.com/singapore/5000-sporean-children-receive-10k-grant-and-other-benefits-under-scheme-to-spur-large-families"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
           "neutralHeadline": "Man who allegedly caused CTE crash that killed biker was driving under influence of etomidate",
           "neutralSummary": "Puah Zhe Cong was seen swerving, and slowing down and stopping multiple times while driving along the CTE last June.",
           "versions": [
@@ -603,20 +518,68 @@
               "domain": "straitstimes.com",
               "headline": "Man who allegedly caused CTE crash that killed biker was driving under influence of etomidate",
               "url": "https://www.straitstimes.com/singapore/courts-crime/man-who-allegedly-caused-cte-crash-that-killed-biker-was-driving-under-influence-of-etomidate"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Man charged with driving under the influence of etomidate, killing motorcyclist",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYTNiMzZFaTJuNmh6MDE4d2t2TGZkd0U3WmE5RndpbWRBanRILXpRZEZuVHpnMXBMTVlKM3lzdUtvMFpxcnVZODlLODUtakIzNjdiWi1UN25aR3AtWGo4Yjc0dEp6djZvQlEyeHY2WXZaWjFxekUzYjBTRmppSXY1dm5Zek5sUWd4UDZHbzljOUczc1h4VXZWSQ?oc=5"
             }
           ]
         },
         {
-          "id": "singapore-2",
+          "id": "singapore-4",
+          "neutralHeadline": "PAS-Bersatu break-up paves way for new Malay-centric pact, with implications for Malaysia politics",
+          "neutralSummary": "Analysts say Malaysia’s main opposition party PAS would prioritise a pact with a breakaway Bersatu faction, while a more formal cooperation with the United Malays National Organisation remains a longer-term possibility.&nbsp;",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "PAS-Bersatu break-up paves way for new Malay-centric pact, with implications for Malaysia politics",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-pas-bersatu-perikatan-nasional-opposition-6173561"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "At least 4 ‘agents’ in Singapore bought babies from Indonesian trafficking ring, suspect tells Bandung court",
+          "neutralSummary": "The suspected ring leader of the alleged syndicate claimed at least 12 babies were sent to Singapore for adoption&nbsp;for between S$17,000 and S$21,600 per child.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "At least 4 ‘agents’ in Singapore bought babies from Indonesian trafficking ring, suspect tells Bandung court",
+              "url": "https://www.channelnewsasia.com/asia/indonesia-baby-trafficking-ring-4-agents-singapore-bandung-6173841"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Pakistan launches deadly strikes on Afghanistan",
+          "neutralSummary": "At least 26 militants were killed,&nbsp;Pakistan's Information Minister Ataullah Tarar said.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Pakistan launches deadly strikes on Afghanistan",
+              "url": "https://www.channelnewsasia.com/asia/pakistan-afghanistan-launches-deadly-strikes-6173146"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
+              "url": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
           "neutralHeadline": "Death toll from Philippines quake rises to 46",
           "neutralSummary": "The 7.8-magnitude tremor just off the coast of Mindanao on Monday brought down buildings, triggered landslides and set off tsunami warnings across a swathe of the southern island.",
           "versions": [
@@ -641,9 +604,9 @@
           ]
         },
         {
-          "id": "singapore-3",
-          "neutralHeadline": "Asian stocks slide, oil gains as Middle East tensions escalate",
-          "neutralSummary": "The United States launched strikes against Iran after President Donald Trump said Tehran had shot down a US Apache helicopter in the Strait of Hormuz, leaving investors on edge.",
+          "id": "singapore-8",
+          "neutralHeadline": "Applied Materials expands Singapore operations, plans 1,000 jobs amid AI chip demand",
+          "neutralSummary": "The new roles are \"good jobs\" that will allow Singaporeans to work on frontier technologies and gain exposure to global operations, said&nbsp;Deputy Prime Minister Gan Kim Yong.",
           "versions": [
             {
               "political": "center",
@@ -651,81 +614,24 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Asian stocks slide, oil gains as Middle East tensions escalate",
-              "url": "https://www.channelnewsasia.com/asia/asian-stocks-oil-middle-east-tensions-6172706"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Thailand officially frees ex-PM Thaksin after royal pardon",
-          "neutralSummary": "Thailand officially frees ex-PM Thaksin after royal pardon",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Thailand officially frees ex-PM Thaksin after royal pardon",
-              "url": "https://www.channelnewsasia.com/asia/thailand-ex-pm-thaksin-royal-pardon-free-6172296"
+              "headline": "Applied Materials expands Singapore operations, plans 1,000 jobs amid AI chip demand",
+              "url": "https://www.channelnewsasia.com/singapore/applied-materials-new-manufacturing-facility-tampines-6174411"
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "NST Online",
-              "initials": "NO",
+              "tone": "optimistic",
+              "source": "Straits Times",
+              "initials": "ST",
               "domain": "news.google.com",
-              "headline": "Thailand officially frees ex-PM Thaksin after royal pardon",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUFhQnI1clY2ZWVMa2NUSnd3Zjk4akJ5Rmg0anJXRjk0UGxfYXVhTnB6TEllTkc0S3JIYUp5aW1OTE5PbTU2V25sQURZQnpBYVd5TDZlekwtaHRrdmxmYmVuV1NraHFfUnBqLUZVN3lEcmNsOEdIXzN3WVg2ZDQ2ckhPVmlnV19rRl90MTZNLWwzSVgxcDBWc19HSll1blB4VGxOR2xjWF83RXZ3eWxB0gG0AUFVX3lxTFBsQ0RqMDZSZXBrb0FEajBIRVZmZnVwSkl2YUJBMks4QVBIVnJLclVtZ1EwNjlDZjUwZzhLN2pCUmxHQ2xLMUpjSDViRzh2RFM2R2o3Ym9Bbno5cXRzdGRxajdfeVpBcHlOWXlRWWZ3bzNMbnVqTjJJSXBocGVHN0F2OVUxZ0JWVEZCRENBcTVoM1NoLU93ZWViU3FTNjRRaVAxaFczYXpCc1pQZTJrOU5KMlhqeQ?oc=5"
+              "headline": "Semicon giant Applied Materials opens $600m Singapore plant, adds 1,000 jobs amid AI chip boom",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmdDcndSS2VCQXRsclozUzg0RXRYamhaLTlHclBWcWdheGUwVFpZcG83RGJEUlgyT1RjQXlfTzRhSHVTeDVFT0swUUdpMXpfVndVNGdlRDZXaFVfd1NuU0NRdEZGYXkzT0pJYmo3ODJlaDRXN09NZ3RhaTNrSElqX2ZVQVdZYklwUGRkWFRCbm4yVENHa0dVc0xhUU5Wcl9KRjlLb193V0U0S2ZIS3Z3S1Q4MnVub3NCbEdsZTFBdWlwOS1PVGdCbw?oc=5"
             }
           ]
         },
         {
-          "id": "singapore-5",
-          "neutralHeadline": "Japan city relieved as bear caught after roaming streets for days",
-          "neutralSummary": "The bear had roamed the streets of Utsunomiya for four days, forcing the closure of all primary and middle schools in the city.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Japan city relieved as bear caught after roaming streets for days",
-              "url": "https://www.channelnewsasia.com/east-asia/japan-bear-caught-utsunomiya-school-closures-6171226"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Black bear caught in Japan after days of sightings",
-              "url": "https://www.bbc.com/news/articles/c0qyzvnjlxno?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Malaysia’s PAS severs ties with Bersatu, throwing opposition pact PN's fate into question",
-          "neutralSummary": "Parti Islam Se-Malaysia’s president Abdul Hadi Awang said the decision took into account the state of relations between the two parties.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Malaysia’s PAS severs ties with Bersatu, throwing opposition pact PN's fate into question",
-              "url": "https://www.channelnewsasia.com/asia/malaysia-pas-bersatu-opposition-pact-perikatan-nasional-6170511"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
+          "id": "singapore-9",
           "neutralHeadline": "Xi leaves North Korea with renewed signs of China’s influence",
-          "neutralSummary": "Xi leaves North Korea with renewed signs of China’s influence&nbsp;&nbsp;The Straits TimesAnalysis: Why China’s Xi wants a ‘brighter’ future with North Korea&nbsp;&nbsp;CNNXi Cements Sway Over North Korea as Kim Names China Top Priority&nbsp;&nbsp;BloombergHas Xi Jinping’s North Korea visit helped c",
+          "neutralSummary": "Xi leaves North Korea with renewed signs of China’s influence&nbsp;&nbsp;The Straits TimesNorth Korea says Xi's visit produced 'far-reaching blueprint' for ties&nbsp;&nbsp;CNAWhy It’s Harder for China to Keep North Korea in Line&nbsp;&nbsp;Bloomberg.comXi says he reaches important consensus with Kim",
           "versions": [
             {
               "political": "center",
@@ -746,47 +652,6 @@
               "url": "https://www.bbc.com/news/videos/c5yzje727l5o?at_medium=RSS&at_campaign=rss"
             }
           ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "Gold prices continue to decline",
-          "neutralSummary": "Gold prices continue to decline&nbsp;&nbsp;VnExpress InternationalGlobal Gold Rush Stumbles: Vietnam Witnesses Gold Price Drop Amid Rising Crude Oil Rates&nbsp;&nbsp;Retail News AsiaInfographic: Domestic gold prices narrow gap with global market on June 9&nbsp;&nbsp;Nhan Dan OnlineDomestic gold pric",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "VnExpress International",
-              "initials": "VI",
-              "domain": "news.google.com",
-              "headline": "Gold prices continue to decline",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRTRMc1dEOEs2bTQ3X19QV1JDSGNncnVwalhXWmVOZjVBS3hkbTdhR1lTVjlVV3JPcFlRdzZwU08tTkRITU8wX3JnYnV6eGFHSFU0OU9LRlVVbkhTWlR0anNJZkVGZ0J2YU95VE45Y2VGdWJITFBIbUpJczhfT0dRSDlzMFhIaGV4czlWZ3lTWW1pME1J?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Stocks Decline Before CPI, Gold Drops on Fed Bets: Markets Wrap",
-              "url": "https://www.bloomberg.com/news/articles/2026-06-09/stock-market-today-dow-s-p-live-updates"
-            }
-          ]
-        },
-        {
-          "id": "singapore-9",
-          "neutralHeadline": "At least $68,200 lost in 10 days to BTS Singapore concert ticket scams",
-          "neutralSummary": "The police said there have been at least 62 such ticket scam cases since June 1.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "At least $68,200 lost in 10 days to BTS Singapore concert ticket scams",
-              "url": "https://www.straitstimes.com/singapore/at-least-68200-lost-in-10-days-to-bts-singapore-concert-ticket-scams"
-            }
-          ]
         }
       ]
     },
@@ -795,110 +660,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Global leaders hail Modi as he surpasses Nehru's record of longest-serving elected PM",
-          "neutralSummary": "Prime Minister Narendra Modi has set a new record as India's longest-serving elected Prime Minister. He has now served more consecutive days in office than Jawaharlal Nehru. Leaders from the United States, Malaysia, and Sri Lanka have sent congratulations. They praised his leadership and public serv",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"4,399 Days And Counting\": PM Modi Becomes Longest-Serving Elected Prime Minister",
-              "url": "https://www.ndtv.com/india-news/pm-narendra-modi-surpasses-jawaharlal-nehru-becomes-longest-serving-elected-pm-ministers-congratulate-11615649#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Global leaders hail Modi as he surpasses Nehru's record of longest-serving elected PM",
-              "url": "https://timesofindia.indiatimes.com/india/pm-modi-surpasses-nehrus-record-as-longest-serving-elected-pm-global-leaders-congratulate-him/articleshow/131624891.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "'Transformational tenure': Shoutouts pour in from global leaders as Modi becomes India's longest-serving PM",
-              "url": "https://www.hindustantimes.com/india-news/transformational-tenure-shoutouts-pour-in-from-global-leaders-as-modi-becomes-indias-longest-serving-pm-101781061476600.html"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "Pakistan bombs Afghanistan again: Taliban claims 11 children among 13 killed",
-          "neutralSummary": "Pakistan bombs Afghanistan again: Taliban claims 11 children among 13 killed",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "11 Children Killed In Sleep In Pak Strikes On Afghanistan, Claim Taliban",
-              "url": "https://www.ndtv.com/world-news/pakistan-attacks-afghanistan-11-children-killed-in-sleep-in-pak-strikes-on-afghanistan-claim-taliban-11615504#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Pakistan bombs Afghanistan again: Taliban claims 11 children among 13 killed",
-              "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-bombs-afghanistan-again-taliban-claims-11-children-among-13-killed/articleshow/131623648.cms"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "news.google.com",
-              "headline": "11 kids among 13 killed in fresh strikes by Pakistan, says Afghanistan as tensions renew | World News",
-              "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTmdQbVlWczY0UFNJZFVaTVI4aXdmNlhPNG45OUdycFMwWEZmTU1VdzlseTUzbU9GWkgtWjk0dVY5V3Rhb3pOZHBWMFN6czA1V3pCYUFEQllVcERYamZSU1AzcFlyeEMyRTZhbU5rWXF4N3lTSW5mT1lkWFZ6Z2JmcjFaSmN1aGNsNjFlRlA3UU1nMUFrRUc0R05MZ2tmYTNJR0hpNFoxZWRkZl9uVmZiT3NQZ0c2WW1ZZHVfa0lEX3ZPNFlfeFA2Z1dUMklHek9ja1pLcGRiZjlyTjBIc3VuZ0plWDg2MFFQTjhSSGdDYXgyUU9PSXp1cg?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Congress’ Natarajan’s RS nomination rejected, BJP close to 3/3 in MP",
-          "neutralSummary": "Congress’ Natarajan’s RS nomination rejected, BJP close to 3/3 in MP",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Congress’ Natarajan’s RS nomination rejected, BJP close to 3/3 in MP",
-              "url": "https://timesofindia.indiatimes.com/india/congress-fumes-as-natarajans-rajya-sabha-nomination-nixed-bjp-close-to-winning-all-3-in-mp/articleshow/131622185.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "EC rejects Meenakshi Natarajan’s Rajya Sabha nomination; Congress cries foul",
-              "url": "https://www.hindustantimes.com/india-news/ec-rejects-meenakshi-natarajan-s-rajya-sabha-nomination-congress-cries-foul-101781055466429.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "news.google.com",
-              "headline": "RS polls: Congress candidate Meenakshi Natarajan's nomination rejected; she calls it 'dictatorship'",
-              "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYnFLNGhwLU9CNm5yaXlPV3BtcGFDU1A4a2NLaW5LOVBCVnR2aVJRSzV2Q2pzc3l5VUFOb1JnWVVaZ3hEU3YyeUZMbjllQXhHYzZnWnNaMV9HVUx5Yk5IZF9SSlhPc3pFR2hFVmZzODR1R1lWMzdwa0JOYmRpeFpicVctUEZfOFc2QkZnVzNRRU1NS0h2UEtLMkVMdzAzYllzcXpVbWpMOEw5SHF3RmNpOWctY0swdmtLNlNZVS16QmxyeGxmbWp1ZVBNRGpqVE8zRnRmRndMdGNiS3dGdURQT21lWmxNalpkTk9PM0d4bGZtSTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "'Tarpaulin misappropriation' case: Former West Bengal Minister Ujjal Biswas arrested",
-          "neutralSummary": "Home and office vandalised; angry mob throws eggs on his face",
+          "neutralHeadline": "Government summons top US diplomat over Oman ship attack that left 3 Indians missing",
+          "neutralSummary": "India summoned a US diplomat to protest the attack on the commercial vessel Settebello off Oman's coast, which carried 24 Indian crew. While 21 have been rescued, three remain missing. New Delhi is urging de-escalation and the restoration of safe navigation in international waters following the inci",
           "versions": [
             {
               "political": "left",
@@ -906,8 +669,17 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "'Tarpaulin misappropriation' case: Former West Bengal Minister Ujjal Biswas arrested",
-              "url": "https://www.thehindu.com/news/national/west-bengal/tarpaulin-misappropriation-case-former-west-bengal-minister-ujjal-biswas-arrested/article71083532.ece"
+              "headline": "Three Indians missing after attack on ship off Oman",
+              "url": "https://www.thehindu.com/news/national/west-asia-war-indians-missing-in-missile-attack-on-ship-off-oman-coast/article71085950.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "3 Indians Missing After Attack On Ship Off Oman Coast: Centre",
+              "url": "https://www.ndtv.com/world-news/3-indians-missing-after-attack-on-ship-off-oman-coast-centre-11618773#publisher=newsstand"
             },
             {
               "political": "left",
@@ -915,124 +687,8 @@
               "source": "Indian Express",
               "initials": "IE",
               "domain": "indianexpress.com",
-              "headline": "Ex-TMC minister Ujjal Biswas held in relief supply anomaly case, mob pelts him with eggs",
-              "url": "https://indianexpress.com/article/cities/kolkata/ujjal-biswas-arrest-relief-material-misappropriation-case-10732515/"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "US and Iran Zero In On Four Nuclear Issues In Talks: NYT",
-          "neutralSummary": "US and Iran Zero In On Four Nuclear Issues In Talks: NYT&nbsp;&nbsp;Forex FactoryNYT: Iran will dilute rather than hand over uranium stockpile as part of deal with US&nbsp;&nbsp;The Times of IsraelU.S. and Iran Zero In on Four Nuclear Issues in Talks&nbsp;&nbsp;The New York TimesUranium Ban To Site",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Uranium Ban To Site Closures: What US Wants From Iran In Nuclear Talks",
-              "url": "https://www.ndtv.com/world-news/us-iran-war-uranium-enrichment-to-site-closures-what-us-wants-from-iran-in-nuclear-talks-11615463#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Forex Factory",
-              "initials": "FF",
-              "domain": "news.google.com",
-              "headline": "US and Iran Zero In On Four Nuclear Issues In Talks: NYT",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcHZiT1daaldsMWVEb2NnV2Rma2hpOXFKY3g1YU9nYVo2NV9xWVpBeE1iWDFmdU5yVnYwbDcwcFVRNG1WRVRkNE5lVGUtZVprSUhQWHNUUS1mdHJYREh3T3l2ajRrMW44NFFfWk5CWlBFZzBfTVJQSlJPcGhqR19WWENCVdIBiAFBVV95cUxNSFVsZXBzemUtT2lhSEF1SW1PUHNuazNJWVBCWXc5dVhBTnZDUk1RMXZRbGdOUHR3MTIwaTkzRUUzWnF2MXNNXzZwUFFXZHFUUFVINENlNlpvUHJZWWV2a0Y4NDJFczhXZzVjSFJZcU1BT1lIaWw2UnB5OTh6ajA3OFFjTmNmWGRB?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Is RBI replacing paper notes with plastic currency? What fact check reveals",
-          "neutralSummary": "The unit further appealed to users to report suspicious content related to the Government of India to @PIBFactCheck.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Government Denies Plans To Replace Paper Currency With Plastic From June 30",
-              "url": "https://www.ndtv.com/india-news/government-denies-plans-to-replace-paper-currency-with-plastic-from-june-30-11615331#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Is RBI replacing paper notes with plastic currency? What fact check reveals",
-              "url": "https://www.hindustantimes.com/india-news/is-rbi-replacing-paper-notes-with-plastic-currency-what-fact-check-reveals-101781063804005.html"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 10 June",
-          "neutralSummary": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 10 June&nbsp;&nbsp;MintStock markets climb in early trade on buying in blue-chips&nbsp;&nbsp;The HinduSENSEX rises over 350 points, NIFTY above 23,300 led by Reliance Industries&nbsp;&nbsp;UpstoxStock Market LIV",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 300 Points Despite Fresh Escalation In US-Iran War",
-              "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-10-june-us-iran-war-oil-prices-11615334#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "Mint",
-              "initials": "MINT",
-              "domain": "news.google.com",
-              "headline": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 10 June",
-              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQckVYakJQRllYWFZYOTNkWnVxOWZ5N0NtT2d6MGFPVHN1bDFzZjhnOUNhc0R6MldqZGc3dWFycnRac29hb1ctRlh0OXl4bFV6bWxUanBEWXQ0c0lHaUgwcHZYZjg3WGxlVERrMFo2ZHE3dnB3OWhaZDU5QjNrU3J5dEJESHpUSlFCN2Fab3hYaEcxS1pBQmludmhFU2FHbnRZZEJlU0JBWWR0bTBNaFBqODRocXhUT1JMTEprMnZsMEVjUUU4OWtzc2tmeThsLTM3eHR6ZkljbGhDZEhSampSb096NENydG5sQm53RmlmNnNjejRJRDkw0gH8AUFVX3lxTFB5YU1rVDhVSjFlazFqYS1DNm9XMFE4V2VMRWx5UHlDMVM3blJOOWlNY0c5R0JTN0IzWFB4UmxwR1lJNGM4OExPRm1kZk5IWXNpSVFMeWRnTExqWmg2clpjN252S0M5UjJ3SUNDdlh1eFdER2NTTFVjRGh4aDhzaWowY01DVF91dkhrNmRIOV96bm5QUnF5amNUTWpZMzIwZFhERHg2TEprS2JNN3BOVldnaHVhbmt1TXBaTTJCZ3pBS0NCZ0JrSDg2UVdwWVVpU0tyQk1nN0Q1YWxWbVExZ0VUckgwTDl5ZFF1WWNnWXRxQl9GakJwSXN6RmJ4dA?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Iran Targets F-35 Hangars, US Bases After Strikes Over Apache Downing",
-          "neutralSummary": "Fars news agency reported that two water tanks in the Bemani district of Sirik were also struck",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Iran Targets F-35 Hangars, US Bases After Strikes Over Apache Downing",
-              "url": "https://www.ndtv.com/world-news/iran-strikes-us-navys-5th-fleet-after-attacks-over-apache-chopper-downing-11615042#publisher=newsstand"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "West Asia war highlights: U.S. strikes Iran after Apache helicopter downing",
-              "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSWRhY3NyTHZhWElEbGdqUWppdWJITlplX3pQeDMyZnQ0ZWpzOXRoOHRyY05mLVJyQTFPUmtoWlA5RThDeTZxN2tMdHluN1ZYdDhlVFZjT1E5eWJtNzNxbUxjd3dJdEtNV2JLcHlGSmpKR1c3eXlsTTRUa25PX3pWNWtycVo4a2RPVktHWk5MLVNjRy1Bem9vcEsyQ2tsbHJLd090ZHFURFJKakZZYXB4UktEcFA5dTdnOG56Mk5NOEtTWURZYUtnYXNjTU5mMy00U1BleXFKcGF3Qkk?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "TNEA random number 2026 out today: Link and steps to check here",
-          "neutralSummary": "Tamil Nadu's Directorate of Technical Education has released the TNEA Random Number 2026 today, June 10. This unique 10-digit number, generated by the system, serves as a crucial tie-breaker for engineering admissions when candidates have identical marks. Applicants can retrieve their random number",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "TNEA 2026 random number to be released today at tneaonline.org",
-              "url": "https://indianexpress.com/article/education/tnea-2026-random-number-to-be-released-today-at-tneaonline-org-10732464/"
+              "headline": "3 Indians missing after another ship attacked off Oman coast",
+              "url": "https://indianexpress.com/article/world/indians-missing-commercial-ship-settebello-attacked-oman-coast-us-iran-10733557/"
             },
             {
               "political": "center",
@@ -1040,8 +696,217 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "TNEA random number 2026 out today: Link and steps to check here",
-              "url": "https://timesofindia.indiatimes.com/education/news/tnea-random-number-2026-out-today-link-and-steps-to-check-here/articleshow/131625576.cms"
+              "headline": "Government summons top US diplomat over Oman ship attack that left 3 Indians missing",
+              "url": "https://timesofindia.indiatimes.com/india/government-summons-top-us-diplomat-over-oman-ship-attack-that-left-3-indians-missing/articleshow/131639643.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "3 Indians missing after tanker attack off Oman coast, MEA says search underway: ‘Targeting must end’",
+              "url": "https://www.hindustantimes.com/india-news/targeting-must-end-india-condemns-attack-on-ship-off-oman-coast-search-on-for-3-missing-indians-settebello-hormuz-101781104184686.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "3 Indians missing after Oman tanker strike",
+              "url": "https://economictimes.indiatimes.com/news/india/india-responds-as-two-crew-members-go-missing-after-suspected-us-strike-on-tanker-off-oman/articleshow/131636845.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "‘Defeated’ Iran will pay: Trump warns Tehran",
+          "neutralSummary": "‘Defeated’ Iran will pay: Trump warns Tehran",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "‘Defeated’ Iran will pay: Trump warns Tehran",
+              "url": "https://economictimes.indiatimes.com/news/defence/trump-says-irans-military-completely-defeated-warns-tehran-will-pay-the-price/articleshow/131633560.cms"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "U.S. and Iran launch airstrikes after Trump blamed Tehran for downing Army helicopter",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWFJTTVowMzV2Z0drNlM5eVFZZVkxeFlJZ0lTQ3RHZWlGZWN1QnhBYmQ4amNkQVVXN05ZWEk4d2xJTVNGNXc0ZUtGaER3T0htbUxmYk9MUHdUcUQ3Y0hJRGJpMXZCUlVUQ1NCRGQzcmZmdFlvYlVjX3NobHB5X1R3WEtqRVhaRmJRMHdkOXNDeHVxQ3lXd2YtWXFEaUs2dENXRHZPNVl1S2tEUmhMMnk4dWZWY2xZcW0tTUVqaS1Td2PSAccBQVVfeXFMUGp3TnBBUFAzU25lVmE3SjRkVFp0UUVWeTllQllUY2hzTFBjSGs2VDlMRTcwR3I4YXpJcmlVUzkxNnVIcTFNdW1GVm9LTG8ydlRxRHpwNG5uNFE0V2NpYXlyc1dXNy15X2Y1VUo3WHlfc3NZeHRPWC10bGd5Z0ZFQW5nSWN5TkljWTFjbGdRLW9EeTVEbmZVUzFrSlU3TGdKeTdQcVI2Z3M5ZGhFVUxBTW5MNVdCdjRWWHcxeXVqa01IVGplckV3Zw?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Oil Jumps as Trump Threatens to ‘Hit Iran Hard’ Imminently",
+              "url": "https://www.bloomberg.com/news/articles/2026-06-09/latest-oil-market-news-and-analysis-for-june-10"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Congress trapped India in slow growth, called it 'Hindu Growth Rate': PM",
+          "neutralSummary": "Congress trapped India in slow growth, called it 'Hindu Growth Rate': PM&nbsp;&nbsp;India TodayAt NDA Meet On Completing 12 Years, PM's 'Congress Growth Rate' Jab&nbsp;&nbsp;NDTVFive things Narendra Modi said on 12 years as India's prime minister&nbsp;&nbsp;Telegraph India\"Ye wala chahiye...\" PM Nar",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "At NDA Meet On Completing 12 Years, PM's 'Congress Growth Rate' Jab",
+              "url": "https://www.ndtv.com/india-news/at-nda-meet-on-completing-12-years-pm-narendra-modis-congress-growth-rate-jab-11618958#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "Today",
+              "initials": "TD",
+              "domain": "news.google.com",
+              "headline": "Congress trapped India in slow growth, called it 'Hindu Growth Rate': PM",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaklTeDg4YjQwMUFSLXRrS3FELVRud0Z1bUVCR0xudWtMYl9NNDUzZ01wUEo2eFVfazJuTGlzR2ltWWRkaHVOM3N2c3Q5YTF2ODc2eF9GZGZXbW5mRFVPdTlnSDVHd0c3RDRCRy1FYTFpQ0llbU1HZTh6UkJsTnpJWndoMWVlY0xsQlhJTm10b3JUaDNfS0FHR2tfS2tmYlpCSjcxYWU1dW5xeUZYTV9FV2JqRkJzMGJRSW9LY1ZoTXA0aVMwWFZYVlZ2ZzlUQ1p4Sy1mcndDa1ROMkxadURn0gHkAUFVX3lxTE5MZmZwbldZSk4tRFpBdVhHNTVqQVNxbTJHTk9HLU5CU2g1REl5SmpOMS1sR2ZYZGxsNWlwQkJyTVo5NTNKb3k4amJJQ0FKUUhFblNTUEFKZG5KVTN2MDRlU2JReU9hTUxWNEdhWWZtM2FOSVFWTU0tRTJjYWdfQzVSb1JadDRtd1FSRXg5YjZvZW5fRkFYRC0tWWgxa19kXzFtdVkxcWxpT2ZZTk1hQzlvZTNTVFIwNE4yYlUzaFRwTmJJQjVmTzZwMGtSZnRmdzVLeWg3RGJuRGtSdVNDVDF3QjhTcQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "After Ashok Gehlot's Outburst, Sachin Pilot's Message On \"Restraint\"",
+          "neutralSummary": "\"In the end, it is the people who decide the outcome,\" Sachin Pilot said.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "After Ashok Gehlot's Outburst, Sachin Pilot's Message On \"Restraint\"",
+              "url": "https://www.ndtv.com/india-news/rajasthan-congress-after-ashok-gehlots-outburst-sachin-pilots-message-on-restraint-11618852#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "After Gehlot’s broadside, Sachin Pilot counters with Rahul Gandhi’s ‘mohabbat ki dukaan’",
+              "url": "https://indianexpress.com/article/india/sachin-pilot-ashok-gehlot-mohabbat-dukaan-rajasthan-congress-feud-karauli-10733518/"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Meenakshi Natarajan Row And Congress' Article 324 Demand. What It Is",
+          "neutralSummary": "The Election Commission is examining the Congress representation.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Meenakshi Natarajan Row And Congress' Article 324 Demand. What It Is",
+              "url": "https://www.ndtv.com/india-news/meenakshi-natarajan-row-and-congress-article-324-demand-what-it-is-11618805#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Rajya Sabha polls: Congress delegation meets ECI over rejection of Meenakshi Natarajan’s nomination",
+              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUGlLVTJSTXFRdm5xMVZZS216QWszMWpGeGJQQlU4SVZQbzlkamtueU9ScW02Q3NtenNKRXZCaWJJZ1NFWHhlWUZjeDl5UXdrcVZBUUFoTDgxa2NfLW9Gby1OYXpwSUxIT0V6Qmx3TmtFazR4Rmh6V09jNHVvMDdhSUtyaDhjdk04ajhqYmFlYWlzd3hJNkRDQU9GdDZ1SE9zcHpna0Ryd3gxb1FLNGhjSmwyc0dWZlhQODdJalNGRWNJUmRXSGt5bl9WTGdCd1M5b051ZG0wcU5LOVdQbVEtcFlRUHhlcWkxVUhNUDNPYlPSAfcBQVVfeXFMT3ZXTnZTaXZsUUVxbTVOQ2xHYnZITEd6SFJmQWM3cGNlT2tZdzZHOGRwUGR6OEdrU0JPQjhhc3hHbnFWM1lZaHVqeEhKb05NWTFKOGpqSjRtdDVibS16Y04zTXg0QjZYTkNNM2JtQU5MLXlQZUlITi03QVQ2ODdSUDlkQWlSR3lsYXNoNVN4X21tWmxEeV9tZzhOX1hyd0hSc2xpcVJDZ2Q0YUs1bHFkb0plZnIxdDNiamNEVVJUX2VQYXBOMUNhMVd5Y1FBX21jNjF4Skl2WU84Q0ViVFk2c1h2WXBwSlhQUHR2Rko1WTZpam9yamVpMA?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Union cabinet celebrates PM Modi as he completes record 4,399 days in office",
+          "neutralSummary": "The Cabinet, which gave a standing ovation to the PM, also noted that the milestone comes as the NDA government completes 12 years in office under Modi’s leadership.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "\"Unparalleled Dedication\": Cabinet Praises PM Modi's Record 12-Year Tenure",
+              "url": "https://www.ndtv.com/india-news/unparalleled-dedication-cabinet-praises-pm-narendra-modis-record-12-year-tenure-11617778#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Union cabinet celebrates PM Modi as he completes record 4,399 days in office",
+              "url": "https://www.hindustantimes.com/india-news/union-cabinet-celebrates-pm-modi-as-he-completes-record-4-399-days-in-office-101781101461303.html"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "19 TMC MPs join rebel group; Yusuf Pathan, Saayoni Ghosh, Mala Roy on list",
+          "neutralSummary": "A significant internal rebellion is shaking the Trinamool Congress, with 19 MPs reportedly forming a separate faction, pushing the party towards a potential split. Rebel leader Kakoli Ghosh Dastidar stated they will support the NDA but not join the BJP. MP Mahua Moitra, however, dismissed the rebell",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "19 TMC MPs join rebel group; Yusuf Pathan, Saayoni Ghosh, Mala Roy on list",
+              "url": "https://timesofindia.indiatimes.com/india/19-tmc-mps-join-rebel-group-yusuf-pathan-saayoni-ghosh-mala-roy-on-list/articleshow/131635909.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "TMC in crisis, Abhishek Banerjee meets Rahul Gandhi to repair ties with Congress",
+          "neutralSummary": "Abhishek’s meeting with Rahul comes a day after TMC chief Mamata Banerjee met PCC chairperson Sonia Gandhi at her residence for 50 minutes",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "TMC in crisis, Abhishek Banerjee meets Rahul Gandhi to repair ties with Congress",
+              "url": "https://www.hindustantimes.com/india-news/tmc-in-crisis-abhishek-banerjee-meets-rahul-gandhi-to-repair-ties-with-congress-101781106923745.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "news.google.com",
+              "headline": "Abhishek Banerjee meets Rahul Gandhi in Delhi amid Trinamool crisis",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWdidjJycmZoNFdGZG1PWlhGUHcySjNmR3F6YVNxcDlQUURuOXNkYlphX29Od3hVU2FBMlpNYUl5MHBEaXNjM29iWjhsMERBVllTX0lhS1BlbWI2cGdXSmQwbHNOc3VyMnpRR185NWlXS0xvT0RVM29KYUY3MmlFNU5aQ3hTaHhWeXVLT1R3bVJFVXJwRkpqRVJxdEhmVGZCNEY3Rw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "KTR accuses government of failing to prepare for monsoon",
+          "neutralSummary": "KTR accuses government of failing to prepare for monsoon",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "KTR accuses government of failing to prepare for monsoon",
+              "url": "https://www.thehindu.com/news/national/telangana/ktr-accuses-government-of-failing-to-prepare-for-monsoon/article71086213.ece"
             }
           ]
         }
