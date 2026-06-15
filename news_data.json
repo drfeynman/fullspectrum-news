@@ -1,13 +1,115 @@
 {
-  "generatedAt": "2026-06-14T15:08:58.691831+00:00",
+  "generatedAt": "2026-06-15T07:07:30.849006+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Trump And Pakistan Say Iran Deal Could Be Signed Sunday But Tehran Signals More Time Is Needed",
-          "neutralSummary": "Iran foreign ministry spokesperson Esmail Baghaei in statements carried by state media said the signing “will not happen tomorrow.\"",
+          "neutralHeadline": "Oil falls on US-Iran deal but Hormuz backlog may last weeks",
+          "neutralSummary": "Oil falls on US-Iran deal but Hormuz backlog may last weeks&nbsp;&nbsp;Financial TimesThe Strait of Hormuz is ‘leaking’ oil&nbsp;&nbsp;CNNHormuz Trade Will Take Months to Return to Normal, Analysts Say&nbsp;&nbsp;Bloomberg.comLost Gulf oil exports far smaller than thought, traders and shippers say&n",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Oil prices slide after US-Iran deal announced",
+              "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Financial Times",
+              "initials": "FT",
+              "domain": "news.google.com",
+              "headline": "Oil falls on US-Iran deal but Hormuz backlog may last weeks",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWdrY2Z3YmJ0VlVpWmdhMzloMDhzM0Q2ZEJTRlFxTEFVc0JjbWdmUFFObndGMFV2bnpJQUtjOTBROXM2d0JqRHl0RThsQldDanNmSDROaHNINkItY1YxMkdZc2ZOOENfclRUaU9ubmRlNldyTWJKakpLVFY1MTFmSnY5WGM?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "US-Iran to sign a ‘peace deal’ on Friday: What we know",
+              "url": "https://www.aljazeera.com/news/2026/6/15/us-iran-to-sign-a-peace-deal-on-friday-what-we-know-so-far?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "US and Iran Reach Deal to Reopen Hormuz",
+              "url": "https://www.bloomberg.com/news/videos/2026-06-15/us-and-iran-reach-deal-to-reopen-hormuz-video"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "World Cup: Amad Diallo gives Ivory Coast victory over Ecuador",
+          "neutralSummary": "Ivory Coast beat Ecuador (1-0) in their opening World Cup match, thanks to a goal from Amad Diallo. This is Ivory Coast’s first World Cup victory since 2014.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Ivory Coast beats Ecuador 1-0 at FIFA World Cup with Amad Diallo goal",
+              "url": "https://www.aljazeera.com/sports/2026/6/15/ivory-coast-beat-ecuador-1-0-at-fifa-world-cup-with-amad-diallo?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "World Cup: Amad Diallo gives Ivory Coast victory over Ecuador",
+              "url": "https://www.france24.com/en/tv-shows/sports/20260615-world-cup-amad-diallo-gives-ivory-coast-victory-over-ecuador"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "US musician Oliver Tree, 32, killed in helicopter crash in Brazil",
+          "neutralSummary": "Alternative singer and internet personality among six who died when two helicopters collided over Rio de JaneiroThe American musician Oliver Tree has died in a helicopter crash in Brazil at the age of 32, according to reports.Two helicopters collided over Rio de Janeiro on Sunday morning and crashed",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "US musician Oliver Tree, 32, killed in helicopter crash in Brazil",
+              "url": "https://www.theguardian.com/world/2026/jun/14/musician-oliver-tree-32-killed-in-helicopter-crash-in-brazil"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "US musician Oliver Tree dies in helicopter collision in Brazil",
+              "url": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Singer Oliver Tree, 32, killed in helicopter crash in Brazil",
+              "url": "https://nypost.com/2026/06/14/us-news/singer-oliver-tree-32-killed-in-helicopter-crash-in-brazil/"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Pakistan's prime minister says US and Iran have reached ceasefire deal",
+          "neutralSummary": "Pakistan's prime minister says US and Iran have reached ceasefire deal",
           "versions": [
             {
               "political": "left",
@@ -21,11 +123,36 @@
             {
               "political": "left",
               "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Crude oil futures drop after Trump promises an Iran deal will be signed Friday",
+              "url": "https://www.npr.org/2026/06/14/nx-s1-5858115/oil-prices-trump-iran-deal"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Pakistan's prime minister says US and Iran have reached ceasefire deal",
+              "url": "https://www.france24.com/en/middle-east/20260614-middle-east-war-live-trump-says-iran-deal-to-be-signed-sunday"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Swiss voters reject 10 million population cap",
+          "neutralSummary": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-              "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss"
+              "headline": "Swiss voters reject 10 million population cap",
+              "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -33,31 +160,47 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing",
-              "url": "https://www.npr.org/2026/06/13/nx-s1-5857149/trump-iran-war-peace-deal"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "news.google.com",
-              "headline": "Trump claims Iran peace deal to be signed Sunday as Tehran signals delays",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZnJGMDU2MjhId21naVY3ZXU5MlFZaEUtTVNqLXZwY2pRNHIwUm1pRTdjYU9Ibkc1alMybWI5NVZwTHpmaDJlVGhwOTZMTnpBQ2RwWjFQM0V1Ql9ZMjA4TDEtVDBUbURUUmhJTE1sRmhnQ0MxbWI3OGZlbkxtWDFXcmNhd9IBiAFBVV95cUxQQlhrenB1NDd2N2tTMlVPblBXVUJKczVzdVc1aW1OQ3VPRVh3U2hzZEdub0JvWTRHd1dDVFAxS3ZreHNRM0JSdU5iT3FWM3RtV2pINlhNWGE0MXY3VTRqM3h6MnI0N016MTRvb0c0SkozMmNKVWVDZFhmNHFtV2gyN2toSUhJTng4?oc=5"
+              "headline": "Swiss reject right-wing's bid to cap population at 10 million, early results show",
+              "url": "https://www.npr.org/2026/06/15/g-s1-128120/swiss-referendum-population-cap"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss"
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "news.google.com",
+              "headline": "Swiss voters reject proposal to cap population at 10 million",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdFBNbmdUUHRieVU4V2FRWGtuV2Y2VVZBZVlOU3lmYVpNcm1MT21GNlVMT28zaXAzdmFBRnZQd3I3RHJ3WDdOQTdmd1luRU9WS0xUVmpJQmJxYXVENS1nUXpFc0xuZ0xRN0JOSXBuTEFXd2hyMWN2cV9IZDBCNWNsdHZlbC1OQXl4eVJfUVJNNjI?oc=5"
             }
           ]
         },
         {
-          "id": "global-2",
+          "id": "global-6",
+          "neutralHeadline": "World Cup 2026: Sweden make statement with commanding victory over Tunisia",
+          "neutralSummary": "World Cup 2026: Sweden make statement with commanding victory over Tunisia",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Sweden beat Tunisia 5-1 in strong start to World Cup",
+              "url": "https://www.aljazeera.com/sports/2026/6/15/sweden-beat-tunisia-5-1-in-strong-start-to-world-cup?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "World Cup 2026: Sweden make statement with commanding victory over Tunisia",
+              "url": "https://www.france24.com/en/sport/20260615-world-cup-2026-sweden-make-statement-with-commanding-victory-over-tunisia"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
           "neutralHeadline": "Trump says leader of Venezuelan Tren de Aragua gang killed in US strike",
           "neutralSummary": "President says Hector Rusthenford Guerrero Flores killed in ‘swift and lethal’ military strike with help from VenezuelaThe US military has killed a leader in the Venezuelan street gang Tren de Aragua, Hector Rusthenford Guerrero Flores, with the help of Venezuela, Donald Trump announced on Friday.“A",
           "versions": [
@@ -78,199 +221,47 @@
               "domain": "huffpost.com",
               "headline": "Trump Says U.S. Military Strike Killed Leader Of Tren De Aragua Gang With Help From Venezuela",
               "url": "https://www.huffpost.com/entry/ap-us-trump-tren-de-aragua_n_6a2cb9c6e4b0942fb778f56c"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
-              "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump says U.S. military strike killed leader of Tren de Aragua gang",
-              "url": "https://www.npr.org/2026/06/12/nx-s1-5856611/u-s-military-kill-leader-tren-de-aragua"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Early results show Swiss voters reject right-wing’s bid to cap population at 10 million",
-          "neutralSummary": "Early results show Swiss voters reject right-wing’s bid to cap population at 10 million&nbsp;&nbsp;AP NewsSwiss vote against proposal to cap population at 10 million by cutting migration, projections say&nbsp;&nbsp;BBCEarly results on \"Swiss Brexit\" indicate defeat of measure that would cap populati",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Swiss voters reject 10 million population cap, early projections say",
-              "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Early results show Swiss voters reject right-wing’s bid to cap population at 10 million",
-              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeG55MTd6Q3NkTlpYMWZKU3RVY01uMXozMDZOQkx1UncyUG5OZmh0UkxrLUtSZkxwMW5oblFySnJ3SzYwaWVlMDhFdUxsWG1xWGhCRGNpT1dEVzFlSW5lVDBCZ2ZjVno2OV9ubnpsNXAyRm1kdHdkemNwWEptREl3T2szeC1HaW1YbkhFS0ZuTHo1TU52c2lVc1ZJVWNTRmo3aHUyWnktNA?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Swiss cast ballots on right-wing's bid to cap country's population at 10 million",
-              "url": "https://www.france24.com/en/video/20260614-swiss-cast-ballots-on-right-wing-s-bid-to-cap-country-s-population-at-10-million"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-          "neutralSummary": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-              "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Teen shot during Knicks madness takeover in Times Square",
-              "url": "https://nypost.com/2026/06/14/us-news/teenager-shot-during-knicks-madness-takeover-in-times-square/"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "FIFA’s American Dream: How the World Cup Cashed In",
-          "neutralSummary": "The 2026 World Cup is set to generate more than $11 billion in revenue, making it the richest tournament in football history. But soaring ticket prices, dynamic pricing models, and a booming resale market are raising concerns that many longtime supporters are being priced out. Veteran England fan An",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Fifa to pay Somali referee Artan full World Cup fee",
-              "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "FIFA’s American Dream: How the World Cup Cashed In",
-              "url": "https://www.bloomberg.com/news/videos/2026-06-14/fifa-s-american-dream-how-the-world-cup-cashed-in-video"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Trump's name removed from Kennedy Center after court order",
-          "neutralSummary": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Trump's name removed from Kennedy Center after court order",
-              "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Donald Trump’s name removed from Kennedy Center",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/donald-trumps-name-removed-from-kennedy-center?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Pope Leo XIV's flight home from Spain was grounded so the king came to his aid",
-          "neutralSummary": "Leo's Iberia charter, due to take him back to Rome after a weeklong visit to Spain, was grounded by a technical problem Friday, prompting Spain's king to offer his private jet instead.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Pope Leo XIV's flight home from Spain was grounded so the king came to his aid",
-              "url": "https://www.npr.org/2026/06/13/nx-s1-5856981/pope-leo-flight-grounded"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "Pope Leo had to catch a ride from the king of Spain after plane’s engine failed",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHJQV005X1dTNzNCWEpWZXd4VlQ1SzBteG9nYjJNbHNXNFBpUVpNR1pKRTFDV2E4WE1CN2dGM0Nwam9oT2pIalczZmxEMG9sSjhKc081YjRsTGxJbktZVXM4QmtSSk1qVjJVeHRlVC1hVHRvck9GUmV6THJKelE5cEdUTXpUOFZ1RkI1RWtROEwxZTNzUDFxaV9SVE1nNDduUG40eU9IXzdXV2th?oc=5"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "UK forces seize suspected Russian shadow fleet tanker in English Channel",
-          "neutralSummary": "UK forces seize suspected Russian shadow fleet tanker in English Channel&nbsp;&nbsp;Al JazeeraUK Forces Seize Russian Shadow Fleet Oil Tanker&nbsp;&nbsp;The New York TimesBritish forces intercept Russian shadow fleet tanker in the Channel&nbsp;&nbsp;ReutersRoyal Marines board Russian shadow fleet oi",
+          "neutralHeadline": "Deadly Philippines earthquake found to have raised seabed by up to 2 metres",
+          "neutralSummary": "‘Coastal uplift’ exposes coral and kills marine life, as residents say shorelines extended by up to 200 metresA powerful earthquake that killed at least 61 people in the Philippines this week raised the seabed by as much as 2 metres (6.6ft), exposing coral and harming marine life, the country’s envi",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "UK forces seize suspected Russian shadow fleet tanker in English Channel",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaVp5ZC1IWUUyVTlIUjB4Q2JjSHgzd0lGSUZDMTl5MlNfYUlGSXhvZnJYNXZKVkV5WHhzNkRCVmQzcTNpYWpMV3YzcVJkbm9vUHJzMkFDQ0Y3MFYtQVUzVnBpdXg0RHdmQld1RzJGMUZ3SGVVQmxzeTBCeVU3LXBpRG5zRmtVQXlPODdHeE1xMDJ1M0N4cVpHbVVkRjRRV3NDdVlnbkw0U1ZFdkQ20gGyAUFVX3lxTE5nbzNXQTFKOXBKemhTdDVzakk5QTZ6WDg4RlNwTE9wZFNzRnRvT09WNEdiZDg3UHp6YmtqQVM2MEcxNFFTekhNTkFqVUVXaE00bTNtQVFMU2pYT05kOVVXMThHZ3RpdTdiYi0tV1N4d2phTW56UWlxQzl4bXA2bkJJSXZjVk1LWHBtZEJrQlQ1UHpoQ2hVSHNQc3g4MHhxN1h0ZHlrSnVzUzNPN29xSjRZcUE?oc=5"
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Deadly Philippines earthquake found to have raised seabed by up to 2 metres",
+              "url": "https://www.theguardian.com/world/2026/jun/14/philippines-earthquake-raised-seabed-costal-uplift-coral-exposed"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Qatari mediators travel to Tehran for final touches on a possible deal to end war",
-          "neutralSummary": "Qatari mediators travel to Tehran for final touches on a possible deal to end war&nbsp;&nbsp;YahooLive Updates: Qatari mediators travel to Tehran to finalize truce in U.S.-Iran war, diplomat says&nbsp;&nbsp;CBS NewsQatari negotiators fly to Tehran in a push to finalize U.S.-Iran deal&nbsp;&nbsp;NBC",
+          "neutralHeadline": "U.S. And Iran Have Agreed To Wording Of A Deal To End Their War, Pakistan's Prime Minister Says",
+          "neutralSummary": "Pakistan's prime minister says the United State and Iran have agreed to wording of an agreement aimed at ending their war in the Middle East.",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Yahoo",
-              "initials": "Y",
-              "domain": "news.google.com",
-              "headline": "Qatari mediators travel to Tehran for final touches on a possible deal to end war",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTI0SWg1dDZTYXptNENFc0JtZDFSbF9VTVVrWEk5MXJqNW5lalc0Rjdlczhnd210bFYwdWRiVnI4T2c5UlFyR1pDcU83QXdBV3hpeGx6a3NuY2lrNWRWRFhKeEtETlpoeFRCSk9uTjhDT0c2M3RaUFlzUWRMR2VpOUZKUTZ2S19DcFVxekRYYWFmS2hSdXZiLQ?oc=5"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "U.S. And Iran Have Agreed To Wording Of A Deal To End Their War, Pakistan's Prime Minister Says",
+              "url": "https://www.huffpost.com/entry/iran-us-war-agreement-pakistan_n_6a2c7b8ee4b0942fb778ece8"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Qatari mediators travel to Tehran for final touches on a possible deal to end Iran war",
-              "url": "https://nypost.com/2026/06/14/us-news/qatar-mediators-travel-to-tehran-for-final-iran-war-deal-talks/"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "The U.S. and Iran announce a deal to end the war",
+              "url": "https://www.npr.org/2026/06/14/nx-s1-5858099/us-iran-trump-deal-end-war-hormuz"
             }
           ]
         }
@@ -281,35 +272,26 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Trump administration ‘confident’ Iran deal will be signed Sunday: Waltz",
-          "neutralSummary": "U.S. Ambassador to the United Nations Mike Waltz said on Sunday that the Trump administration is &#8220;confident&#8221; a final peace deal with Iran will be signed on Sunday. &#8220;I’m confident, the team is confident,&#8221; he told reporter Martha Raddatz on ABC&#8217;s &#8220;This Week.&#8221;",
+          "neutralHeadline": "GOP Strategist Spots How Trump Is Trying To Distract From 'Failure' UFC Event At White House",
+          "neutralSummary": "Susan Del Percio said even MAGA supporters are \"turned off\" by how Trump is ringing in America's 250th birthday.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump says deal to end Iran war will be signed Sunday, as Iran disagrees on timing",
-              "url": "https://www.npr.org/2026/06/13/nx-s1-5857149/trump-iran-war-peace-deal"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "GOP Strategist Spots How Trump Is Trying To Distract From 'Failure' UFC Event At White House",
+              "url": "https://www.huffpost.com/entry/susan-del-percio-trump-ufc-white-house-iran-war-deal_n_6a2e91ffe4b0ba7a1fedfbb8"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxUHJCWFpVUE1hUExUSk5pZEdkX2p5eENDMkxybDdLTFBoaEJ4TmpkcE5LVUowOVNScWJBeUY1MUtYNmtKams2eFAwdkJVeV9WZWc4SF9DYU1vdw?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump administration ‘confident’ Iran deal will be signed Sunday: Waltz",
-              "url": "https://thehill.com/homenews/administration/5923351-waltz-confident-iran-deal/"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "For His 80th Birthday, Trump Brought a Cage Match to the White House Lawn",
+              "url": "https://www.nytimes.com/2026/06/14/us/ufc-trump-white-house.html"
             },
             {
               "political": "right",
@@ -317,8 +299,8 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Israel says it targeted Hezbollah in Beirut as Trump looks to secure Iran deal",
-              "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4607922/israel-beirut-strike-trump-iran-deal/"
+              "headline": "UFC Freedom 250 White House event: Photos",
+              "url": "https://www.washingtonexaminer.com/news/4608292/ufc-freedom-250-white-house-event-photos/"
             },
             {
               "political": "right",
@@ -326,13 +308,176 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Trump Promises Iran Deal By End Of Day. What’s Inside Could Reshape The Middle East.",
+              "headline": "Trump Says Deal with Iran Is ‘Complete’ Ahead Of UFC Fight At White House",
               "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule"
             }
           ]
         },
         {
           "id": "us-2",
+          "neutralHeadline": "12 dead in Missouri plane crash, authorities say",
+          "neutralSummary": "A plane crashed in a Missouri field on Sunday during a skydiving outing, killing all twelve people on board, officials said. Chad Anderson, the sheriff of Bates County, Missouri, told reporters that the plane crashed at roughly 11:30 a.m. CST, shortly after departing Butler Memorial Airport. The air",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "12 Killed in Skydiving Plane Crash in Butler, Missouri",
+              "url": "https://www.nytimes.com/2026/06/14/us/skydiving-plane-crash-butler-missouri.html"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "12 dead after skydiving plane crashes in Missouri, authorities say",
+              "url": "https://www.npr.org/2026/06/14/nx-s1-5857729/skydiving-plane-crash-missouri"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "12 dead in Missouri skydiving plane crash, officials say",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcmRlTEVEckFWTW1ldTVfVjdSUVc1UkV5S1lfRzktR2MzSDIxRFdsZnBkT1d6RU0zQUk4U0tsUkFlOWYwVWJiQ0ZmLUNLNlA1YUdQMExldkdYN3JHMDd6RlY1akVySEl4ZnhfOVRvTDRyV0pMOWN4R2lTSDgtd2pJSkkzOWVkMXFmeXY2MktTTEw5Y2FNRkpFRDNCZU96QmhTQmk3bE9QNTlZMWdVWUtqYWZnejlwNHVyVUNkU2RoQm80NVdrUDV4ZjlB?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "12 dead in Missouri plane crash, authorities say",
+              "url": "https://thehill.com/policy/transportation/5923978-plane-crash-missouri-skydiving-fatal/"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "12 Killed After Skydiving Plane Crashes South Of Kansas City",
+              "url": "https://www.dailywire.com/news/breaking-12-killed-after-plane-crashes-south-of-kansas-city"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Mitch McConnell Is Hospitalized, His Spokesman Says",
+          "neutralSummary": "No details were given about the 84-year-old former majority leader’s condition, but he has had a string of health issues in recent years.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Mitch McConnell Is Hospitalized, His Spokesman Says",
+              "url": "https://www.nytimes.com/2026/06/14/us/politics/mitch-mcconnell-hospitalized.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Former Republican Senate Majority Leader Mitch McConnell hospitalized",
+              "url": "https://www.npr.org/2026/06/14/g-s1-128089/mitch-mcconnell-hospital"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Sen Mitch McConnell hospitalized, 'receiving  excellent care,' his office says",
+              "url": "https://www.foxnews.com/politics/sen-mitch-mcconnell-hospitalized-receiving-excellent-care-office-says"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "84-Year-Old Mitch McConnell Hospitalized After ‘Unknown Medical Incident’",
+              "url": "https://www.dailywire.com/news/senator-mitch-mcconnell-hospitalized"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Graham ‘concerned’ that Iran views deal with U.S. differently than Trump administration",
+          "neutralSummary": "Republican Sen. Lindsey Graham (S.C.) said Sunday that he is “concerned” that the U.S. and Iranian governments have “different” views of the deal that the two sides have agreed to. “I am pleased to hear the memorandum of understanding with Iran to allow the Strait of Hormuz to open has been agreed t",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Crude oil futures drop after Trump promises an Iran deal will be signed Friday",
+              "url": "https://www.npr.org/2026/06/14/nx-s1-5858115/oil-prices-trump-iran-deal"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Graham ‘concerned’ that Iran views deal with U.S. differently than Trump administration",
+              "url": "https://thehill.com/homenews/senate/5923946-lindsey-graham-iran-deal/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump says Netanyahu should be thankful for Iran deal: ‘A very difficult guy’",
+              "url": "https://www.washingtonexaminer.com/news/world/4608349/trump-says-netanyahu-should-be-thankful-iran-deal/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "UFC brings its trademark mayhem to the White House as President Trump celebrates 80th birthday",
+          "neutralSummary": "UFC brings its trademark mayhem to the White House as President Trump celebrates 80th birthday&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Judge OKs Trump’s UFC Fight Taking Place At White House",
+              "url": "https://www.huffpost.com/entry/judge-white-house-ufc-fight_n_6a297046e4b0a99062fab21b"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "UFC brings its trademark mayhem to the White House as President Trump celebrates 80th birthday",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ2d0Y1NJSkU1T01KdUxBazhMdnNFWVB1UHc2NVQ0b1VnY2VGUF8wRzdRUTZCS2dyYlBoTjNZLWR1T2VYYlhRVmFwdFVQakV0QkV3b1Q0b2lTSUJldFdHbDdzWng4bTAxcHV0TjlRRG1XZWExS2FPemZyTmFCdnI2S2wzeDdWWDBFVDU0LWoyVQ?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Eric Trump denies asking former UFC star if White House fights were rigged",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4608247/eric-trump-denies-asking-ufc-star-white-house-fights-rigged/"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
           "neutralHeadline": "Trump's Name Officially Removed From Kennedy Center",
           "neutralSummary": "A federal judge ruled in May that President Donald Trump can't just slap his name on the building.",
           "versions": [
@@ -348,106 +493,27 @@
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "At the Kennedy Center, a Name Change Shrouded in Uncertainty",
-              "url": "https://www.nytimes.com/2026/06/13/us/politics/trump-kennedy-center-name.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
+              "source": "CNN",
+              "initials": "CNN",
               "domain": "news.google.com",
-              "headline": "Trump's name removed from Kennedy Center in secretive process",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORy1YYlNRNDF6QTBZMy0yeEJyQWVGQk5IdmxTWW1icDZpRWsyd2xiMloyRkFwN3oybkQ1T20wcUxGVU9lem1sQ1JTdndTODFRa0pLN2w0ZHdSNlpTYkhHYnJiSzNxQTc0LTlMMVVVellrazZXS0hEUkhBNWN3blRDYnRXSnQ0SnhTWjdTN0JIUTJmNDgzVTJXWjlmUDNoV19yUl83cEpIdF8?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Workers rip Trump's name from Kennedy center facade months after it goes on, hours after failed appeal",
-              "url": "https://www.foxnews.com/politics/workers-rip-trump-name-kennedy-center-facade-months-goes-hours-failed-appeal"
+              "headline": "Kennedy Center exterior remains covered after Trump’s name is removed",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVQ4OHNDQ0N6NGdWdjl3Y19ucFozclZlancxcGFYREh5VXRsQ0RDaGwzNVY0dm5nNnNUeXFKd0Z2OGhnT0hDWjZQaEN5XzFZUWxpWXREYWJsaldRWG5DUnFrMk96Ul9iRW41R1dPSUEya0tmdnhPemtqbmpTV1JJZXVqY3hiRW5wQTFQNjFrZ00wTEh4eDlfUUNYaDNTVzVlQ1BTXzZ6VFBSZkpO?oc=5"
             }
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "Judge OKs Trump’s UFC Fight Taking Place At White House",
-          "neutralSummary": "The bloody tournament and other activities on the National Mall are expected to draw tens of thousands of people.",
+          "id": "us-7",
+          "neutralHeadline": "President Trump Endorses Mike Collins in Georgia Senate Runoff",
+          "neutralSummary": "President Trump Endorses Mike Collins in Georgia Senate Runoff&nbsp;&nbsp;The New York TimesTrump endorses Mike Collins in Georgia Senate runoff&nbsp;&nbsp;The Washington PostTrump makes endorsement in key Georgia Republican US Senate run-off&nbsp;&nbsp;Al JazeeraTrump endorses Rep. Mike Collins in",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Judge OKs Trump’s UFC Fight Taking Place At White House",
-              "url": "https://www.huffpost.com/entry/judge-white-house-ufc-fight_n_6a297046e4b0a99062fab21b"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
+              "tone": "optimistic",
               "source": "New York Times",
               "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "For His 80th Birthday, Trump Brings the Fight to the White House Lawn",
-              "url": "https://www.nytimes.com/2026/06/14/us/ufc-trump-white-house.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump's UFC fights bring historic spectacle to White House",
-              "url": "https://www.npr.org/2026/06/14/nx-s1-5854962/trump-ufc-white-house-fights"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "The Bigger Story Behind Trump’s White House UFC Event",
-              "url": "https://www.dailywire.com/news/the-bigger-story-behind-trumps-white-house-ufc-event"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Trump endorses Collins in Georgia Senate runoff. It's his latest 'MAGA' pick in Republican primaries",
-          "neutralSummary": "Trump endorses Collins in Georgia Senate runoff. It's his latest 'MAGA' pick in Republican primaries&nbsp;&nbsp;AP NewsTrump endorses Rep. Mike Collins ahead of GOP Senate runoff in Georgia&nbsp;&nbsp;CNNPresident Trump Endorses Mike Collins in Georgia Senate Runoff&nbsp;&nbsp;The New York TimesBudd",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
+              "domain": "news.google.com",
               "headline": "President Trump Endorses Mike Collins in Georgia Senate Runoff",
-              "url": "https://www.nytimes.com/2026/06/14/us/politics/trump-mike-collins-georgia-senate-runoff.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Trump endorses Collins in Georgia Senate runoff. It's his latest 'MAGA' pick in Republican primaries",
-              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHVMYldqRVNuMlJLN1BzZHBRNzJOSXhaajU4VUVBTi1KclBYVGh1LTRqdUpxNEthcjdid1hmSUdRbFV2a05NaXZYSVYxYUZTRUI1eTBKNjVETXRyQTVOVGpBaWV3UVZ6UXBfNnhQSWw2allGMWVPRzgzWG5tWUFha2lYQTRpQVg4bVh4cHJUdkUtcWI3RUJ2amhsZWV2bkRmWlk2dnNpZmk3VXM?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump endorses Collins in Georgia Republican Senate runoff",
-              "url": "https://thehill.com/homenews/campaign/5923238-trump-endorses-mike-collins-georgia-senate/"
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmpRZDlXcXR3NTZmTzJrQkE0djdyaVRobURQTlRpQ09rN1FRdlp4T2M1SUVlckQ0VGFKdWdiSkVPSUNuX3N1MkdZRG9rd3Z2MDRxTTI5UG1PeEd0czVtUkk1Q21FVUg0dUxVZ0xsaG5NTnNNQ3p3b19Zakk2LUJmTVFQUDAwM1pCZ2JtSUVURG1qWVA2T2tr?oc=5"
             },
             {
               "political": "right",
@@ -457,31 +523,6 @@
               "domain": "foxnews.com",
               "headline": "Trump backs MAGA champion Mike Collins in Georgia's Republican Senate runoff",
               "url": "https://www.foxnews.com/politics/trump-backs-maga-champion-mike-collins-georgias-republican-senate-runoff"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "UK intercepts Russian shadow fleet oil tanker in English Channel",
-          "neutralSummary": "The United Kingdom’s Armed Forces intercepted a Russian shadow fleet attempting to sail through the English Channel on Sunday in a “blow” to the Kremlin amid its more than four year war with Ukraine.&#160; “In the early hours of this morning, I directed our Armed Forces to intercept a shadow fleet o",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Britain detains sanctioned oil tanker believed to be linked to Russia's shadow fleet",
-              "url": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "UK intercepts Russian shadow fleet oil tanker in English Channel",
-              "url": "https://thehill.com/policy/international/5923297-united-kingdom-russia-oil-tanker-english-channel/"
             },
             {
               "political": "right",
@@ -489,13 +530,13 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Britain detains sanctioned oil tanker believed to be linked to Russia’s shadow fleet",
-              "url": "https://www.washingtonexaminer.com/news/world/4607951/uk-oil-tanker-russia-shadow-fleet/"
+              "headline": "Trump endorses Mike Collins in Georgia Senate race ahead of GOP runoff",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4608184/trump-endorses-mike-collins-georgia-senate-race/"
             }
           ]
         },
         {
-          "id": "us-6",
+          "id": "us-8",
           "neutralHeadline": "Trump Names James M. Mcdonald To Lead Powerful New York Federal Prosecutor's Office",
           "neutralSummary": "He would replace Jay Clayton, whom Trump put forward this week as his pick for the director of national intelligence.",
           "versions": [
@@ -520,43 +561,18 @@
           ]
         },
         {
-          "id": "us-7",
-          "neutralHeadline": "Teen shot and buses torched in Manhattan after historic NBA championship win for Knicks",
-          "neutralSummary": "Teen shot and buses torched in Manhattan after historic NBA championship win for Knicks&nbsp;&nbsp;BBCNYPD reports 63 people were arrested amid crowds celebrating Knicks NBA championship&nbsp;&nbsp;Yahoo SportsKnicks celebrations: School bus set on fire, multiple people arrested, 17-year-old shot&nb",
+          "id": "us-9",
+          "neutralHeadline": "UFC Fighter Appearing At Trump’s Birthday Cage Match Once Said Michelle Obama Was A Man",
+          "neutralSummary": "And somehow, it gets worse.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Teen shot and buses torched in Manhattan after historic NBA championship win for Knicks",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hd1JfOEZKZ1R1cm5yLW1NcklCSDJfb3ZVUjBmODhSY0dGWjhTQy1RTTBGajJueTk4Zlg5a0djRUVlUWhVbUhwdWx6c1BZUzJ3V2VTZnBsNUVLZw?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Teen shot during Knicks madness takeover in Times Square",
-              "url": "https://nypost.com/2026/06/14/us-news/teenager-shot-during-knicks-madness-takeover-in-times-square/"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Trump congratulates New York Knicks on NBA Championship victory",
-          "neutralSummary": "President Trump congratulated the New York Knicks on their first NBA Championship win in over 50 years. &#8220;Congratulations to Jim Dolan and the New York Knicks!!!&#8221; Trump wrote on Truth Social early Sunday, referencing the Madison Square Garden Sports CEO who owns the Knicks. &#8220;What a",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump congratulates New York Knicks on NBA Championship victory",
-              "url": "https://thehill.com/policy/sports-gaming/5923228-trump-congratulates-new-york-knicks-nba-championship/"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "UFC Fighter Appearing At Trump’s Birthday Cage Match Once Said Michelle Obama Was A Man",
+              "url": "https://www.huffpost.com/entry/ufc-fighters-white-house_n_6a2c2592e4b0ba7a1fecb9ae"
             },
             {
               "political": "right",
@@ -564,33 +580,8 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Trump congratulates Knicks and owner James Dolan on NBA Finals win: ‘What a year’",
-              "url": "https://www.washingtonexaminer.com/sports/4607960/trump-knicks-nba-finals-congratulations/"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "‘UFC Freedom 250’ at the White House: 5 things to watch",
-          "neutralSummary": "Anticipation is building for &#8220;UFC Freedom 250,&#8221; a prime-time fight night set to play out just steps from the White House and seen as an informal kickoff to the “America 250” celebrations the Trump administration is planning this summer. The multimillion-dollar project is the latest attem",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "‘UFC Freedom 250’ at the White House: 5 things to watch",
-              "url": "https://thehill.com/policy/sports-gaming/5920864-ufc-freedom-250-white-house-trump/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "WATCH: House Dems blame racism, 'all-White' jury for Karmelo Anthony's guilty verdict",
-              "url": "https://www.foxnews.com/politics/watch-house-dems-blame-racism-white-jury-karmelo-anthony-guilty-verdict"
+              "headline": "UFC fighter Josh Hokit mocks Michelle Obama in victory speech",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4608299/ufc-fighter-josh-hokit-mocks-michelle-obama/"
             }
           ]
         }
@@ -601,8 +592,42 @@
       "stories": [
         {
           "id": "singapore-1",
+          "neutralHeadline": "Japanese stocks surge, government bond yields tumble as US, Iran reach peace deal",
+          "neutralSummary": "The Nikkei 225 Index jumped as much as 5.5 per cent to 69,657.09, surpassing the 69,000 level for the first time.&nbsp;",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Japanese stocks surge, government bond yields tumble as US, Iran reach peace deal",
+              "url": "https://www.channelnewsasia.com/business/japan-nikkei-stock-market-us-iran-war-deal-6183341"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "news.google.com",
+              "headline": "Oil prices fall on US-Iran peace deal",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGdhZE9oT2Z2Tjl0YW5qYVZfbnY1R0t6NTZ0YXVsNlZGSHpWZWlONmRjMnpKZkx5N3Y3SHdCRTZ2cTIwemxzWUlUWWpNZGNnU285OUJISkxhUEc3NVdua1NBcUJxY19hR0Z4U050UEJ6TXY3RTlnT1hvT0VyZzNTMjhIMDBRWmRXdmRrdjlMbXZrZ09UUU1XTzJPWHE5cGV1UGJzMzJNNG5OVTl0ZEVZT2JZd3FKcEZyZDNPTlFsUWtQbndwWlVaWExCa09feXM?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "US and Iran Reach Deal to Reopen Hormuz",
+              "url": "https://www.bloomberg.com/news/videos/2026-06-15/us-and-iran-reach-deal-to-reopen-hormuz-video"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
           "neutralHeadline": "100 mourners ordained for Princess Bajrakitiyabha",
-          "neutralSummary": "100 mourners ordained for Princess Bajrakitiyabha&nbsp;&nbsp;Bangkok PostThai royal command honours Princess Bajrakitiyabha&nbsp;&nbsp;thestar.com.mySingapore deeply saddened by death of Thai Princess Bajrakitiyabha Mahidol&nbsp;&nbsp;The Straits TimesMourners line Bangkok streets to pay respects to",
+          "neutralSummary": "100 mourners ordained for Princess Bajrakitiyabha&nbsp;&nbsp;Bangkok PostThai Princess Bajrakitiyabha dies after more than three years in coma&nbsp;&nbsp;BBCMourners line Bangkok streets to pay respects to Thailand’s Princess Bha&nbsp;&nbsp;The GuardianThai royal command honours Princess Bajrakitiya",
           "versions": [
             {
               "political": "center",
@@ -625,7 +650,23 @@
           ]
         },
         {
-          "id": "singapore-2",
+          "id": "singapore-3",
+          "neutralHeadline": "No transaction fees and third-party apps: S’pore travellers cheer expanded payment options in China",
+          "neutralSummary": "New features from local banks DBS and OCBC have made paying in China more seamless, said travellers.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "No transaction fees and third-party apps: S’pore travellers cheer expanded payment options in China",
+              "url": "https://www.straitstimes.com/tech/no-transaction-fees-and-third-party-apps-spore-travellers-cheer-expanded-payment-options-in-china"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
           "neutralHeadline": "Man arrested for public drunkenness after stopping traffic, lying on road in Admiralty Road West",
           "neutralSummary": "The 26-year-old is also being investigated for mischief.",
           "versions": [
@@ -641,57 +682,25 @@
           ]
         },
         {
-          "id": "singapore-3",
-          "neutralHeadline": "S’pore saved $300m in construction costs by avoiding clashes in underground utility projects",
-          "neutralSummary": "Having a reliable, shared picture of the complex warren of infrastructure underground is key, said Chee Hong Tat.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "S’pore saved $300m in construction costs by avoiding clashes in underground utility projects",
-              "url": "https://www.straitstimes.com/singapore/spore-saved-300m-in-construction-costs-by-avoiding-clashes-in-underground-utility-projects"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Passenger rescued after being trapped in lorry following accident in Woodlands",
-          "neutralSummary": "A 30-year-old lorry driver is assisting with ongoing police investigations.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Passenger rescued after being trapped in lorry following accident in Woodlands",
-              "url": "https://www.straitstimes.com/singapore/passenger-rescued-after-being-trapped-in-lorry-following-accident-in-woodlands"
-            }
-          ]
-        },
-        {
           "id": "singapore-5",
-          "neutralHeadline": "Singapore’s revised driving licence requirements extended to all EVs up to 3,000kg from June 15",
-          "neutralSummary": "This supports Singapore’s transition to clean-energy vehicles by 2040, said the TP.",
+          "neutralHeadline": "Starbucks Korea to shutter outlets for history lessons after 'Tank Day' fiasco",
+          "neutralSummary": "All employees at Starbucks Korea stores will \"receive education in historical awareness and social sensitivity through watching videos\", said Shinsegae Group, which operates the outlets.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Singapore’s revised driving licence requirements extended to all EVs up to 3,000kg from June 15",
-              "url": "https://www.straitstimes.com/singapore/revised-driving-licence-requirements-extended-to-all-heavier-evs-from-june-15"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Starbucks Korea to shutter outlets for history lessons after 'Tank Day' fiasco",
+              "url": "https://www.channelnewsasia.com/east-asia/starbucks-korea-history-lessons-tank-day-6183336"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "Hidden war, underrated food, Chinese influence: I explored Laos and found it at the crossroads",
-          "neutralSummary": "On the banks of the Mekong, from Vientiane to Luang Prabang, this writer explores Laos through family travel, local food and the country’s hidden wartime history.",
+          "neutralHeadline": "'Samurai Blue style': Japan fans on never-give-up attitude after dramatic Netherlands draw at World Cup",
+          "neutralSummary": "In one of the most highly anticipated matches in the opening round of the World Cup, Japan came from behind twice to get a point against the Netherlands.",
           "versions": [
             {
               "political": "center",
@@ -699,15 +708,15 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Hidden war, underrated food, Chinese influence: I explored Laos and found it at the crossroads",
-              "url": "https://www.channelnewsasia.com/travel/laos-family-travel-vientiane-luang-prabang-6136121"
+              "headline": "'Samurai Blue style': Japan fans on never-give-up attitude after dramatic Netherlands draw at World Cup",
+              "url": "https://www.channelnewsasia.com/sport/japan-netherlands-world-cup-draw-comeback-fans-6183026"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "'Every chance of making history': Japan tipped to shine at 2026 World Cup",
-          "neutralSummary": "With a squad of players who are nearly all playing in Europe, observers tell CNA's Matthew Mohan that hopes are high for the Samurai Blue at this year's World Cup despite the injuries.",
+          "neutralHeadline": "Shares surge, oil skids in Asia on news of US-Iran deal",
+          "neutralSummary": "The Federal Reserve is widely expected to leave rates at 3.50 per cent to 3.75 per cent on Wednesday at Chair Kevin Warsh's debut meeting.&nbsp;",
           "versions": [
             {
               "political": "center",
@@ -715,40 +724,49 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "'Every chance of making history': Japan tipped to shine at 2026 World Cup",
-              "url": "https://www.channelnewsasia.com/sport/japan-netherlands-world-cup-hopes-6176126"
+              "headline": "Shares surge, oil skids in Asia on news of US-Iran deal",
+              "url": "https://www.channelnewsasia.com/asia/us-iran-peace-deal-shares-stocks-oil-6182951"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Switzerland Rejects Proposal to Cap Its Population at 10 Million",
-          "neutralSummary": "Switzerland rejected a proposal to cap its population at 10 million people, as warnings about economic damage if the radical measure was introduced outweighed concerns about immigration.",
+          "neutralHeadline": "Singapore retrenchments climb in Q1, with sharper rise in incidence among degree holders, older workers: MOM",
+          "neutralSummary": "The notable shift in retrenchment incidence among higher-educated workers&nbsp;reflects the ongoing&nbsp;restructuring in the professional and knowledge-intensive sectors, says the ministry.",
           "versions": [
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Switzerland Rejects Proposal to Cap Its Population at 10 Million",
-              "url": "https://www.bloomberg.com/news/articles/2026-06-14/swiss-population-cap-vote-too-close-to-call-projection-shows"
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Singapore retrenchments climb in Q1, with sharper rise in incidence among degree holders, older workers: MOM",
+              "url": "https://www.channelnewsasia.com/singapore/retrenchment-higher-degree-holders-employment-jobs-q1-2026-6183016"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Five men arrested over alleged motorcycle theft in Woodlands",
-          "neutralSummary": "They are set to be charged on June 15 with the theft of a motor vehicle with common intention.",
+          "neutralHeadline": "India's Razorpay files IPO papers confidentially",
+          "neutralSummary": "India's Razorpay files IPO papers confidentially",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Five men arrested over alleged motorcycle theft in Woodlands",
-              "url": "https://www.straitstimes.com/singapore/five-men-arrested-over-alleged-motorcycle-theft-in-woodlands"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "India's Razorpay files IPO papers confidentially",
+              "url": "https://www.channelnewsasia.com/business/indias-razorpay-files-ipo-papers-confidentially-6183371"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Razorpay Confidentially Files for $500 Million India IPO",
+              "url": "https://www.bloomberg.com/news/articles/2026-06-15/razorpay-confidentially-files-for-500-million-india-ipo"
             }
           ]
         }
@@ -759,144 +777,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "20 rebel TMC MPs to merge with Nationalist Citizens Party, back NDA: Kakoli Ghosh Dastidar",
-          "neutralSummary": "20 rebel TMC MPs to merge with Nationalist Citizens Party, back NDA: Kakoli Ghosh Dastidar",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Trinamool Rebel Bloc To Merge With Nationalist Citizens Party: Kakoli Ghosh",
-              "url": "https://www.ndtv.com/india-news/trinamool-rebel-bloc-to-merge-with-nationalist-citizens-party-kakoli-ghosh-11635562#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "20 rebel TMC MPs to merge with Nationalist Citizens Party, back NDA: Kakoli Ghosh Dastidar",
-              "url": "https://timesofindia.indiatimes.com/india/20-rebel-tmc-mps-to-merge-with-nationalist-citizens-party-back-nda-kakoli-ghosh-dastidar/articleshow/131722409.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Rebel TMC MPs to join Tripura-based Nationalist Citizen Party of India",
-              "url": "https://www.hindustantimes.com/india-news/rebel-tmc-mps-nationalist-citizens-party-of-india-nda-mamata-banerjee-kakoli-ghosh-dastidar-sudip-bandyopadhyay-101781446885405.html"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "'Decline recognition to separate faction of TMC': Abhishek Banerjee writes to LS Speaker",
-          "neutralSummary": "'Decline recognition to separate faction of TMC': Abhishek Banerjee writes to LS Speaker",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "No Recognition For Rebel MPs: Abhishek Banerjee To Speaker On Rebel MPs' Demand",
-              "url": "https://www.ndtv.com/india-news/no-recognition-for-rebels-abhishek-banerjee-to-speaker-on-mps-demand-11635348#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Decline recognition to separate faction of TMC': Abhishek Banerjee writes to LS Speaker",
-              "url": "https://timesofindia.indiatimes.com/india/decline-any-recognition-to-separate-faction-of-tmc-abhishek-banerjee-writes-to-lok-sabha-speaker-amid-rebellion/articleshow/131721640.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "TMC is a single party: Abhishek Banerjee writes to LS speaker against recognition to rebel group in parliament",
-              "url": "https://www.hindustantimes.com/india-news/tmc-is-a-single-party-abhishek-banerjee-writes-to-ls-speaker-against-recognition-to-rebel-group-in-parliament-101781443147624.html"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "NEET re-exam: Admit card for June 21 test is out | Check how to download and other details, guidelines",
-          "neutralSummary": "The NTA had earlier released new measures and guidelines for the exam.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "NEET UG 2026 admit cards out for re-exam at neet.nta.nic.in",
-              "url": "https://indianexpress.com/article/education/nta-neet-ug-2026-re-exam-admit-card-out-download-link-reporting-time-neetnta-nic-in-10651832/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "NEET re-exam: Admit card for June 21 test is out | Check how to download and other details, guidelines",
-              "url": "https://www.hindustantimes.com/india-news/neet-re-exam-admit-card-for-june-21-test-released-check-how-to-download-and-other-details-guidelines-101781441937696.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "News18",
-              "initials": "N18",
-              "domain": "news.google.com",
-              "headline": "NEET UG Re-Test 2026: Documents Required At The Exam Centre",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTXlqbUVKMzJ0bzRacmhfSks4UHE5SEE4OHA3NmVtc05xODcwTGk4amdYUk5VbWlDZ01OYnk3bWNtaFFsTGhIZEdUU0lVNGMzQ1BpRVRYeTlGcWNGUHR1LUYtR2J5WXVtZDFKRWJRdnpWV2NRLXBLX051NUJETzNuVUkxcGhiOUpxZlF1SWNQQ3B6cHh1enN5dGpvTDlOak5ZNE5tMDFPWTZYU2FzalFYX24yNEkzNkxIVEZxMmVUaVphbnN4RWpxWU1R0gHPAUFVX3lxTFBkZ3ZQa3YwYW5KZHN0WEEzSTdJWkozYXp1M1ZFMG9WX2c3czlNQmZmXzQ4SUZ5MzJuTmRCZ2tKX1RTanY2empjQkNtX3RreTVXQU15Nkg2clFlVjE3WmhnYV9rSE9rcnk1REpqWXIxMlJ2NzNVZFEzOGYtczM0aHd2RGFuaFhqeThwSGE2SDlOZEItSmJkSzJmLW04dk4ydEt1dV82M05YUWFXS25CbGp5TklTbHNMRkJlby1FbTFrSEwtWWN1U3hxU0JBLUh4WQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "'Innovation is in India's DNA': PM Modi, French President Macron inaugurate 'Bharat Innovates' in Nice",
-          "neutralSummary": "PM Modi highlighted the special bond between India and France, saying the two nations have connection, conviction, innovation, inspiration and shared vision.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "'Innovation is in India's DNA': PM Modi, French President Macron inaugurate 'Bharat Innovates' in Nice",
-              "url": "https://www.hindustantimes.com/india-news/innovation-is-in-indias-dna-pm-modi-french-president-macron-inaugurate-bharat-innovates-in-nice-101781432399812.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Modi &amp; Macron to power up India’s tech safari today",
-              "url": "https://economictimes.indiatimes.com/news/india/pm-modi-french-president-emmanuel-macron-to-inaugurate-bharat-innovates-2026-in-nice-today/articleshow/131710648.cms"
-            },
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "PM Modi-France President Emmanuel Macron Bharat Innovates 2026",
-              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVNtSnlWa2RBWjFCcmk2NTh3M0JYeG81Y09Kb0VfWXFpQTJ0SXdSU3JWSkk5Ymd6bHVmYUMxWVo0V21adnpiSE5Sc1RCaEltVEJwOGtXUkxnak5fd21rZWRhMHhKbXgtQVpmT2p3WkpNWWFhSS1Kd2swUWZwbXBicXFDSEwyM09PakxkbVo4NjhLUVMxRktDODlVcjZURWFINHBpRjF1QjZ4ZHI2TmU2RllBTEduY1NTQ0xUV1dBcVk4OERGbWdUbkN2LWY1dzFpRlBjTm5UMDBRdw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "CJP protest in Bengaluru LIVE: 'When we try to expose the broken system, we are called cockroaches,' Abhijeet Dipke says",
-          "neutralSummary": "Actor Prakash Raj says he has wish that Sonam Wangchuk should be Education Minister; The Cockroach Janta Party protest in Bengaluru is part of its nationwide campaign demanding the resignation of Union Minister Dharmendra Pradhan",
+          "neutralHeadline": "Noida Int'l Airport begins commercial operations; first IndiGo flight lands at Jewar",
+          "neutralSummary": "Noida International Airport commenced commercial operations today with an IndiGo flight from Lucknow, marking a significant achievement for the greenfield project. Farmers who provided land for the airport were among the inaugural passengers. The airport aims to become a major aviation and cargo hub",
           "versions": [
             {
               "political": "left",
@@ -904,49 +786,51 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "CJP protest in Bengaluru LIVE: 'When we try to expose the broken system, we are called cockroaches,' Abhijeet Dipke says",
-              "url": "https://www.thehindu.com/news/national/karnataka/cjp-protest-in-bengaluru-live-updates-karnataka-on-june-14-2026/article71100627.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "List Of Rebel Trinamool MPs Who Met Lok Sabha Speaker Om Birla",
-          "neutralSummary": "A group of rebel Trinamool MPs in Delhi",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "List Of Rebel Trinamool MPs Who Met Lok Sabha Speaker Om Birla",
-              "url": "https://www.ndtv.com/india-news/list-of-rebel-trinamool-mps-who-are-expected-to-meet-lok-sabha-speaker-on-birla-soon-11635346#publisher=newsstand"
+              "headline": "Noida Airport’s first flight carries Jewar villagers who gave land for its development",
+              "url": "https://www.thehindu.com/news/national/uttar-pradesh/noida-airports-first-flight-carries-jewar-villagers-who-gave-land-for-its-development/article71103722.ece"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Rebel Trinamool MPs meet Lok Sabha speaker, demand recognition as separate bloc",
-              "url": "https://indianexpress.com/article/india/tmc-split-formal-20-rebel-mp-meet-speaker-om-birla-mamata-banerjee-10739287/"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Noida International Airport Begins Flight Operations",
+              "url": "https://www.ndtv.com/noida-news/noida-international-airport-begins-flight-operations-11637119#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Noida Int'l Airport begins commercial operations; first IndiGo flight lands at Jewar",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/noida-international-airport-begins-commercial-operations-first-indigo-flight-lands-at-jewar/articleshow/131733038.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "What we envisioned is now reality, say farmers who gave land for Noida International Airport",
+              "url": "https://www.hindustantimes.com/india-news/what-we-envisioned-is-now-reality-say-farmers-who-gave-land-for-noida-international-airport-jewar-101781501797685.html"
             }
           ]
         },
         {
-          "id": "india-7",
-          "neutralHeadline": "Innovation is in India’s DNA: PM Modi in France",
-          "neutralSummary": "Innovation is in India’s DNA: PM Modi in France",
+          "id": "india-2",
+          "neutralHeadline": "Hormuz reopening, end of blockade, Lebanon ceasefire: What's in the 14-point US-Iran peace deal",
+          "neutralSummary": "A draft memorandum between the US and Iran reportedly includes an immediate end to military operations, lifting of sanctions on oil exports, and a $300 billion reconstruction package. The agreement, expected to be signed June 19, focuses on ending hostilities and paving the way for future nuclear ta",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Technology Adopter To Provider: PM Modi Pitches India As Innovation Partner",
-              "url": "https://www.ndtv.com/world-news/technology-adopter-to-provider-pm-modi-pitches-india-as-innovation-partner-11635376#publisher=newsstand"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Hormuz reopening, end of blockade, Lebanon ceasefire: What's in the 14-point US-Iran peace deal",
+              "url": "https://timesofindia.indiatimes.com/world/middle-east/lebanon-ceasefire-hormuz-reopening-sanctions-relief-what-the-14-point-us-iran-peace-deal-contains/articleshow/131732165.cms"
             },
             {
               "political": "center",
@@ -954,40 +838,24 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Innovation is in India’s DNA: PM Modi in France",
-              "url": "https://economictimes.indiatimes.com/news/india/innovation-is-in-indias-dna-pm-modi-highlights-at-bharat-innovates-event-in-france/articleshow/131719278.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "US-Iran War LIVE Updates: Iran Says No Point Talking To US After Israel Strikes Lebanon",
-          "neutralSummary": "US Iran War LIVE Updates",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "US-Iran War LIVE Updates: Iran Says No Point Talking To US After Israel Strikes Lebanon",
-              "url": "https://www.ndtv.com/world-news/us-iran-war-live-updates-trump-says-peace-deal-to-be-signed-today-iran-denies-11633550#publisher=newsstand"
+              "headline": "US, Iran reach deal to end war, Hormuz to open Friday",
+              "url": "https://economictimes.indiatimes.com/news/defence/us-iran-reach-deal-to-end-war-signing-set-for-friday-hormuz-now-open/articleshow/131730676.cms"
             },
             {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Tehran casts doubt on US-Iran deal after fresh Israeli strikes on Lebanon",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TVGJTSDNxa19TSmxDU205bFBtWVJrb3hKeEY2T3hWWjlKUjJpeHdJLVF1aXlFaV8xNTJTZmtkTUxYa2hmbU5hU2VCeTVkbGk1MHdFVA?oc=5"
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "US and Iran Reach Deal to Reopen Hormuz",
+              "url": "https://www.bloomberg.com/news/videos/2026-06-15/us-and-iran-reach-deal-to-reopen-hormuz-video"
             }
           ]
         },
         {
-          "id": "india-9",
-          "neutralHeadline": "In a first, UK delivers blow to Putin’s shadow fleet with English Channel interception",
-          "neutralSummary": "In a first, UK delivers blow to Putin’s shadow fleet with English Channel interception&nbsp;&nbsp;The Times of IndiaRoyal Marines board Russian shadow fleet oil tanker in English Channel&nbsp;&nbsp;BBCUK forces seize suspected Russian shadow fleet tanker in English Channel&nbsp;&nbsp;Al JazeeraU.K.",
+          "id": "india-3",
+          "neutralHeadline": "Watch: Slovak nationals welcome PM Modi with Vande Mataram, folk dance performances",
+          "neutralSummary": "Prime Minister Narendra Modi began his European tour in Bratislava, Slovakia. He received a warm cultural welcome with traditional Slovak music and dance. A Slovak folk ensemble sang Vande Mataram. The custom of offering bread and salt symbolized hospitality. Prime Minister Modi also met the Indian",
           "versions": [
             {
               "political": "left",
@@ -995,17 +863,158 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Video: UK Military Intercepts Russian Shadow Fleet Tanker In English Channel",
-              "url": "https://www.ndtv.com/world-news/video-uk-military-intercepts-russian-shadow-fleet-tanker-in-english-channel-11635311#publisher=newsstand"
+              "headline": "Watch: PM Modi Welcomed In Slovakia With Rendition Of 'Vande Mataram'",
+              "url": "https://www.ndtv.com/world-news/watch-pm-modi-welcomed-in-slovakia-with-rendition-of-vande-mataram-11636521#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Watch: Slovak nationals welcome PM Modi with Vande Mataram, folk dance performances",
+              "url": "https://timesofindia.indiatimes.com/india/watch-slovak-nationals-welcome-pm-modi-with-vande-mataram-folk-dance-performances/articleshow/131734367.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "World leaders welcome US-Iran deal",
+          "neutralSummary": "World leaders welcome US-Iran deal",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "World leaders welcome US-Iran deal",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/world-leaders-welcome-us-iran-deal-urge-swift-implementation/articleshow/131735118.cms"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
               "domain": "news.google.com",
-              "headline": "In a first, UK delivers blow to Putin’s shadow fleet with English Channel interception",
-              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONFhiOEt3dmV0UWRGRFUyQVI1ZHNvQURZNWJPLVBJREEydk9yWURMbDVleUptX2lyOGdMbDRoWVJGQUM2a3hoa3pZS1ZhVzlwcnAyUjhCZWIyTG5MSC1obFZzRUVXTzdlXzNrWW1zYmpvOHpfcXNFdy1uaUg5REF5aGlFWTNYV0p5cXRoa1lQUl9fVTZVbG1JOFNhdVdIODhqVm8tVDVvQ0JzdVA5bDZVVDkwX0tqOW91LXZEcEZTYy1HVVFDcjNzTEE0dWZETHJHaFJ5dk00dGxBYWROWkFEUFpuRU5xSUc5M1BJ?oc=5"
+              "headline": "West Asia LIVE: World leaders hail U.S.-Iran peace deal, 'permanent' end to military action",
+              "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObW5WVU9nSU5KeFZYSWpkOWR3TkxmN1RhLWNZLUhtRjdUaUUxUFJQRFdycWdjSHNqbmVMb09jVlNOdHY0Nm13OEU3UzRJN25EVldpVnBIcUVfYkttTVh0aWJyQ3pVemdoTjM1a0JzS3N4ZUhXa3hLQlgtWjhhRWlNMm53T0ZSMTZaTTNxV0RMTEFmZkwzaFdfMXF2UUFsalhiYUpaWDZhRWZ5bTVJLVNWYWRJS1BuTW9xdlR2V3NqOEg1WHBlUW9CY3VsYVpYLU9KUjJzSWVVNk5sdjRrVW9ycWJRNXlmalJXT1NQeDVwZ3dqZElrUzZnaGdQeFdxbEtVQWtudFdIV2I5amUzVG9GS2R30gGYAkFVX3lxTFBwYks4clR2TmtnbVNWV0oyRWpZV2pGNGMzNUM4TDVMczF4NXFkQzNfV3JWQ2ZUdmRhaFBYX01tTlVldnFKT2dtOWRsc2Mwbk5Xd2hkcTdXSDd1MGc2NURpVExpYVdBNFNrdVhVLUo0SkZwM0F2YjFNTGkxaE9vT2FOUXlfZk9jMXJSWkEzcWZVNTJ6blFYTldyYnI4UGw5eEdKRXNfMDJOUlQtVXk0MmZpTk9qQWYxOEdzYmN2VElvZkJ5UHVKdUVSeHVnVEx0b1lsbTY1RDlZdXc1M1pjY2JIb1ZJRXpDYUpnWTBTSUY3N3paQk5OUXdENzZtM3dEZWxjMmtHaUV3SWs1X2xCamxKLXhPXzBHcks?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "G7 leaders meet in France after U.S. and Iran declare agreement to end war",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGtVRXdXck12Y2VTLVJSaTBZOHBwcElNZWE4SGs3TS1OeEh0QVhsQTM3cjE3S2JuQktheXJxQzhob3F2c0xJakRBeld1TElLaTg5OUFoYlEyMDVWaWdWWENMbE1QVUd2NDUxZWFJN1VISE5sdk9CZXFyYmhWSFBZTW1zbXRGOUF0MzREYk5NLXNqNllIWkhlMENVZ2NfSlZmc2I2dTUtMjBmTm5wWTdF?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Teachers recruitment scam case: Abhishek Banerjee appears before ED for questioning",
+          "neutralSummary": "TMC MP Abhishek Banerjee appeared before the Enforcement Directorate in Kolkata for questioning in the alleged cash-for-school-jobs scam. His name featured in charge sheets filed by the CBI and ED as part of the ongoing multi-crore teacher recruitment case probe. This follows his extensive interroga",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "CMRL pay-off case: Company MD Sasidharan Kartha’s daughter appears before ED for questioning",
+              "url": "https://www.thehindu.com/news/national/kerala/cmrl-pay-off-case-company-md-sasidharan-karthas-daughter-appears-before-ed-for-questioning/article71103781.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Teachers recruitment scam case: Abhishek Banerjee appears before ED for questioning",
+              "url": "https://timesofindia.indiatimes.com/city/kolkata/tmc-mp-abhishek-banerjee-appeared-before-the-ed-in-kolkata-for-questioning-in-the-school-jobs-scam/articleshow/131734575.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Delhi braces for more rain; IMD issues red alert for parts of capital",
+          "neutralSummary": "The red alert was issued for north, northwest, northeast, central, east, and parts of southeast, west, and New Delhi, along with all of Shahadara.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Monsoon tracker LIVE: Rain in parts of Delhi; Monsoon remains low in A.P. due to El Niño conditions",
+              "url": "https://www.thehindu.com/news/national/monsoon-india-rain-weather-tracker-live-updates-imd-forecast-kerala-delhi-tamil-nadu-west-bengal-maharashtra-june-15-2026/article71103566.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Delhi braces for more rain; IMD issues red alert for parts of capital",
+              "url": "https://www.hindustantimes.com/india-news/delhi-weather-today-red-alert-ncr-rain-noida-ghaziabad-gurugram-imd-forecast-today-101781496748142.html"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "KSRTC free travel for women: Everything about Priyadarshini scheme",
+          "neutralSummary": "This program, part of the UDF government’s ‘Indira Guarantees,’ covers seven categories of KSRTC ordinary buses, allowing women passengers to obtain ‘zero’ fare tickets without the need for identification.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "KSRTC free travel for women: Everything about Priyadarshini scheme",
+              "url": "https://www.thehindu.com/news/national/kerala/ksrtc-free-travel-for-women-everything-about-priyadarshini-scheme-kerala-news/article71100824.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Sunday bloody Sunday: Trump warns Israel not to blow up Iran deal",
+          "neutralSummary": "Sunday bloody Sunday: Trump warns Israel not to blow up Iran deal&nbsp;&nbsp;The Times of IndiaTrump On How \"Very Difficult\" Netanyahu Almost \"Derailed\" Iran Peace Deal&nbsp;&nbsp;NDTVTrump warns Israel and Iran not to ‘blow it’ after new strikes threaten emerging ceasefire deal&nbsp;&nbsp;The Hindu",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Trump Says US To Be Paid \"Guardian Of Middle East\" If Iran Fails Deal Terms",
+              "url": "https://www.ndtv.com/world-news/donald-trump-on-how-very-difficult-israel-pm-benjamin-netanyahu-almost-derailed-us-iran-peace-deal-11637130#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "Sunday bloody Sunday: Trump warns Israel not to blow up Iran deal",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR3M1d1Utd25HOE9lYkRQMUhJSzZ5cVlFbWhTVE1BajloSlpVUHJUZUNnOHJnVGJvUU9jcHotMGEySDVaVHpRTVFuUDNCZVdUbzJCdndoSjhQbW5ldjJTaFJ4QUVHdEg1dDYzanotSjVsZlpZRWs2Tmk2QzV0TEwtUTJHdkdNb1pISmhudlJsZlpvdkxjRHE0TkNEV2N5cUYtWFlETXRXTHdUMWpUVEI3TWV5Q1dQclpIcVVlRW5LR3M0VjllYjZPOW5CN0hZaVhR?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 1,100 Points As Oil Prices Fall On US-Iran Peace Deal",
+          "neutralSummary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 1,100 Points As Oil Prices Fall On US-Iran Peace Deal",
+              "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-15-june-donald-trump-us-iran-peace-deal-oil-prices-11636759#publisher=newsstand"
             }
           ]
         }
