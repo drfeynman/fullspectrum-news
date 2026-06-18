@@ -1,13 +1,47 @@
 {
-  "generatedAt": "2026-06-18T06:43:18.857768+00:00",
+  "generatedAt": "2026-06-18T16:36:46.657872+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Middle East live: Trump, Pezeshkian sign US-Iran interim deal",
-          "neutralSummary": "President Donald Trump and Iranian President Masoud Pezeshkian signed a deal Wednesday meant to end the Middle East war, with Tehran agreeing to dilute its enriched uranium in return for large-scale economic relief. Trump put his signature to the memorandum of understanding during a dinner with Fren",
+          "neutralHeadline": "Ukraine hits Moscow with ‘large-scale’ attack",
+          "neutralSummary": "🔴 🇺🇦 🇷🇺 #Ukraine targeted #Moscow's oil refinery in a wave of drone strikes early on Thursday, with the attack wounding at least 17 people.\n \nIn a post on X, Ukrainian President Volodymyr #Zelensky said #Kyiv also struck targets in #Russia's Rostov region and in the occupied territories of Ukraine.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
+              "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
+              "url": "https://www.npr.org/2026/06/18/g-s1-128782/moscow-ukraine-drone-attack-russia-oil-refinery"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Ukraine hits Moscow with ‘large-scale’ attack",
+              "url": "https://www.france24.com/en/video/20260618-ukraine-hits-moscow-with-large-scale-attack"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Trump Arrives At G7 Summit Looking For Momentum After Announcing Deal To End Iran War",
+          "neutralSummary": "Trump has started his visit to the G7 summit by hailing an agreement aimed at ending the U.S. conflict with Iran.",
           "versions": [
             {
               "political": "left",
@@ -21,20 +55,11 @@
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump expected to face questions about Iran war as he wraps up G7 summit",
-              "url": "https://www.npr.org/2026/06/17/nx-s1-5860655/trump-expected-to-face-questions-about-iran-war-as-he-wraps-up-g7-summit"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Middle East live: Trump, Pezeshkian sign US-Iran interim deal",
-              "url": "https://www.france24.com/en/middle-east/20260617-middle-east-live-trump-iran-s-president-sign-deal-to-end-mideast-war"
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Trump defends his Iran deal, criticizes longtime ally Israel as G-7 ends",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcTIycndiMm0xbXFLdXFES0h1TFkxQTlnTkNHLV9nYm84M2trOENXNzNuRjh0MmlJbS1UMHNpRHdaQUwweVdFRGs1aVdTNE1QZDNTSVhxVklDUGNsWC14ZmlRdGJPT2Y2ekplUGRsSUx0dm1tVENOZkt4NEx1NEEyalFnQ3otajFfUm9lcW9VM0k5SWxid0NkSGhnYlVGOEx2dDRJZHpn?oc=5"
             },
             {
               "political": "right",
@@ -48,9 +73,9 @@
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "Oil and Gas Ships Cross Strait of Hormuz After US-Iran Deal",
-          "neutralSummary": "A laden liquefied natural gas carrier and an empty products tanker are crossing the Strait of Hormuz, as traders watch for signs of traffic through the key waterway after an interim US-Iran peace deal went into effect.",
+          "id": "global-3",
+          "neutralHeadline": "Oil Falls as Iran Deal Gets Tankers Moving Through Hormuz",
+          "neutralSummary": "Oil futures and retail gasoline prices fell as the US and Iran agreed to an interim deal to end their months-long conflict and reopen the Strait of Hormuz, spurring a flurry of ships to cross the critical chokepoint.",
           "versions": [
             {
               "political": "left",
@@ -63,12 +88,12 @@
             },
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "Bloomberg",
               "initials": "BB",
               "domain": "bloomberg.com",
-              "headline": "Oil and Gas Ships Cross Strait of Hormuz After US-Iran Deal",
-              "url": "https://www.bloomberg.com/news/articles/2026-06-18/lng-tanker-heads-toward-hormuz-as-us-iran-pact-goes-into-effect"
+              "headline": "Oil Falls as Iran Deal Gets Tankers Moving Through Hormuz",
+              "url": "https://www.bloomberg.com/news/articles/2026-06-17/latest-oil-market-news-and-analysis-for-june-18"
             },
             {
               "political": "right",
@@ -82,9 +107,9 @@
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "What's in the US-Iran agreement?",
-          "neutralSummary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+          "id": "global-4",
+          "neutralHeadline": "Iran Deal Leaves Questions: Paggi",
+          "neutralSummary": "Livia Paggi, Senior Managing Director and Head of Political Risk at J.S. Held joined Bloomberg Open Interest to break down President Trump’s Iran deal, warning that while markets welcomed lower oil prices and an open Strait of Hormuz, the agreement leaves major questions unresolved on Iran’s nuclear",
           "versions": [
             {
               "political": "left",
@@ -92,58 +117,33 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.com",
-              "headline": "What's in the US-Iran agreement?",
-              "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump signs preliminary agreement with Iran, after releasing details",
-              "url": "https://www.npr.org/2026/06/17/nx-s1-5860782/trump-iran-agreement-g7"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Netanyahu under pressure in Israel after US-Iran agreement",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-under-pressure-in-israel-after-us-iran-agreement?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "World Cup 2026: Ghana break Panama resistance with stoppage-time winner",
-          "neutralSummary": "World Cup 2026: Ghana break Panama resistance with stoppage-time winner",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Ghana beat Panama 1–0 in chaotic World Cup Group L match",
-              "url": "https://www.aljazeera.com/sports/2026/6/18/ghana-beat-panama-1-0-in-chaotic-charged-world-cup-group-l?traffic_source=rss"
+              "headline": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+              "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Iran Deal Leaves Questions: Paggi",
+              "url": "https://www.bloomberg.com/news/videos/2026-06-18/iran-deal-leaves-questions-paggi-video"
+            },
+            {
+              "political": "right",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "World Cup 2026: Ghana break Panama resistance with stoppage-time winner",
-              "url": "https://www.france24.com/en/sport/20260618-world-cup-2026-ghana-break-panama-resistance-with-stoppage-time-winner"
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Vance says Iran is honoring their end of the deal",
+              "url": "https://nypost.com/2026/06/18/us-news/vance-says-iran-is-honoring-their-end-of-the-deal/"
             }
           ]
         },
         {
           "id": "global-5",
-          "neutralHeadline": "Stocks Leap Worldwide, And Oil Prices Drop After U.S. And Iran Reach Tentative Deal On War",
-          "neutralSummary": "Stock markets rallied worldwide, and oil prices eased after the United States and Iran reached a tentative deal to get the global flow of crude going again.",
+          "neutralHeadline": "Stocks Climb as US-Iran Deal Spurs Oil Retreat: Markets Wrap",
+          "neutralSummary": "Wall Street staged a comeback that saw stocks climbing as oil fell after a peace deal between the US and Iran spurred optimism that a revival of the Strait of Hormuz will ease inflation risks.",
           "versions": [
             {
               "political": "left",
@@ -155,20 +155,86 @@
               "url": "https://www.huffpost.com/entry/stocks-leap-worldwide-oil-price-drop-iran-deal_n_6a306f3ee4b07f7766ea635e"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Oil prices fall, stocks rally as US, Iran sign framework to end war",
-              "url": "https://www.aljazeera.com/economy/2026/6/18/oil-prices-fall-stocks-rally-as-us-iran-sign-framework-to-end-war?traffic_source=rss"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Stocks Climb as US-Iran Deal Spurs Oil Retreat: Markets Wrap",
+              "url": "https://www.bloomberg.com/news/articles/2026-06-17/asian-stocks-bonds-to-fall-on-hawkish-fed-signals-markets-wrap"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "More than 1,000 people have been killed in Gaza during ceasefire, Palestinian authorities say",
-          "neutralSummary": "More than 1,000 people have been killed in Gaza during ceasefire, Palestinian authorities say&nbsp;&nbsp;AP NewsOver 1,000 people killed during Gaza ceasefire, Palestinian authorities say&nbsp;&nbsp;NPRIsraeli military takes more territory, kills two people in Gaza, medics and witnesses say&nbsp;&nb",
+          "neutralHeadline": "Gunmen attack Niger's biggest airport for second time in months",
+          "neutralSummary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Gunmen attack Niger's biggest airport for second time in months",
+              "url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Niger says soldiers, civilians killed in armed attack on Niamey airport",
+              "url": "https://www.aljazeera.com/news/2026/6/18/niger-says-soldiers-civilians-killed-in-armed-attack-on-niamey-airport?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
+          "neutralHeadline": "Hegseth renews Nato criticism and says US will review presence in Europe",
+          "neutralSummary": "The US defence secretary's move follows a US decision to scale back its commitments to a high readiness force within the alliance.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.com",
+              "headline": "Hegseth renews Nato criticism and says US will review presence in Europe",
+              "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Hegseth announces in Brussels a review of U.S. forces in Europe, and a 'NATO 3.0'",
+              "url": "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Report: Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous",
+          "neutralSummary": "MIT researchers think they've worked out exactly how Russia's Burevestnik nuclear-powered missile flies. \"It's almost certainly a terrible idea,\" one analyst said. \"But it's not an impossible idea.\"",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Report: Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous",
+              "url": "https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say",
+          "neutralSummary": "Israeli operations in the Gaza Strip have killed 1,005 Palestinians since a ceasefire was reached between Israel and the militant group Hamas last October, according to Gaza Health Ministry.",
           "versions": [
             {
               "political": "left",
@@ -180,61 +246,13 @@
               "url": "https://www.npr.org/2026/06/18/g-s1-128734/over-1-000-people-killed-during-gaza-ceasefire-palestinian-authorities-say"
             },
             {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "More than 1,000 people have been killed in Gaza during ceasefire, Palestinian authorities say",
-              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1lKQ1RrM1JacURrZ3l6MUIwTVQ4MFZUeHpXZlRWT2tNbkxDTy1PNFdpeTFKN2xPRndoVUtqbDJlcDhsSEFpVm9YYXdCbG9ieHF6SHY0aHREZmVtVEY2WG1rcnJvM0hMbHBORUJlZ3dlZnNtdlhYblZBUWVCcU11SUdSdDJjYXh4LTRyZ1VNRUcxUHFuRFQ0dzY0bVVkU2N2dWVXSjJIX19jcHFCWHZweTFBbXJuZFk?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "World Cup 2026: Kane, Bellingham and Rashford fire England past Croatia",
-          "neutralSummary": "World Cup 2026: Kane, Bellingham and Rashford fire England past Croatia",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "World Cup 2026: Kane, Bellingham and Rashford fire England past Croatia",
-              "url": "https://www.france24.com/en/sport/20260617-world-cup-2026-kane-bellingham-and-rashford-fire-england-past-croatia"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
-          "neutralSummary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensationRead more: Killed walking home from school: why did Somali children become targets of US drone strikes?A seven-year-old boy who was riddled with s",
-          "versions": [
-            {
               "political": "left",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
-              "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms",
-          "neutralSummary": "Exclusive: health professionals, survivors and politicians voice concerns in open letter over comments by Fatima Maada Bio, who denies supporting the practiceThe first lady of Sierra Leone has denied that she supports female genital mutilation amid rising anger around her perceived approval of the p",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Sierra Leone’s first lady refuses to condemn FGM without ‘reliable data’ on harms",
-              "url": "https://www.theguardian.com/global-development/2026/jun/17/sierra-leones-first-lady-refuses-to-condemn-fgm-without-reliable-data-on-harms"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "These are the Palestinians that Israel has killed during Gaza’s ‘ceasefire’",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/these-are-the-palestinians-that-israel-has-killed-during-gazas?traffic_source=rss"
             }
           ]
         }
@@ -245,9 +263,18 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Trump Blows Through His Iran Red Lines in Justifying Peace Deal",
-          "neutralSummary": "Trump Blows Through His Iran Red Lines in Justifying Peace Deal&nbsp;&nbsp;Yahoo FinanceSee more headlines & perspectives on Google News",
+          "neutralHeadline": "Tired And Confused-Looking Trump Continues Selling Iran ‘Deal’ At G7 Close",
+          "neutralSummary": "Given the opportunity to insult in person the allies he has attacked from afar, Trump did not take it and instead remained reasonably well-behaved.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Tired And Confused-Looking Trump Continues Selling Iran ‘Deal’ At G7 Close",
+              "url": "https://www.huffpost.com/entry/trump-tired-confused-g7_n_6a3275c4e4b07b79d93c5ee7"
+            },
             {
               "political": "left",
               "tone": "neutral",
@@ -258,22 +285,13 @@
               "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html"
             },
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Yahoo Finance",
-              "initials": "YF",
-              "domain": "news.google.com",
-              "headline": "Trump Blows Through His Iran Red Lines in Justifying Peace Deal",
-              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWhuTkFzRlgzdHhLcW5qVlBsalRVTkQ2Ync4U0x6YU5kOFdvYUdaQlNRMGNFVllicDZEek1jYzd6NklDZng2UjhSUGwzQW5LOFNKdThKaXpuRVdKOVVoVnpYbDRRQXA1N05NOVdNMG43cWdVTTlVSzBXMEVLQzV4aHJUOFVpclJwN0l6T0dILTBONzVFOWc?oc=5"
-            },
-            {
               "political": "right",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump's Iran deal 'giving a lot more to get a lot less' than Obama's, senator says",
-              "url": "https://www.foxnews.com/politics/trumps-iran-deal-giving-lot-more-get-lot-less-than-obamas-senator-says"
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Marco Rubio should resign over Trump’s deal with Iran",
+              "url": "https://www.washingtonexaminer.com/op-eds/4614436/marco-rubio-should-resign-trump-deal-iran/"
             },
             {
               "political": "right",
@@ -281,74 +299,108 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Trump Signs Iran Deal In Surprise Move, Scrapping Planned Ceremony",
-              "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule"
+              "headline": "Pain At The Pump Starts To Ease In First Day After Trump Signs Iran Deal",
+              "url": "https://www.dailywire.com/news/americans-see-some-relief-from-high-price-headache-after-trump-signs-iran-deal"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "The Memo: Hawks lament ‘disaster’ on Iran as Trump strains to sell deal",
-          "neutralSummary": "President Trump tried to make the case for his interim peace deal with Iran on Wednesday, but a lengthy news conference only revealed that no last-minute rabbits would be pulled from the hat to assuage his critics. Trump’s comments, delivered as he prepared to leave a Group of Seven (G7) summit in F",
+          "neutralHeadline": "Barack Obama Presidential Center Opens in Chicago",
+          "neutralSummary": "Thursday’s opening drew four former presidents, as well as Bruce Springsteen, Bono and Jennifer Hudson. Chicago has seen years of planning and legal fights.",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "‘Not So Good’: Republican Hawks Wary Of Iran Deal",
-              "url": "https://www.huffpost.com/entry/iran-war-deal-strait-hormuz-sanctions_n_6a31c019e4b076790911e881"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Trump’s Deal With Iran Opens New Rifts in G.O.P.",
-              "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-republicans-criticism.html"
+              "headline": "Barack Obama Presidential Center Opens in Chicago",
+              "url": "https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "The Memo: Hawks lament ‘disaster’ on Iran as Trump strains to sell deal",
-              "url": "https://thehill.com/homenews/administration/5929372-trump-defends-iran-missile-rights/"
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Star-studded crowd gathers to celebrate Obama’s new center in Chicago",
+              "url": "https://www.washingtonpost.com/nation/2026/06/18/barack-obama-presidential-center-opens-chicagos-lakefront/"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "The Obama Presidential Center will be dedicated Thursday. Here's what to expect",
+              "url": "https://www.npr.org/2026/06/18/nx-s1-5861803/obama-presidential-center-dedication-chicago"
             }
           ]
         },
         {
           "id": "us-3",
-          "neutralHeadline": "G7 Leaders Back Trump's Plan To End Iran War That Faces Skepticism At Home",
-          "neutralSummary": "In a declaration issued overnight, the leaders said they were \"ready to contribute\" to the implementation of Trump's tentative agreement with Tehran.",
+          "neutralHeadline": "Supreme Court sides with Texas man who challenged law barring drug users from having guns",
+          "neutralSummary": "Supreme Court sides with Texas man who challenged law barring drug users from having guns&nbsp;&nbsp;CBS NewsSupreme Court limits power of federal government to disarm drug users&nbsp;&nbsp;CNNUS Supreme Court narrows law barring drug users from owning guns&nbsp;&nbsp;Financial TimesSupreme Court lo",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "G7 Leaders Back Trump's Plan To End Iran War That Faces Skepticism At Home",
-              "url": "https://www.huffpost.com/entry/g7-summit-trump-iran-deal_n_6a326d66e4b07b79d93c560c"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Supreme Court Narrows Law Banning Drug Users From Owning Guns",
+              "url": "https://www.nytimes.com/2026/06/18/us/politics/supreme-court-drugs-guns.html"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "'Trump should renege': Iran deal faces backlash from conservative allies",
-              "url": "https://www.foxnews.com/politics/trump-renege-iran-deal-faces-backlash-conservative-allies"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Supreme Court sides with a marijuana user who was barred from owning guns",
+              "url": "https://www.npr.org/2026/06/18/nx-s1-5835232/supreme-court-marijuana-guns"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "Supreme Court sides with Texas man who challenged law barring drug users from having guns",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzbWJNZFZpRng0UEIxTEJRU19xeDEtWmJacklxU2VnTDh4YU5uWUV4b2thRUl6OHhhZkpEX3pWa0JBMEdnRFNfNUQtVDk4bmhZcGl3YnJZU2RCRkh4ZG5mMFFQWmNHYjhDQ3I3SFJqUUNBNmlKQkNsVkgwLUFVcGM?oc=5"
             }
           ]
         },
         {
           "id": "us-4",
-          "neutralHeadline": "Newsom Delivers Democrats A Script For Counterstrike On Trump's DOJ: Report",
-          "neutralSummary": "The governor accused Trump of targeting him and his family with a \"baseless fishing expedition\" in a post on X Monday.",
+          "neutralHeadline": "Megyn Kelly Airs Criticism Of 'Complete Disaster' Iran Deal — Directly To JD Vance",
+          "neutralSummary": "The vice president responded by accusing critics of buying into \"Iranian propaganda\" and \"not actually dealing with the reality.\"",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Megyn Kelly Airs Criticism Of 'Complete Disaster' Iran Deal — Directly To JD Vance",
+              "url": "https://www.huffpost.com/entry/jd-vance-megyn-kelly-iran-peace-deal_n_6a329fd4e4b0cf0ab37a7767"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Vance says Iran is honoring their end of the deal",
+              "url": "https://nypost.com/2026/06/18/us-news/vance-says-iran-is-honoring-their-end-of-the-deal/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Vance ‘not at all’ concerned Trump will make him the fall guy on Iran",
+          "neutralSummary": "Vice President Vance said he was &#8220;not at all&#8221; concerned that President Trump will make him the fall guy if the Iran deal fails. &#8220;No, not at all,&#8221; Vance told reporters at the White House press briefing, when asked if he was worried Trump would make him the fall guy.&#160; &#82",
           "versions": [
             {
               "political": "left",
@@ -356,24 +408,24 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Newsom Delivers Democrats A Script For Counterstrike On Trump's DOJ: Report",
-              "url": "https://www.huffpost.com/entry/gavin-newsom-talking-points-democrats-doj-investigation_n_6a31a48fe4b076790911a926"
+              "headline": "Trump Had 4 Objectives For His War In Iran. He Has Not Accomplished Any Of Them.",
+              "url": "https://www.huffpost.com/entry/trump-war-iran-big-failure_n_6a3044dae4b07679090ec9e6"
             },
             {
-              "political": "right",
+              "political": "center",
               "tone": "pessimistic",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Gavin Newsom’s Trump Prosecution Envy",
-              "url": "https://www.washingtonexaminer.com/daily-memo/4613639/gavin-newsom-trump-prosecution-envy/"
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Vance ‘not at all’ concerned Trump will make him the fall guy on Iran",
+              "url": "https://thehill.com/homenews/5930296-jd-vance-not-concerned-iran-blame/"
             }
           ]
         },
         {
-          "id": "us-5",
-          "neutralHeadline": "DOJ uses alleged UFC plot to argue for Trump ballroom",
-          "neutralSummary": "A foiled plot to attack an outdoor UFC event at the White House over the weekend is further proof why President Trump’s proposed ballroom is needed for security reasons, a senior Department of Justice (DOJ) official told a federal appeals court Tuesday. Brett Shumate, the assistant attorney general",
+          "id": "us-6",
+          "neutralHeadline": "Why the Supreme Court is fighting over deadly gas and firing squads",
+          "neutralSummary": "Last week, the Supreme Court handed an unusual — if temporary — victory to an Alabama man on death row. As Steve Vladeck, a Georgetown law professor, writes, this is the first time in over five years that this Court refused to “un-block an execution that a lower court had put on hold,” at least [&#8",
           "versions": [
             {
               "political": "left",
@@ -381,58 +433,8 @@
               "source": "Vox",
               "initials": "VOX",
               "domain": "vox.com",
-              "headline": "You’re paying for Trump’s ballroom",
-              "url": "https://www.vox.com/the-logoff-newsletter-trump/492197/trump-east-wing-ballroom-600-million-price-tag-taxpayers"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "DOJ uses alleged UFC plot to argue for Trump ballroom",
-              "url": "https://thehill.com/homenews/administration/5929133-trump-ballroom-ufc-event-threat/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Shelter-in-place order lifted after Boyle Heights commercial building fire",
-          "neutralSummary": "Shelter-in-place order lifted after Boyle Heights commercial building fire&nbsp;&nbsp;NBC Los AngelesSee more headlines & perspectives on Google News",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Boyle Heights Warehouse Fire Prompts Thousands of L.A. Residents to Shelter in Place",
-              "url": "https://www.nytimes.com/2026/06/17/us/los-angeles-warehouse-fire-boyle-heights.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "NBC Los Angeles",
-              "initials": "NL",
-              "domain": "news.google.com",
-              "headline": "Shelter-in-place order lifted after Boyle Heights commercial building fire",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUVjUmNYc3RDTUp1a3laaWlCNEN0emRUaVVlXzNMeXdnWXZ4VzE4V0NiZFZkR0lseVI4VkVwSkVWZncyQ3lrSF81VWhmcGE4RG5ZTjBSU0x6WFloMS1GOTMwOHlRazRlN0FRZDY5VTcwTE1BUFV6YWt2aDhnYWVLdk9B0gGKAUFVX3lxTE1uUGR0R3NTMmpXM211bmdkZnBhOFR1ZUJyYWlFUnVRamJmR2Z3bktvclAtVDg2cFlQYXZ5b3hPNFJ3LVM1ZHdXT2l1ZzFnUkx3SUZ5WHJqSFB3dHpoNWgtQ2RwOVdLeGF1UVBIdlpXVHlhSzJSYWZEbjVrR0hQQ0hjc3hodFVkdF8xdw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Florida Appeals Court Strikes Down Ban on Concealed Carry for Young Adults",
-          "neutralSummary": "The state attorney general, James Uthmeier, had declined to defend the nearly 40-year-old ban on 18- to 20-year-olds carrying concealed weapons. He celebrated the ruling on Wednesday.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Florida Appeals Court Strikes Down Ban on Concealed Carry for Young Adults",
-              "url": "https://www.nytimes.com/2026/06/17/us/florida-concealed-carry-young-adults.html"
+              "headline": "Why the Supreme Court is fighting over deadly gas and firing squads",
+              "url": "https://www.vox.com/politics/492087/supreme-court-lee-lovelace-alabama-firing-squad-death-penalty"
             },
             {
               "political": "right",
@@ -440,31 +442,15 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Florida court says 18-year-olds have same gun rights as other adults",
-              "url": "https://www.foxnews.com/politics/florida-court-says-18-year-olds-have-same-gun-rights-other-adults"
+              "headline": "Trump’s firing power faces twin Supreme Court tests, but one agency may get special treatment",
+              "url": "https://www.foxnews.com/politics/trumps-firing-power-faces-twin-supreme-court-tests-one-agency-may-get-special-treatment"
             }
           ]
         },
         {
-          "id": "us-8",
-          "neutralHeadline": "Trump Feuds With Thune and G.O.P., Stoking Election-Year Rift",
-          "neutralSummary": "The president upended the majority leader’s plans by yanking his intelligence nominee from a confirmation hearing and insisting on an end to the filibuster.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Feuds With Thune and G.O.P., Stoking Election-Year Rift",
-              "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-thune-republicans-election-year-rift.html"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "More than 1,000 people have been killed in Gaza during ceasefire, Palestinian authorities say",
-          "neutralSummary": "More than 1,000 people have been killed in Gaza during ceasefire, Palestinian authorities say&nbsp;&nbsp;AP NewsOver 1,000 people killed during Gaza ceasefire, Palestinian authorities say&nbsp;&nbsp;NPRIsraeli military takes more territory, kills two people in Gaza, medics and witnesses say&nbsp;&nb",
+          "id": "us-7",
+          "neutralHeadline": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
+          "neutralSummary": "Ukraine launched a new wave of drone attacks on Russia early Thursday, amounting to one of the largest attacks on the Russian capital since the Kremlin ordered the invasion of Ukraine more than four years ago.",
           "versions": [
             {
               "political": "left",
@@ -472,17 +458,58 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say",
-              "url": "https://www.npr.org/2026/06/18/g-s1-128734/over-1-000-people-killed-during-gaza-ceasefire-palestinian-authorities-say"
+              "headline": "Ukraine hits a Moscow oil refinery and other sites in a large-scale drone attack",
+              "url": "https://www.npr.org/2026/06/18/g-s1-128782/moscow-ukraine-drone-attack-russia-oil-refinery"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83N2xZam91YkE0ZzNNbVBjS0JOaDZ4UWdGR2dvTlVWTlQzUmxycGo3ZmRNR0N3eElFeG1xWkluX2lORE1QUU1tMVdmNWRIYm1Uejh4UFdWajdXdw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Report: Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous",
+          "neutralSummary": "MIT researchers think they've worked out exactly how Russia's Burevestnik nuclear-powered missile flies. \"It's almost certainly a terrible idea,\" one analyst said. \"But it's not an impossible idea.\"",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Report: Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous",
+              "url": "https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "3 supertankers sail through Strait of Hormuz after deal signed: Report",
+          "neutralSummary": "Three Saudi Arabian-flagged supertankers reportedly transited the Strait of Hormuz after the U.S. and Iran signed a deal that will reopen the waterway. Reuters reported the vessels, managed by Saudi Arabian shipping group Bahri, had 6 million barrels onboard. The Hill has reached out to Bahri for co",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWd4Vk9BdlhaOFVPVmNnNk1Ed0ZzZnhaY2I1dkJfa2J6eWllMzBCamIwMkI3ckpEdUhZZzZWVEx6TUNNMFVCaVBSYlpJakx5NE43NzZSNE1Qa0YyUkpTdVh2T1RIcTNycU1Tb19zcTZFMXd3T1llREwzNWRublQ1TENNd1dqaVJMZ1hldXA0RlYzS3lQSG5iellIanVyV1A4bENOaDNNRVRSRHfSAbABQVVfeXFMTUpVb3lFb1VERy1YUDluX3lkWU8tN2huYzVkaXVRc2wzejBBdkc3d1hYQUxvX2pVdTJuWE9ZTXZFcGs0RzRzTzNfX2xZOWJ0cDdpbVJYNGdHOW42ZUhTejRiY1hMeURIWXNMaGJCcmMyQkF1NlEtVWtwcXlLZUh1cDJ1MHB0cFhQMkdOcnNUNXJiUWdhWDYtdHl5QkZRU2M1ZHBCVmdXa01mODFXbUNoZ08?oc=5"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "More than 1,000 people have been killed in Gaza during ceasefire, Palestinian authorities say",
-              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1lKQ1RrM1JacURrZ3l6MUIwTVQ4MFZUeHpXZlRWT2tNbkxDTy1PNFdpeTFKN2xPRndoVUtqbDJlcDhsSEFpVm9YYXdCbG9ieHF6SHY0aHREZmVtVEY2WG1rcnJvM0hMbHBORUJlZ3dlZnNtdlhYblZBUWVCcU11SUdSdDJjYXh4LTRyZ1VNRUcxUHFuRFQ0dzY0bVVkU2N2dWVXSjJIX19jcHFCWHZweTFBbXJuZFk?oc=5"
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "3 supertankers sail through Strait of Hormuz after deal signed: Report",
+              "url": "https://thehill.com/policy/international/5930065-saudi-tankers-strait-hormuz/"
             }
           ]
         }
@@ -493,33 +520,24 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Asian stocks steady, oil lower as US and Iran sign peace deal",
-          "neutralSummary": "The interim peace deal extends a ceasefire announced in April by another 60 days, to allow the two sides to negotiate a final truce.",
+          "neutralHeadline": "Android users lose at least $69,000 in less than 3 months to malware scams targeting seniors",
+          "neutralSummary": "At least eight such cases have been reported since April 1.",
           "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Asian stocks steady, oil lower as US and Iran sign peace deal",
-              "url": "https://www.channelnewsasia.com/business/asian-stocks-oil-price-us-iran-sign-peace-deal-6191881"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Straits Times",
               "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "US-Iran peace deal takes effect",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkRuREcwaF8zMVZjMnFmV3hSWVpQUHNFNHQyb3htdUNURk1xdV9ld1I2bEFCRE5xRUFYczdNQ1hyUUc0b3h6LXVTWUhPNjJwYk14NkxFRWZBRWthaGZSOWZ2YzJWU2VkMVlqdjFVNXVORk02TUhyNGZmZHZjRXJjcW5XSjUxOWZQOGpVNHlfMVZRbmVuSksyY25VVjY0YXdtOU5hcWxfc1FEZWVR?oc=5"
+              "domain": "straitstimes.com",
+              "headline": "Android users lose at least $69,000 in less than 3 months to malware scams targeting seniors",
+              "url": "https://www.straitstimes.com/singapore/android-users-lose-at-least-69000-in-less-than-3-months-to-malware-scams-targeting-seniors"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Trump says Apple to partner with Intel on US chip design, production",
-          "neutralSummary": "Intel reached a preliminary deal to make some chips for Apple after more than a year of discussions.",
+          "neutralHeadline": "PUB investigating after some Bedok Reservoir residents notice brown water running from taps",
+          "neutralSummary": "The issue appears to have been confined to units on one floor of an HDB block.",
           "versions": [
             {
               "political": "center",
@@ -527,24 +545,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Trump says Apple to partner with Intel on US chip design, production",
-              "url": "https://www.straitstimes.com/singapore/trump-says-apple-to-partner-with-intel-on-us-chip-design-production"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Trump says Apple to work with Intel to manufacture chips in US",
-              "url": "https://www.channelnewsasia.com/business/trump-says-apple-work-intel-manufacture-chips-in-us-6192291"
+              "headline": "PUB investigating after some Bedok Reservoir residents notice brown water running from taps",
+              "url": "https://www.straitstimes.com/singapore/pub-investigating-after-some-bedok-reservoir-residents-notice-brown-water-running-from-taps"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "5 public holiday long weekends in Singapore in 2027",
-          "neutralSummary": "There will be 11 public holidays in 2027, starting with New Year’s Day on a Friday.",
+          "neutralHeadline": "Windsor Convalescent Home licence to be revoked on Oct 30 after serious lapses in safety, hygiene",
+          "neutralSummary": "Its current residents will be transferred to other nursing homes.",
           "versions": [
             {
               "political": "center",
@@ -552,61 +561,13 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "5 public holiday long weekends in Singapore in 2027",
-              "url": "https://www.straitstimes.com/singapore/singapore-to-have-5-public-holiday-long-weekends-in-2027"
+              "headline": "Windsor Convalescent Home licence to be revoked on Oct 30 after serious lapses in safety, hygiene",
+              "url": "https://www.straitstimes.com/singapore/windsor-convalescent-home-licence-to-be-revoked-from-oct-30-moh"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "NUS falls to 10th place while NTU retains 12th spot in latest global university rankings",
-          "neutralSummary": "Both SMU and SUTD climbed into the top 500.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "NUS falls to 10th place while NTU retains 12th spot in latest global university rankings",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/nus-falls-to-10th-place-while-ntu-retains-12th-spot-in-latest-global-university-rankings"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Man arrested after accident between car, taxi near Bendemeer MRT station; drug utensils, weapon found",
-          "neutralSummary": "The affected road was closed for nearly four hours after the accident.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Man arrested after accident between car, taxi near Bendemeer MRT station; drug utensils, weapon found",
-              "url": "https://www.straitstimes.com/singapore/2-taken-to-hospital-after-accident-between-taxi-and-car-near-bendemeer-mrt-station"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "China seeks to curb 'unfair' competition in food delivery sector",
-          "neutralSummary": "Under the new rules, platforms may not \"indirectly coerce\" merchants into participating in subsidy schemes through allocation of user traffic, and must not force merchants and delivery drivers to bear the costs of subsidies.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "China seeks to curb 'unfair' competition in food delivery sector",
-              "url": "https://www.channelnewsasia.com/east-asia/china-food-delivery-unfair-competition-rules-6192361"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
           "neutralHeadline": "Modi reports 'significant progress' in US-India trade talks after Trump meeting",
           "neutralSummary": "Asked if the US and India are close to a trade deal, Trump told reporters in Evian that they were \"very close\".",
           "versions": [
@@ -631,9 +592,9 @@
           ]
         },
         {
-          "id": "singapore-8",
-          "neutralHeadline": "Vietnam police rescue hundreds of cats from being eaten with bust of major animal theft ring",
-          "neutralSummary": "Families were reunited with their missing pets after the crackdown on cat-meat trade.",
+          "id": "singapore-5",
+          "neutralHeadline": "US-Iran deal sparks record highs for Asian stocks, drags on oil",
+          "neutralSummary": "The interim peace deal extends a ceasefire announced in April by another 60 days, to allow the two sides to negotiate a final truce.",
           "versions": [
             {
               "political": "center",
@@ -641,24 +602,49 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Vietnam police rescue hundreds of cats from being eaten with bust of major animal theft ring",
-              "url": "https://www.channelnewsasia.com/asia/cat-meat-trade-vietnam-police-rescue-animal-theft-ring-6189646"
+              "headline": "US-Iran deal sparks record highs for Asian stocks, drags on oil",
+              "url": "https://www.channelnewsasia.com/business/asian-stocks-oil-price-us-iran-sign-peace-deal-6191881"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.com",
-              "headline": "Hundreds of cats stolen for food in Vietnam rescued by police, welfare group says",
-              "url": "https://www.bbc.com/news/articles/c20yzm58vk3o?at_medium=RSS&at_campaign=rss"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Stocks Climb as US-Iran Deal Spurs Oil Retreat: Markets Wrap",
+              "url": "https://www.bloomberg.com/news/articles/2026-06-17/asian-stocks-bonds-to-fall-on-hawkish-fed-signals-markets-wrap"
             }
           ]
         },
         {
-          "id": "singapore-9",
-          "neutralHeadline": "Disinformation campaigns out of China: Who’s behind them and why?",
-          "neutralSummary": "The inflammatory online posts have gained some traction on different platforms here.",
+          "id": "singapore-6",
+          "neutralHeadline": "What's in the US-Iran deal? Key details from the 14-point agreement",
+          "neutralSummary": "What's in the US-Iran deal? Key details from the 14-point agreement&nbsp;&nbsp;CNAIran war live: Iran president hails US deal as ‘historic document’&nbsp;&nbsp;Al JazeeraLive updates: US and Iran sign initial agreement to end war but tougher talks lie ahead&nbsp;&nbsp;CNNDonald Trump’s Iran deal met",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "What's in the US-Iran deal? Key details from the 14-point agreement",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUxhLTVZX3pEaGswU1k3MFVhbU1WRjVOdXRhbllYX3JoeHJmektHUDE5S3JSa1dOb3JpS2g1cElhNTV1Zi1XN0FIOU5JT2twU3hHY2xEU2ZuZTdIdDRiYlNjMEVrNHFEdDhBd3RkZE5wZ19BVW9jVFRjbVdoQmZRSmFyRjB2NkNwX3NoNUpsWVdrMG00dHl5RTVmVnZLQm9kVkE?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Iran Deal Leaves Questions: Paggi",
+              "url": "https://www.bloomberg.com/news/videos/2026-06-18/iran-deal-leaves-questions-paggi-video"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "ST story on S-E Asia amid US-China rivalry bags Asian publishing award",
+          "neutralSummary": "ST bags three awards at the Society of Publishers in Asia Awards 2026.",
           "versions": [
             {
               "political": "center",
@@ -666,8 +652,40 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Disinformation campaigns out of China: Who’s behind them and why?",
-              "url": "https://www.straitstimes.com/singapore/disinformation-campaigns-out-of-china-whos-behind-them-and-why"
+              "headline": "ST story on S-E Asia amid US-China rivalry bags Asian publishing award",
+              "url": "https://www.straitstimes.com/singapore/st-story-on-s-e-asia-amid-us-china-rivalry-bags-asian-publishing-award"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "Build political support globally for more momentum on climate action: President Tharman",
+          "neutralSummary": "Climate change is the most significant sustainable development issue, he said.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Build political support globally for more momentum on climate action: President Tharman",
+              "url": "https://www.straitstimes.com/singapore/politics/build-political-support-globally-for-more-momentum-on-climate-action-president-tharman"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
+          "neutralHeadline": "Singapore welcomes US-Iran pact to end military operations in Middle East, reopen Strait of Hormuz",
+          "neutralSummary": "It also commends the efforts of the mediators that made the deal possible.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Singapore welcomes US-Iran pact to end military operations in Middle East, reopen Strait of Hormuz",
+              "url": "https://www.straitstimes.com/singapore/singapore-welcomes-us-iran-pact-to-cease-military-operations-in-middle-east-reopen-strait-of-hormuz"
             }
           ]
         }
@@ -678,33 +696,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Ahead of parliamentary body meet, Shiv Sena (UBT) says ‘action will be taken against those who violate whip’",
-          "neutralSummary": "Sanjay Raut Uddhav Thackeray and NCP (SP) president Sharad Pawar called him, during which it was discussed that those who resorted to treachery should not be spared",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Ahead of parliamentary body meet, Shiv Sena (UBT) says ‘action will be taken against those who violate whip’",
-              "url": "https://www.thehindu.com/news/national/maharashtra/shiv-sena-ubt-parliamentary-party-meet-whip-mps-operation-tiger/article71116639.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Shiv Sena Crisis Live: Uddhav Camp Party Meet Shortly, Whip Issued To All MPs",
-              "url": "https://www.ndtv.com/india-news/shiv-sena-ubt-crisis-live-updates-uddhav-thackeray-maharashtra-politics-eknath-shinde-live-news-sanjay-raut-raj-thackeray-party-split-rebel-mps-11647456#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "Why Uddhav Thackeray’s latest challenge may be his most difficult yet",
-          "neutralSummary": "Analysts say Uddhav Thackeray may find it tough to cope with the latest crisis which should be seen in the context of fast-mutating character of Indian politics",
+          "neutralHeadline": "Congress's ‘used money’ charge after NDA-backed candidate wins Jharkhand Rajya Sabha seat amid cross-voting claims",
+          "neutralSummary": "JMM candidate Baidyanath Ram and NDA-backed Independent nominee Parimal Nathwani won the two Rajya Sabha seats from Jharkhand.",
           "versions": [
             {
               "political": "left",
@@ -712,8 +705,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "The 6 Rebels Who Could Break Uddhav Thackeray's Sena, Yet Again",
-              "url": "https://www.ndtv.com/india-news/the-6-rebels-who-could-break-uddhav-thackerays-sena-yet-again-11653010#publisher=newsstand"
+              "headline": "Cross-Voting In Jharkhand Powers BJP-Backed Candidate To Rajya Sabha",
+              "url": "https://www.ndtv.com/india-news/cross-voting-in-jharkhand-powers-bjp-backed-candidate-to-rajya-sabha-11655226#publisher=newsstand"
             },
             {
               "political": "center",
@@ -721,65 +714,67 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Why Uddhav Thackeray’s latest challenge may be his most difficult yet",
-              "url": "https://www.hindustantimes.com/india-news/why-uddhav-thackeray-latest-shiv-sena-challenge-may-be-his-most-difficult-yet-101781754581158.html"
+              "headline": "Congress's ‘used money’ charge after NDA-backed candidate wins Jharkhand Rajya Sabha seat amid cross-voting claims",
+              "url": "https://www.hindustantimes.com/india-news/used-money-to-secure-votes-congress-after-nda-backed-candidates-rajya-sabha-win-in-jharkhand-elections-parimal-nathwani-101781794650599.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "Jharkhand Rajya Sabha polls: Cross-voting helps NDA-backed Parimal Nathwani win; JMM bags other seat",
+              "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUFB0UjYydmdKOGRsNF9xdjB1NGxUVVRYdHVZa1JjU1BlOW83OEFzVjQ3ZTl2NURBMzlqRGlqN3R0cThTaUxENDNBOURrTHlvdm9xdHVMQ0JEU2pnOG5HR3Bvb2NvSm96YVJwWFZybUVvMVI5NDFNVE1WVmdxVDNuSm9KUzZzdmdPdDNnTFYwVW52QmdocjV3UU9vODBtaVVUV2R5cnlPQ2ZnMnREdEhvQWZwbVM0Z21mS3dzS2V3R1JQektBa2V5d0hydU5uMGtRTVRERS1aalFEcnZFb2pyTWYwMGdPTnNTNlRCT2V1LU5Tb1ZKRER3cDhkVQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "Iran Deal Leaves Questions: Paggi",
+          "neutralSummary": "Livia Paggi, Senior Managing Director and Head of Political Risk at J.S. Held joined Bloomberg Open Interest to break down President Trump’s Iran deal, warning that while markets welcomed lower oil prices and an open Strait of Hormuz, the agreement leaves major questions unresolved on Iran’s nuclear",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "After Iran Deal, Trump's 2020 Remark Returns To Haunt Him",
+              "url": "https://www.ndtv.com/india-news/us-iran-war-us-iran-deal-tehran-donald-trump-mojtaba-khamenei-iran-us-agreement-trump-may-have-won-iran-war-militarily-he-lost-the-negotiation-11655231#publisher=newsstand"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Forbes",
+              "initials": "FB",
+              "domain": "news.google.com",
+              "headline": "Trump Says Iran Deal Critics Are ‘Fools’ As He Touts ‘Record High’ Markets And ‘Tumbling’ Oil Prices",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRW9fZEF0Mm9Xb0puVDM5Mzl1bHplQUJjODdJU1AtcWNVSDRvTXd0UDNtdVBHUndVa19hQ3JVajVldDE4Slp4NUZEcHRPaFNaVVNra1VMT1lWUWw2RjQxWWtqVnpTSm1vOWRTSndKZ1RJZG4xNDlwVjFsVXVaZ0hkOXA0QXhTUXZmX0ktZ3BYZjdJZnd6dHVsbkRBbTFEeVNiR1NNMWU0WGxJX0pRbkpGQzdrUUE2NDRkWnZsdVVGSEY1dk10OWlGYVZfQjNuSHZ5Szcw?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Iran Deal Leaves Questions: Paggi",
+              "url": "https://www.bloomberg.com/news/videos/2026-06-18/iran-deal-leaves-questions-paggi-video"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Inside Chaotic US-Iran Talks That Let Trump Claim Victory, But Not Yet Peace",
-          "neutralSummary": "Justin Gaethje celebrates during the UFC fight on the South Lawn of the White House",
+          "neutralHeadline": "At Trump's Iran Deal Signing Venue, A 1919 Treaty Left This Nation Red-Faced",
+          "neutralSummary": "Versailles' role in shaping world affairs extends far beyond 1919.",
           "versions": [
             {
               "political": "left",
-              "tone": "optimistic",
+              "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Inside Chaotic US-Iran Talks That Let Trump Claim Victory, But Not Yet Peace",
-              "url": "https://www.ndtv.com/world-news/us-iran-war-inside-chaotic-peace-talks-that-let-donald-trump-claim-victory-but-not-yet-peace-11652821#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "$300 billion, sanctions relief, Hormuz reopening: What Iran gets, what US gains from deal",
-          "neutralSummary": "$300 billion, sanctions relief, Hormuz reopening: What Iran gets, what US gains from deal",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "$300 billion, sanctions relief, Hormuz reopening: What Iran gets, what US gains from deal",
-              "url": "https://timesofindia.indiatimes.com/world/us/frozen-assets-300-billion-hormuz-nuclear-programme-more-what-us-iran-gain-from-peace-deal/articleshow/131815523.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Oil and Gas Ships Cross Strait of Hormuz After US-Iran Deal",
-              "url": "https://www.bloomberg.com/news/articles/2026-06-18/lng-tanker-heads-toward-hormuz-as-us-iran-pact-goes-into-effect"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "'Was not easy': Trump signs US-Iran pact during dinner with Macron; Iran president also signs deal",
-          "neutralSummary": "'Was not easy': Trump signs US-Iran pact during dinner with Macron; Iran president also signs deal",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Was not easy': Trump signs US-Iran pact during dinner with Macron; Iran president also signs deal",
-              "url": "https://timesofindia.indiatimes.com/world/us/on-cam-donald-trump-signs-us-iran-peace-deal-mou-during-dinner-with-macron-at-g7-in-versailles-says-this-was-not-easy/articleshow/131815210.cms"
+              "headline": "At Trump's Iran Deal Signing Venue, A 1919 Treaty Left This Nation Red-Faced",
+              "url": "https://www.ndtv.com/world-news/us-iran-deal-a-world-war-1-link-to-palace-of-versailles-where-trump-signed-iran-deal-11655618#publisher=newsstand"
             },
             {
               "political": "left",
@@ -793,57 +788,84 @@
           ]
         },
         {
-          "id": "india-6",
-          "neutralHeadline": "Ram Mandir donations under scrutiny: RJD MP sends legal notice amid irregularity allegations",
-          "neutralSummary": "The Shri Ram Janmabhoomi Teerth Kshetra Trust has received a legal notice from an RJD MP demanding detailed disclosures on Ram Mandir donations and their expenditure. This follows allegations of financial irregularities, which the Trust has denied. Opposition leaders have called for an investigation",
+          "id": "india-4",
+          "neutralHeadline": "Versailles II: Trump signs Iran deal in the one place historians wouldn't recommend",
+          "neutralSummary": "Versailles II: Trump signs Iran deal in the one place historians wouldn't recommend",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Trump Tore Up Obama-Era Iran Deal. How It Compares To 2026 Memorandum",
+              "url": "https://www.ndtv.com/world-news/us-iran-deal-iran-war-nuclear-dealtrump-called-obamas-iran-deal-horrible-how-2026-memorandum-compares-11655160#publisher=newsstand"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Ram Mandir donations under scrutiny: RJD MP sends legal notice amid irregularity allegations",
-              "url": "https://timesofindia.indiatimes.com/india/ram-mandir-donations-under-scrutiny-rjd-mp-sends-legal-notice-amid-irregularity-allegations/articleshow/131816893.cms"
+              "headline": "Versailles II: Trump signs Iran deal in the one place historians wouldn't recommend",
+              "url": "https://timesofindia.indiatimes.com/world/us/versailles-ii-trump-signs-iran-deal-in-the-one-place-historians-wouldnt-recommend/articleshow/131835869.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "5 men gang-rape woman; doctors remove bullet, stone and wood from private part",
+          "neutralSummary": "A woman in Begusarai, Bihar, was allegedly gang-raped by five men who broke into her home. The attackers reportedly locked her husband away before assaulting her, leaving her with severe injuries. Doctors later removed a bullet, stone, and wood from her private part.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Bihar Horror: Woman Gang-Raped, Bullet Inserted In Private Parts, Cuts On Body",
+              "url": "https://www.ndtv.com/india-news/bihar-horror-woman-gang-raped-bullet-inserted-in-private-part-cuts-on-body-11654810#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "5 men gang-rape woman; doctors remove bullet, stone and wood from private part",
+              "url": "https://timesofindia.indiatimes.com/city/patna/5-men-gang-rape-woman-in-bihars-begusarai-doctors-remove-bullet-stone-and-wood-from-private-part/articleshow/131832702.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "PM Modi pitches India as global technology and AI hub at VivaTech 2026 in Paris",
+          "neutralSummary": "At VivaTech 2026, Prime Minister Modi showcased India's technological innovation, proudly articulating the nation’s role as a frontrunner in AI development, robust digital frameworks, and an exciting startup ecosystem.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "In era of disruption, tech must deliver for all, says PM Modi at Vivatech in Paris",
+              "url": "https://indianexpress.com/article/india/tech-disruption-pm-modi-vivatech-paris-10746629/"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "PM Modi pitches India as global technology and AI hub at VivaTech 2026 in Paris",
+              "url": "https://timesofindia.indiatimes.com/india/pm-modi-pitches-india-as-global-technology-and-ai-hub-at-vivatech-2026-in-paris/articleshow/131831825.cms"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Ukrainian drones strike Moscow’s oil refinery again; flames, thick plumes of smoke seen",
-          "neutralSummary": "Moscow's oil refinery in Kapotnya was hit by a Ukrainian drone attack on Thursday, causing visible flames and smoke. This incident follows earlier drone strikes on Russian energy infrastructure, contributing to a growing fuel shortage. Meanwhile, Russia launched its own attacks on Kyiv and Sumy. Ukr",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Ukrainian drones strike Moscow’s oil refinery again; flames, thick plumes of smoke seen",
-              "url": "https://timesofindia.indiatimes.com/world/europe/ukrainian-drones-strike-moscows-oil-refinery-again-flames-thick-plumes-of-smoke-seen/articleshow/131816478.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "‘It’s a rough profession': Trump responds to question over Indian sailors' death in US attack",
-          "neutralSummary": "Donald Trump said: “This has been happening throughout time, but we work together. We love all of those people. They’re great people.”",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "‘It’s a rough profession': Trump responds to question over Indian sailors' death in US attack",
-              "url": "https://www.hindustantimes.com/india-news/its-a-rough-profession-trump-responds-to-question-over-indian-sailors-death-in-us-attack-g7-summit-pm-modi-france-101781756629270.html"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "Congress jabs govt. over Iran-U.S. MoU signing, calls it severe setback to PM's foreign policy",
-          "neutralSummary": "Jairam Ramesh argued that the MoU represents a serious blow to the U.S. that along with Israel started the war with Iran on February 28 this year with maximalist aims that have just not been realised",
+          "neutralHeadline": "Ramanthapur lake to be developed by HYDRAA",
+          "neutralSummary": "Ramanthapur lake to be developed by HYDRAA",
           "versions": [
             {
               "political": "left",
@@ -851,8 +873,40 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Congress jabs govt. over Iran-U.S. MoU signing, calls it severe setback to PM's foreign policy",
-              "url": "https://www.thehindu.com/news/national/congress-jabs-govt-over-iran-us-mou-signing-calls-it-severe-setback-to-pms-foreign-policy/article71116560.ece"
+              "headline": "Ramanthapur lake to be developed by HYDRAA",
+              "url": "https://www.thehindu.com/news/national/telangana/ramanthapur-lake-to-be-developed-by-hydraa/article71118361.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Mahatma Gandhi University and T-SAT sign MoU",
+          "neutralSummary": "Mahatma Gandhi University and T-SAT sign MoU",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Mahatma Gandhi University and T-SAT sign MoU",
+              "url": "https://www.thehindu.com/news/national/telangana/mahatma-gandhi-university-and-t-sat-sign-mou/article71119043.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "Born visually impaired, he is now opening the world of books for others",
+          "neutralSummary": "Pon Sakthivel, a visually impaired Tamil teacher from Tamil Nadu, is helping blind students access education by digitising printed books into accessible formats. Through technology, a readers’ club and his passion for learning, he is opening the world of books to visually challenged readers.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Born visually impaired, he is now opening the world of books for others",
+              "url": "https://www.thehindu.com/videos/born-visually-impaired-he-is-now-opening-the-world-of-books-for-others/article71119130.ece"
             }
           ]
         }
