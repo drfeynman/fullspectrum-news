@@ -1,36 +1,11 @@
 {
-  "generatedAt": "2026-06-27T05:45:27.173443+00:00",
+  "generatedAt": "2026-06-27T14:45:24.643172+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "World Cup 2026: Spain seal Group H as Cape Verde’s dream run reaches knockout stage",
-          "neutralSummary": "Uruguay crashed out of the World Cup on Friday after goalkeeper Fernando Muslera's costly error handed Spain a 1-0 victory in Guadalajara, sending the European champions through as Group H winners. Cape Verde also reached the knockout stage after a 0-0 draw with Saudi Arabia, becoming the smallest n",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Spain beat Uruguay 1-0 to clinch World Cup Group H top spot",
-              "url": "https://www.aljazeera.com/sports/2026/6/27/spain-beat-uruguay-1-0-to-clinch-world-cup-group-h-top-spot?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "World Cup 2026: Spain seal Group H as Cape Verde’s dream run reaches knockout stage",
-              "url": "https://www.france24.com/en/sport/20260627-world-cup-2026-saudi-spain-cape-verde-uruguay"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
           "neutralHeadline": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
           "neutralSummary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and UruguayWorld Cup live – latest updatesFor as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape Verde. Now, to her great delight, the tiny African island nation i",
           "versions": [
@@ -58,15 +33,15 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Cape Verde becomes tiniest nation to make World Cup knockouts",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/cape-verde-becomes-tiniest-nation-to-make-world-cup-knockouts?traffic_source=rss"
+              "headline": "Cape Verde break record as smallest nation to reach World Cup knockouts",
+              "url": "https://www.aljazeera.com/sports/2026/6/27/cape-verde-break-record-as-smallest-nation-to-reach-world-cup-knockouts?traffic_source=rss"
             }
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "US strikes Iran after Trump says ceasefire was violated",
-          "neutralSummary": "US strikes Iran after Trump says ceasefire was violated",
+          "id": "global-2",
+          "neutralHeadline": "Iranian Drones Attack Bahrain While Ship Is Struck In Strait Of Hormuz After U.S. Airstrikes On Iran",
+          "neutralSummary": "The U.S. had launched its airstrikes in response to an Iranian drone attack on a ship trying to get out of the strait on Thursday.",
           "versions": [
             {
               "political": "left",
@@ -74,8 +49,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Trump Accuses Iran Of ‘Foolish Violation’ Of Ceasefire Agreement By Striking Cargo Ship",
-              "url": "https://www.huffpost.com/entry/trump-blames-iran-fo-drone-strike-on-cargo-ship-in-the-strait-of-hormuz_n_6a3eaaf6e4b07281419e0c96"
+              "headline": "Iranian Drones Attack Bahrain While Ship Is Struck In Strait Of Hormuz After U.S. Airstrikes On Iran",
+              "url": "https://www.huffpost.com/entry/iranian-drones-attack-bahrain-while-ship-is-struck-in-strait-of-hormuz-after-us-airstrikes-on-iran_n_6a3fc020e4b0fe0f0077d617"
             },
             {
               "political": "left",
@@ -83,33 +58,58 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "US strikes on Iran after attack on cargo ship",
+              "headline": "US strikes Iran after attack on cargo ship",
               "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Trump justifies strikes on Iran amid ceasefire",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "U.S. strikes Iran in response to a drone attack on a ship",
+              "url": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Venezuela Struggles with Earthquake Rescue Efforts as Death Toll Nears 1,000",
+          "neutralSummary": "Bloomberg News Andean Bureau Reporter Andreina Itriago is on Bloomberg This Weekend explaining concerns that the official casualty figures in Venezuela after the earthquake are likely underreported, with many more deaths expected as rescue efforts continue and bodies are recovered. Itriago explains",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Venezuelans Take Search For The Missing Into Their Own Hands As Earthquake Death Toll Climbs",
+              "url": "https://www.huffpost.com/entry/venezuela-earthquakes_n_6a3e3d7de4b0e695b2ed03e6"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Venezuelans in Colombia scramble to send aid as earthquakes death toll increases",
+              "url": "https://www.npr.org/2026/06/27/nx-s1-5872951/venezuela-earthquakes-colombia-aid"
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "US strikes Iran after Trump says ceasefire was violated",
-              "url": "https://www.france24.com/en/live-news/20260626-us-strikes-iran-after-trump-says-ceasefire-was-violated"
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Venezuela Struggles with Earthquake Rescue Efforts as Death Toll Nears 1,000",
+              "url": "https://www.bloomberg.com/news/videos/2026-06-27/venezuela-struggles-with-earthquake-rescue-efforts-video"
             }
           ]
         },
         {
           "id": "global-4",
-          "neutralHeadline": "Ukraine launches huge drone attack on Russia and occupied Crimea as it seeks to force Putin \"to end the war\"",
-          "neutralSummary": "Ukraine launches huge drone attack on Russia and occupied Crimea as it seeks to force Putin \"to end the war\"&nbsp;&nbsp;CBS NewsUkraine launches what appears to be one of its largest drone attacks against Russia: report&nbsp;&nbsp;Fox NewsUkraine decimates Russian logistics, bringing chaos to Crimea",
+          "neutralHeadline": "Ukraine Unleashes One Of Its Heaviest Drone Bombardments Of Russia",
+          "neutralSummary": "Kyiv's campaign has choked Russian fuel supplies and military deliveries and has heaped pressure on Russian President Vladimir Putin.",
           "versions": [
             {
               "political": "left",
@@ -130,15 +130,6 @@
               "url": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes"
             },
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Ukraine launches huge drone attack on Russia and occupied Crimea as it seeks to force Putin \"to end the war\"",
-              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmRnTldvUUFMTFRJeVQtVFlfa2F5cHlRZW1GeTZUY29CUjJ6YVBrNmhJR1Nkc1RtNE5YUHBHQ1QwcU55enBKRGllMTFhZ3JoTjBlWVNCYi1jQkR5REhiYUJNamNrTm8wTHZCUG9hTTcxQVBWWmNtbzFVZFdZUW5WUC1YNU9PR1NOUEFkeFBkYTRSSm93WGx1U3g3RV96Ui16cmZJMW9mbw?oc=5"
-            },
-            {
               "political": "right",
               "tone": "neutral",
               "source": "Fox News",
@@ -151,40 +142,56 @@
         },
         {
           "id": "global-5",
-          "neutralHeadline": "Venezuelans search for missing as earthquake death toll climbs",
-          "neutralSummary": "The death toll from the twin earthquakes in Venezuela continued to rise on Friday, with at least 920 dead and more than 51,000 missing, as distress grew among Venezuelans. The 7.2 and 7.5 magnitude quakes that struck late Wednesday left a landscape of devastation, with countless collapsed buildings,",
+          "neutralHeadline": "Nearly 6.8 mn people may be affected by Venezuela quakes, UN says",
+          "neutralSummary": "Nearly 7 million people may have been affected by the twin earthquakes that struck Venezuela this week, the United Nations said on Saturday, as the death toll approached 1,000 and tens of thousands remained missing. The UN said up to 6.76 million people could have been impacted, including around two",
           "versions": [
             {
               "political": "left",
               "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Neighbors Dig Through Venezuela Rubble To Search For Loved Ones As Death Toll Climbs",
-              "url": "https://www.huffpost.com/entry/venezuela-earthquakes_n_6a3e3d7de4b0e695b2ed03e6"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Desperate families search for missing loved ones in Venezuela",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/desperate-families-search-for-missing-loved-ones-in-venezuela?traffic_source=rss"
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo",
+              "url": "https://www.theguardian.com/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Venezuelans search for missing as earthquake death toll climbs",
-              "url": "https://www.france24.com/en/americas/20260626-venezuelans-search-for-missing-as-earthquake-death-toll-climbs"
+              "headline": "Nearly 6.8 mn people may be affected by Venezuela quakes, UN says",
+              "url": "https://www.france24.com/en/americas/20260627-nearly-6-8-mn-people-may-be-affected-by-venezuela-quakes-un-says"
             }
           ]
         },
         {
           "id": "global-6",
+          "neutralHeadline": "Venezuela quake toll tops 900",
+          "neutralSummary": "Foreign search and rescue teams have arrived in Venezuela to assist with the desperate and slow-moving search for survivors after the country's most powerful earthquake in more than a century. The death toll nearly doubled on Thursday to 920, but authorities warn the final number is expected to be f",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
+              "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Venezuela quake toll tops 900",
+              "url": "https://www.france24.com/en/venezuela-quake-toll-tops-900"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
           "neutralHeadline": "Venezuela earthquakes: 589 confirmed dead so far as international rescue teams arrive – as it happened",
           "neutralSummary": "This blog is now closed, you can read more on this story hereChina’s president Xi Jinping said Beijing was ready to provide Venezuela with “disaster relief and reconstruction” assistance.Xi sent a message of condolence to Venezuela’s interim president Delcy Rodríguez today, according to Chinese stat",
           "versions": [
@@ -209,9 +216,9 @@
           ]
         },
         {
-          "id": "global-7",
-          "neutralHeadline": "Iran Insists On Right To Control Shipping In Strait Of Hormuz After Ship Hit Near Oman",
-          "neutralSummary": "Oil prices dipped further Friday, despite conflicting interpretations of the interim U.S.-Iran deal and a slowdown in traffic through the strait.",
+          "id": "global-8",
+          "neutralHeadline": "Stunning Photos Capture Horror Aftermath Of Twin Venezuela Earthquakes As Rescue Efforts Continue",
+          "neutralSummary": "The U.S. Geological Survey has estimated that the death toll from the powerful quakes could range from as many as 10,000 to 100,000.",
           "versions": [
             {
               "political": "left",
@@ -219,8 +226,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Iran Insists On Right To Control Shipping In Strait Of Hormuz After Ship Hit Near Oman",
-              "url": "https://www.huffpost.com/entry/us-iran-strait-of-hormuz-shipping_n_6a3e57d4e4b07281419d2f20"
+              "headline": "Stunning Photos Capture Horror Aftermath Of Twin Venezuela Earthquakes As Rescue Efforts Continue",
+              "url": "https://www.huffpost.com/entry/photos-venezuela-earthquakes-destruction-rescue_n_6a3d4d90e4b03bf3198363c4"
             },
             {
               "political": "left",
@@ -228,15 +235,15 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss"
+              "headline": "Venezuela leader jeered as rescue efforts hampered",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/venezuela-leader-jeered-as-rescue-efforts-hampered?traffic_source=rss"
             }
           ]
         },
         {
-          "id": "global-8",
-          "neutralHeadline": "Israel and Lebanon sign framework agreement after US-brokered talks",
-          "neutralSummary": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
+          "id": "global-9",
+          "neutralHeadline": "New US-Lebanon-Israel agreement signed",
+          "neutralSummary": "The Israeli and Lebanese ambassadors announced an agreement on Friday that has been described as a step toward peace after months of cross-border fighting between Israeli forces and the Lebanese militant group Hezbollah. The deal marks a potential breakthrough in efforts to ease tensions following m",
           "versions": [
             {
               "political": "left",
@@ -248,38 +255,13 @@
               "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "What is the framework agreement signed by Israel and Lebanon?",
-              "url": "https://www.aljazeera.com/news/2026/6/26/what-is-the-framework-agreement-signed-by-israel-and-lebanon?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "U.S. strikes Iran in response to a drone attack on a ship",
-          "neutralSummary": "The U.S. struck Iran on Friday in response to a drone attack a day earlier on a cargo ship in the Strait of Hormuz. It's the most significant test yet to an interim understanding reached a week ago by the two countries.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "U.S. strikes Iran in response to a drone attack on a ship",
-              "url": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "US strikes on Iran test fragile ceasefire",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss"
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "New US-Lebanon-Israel agreement signed",
+              "url": "https://www.france24.com/en/new-us-lebanon-israel-agreement-signed"
             }
           ]
         }
@@ -310,31 +292,13 @@
               "domain": "thehill.com",
               "headline": "Trump rips former national security adviser after guilty plea: “Hopefully, he will be dealt with harshly!”",
               "url": "https://thehill.com/homenews/administration/5943575-trump-rips-former-national-security-adviser-after-guilty-plea-hopefully-he-will-be-dealt-with-harshly/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Ex-Trump official John Bolton pleads guilty to 1 of 18 counts in classified docs indictment",
-              "url": "https://www.foxnews.com/politics/ex-trump-official-john-bolton-pleads-guilty-1-18-counts-classified-docs-indictment"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump hopes John Bolton is treated ‘harshly’ after pleading guilty to retaining documents",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4627596/trump-hopes-john-bolton-treated-harshly-after-guilty-plea/"
             }
           ]
         },
         {
           "id": "us-2",
           "neutralHeadline": "Megyn Kelly after Supreme Court TPS decision: ‘Go back to f—ing Haiti’",
-          "neutralSummary": "Former Fox News host Megyn Kelly had a blunt message to the thousands of Haitians and Syrians protected from deportation under a form of humanitarian relief after the Supreme Court ruled on Thursday the Trump administration could end these protections.  “We don’t want you. We don’t care if you’re of",
+          "neutralSummary": "Former Fox News host Megyn Kelly had a blunt message to the thousands of Haitians and Syrians protected from deportation under a form of humanitarian relief after the Supreme Court ruled on Thursday the Trump administration could end these protections.&#160; “We don’t want you. We don’t care if you’",
           "versions": [
             {
               "political": "left",
@@ -358,8 +322,8 @@
         },
         {
           "id": "us-3",
-          "neutralHeadline": "Israel and Lebanon sign framework agreement with US in 'first step' toward peace, Rubio says",
-          "neutralSummary": "Israel and Lebanon sign framework agreement with US in 'first step' toward peace, Rubio says&nbsp;&nbsp;AP NewsIsrael to withdraw from two areas in Lebanon under newly signed agreement&nbsp;&nbsp;CNNRubio says Israel, Lebanon reach framework agreement aimed at 'lasting peace and security'&nbsp;&nbsp",
+          "neutralHeadline": "What to Watch in Louisiana’s Republican Senate Runoff",
+          "neutralSummary": "Saturday’s election will be the latest test of President Trump’s influence in G.O.P. contests.",
           "versions": [
             {
               "political": "left",
@@ -367,24 +331,24 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "In Small Step, Israel Agrees to Withdrawal From Two Areas in Lebanon",
-              "url": "https://www.nytimes.com/2026/06/26/us/politics/israel-lebanon-agreement.html"
+              "headline": "What to Watch in Louisiana’s Republican Senate Runoff",
+              "url": "https://www.nytimes.com/2026/06/27/us/politics/louisiana-senate-republican-runoff.html"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Israel and Lebanon sign framework agreement with US in 'first step' toward peace, Rubio says",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1lwcVc4a1RVM0RhenNCcVhMaHRWUzE0YTlXQm8yeExSWko5UFNlMmZXYVEzZDlHUUhlRlQ1WGp1Vy12LVZySHM3V1F0WUJTeWR0aTdINTlGTGMwTWN2UEx4NGNlT0REM2Z2VmlKcU1YU3QzYnM4bkZYSlMxd2Vud285cllVNVE?oc=5"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump's endorsement power faces new test in Louisiana Republican Senate showdown",
+              "url": "https://www.foxnews.com/politics/trumps-endorsement-power-faces-new-test-louisiana-republican-senate-showdown"
             }
           ]
         },
         {
           "id": "us-4",
-          "neutralHeadline": "Pete Buttigieg Says He Was Separated From His Children in ‘Swatting’ Attack",
-          "neutralSummary": "The former transportation secretary recounted being kept away from his 4-year-old twins overnight after an anonymous report accused him of posing a threat to them. The police said the report was false.",
+          "neutralHeadline": "Trump-Backed Tribute to States on the Mall Features Extra Tinges of Red",
+          "neutralSummary": "At the kickoff to the Great American State Fair, exhibits celebrating the nation were on display. So were conservative themes.",
           "versions": [
             {
               "political": "left",
@@ -392,22 +356,29 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Pete Buttigieg Says He Was Separated From His Children in ‘Swatting’ Attack",
-              "url": "https://www.nytimes.com/2026/06/26/us/politics/buttigieg-swatting-false-report-children.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Buttigieg separated from children after being targeted by false CPS report",
-              "url": "https://www.washingtonexaminer.com/news/crime/4627431/buttigieg-separated-from-children-false-report-police/"
+              "headline": "Trump-Backed Tribute to States on the Mall Features Extra Tinges of Red",
+              "url": "https://www.nytimes.com/2026/06/27/us/great-american-fair-mall.html"
             }
           ]
         },
         {
           "id": "us-5",
+          "neutralHeadline": "How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job",
+          "neutralSummary": "Bulky “nanobubbler” machines were carted off ahead of a promotional event for President Trump’s Ultimate Fighting Championship birthday party.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job",
+              "url": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
           "neutralHeadline": "New York City passes rent freeze, in line with Mamdani campaign promise",
           "neutralSummary": "The decision caps rent on about 40 percent of the New York’s housing stock for up to two years.",
           "versions": [
@@ -432,34 +403,9 @@
           ]
         },
         {
-          "id": "us-6",
-          "neutralHeadline": "Live updates: US strikes Iran hours after Trump says drone attack broke ceasefire",
-          "neutralSummary": "U.S. Central Command said Friday afternoon American forces conducted strikes against Iran &#8220;as a powerful response&#8221; to Iran&#8217;s strikes Thursday against a cargo ship in the Strait of Hormuz. President Trump said earlier Friday that Iran had broken the terms of its ceasefire with the U",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "U.S. strikes Iran in response to a drone attack on a ship",
-              "url": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Live updates: US strikes Iran hours after Trump says drone attack broke ceasefire",
-              "url": "https://thehill.com/homenews/administration/5941117-live-updates-donald-trump-save-america-act-midterms/"
-            }
-          ]
-        },
-        {
           "id": "us-7",
-          "neutralHeadline": "Buttigieg targeted in false report, police say",
-          "neutralSummary": "Former Transportation Secretary Pete Buttigieg said Friday that he was briefly separated from his 4-year-old twin children after an anonymous caller reported false accusations to Child Protective Services (CPS).&#160; In a Substack post titled “A Terrible Thing Happened to My Family,” the former Bid",
+          "neutralHeadline": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
+          "neutralSummary": "Ukraine's long-range drones are striking deep inside Russia, up to 1,200 miles away, hitting oil refineries and depots. NPR recently spent time with one of the Ukrainian strike teams launching drones at Russian targets.",
           "versions": [
             {
               "political": "left",
@@ -467,49 +413,24 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
-              "url": "https://www.npr.org/2026/06/26/nx-s1-5872821/pete-buttigieg-cps-police-swatting"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Buttigieg targeted in false report, police say",
-              "url": "https://thehill.com/homenews/state-watch/5943265-pete-buttigieg-swatting-child-protective-services/"
+              "headline": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
+              "url": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war"
             }
           ]
         },
         {
           "id": "us-8",
-          "neutralHeadline": "A day after Alito's testy response to Sotomayor's dissent, court says it was a 'misunderstanding'",
-          "neutralSummary": "During Supreme Court opinions Thursday, Justice Samuel Alito, who wrote the majority opinion in an asylum case, appeared to rebut Justice Sonia Sotomayor, who wrote the dissent. The move was highly unusual — and on Friday there was a coda.",
+          "neutralHeadline": "U.S. government gives Anthropic green light for limited re-release of Mythos 5",
+          "neutralSummary": "U.S. government gives Anthropic green light for limited re-release of Mythos 5&nbsp;&nbsp;NBC NewsUS government allows Anthropic limited release of AI model that sparked cybersecurity concerns&nbsp;&nbsp;CNNScoop: Powerful Anthropic model, Fable 5, on track to return soon&nbsp;&nbsp;AxiosTrump Admin",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "A day after Alito's testy response to Sotomayor's dissent, court says it was a 'misunderstanding'",
-              "url": "https://www.npr.org/2026/06/26/nx-s1-5872721/supreme-court-alito-sotomayor"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "US strikes Iranian missile, radar sites after Tehran hits cargo ship",
-          "neutralSummary": "The U.S. military said it conducted strikes against Iranian missile and drone storage sites and coastal radar locations on Friday, a day after Tehran struck a cargo ship in the Strait of Hormuz.&#160; The strikes by U.S. forces in the U.S. Central Command (Centcom) came after the Islamic Revolutiona",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
+              "source": "NBC News",
+              "initials": "NN",
               "domain": "news.google.com",
-              "headline": "U.S. strikes Iranian military sites after ship was hit in Strait of Hormuz",
-              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZE5FZXRUMFlMa2d1OWJhZW11RFJjeUw3Z1lzbEM4c3NQQXA3MDRYbFI2SW5KU3Bac3A2bDE1dGt5ZkV1UTg5dml2VXNFZHlwSEJLaXZMRVZOamwtOFNMSmtHYkNjazdidVpUZDRoWjB2ak5McGNndHdoZEdhMklSTmlvQWtRaDV6RDRBWTI4RzVwek5CQUtDZXZzQzZEVklSaXdKekNQU25mZlpndEhYbDNGMVdhblhmc1E5bXFELXJBMTdidHc?oc=5"
+              "headline": "U.S. government gives Anthropic green light for limited re-release of Mythos 5",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1YyZFRxcVNvTHhJV2dWX3k1c193T0Zza1FNQ3FmeW1jR1l4LThzWng5SWZxVjZNRUd3R19sUzJKd1FkTk5jcjdMd01ycWtlS3Z4OUlUMXI0VDdvNnNDVTBoU3ctSmYzTEdURTdYYkp1Njl2Mk1icE5seTZXcjN1SVNDQkRVNTZMMzdDc25rVjUybms5U3JtX3BFc0ZqNUxxdTFMRHN2WHlVRzdvVGtudzZPX3otdEczM3dz?oc=5"
             },
             {
               "political": "center",
@@ -517,8 +438,33 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "US strikes Iranian missile, radar sites after Tehran hits cargo ship",
-              "url": "https://thehill.com/policy/defense/5943241-us-iran-strike-strait-hormuz-ship-drone-attack/"
+              "headline": "Federal government permits release of Anthropic’s Mythos model to select companies",
+              "url": "https://thehill.com/policy/technology/5943549-anthropic-mythos-5-access/"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Iran launches retaliatory strikes on Bahrain after latest US attacks",
+          "neutralSummary": "Iran launched a drone attack against Bahrain early Saturday, hours after the U.S. military carried out strikes on Iranian military sites. Bahrain, which hosts the U.S. Navy’s Fifth Fleet, said it was attacked by a number of Iranian drones and condemned the latest strikes as a blatant violation of it",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Iran launches retaliatory strikes on Bahrain after latest US attacks",
+              "url": "https://thehill.com/policy/international/5943693-iran-retaliatory-strikes-bahrain-us-attacks/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Iran launches drone assault on Bahrain and a ship is hit in Strait of Hormuz as ceasefire frays",
+              "url": "https://www.washingtonexaminer.com/news/world/4627665/iran-drone-assault-bahrain-ship-hit-strait-of-hormuz/"
             }
           ]
         }
@@ -529,8 +475,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Condo by-laws cannot limit owners’ right to rent out units: BCA",
-          "neutralSummary": "A Geylang condo had passed two by-laws banning certain groups of foreign workers from living there.",
+          "neutralHeadline": "Over 100 active mobility devices, motor vehicles seized in 9-day operation by LTA, police",
+          "neutralSummary": "More than 200 offences related to non-compliance and safety breaches were uncovered.",
           "versions": [
             {
               "political": "center",
@@ -538,13 +484,77 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Condo by-laws cannot limit owners’ right to rent out units: BCA",
-              "url": "https://www.straitstimes.com/singapore/condo-by-laws-cannot-limit-owners-right-to-rent-out-units-bca"
+              "headline": "Over 100 active mobility devices, motor vehicles seized in 9-day operation by LTA, police",
+              "url": "https://www.straitstimes.com/singapore/over-100-active-mobility-devices-motor-vehicles-seized-in-9-day-operation-by-lta-police"
             }
           ]
         },
         {
           "id": "singapore-2",
+          "neutralHeadline": "Tower Transit celebrates 10th anniversary with new wedding bus for hire; hosts first marriage proposal",
+          "neutralSummary": "Jasmine Kurniawan and Alister Ong are the first couple to use the new wedding bus.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Tower Transit celebrates 10th anniversary with new wedding bus for hire; hosts first marriage proposal",
+              "url": "https://www.straitstimes.com/singapore/tower-transits-new-wedding-bus-for-hire-sees-first-proposal-at-its-10th-anniversary-celebration"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
+          "neutralHeadline": "New traffic camera to detect speeding offences on BKE from July 1",
+          "neutralSummary": "The speed camera has been in place at the 9km mark on the BKE towards Woodlands since June 16.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "New traffic camera to detect speeding offences on BKE from July 1",
+              "url": "https://www.straitstimes.com/singapore/new-traffic-camera-to-detect-speeding-offences-on-bke-from-july-1"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "‘Highest priority’ to prevent border travel disruptions on Johor’s Jul 11 polling day: Malaysia minister",
+          "neutralSummary": "Home Minister Saifuddin Nasution Ismail said his ministry also plans to provide “dedicated lanes” at immigration checkpoints for Johoreans residing in Singapore and returning to vote at the Johor polls.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "‘Highest priority’ to prevent border travel disruptions on Johor’s Jul 11 polling day: Malaysia minister",
+              "url": "https://www.channelnewsasia.com/asia/highest-priority-prevent-border-travel-disruptions-johors-jul-11-polling-day-malaysia-minister-6214931"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "China Eastern Airlines to buy 25 Airbus A330neo jets for US$9.4 billion",
+          "neutralSummary": "China Eastern Airlines to buy 25 Airbus A330neo jets for US$9.4 billion",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "China Eastern Airlines to buy 25 Airbus A330neo jets for US$9.4 billion",
+              "url": "https://www.channelnewsasia.com/business/china-eastern-airlines-purchase-airbus-a330neo-jets-6212911"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
           "neutralHeadline": "Small aircraft crashes into Beijing's tallest building, eyewitnesses say",
           "neutralSummary": "Small aircraft crashes into Beijing's tallest building, eyewitnesses say",
           "versions": [
@@ -569,23 +579,7 @@
           ]
         },
         {
-          "id": "singapore-3",
-          "neutralHeadline": "Johor polls: What to watch ahead of Nomination Day and what’s at stake",
-          "neutralSummary": "Nomination Day for Johor's Jul 11 state election will take place on Jun 27, with political parties and coalitions set to finalise their candidates for all 56 seats ahead of a 14-day campaign period.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Johor polls: What to watch ahead of Nomination Day and what’s at stake",
-              "url": "https://www.channelnewsasia.com/asia/malaysia-johor-state-elections-nomination-day-battlegrounds-6212291"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
+          "id": "singapore-7",
           "neutralHeadline": "Man jailed after joining Cambodia scam syndicate that fired him in 3 days for poor performance",
           "neutralSummary": "Yip Chee Ming was unsuccessful in making any scam calls while at the syndicate's compound.&nbsp;",
           "versions": [
@@ -597,22 +591,13 @@
               "domain": "channelnewsasia.com",
               "headline": "Man jailed after joining Cambodia scam syndicate that fired him in 3 days for poor performance",
               "url": "https://www.channelnewsasia.com/singapore/cambodian-scam-syndicate-man-jailed-failed-job-6212346"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Jail for man fired after 3 days as scam caller for Cambodian syndicate that targeted Singaporeans",
-              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU3htNVc0NTRBV2JGLVZkeko0YUVHVnByYkNlYlV3YkNnSkRsd2hlSVJsVVR5VEhkUVlIYnRJNXZDWjNvS2N0OGpaaEIwbDJ3S0k3M1Rxb0FDVHpuWVI2VWlzN1Rjd0JNc0M5cnZNNUVRa3pBdERGMmY4aFJFUGY0b1FiTm1MLXFqb3RaVDA1aEJtMWlGc0s4dnhkTnRETFpId2VjTEZsZ0JMUC1HMGhSUW5BWnN5UDluV0lESVRCRU4wWTdzZWcyTmpabVlIRkVESXk5UGYxM2xvaE55WG5PUQ?oc=5"
             }
           ]
         },
         {
-          "id": "singapore-5",
-          "neutralHeadline": "‘Good politics but bad economics’?: Why Malaysia is rolling out new diesel subsidies",
-          "neutralSummary": "Malaysia’s move to lower diesel prices to RM2.10 (US$0.50) per litre for all citizens could squeeze the government’s fiscal space if oil prices rise again, analysts warn.",
+          "id": "singapore-8",
+          "neutralHeadline": "US allows Anthropic to release Mythos to some US companies",
+          "neutralSummary": "US allows Anthropic to release Mythos to some US companies",
           "versions": [
             {
               "political": "center",
@@ -620,72 +605,24 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "‘Good politics but bad economics’?: Why Malaysia is rolling out new diesel subsidies",
-              "url": "https://www.channelnewsasia.com/asia/malaysia-diesel-fuel-subsidy-price-election-6212011"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Singapore landmarks light the way to a drug-free future",
-          "neutralSummary": "In 2026, the annual DrugFreeSG Light-up also marks the inaugural ASEAN Drug Victims Remembrance Day.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Singapore landmarks light the way to a drug-free future",
-              "url": "https://www.straitstimes.com/singapore/singapore-landmarks-light-the-way-to-a-drug-free-future"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Two brothers diagnosed with Sanfilippo syndrome, a rare disorder dubbed ‘childhood dementia’",
-          "neutralSummary": "As there is no cure, care focuses on easing symptoms and maintaining quality of life.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Two brothers diagnosed with Sanfilippo syndrome, a rare disorder dubbed ‘childhood dementia’",
-              "url": "https://www.straitstimes.com/singapore/health/two-brothers-with-sanfilippo-syndrome-a-rare-and-brutal-disorder-dubbed-childhood-dementia"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "From beer byproducts to tuna: S’pore firms work to transform food waste into new, useful products",
-          "neutralSummary": "NEA has awarded 3 projects $5.3m to transform waste into useful products",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "From beer byproducts to tuna: S’pore firms work to transform food waste into new, useful products",
-              "url": "https://www.straitstimes.com/singapore/from-beer-byproducts-to-tuna-spore-firms-work-to-transform-food-waste-into-new-useful-products"
+              "headline": "US allows Anthropic to release Mythos to some US companies",
+              "url": "https://www.channelnewsasia.com/business/us-allows-anthropic-release-mythos-some-us-companies-6214336"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "New traffic camera to detect speeding offences on BKE from July 1",
-          "neutralSummary": "The speed camera has been in place at the 9km mark on the BKE towards Woodlands since June 16.",
+          "neutralHeadline": "Singaporean man survives car crash near KL with minor injuries but 2 fellow passengers killed",
+          "neutralSummary": "The sports car is believed to have caught fire after it crashed into a road divider.",
           "versions": [
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "New traffic camera to detect speeding offences on BKE from July 1",
-              "url": "https://www.straitstimes.com/singapore/new-traffic-camera-to-detect-speeding-offences-on-bke-from-july-1"
+              "headline": "Singaporean man survives car crash near KL with minor injuries but 2 fellow passengers killed",
+              "url": "https://www.straitstimes.com/singapore/singaporean-man-escapes-car-crash-near-kl-with-minor-injuries-but-2-fellow-passengers-killed"
             }
           ]
         }
@@ -696,17 +633,35 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Siya met Chetan through her brother: A cricket connection in Pune fort murder",
-          "neutralSummary": "What began as a sporting connection eventually developed into a friendship that brought Chetan into regular contact with the Goyal family.",
+          "neutralHeadline": "6.2 magnitude earthquake hits Afghanistan; tremors felt across north India",
+          "neutralSummary": "6.2 magnitude earthquake hits Afghanistan; tremors felt across north India",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Pune fort murder: Siya's mother seeks harshest punishment; government appoints special prosecutor",
-              "url": "https://www.thehindu.com/news/national/maharashtra/pune-fort-murder-siyas-mother-seeks-harshest-punishment-government-appoints-special-prosecutor/article71151157.ece"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Delhi-NCR Earthquake LIVE Updates: 6.2 Magnitude Earthquake Strikes Afghanistan, Tremors Felt In Delhi",
+              "url": "https://www.ndtv.com/india-news/delhi-earthquake-live-6-2-magnitude-earthquake-earthquake-today-live-updates-in-delhi-ncr-jammu-kashmir-poonch-afghanistan-26-june-11695740#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "6.2-magnitude earthquake jolts Afghanistan, tremors felt in Pakistan, Jammu and Kashmir and Delhi-NCR",
+              "url": "https://indianexpress.com/article/india/earthquake-jammu-kashmir-tremors-delhi-ncr-10760502/"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "6.2 magnitude earthquake hits Afghanistan; tremors felt across north India",
+              "url": "https://timesofindia.indiatimes.com/world/south-asia/5-7-magnitude-earthquake-hits-afghanistan-tremors-felt-across-north-india/articleshow/132036184.cms"
             },
             {
               "political": "center",
@@ -714,24 +669,49 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Siya met Chetan through her brother: A cricket connection in Pune fort murder",
-              "url": "https://www.hindustantimes.com/india-news/siya-goyal-met-boyfriend-chetan-through-her-brother-sahil-a-cricket-connection-in-pune-fort-murder-ketan-agarwal-101782533639795.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bar and Bench",
-              "initials": "BA",
-              "domain": "news.google.com",
-              "headline": "Ujjwal Nikam to appear as special prosecutor in Lohagad Fort murder case",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0Vid0FlM0Z0VWtvVTNSOWFnWFltYWpLdHBmMmhmVmxKb0lPYVFfVHBpQWNUNmdGVXA2cUcwVkg5OHFWZVdZcjUxSjVQc1I0cnZBaWtnejRnal9xVFRBdzlmZEdsTTJ4blZWR0dla3RET0huSlRrcm9qNXZncVlGOHMzYmJ5ZFFCZGhmQjhsaGExeDhTbmlpbHBpQzVJTE15VGNBTkpMX2fSAbYBQVVfeXFMTWVYYXBpMHZWa0ZmdDhCczdPS2tCNkNPM21iRkZ4Y0lJQjN1NUVNMlhCcThNWTUyNzhTTFk1LWc2UUxfQ2J2M0VJcEFydWpfMlhBY01FVHJobjRQUFBwQnpQalJMS3hyQlh4a2EtVktoZFFaMDlfRVdmUjc2RTctZVM4WDM2NzVwMXUtQzY5UGxCUy02ajBjM0lWelhxNDBkS05tTFl0dTFVXy1iYWlvLWxJUTJxT1E?oc=5"
+              "headline": "Tremors felt in Delhi, Jammu and Kashmir after magnitude 6.2 earthquake in Afghanistan",
+              "url": "https://www.hindustantimes.com/india-news/magnitude-earthquake-hits-afghanistan-delhi-srinagar-venezuela-amritsar-lahore-pakistan-101782568155995.html"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Venezuela earthquakes kill nearly 1,000",
-          "neutralSummary": "Venezuela earthquakes kill nearly 1,000",
+          "neutralHeadline": "'I am a farmer': Union minister on Rs 99L subsidy row; Gehlot says 'new model of corruption'",
+          "neutralSummary": "Union Minister of State for Agriculture Bhagirath Choudhary has denied allegations of receiving a nearly Rs 1 crore subsidy from his ministry for his own farm, stating he applied years before becoming a minister and that the project is transparent. The claims have drawn sharp criticism from oppositi",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'I am a farmer': Union minister on Rs 99L subsidy row; Gehlot says 'new model of corruption'",
+              "url": "https://timesofindia.indiatimes.com/india/i-am-a-farmer-union-minister-on-rs-99l-subsidy-row-gehlot-says-new-model-of-corruption/articleshow/132034687.cms"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Row over  ₹99 lakh subsidy to union minister Bhagirath Choudhary from agriculture ministry, he says ‘nothing hidden'",
+              "url": "https://www.hindustantimes.com/india-news/row-over-rs-99-lakh-subsidy-to-union-minister-bhagirath-choudhary-from-agriculture-ministry-he-says-nothing-hidden-101782562991105.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "‘I’m a farmer,’ says Union minister of state who got subsidy from his own ministry for his farm",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMlI0MFVYOXZvbmd6WERMVGE1LXNjUnNMR3BqSWwtb0pkYlY2bDJtS3c3YkVzbUtwYS1Cc1pSdkY5VGxZNlRYbFNsNGtReFZZalhYTjg5SFVNNXRnaUtOcnZlU3o0THZma010RGNaRS1jVmNqWVJfQTFuMXlvLTVkbmJTbllwQVAwbzFEZS01N3gxU3paelFfUjg0SHlyX1dnQVFvdlpzQlluWTU3OHM2WTZJb1JxeDJrbXJPZ0xCeUs2WHkzQmtxTEotNVg2cXF1SzY0WTRXY9IB3AFBVV95cUxQV25xbzllU1hreGNFbEdzZFlsSEMyRG9qVXIwWlFENi13azJoWW5IeXIwRWZkNWlvZ2V6Wkt6WlBOWE1RX3lMSG8tRkFVMlIxUHRkYmtZelFTYV8wZG5qUC1DTExfOXdJcUdGbk9kc19VbFBKSFFWSzZxZkpob1RKVk5weERvdDhqNHlXUjlGYVRKTXJhLWhJemFlVEhvbFhweVpJMEZ3SXY3VnZDS2FFRTc0dHBNR1V3R3YwU0tlOWR2UnJfSVZlU3NOVkVaVldnRXd2T0sxRG9heEFl?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Manickam Tagore appointed TN Congress chief",
+          "neutralSummary": "Manickam Tagore appointed TN Congress chief",
           "versions": [
             {
               "political": "left",
@@ -739,8 +719,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Venezuela Earthquakes Live: New 4.9 Magnitude Earthquake Hits Venezuela",
-              "url": "https://www.ndtv.com/world-news/venezuela-earthquakes-live-updates-7-5-magnitude-earthquake-hit-usgs-caracas-airport-shut-emergency-declared-after-quake-in-moron-delcy-rodriguez-11683955#publisher=newsstand"
+              "headline": "Manickam Tagore Appointed New Tamil Nadu Congress Chief",
+              "url": "https://www.ndtv.com/india-news/manickam-tagore-appointed-new-tamil-nadu-congress-chief-11695490#publisher=newsstand"
             },
             {
               "political": "center",
@@ -748,8 +728,99 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Venezuela earthquakes kill nearly 1,000",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/venezuela-earthquakes-kill-nearly-1000-tens-of-thousands-missing/articleshow/132028946.cms"
+              "headline": "Manickam Tagore appointed TN Congress chief",
+              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/manickam-tagore-appointed-new-tamil-nadu-congress-chief/articleshow/132034949.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Projectile hits ship in Hormuz as Iran war fears flare",
+          "neutralSummary": "Projectile hits ship in Hormuz as Iran war fears flare",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Oil Tanker Hit By \"Unknown Projectile\" In Hormuz As Iran, US Exchange Fire",
+              "url": "https://www.ndtv.com/world-news/oil-tanker-hit-by-unknown-projectile-in-hormuz-as-iran-us-exchange-fire-11695105#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Projectile hits ship in Hormuz as Iran war fears flare",
+              "url": "https://economictimes.indiatimes.com/news/defence/us-iran-war-ukmto-says-ship-hit-by-projectile-within-strait-of-hormuz/articleshow/132032094.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Odisha brings back 62 migrant workers after Tamil Nadu gas leak",
+          "neutralSummary": "Of the returnees, 58 are from Keonjhar district while others belong to Koraput, Rayagada, Mayurbhanj, and Dhenkanal",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "After Tamil Nadu gas leak, Jharkhand workers allege confinement – ‘Desperate to go home’",
+              "url": "https://indianexpress.com/article/india/tamil-nadu-ammonia-gas-leak-jharkhand-workers-allege-confinement-tiruvallur-10760494/"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Odisha brings back 62 migrant workers after Tamil Nadu gas leak",
+              "url": "https://www.hindustantimes.com/india-news/odisha-brings-back-62-migrant-workers-after-tamil-nadu-gas-leak-101782568983608.html"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Kotak Mahindra Bank MD & CEO Ashok Vaswani to step down at year-end",
+          "neutralSummary": "Kotak Mahindra Bank MD & CEO Ashok Vaswani to step down at year-end&nbsp;&nbsp;Moneycontrol.comIndia's Kotak Mahindra Bank CEO Vaswani to step down for personal reasons&nbsp;&nbsp;ReutersKotak Mahindra Bank: Two insiders likely in the running to fill CEO’s role; list could go to RBI by...&nbsp;&nbsp",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Ashok Vaswani to step down as Kotak Mahindra Bank CEO in December",
+              "url": "https://indianexpress.com/article/business/banking-and-finance/ashok-vaswani-to-step-down-as-kotak-mahindra-bank-ceo-in-december-10760526/"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Moneycontrol.com",
+              "initials": "M",
+              "domain": "news.google.com",
+              "headline": "Kotak Mahindra Bank MD & CEO Ashok Vaswani to step down at year-end",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcHdDd00zeHU3RWlJUGFmZTN4UHFKc2tLYmgwV1UxakVtLXdMYzg0YjVkaFZQa3U1cWR5WFpuMXdPcW8yVU4wRlBGdWNvMjZlY1RQQWo2Q0xOZU5KcHNQeWJ3SVJTM3lCVEJWWFlvVDZtUGZEWHM0S19UWDJsbFhpbVRqWkJWaXFlZlpXeVR2YVZhdERnTjZaQTRQMXNJbmE0dmNwMjhhaFBwTHZYN1VPOFBZTU1HVjNwM0RlNFo0Tk9VTWdwdWFv0gHMAUFVX3lxTE9VYmx0Q2Z1OC1fU3djZFduVGY2bmdzcDJiRGg0SXcxRkRaZHN3NW9BTTFqUVk0YmJDcl9VOVlaTHNmbUxvQm5uMG9LV0t0VnlWQnNUV3pJSng0aGQ1OEFIQWR2RGxaRDBxM3h2dE9sX3oxMHlDQjJrRVBkWjh6dmlyN2dTOEJ2Y0V3SXZNZ0t4bnBMem9DZlVLb2xiRTZEUjkwdkhzRzFzRS1BcUdnb0NFVm93WUdEUHF4Y0F6ZVltWmk2RzFLWXRPdk96WQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "'Any exam left?' Opposition tears into BJP over Maharashtra TET 'paper leak'",
+          "neutralSummary": "Maharashtra's Teacher Eligibility Test (TET) exam, scheduled for June 28, has been postponed following a suspected paper leak in Bhiwandi. Police seized materials matching exam questions, prompting the Maharashtra State Council of Examination to cancel the test for transparency. Both the Cockroach J",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Any exam left?' Opposition tears into BJP over Maharashtra TET 'paper leak'",
+              "url": "https://timesofindia.indiatimes.com/india/incapable-of-conducting-exams-cjps-abhijeet-dipke-slams-bjp-over-maharashtra-tet-paper-leak/articleshow/132034205.cms"
             },
             {
               "political": "left",
@@ -757,165 +828,49 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "news.google.com",
-              "headline": "Venezuela earthquake updates on June 26, 2026",
-              "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQS25EcGQ3NVJJT3hXMDZ3UHRFYzBkenVfYnh4cUNrTkRnTnVlVjhrb01QaVoxX1dzbHBWTEVoTU9pLTJ6YVNhNXFiYzNZS2lsdjJ3OVZ1dmxqTnNFQmtMV1VjbkdiZ1V0VmJqMDd5WlJkNUpwTWUwY0VDVkprZmJPbmVLZ2RlNXQ4UVZnSk5VMl8ySy1OT29QT29VUjc0MDRSZ0EzR2ZxdlBiVWxrcjl1TGE4cFJKY2t1R09uTjhZNGQwejl3YlVocHk0aXlRQ0J6eHlvUFlwZXFvcGg0VkJ5TENuOWdyQnlYUnNHOVp2amJHdw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Bhagyaraj passes away, tributes pour in | Live updates",
-          "neutralSummary": "He began his film career as an assistant director to veteran Tamil filmmaker Bharathiraja on the 1977 film 16 Vayathinile.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Bhagyaraj passes away, tributes pour in | Live updates",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-filmmaker-k-bhagyaraj-passes-away-june-27-2026-live-updates-reactions/article71153448.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Veteran Tamil actor-director K Bhagyaraj dies at 73",
-          "neutralSummary": "Tamil cinema mourns the loss of K. Bhagyaraj, a versatile filmmaker and actor, who passed away at 73. Known as a \"one-man studio,\" Bhagyaraj excelled as a director, writer, composer, and actor, leaving behind a legacy of popular films like 'Mundhanai Mudichu'. His ability to master multiple roles in",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "K. Bhagyaraj, prominent actor and director, passes away",
-              "url": "https://www.thehindu.com/entertainment/movies/tamil-actor-and-director-k-bhagyaraj-passes-away-in-chennai/article71153422.ece"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Veteran Tamil actor-director K Bhagyaraj dies at 73",
-              "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-actor-director-k-bhagyaraj-dies-at-73/articleshow/132028559.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Assam police arrest 2 ULFA(I) members, avert ‘terror strike’",
-          "neutralSummary": "The duo was arrested in Tinsukia district’s Jagun on the border with Arunachal Pradesh",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Assam police arrest 2 ULFA(I) members, avert ‘terror strike’",
-              "url": "https://www.thehindu.com/news/national/assam/assam-police-arrest-2-ulfai-members-avert-terror-strike/article71153295.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Terror Plot Averted In Assam, 2 Members Of Banned Outfit ULFA(I) Arrested",
-              "url": "https://www.ndtv.com/india-news/terror-plot-averted-in-assam-tinsukia-2-members-of-banned-outfit-ulfa-i-arrested-11693799#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "PM Modi leaves for Seychelles after 11 years: What's on agenda during three day visit?",
-          "neutralSummary": "PM Modi leaves for Seychelles after 11 years: What's on agenda during three day visit?",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "PM Modi leaves for Seychelles to attend golden jubilee of country's National Day",
-              "url": "https://www.thehindu.com/news/national/pm-modis-visit-to-seychelles-on-national-day/article71153405.ece"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "PM Modi leaves for Seychelles after 11 years: What's on agenda during three day visit?",
-              "url": "https://timesofindia.indiatimes.com/india/pm-modi-leaves-for-seychelles-after-11-years-whats-on-agenda-during-three-day-visit/articleshow/132028692.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "U.S. President takes to social media to thank India for ‘Donald Trump Avenue’ in Hyderabad",
-          "neutralSummary": "The plan to name Donald Trump Avenue was spelt out ahead of the two-day ‘Telangana Rising Global Summit’ held in a newly carved out plan of Future City in December 2025.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "U.S. President takes to social media to thank India for ‘Donald Trump Avenue’ in Hyderabad",
-              "url": "https://www.thehindu.com/news/cities/Hyderabad/us-president-takes-to-social-media-to-thank-india-for-donald-trump-avenue-in-hyderabad/article71153314.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Trump Thanks India After Hyderabad Renames Road After Him",
-              "url": "https://www.ndtv.com/world-news/donald-trump-thanks-india-after-hyderabad-renames-road-after-him-11693398#publisher=newsstand"
+              "headline": "Maharashtra Teacher Eligibility Test postponed day before exam after suspicion of paper leak",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS0NpQUJxdmlIUnZnaF9Ual82Z3VEa25MbWxGUHd4a29TUDBmSnFiclZTTjR2UUNCWXpMNm1PSGZNbk04aDlZcDVyNTZrR19zNXQ3WmJaT09yX2dmNlR1UE1KX1VDTWFpRnowTEFNLVF4YTBlOUR6LVNzTFl4dzBEeV9vNVFCZjloWVYwWWtiU2ZZVDU2SVVnMF9mNnhqVmMzanRCUlJ5eGVZeGRIaUhTTmVsSjFJa0tOa3YzT0l6Z9IBxgFBVV95cUxQeWw3c2NxbDVRS3dhc1hQY0Q1a0pkNDFfYmhPVi0tWHhacG1uc0lLM1ZscFZxOGtwNDR1RjZYbHhrdGNuTlczVE4wSVc3emplMmZtSjluQzZPX3QxdEtJQXJQY0JlLWRfWWxjSkRUS3B3V1FIT1dXYmdRMWhWd3RHU0d4aTNZMjMxNlZCOFJFUkpYT2dkWG5HVTlDWjZ1UXhJUk5UVTQwdUp2VjhfT2gyT3J2d0owRVV6ZWdGdjVPckJWQjhvZ3c?oc=5"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Champat Rai: The RSS pracharak at the centre of the Ram temple donation row",
-          "neutralSummary": "After decades as a low-profile organiser working behind the scenes, Mr. Rai has been thrust into an unwelcome spotlight amid corruption charges and rumours of his resignation from the Ram temple trust",
+          "neutralHeadline": "Ram Temple Trust rocked over donation row",
+          "neutralSummary": "Ram Temple Trust rocked over donation row",
           "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Ram Temple Trust rocked over donation row",
+              "url": "https://economictimes.indiatimes.com/news/india/shocked-saddened-shri-ram-janmabhoomi-teerth-kshetra-temple-trust-in-turmoil-over-donations-with-champat-rai-stepping-down-probe-assured/articleshow/132033834.cms"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "The Hindu",
               "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Champat Rai: The RSS pracharak at the centre of the Ram temple donation row",
-              "url": "https://www.thehindu.com/news/national/uttar-pradesh/champat-rai-the-rss-pracharak-at-the-centre-of-the-ram-temple-donation-row/article71150714.ece"
+              "domain": "news.google.com",
+              "headline": "Ram Temple donation row: Champat Rai, Anil Mishra resign",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQekExRncxcTRkX0hMZzFtREVicjd6ZFljVW8tUlF4RkpRU1VnS1Z6WjE4WTV3WEdoZGN5TVg1UWplbko5S3dfN2lCUHdCMVRmdE9CRElKcDRvNmRfVGJfTG9YR185VzNXSmQ4bEJ1YTVIS0syWnV0bS0weWctbWp0VGZpcGVvNEZOeHVfQUpkNm1WaENjQnRQaWtDV0J2d2VyMm1rbW8tbFVLa3hlX0szZkpQbVpyelRqNjFzUjd1bDQwM21YY2fSAcwBQVVfeXFMTUtHdzRybGRCdV9TSXl4SnRRUTA2NGxwWGNaWGlfYlFmTkFNUGgxZjlVRlV0ejZ2Q2RqV1o2NERZVmxuUmhCVi1DaVFxZHBzN1lTdU1tZllhODVxTDhoanVfckxtU0VaekNaVmJqaG9uMVRCdkxYb2Z1RGR4NWtMa3lyNHAwc2h2NjFDQ3ZMbzYtZnE4bGNLRzVic1pROWN6NUpTeDFqNWozZS1SWFJTYXNJV1R5bGtTdC1reFdWczZiQ2N0cThqTi1nbS1K?oc=5"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "A convert to Islam cannot claim the status of Backward Class Muslim, rules Madras High Court",
-          "neutralSummary": "Categorising certain sects as Backward and the remaining as Forward is antithetical to Quranic injunctions. Islam seeks to establish an egalitarian society, says Madurai Bench",
+          "neutralHeadline": "Parliament Abolished Bonded Labour In 1976. Punjab's Villages Never Quite Did.",
+          "neutralSummary": "Parliament Abolished Bonded Labour In 1976. Punjab's Villages Never Quite Did.",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "A convert to Islam cannot claim the status of Backward Class Muslim, rules Madras High Court",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/a-convert-to-islam-cannot-claim-the-status-of-backward-class-muslim-rules-madras-high-court/article71151269.ece"
-            },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "‘A convert to Islam is only a Muslim, he cannot claim reservation benefits’: Madras HC strikes down Tamil Nadu govt order, slams attempt to incentivise conversions",
-              "url": "https://www.opindia.com/2026/06/a-convert-to-islam-is-only-a-muslim-cannot-claim-reservation-benefits-madras-hc-strikes-down-tamil-nadu-government-order/"
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "Parliament Abolished Bonded Labour In 1976. Punjab's Villages Never Quite Did.",
+              "url": "https://swarajyamag.com/newsletters/parliament-abolished-bonded-labour-in-1976-punjabs-villages-never-quite-did-3"
             }
           ]
         }
