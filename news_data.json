@@ -1,88 +1,11 @@
 {
-  "generatedAt": "2026-06-30T15:32:31.084586+00:00",
+  "generatedAt": "2026-07-01T06:16:34.510229+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "US Supreme Court rejects Trump's attempt to restrict birthright citizenship",
-          "neutralSummary": "US Supreme Court rejects Trump's attempt to restrict birthright citizenship",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Supreme Court's birthright ruling is major blow to Trump",
-              "url": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "US Supreme Court rules against Trump order to end birthright citizenship",
-              "url": "https://www.aljazeera.com/news/2026/6/30/us-supreme-court-rules-against-trump-order-to-end-birthright-citizenship?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "US Supreme Court rejects Trump's attempt to restrict birthright citizenship",
-              "url": "https://www.france24.com/en/americas/20260630-us-supreme-court-rejects-trump-s-attempt-to-restrict-birthright-citizenship"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Supreme Court strikes down Trump birthright citizenship order in blow to president",
-              "url": "https://nypost.com/2026/06/30/us-news/supreme-court-strikes-down-trump-birthright-citizenship-order-in-blow-to-president/"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "🔴 US Supreme Court upholds transgender sports bans",
-          "neutralSummary": "🔴 US Supreme Court upholds transgender sports bans",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "US Supreme Court upholds bans on transgender women in female school and college sports",
-              "url": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "🔴 US Supreme Court upholds transgender sports bans",
-              "url": "https://www.france24.com/en/americas/20260630-us-supreme-court-upholds-ban-on-transgender-athletes-in-women-s-school-sports"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Supreme Court upholds state bans on trans athletes in girls’ sports",
-              "url": "https://nypost.com/2026/06/30/us-news/supreme-court-upholds-state-bans-on-trans-female-athletes-in-girls-sports/"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
           "neutralHeadline": "Police units deployed across South Africa before anti-immigration marches",
           "neutralSummary": "Government fears repeat of anti-migrant violence in 2008 that led to looting and resulted in deaths of 62 peopleSouth African authorities have deployed police units to towns and cities around the country before planned demonstrations against undocumented foreign nationals.Security personnel were see",
           "versions": [
@@ -105,18 +28,118 @@
               "url": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss"
             },
             {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Thousands of police deployed across South Africa as deadly anti-immigration protests spread to multiple cities",
+              "url": "https://www.foxnews.com/world/thousands-police-deployed-south-africa-deadly-anti-immigration-protests-spread-multiple-cities"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "‘Tonnes of rubble’: 58,000 buildings estimated destroyed in Venezuela earthquakes",
+          "neutralSummary": "Preliminary analysis of satellite data suggests magnitude of natural disaster could dwarf official estimatesMore than 58,000 buildings may have been damaged and destroyed by the twin earthquakes that hit Venezuela last week, according to a preliminary analysis of satellite data that suggests the sca",
+          "versions": [
+            {
               "political": "left",
               "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "‘Tonnes of rubble’: 58,000 buildings estimated destroyed in Venezuela earthquakes",
+              "url": "https://www.theguardian.com/world/2026/jun/30/tonnes-and-tonnes-of-rubble-more-than-58000-buildings-estimated-to-have-been-destroyed-in-venezuela-earthquakes"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Boy, 2, pulled alive from rubble six days after Venezuela's devastating twin earthquakes",
+              "url": "https://www.foxnews.com/world/boy-2-pulled-alive-from-rubble-six-days-after-venezuelas-devastating-twin-earthquakes"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "US Supreme Court upholds birthright citizenship in blow to Trump",
+          "neutralSummary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "US Supreme Court upholds birthright citizenship in blow to Trump",
+              "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "South Africa deploys police as anti-immigrant protests prompt fears",
-              "url": "https://www.aljazeera.com/news/2026/6/30/south-africa-deploys-police-as-anti-immigrant-protests-prompt-fears?traffic_source=rss"
+              "headline": "Why is MAGA in meltdown over the Supreme Court birthright ruling?",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/why-is-maga-in-meltdown-over-the-supreme-court-birthright-ruling-2?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-4",
+          "neutralHeadline": "US envoys met with mediators in Qatar, talks with Iran up in the air",
+          "neutralSummary": "US envoys met Qatari mediators in Doha on Tuesday for discussions on negotiations with Iran, even as both Tehran and Doha dismissed President Donald Trump's suggestion that direct US – Iran talks were taking place. The meetings come as both sides seek to implement a memorandum of understanding aimed",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+              "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "US envoys met with mediators in Qatar, talks with Iran up in the air",
+              "url": "https://www.france24.com/en/middle-east/20260630-us-envoys-met-with-mediators-in-qatar-talks-with-iran-up-in-the-air"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "South Africa's anti-migrant protesters march nationwide, after thousands flee violence",
+          "neutralSummary": "Thousands of people marched across South Africa on Tuesday to demand the departure of undocumented foreign nationals after a weeks-long campaign that has sent thousands fleeing and claimed four lives. Police were out in force for nationwide protests which capped demonstrations led by citizen-led gro",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "‘They will attack me if I stay’: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
+              "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "South Africa's anti-migrant protesters march nationwide, after thousands flee violence",
+              "url": "https://www.france24.com/en/south-africa-s-anti-migrant-protesters-march-nationwide-after-thousands-flee-violence-1"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
           "neutralHeadline": "Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud",
           "neutralSummary": "Guo Wengui, who gained fans for criticising China’s Communist party, was found guilty in 2024 on nine charges including money launderingA US federal court has sentenced exiled Chinese tycoon Guo Wengui to 30 years in prison, after he was convicted of defrauding thousands of people out of more than $",
           "versions": [
@@ -132,15 +155,6 @@
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Chinese tycoon sentenced to 30 years in US jail",
-              "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
@@ -150,9 +164,9 @@
           ]
         },
         {
-          "id": "global-5",
-          "neutralHeadline": "Monaco explosion injures 3 including Ukrainian tycoon as suspect flees to France",
-          "neutralSummary": "Monaco explosion injures 3 including Ukrainian tycoon as suspect flees to France&nbsp;&nbsp;AP NewsVadym Yermolaiev : Manhunt after bomb injures Ukrainian oligarch and others in Monaco&nbsp;&nbsp;BBC‘He isn’t political’: the Ukrainian-born oligarch targeted by a Monaco bomber&nbsp;&nbsp;The Guardian",
+          "id": "global-7",
+          "neutralHeadline": "Trump made more than $1 billion from crypto in 2025, financial disclosure shows",
+          "neutralSummary": "President Donald Trump made more than $1.2 billion from his family's cryptocurrency activities last year, according to the annual disclosure by the US Office of Government Ethics released Tuesday. The president's earnings included $550 million from his ties to World Liberty Financial, which was co-f",
           "versions": [
             {
               "political": "left",
@@ -160,83 +174,24 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
-              "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Explosion in Monaco injures 3, including Ukrainian tycoon",
-              "url": "https://www.npr.org/2026/06/30/g-s1-130990/explosion-monaco-ukrainian-tycoon"
+              "headline": "Trump made more than $1bn from crypto in first year back in office",
+              "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Monaco explosion injures 3 including Ukrainian tycoon as suspect flees to France",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRkFtOEk3cmZwQUNRT2MxT0ctUDB3Z1JKSWhCQmtGd2tjdjdHb0J6b0U3aEdORlZ5TERrYjRpTDljVFMyTUkxTVpjelJQWk02dUViem1TMzJOQnVQSm5VdVM2eG5Qbkp1alNneHlTWExCVDkzamhGUFVaRmVETlBoOUlPY0JMUWl6Qk5pYXh1LV9VRWhUTlZ1ZA?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Uncertainty Over Qatar Diplomacy Clouds Prospects For U.S.-Iran Deal",
-          "neutralSummary": "Jared Kushner and Steve Witkoff were expected to land in Doha on Tuesday.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Uncertainty Over Qatar Diplomacy Clouds Prospects For U.S.-Iran Deal",
-              "url": "https://www.huffpost.com/entry/qatar-diplomacy-us-iran_n_6a4399b4e4b0f259890f8ff3"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Iran to hold talks with Qatar on MoU deal with US, frozen assets",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/iran-to-hold-talks-with-qatar-on-mou-deal-with-us-frozen-assets?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
-          "neutralSummary": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
-              "url": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Gojek co-founder Nadiem Makarim sentenced to 10 years for corruption",
-              "url": "https://www.aljazeera.com/economy/2026/6/30/gojek-co-founder-nadiem-makarim-sentenced-to-10-years-for-corruption?traffic_source=rss"
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Trump made more than $1 billion from crypto in 2025, financial disclosure shows",
+              "url": "https://www.france24.com/en/americas/20260701-trump-earned-over-1-bn-from-crypto-ventures-in-2025"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-          "neutralSummary": "Pakistan claims it was targeting militants near its border, but the Taliban government calls it an \"atrocity\".",
+          "neutralHeadline": "Roof collapse kills 14 children at Pakistan tuition centre",
+          "neutralSummary": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
           "versions": [
             {
               "political": "left",
@@ -244,33 +199,33 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Pakistani strikes kill at least 28 civilians in Afghanistan, UN says",
-              "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss"
+              "headline": "Roof collapse kills 14 children at Pakistan tuition centre",
+              "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
-              "url": "https://www.npr.org/2026/06/29/g-s1-130826/pakistani-airstrikes-kill-36-civilians-in-afghanistan-and-wound-160-officials-say"
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Tutoring centre roof collapses killing 14 children in Pakistan",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/tutoring-centre-roof-collapses-killing-14-children-in-pakistan?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "UK’s Starmer announces 300-billion-pound defence investment plan",
-          "neutralSummary": "UK’s Starmer announces 300-billion-pound defence investment plan&nbsp;&nbsp;Al JazeeraWhat does the Defence Investment Plan means for the south of England?&nbsp;&nbsp;BBCBritain sets out a plan for future defense with a focus on drones and a fight over money&nbsp;&nbsp;Los Angeles TimesBritain unvei",
+          "neutralHeadline": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+          "neutralSummary": "Pakistan's military says it shot down four rudimentary drones and will respond to any further provocation.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "UK’s Starmer announces 300-billion-pound defence investment plan",
-              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObUcxR0o0OHNjOUwtR3pfaFhiVWVJcnQ5N2V4THZ5d21nTXBsZVZCcndoQ0k5MndrbnlLTHE1bVFMOE5aNS1HUFNQZXNBNTg2ZnR2SjlIamFkVEJtMk5VR05oclNJZXoxMUYwbk83X1YwMldLU3o3SGlBTE1FX25sRk5QdUYyYXp0dkRLYlFNenBvUW5MczE1MUtfeEhpczhvWFRUTWRZY3M2d2_SAbABQVVfeXFMTXVCUXRCY2VXV183eG5rU3VmMnRmRGt1eEgzeDBWeE5lcnBxYmswcHE2WW9qZ1RQZ0FKQmNoOENwTVRvcDJvdVEzRDlvT2swbUJFaFdldTFJb2lETEpWSkdMWk1FNTFZd2wzaGNQMWZ1SGtUbGZzQjFxQU9UVndoNGVqSmF5M0p3QnctUEsyM0hTTlhoU3JRRnRrTjhNTUpyb2FJLWdDU1VEYzVHWVEzTUk?oc=5"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Afghan Taliban launch strikes on border with Pakistan as tensions escalate",
+              "url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss"
             }
           ]
         }
@@ -281,17 +236,26 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "READ: Supreme Court’s opinion on birthright citizenship, including Thomas dissent",
-          "neutralSummary": "The Supreme Court on Tuesday struck down President Trump’s birthright citizenship restrictions, ruling that his banner immigration policy is unconstitutional. The majority ruling, written by Chief Justice John Roberts, was joined by three liberal justices and conservative Justice Amy Coney Barrett.",
+          "neutralHeadline": "Weiser defeats Bennet for Democratic nod in Colorado governor’s race",
+          "neutralSummary": "State Attorney General Phil Weiser (D) is projected to defeat Sen. Michael Bennet (D-Colo.) for the Democratic nomination for Colorado governor, according to Decision Desk HQ, a stark contrast to how the race first started when&#160;Bennet was seen as the favorite. Bennet, a three-term senator and f",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Supreme Court upholds birthright citizenship on constitutional grounds",
-              "url": "https://www.npr.org/2026/06/30/nx-s1-5839358/birthright-citizenship-decision-scotus-trump"
+              "tone": "optimistic",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Manny Rutinel Defeats Shannon Bird In Colorado Democratic Primary",
+              "url": "https://www.huffpost.com/entry/manny-rutinel-shannon-bird-colorado-primary_n_6a42be89e4b0d6c25f520fca"
+            },
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Phil Weiser Upsets Michael Bennet in Colorado Democratic Governor Primary",
+              "url": "https://www.nytimes.com/2026/06/30/us/colorado-governor-democrat-phil-weiser.html"
             },
             {
               "political": "center",
@@ -299,24 +263,24 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "READ: Supreme Court’s opinion on birthright citizenship, including Thomas dissent",
-              "url": "https://thehill.com/regulation/court-battles/5947428-read-supreme-court-birthright-citizenship-ruling-thomas-dissent/"
+              "headline": "Weiser defeats Bennet for Democratic nod in Colorado governor’s race",
+              "url": "https://thehill.com/homenews/campaign/5945425-weiser-defeats-bennet-for-democratic-nod-in-colorado-governors-race/"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Supreme Court strikes down Trump birthright citizenship order in blow to president",
-              "url": "https://nypost.com/2026/06/30/us-news/supreme-court-strikes-down-trump-birthright-citizenship-order-in-blow-to-president/"
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Manny Rutinel wins Democratic primary to face Gabe Evans in crucial Colorado House seat",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4631625/manny-rutinel-wins-democratic-primary/"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "Ex-Federal Prosecutor Spots 'Chilling' Word In Supreme Court's Major Trump Ruling",
-          "neutralSummary": "\"It's hard to stress enough for people the ramifications of this decision,\" said Andrew Weissmann.",
+          "neutralHeadline": "Democratic Socialist Melat Kiros Unseats Rep. Diana DeGette In Colorado Primary",
+          "neutralSummary": "In a stunning upset, the 29-year-old lawyer defeated the Denver congresswoman who has held this seat for nearly three decades.",
           "versions": [
             {
               "political": "left",
@@ -324,33 +288,42 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Ex-Federal Prosecutor Spots 'Chilling' Word In Supreme Court's Major Trump Ruling",
-              "url": "https://www.huffpost.com/entry/andrew-weissmann-donald-trump-supreme-court-ruling_n_6a437058e4b0d6c25f53679e"
+              "headline": "Democratic Socialist Melat Kiros Unseats Rep. Diana DeGette In Colorado Primary",
+              "url": "https://www.huffpost.com/entry/democratic-socialist-melat-kiros-unseats-diana-degette-colorado_n_6a446f20e4b0aaefe64491a4"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "US Supreme Court hands Trump 3-1 defeat in key rulings: What we know",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUkhhaGl6eFB2WUs1dEZobGQzd2ZyUXBQeEtaN0k0S0cxdjFTOTMzQzEzOWFCSFNFR1hsczA5SFFHdG5hZWQ4MkRTcXgwZkZPWG9XVzJST003TkVNSnZCN09rRHFHYlp6MGZYZGpnRGlYZy1OMmU3bElLUGpuOVRidTd3ai1wVENMNFkzZUVGZkRUM0JkYXB6enhfY2N0LWlGNzVHZkNNbXFVdk1m0gGyAUFVX3lxTE1qcUZzb2p5ZzMxWnVLRW55SExQYzY1ZmRvNnBSdUo5SHdnNFEteG9mZ1pqNjB6MW1abXVMYTVNSmo5Ykx6MmhZSUdHTFFWRXo3QVNOMm5BQ2RuVDdrUkN4OXVhTkdoODlJYkVlNVdMV2k0Y2FHS1hjVTFRNHJneHFISU1sMlpvVFVJNW1uLVhjLUxLUzJqTnVQdURVV3BGTklKZkZEaFlTNHVXd2xZRURKRWc?oc=5"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Democratic socialist Melat Kiros poised to become the first Gen Z woman in Congress",
+              "url": "https://www.npr.org/2026/07/01/nx-s1-5876122/colorado-primary-election-melat-kiros-democratic-socialist"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump suffers major Supreme Court defeat as justices uphold birthright citizenship",
-              "url": "https://www.foxnews.com/politics/trump-suffers-major-supreme-court-defeat-justices-uphold-birthright-citizenship"
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Socialist congressional candidate Melat Kiros defeats longtime Rep. Diana DeGette in Colorado primary in another blow to establishment Dems",
+              "url": "https://nypost.com/2026/07/01/us-news/socialist-congressional-candidate-melat-kiros-defeats-longtime-rep-diana-degette-in-colorado-democratic-primary/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Socialists sweep Denver as Melat Kiros defeats longtime House Democrat Diana DeGette in primary",
+              "url": "https://www.washingtonexaminer.com/news/4632036/melat-kiros-defeats-house-democrat-diana-degette-in-primary/"
             }
           ]
         },
         {
           "id": "us-3",
-          "neutralHeadline": "Supreme Court Lifts Spending Limits on Political Parties and Candidates",
-          "neutralSummary": "Republicans had asked the court to strike down restrictions on how much political parties can spend in coordination with candidates.",
+          "neutralHeadline": "Trump announces GOP ‘midterm convention’ in Dallas",
+          "neutralSummary": "President Trump on Tuesday announced a Republican “midterm convention” in Dallas later this year. “BIG NEWS! For the first time ever, the Republican Party will hold a MIDTERM CONVENTION. It will be in Dallas, Texas — One of my favorite places in the World. It will be fantastic! It has never been don",
           "versions": [
             {
               "political": "left",
@@ -358,17 +331,17 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Supreme Court Lifts Spending Limits on Political Parties and Candidates",
-              "url": "https://www.nytimes.com/2026/06/30/us/supreme-court-campaign-finance.html"
+              "headline": "Trump Announces Republican Midterm Convention in Dallas, Texas",
+              "url": "https://www.nytimes.com/2026/06/30/us/politics/trump-republican-midterm-convention-dallas-texas.html"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Supreme Court strikes down limits on political party spending",
-              "url": "https://www.npr.org/2026/06/30/nx-s1-5827039/supreme-court-campaign-finance"
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump announces GOP ‘midterm convention’ in Dallas",
+              "url": "https://thehill.com/homenews/campaign/5948776-trump-announces-republican-midterm-convention/"
             },
             {
               "political": "right",
@@ -376,8 +349,8 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Supreme Court strikes down limit on party campaign spending in coordination with candidates",
-              "url": "https://www.foxnews.com/politics/supreme-court-strikes-down-limit-party-campaign-spending-coordination-candidates"
+              "headline": "Republican Party to host historic midterm convention in Dallas, Trump announces on Truth Social",
+              "url": "https://www.foxnews.com/politics/republican-party-host-historic-midterm-convention-dallas-trump-announces-truth-social"
             },
             {
               "political": "right",
@@ -385,58 +358,24 @@
               "source": "NY Post",
               "initials": "NYP",
               "domain": "nypost.com",
-              "headline": "Supreme Court rules political party limits on campaign spending are unconstitutional in midterm win for GOP",
-              "url": "https://nypost.com/2026/06/30/us-news/supreme-court-rules-parties-candidates-can-coordinate-spending/"
+              "headline": "Trump confirms GOP will hold ‘midterm convention’ in  Dallas in September",
+              "url": "https://nypost.com/2026/06/30/us-news/trump-confirms-gop-will-hold-midterm-convention-in-dallas-in-september/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Trump Reveals Host City For First Ever Midterm Convention In September",
+              "url": "https://www.dailywire.com/news/trump-reveals-host-city-for-first-ever-midterm-convention-in-september"
             }
           ]
         },
         {
           "id": "us-4",
-          "neutralHeadline": "Supreme Court Allows States to Bar Transgender Athletes From Girls’ Sports",
-          "neutralSummary": "The court’s decision involving laws from West Virginia and Idaho has implications for 25 other states with similar restrictions on transgender female athletes joining women’s sports teams.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Supreme Court Allows States to Bar Transgender Athletes From Girls’ Sports",
-              "url": "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-transgender-athletes.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Supreme Court upholds bans on transgender athletes participating in women and girls' sports",
-              "url": "https://www.npr.org/2026/06/30/nx-s1-5836513/supreme-court-transgender-athletes"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "news.google.com",
-              "headline": "US supreme court rules states can exclude trans athletes from female sports",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnhSOWtSRmpZOEFaSmhCOENMazBITk1ieVl0REFScDdQSUxDSVhEektoTVNjVTdZMFhoTGZmVWtIdDdwdEJPd1ctMEVkQk9TNEd3R195TldHZlN0RFlPM1JLRWJJU3lUdC1HMWxFWEo2TkVnQU1pN3UwU2RtRVk0NVdIT2huY1c5TWlVeWJWRVNGb3l1MEZRT0ZVajg?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Supreme Court upholds state bans on trans athletes in girls’ sports",
-              "url": "https://nypost.com/2026/06/30/us-news/supreme-court-upholds-state-bans-on-trans-female-athletes-in-girls-sports/"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Trump using $500M no-bid contract to build his White House ballroom",
-          "neutralSummary": "The White House gave a no-bid contract worth up to $500 million for the construction of the East Wing ballroom, The Washington Post reported. The contract for the project was routed through the Executive Residence, which is exempt from rules that require federal agencies to get competitive bids and",
+          "neutralHeadline": "Trump discloses more than $500 million from crypto sale",
+          "neutralSummary": "President Trump raked in more than $500 million from his cryptocurrency venture he co-founded with his sons, according to his financial disclosures released on Tuesday. Trump and his sons launched the crypto venture known as World Liberty Financial in the fall of 2024 as the then-presidential candid",
           "versions": [
             {
               "political": "left",
@@ -444,8 +383,153 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "'TACKY': Trump Mocked After Posting Image Of Golden Eagle On White House",
-              "url": "https://www.huffpost.com/entry/donald-trump-white-house-america-250-golden-eagle_n_6a43220be4b0d6c25f531f9b"
+              "headline": "Trump Made $1.2 Billion Last Year From His Crypto Businesses",
+              "url": "https://www.huffpost.com/entry/trump-crypto-millions-income_n_6a443291e4b0032dbc13ba77"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVG1ucDZ5Y295WG44SXZDbzVSb1UtSVJCQ2pXcEMxZWtTc1ZsR2JodlRKdENuUDdkUE5GbE1ZTFVDQ0VRU1hkclJaYkVKM202TVktdWt1dmQ3WTNoT0VwSlZ1LUZCQURHZThTUERwbkVOQThVblhKOHNqcjVBQkV3bmdGRzFmNmloQTNRVnViTWg4NDcxRmdYSHlNSlp4UFZJeDNJWUxLbnN1RDVVZE4wOE5Fa212NUpkbnc?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump discloses more than $500 million from crypto sale",
+              "url": "https://thehill.com/homenews/administration/5948701-trump-crypto-venture-profits/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump made over $1 billion from crypto businesses in 2025, filing shows",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4631903/trump-billions-crypto-businesses-filing/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "5 takeaways from Supreme Court’s landmark decision day",
+          "neutralSummary": "The Supreme Court’s final opinion day was full of landmark decisions,&#160;in a term marked by them. The justices handed down major rulings that rejected a core facet of President Trump’s immigration agenda, upheld statewide bans on transgender athletes in sports and dismantled a federal law enacted",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Takeaways From a Transformative Supreme Court Term",
+              "url": "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-takeaways-term.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "NPR discusses error in reporting on the last day of the Supreme Court term",
+              "url": "https://www.npr.org/2026/06/30/nx-s1-5876268/npr-discusses-error-in-reporting-on-the-last-day-of-the-supreme-court-term"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "5 takeaways from Supreme Court’s landmark decision day",
+              "url": "https://thehill.com/regulation/court-battles/5948475-supreme-court-takeaways-trump-administration/"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Senator Fanboys Over Clarence Thomas After Trump's Supreme Court Upsets",
+          "neutralSummary": "While Thomas was being celebrated, one of his conservative peers was getting ripped apart by fellow right-wingers.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Senator Fanboys Over Clarence Thomas After Trump's Supreme Court Upsets",
+              "url": "https://www.huffpost.com/entry/clarence-thomas-greatest-living-human-being_n_6a440f11e4b0032dbc134f38"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mVzM2WHlReUtRY2MzaFdWRy1iWTRvYkhKS1BiWVJ6NzNfdHBvNHREYXlFenNsMmMwVFlhbWFRaTd4Zlp1RG1md00xY21lMlBUOWZSakJpUVZIUQ?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Clarence Thomas shreds ruling that ‘devalues’ citizenship in Supreme Court dissent",
+              "url": "https://www.washingtonexaminer.com/news/supreme-court/4630819/clarence-thomas-shreds-ruling-devalues-citizenship/"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Vance calls Supreme Court birthright ruling a ‘major mistake’",
+          "neutralSummary": "Vice President Vance said Tuesday that the recent Supreme Court ruling upholding birthright citizenship is a “major mistake.” “This was a very disappointing ruling from the Supreme Court. We respect it, but we also think that it was a major, major mistake,&#8221; he said. &#8220;One of the things th",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Trump calls on Congress to end birthright citizenship after court defeat",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHVBOV9qQUxJZUJqWnNfVmpncExScHBLZU1GX0NQNFA2TmFCRlNPS01VVkVnN3MzekY2WVNVcVg3d2x1NVFoYVNkV0U1LW5BRnQyME9SVDdiSW8xeHpOQXlIVFpPcTNOMUJfUDR3U3U1TkJfRkhXcEhFQVNCbWtRSkI2X2RQTTV5ZHI4Y3NSUEJPSDRvQWVsbDlFNGVUUU1DQ0NxMGgwRVh5eHZxRUE?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Vance calls Supreme Court birthright ruling a ‘major mistake’",
+              "url": "https://thehill.com/regulation/court-battles/5948804-birthright-citizenship-ruling-criticized/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Why The Birthright Citizenship Decision Was Wrong",
+              "url": "https://www.dailywire.com/news/why-the-birthright-citizenship-decision-was-wrong"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Trump Is Secretly Messing With The White House’s Iconic View Yet Again: Report",
+          "neutralSummary": "The construction project is being blocked off by a large fence, The Washington Post reports.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Is Secretly Messing With The White House’s Iconic View Yet Again: Report",
+              "url": "https://www.huffpost.com/entry/trump-is-secretly-messing-with-the-white-houses-iconic-view-yet-again-report_n_6a44237ae4b039eff6063399"
             },
             {
               "political": "left",
@@ -455,106 +539,13 @@
               "domain": "washingtonpost.com",
               "headline": "Trump is using a $500M no-bid contract to build his White House ballroom",
               "url": "https://www.washingtonpost.com/investigations/2026/06/30/trump-ballroom-built-under-secret-500m-no-bid-contract/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump using $500M no-bid contract to build his White House ballroom",
-              "url": "https://thehill.com/homenews/administration/5947494-white-house-no-bid-contract/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Supreme Court rules Trump’s birthright citizenship restrictions are unconstitutional",
-          "neutralSummary": "The Supreme Court shut the door on President Trump’s birthright citizenship restrictions on Tuesday, ruling&#160;that his banner immigration policy is unconstitutional. Chief Justice John Roberts, joined by all three liberal justices and Justice Amy Coney Barrett, wrote that the 14th Amendment guara",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "The Supreme Court's Seemingly Contradictory Trump Rulings Hinge On 1 Critical Element",
-              "url": "https://www.huffpost.com/entry/trump-slaughter-cook-supreme-court_n_6a42da8ce4b0f4826b47940e"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Supreme Court rules Trump’s birthright citizenship restrictions are unconstitutional",
-              "url": "https://thehill.com/regulation/court-battles/5935548-birthright-citizenship-supreme-court-trump-14th-amendment/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Supreme Court Rules Against Trump In Birthright Citizenship Case",
-              "url": "https://www.dailywire.com/news/supreme-court-rules-against-trump-in-birthright-citizenship-case"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "The Internet Is Having A Field Day Over Donald Trump's Great American State Fair. Here Are 15 Of The Best Tweets.",
-          "neutralSummary": "How embarrassing.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "The Internet Is Having A Field Day Over Donald Trump's Great American State Fair. Here Are 15 Of The Best Tweets.",
-              "url": "https://www.huffpost.com/entry/trump-great-american-state-fair-best-funniest-tweets_n_6a42d347e4b0f4826b479178"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Josh Shapiro’s decision not to have exhibit at Great American State Fair was ‘humiliating’: Salena Zito",
-              "url": "https://www.washingtonexaminer.com/news/4630337/josh-shapiro-great-american-state-fair-humiliating-salena-zito/"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "MAGA Man Arrested For Masturbating At Trump's America 250 Spectacle",
-          "neutralSummary": "The niche social media personality was charged with \"lewd, indecent, or obscene acts\" after multiple witnesses reported his depraved behavior.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "MAGA Man Arrested For Masturbating At Trump's America 250 Spectacle",
-              "url": "https://www.huffpost.com/entry/maga-influencer-arrested-masturbating-american-state-fair_n_6a4286f3e4b0f259890df90c"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump ‘at war’ over SAVE America Act: Byron York",
-              "url": "https://www.washingtonexaminer.com/news/supreme-court/4630451/trump-at-war-over-save-america-act-supreme-court-byron-york/"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Vox retracts Alito story",
-          "neutralSummary": "Editor&#8217;s note: On June 30, Vox published a story mentioning Supreme Court Justice Samuel Alito&#8217;s retirement based on inaccurate reporting from another outlet and has since retracted the story.",
+          "neutralHeadline": "The Supreme Court’s trans sports ruling is a cautionary tale for all left-leaning lawyers",
+          "neutralSummary": "The Supreme Court ruled on Tuesday that states may bar transgender women from competing on women’s sports teams at secondary schools, colleges, and universities. More than two dozen states have laws barring trans athletes from competing on teams that do not align with their sex assigned at birth. Th",
           "versions": [
             {
               "political": "left",
@@ -562,17 +553,17 @@
               "source": "Vox",
               "initials": "VOX",
               "domain": "vox.com",
-              "headline": "Vox retracts Alito story",
-              "url": "https://www.vox.com/scotus/416307/supreme-court-justice-samuel-alito-retires"
+              "headline": "The Supreme Court’s trans sports ruling is a cautionary tale for all left-leaning lawyers",
+              "url": "https://www.vox.com/politics/493711/supreme-court-bpj-west-virginia-trans-sports"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Editor's note: NPR retracts story",
-              "url": "https://www.npr.org/2026/06/30/nx-s1-4622951/samuel-alito-retires"
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "news.google.com",
+              "headline": "Trans youth athletes vow to keep playing after US supreme court ruling",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORTZBRGpvWXVWdnNXbF9RV2Z3aGxOSWdheEJTVmV0bkZxTkExMUItYlZZYl8wdkJhTEhTVzdWeGJfVllIVU45ZmV3Nnp4ekN2dHJRVDlaQ1Q5OEs5MDIzdHQxd3d2LXJnQl9YZW9NMjg0WHBEMXkzc0lTNndTWDhVU3NNTDNwQjZFLUFqbHVuUjFBM19IM3hjckNlUzc?oc=5"
             }
           ]
         }
@@ -617,8 +608,8 @@
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "New Singpass passkey turns mobile devices into digital keys, renders phishing scams useless",
-          "neutralSummary": "Singpass passkeys comply with open standards developed by an industry association with members such as Google and Apple.",
+          "neutralHeadline": "Man charged with using airsoft gun to shoot another person in Tampines",
+          "neutralSummary": "Poh Jing Yang is accused of committing the offence on June 29.",
           "versions": [
             {
               "political": "center",
@@ -626,15 +617,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "New Singpass passkey turns mobile devices into digital keys, renders phishing scams useless",
-              "url": "https://www.straitstimes.com/tech/new-singpass-passkey-turns-mobile-devices-into-digital-keys-renders-phishing-scams-useless"
+              "headline": "Man charged with using airsoft gun to shoot another person in Tampines",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/man-charged-with-using-airsoft-gun-to-shoot-another-person-in-tampines"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Man arrested in Toa Payoh for obscene act, punching police officer in the face",
-          "neutralSummary": "A 19-year-old police officer suffered minor injuries and was taken conscious to hospital.",
+          "neutralHeadline": "World won’t deal with S’pore without credible defence, which rests on every soldier: Chan Chun Sing",
+          "neutralSummary": "Servicemen have done well to build this credibility, but the minister cautioned against complacency.",
           "versions": [
             {
               "political": "center",
@@ -642,113 +633,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Man arrested in Toa Payoh for obscene act, punching police officer in the face",
-              "url": "https://www.straitstimes.com/singapore/man-arrested-in-toa-payoh-for-obscene-act-punching-police-officer-in-the-face"
+              "headline": "World won’t deal with S’pore without credible defence, which rests on every soldier: Chan Chun Sing",
+              "url": "https://www.straitstimes.com/singapore/world-wont-deal-with-spore-without-credible-defence-which-rests-on-every-soldier-chan-chun-sing"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Defence not just about capabilities, intention also matters: Chan Chun Sing",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjg4ZkdZWldYN0htTW1pc3BPRE40bE1aa2F1bkFZVnp6Qk5LdWFLNTlPSG9VaFhDUTFYekNUWWRIa3pvNHVqd0k1OHhzbjMya0ZZVlVpdzJjcWl1U012REdWQW1adWNLNmNqamlMaHBNazR3TkJHcHAzMWc5WU5POUZXc0c1T0RXNlJjTmJCUFE0QTJMajJyaGtIc3FpVVcxQnZKX2tacHlnd2s?oc=5"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Indonesia's 'nobar economy' scores as World Cup fever boosts businesses",
-          "neutralSummary": "Indonesia is one of the few countries in Southeast Asia where all 104 World Cup matches are available on free-to-air TV.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Indonesia's 'nobar economy' scores as World Cup fever boosts businesses",
-              "url": "https://www.channelnewsasia.com/asia/fifa-world-cup-indonesia-nobar-economy-6221536"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Indonesia seeks up to 10 years' jail for 19 members of syndicate that sold babies to Singapore",
-          "neutralSummary": "The 19 defendants are accused of selling at least 34 babies between 2022 and 2025, some of whom were taken to Singapore and sold for thousands of dollars for each child.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Indonesia seeks up to 10 years' jail for 19 members of syndicate that sold babies to Singapore",
-              "url": "https://www.channelnewsasia.com/asia/indonesia-baby-trafficking-ring-trial-bandung-singapore-6221086"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Asian stocks unable to track Wall St higher, yen holds at 40-year low",
-          "neutralSummary": "Asian stocks unable to track Wall St higher, yen holds at 40-year low",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Asian stocks unable to track Wall St higher, yen holds at 40-year low",
-              "url": "https://www.channelnewsasia.com/business/asian-stocks-unable-track-wall-st-higher-yen-holds-40-year-low-6221151"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Commentary: Will US-Iran talks bring about new trade routes for India and China?",
-          "neutralSummary": "For Asia, the US-Iran memorandum of understanding reopens the possibility of new routes, supplies and strategic options, says geoeconomics researcher Hao Nan.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Commentary: Will US-Iran talks bring about new trade routes for India and China?",
-              "url": "https://www.channelnewsasia.com/commentary/us-iran-peace-deal-india-china-southeast-asia-trade-energy-hormuz-6212036"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "South China Morning Post",
-              "initials": "SC",
-              "domain": "news.google.com",
-              "headline": "EU sets China October deadline for ‘tangible results’ after key trade talks",
-              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYWZRWU5wOEZHRU1aSDJ2N2JkclM4R1BRdEJEQW4yUHhqVFdhMlNuN25kdGI5eUxQR1ZWbE5GdkY3bktqdEVWWkJFZlhSbW1vS1duUmV4cGk2WUxlcjY1SUxWc2xBYWtZTl94WEkzUVJkOXgtcG9vM3N0MW1vXzZtUUs3OXBZSTE4QVgwZTd2RUtrekJoVGJ0ckpPdWdRMEdPekRRZDB3U1JzQWFyR19WVkNUQ2lkQlQ4c09jUmFLaUxSa2dCMkplZm5BNlpQVGxYcnU1RNIB1AFBVV95cUxNMG14Y1Q0djlqV2FpVTJudDBhWGEtenZkTDRENkxCdUlVdXN5bFU2cjFCbUsyTG40YWthdThHRk5od3NTYjB1VlpjOEIzcDJCOGhuVjQ3TWhaMDdaNU80dGtwbFE4d1RBYWJiXzJKNE9iQ3dodTg0V2dPZHBIa2UtbnJVN3pxQ1NTUzFxUkFfeUpOMnNQSUxGaXd6VDhVOHFQOWVNUDJINjJadEdSLUNwbk5FYW9mMWJ5R1o2X0pGR3E2dTRzM2loMlc2bTBjYUlSQXF6eQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "Thai family mourn teen girl as Australian charged with murder",
-          "neutralSummary": "Thai family mourn teen girl as Australian charged with murder&nbsp;&nbsp;The Straits TimesThai police investigate if Australian man charged over 17-year-old girl’s murder linked to other unsolved cases&nbsp;&nbsp;The GuardianThai family mourns teen girl found dead in suitcase as Australian arrested&",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Thai family mourn teen girl as Australian charged with murder",
-              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0FZX3hsbGNYVE9vY3EySjhMSUpOaW11TzY2cGZjWGhYTDhqbGVNa2czX2RWaVdrejdPZ3NvSm5xSnBsMTZBd3JpVE1kLThtNUlYRFZfMHdDd2RGc2staGdNWDF1WjZHLVNkamdOekFISFRmRU96azhwQ051SXdEeFVIS04zcVJRRmVYWWxKbzBXc0QwemdMRjdycVo5azNiUlJNdjV3?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Australian man charged with murder after dead girl found in suitcase in Thailand",
-              "url": "https://www.bbc.co.uk/news/articles/cd0my5zy821o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-9",
-          "neutralHeadline": "Man to be charged after shooting, injuring another with air gun",
-          "neutralSummary": "The 37-year-old victim sustained injuries to his ear and forehead.",
+          "neutralHeadline": "Non-emergency 1777 ambulance hotline to cease from Jan 1, 2027",
+          "neutralSummary": "Only 6% of private ambulance bookings received by 24 operators on the hotline are made through 1777.",
           "versions": [
             {
               "political": "center",
@@ -756,8 +658,88 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Man to be charged after shooting, injuring another with air gun",
-              "url": "https://www.straitstimes.com/singapore/man-to-be-charged-after-shooting-another-with-air-gun"
+              "headline": "Non-emergency 1777 ambulance hotline to cease from Jan 1, 2027",
+              "url": "https://www.straitstimes.com/singapore/non-emergency-1777-ambulance-hotline-to-cease-from-jan-1-2027"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "HDB resale prices dip for second straight quarter, private home prices rise at slower pace",
+          "neutralSummary": "Early estimates showed that HDB resale prices fell by 0.3 per cent in the second quarter of 2026.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "HDB resale prices dip for second straight quarter, private home prices rise at slower pace",
+              "url": "https://www.straitstimes.com/singapore/housing/hdb-resale-prices-dip-for-second-straight-quarter"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "PM Anwar’s coalition partners pledge to finish term, despite state polls feud: Selangor chief minister",
+          "neutralSummary": "Amirudin Shari, a senior leader in Prime Minister Anwar Ibrahim's party, also dismissed concerns that upcoming state elections in Johor and Negeri Sembilan will disrupt the current administration.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "PM Anwar’s coalition partners pledge to finish term, despite state polls feud: Selangor chief minister",
+              "url": "https://www.channelnewsasia.com/asia/anwar-coalition-partners-pledge-commitiment-government-despite-state-election-feud-6220486"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "Yen’s Slide Puts Market on Lookout for Japan’s Next Red Line",
+          "neutralSummary": "Yen’s Slide Puts Market on Lookout for Japan’s Next Red Line&nbsp;&nbsp;Bloomberg.comSee more headlines and perspectives on Google News",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "news.google.com",
+              "headline": "Yen’s Slide Puts Market on Lookout for Japan’s Next Red Line",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc0tuU1RBUENFb0VweXJXbGcwN3dCbWZhb2MyNnE4ZHFHa0V4N0FUNlNIMllySktWOVcxMkc2d3ZWdElPeGVhSTZjU0syM2RnN0tIdWlqRk5PTUJZX2xId2JBYUJwZ1RuWFZxWjE2RVppWXo3QU9YQTVFQ085THF4Qld0dmoza0pxWkd4dGtnVkh0NWNpTkF3Vm5TeWhDU0pOdVBGSDZDMzl1Vm1iTVZPdg?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "4 men face 5 charges in total after Singapore’s largest seizure of illegally imported Kpods",
+          "neutralSummary": "The men were allegedly linked to a syndicate that supplied Kpods in Singapore.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "4 men face 5 charges in total after Singapore’s largest seizure of illegally imported Kpods",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/4-men-face-5-charges-in-total-after-singapores-largest-seizure-of-illegally-imported-kpods"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
+          "neutralHeadline": "Nvidia chips case: 4 firms charged over false representation accusations; $56m in assets seized",
+          "neutralSummary": "Three individuals were also charged with various offences.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Nvidia chips case: 4 firms charged over false representation accusations; $56m in assets seized",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/nvidia-chips-case-4-firms-charged-over-false-representation-accusations-56m-in-assets-seized"
             }
           ]
         }
@@ -768,8 +750,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Mumbai rains: 11-year-old dies as tree crushes school van carrying 15 students",
-          "neutralSummary": "The incident took place near Heritage Pride and was reported to the Mumbai Fire Brigade at 2.58 pm. Fire brigade personnel, police, a 108 ambulance and BMC ward staff rushed to the spot and carried out a rescue operation. Officials said all 15 students were travelling in the Universal High School va",
+          "neutralHeadline": "Why US Supreme Court Birthright Citizenship Ruling Is A Relief For Indians",
+          "neutralSummary": "In the late 1800s, birthright citizenship was legally expanded to the children of immigrants.",
           "versions": [
             {
               "political": "left",
@@ -777,33 +759,83 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "11-Year-Old Student Dies, 4 Injured After Tree Falls On Mumbai School Bus",
-              "url": "https://www.ndtv.com/india-news/10-children-injured-1-trapped-after-tree-collapses-on-school-bus-in-mumbai-11707307#publisher=newsstand"
+              "headline": "Why US Supreme Court Birthright Citizenship Ruling Is A Relief For Indians",
+              "url": "https://www.ndtv.com/world-news/why-us-supreme-court-birthright-citizenship-ruling-is-a-relief-for-indians-11710581#publisher=newsstand"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Mumbai rains: 11-year-old dies as tree crushes school van carrying 15 students",
-              "url": "https://timesofindia.indiatimes.com/india/mumbai-rains-falling-tree-crushes-school-van-in-chembur-5-students-hospitalised/articleshow/132091638.cms"
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Why the US Supreme Court struck down Trump’s birthright citizenship order",
+              "url": "https://indianexpress.com/article/explained/explained-global/us-supreme-court-birthright-citizenship-ruling-trump-10765824/"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "U.S. Supreme Court upholds birthright citizenship, rejecting Trump’s proposed limits",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYXdkYUNoZzdSVEw1Yk9EYklUQ1RVWXJ1cWY3ZGRQRHl3VGJuaXlwWnFXTS1CaWpuNnE1aEtwSGxfVi1HUk5ONGppVzdkeERDSmtmYmVyMUNSdVNKREZ0aUJIVWpaZEszWVNHUldSTjhiNHNfNExzVjRNc0Vjbl9Va2NxbFBIRjFQU0RMQ01udU1sNjVUQXhTdk9RMFdiMXMzNGwyeHhJTU9tU2xFV1ZEaUhzVHFqcms5R2RLRFl5eXUwUkZCRzduRzI3QURoV3hTdzA0bG9NT0V6a2tI0gHjAUFVX3lxTE13aHpNU2dsaFZBQUhpMkRUTFVncF9tTnBSRUdoYVFPWjRoSkljQ29tOHZzb3hmdnQ1LUF6U2hxTng0MDdyai04T2JlSmN2bVZYNE1DREpaek1BamVfdVpjWmNQWnQ5bEh6aHItTW04cVVIdGNINTdHTDRtUXRTVjNvZHp5MGt5UTd2dW9GaFBXWllMT3dwcUFTRDYwMWk0dXdHSENEb1lUalB6aEpQOHlOelg4YTFJQ0p4RElKaURIcDAzX1puamdKcWdUVVRDSTZydUpqTXVsY2Y2bEp0VklSeEk4?oc=5"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Big blow to Trump: US Supreme Court junks executive order restricting birthright citizenship",
-          "neutralSummary": "Big blow to Trump: US Supreme Court junks executive order restricting birthright citizenship",
+          "neutralHeadline": "Ketan Agarwal Suspected Fiancee's Affair, Had Asked For Background Check",
+          "neutralSummary": "Ketan had approached his father about Siya picking up fights over small issues.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "US Supreme Court rules against Trump’s attempt to limit birthright citizenship",
-              "url": "https://indianexpress.com/article/world/us-supreme-court-rules-against-trump-birthright-citizenship-10765079/"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Ketan Agarwal Suspected Fiancee's Affair, Had Asked For Background Check",
+              "url": "https://www.ndtv.com/india-news/ketan-agarwal-suspected-fiancee-siya-goyals-affair-with-chetan-chaudhary-had-asked-for-background-check-pune-fort-murder-lohagad-11710585#publisher=newsstand"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Gujarat HC voids registered marriage over absence of Hindu customs",
+          "neutralSummary": "According to the court record, the appellant said he learnt of the alleged marriage only when the respondent approached his parents with a marriage certificate claiming to be his legally wedded wife",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Registration Not Enough In Hindu Marriage, Needs Rituals: Gujarat High Court",
+              "url": "https://www.ndtv.com/india-news/registration-not-enough-in-hindu-marriage-needs-rituals-gujarat-high-court-11710468#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Gujarat HC voids registered marriage over absence of Hindu customs",
+              "url": "https://www.hindustantimes.com/india-news/gujarat-hc-voids-registered-marriage-over-absence-of-hindu-customs-101782876944801.html"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Watch: Weeks before Lohagad murder, Ketan Agarwal danced with Siya's father at pre-wedding function",
+          "neutralSummary": "A pre-wedding video showing Pune realtor Ketan Agarwal joyfully celebrating with his fiancée Siya Goyal and her parents has gone viral, garnering millions of views. The footage captures a stark contrast to the tragic events that followed, where Agarwal was allegedly murdered by Goyal and her alleged",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Video: Month Before Murder, Ketan Agarwal Seen Dancing With Fiancee Siya Goyal's Parents",
+              "url": "https://www.ndtv.com/india-news/pune-fort-murder-video-month-before-murder-ketan-agarwal-seen-dancing-with-fiance-siya-goyals-parents-chetan-chaudhary-11710476#publisher=newsstand"
             },
             {
               "political": "center",
@@ -811,90 +843,49 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Big blow to Trump: US Supreme Court junks executive order restricting birthright citizenship",
-              "url": "https://timesofindia.indiatimes.com/world/us/us-supreme-court-rejects-trumps-order-to-restrict-birthright-citizenship/articleshow/132095506.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "General Dhiraj Seth takes over as 31st Chief of the Army Staff",
-          "neutralSummary": "General Seth’s command assignments include an armoured regiment in the desert sector, an armoured brigade in the Western Theatre, a counter-insurgency force in J&amp;K, and command of the Sudarshan Chakra Corps, one of the Army’s premier strike formations",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "General Dhiraj Seth takes over as 31st Chief of the Army Staff",
-              "url": "https://www.thehindu.com/news/national/gen-dhiraj-seth-takes-charge-as-new-army-chief/article71165178.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "General Dhiraj Seth Takes Charge As New Army Chief",
-              "url": "https://www.ndtv.com/india-news/lt-general-dhiraj-seth-takes-charge-as-new-indian-army-chief-11706747#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Aaditya Thackeray’s close confidante Sachin Ahir switches allegiance to Shinde faction, files nomination for Deputy Chairperson election",
-          "neutralSummary": "Shiv Sena (UBT) leader Ambadas Danve confirmed that MLC Jagannath Abhyankar is the Maha Vikas Aghadi nominee",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Aaditya Thackeray’s close confidante Sachin Ahir switches allegiance to Shinde faction, files nomination for Deputy Chairperson election",
-              "url": "https://www.thehindu.com/news/national/maharashtra/shiv-sena-ubts-sachin-ahir-joins-shinde-faction-files-maharashtra-legislative-council-deputy-chairman-nomination/article71165036.ece"
+              "headline": "Watch: Weeks before Lohagad murder, Ketan Agarwal danced with Siya's father at pre-wedding function",
+              "url": "https://timesofindia.indiatimes.com/city/pune/watch-wedding-function-video-shows-ketan-agarwal-dancing-with-siyas-father-weeks-before-lohagad-murder/articleshow/132106428.cms"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "India to Get Below Normal Rain in July, Risking Crop Outlook",
-          "neutralSummary": "India is likely to receive below-normal rainfall in July, the monsoon’s wettest month, after its driest June in 12 years, threatening to further delay crop planting across large parts of the country.",
+          "neutralHeadline": "CCTV, black bag and a fake 'police' raid: Inside Ayodhya Ram Temple donation theft probe",
+          "neutralSummary": "Ayodhya police interrogated Avinash Shukla, an accused in the Ram temple donation theft case, in district jail. Investigators are probing his alleged role in cash counting and reconciliation, suspecting manipulation of records. CCTV footage showing Shukla being escorted with a bag, purportedly conta",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "India Likely To Get Below-Normal Rainfall In July: Weather Office",
-              "url": "https://www.ndtv.com/india-news/india-likely-to-get-below-normal-rainfall-in-july-weather-office-11708129#publisher=newsstand"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "CCTV, black bag and a fake 'police' raid: Inside Ayodhya Ram Temple donation theft probe",
+              "url": "https://timesofindia.indiatimes.com/city/lucknow/black-bag-on-cctv-police-raid-a-man-in-front-of-the-camera-inside-the-ayodhya-ram-temple-theft-probe/articleshow/132105285.cms"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "India to Get Below Normal Rain in July, Risking Crop Outlook",
-              "url": "https://www.bloomberg.com/news/articles/2026-06-30/indian-farmers-await-early-july-rains-to-catch-up-on-planting"
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Land parcel worth  ₹23 lakh, security agency in focus,  ₹80 lakh recovered: Inside Ram temple donation probe so far",
+              "url": "https://www.hindustantimes.com/india-news/land-parcel-worth-23-lakh-security-agency-in-focus-80-lakh-recovered-inside-ram-temple-donation-probe-so-far-101782873385393.html"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "Amit Shah launches FCRA 2.0 portal and e-OCI card",
-          "neutralSummary": "Shah said that before 2014, the FCRA system “was entangled in files and procedures and was beyond proper oversight”",
+          "neutralHeadline": "'Trapped inside as vehicle swept away': Indian techie in US dies in Kansas flash floods",
+          "neutralSummary": "'Trapped inside as vehicle swept away': Indian techie in US dies in Kansas flash floods",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Amit Shah launches FCRA 2.0 portal: Monitoring foreign donations in real time gets a boost",
-              "url": "https://indianexpress.com/article/india/amit-shah-launches-fcra-2-portal-e-oci-card-10765069/"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Trapped inside as vehicle swept away': Indian techie in US dies in Kansas flash floods",
+              "url": "https://timesofindia.indiatimes.com/nri/us-canada-news/trapped-inside-as-vehicle-swept-away-indian-techie-in-us-dies-in-kansas-flash-floods/articleshow/132106166.cms"
             },
             {
               "political": "center",
@@ -902,15 +893,15 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Amit Shah launches FCRA 2.0 portal and e-OCI card",
-              "url": "https://www.hindustantimes.com/india-news/amit-shah-launches-fcra-2-0-portal-and-e-oci-card-101782829049351.html"
+              "headline": "Indian techie dies after car gets swept away in flash floods in Kansas, US",
+              "url": "https://www.hindustantimes.com/india-news/indian-techie-venkatesh-doppalapudi-dies-after-car-gets-swept-away-in-kansas-flash-floods-101782881047739.html"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Dry heat from Pakistan, humid air from Arabian Sea: Why Delhi feels like 53°C",
-          "neutralSummary": "While actual temperatures across the city stayed around 40–41°C at major stations, conditions felt significantly harsher due to a mix of hot and humid air.",
+          "neutralHeadline": "Raja Raghuvanshi's family to approach Supreme Court after bail to Sonam upheld",
+          "neutralSummary": "The Meghalaya High Court decided to grant the accused, Sonam Raghuvanshi, bail due to grave police errors in informing her about the grounds of her arrest",
           "versions": [
             {
               "political": "center",
@@ -918,15 +909,24 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Dry heat from Pakistan, humid air from Arabian Sea: Why Delhi feels like 53°C",
-              "url": "https://www.hindustantimes.com/india-news/dry-heat-from-pakistan-humid-air-from-arabian-sea-why-delhi-feels-like-53c-101782826251614.html"
+              "headline": "Raja Raghuvanshi's family to approach Supreme Court after bail to Sonam upheld",
+              "url": "https://www.hindustantimes.com/india-news/raja-raghuvanshis-family-to-approach-supreme-court-after-bail-to-sonam-upheld-101782881934370.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "OpIndia",
+              "initials": "OPI",
+              "domain": "opindia.com",
+              "headline": "Meghalaya HC upholds Sonam Raghuvanshi’s bail in honeymoon murder case: Why the court allowed the prime accused to walk out of jail",
+              "url": "https://www.opindia.com/2026/06/meghalaya-hc-upholds-sonam-raghuvanshi-bail-in-honeymoon-murder-case-why-court-allowed-prime-accused-walk-out-of-jail/"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Underperformance sets stage for recovery: JM Fin",
-          "neutralSummary": "Underperformance sets stage for recovery: JM Fin",
+          "neutralHeadline": "Afghan air force strikes ISIS targets in Pakistan",
+          "neutralSummary": "Afghan air force strikes ISIS targets in Pakistan",
           "versions": [
             {
               "political": "center",
@@ -934,33 +934,33 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Underperformance sets stage for recovery: JM Fin",
-              "url": "https://economictimes.indiatimes.com/markets/expert-view/indias-underperformance-sets-stage-for-recovery-says-jm-financials-deepak-gupta/articleshow/132094438.cms"
+              "headline": "Afghan air force strikes ISIS targets in Pakistan",
+              "url": "https://economictimes.indiatimes.com/news/defence/afghan-air-force-strikes-isis-targets-inside-pakistan-warns-well-target-every-threat/articleshow/132104818.cms"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Comcast’s NBC Spinoff Sets Stage for More Media, Broadband Deals",
-              "url": "https://www.bloomberg.com/news/videos/2026-06-30/comcast-s-nbc-spinoff-sets-stage-for-more-media-deals-video"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "Days after Pakistan's airstrikes, Afghanistan launches strikes on ISIS targets in Balochistan",
+              "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbEdMZGZjOTNVYktvMVVTNmx4WkxrUURSWE1VLW9SeEdVczYxdncwRC1iWXJmelhGVjlBbGVkWDEwbjQ3X3lXTUFOckFRMHM2Z2EwMVZnOHpGLXRVSFNCYTZUd2YzRWRYU0J6NHdLVkRpNllNVVRoMEwxVFZCUHRYSkNSVVk5MUZmYlMxX1JoVzFtdmNFcDRUbFFMNjB4QzBRd19ydkdGQkNMYmw2akZWZG9Val90a0F4WUtBSXpEdFR4YjYwWGk2RllsZW1zNEx4b095bUIxak1XdFF0UlhYTFNqbWlndHdMME1qVUdPbUtQQkZQVEU0OWhTLXo?oc=5"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "The Eastern UP Belt That Marks The Limit Of BJP's Dominance",
-          "neutralSummary": "The Eastern UP Belt That Marks The Limit Of BJP's Dominance",
+          "neutralHeadline": "Kerala to revamp State lotteries, revise prize structure and agents’ commission",
+          "neutralSummary": "Satheesan’s response cam after Congress MLA Saneeshkumar Joseph called his attention to challenges faced by lottery sector due to alleged decline in lottery ticket sales",
           "versions": [
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Swarajya",
-              "initials": "SWR",
-              "domain": "swarajyamag.com",
-              "headline": "The Eastern UP Belt That Marks The Limit Of BJP's Dominance",
-              "url": "https://swarajyamag.com/newsletters/the-eastern-up-belt-that-marks-the-limit-of-bjps-dominance-3"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Kerala to revamp State lotteries, revise prize structure and agents’ commission",
+              "url": "https://www.thehindu.com/news/national/kerala/kerala-to-revamp-state-lotteries-revise-prize-structure-and-agents-commission/article71168954.ece"
             }
           ]
         }
