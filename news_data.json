@@ -1,56 +1,74 @@
 {
-  "generatedAt": "2026-07-06T06:17:55.864698+00:00",
+  "generatedAt": "2026-07-06T16:24:39.009000+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "World Cup: Erling Haaland leads the way as Norway knock out Brazil",
-          "neutralSummary": "Norway beat Brazil 2–1 in the World Cup round of 16. Erling Haaland scored twice (79’, 90’) and is now level with Messi and Mbappé in the goalscoring charts (7).",
+          "neutralHeadline": "Belgium Fumes After FIFA Clears Balogun Following Trump Call",
+          "neutralSummary": "FIFA's decision to overturn US striker Folarin Balogun's World Cup suspension &mdash; after an intervention from Donald Trump &mdash; has caused fury in Belgium. Max Ramsay explains why the reversal is overshadowing their crucial match against Team USA. (Source: Bloomberg)",
           "versions": [
             {
               "political": "left",
-              "tone": "optimistic",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Trump confirms he asked Fifa to review Balogun ban",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Haaland inspired Norway stun Brazil in historic World Cup knockout win",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/haaland-inspired-norway-stun-brazil-in-historic-world-cup-knockout-win?traffic_source=rss"
+              "headline": "US president Trump defends FIFA’s Balogun red card reversal",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/us-president-trump-defends-fifas-balogun-red-card-reversal?traffic_source=rss"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "World Cup: Erling Haaland leads the way as Norway knock out Brazil",
-              "url": "https://www.france24.com/en/tv-shows/sports/20260706-world-cup-erling-haaland-leads-the-way-as-norway-knock-out-brazil"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Belgium Fumes After FIFA Clears Balogun Following Trump Call",
+              "url": "https://www.bloomberg.com/news/videos/2026-07-06/belgium-fumes-after-fifa-clears-balogun-video"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Trump says he asked FIFA for review of Folarin Balogun red card: ‘I didn’t think it was a foul’",
+              "url": "https://nypost.com/2026/07/06/sports/trump-says-he-asked-fifa-for-review-of-folarin-balogun-red-card/"
             }
           ]
         },
         {
           "id": "global-2",
-          "neutralHeadline": "Mexico’s World Cup run ends in heartbreaking loss to England",
-          "neutralSummary": "Mexico’s World Cup run ends in heartbreaking loss to England&nbsp;&nbsp;Los Angeles TimesEngland dash Mexico hopes in World Cup thriller at Azteca&nbsp;&nbsp;ESPNThomas Tuchel salutes ‘heroic’ England players and says it feels like winning a final&nbsp;&nbsp;The GuardianHow England coach Thomas Tuch",
+          "neutralHeadline": "Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei",
+          "neutralSummary": "Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei&nbsp;&nbsp;AP NewsLive updates: Iran war, Ali Khamenei funeral underway, largest crowds yet expected&nbsp;&nbsp;CNNAs Khamenei mourners fill Iran's streets, discontent still simmers&nbsp;&nbsp;ReutersMassiv",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Los Angeles Times",
-              "initials": "LA",
-              "domain": "news.google.com",
-              "headline": "Mexico’s World Cup run ends in heartbreaking loss to England",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXR0djB6N3FINk9ZS1hNSWJOQUJ5dVc1d2NQdG5DbWFEajZNQkhBTERVWFVFSmViUHM4QW1VTWJXRE82U0lEVVpNem5KWG54eVJxekVPeFlFRURCYmYtNTB2YjFYY0dBNzhUV2ltd3hocE9YaHVPM3pYTU1LTktJNzg1djhXZzJITlF1UVBqclVEdDNrQWdDM09LaDU5MTRNV2dpRTFuaE5NV2xv?oc=5"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Iran's Top Officials Attend Prayer For The Late Supreme Leader In Tehran",
+              "url": "https://www.huffpost.com/entry/iran-us-khamenei-funeral_n_6a49d416e4b001e08fc6881b"
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "SportsLine",
-              "initials": "S",
+              "tone": "pessimistic",
+              "source": "AP",
+              "initials": "AP",
               "domain": "news.google.com",
-              "headline": "England vs. Mexico odds, lines, predictions: 2026 World Cup Round of 16 picks from proven soccer expert",
-              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdmc3akp4NHZVYzYxaFoxQ09KXzhvQXNNT21hc3NhQmNBbHByUENuME1pNUktMGwxazdDMU9xR3dySXBRdDF5TVg0MFRRR1hHVTd6WU41VW4ySUNfc3NWYUhfV2JSbHhGR0doTEVEZF9FWEdRV3Bab2dPRDRYelQ1YjBaMUlIc3NSQ3AwR0lpWmVDNXVMVWNrSTVmSG1PSjhMNmdNRVUtcTlUdnAweEYtQmJmekFJSUNpd1VHeDNjWW1weDdscmo1bDFaS3pVN2lOa3c?oc=5"
+              "headline": "Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlo0bjVlblZDZXpkNk16SnJBalNCaTlzcjB3U3JfbWQzRnJFamVsVkJTazBONFBJVU5kVnNKc05YQ0JvT3VMWU82OGZ1VmFNMGdla2dxclhDTXdhUTY5WHpOVFBjMUdCR2VDa25aRlo1TUVfX0w3TUFLSnVzdkcwUmRFOXlxcTVCbHF4MTFTMTFZS1RRR1ZKTEk5c180cS1VYXlDalc2TDlYbHhQdDN2R1pIUVk0dw?oc=5"
             },
             {
               "political": "center",
@@ -58,24 +76,24 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "World Cup 2026: Ten-man England battle past co-hosts Mexico in Azteca thriller",
-              "url": "https://www.france24.com/en/sport/20260706-world-cup-2026-ten-man-england-battle-past-co-hosts-mexico-in-azteca-thriller"
+              "headline": "'His resilience, his words, his character': Mourners grieve late supreme leader Khamenei",
+              "url": "https://www.france24.com/en/asia-pacific/20260706-his-resilience-his-words-his-character-mourners-grieve-late-supreme-leader-khamenei"
             }
           ]
         },
         {
           "id": "global-3",
-          "neutralHeadline": "Iran's Slain Leader Khamenei Laid In State In Tehran For Week Of Mass Funeral Events",
-          "neutralSummary": "Ayatollah Ali Khamenei was killed by U.S. and Israeli strikes in their first attack of the war.",
+          "neutralHeadline": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+          "neutralSummary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Iran's Slain Leader Khamenei Laid In State In Tehran For Week Of Mass Funeral Events",
-              "url": "https://www.huffpost.com/entry/ayatollah-ali-khamenei-funeral-preparations_n_6a475683e4b03060a850244b"
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+              "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -83,8 +101,42 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Iran begins week of funeral celebrations for Khamenei",
-              "url": "https://www.npr.org/2026/07/04/nx-s1-5877738/iran-begins-week-of-funeral-celebrations-for-khamenei"
+              "headline": "Super Typhoon Bavi brings destruction to Guam and surrounding Pacific islands",
+              "url": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Super typhoon smashes American islands in the Pacific with terrifying winds causing catastrophic damage",
+              "url": "https://nypost.com/2026/07/06/us-news/super-typhoon-smashes-american-islands-in-the-pacific-with-terrifying-winds-causing-catastrophic-damage/"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Russian missile and drone attack on Ukraine's capital kills at least 12",
+          "neutralSummary": "Russia launched waves of missiles and drones at Kyiv early Monday, killing at least 12 people in an attack that exposed widening gaps in Ukraine's air defenses, authorities said.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Russian missile and drone attack on Ukraine's capital kills at least 12",
+              "url": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-12"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Deadly Russian strikes hit Ukraine’s capital ahead of key NATO meeting",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGxOUlRqVHFrTkl0U0IzR1kwRjlHN1VHa2ZKNkdTZEhGaVh3RTIyaHJNalBLX3A0Y3VaeEp3aUgxdklXQXQwRnU5eUdHZWJ0OHNXd3FoUXpGVFU5SVJQMlJ5czdVZHkzdEU1eGIzSFBjX1p3aEE1SkJybFVTYl91bUNPTzVxQWFpQ3hYUnJuaHJacXUtMzhLWjI0dkk3dWs0MUVNU0pvZTFWTmYzVE1qZXRaOVZ3R3VV?oc=5"
             },
             {
               "political": "left",
@@ -92,13 +144,13 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Iran war live: Khamenei’s funeral procession under way in Tehran",
-              "url": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss"
+              "headline": "Israeli attack on vehicle in Lebanon kills at least four",
+              "url": "https://www.aljazeera.com/news/2026/7/6/israeli-attack-on-vehicle-in-lebanon-kills-at-least-four?traffic_source=rss"
             }
           ]
         },
         {
-          "id": "global-4",
+          "id": "global-5",
           "neutralHeadline": "How the 1986 Mexico World Cup was almost cancelled after a devastating earthquake",
           "neutralSummary": "Guardian reports after the disaster told of 5,000 deaths, much of the capital being razed, and doubts about Mexico hosting the finalsMexico last hosted the World Cup in 1986, but the competition was almost cancelled several months before the start when an earthquake struck the capital, Mexico City,",
           "versions": [
@@ -123,9 +175,34 @@
           ]
         },
         {
-          "id": "global-5",
-          "neutralHeadline": "NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing",
-          "neutralSummary": "NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing&nbsp;&nbsp;PBSOpinion | The Art of Summitry&nbsp;&nbsp;The New York TimesTrump set to put NATO unity to the test at Turkey summit&nbsp;&nbsp;DW.comWhy the Indo-Pacific might be on the back burner at the Nato",
+          "id": "global-6",
+          "neutralHeadline": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
+          "neutralSummary": "Alberta and Ontario proposed a crude oil pipeline and energy corridor across Canada as a way of reducing the country’s dependence on the US.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "New pipeline in Canada to proceed after C$150bn pledged to ease BC and First Nations concerns",
+              "url": "https://www.theguardian.com/world/2026/jul/03/canada-alberta-pipeline"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Ontario, Alberta Pitch Cross-Canada Oil Pipeline to Ease US Reliance",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-06/ontario-alberta-pitch-cross-canada-oil-pipeline-to-ease-us-reliance"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
+          "neutralHeadline": "NATO Chief Faces Challenge At Summit As Trump Demands 'Loyalty' And Not Just Burden-Sharing",
+          "neutralSummary": "Since he started work as NATO secretary-general almost two years ago, Mark Rutte has spent much of his time trying to keep the U.S. anchored to the world’s biggest military alliance.",
           "versions": [
             {
               "political": "left",
@@ -137,43 +214,18 @@
               "url": "https://www.huffpost.com/entry/ap-eu-nato-summit-rutte-trump_n_6a4a4ea3e4b03060a850d285"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "PBS",
-              "initials": "P",
+              "source": "New York Times",
+              "initials": "NYT",
               "domain": "news.google.com",
-              "headline": "NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing",
-              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcE5rNmNwYU9vUXJLYzhuY0tFc0VBRkxmcF9XUHg3VnoxZ3RkOWwxNFdHbjVlM0Mwcng0aEkyODVRNXZINDh6Rnc3am1waHgtbGlzSWhZeDNIbFJvVzVrTUwwa3UtV0o2VnBVRmlhUHBOMVBMa2NacEdVOG9iM0hDTkdobXNiZGdTTVVEd2FRVm9NNTVMSGIwcjEwUTlRQnRKQTBlcmRFNTcxV2tKUmJHV1Y1Mi11MnV2eHZNWWwtYkJLd9IBxwFBVV95cUxPVEFtUEtqT1ZMeDd5RXg2eEROU2lBVlBnWmUwWmd6UnZkcWdYcE1mRTdyWFduSzBuQUlnRHJOc09TS0VkQlFObDdia1dkbUZTMmpRMl9OTWxva1BzU1lpekNmYmxfNm9YMU0wcFFSbm9KSGhVU0J4eHI4R2RuVGpkWDdFY2hUMW1MaVpGellLZ0tfWDd1LTA1SWVDYTZ2cHAxUTBxbEVJM3FmdnlCWFJtNnRVLTB6ZnBfcWg1Q2lLeHdWdXkzbGhR?oc=5"
+              "headline": "As Trump Cools on NATO, Turkey Hosts Summit Meeting",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2JrNGRKWmx4YlAzekxOcUdKVUljb0VnREo4a1FEcFQtQWpFWGZzdEVieXhNMWRyT1FJZVk5dC1EcjZqYjJ0dEloNE1qaGVwNFNfQTRMMF9NNVFqMVAwdnJPQ0MzbkJHdDZodElfNllpNVpTLXMyVHBFRE82emFKUEdDMGRGamxwaGJKTEZ0amtOM0k?oc=5"
             }
           ]
         },
         {
-          "id": "global-6",
-          "neutralHeadline": "Pope Visits U.S. Ambassador On July 4 After Prayers At Lampedusa Cemetery For Migrant Victims",
-          "neutralSummary": "Pope Leo XIV is spending the Fourth of July in the epicenter of Europe’s migration debate.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Pope Visits U.S. Ambassador On July 4 After Prayers At Lampedusa Cemetery For Migrant Victims",
-              "url": "https://www.huffpost.com/entry/pope-leo-july-4th-vatican-migration_n_6a490e96e4b001e08fc66454"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Pope Leo visits Lampedusa to spotlight missing migrants",
-              "url": "https://www.npr.org/2026/07/04/nx-s1-5879160/pope-leo-visits-lampedusa-to-spotlight-missing-migrants"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
+          "id": "global-8",
           "neutralHeadline": "Interpol Names Suspect In Monaco Bombing That Reportedly Targeted Russia-Linked Ukrainian Tycoon",
           "neutralSummary": "Authorities haven't identified any of the three people wounded in the explosion but said they are a family and that they appear to have been specifically targeted.",
           "versions": [
@@ -198,52 +250,27 @@
           ]
         },
         {
-          "id": "global-8",
-          "neutralHeadline": "Venezuelan Man Rescued From Collapsed Shopping Mall — 8 Days After Earthquakes",
-          "neutralSummary": "Hernán Alberto Gil Flores was being passed water and liquid nutrients to keep him alive.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Venezuelan Man Rescued From Collapsed Shopping Mall — 8 Days After Earthquakes",
-              "url": "https://www.huffpost.com/entry/venezuela-earthquake-rescue-shopping-mall_n_6a468ddce4b001e08fc38e77"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Security guard survives eight days beneath collapsed shopping center after Venezuela earthquakes",
-              "url": "https://www.foxnews.com/world/security-guard-survives-eight-days-beneath-collapsed-shopping-center-venezuela-earthquakes"
-            }
-          ]
-        },
-        {
           "id": "global-9",
-          "neutralHeadline": "Live: Russian missile attack on Kyiv region kills at least ten",
-          "neutralSummary": "Russia struck Ukraine's Kyiv region with ballistic missiles on Monday, killing at least ten people and wounding dozens, authorities said, on the eve of a NATO summit in Turkey. The assault was the second on the capital and its surroundings in less than a week and came as both sides increased long-ra",
+          "neutralHeadline": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+          "neutralSummary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "At least 10 killed in second Russian strikes on Kyiv in a week",
-              "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
+              "headline": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+              "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Live: Russian missile attack on Kyiv region kills at least ten",
-              "url": "https://www.france24.com/en/europe/20260706-live-russia-launches-deadly-barrage-on-kyiv-region-on-eve-of-nato-summit"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Huge crowds of mourners join a funeral procession for Iran's Ayatollah Ali Khamenei",
+              "url": "https://www.npr.org/2026/07/06/nx-s1-5877741/ayatollahs-funeral-procession-begins-in-iran"
             }
           ]
         }
@@ -254,26 +281,35 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "McMorrow suspends campaign for Michigan Senate seat",
-          "neutralSummary": "Michigan Senate candidate Mallory McMorrow (D) suspended her campaign on Sunday, amid low polling numbers in the race. “Today, I’m announcing that I am suspending my campaign for United States Senate. And I’m doing it with a deep, deep sense of gratitude,” McMorrow said in a video she posted to soci",
+          "neutralHeadline": "Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei",
+          "neutralSummary": "Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei&nbsp;&nbsp;AP NewsIran Names Khamenei’s Funeral a ‘National Heritage’ Event&nbsp;&nbsp;IranWireMassive crowd chants ‘Death to America’ as Khamenei’s casket winds through Tehran&nbsp;&nbsp;The Washington Pos",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Mallory McMorrow Suspends Senate Bid in Democrats’ Heated Michigan Primary",
-              "url": "https://www.nytimes.com/2026/07/05/us/politics/mcmorrow-senate-suspend-campaign-democrats-michigan.html"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "FIFA Lifts Balogun's Red Card Suspension, Crowds Join Funeral Procession For Khamenei In Iran: Live Updates",
+              "url": "https://www.huffpost.com/entry/latest-news-live-updates_n_6a4b6bc0e4b05c9d0338a117"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Huge crowds of mourners join a funeral procession for Iran's Ayatollah Ali Khamenei",
+              "url": "https://www.npr.org/2026/07/06/nx-s1-5877741/ayatollahs-funeral-procession-begins-in-iran"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "AP",
+              "initials": "AP",
               "domain": "news.google.com",
-              "headline": "Mallory McMorrow drops out of Democratic primary for Michigan Senate seat",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZUVRVXEtNW0wLUxPM3pHdnZnbDNzMWk2dXpHY01uc1lwVFZjdEdmLTVkVlpzamJISmpoal9tdzZKZ2wtaTFiUndNSDlra29OQW1RamVNVjNmNDRYaHdHbkhNX0tSWkVmbUNNSTlxRDc3ck5obGhnQ1k0YWktUktRLVF5WnNhNDNtRC1MaXE2d3poQ0RVVzVNdUx0cnBOejNWOU85eU1NaWJvSjZwNThTUmxKLVNKMFRnaHc?oc=5"
+              "headline": "Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlo0bjVlblZDZXpkNk16SnJBalNCaTlzcjB3U3JfbWQzRnJFamVsVkJTazBONFBJVU5kVnNKc05YQ0JvT3VMWU82OGZ1VmFNMGdla2dxclhDTXdhUTY5WHpOVFBjMUdCR2VDa25aRlo1TUVfX0w3TUFLSnVzdkcwUmRFOXlxcTVCbHF4MTFTMTFZS1RRR1ZKTEk5c180cS1VYXlDalc2TDlYbHhQdDN2R1pIUVk0dw?oc=5"
             },
             {
               "political": "center",
@@ -281,69 +317,42 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "McMorrow suspends campaign for Michigan Senate seat",
-              "url": "https://thehill.com/homenews/campaign/5954188-mcmorrow-drops-out-senate-race/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Michigan Democrat Mallory McMorrow drops out of Senate race weeks before primary",
-              "url": "https://www.foxnews.com/politics/michigan-democrat-mallory-mcmorrow-drops-out-senate-race-weeks-before-primary"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Michigan Rep. Mallory McMorrow, who trashed rural Americans, suspends Senate bid after polling collapse",
-              "url": "https://nypost.com/2026/07/05/us-news/mallory-mcmorrow-suspends-michigan-senate-bid-after-polling-collapse/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Democrat Mallory McMorrow exits Michigan Senate race, vows to back nominee",
-              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4636582/mallory-mcmorrow-suspend-michigan-senate-campaign/"
+              "headline": "Live updates: ‘I didn’t tell him what to do,’ Trump explains about call to FIFA chief over Folarin Balogun red card",
+              "url": "https://thehill.com/homenews/administration/5954481-trump-inquiry-fifa-penalty-balogun/"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "Trump's July 4 Speech A MAGA-Tinged Tour Through America's History",
-          "neutralSummary": "In mid-June, Trump announced the event on the National Mall would be the “most spectacular TRUMP RALLY of them all.”",
+          "neutralHeadline": "Trump says he spurred FIFA review into Balogun red card",
+          "neutralSummary": "President Trump said on Monday his call to FIFA President Gianni Infantino spurred the soccer organization’s review into U.S. striker Folarin Balogun’s red card, which led to the overturning of the decision. &#8220;When they take your best player, or just about, they have some great players, and the",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump's July 4 Speech A MAGA-Tinged Tour Through America's History",
-              "url": "https://www.huffpost.com/entry/donald-trump-july-4-speech_n_6a467609e4b03060a84c35e0"
-            },
-            {
-              "political": "left",
-              "tone": "optimistic",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "In Fourth of July Speech, Trump Celebrates America and Derides Foes",
-              "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html"
+              "headline": "Trump Asked FIFA to Review U.S. Player’s Suspension. Now He’s Eligible to Play.",
+              "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-fifa-balogun-world-cup.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump says he spurred FIFA review into Balogun red card",
+              "url": "https://thehill.com/homenews/administration/5955155-trump-confirms-push-fifa-review-balogun/"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump set to deliver 'historic' speech celebrating America's 250th anniversary",
-              "url": "https://www.foxnews.com/politics/trump-deliver-historic-speech-celebrating-americas-250th-anniversary"
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Trump says he asked FIFA for review of Folarin Balogun red card: ‘I didn’t think it was a foul’",
+              "url": "https://nypost.com/2026/07/06/sports/trump-says-he-asked-fifa-for-review-of-folarin-balogun-red-card/"
             },
             {
               "political": "right",
@@ -351,49 +360,101 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Trump Goes All In On America In 250th Birthday Speech: ‘Our Destiny Is Written By God!’",
-              "url": "https://www.dailywire.com/news/trump-goes-all-in-on-america-in-250th-birthday-speech-our-destiny-is-written-by-god"
+              "headline": "Trump Describes His Call With FIFA President Before Last-Minute Decision On U.S. Suspension",
+              "url": "https://www.dailywire.com/news/trump-describes-his-call-with-fifa-president-before-last-minute-decision-on-u-s-suspension"
             }
           ]
         },
         {
           "id": "us-3",
-          "neutralHeadline": "The solution to America’s 250th birthday mess? Party like it’s 1976.",
-          "neutralSummary": "America’s 250th anniversary has arrived, and, at a national level, the narrative is set: Presdient Donald Trump has made the semi-quincentennial into his personal party.&#160; The White House has rolled out a series of headline-grabbing events, from a UFC fight on the South Lawn to a failed concert",
+          "neutralHeadline": "As Trump Cools on NATO, Turkey Hosts Summit Meeting",
+          "neutralSummary": "As Trump Cools on NATO, Turkey Hosts Summit Meeting&nbsp;&nbsp;The New York TimesIs NATO at breaking point as it meets in Turkiye?&nbsp;&nbsp;Al JazeeraTurkey Hosts NATO Summit While Cracking Down on Critics&nbsp;&nbsp;The New York TimesNATO Ankara summit: who's going and what to expect&nbsp;&nbsp;R",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "The solution to America’s 250th birthday mess? Party like it’s 1976.",
-              "url": "https://www.vox.com/podcasts/493891/america-250th-birthday-celebration-trump-1976-grassroots-history"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "news.google.com",
+              "headline": "As Trump Cools on NATO, Turkey Hosts Summit Meeting",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2JrNGRKWmx4YlAzekxOcUdKVUljb0VnREo4a1FEcFQtQWpFWGZzdEVieXhNMWRyT1FJZVk5dC1EcjZqYjJ0dEloNE1qaGVwNFNfQTRMMF9NNVFqMVAwdnJPQ0MzbkJHdDZodElfNllpNVpTLXMyVHBFRE82emFKUEdDMGRGamxwaGJKTEZ0amtOM0k?oc=5"
             },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "news.google.com",
+              "headline": "Turkey intensifies crackdown on public life in run-up to Nato summit in Ankara",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUW9iNkVtMUxha21VZmotanAxTzBodVIzRUhCaTZzcEJ0YXJ4SHBhdFZ5NWhOdFdYV0lBbjd1ZWtoVXpEODFVSmdPTlpRRkNlRG5keW9HbC02NUIyeTExa1FJYXB6ZmRPTkpLSEY1dWQtZmVMb3AxZUowMVhMLUJLTmdOQm10Y19GS2tDSWxJaFE3QTE4T3IwcE5iV0FMZ3FJalE?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump bets on former NATO troublemaker as Turkey's strategic value surges",
+              "url": "https://www.foxnews.com/politics/trump-bets-former-nato-troublemaker-turkeys-strategic-value-surges"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Netanyahu pleads with Trump not to give Turkey F-35s ahead of Ankara NATO summit",
+              "url": "https://nypost.com/2026/07/06/us-news/netanyahu-pleads-with-trump-not-to-give-turkey-f-35s-ahead-of-ankara-nato-summit/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Prosecutors to detail case against alleged Charlie Kirk assassin",
+          "neutralSummary": "Prosecutors in Utah this week will reveal some evidence against Tyler Robinson, the man they accuse of killing conservative activist Charlie Kirk last September. Robinson will appear in court for a five-day preliminary hearing, during which prosecutors will attempt to convince state District Judge T",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "America Marks Its 250th Birthday With Storms, Sweat and Fire",
-              "url": "https://www.nytimes.com/2026/07/05/us/america-250-celebrations.html"
+              "headline": "Key Moments in the Case of Charlie Kirk’s Assassination",
+              "url": "https://www.nytimes.com/2026/07/06/us/charlie-kirk-shooting-trial-timeline.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Prosecutors to detail case against alleged Charlie Kirk assassin",
+              "url": "https://thehill.com/regulation/court-battles/5954907-charlie-kirk-tyler-robinson-hearings/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Erika Kirk And Charlie Kirk’s Parents Say Assassination Hearing Is ‘Painful Reminder Of His Death’",
+              "url": "https://www.dailywire.com/news/erika-kirk-and-charlie-kirks-parents-say-assassination-hearing-is-painful-reminder-of-his-death"
             }
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "Folarin Balogun's ban is lifted by FIFA, allowing U.S. striker to play Belgium",
-          "neutralSummary": "In an unusual move, FIFA's Disciplinary Committee announced that it would delay Folarin Balogun's one-game red card ban. It came after President Trump spoke to FIFA President Gianni Infantino.",
+          "id": "us-5",
+          "neutralHeadline": "A win-win plan to de-politicize the Supreme Court",
+          "neutralSummary": "The Supreme Court is on the verge of becoming a political football. Congress can prevent it — if both sides can trade what they want for what they need.",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Folarin Balogun's ban is lifted by FIFA, allowing U.S. striker to play Belgium",
-              "url": "https://www.npr.org/2026/07/05/g-s1-132061/folarin-balogun-soccer-reinstated-ban-suspended-fifa-belgium"
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "A win-win plan to de-politicize the Supreme Court",
+              "url": "https://thehill.com/opinion/judiciary/supreme-court/5950290-court-expansion-threat-stability/"
             },
             {
               "political": "right",
@@ -401,15 +462,24 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Trump called FIFA president to reverse Folarin Balogun’s one-game ban",
-              "url": "https://www.washingtonexaminer.com/sports/4636612/trump-called-fifa-president-folarin-balogun-ban-report/"
+              "headline": "The 14th Amendment’s author wouldn’t accept the Supreme Court’s interpretation",
+              "url": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4637039/14th-amendment-author-would-not-accept-supreme-court-interpretation/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "The Supreme Court Term That Handed Originalists One Of Their Best Years Yet",
+              "url": "https://www.dailywire.com/news/the-supreme-court-term-that-handed-originalists-one-of-their-best-years-yet"
             }
           ]
         },
         {
-          "id": "us-5",
-          "neutralHeadline": "Trump Kicks Off The Fourth Of July By Slinging His New Favorite Insult",
-          "neutralSummary": "The president had a burning question on the morning of Independence Day.",
+          "id": "us-6",
+          "neutralHeadline": "Trump Floods Truth Social With Over 100 Posts Before Addressing Fourth Of July Chaos",
+          "neutralSummary": "His flurry of posts covered just about everything except his rocky \"Salute to America 250\" party.",
           "versions": [
             {
               "political": "left",
@@ -417,8 +487,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Trump Kicks Off The Fourth Of July By Slinging His New Favorite Insult",
-              "url": "https://www.huffpost.com/entry/donald-trump-4th-of-july-post_n_6a495e84e4b001e08fc674a3"
+              "headline": "Trump Floods Truth Social With Over 100 Posts Before Addressing Fourth Of July Chaos",
+              "url": "https://www.huffpost.com/entry/trump-truth-social-posting-spree-fourth-july_n_6a4aaf02e4b0179c4194efa9"
             },
             {
               "political": "left",
@@ -432,18 +502,43 @@
           ]
         },
         {
-          "id": "us-6",
-          "neutralHeadline": "Trump Pardons Former Abramoff Partner, 9 People Convicted Of Violating Vehicle Emissions Controls",
-          "neutralSummary": "The acts of clemency come as Trump has issued a slew of pardons in his second term, particularly for allies, public figures and those seen as politically aligned.",
+          "id": "us-7",
+          "neutralHeadline": "Prosecutors argue the man accused of killing Charlie Kirk should stand trial",
+          "neutralSummary": "Prosecutors argue the man accused of killing Charlie Kirk should stand trial&nbsp;&nbsp;AP NewsAccused Charlie Kirk assassin Tyler Robinson fights back as prosecutors' sprawling case comes into focus&nbsp;&nbsp;Fox NewsCharlie Kirk’s accused killer Tyler Robinson appears in court for multiday hearin",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Pardons Former Abramoff Partner, 9 People Convicted Of Violating Vehicle Emissions Controls",
-              "url": "https://www.huffpost.com/entry/trump-pardons-former-abramoff-partner-9-people-convicted-of-violating-vehicle-emissions-controls_n_6a487e5ee4b03060a8508446"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Who Was Charlie Kirk?",
+              "url": "https://www.nytimes.com/2026/07/06/us/who-was-charlie-kirk.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Prosecutors argue the man accused of killing Charlie Kirk should stand trial",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMUdzYk15YnVJLXl6Y0JOYlJpSGpuaHhyVW5tLUppUDZYaVljd3lxaXo5TkpJYnJuTjREZDNGWWU5c0xrX1A0VElwdk90MWd3Z0l0TzhtZTM2YlpueEJUeXdjbTBuVjBGR0g5V0FDODVXMFlmY3JzS0QycEk4RG56RHhsd05CNlgtZE04QzZ0OUE0WmU3VmIyaXVfUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Mallory McMorrow Suspends Senate Bid in Democrats’ Heated Michigan Primary",
+          "neutralSummary": "The state senator sought to carve a middle path between a left-wing candidate and one backed by the party establishment, but she gained little traction.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Mallory McMorrow Suspends Senate Bid in Democrats’ Heated Michigan Primary",
+              "url": "https://www.nytimes.com/2026/07/05/us/politics/mcmorrow-senate-suspend-campaign-democrats-michigan.html"
             },
             {
               "political": "right",
@@ -451,83 +546,33 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Trump pardons 9 people convicted of tampering with emission controls on diesel engines",
-              "url": "https://www.foxnews.com/politics/trump-pardons-9-people-convicted-tampering-emission-controls-diesel-engines"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Karoline Leavitt Attacks Gen Z In Spiteful Rant",
-          "neutralSummary": "The White House press secretary turned on her own generation in an appearance on Fox News.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Karoline Leavitt Attacks Gen Z In Spiteful Rant",
-              "url": "https://www.huffpost.com/entry/karoline-leavitt-slams-gen-z-laziness_n_6a480678e4b07748e75d0a69"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Karoline Leavitt has a theory on why her generation is going ‘communist’",
-              "url": "https://nypost.com/2026/07/05/us-news/karoline-leavitt-has-a-theory-on-why-her-generation-is-going-communist/"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "How Trump Put Himself in the Middle of America’s 250th",
-          "neutralSummary": "The president placed his image and initiatives front and center, blurring the line, critics said, between loyalty to nation and loyalty to him.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "How Trump Put Himself in the Middle of America’s 250th",
-              "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-america-250th-anniversary.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Trump Raves About Record-Setting Fireworks Display For America 250",
-              "url": "https://www.dailywire.com/news/trump-raves-about-record-setting-fireworks-display-for-america-250"
+              "headline": "Michigan Democrat Mallory McMorrow drops out of Senate race weeks before primary",
+              "url": "https://www.foxnews.com/politics/michigan-democrat-mallory-mcmorrow-drops-out-senate-race-weeks-before-primary"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Shooting at July Fourth cookout near Coney Island beach leaves 8 wounded, including 4 kids",
-          "neutralSummary": "Shooting at July Fourth cookout near Coney Island beach leaves 8 wounded, including 4 kids&nbsp;&nbsp;AP NewsAt least eight shot, including four children, in New York’s Coney Island&nbsp;&nbsp;The GuardianConey Island shooting leaves 5 people injured, including 1 in critical condition&nbsp;&nbsp;ABC",
+          "neutralHeadline": "See how Americans celebrated the nation’s 250th anniversary",
+          "neutralSummary": "Fireworks, parades and celebrations in photos from around the country.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "8 Wounded in Coney Island Shooting on Fourth of July",
-              "url": "https://www.nytimes.com/2026/07/05/us/brooklyn-coney-island-shooting-july-fourth-fireworks.html"
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "See how Americans celebrated the nation’s 250th anniversary",
+              "url": "https://www.washingtonpost.com/nation/interactive/2026/07/03/fireworks-parades-celebrations-photos-around-country/"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "pessimistic",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Shooting at July Fourth cookout near Coney Island beach leaves 8 wounded, including 4 kids",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlpxV2x3aEEtMFFIU3JKTmpvWm1pbXV3VFV3UGloQld5dU9LX1NVTnl5T2RZb3lyNlpkLWhLX2s2Q0RxZ2lRWVFOeV9MS2NvR0VJcGlxSk9taEFPRjJpa18zNmVRNVVwMnJvMmtVdWMwSXVIV05CX3RLWHpXVmZwRFlXMDNfcDZQ?oc=5"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Bill Clinton blasts Trump as Americans mark nation's 250th anniversary",
+              "url": "https://www.foxnews.com/politics/bill-clinton-blasts-trump-americans-mark-nations-250th-anniversary"
             }
           ]
         }
@@ -538,8 +583,81 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Johor polls: Will BN’s Onn Hafiz retain the state’s top job, or can the opposition offer a better path?",
-          "neutralSummary": "Barisan Nasional’s Onn Hafiz Ghazi is bidding for a second term as Johor chief minister. Who are his potential rivals from Pakatan Harapan and Perikatan Nasional?",
+          "neutralHeadline": "Raymond Ng, spouse of anti-vaccine group founder, on trial over 6 cheating charges involving $25,000",
+          "neutralSummary": "Ng does not have a lawyer and is defending himself during the five-day trial.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Raymond Ng, spouse of anti-vaccine group founder, on trial over 6 cheating charges involving $25,000",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/raymond-ng-spouse-of-anti-vaccine-group-founder-on-trial-over-6-cheating-charges-involving-25000"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "Doctor struck off register over false declarations in death certificates",
+          "neutralSummary": "Sebastian Kwan Yann Haur claimed he had done so to prevent the cancellation of his services.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Doctor struck off register over false declarations in death certificates",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/doctor-struck-off-register-over-false-declarations-in-death-certificates"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
+          "neutralHeadline": "‘He had plans to be outdoor sports instructor’: Uncle of man killed by lightning at Pasir Ris Beach",
+          "neutralSummary": "Mikhail Benyamin, 24, was a freelance instructor certified as a kayaking instructor by water activities company SeaOPS.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "‘He had plans to be outdoor sports instructor’: Uncle of man killed by lightning at Pasir Ris Beach",
+              "url": "https://www.straitstimes.com/singapore/man-killed-by-lightning-at-pasir-ris-beach-was-promising-dedicated-outdoor-instructor-company"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "The Star",
+              "initials": "TS",
+              "domain": "news.google.com",
+              "headline": "Man dies after lightning strike in waters off Singapore's Pasir Ris Beach",
+              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT3FVR0tuT1RQbTRHYmxlODhIU21mVm1OMHh6YTVzSkEteldPQ2hXYkZNcDBsa2hMbjlaUmtSWkRXVFRhanEtNVdBbmgxZkU4U18wUTJ0U0hPZ2JBVGl5aWR6RmZxa1pqSWNCZ21tR1ZkSHVxUlhXLUY1alo2SnpBRTJlV0xzQ3RHa080UkJIMWZjVWFZRTNkajFzeW9zam5PRGxOWFcyS1QxSHNXeEhCejVka2Y4dVpEdjF3SVZ6dUxlUDhaUk5PSU95MFVrQWkwQkRJUw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Man under remission order charged with spitting at cop during firefighting operation in Yishun",
+          "neutralSummary": "Mohamad Yazid Junaineh was ordered to be remanded at the Institute of Mental Health for a medical exam.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Man under remission order charged with spitting at cop during firefighting operation in Yishun",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/man-under-remission-order-charged-with-spitting-at-cop-during-firefighting-operation-in-yishun"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Singapore and Indonesia 'strategically aligned' to keep Strait of Malacca and Singapore open to all: PM Wong",
+          "neutralSummary": "Prime Minister Lawrence Wong and President Prabowo Subianto also addressed the Middle East conflict's implications for regional shipping lanes at their Jakarta meeting.",
           "versions": [
             {
               "political": "center",
@@ -547,42 +665,74 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Johor polls: Will BN’s Onn Hafiz retain the state’s top job, or can the opposition offer a better path?",
-              "url": "https://www.channelnewsasia.com/asia/johor-state-election-onn-hafiz-chief-minister-contenders-maszlee-malik-sahruddin-jamal-6230276"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Johor royal family's influence in the spotlight at state polls",
-              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbkdxT3NRZ25uQktiM1Uzb3FERGt5QWN6WGN1UmtjZVc4THJORlI2Y24xYzBycU5WWVJobW53OU0xUHBXQldwN0VhYU1xV251ZEV0cTh1SEdUeVhlaDRBOFlkSW1kUmgtdGo4ZXpTZDJGYXZMZ05IM1lRVnRkb18xeWcxRlBWSU44Rzh4bFQ5bEdIUFg1WktoTzJ3WVFGcGt0ekVjSDV3ems2cGptbWZiNE9n?oc=5"
+              "headline": "Singapore and Indonesia 'strategically aligned' to keep Strait of Malacca and Singapore open to all: PM Wong",
+              "url": "https://www.channelnewsasia.com/singapore/indonesia-strait-hormuz-singapore-prabowo-lawrence-wong-6235256"
             }
           ]
         },
         {
-          "id": "singapore-2",
-          "neutralHeadline": "10-man England beat Mexico 3-2 to advance to World Cup quarter-finals",
-          "neutralSummary": "10-man England beat Mexico 3-2 to advance to World Cup quarter-finals&nbsp;&nbsp;CNATuchel hails England heart as they battle through Mexican storm&nbsp;&nbsp;CNAMexico 2-3 England: World Cup last 16 player ratings&nbsp;&nbsp;The GuardianOne of England’s ‘greatest results’ as they win a World Cup cl",
+          "id": "singapore-6",
+          "neutralHeadline": "Sri Lanka prison riot kills 26, wounds more than 100",
+          "neutralSummary": "The wounded were rushed to the Negombo hospital, about 35km north of the capital Colombo, following overnight clashes between inmates from two drug gangs at the area's main prison, police said.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "CNA",
               "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "10-man England beat Mexico 3-2 to advance to World Cup quarter-finals",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMTJDaGhXRzhWQ2l0SVU0WmlOQ0szRDdILThMMnJycHB0bTNJaWhycXdKckg0SHJTRzNrR2M0TVVHRklYR2ZuX3VxdFZCaVdNOEhzeEZEY1RCWWZIUWxoUFJzZEM2TXE0Uk1ITDIzLWRGeWFXOG9NbGMwMlVaTUVOblpVS1NRVWt6?oc=5"
+              "domain": "channelnewsasia.com",
+              "headline": "Sri Lanka prison riot kills 26, wounds more than 100",
+              "url": "https://www.channelnewsasia.com/asia/sri-lanka-prison-riot-deaths-6235206"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
+              "url": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "China's Nanning on top alert as Typhoon Maysak triggers catastrophic flooding",
+          "neutralSummary": "Maysak made landfall in the southern island province of Hainan last Friday (Jul 3), the first tropical cyclone to reach the Chinese mainland this year.&nbsp;",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "China's Nanning on top alert as Typhoon Maysak triggers catastrophic flooding",
+              "url": "https://www.channelnewsasia.com/east-asia/china-nanning-typhoon-maysak-flooding-heavy-rain-6234701"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
+              "source": "Reuters",
+              "initials": "R",
               "domain": "news.google.com",
-              "headline": "Mexico vs. England at World Cup kicks off an hour late due to severe weather",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFdMRlQwYUlGTlEySEwzVG1LdkRwRmczUDJCZlVhcW1ZZkoxOVhTRVh5WGYtcjZ3NG9JSlQ2Nm0ySjd4NW5aT2VUMU1uTFo5M0w4UmpmQmp2c0F3bVFFZTZKbUtWdWZGdzUxUTlaOENkWTRKN0JlX21ENFV0dnZUQjFudFo0eUx5Z0FSX2RtOGZCT01jenhOMWpNekdXNDdWekxQMEVQaVhET0REUFVlanlrTVE2NFVCQkE?oc=5"
+              "headline": "China's Nanning on top alert as Typhoon Maysak triggers catastrophic flooding",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkU3ZTVDd1lfcTF2bmpMVnZ1b0JVV0RxNkJvbHIwLW5YMUVBYTVWc2tQRll1ZUptTXZjeVlpMHVsZ25SNzJLM3JtYXY4SVhOR2NkUkhGQTJxYUNibUZNSUJQWW52TWRNWUhvZlBWTW1LaDVfS1RJLUl1QjdURU5GczAycnFiUHRLTzAzWmprZ1hDUkVmMm9DVC1MRjdybG9ITXp6UHhhQXliRWRqbUFfVmVTZTVCdw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "China test fires missile into Pacific, alarming regional powers",
+          "neutralSummary": "A nuclear submarine of the People's Liberation Army Navy launched the missile carrying a dummy warhead toward international waters in the Pacific at 12.01pm, China's official Xinhua news agency reported.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "China test fires missile into Pacific, alarming regional powers",
+              "url": "https://www.channelnewsasia.com/east-asia/china-test-fires-missiles-pacific-6234806"
             },
             {
               "political": "left",
@@ -590,129 +740,24 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Osaka stuns world number one Sabalenka to reach quarter-finals",
-              "url": "https://www.bbc.co.uk/sport/tennis/articles/cyv00eegv32o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
-          "neutralHeadline": "Man killed by lightning at Pasir Ris Beach was promising, dedicated outdoor instructor: Company",
-          "neutralSummary": "Mikhail Benyamin, 24, was a freelance instructor certified as a kayaking instructor by water activities company, SeaOPS.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Man killed by lightning at Pasir Ris Beach was promising, dedicated outdoor instructor: Company",
-              "url": "https://www.straitstimes.com/singapore/man-killed-by-lightning-at-pasir-ris-beach-was-promising-dedicated-outdoor-instructor-company"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Indranee to deliver ministerial statement in Parliament on conduct of WP’s Sylvia Lim, Faisal Manap",
-          "neutralSummary": "Parliament will sit on July 7.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Indranee to deliver ministerial statement in Parliament on conduct of WP’s Sylvia Lim, Faisal Manap",
-              "url": "https://www.straitstimes.com/singapore/politics/indranee-to-deliver-ministerial-statement-in-parliament-on-conduct-of-wps-sylvia-lim-faisal-manap"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "More physiotherapists opting to work in private healthcare – can the public sector keep up?",
-          "neutralSummary": "If the trends continue, a flip-over may happen, possibly impacting subsidised care.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "More physiotherapists opting to work in private healthcare – can the public sector keep up?",
-              "url": "https://www.straitstimes.com/singapore/health/more-physiotherapists-opting-to-work-in-private-healthcare-can-public-sector-keep-up"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Man tased and arrested for swinging saw in Bedok North and not complying with police",
-          "neutralSummary": "The case was also referred to CNB for suspected consumption of a controlled drug.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Man tased and arrested for swinging saw in Bedok North and not complying with police",
-              "url": "https://www.straitstimes.com/singapore/man-tasered-and-arrested-after-swinging-saw-in-bedok-north-and-not-listening-to-police"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Commentary: The fragile reopening of Hormuz is no return to normal for Asia",
-          "neutralSummary": "A return to pre-war normalcy in the Strait of Hormuz is likely to be slow. This holds implications for Asia, says Coface chief APAC economist Bernard Aw.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Commentary: The fragile reopening of Hormuz is no return to normal for Asia",
-              "url": "https://www.channelnewsasia.com/commentary/iran-war-strait-hormuz-fragile-reopening-what-it-means-asia-6229406"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "South Korea to create future fund from chip windfall to spur growth, tackle inequality",
-          "neutralSummary": "A top official says the government will use the \"Future Response Fund\" to help finance major national investment projects and strengthen the country's long-term competitiveness.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "South Korea to create future fund from chip windfall to spur growth, tackle inequality",
-              "url": "https://www.channelnewsasia.com/east-asia/south-korea-future-fund-chip-windfall-6233061"
+              "headline": "China tests missile in the Pacific hours after Australia-Fiji alliance signed",
+              "url": "https://www.bbc.co.uk/news/articles/c30yy6jj8p1o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "PM Wong to visit Jakarta for Singapore-Indonesia leaders’ retreat",
-          "neutralSummary": "Talks will cover bilateral projects since last year's retreat and the impact of the Middle East crisis.",
+          "neutralHeadline": "Law Society’s disciplinary proceedings against Pritam Singh to be heard on Aug 13",
+          "neutralSummary": "A Law Society spokesperson had said it was required by law to initiate disciplinary proceedings against Singh.",
           "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "PM Wong to visit Jakarta for Singapore-Indonesia leaders’ retreat",
-              "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-prabowo-leaders-retreat-indonesia-6227816"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Straits Times",
               "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "PM Wong to visit Jakarta for the Singapore-Indonesia Leaders’ Retreat on July 6",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUV9nODZHcTcwZDUwcEtFVElHXy15ZEZlMGtURkFkME5aVmZ1SXVtZ3VNTV9sR0xDN1JaVF9YT2lkZ29zMnRWS2dkZVBkemZJNnZsSTBYNHVqcU13bHlKdzhmTWhiTWE2OEZkOC1yTVBlRWQ0d1RJSUozREh3ckJISHV6X2QyYmdqQlM4UU4wS3ZyRWVBZ0lYWks3LUJRR2xHS2JhUHRzVEl4OWxYZGRWOFFMcVhsRHFXX3NTdw?oc=5"
+              "domain": "straitstimes.com",
+              "headline": "Law Society’s disciplinary proceedings against Pritam Singh to be heard on Aug 13",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/law-societys-disciplinary-proceedings-against-pritam-singh-to-be-heard-on-aug-13"
             }
           ]
         }
@@ -723,17 +768,69 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Mumbai-Pune trains suspended after landslide",
-          "neutralSummary": "Mumbai-Pune trains suspended after landslide",
+          "neutralHeadline": "'He is untainted in my eyes': Ram temple trust treasurer defends Champat Rai after resignation",
+          "neutralSummary": "Shri Ram Janmabhoomi Teerth Kshetra Trust Treasurer Govind Dev Giri defended former general secretary Champat Rai following his resignation over a donation theft case, calling him \"untainted\" and his decision voluntary. The trust accepted resignations of Rai and trustee Anil Mishra after a prelimina",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Champat Rai's Resignation Accepted By Ram Temple Trust Amid Donation Theft Row",
+              "url": "https://www.ndtv.com/india-news/champat-rais-resignation-accepted-by-ram-temple-trust-amid-donation-theft-row-11733536#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'He is untainted in my eyes': Ram temple trust treasurer defends Champat Rai after resignation",
+              "url": "https://timesofindia.indiatimes.com/india/he-is-untainted-in-my-eyes-ram-temple-trust-treasurer-defends-champat-rai-after-resignation/articleshow/132219626.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Who is Krishna Mohan, named Ram Temple Trust's interim general secretary after Champat Rai's resignation?",
+              "url": "https://www.hindustantimes.com/india-news/who-is-krishna-mohan-named-ram-temple-trusts-interim-general-secretary-after-champat-rais-resignation-ayodhya-101783346735162.html"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "The Hindu",
               "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Mumbai rains | Pune–Mumbai Expressway, old Mumbai–Pune Highway shut due do to landslide, heavy rainfall",
-              "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-rains-punemumbai-expressway-old-mumbaipune-highway-shut-due-following-landslide-heavy-rainfall/article71187963.ece"
+              "domain": "news.google.com",
+              "headline": "Ram temple donation row: Trust accepts Champat Rai's resignation, appoints interim general secretary",
+              "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaVBid3NIWnZ6UjBUTlgzRWhmUC1QNEgxQTFMSFF0Rzdsem9jb1lUVVpHTjFsclVOeFpZSW9zd2dHSmdSTEYxajNwaVc1ekc5YUtfNzJMZVNQSmhpMHZMdlFzQ010OUFjVFVBVFJIZlZadGZ4TnZRMkJZTmlkNkI2M1hkUlAtVWhweFB3c2w0NGJ6WjMyQWxXRXl4Rm44VE1NQmY5b2oyekY5eUFOZWNkM1JFci1JNG5wN3BSYWRkc2o3QndGeklOeTA4XzVjU3dfSG9vNWFsMUxZblVLckQ0QWtEUi1DclI3ZkxyaW5MMzkwSVpYSlZ4b2hzZ3BIbTTSAYYCQVVfeXFMTktxUmRGUkJQUzFwdGR0akdqbUtGUDMtZ21oV0tRQ3dmTDc5bmkxbkNhVDBZTzkyWTViUVlMZ2kzTERpVWRhZ1hNcUlxNmQwWmQtSjVNcC1ta1otWEQtVTBrYnc4Mk9nVnZxUWxVai00eDVxNEE1bWk5NUxkWW9tdG5zOC1XR19sM1RZa0M3VnAzempRbVUxT3lCd21VMEMzY09EMFhQLXYxR19PNEVyNkFjZkRielNGUllmdmd6SW1Zb2EwMDM5cHEweGxFS2E0SUROenNwMGY2MDZmeWd6X2Zsd3hxMnp2LWpQZ21rZVdlNWNWNy1PR1FDV1czZm81amU5WFdiQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "2 Assam Rifles personnel killed in an ambush in Manipur: Official",
+          "neutralSummary": "Manipur police in a separate statement issued on the same day said operations are underway to neutralise the militants",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "2 Assam Rifles Soldiers Killed In Action After Convoy Ambushed In Manipur",
+              "url": "https://www.ndtv.com/india-news/2-assam-rifles-soldiers-killed-in-action-after-convoy-ambushed-in-manipur-11734752#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "2 Assam Rifles personnel killed in an ambush in Manipur: Official",
+              "url": "https://www.hindustantimes.com/india-news/2-assam-rifles-personnel-killed-in-an-ambush-in-manipur-official-101783352196482.html"
             },
             {
               "political": "center",
@@ -741,92 +838,67 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Mumbai-Pune trains suspended after landslide",
-              "url": "https://economictimes.indiatimes.com/industry/transportation/railways/mumbai-rains-today-weather-pune-train-services-suspended-as-rain-triggers-landslides-in-karjat-lonavala-section/articleshow/132205299.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "Draft rolls published for 3 states: 2 mn voters axed in Odisha, 158k in Manipur",
-          "neutralSummary": "Odisha saw its roll contract the most, with 2.01 million voters deleted out of an initial list of 33.3 million. This was followed by Manipur.&nbsp;",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Odisha Draft Electoral Rolls Published, Over 20 Lakh Names Deleted",
-              "url": "https://www.ndtv.com/india-news/odisha-draft-electoral-rolls-published-over-20-lakh-names-deleted-11730523#publisher=newsstand"
+              "headline": "Manipur militants kill 2 Assam Rifles soldiers",
+              "url": "https://economictimes.indiatimes.com/news/defence/two-assam-rifles-soldiers-killed-several-injured-in-ambush-by-militants-in-manipur/articleshow/132217911.cms"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Draft rolls published for 3 states: 2 mn voters axed in Odisha, 158k in Manipur",
-              "url": "https://www.hindustantimes.com/india-news/draft-rolls-published-for-3-states-2-mn-voters-axed-in-odisha-158k-in-manipur-101783308342444.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
+              "source": "Times of India",
+              "initials": "TOI",
               "domain": "news.google.com",
-              "headline": "Odisha SIR: Over 20 lakh names deleted after enumeration; EC publishes draft rolls",
-              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc185ODBPSVVNb1FMakFjbzFYeGtPbUtjeEtPQUFaenVwTzlLWTNoT2pOcDEwVUxweWhGbC1NYUhzbzNkR1RzbmpwSi11Nms0eTQyNklkZGNtTUNGR0xHQjNRZVhfbDhTaVk0YWFKaTJqbkFPX2VCWHp2dkN6c2RYYkVzYmd2M2ZzWF9OZExJdkxpOUJvOTMtYkVMYzVVWmk5VmN2YnY1bTBpMV91cXFOTkZFOWtjbl92d09QV3J6V3Q0TThpWXh2dXh4Y0xvTXJuSkh1a0NB0gHjAUFVX3lxTFBERnpYVHpaMHREcWpEbEtfOXZIZ0JiSXdoWmIxU0UxeXVPUmhESk5ienBONUxnbjh4OVhySjdybnZIb0lOeWxVLTh1N1lscS0wTjQ2VEktck1kaTg0MDQwb3JMaGIzWUpLVDB2RVE4ekh6a2htVzV6dDZmSXhJRWpyUVg1SF81d0EyUGtqZ3A5UFVaTmpFazlkc09id2NBaFJYWXBJRElEVEVabDRBSWtnMzBVQzFpZm5NVFhaY0pxaHVzZ0NhZjhsa3NhTjJIWGQ3NlNjZFFtUmNDNzlJYW1kSWtz?oc=5"
+              "headline": "2 Assam Rifles soldiers killed in militant ambush in Manipur's Ukhrul, severa injured",
+              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYmFndDJycW1jZlJ2MERtaUxYX0xtNnhDMEVhUG5vYUc5a0dMclU0bGRqcDJTWTdJLWNKcjVSWV92dXFGM0VLM0lnVWsyT3VYV0c3bG5YdXM3aVdIak9ITWNxMTFuZmp4bTZwYklGTHJ5LU9JZ2x5aUNkX0YwcVI2SVZ1azhfWkE5RC16elVPUU83RGV1N2prV0NZMEZUVi1TNXNDNkZ0TXozOXdwZ0s2WE9kZ3ByaDNvelkzTm9qR1lBc2VHa2pCdWY5aHZYTWdTMnFLQk1VQmpaVTRSV1psbExLMC1lOXZlaUFtMGJhU0E?oc=5"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Dr Syama Prasad Mookerjee's 125th anniversary: A life devoted to India's unity and development",
-          "neutralSummary": "If there was one ideal that defined Dr Syama Prasad Mookerjee’s public life above all else, it was the indivisibility of India.",
+          "neutralHeadline": "'Made right decision': Trump confirms he asked FIFA to review Balogun decision",
+          "neutralSummary": "US President Donald Trump said he personally asked FIFA president Gianni Infantino to review the red card and one-match suspension handed to Team USA striker Folarin Balogun, a move that has sparked major controversy at the FIFA World Cup, according to CNN.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"Timeless Example Of Courage\": PM Modi's Tribute To Syama Prasad Mookerjee",
-              "url": "https://www.ndtv.com/india-news/timeless-example-of-courage-pm-modis-tribute-to-syama-prasad-mookerjee-11732021#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Dr Syama Prasad Mookerjee's 125th anniversary: A life devoted to India's unity and development",
-              "url": "https://www.hindustantimes.com/india-news/dr-syama-prasad-mookerjee-125th-anniversary-a-life-devoted-to-india-unity-development-pm-narendra-modi-101783304727821.html"
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Donald Trump admits he asked FIFA to review Balogun’s World Cup suspension",
+              "url": "https://indianexpress.com/article/sports/football/us-president-donald-trump-fifa-world-cup-intervened-folarin-balogun-red-card-suspension-gianni-infantino-10774325/"
             },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "Syama Prasad Mookerjee devoted his life to India's unity and progress: PM Modi",
-              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVUkyMGlrTy0xd0xJNnR4ZmI3YWFqaFNPUUVhWkN1R2RhY3hQNzZackFYeTJNeDJmallENnVmXzR6UU5YRjVFWW1CZWVIaldXOFNsTG8yQUdjRWdJSHI3dmo1SkQydHpZMVZRb2o1QmlxYm1sUDhrREdZMjFOQXRYZVhQejg3dVJuREVTUUV2R2ZTT0FwUXBsZXk1c0ljTDA5dkVUN1RNcmlneXo3d01BcTBmWVl0djN2ZUVFVnl5amg5Z0VZTGdVY29tSnRPZEE4Ylo0eWlZbmhnUk5q?oc=5"
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Made right decision': Trump confirms he asked FIFA to review Balogun decision",
+              "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/made-the-right-decision-donald-trump-confirms-he-asked-fifa-to-review-folarin-balogun-decision/articleshow/132220122.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Belgium Fumes After FIFA Clears Balogun Following Trump Call",
+              "url": "https://www.bloomberg.com/news/videos/2026-07-06/belgium-fumes-after-fifa-clears-balogun-video"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "'Have some other friends, like India': Netanyahu counters Vance's 'only ally' claim",
-          "neutralSummary": "'Have some other friends, like India': Netanyahu counters Vance's 'only ally' claim",
+          "neutralHeadline": "Nida Khan granted bail by Nashik court in TCS religious conversion, sexual harassment case",
+          "neutralSummary": "Nida Khan was arrested for her alleged role in the relgious conversion and sexual harassment case at TCS-linked BPO in Nashik in May after a 42-day hunt.",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Have some other friends, like India': Netanyahu counters Vance's 'only ally' claim",
-              "url": "https://timesofindia.indiatimes.com/world/middle-east/we-have-some-other-friends-like-india-netanyahu-pushes-back-after-vance-calls-us-only-ally-of-israel/articleshow/132201235.cms"
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "TCS religious conversion, sexual harassment case: Nida Khan gets bail, no relief to Danish Shaikh",
+              "url": "https://indianexpress.com/article/cities/mumbai/tcs-religious-conversion-sexual-harassment-case-nida-khan-bail-danish-shaikh-10774367/"
             },
             {
               "political": "center",
@@ -834,133 +906,133 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "'Tremendous support in India': Netanyahu denies US being Israel's only ally, counters JD Vance",
-              "url": "https://www.hindustantimes.com/india-news/tremendous-support-in-india-benjamin-netanyahu-pm-modi-us-israel-only-powerful-ally-counters-jd-vance-iran-war-101783302794350.html"
+              "headline": "Nida Khan granted bail by Nashik court in TCS religious conversion, sexual harassment case",
+              "url": "https://www.hindustantimes.com/india-news/nida-khan-granted-bail-by-nashik-court-in-tcs-religious-conversion-sexual-harassment-case-101783343032643.html"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Moneycontrol.com",
-              "initials": "M",
-              "domain": "news.google.com",
-              "headline": "'We have tremendous support there': Netanyahu names India while rejecting Vance's 'only ally' claim",
-              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTy00bE41cXFFY25LTV9wbU1ZcElGQVNrc0htMjE2Yi1qZlNGcG92S3A4R1ZpNDlNWE9Ubkx5R2FIQVRDcHltUlBKZThuTGNBRUE3SmxGanpyYkQxMnV3MjFxMWt0emdGd2pqX0VzM2otdklFTnl4YldyTU9scHJkQzBDNHJtSHFxaVlsdVdHYXRPd3pBVTh2VExMVC05QUNBZjdxNkdkemFQbEhuMW9PUFQ2aWltNDhUNUFMN0NQTDJPd0xBcldZM0ppVkg2WGVLUC1OQ29hU1cySGk4TmxaTmFZaE9mZ9IB6wFBVV95cUxPd3ZjS21zemdHWGdwT3dPcWlSRzd3d182MVh0Z1dwVmpkT3FFd1huV0pDTnNLTC1rRGJlTG9Qd1RmZW5RTEJHV08zZDdra1ZyQlZtVTVVcERiZGdpU3p6aGV5RjRtVWQ2STQxXy1uSGcxUk04SnVMNjRCbEc4dE1ndzZoVFA0Ty1PVWxwZV90Rzh0Y3d2TUdMVmJYa3ZpVEJ3b2szcklVem5xTDFqT3ozQkN1clRoTENvS2xWZ0JvTm9IWTB6YkY2Ml9XYkluMHVYanhScE5fQW1FeHhscnZPa3pVaEw5MW8xRDNN?oc=5"
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "TCS Nashik case: Nida Khan gets bail",
+              "url": "https://economictimes.indiatimes.com/news/india/tcs-nashik-case-two-months-after-arrest-accused-nida-khan-gets-bail-from-nashik-court/articleshow/132217879.cms"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Karur stampede case: SC to hear plea alleging TVK ministers 'influencing' witnesses",
-          "neutralSummary": "Karur stampede case: SC to hear plea alleging TVK ministers 'influencing' witnesses",
+          "neutralHeadline": "Ayatollah Ali Khamenei Funeral News Updates: Iran Begins Ali Khamenei's Funeral Procession through Tehran",
+          "neutralSummary": "Iran Former Supreme Leader's Khamenei Funeral: Ayatollah Ali Khamenei's remains arrived in Tehran today.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Ayatollah Ali Khamenei Funeral News Updates: Iran Begins Ali Khamenei's Funeral Procession through Tehran",
+              "url": "https://www.ndtv.com/world-news/khamenei-funeral-live-irans-supreme-leader-ayatollah-ali-khameneis-funeral-live-updates-11722362#publisher=newsstand"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "The Hindu",
               "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Karur stampede case: Supreme Court agrees to hear DMK’s plea to bar TVK leaders from ‘influencing’ material witnesses, making ‘threatening’ statements",
-              "url": "https://www.thehindu.com/news/national/karur-stampede-case-supreme-court-agrees-to-hear-dmks-plea-to-bar-tvk-leaders-from-influencing-material-witnesses-making-threatening-statements/article71188074.ece"
+              "domain": "news.google.com",
+              "headline": "West Asia War LIVE: Mourners throng funeral procession in Tehran for Iran's Supreme Leader Ayatollah Ali Khamenei",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVXAyN1ZHRTZsZUNXa3pTdzFYRkRSOFhhdUdMYThNeXNuZFN1bmYwaVBxaC1LTVR6SERhZzhONFhVcGVQMi1sdzdQODFzcjVteXVWczRfQWREWjNKZ1g3OXpRTnJhZTAxclVpNG9ZTWtubnJwalpsdEREa1hNTlp6TUtMZUp5Y0pRNUp0Zm9HLXNwZGhQM1NZVllLcXhCZ194ZmszTmVpazR1cWVGZ1JQOVJfTjliaUlqYmpxbDNmY0QzWDQxUlNoeUpn?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Microsoft cuts 4,800 job as it revamps Xbox",
+          "neutralSummary": "Microsoft cuts 4,800 job as it revamps Xbox",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Microsoft To Lay Off 4,800 Workers In Latest Wave Of AI-Led Job Cuts",
+              "url": "https://www.ndtv.com/world-news/microsoft-to-lay-off-4-800-workers-in-latest-wave-of-ai-led-job-cuts-11734712#publisher=newsstand"
             },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Microsoft cuts 4,800 job as it revamps Xbox",
+              "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-cuts-4800-job-as-it-revamps-xbox/articleshow/132220677.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Sanju Samson out of India squad; Ashok Sharma earns maiden call-up for Zimbabwe tour",
+          "neutralSummary": "Sanju Samson misses out on India's T20I squad for Zimbabwe due to a slump in form, having struggled in recent outings. Shreyas Iyer will lead the 15-member team, which includes a maiden call-up for pacer Ashok Sharma and retains young Vaibhav Sooryavanshi. Meanwhile, Shivam Dube has been added to th",
+          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Karur stampede case: SC to hear plea alleging TVK ministers 'influencing' witnesses",
-              "url": "https://timesofindia.indiatimes.com/india/karur-stampede-case-sc-to-hear-plea-alleging-tvk-ministers-influencing-witnesses/articleshow/132208503.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Madhya Pradesh Waqf Board reorganised, Hindu members included",
-          "neutralSummary": "A gazette notification was issued on Sunday, July 5, appointing Sanwar Patel as the chairman of the 10-member Madhya Pradesh Waqf Board; Manoj Malpani and Animesh Bhargava have been included as Hindu members on the board.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Madhya Pradesh Waqf Board reorganised, Hindu members included",
-              "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-waqf-board-reorganised-hindu-members-included/article71188097.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Madhya Pradesh Waqf Board Reorganised, Hindu Members Included",
-              "url": "https://www.ndtv.com/india-news/madhya-pradesh-waqf-board-reorganised-hindu-members-included-11731688#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Dowry demands after ‘love' marriage, abuse, tiff over salary: Shocking claims in newlywed Delhi woman's death",
-          "neutralSummary": "Police are unclear about how she was found dead outside a government quarters in Palika Kunj, which is about 9-10 kms away from her in-laws' home in Pushp Vihar",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Husband Of Newlywed Delhi Woman, Who Was Found Dead, Arrested In Dowry Case",
-              "url": "https://www.ndtv.com/delhi-news/delhi-newlywed-woman-akriti-sutar-death-news-arastu-sikka-husband-of-newlywed-delhi-woman-who-was-found-dead-arrested-in-dowry-death-case-11732168#publisher=newsstand"
+              "headline": "Sanju Samson out of India squad; Ashok Sharma earns maiden call-up for Zimbabwe tour",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sanju-samson-out-of-india-squad-rajasthan-pacer-ashok-sharma-earns-maiden-call-up-for-zimbabwe-tour/articleshow/132218162.cms"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Dowry demands after ‘love' marriage, abuse, tiff over salary: Shocking claims in newlywed Delhi woman's death",
-              "url": "https://www.hindustantimes.com/india-news/dowry-demands-after-love-marriage-abuse-tiff-over-salary-shocking-claims-in-newlywed-delhi-womans-death-lodhi-colony-101783309150588.html"
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "India T20I squad for Zimbabwe: Samson dropped",
+              "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-t20i-squad-for-zimbabwe-announced-vaibhav-sooryavanshi-included-check-full-team-schedule-and-key-updates/articleshow/132217823.cms"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "'Restraining Order Needed': Trump Reignites Fued With Italian PM Meloni Ahead Of NATO Summit",
-          "neutralSummary": "In the photo, Meloni, 49, appeared to look upward at Trump with a smile.",
+          "neutralHeadline": "Govt asked ZEE5 to take down 'Satluj': Report",
+          "neutralSummary": "Govt asked ZEE5 to take down 'Satluj': Report",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "'Restraining Order Needed': Trump Reignites Fued With Italian PM Meloni Ahead Of NATO Summit",
-              "url": "https://www.ndtv.com/world-news/restraining-order-needed-trump-reignites-fued-with-italian-pm-meloni-ahead-of-nato-summit-11732081#publisher=newsstand"
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Govt asked ZEE5 to take down 'Satluj': Report",
+              "url": "https://economictimes.indiatimes.com/industry/media/entertainment/govt-asked-zee5-to-take-down-satluj-citing-security-concerns-obligations-under-it-rules/articleshow/132219555.cms"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "OpIndia",
+              "initials": "OPI",
+              "domain": "opindia.com",
+              "headline": "Diljit’s Satluj is a half-truth, now taken down by ZEE5 due to a legal loophole, not any govt ‘ban’: Explained",
+              "url": "https://www.opindia.com/2026/07/diljits-satluj-is-a-half-truth-now-taken-down-by-zee5-due-to-a-legal-loophole-not-any-govt-ban-explained/"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "12-year-old girl found dead in Bengal, man lynched over rape-murder suspicion",
-          "neutralSummary": "12-year-old girl found dead in Bengal, man lynched over rape-murder suspicion&nbsp;&nbsp;India Today12-Year-Old's Body Found Stuffed In Sack In Bengal Horror, Suspect Lynched&nbsp;&nbsp;NDTV'Have they house arrested her?' TMC cries 'super emergency' over Mamata security&nbsp;&nbsp;The Times of India",
+          "neutralHeadline": "How To Think About Sanand: India's First Chip Cluster In The Making",
+          "neutralSummary": "How To Think About Sanand: India's First Chip Cluster In The Making",
           "versions": [
             {
-              "political": "left",
+              "political": "right",
               "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "12-Year-Old's Body Found Stuffed In Sack In Bengal Horror, Suspect Lynched",
-              "url": "https://www.ndtv.com/india-news/12-year-olds-body-found-stuffed-in-sack-in-bengal-horror-suspect-lynched-11731849#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Today",
-              "initials": "TD",
-              "domain": "news.google.com",
-              "headline": "12-year-old girl found dead in Bengal, man lynched over rape-murder suspicion",
-              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMEQtc0wwVmp4bURSWTlFZHJGTGhPZ0hOOVVtU2FhSkpZR2hKem05cVZjeDRzQ3ZZMXpyLVQtV1J3dm00MkNsSEduOFJiWXRWcDFrMVJBYlpYQWYxdU9JTlU2allMZHZQNVpHM01QQkRPVV9DQ3hUaURNQVByRHdrQ1BfZS1kTTFSS2l2d251dFdfOFB4V0IxSW5aYnFMTERQQjk2b3J6ZUVoZElrQjFVVWE1S3djMEFTNnE4WEpZTG5ZVHAtdFpmbDk4SQ?oc=5"
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "How To Think About Sanand: India's First Chip Cluster In The Making",
+              "url": "https://swarajyamag.com/newsletters/how-to-think-about-sanand-indias-first-chip-cluster-in-the-making-3"
             }
           ]
         }
