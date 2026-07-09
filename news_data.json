@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-08T15:24:57.821751+00:00",
+  "generatedAt": "2026-07-09T05:55:24.912981+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Oil Jumps Over 5% After Trump Says Deal With Iran 'Over'",
-          "neutralSummary": "Oil prices hit a two-week high following Trump's comments, renewing fears of disruption to Middle East oil supplies.",
+          "neutralHeadline": "🔴Live: US military carrying out fresh strikes against Iran after Trump says peace deal is ‘over’",
+          "neutralSummary": "🔴Live: US military carrying out fresh strikes against Iran after Trump says peace deal is ‘over’",
           "versions": [
             {
               "political": "left",
@@ -15,17 +15,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Oil Jumps Over 5% After Trump Says Deal With Iran 'Over'",
+              "headline": "Oil Jumps Over 6% To 2-Week High After Trump Says Deal With Iran 'Over'",
               "url": "https://www.huffpost.com/entry/oil-jumps-after-trump-says-iran-mou-is-over_n_6a4e1088e4b0a7adb6d85366"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-              "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -33,24 +24,67 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Trump says he believes the Iran ceasefire is 'over.' And, IOC lifts Russia's suspension",
-              "url": "https://www.npr.org/2026/07/08/g-s1-132474/up-first-newsletter-trump-iran-ceasefire-nato-graham-platner-ioc-russia"
+              "headline": "Trump says ceasefire between the U.S. and Iran is over",
+              "url": "https://www.npr.org/2026/07/08/nx-s1-5884779/trump-says-ceasefire-between-the-u-s-and-iran-is-over"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Trump on Iran: ‘We’ll probably hit them hard again tonight’",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss"
+              "source": "CNN",
+              "initials": "CNN",
+              "domain": "news.google.com",
+              "headline": "Trump is playing with economic fire by calling the peace deal with Iran ‘over’",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5Tk9GdGtTbEt3RWRLUUNXbUdKRXQ4a2xYcWpwUEpnT3M2Q3JxZ2UzRzc2RGRRNldVVnBLbGxfT3diVEtqX0ZPZjNVVTgySi1HbVhSQ3BEMVR6aW5iV2lxU0NvNHlGdjhlbkpjY1NkcTRSdkdVajd2R2tuUQ?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "🔴Live: US military carrying out fresh strikes against Iran after Trump says peace deal is ‘over’",
+              "url": "https://www.france24.com/en/middle-east/20260707-middle-east-live-us-launches-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz"
             }
           ]
         },
         {
           "id": "global-2",
-          "neutralHeadline": "REPLAY: Trump, Zelenksy meet at NATO summit",
-          "neutralSummary": "President Donald Trump said on Wednesday that both Russia and Ukraine want to see the war settled as he met with Ukrainian President Volodymyr Zelensky at a NATO summit in Ankara.",
+          "neutralHeadline": "US launches new strikes on Iran, Trump says they could get 'much worse'",
+          "neutralSummary": "The US military launched a new round of strikes against Iran on Wednesday, following President Donald Trump's assertion that the fragile ceasefire between the two countries was over. Trump warned that the attacks could get \"much worse\" if Iran perpetrated further attacks on ships in the Strait of Ho",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "U.S. Launches New Strikes On Iran, Revokes Oil Sales Permit After 3 Ships Attacked In Strait Of Hormuz",
+              "url": "https://www.huffpost.com/entry/iran-us-strikes_n_6a4d701de4b0a7adb6d813b2"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "US launches more strikes on Iran with blasts reported in south of country",
+              "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "US launches new strikes on Iran, Trump says they could get 'much worse'",
+              "url": "https://www.france24.com/en/middle-east/20260709-us-launches-new-strikes-on-iran-trump-says-they-could-get-much-worse"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "NATO Summit Was Supposed To Focus On Defense Spending. Then Trump Attacked Iran.",
+          "neutralSummary": "The U.S. strikes underscored the fragility of an interim deal to end months of fighting between the two countries.",
           "versions": [
             {
               "political": "left",
@@ -63,89 +97,37 @@
             },
             {
               "political": "left",
-              "tone": "pessimistic",
-              "source": "CNN",
-              "initials": "CNN",
-              "domain": "news.google.com",
-              "headline": "Live updates: NATO summit; Trump threatens more strikes on Iran after saying ceasefire is ‘over’",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUJvWmM1dG1ldjh4TmdlYUJyTVRiWjhIVUFqcEJIVzcwdVJOb2c0ZlU2V3gxaktFWU9acnkzMGNDUHcwTEtPR2lJQVpaYjd1SU50UWpWUEdLNXBzWWZQbC1LcFBmMjNSRGRQMnRWYTAtRVJydTEwZ1dHMVlfdDVQNl9DMVNxVnlX?oc=5"
-            },
-            {
-              "political": "center",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "REPLAY: Trump, Zelenksy meet at NATO summit",
-              "url": "https://www.france24.com/en/video/20260708-replay-trump-zelenksy-meet-at-nato-summit"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Why the Damascus blasts during Macron’s visit are a blow to al-Sharaa",
-          "neutralSummary": "The twin blasts that rocked Damascus during French President Emmanuel Macron’s visit to Syria this week underscore the fragility of President Ahmed al-Sharaa’s authority and the security challenges he faces. They also undermine the message of stability that Damascus is striving to convey to the inte",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Blasts Rock Damascus During Macron Syria Visit",
-              "url": "https://www.huffpost.com/entry/blasts-rock-damascus-macron-visit_n_6a4cb3ade4b094d71e70224e"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Syria in tough balancing act as it tightens security after Damascus blasts",
-              "url": "https://www.aljazeera.com/news/2026/7/8/syria-in-tough-balancing-act-as-it-tightens-security-after-damascus-blasts?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Why the Damascus blasts during Macron’s visit are a blow to al-Sharaa",
-              "url": "https://www.france24.com/en/middle-east/20260708-why-the-damascus-blasts-during-macron-visit-are-a-blow-to-al-sharaa"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Video shows bomb rock Damascus hotel where French President Macron is staying during Syrian state visit",
-              "url": "https://www.foxnews.com/world/video-shows-bomb-rock-damascus-hotel-french-president-macron-staying-syrian-state-visit"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump threatens Iran as NATO summit wraps",
+              "url": "https://www.npr.org/2026/07/08/nx-s1-5886102/trump-threatens-iran-as-nato-summit-wraps"
             }
           ]
         },
         {
           "id": "global-4",
-          "neutralHeadline": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks",
-          "neutralSummary": "President Donald Trump threw a summit of NATO leaders into disarray on Wednesday as he demanded the United States cut trade ties with Spain and made renewed claims on Greenland, irking another NATO ally Denmark. He also said an interim agreement to end the war with Iran was \"over\" after a new exchan",
+          "neutralHeadline": "Trump says US will give Ukraine license to produce Patriot defense systems",
+          "neutralSummary": "Trump says US will give Ukraine license to produce Patriot defense systems&nbsp;&nbsp;AP NewsRussian Offensive Campaign Assessment, July 8, 2026&nbsp;&nbsp;Institute for the Study of WarLicense to Make Patriot Missiles Could Help Ukraine Defend Against Russia&nbsp;&nbsp;The New York TimesTrump hands",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "NATO Chief Faces Challenge At Summit As Trump Demands 'Loyalty' And Not Just Burden-Sharing",
-              "url": "https://www.huffpost.com/entry/ap-eu-nato-summit-rutte-trump_n_6a4a4ea3e4b03060a850d285"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Ukraine to get licence to produce Patriot missiles, Trump says",
+              "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Trump threatens Spain trade, demands US take over Greenland at NATO summit",
-              "url": "https://www.aljazeera.com/news/2026/7/8/trump-threatens-spain-trade-demands-us-take-over-greenland-at-nato-summit?traffic_source=rss"
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Trump says US will give Ukraine license to produce Patriot defense systems",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzhoTmRUY1YwTVlQNXBOQ08wcTU5dVQ4YXB4ZW0tN3FuMWZCbkFDbTRyRnMwRVNCRVNaTDFRWkhLWENMeUVKelpJdEVVcXdqVy1QVWxPNC02MVVSWF80MG8zR2FZVklqVFMtN2RZZkltNUEtSUgzempWdjFFSlpHekVmSGxnTzZjNlVndzBIQWVJbHJh?oc=5"
             },
             {
               "political": "center",
@@ -153,8 +135,8 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Trump turns on Spain and demands Greenland as NATO summit exposes cracks",
-              "url": "https://www.france24.com/en/video/20260708-trump-turns-on-spain-and-demands-greenland-as-nato-summit-exposes-cracks"
+              "headline": "Trump says the U.S. will give license to Ukraine to produce Patriot defense systems",
+              "url": "https://www.france24.com/en/trump-says-the-u-s-will-give-license-to-ukraine-to-produce-patriot-defense-systems"
             }
           ]
         },
@@ -185,31 +167,6 @@
         },
         {
           "id": "global-6",
-          "neutralHeadline": "U.S. Launches New Strikes On Iran, Revokes Oil Sales Permit After 3 Ships Attacked In Strait Of Hormuz",
-          "neutralSummary": "The U.S. military launched a series of strikes against Iranian targets early Wednesday after three merchant ships were struck in the waters off Oman.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "U.S. Launches New Strikes On Iran, Revokes Oil Sales Permit After 3 Ships Attacked In Strait Of Hormuz",
-              "url": "https://www.huffpost.com/entry/iran-us-strikes_n_6a4d701de4b0a7adb6d813b2"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
-              "url": "https://www.aljazeera.com/news/2026/7/8/iran-signals-defiance-as-trump-fumes-over-strait-of-hormuz-strikes?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
           "neutralHeadline": "Marine Le Pen To Run For French Presidency Next Year Despite Court-Ordered Monitor",
           "neutralSummary": "The court said Le Pen’s far-right party embezzled 2.8 million euros ($3.2 million) over more than 11 years.",
           "versions": [
@@ -234,9 +191,9 @@
           ]
         },
         {
-          "id": "global-8",
-          "neutralHeadline": "French Court Clears Way For Far-Right Leader Le Pen To Run In 2027 But Under A Condition She Rejects",
-          "neutralSummary": "The verdict declared Le Pen guilty of embezzlement but softened the ban on her holding elected office, putting the ball in her court.",
+          "id": "global-7",
+          "neutralHeadline": "Blasts Rock Damascus During Macron Syria Visit",
+          "neutralSummary": "The French president is the first head of state of a European Union country to visit since rebels led by Ahmed al-Sharaa toppled Bashar al-Assad in 2024.",
           "versions": [
             {
               "political": "left",
@@ -244,33 +201,58 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "French Court Clears Way For Far-Right Leader Le Pen To Run In 2027 But Under A Condition She Rejects",
-              "url": "https://www.huffpost.com/entry/le-pen-election-ban-appeal-ruling_n_6a4cebdee4b0c806bbef9662"
+              "headline": "Blasts Rock Damascus During Macron Syria Visit",
+              "url": "https://www.huffpost.com/entry/blasts-rock-damascus-macron-visit_n_6a4cb3ade4b094d71e70224e"
             },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Video shows bomb rock Damascus hotel where French President Macron is staying during Syrian state visit",
+              "url": "https://www.foxnews.com/world/video-shows-bomb-rock-damascus-hotel-french-president-macron-staying-syrian-state-visit"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Ebola Deaths In Congo Top 500 As Health Workers Threaten To Strike",
+          "neutralSummary": "Frontline workers are threatening to go on strike over unpaid benefits and poor working conditions.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Ebola Deaths In Congo Top 500 As Health Workers Threaten To Strike",
+              "url": "https://www.huffpost.com/entry/congo-ebola-deaths-workers-strike_n_6a4bda85e4b0c806bbeeda49"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Confirmed Ebola deaths in DR Congo hit 600",
+              "url": "https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Democrat Graham Platner suspends campaign for key US Senate race in Maine",
+          "neutralSummary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-              "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Mourners Throng Funeral Procession In Tehran For Iran's Supreme Leader Ayatollah Ali Khamenei",
-          "neutralSummary": "The massive turnout, encouraged by Iran's theocracy as a sign of strength, came as it negotiates with the U.S. over a permanent end to the war.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Mourners Throng Funeral Procession In Tehran For Iran's Supreme Leader Ayatollah Ali Khamenei",
-              "url": "https://www.huffpost.com/entry/iran-us-khamenei-funeral_n_6a4b688ce4b0a7adb6d6437a"
+              "headline": "Democrat Graham Platner suspends campaign for key US Senate race in Maine",
+              "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -278,8 +260,8 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Iran’s supreme leader’s coffin arrives in Najaf",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/irans-supreme-leaders-coffin-arrives-in-najaf?traffic_source=rss"
+              "headline": "US Senate nominee Platner halts campaign after assault allegations",
+              "url": "https://www.aljazeera.com/news/2026/7/9/us-senate-nominee-platner-halts-campaign-after-assault-allegations?traffic_source=rss"
             }
           ]
         }
@@ -290,35 +272,26 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Oil prices jump after Trump says Iran ceasefire ‘over’",
-          "neutralSummary": "The price of crude oil surged on Wednesday morning after President Trump declared the ceasefire agreement with Iran is “over.” Trump told reporters during the NATO summit in Ankara, Turkey, that he did not want “to deal” with Tehran anymore.  “They’re scum,” he added. The president&#8217;s comments",
+          "neutralHeadline": "Scandal-plagued Graham Platner drops Maine Senate bid",
+          "neutralSummary": "Graham Platner, the oyster farmer whose populist platform&#160;took Maine by storm, dropped his Senate bid Wednesday night as controversies over his past stacked up, leaving Democrats without a nominee to take on Sen. Susan Collins (R-Maine) this fall. &#8220;We&#8217;re suspending campaign operatio",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Announces Iran Ceasefire ‘Over’ Weeks After Bragging About It",
-              "url": "https://www.huffpost.com/entry/trump-iran-ceasefire-over_n_6a4e4002e4b0a7adb6d86b1d"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump says he believes the Iran ceasefire is 'over.' And, IOC lifts Russia's suspension",
-              "url": "https://www.npr.org/2026/07/08/g-s1-132474/up-first-newsletter-trump-iran-ceasefire-nato-graham-platner-ioc-russia"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Platner Suspends Senate Bid in Maine After Rape Accusation",
+              "url": "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-maine-senate.html"
             },
             {
               "political": "left",
               "tone": "pessimistic",
-              "source": "CNN",
-              "initials": "CNN",
-              "domain": "news.google.com",
-              "headline": "Live updates: NATO summit; Trump threatens more strikes on Iran after saying ceasefire is ‘over’",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUJvWmM1dG1ldjh4TmdlYUJyTVRiWjhIVUFqcEJIVzcwdVJOb2c0ZlU2V3gxaktFWU9acnkzMGNDUHcwTEtPR2lJQVpaYjd1SU50UWpWUEdLNXBzWWZQbC1LcFBmMjNSRGRQMnRWYTAtRVJydTEwZ1dHMVlfdDVQNl9DMVNxVnlX?oc=5"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Graham Platner drops his bid for Senate after facing an allegation of rape",
+              "url": "https://www.npr.org/2026/07/08/g-s1-132220/graham-platner-maine-senate-assault-allegation"
             },
             {
               "political": "center",
@@ -326,8 +299,8 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Oil prices jump after Trump says Iran ceasefire ‘over’",
-              "url": "https://thehill.com/policy/international/5958832-donald-trump-oil-prices-iran-strikes-middle-east-conflict/"
+              "headline": "Scandal-plagued Graham Platner drops Maine Senate bid",
+              "url": "https://thehill.com/homenews/campaign/5911043-graham-platner-drops-maine-senate-bid/"
             },
             {
               "political": "right",
@@ -335,15 +308,33 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Trump says Iran ceasefire is 'over' after Iranian attacks trigger massive US response",
-              "url": "https://www.foxnews.com/politics/trump-says-iran-ceasefire-over-after-iranian-attacks-trigger-massive-us-response"
+              "headline": "Who is Valli Geiger? Meet the Maine Dem that Platner urged to run for Senate",
+              "url": "https://www.foxnews.com/politics/valli-geiger-maine-democrat-platner-urging-run-senate"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Graham Platner suspends Senate campaign after sexual assault allegations",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4638358/graham-platner-suspends-maine-senate-campaign/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Platner Caves, Suspends Senate Campaign",
+              "url": "https://www.dailywire.com/news/platner-caves-suspends-senate-campaign"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "Bickering Democrats Work To Push Platner Out Of Senate Race",
-          "neutralSummary": "Candidates in Maine are preparing for a mini-primary, even as Platner drags his feet and ideological sparring rages.",
+          "neutralHeadline": "Platner, Democrats battles over his replacement",
+          "neutralSummary": "Maine Senate candidate Graham Platner’s staffers on Wednesday accused the Democratic party of excluding grassroot supporters from determining who would replace the embattled party nominee in the November general amid allegations of sexual assault.  Platner’s campaign manager, Ben Chin, sent out a te",
           "versions": [
             {
               "political": "left",
@@ -360,42 +351,8 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "These Maine Democrats Might Replace Graham Platner in the Senate Race",
-              "url": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-replacements-maine-democrats.html"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Platner’s Civil War With Democrats Just Got Messier",
-              "url": "https://www.dailywire.com/news/platner-feuds-with-dem-political-establishment-over-potential-replacement"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Live updates: Defense disputes DNA evidence in Charlie Kirk assassination hearing",
-          "neutralSummary": "Live updates: Defense disputes DNA evidence in Charlie Kirk assassination hearing&nbsp;&nbsp;AP NewsInvestigator details surveillance of Tyler Robinson on the day Charlie Kirk was shot&nbsp;&nbsp;NPR Utah | KUERSuspect Interacted With Charlie Kirk’s Group Before Killing, Prosecutors Say&nbsp;&nbsp;T",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Questions remain about defense strategy for man accused of killing Charlie Kirk",
-              "url": "https://www.washingtonpost.com/nation/2026/07/08/questions-remain-about-defense-strategy-man-accused-killing-charlie-kirk/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Live updates: Defense disputes DNA evidence in Charlie Kirk assassination hearing",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NandCVXRrTWdZSnFVR0ktVjRvZFRzZWRacHNjd2Y4Qm5uNlFVY0FsOUFzY2NuU0RZN281UVc4NURaT2xiMTJmZzM5c3hwLWJDOE1wLXg2WHd6WGpIb1VuOGcySFZmSzB0aDdrUl81VHhzMjRybVR4UTRB?oc=5"
+              "headline": "Graham Platner Suspended His Senate Campaign. Here’s What’s Next for Democrats.",
+              "url": "https://www.nytimes.com/2026/07/08/us/politics/graham-platner-out-whats-next.html"
             },
             {
               "political": "center",
@@ -403,24 +360,8 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Defense lawyers dispute DNA evidence in Charlie Kirk case",
-              "url": "https://thehill.com/regulation/court-battles/5958783-charlie-kirk-tyler-robinson-trial/"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Maine Democrats say Platner's campaign is trying to influence replacement process",
-          "neutralSummary": "The state Democratic Party accused Platner's campaign of trying to \"put their thumb on the scale\" of the process to replace him if he drops his bid for Senate. Platner's team has denied doing so.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Maine Democrats say Platner's campaign is trying to influence replacement process",
-              "url": "https://www.npr.org/2026/07/08/nx-s1-5885770/graham-platner-maine-democrats"
+              "headline": "Platner, Democrats battles over his replacement",
+              "url": "https://thehill.com/homenews/campaign/5959818-maine-senate-candidate-scandal/"
             },
             {
               "political": "right",
@@ -428,142 +369,8 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Platner campaign putting 'thumb on scale' to influence possible replacement, Maine Dem alleges",
-              "url": "https://www.foxnews.com/politics/platner-campaign-putting-thumb-scale-influence-possible-replacement-maine-dem-alleges"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Graham Platner trying to put ‘thumb on the scale’ as Maine Democrats look for replacement Senate candidate, state party claims",
-              "url": "https://nypost.com/2026/07/08/us-news/graham-platner-trying-to-put-his-thumb-on-the-scale-as-maine-democrats-look-for-replacement-senate-candidate-state-party-claims/"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Trump floats Ukraine Patriot production license ahead of Zelenskyy meeting",
-          "neutralSummary": "Trump floats Ukraine Patriot production license ahead of Zelenskyy meeting&nbsp;&nbsp;PoliticoIn shift, Trump praises Zelensky, will let Ukraine build Patriot missiles&nbsp;&nbsp;The Washington PostTrump says US will let Ukraine make Patriot missiles in major policy shift&nbsp;&nbsp;Fox NewsLive upd",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "Trump floats Ukraine Patriot production license ahead of Zelenskyy meeting",
-              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORnF6clAwbTRaMXpOc1hwWVFMUGFfM1FFYXd0MklGTDFKX252OWdfYkw1a2FBbkE1YWVaanVfNVgzMTBqM1JscXdtZkExTkVzMVpOV0RDUjRZMjFHNWt5NDZXWUt2SVVqV2JVcHlKY3FsMUJWcEZBUDBjZlczRVV2N09zZTRqQnIzb3NGeWVWQ0pwRWh5Mm1DWUFRQVkzVlVLRVZfc3FuVFdUenVZQkpXUEJvZWxOLUxnQno4ZTRkUGZ3Zw?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump says US will let Ukraine make Patriot missiles in major policy shift",
-              "url": "https://www.foxnews.com/politics/trump-says-us-let-ukraine-make-patriot-missiles-major-policy-shift"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Trump says he’ll give Ukraine the right to make Patriot missiles",
-              "url": "https://nypost.com/2026/07/08/us-news/trump-says-hell-give-ukraine-the-right-to-make-patriot-missiles/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Trump Says Interim Accord To End War Is 'Over' After Iranian Strikes",
-          "neutralSummary": "Although Trump has at times stepped back from threats he has made against Iran, oil prices surged and stocks fell after his latest comments.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Says Interim Accord To End War Is 'Over' After Iranian Strikes",
-              "url": "https://www.huffpost.com/entry/trump-says-mou-is-over_n_6a4e1cade4b0a7adb6d85713"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Trump Gives Iran A Rare Warning Before New Strikes",
-              "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "'Made Us Look Like Cheaters': MS Now Host Reveals True Toll Of Donald Trump's World Cup Meddling",
-          "neutralSummary": "The president's intervention in FIFA backfired in two big ways, said Katy Tur.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "'Made Us Look Like Cheaters': MS Now Host Reveals True Toll Of Donald Trump's World Cup Meddling",
-              "url": "https://www.huffpost.com/entry/katy-tur-donald-trump-world-cup-meddling_n_6a4dee3de4b0a7adb6d83be2"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Is Trump’s World Cup meddling a true scandal, or standard FIFA corruption?",
-              "url": "https://www.vox.com/culture/494449/balogun-red-card-world-cup-2026-us-belgium-trump-explained"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Idaho mom charged with murder after blaming vaccines in death of her twins",
-          "neutralSummary": "An Idaho mother who allegedly claimed her twins died after receiving three vaccines has been charged with murder in their deaths, officials said last week.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "She blamed flu shots for her twins’ deaths. Now she’s charged with murder.",
-              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeTZZcV9TQnRXcnVpYTZjdy02bHNHVnFoUzd2T0hOTDEwbkkyNkVPY0ZEMWc3cjBfRXE1bWItakwzbTlPOXZJa3V3S0NLWElwUXpRd1RnaDhxUlVRcDExcGZoNHdFU0xOaXJoS1VrZk40X3BUZVV6UXhEY0pvRGZvekI3WWlEQzl2WTdWMzFaWEJFVTIxallHaU5lYnFlcDlaTndvclBvenlZS2NOcC1IbDdiVUJQVWs?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Idaho mom charged with murder after blaming vaccines in death of her twins",
-              "url": "https://thehill.com/homenews/state-watch/5955066-idaho-mom-vaccines-deaths/"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Beshear requests McConnell health update",
-          "neutralSummary": "Kentucky Gov. Andy Beshear (D) sent a letter to Sen. Mitch McConnell&#8217;s (R-Ky.) office on Wednesday, asking for a health update on the senator after he was admitted to the hospital on June 14. “Over the last several weeks, Kentuckians have grown increasingly concerned about the health and well-",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Beshear requests McConnell health update",
-              "url": "https://thehill.com/homenews/senate/5958881-beshear-requests-mcconnell-health-update/"
+              "headline": "Platner drops out of crucial Senate race after bombshell rape allegation torpedoes campaign",
+              "url": "https://www.foxnews.com/politics/platner-drops-out-crucial-race-after-bombshell-rape-allegation-torpedoes-senate-campaign"
             },
             {
               "political": "right",
@@ -571,8 +378,183 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Andy Beshear requests update on Mitch McConnell’s health",
-              "url": "https://www.washingtonexaminer.com/policy/healthcare/4640327/kentucky-andy-beshear-update-mitch-mcconnell-health-speculation-unfair/"
+              "headline": "Maine Democrats vote to hold nominating convention after Platner exits Senate race",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4641710/maine-democrats-nominating-convention-platner/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Trump stops to transfer from old to new AF1 in the UK on the last leg of NATO trip",
+          "neutralSummary": "President Trump stopped in the United Kingdom on Wednesday to transfer from the old Air Force 1 to the newer Qatari vessel for his last leg of the trip home from the NATO summit in Turkey.&#160; Iran warned that it has “no red lines” when it comes to its defense, leading some to speculate that&#8230",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump’s Mixed Messages at NATO Summit",
+              "url": "https://www.nytimes.com/video/us/100000011017842/trumps-mixed-messages-at-nato-summit.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "news.google.com",
+              "headline": "Sabre-rattling to ‘tremendous love’: erratic Trump dominates final hours of Nato summit",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTDROVmZnTFJ4VkJkZE12U01EQVBpb204YzIxUXdWR003WV9KeUtnUUZfVnpiNTBTRkwyX19XeEZNYTVLa0RFQmhnQ1ViSi1yekhPbldVTHpVZE1kYUtNRlZaa0JYZ2MxNlNMakZUNm5XOEpOTi01ZVJrSG1XdGhzQXhfNG1fVHNvS1llUzhRbm14U3l1WkZuOQ?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump stops to transfer from old to new AF1 in the UK on the last leg of NATO trip",
+              "url": "https://thehill.com/homenews/administration/5960169-trump-iran-threat-air-force-one/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "How Trump’s son-in-law sparked a revolt in Albania",
+          "neutralSummary": "The Trump family has had Albanians up in arms for over a month now, as anger over a luxury real estate development has grown into a protest movement against government corruption and what they see as a political system that protects the corrupt over its citizens. Many observers describe the demonstr",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "How Trump’s son-in-law sparked a revolt in Albania",
+              "url": "https://www.vox.com/podcasts/494431/jared-kusher-ivanka-trump-albania-sazan-protest-movement-explained"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Inspiration for Trump's arch was sparked long before the design was first approved",
+              "url": "https://www.npr.org/2026/07/08/nx-s1-5869629/trump-arch-inspiration-long-before-design-approved"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Second Memphis fatal shooting in 4 days by federal task force, officials say",
+          "neutralSummary": "Second Memphis fatal shooting in 4 days by federal task force, officials say&nbsp;&nbsp;CBS NewsTask force shoots, kills armed fugitive at East Memphis hotel&nbsp;&nbsp;WREG.comFourth person killed by agents from Trump’s Memphis anticrime taskforce&nbsp;&nbsp;The GuardianNational Guard soldiers fata",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Second Person in a Week Killed by Federal Task Force in Memphis",
+              "url": "https://www.nytimes.com/2026/07/08/us/shootings-federal-task-force-memphis.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "Second Memphis fatal shooting in 4 days by federal task force, officials say",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRndCaDd2VS1pUFk0SVB2a2h3aUl2QzZNUTZVaElNUWw3VE9ZV0prZHNJcEhESTNuNlhqRzFOQzdTaF9SU3dDOHM5M0l0ZnQ0UVZEaTV1aHBRMTUtWEt6YkJ3Q2YxdFdOVUZGbnNRbUZjQ0tuN1hIaFBLcWxzUTNhX3pGQ182ZzBUSE5uSmV6cTI?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Trump Says He’ll Ask Supreme Court to Rehear Citizenship Case, an Unlikely Event",
+          "neutralSummary": "The last time the justices granted a rehearing request after a case decision was in 1965. The court has only once reversed itself after rehearing a case.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Says He’ll Ask Supreme Court to Rehear Citizenship Case, an Unlikely Event",
+              "url": "https://www.nytimes.com/2026/07/08/us/politics/trump-supreme-court-birthright-citizenship.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump demands rehearing after Supreme Court’s ‘insane’ birthright citizenship ruling",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4641535/trump-rehearing-supreme-court-birthright-citizenship/"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Who is Nirav Shah, a Democrat interested in running for Senate in Maine?",
+          "neutralSummary": "Dr. Shah, an epidemiologist who led Maine’s response to the coronavirus pandemic, finished second in the ranked-choice primary for governor.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Who is Nirav Shah, a Democrat interested in running for Senate in Maine?",
+              "url": "https://www.nytimes.com/live/2026/07/08/us/graham-platner-maine-suspends-campaign/nirav-shah-maine-senate"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Security Precaution Led Trump to Use Old Air Force One in Leaving Turkey",
+          "neutralSummary": "The Secret Service is said to have asked that the president not use the Qatari-donated jet when he left Ankara. The swap deepens questions about the retrofitting of the new plane.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Security Precaution Led Trump to Use Old Air Force One in Leaving Turkey",
+              "url": "https://www.nytimes.com/2026/07/08/us/politics/trump-air-force-one-security.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump explains why he's flying old Air Force One back to DC",
+              "url": "https://www.foxnews.com/politics/trump-explains-why-hes-flying-old-air-force-one-back-dc"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "U.S.-Iran Latest: U.S. launches more strikes against Iran after Trump says ceasefire is \"over\"",
+          "neutralSummary": "U.S.-Iran Latest: U.S. launches more strikes against Iran after Trump says ceasefire is \"over\"&nbsp;&nbsp;CBS NewsLive updates: US and Iran trade strikes for second day after Trump said ceasefire is ‘over’&nbsp;&nbsp;CNNOil Prices Rise Further After Another Round of Strikes in the Gulf&nbsp;&nbsp;Th",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "U.S. Begins Second Day of Strikes Against Iran",
+              "url": "https://www.nytimes.com/2026/07/08/us/politics/us-iran-strikes.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "U.S.-Iran Latest: U.S. launches more strikes against Iran after Trump says ceasefire is \"over\"",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUFFBSHNtaThwT3hnaEw0dFIwcGlLV1poQ2FGckVQZTZxb2lCRFktbi1CbElkOElkck9DaFdBa25yTzE0eklja2t4MENnSXk4NHVCLTdOdThQby0tOWc3VnVwSkNiYm1iWmh1aVdLTnFWdk03NVFpMmhsY2czS1FybQ?oc=5"
             }
           ]
         }
@@ -583,8 +565,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Six schools fill at least half their spots after first phase of Primary 1 registration exercise 2026",
-          "neutralSummary": "Phase 1, which is for children with older siblings already in the school, took place from June 30 to July 2.",
+          "neutralHeadline": "Eligible Singaporeans to receive up to $850 in GSTV cash, up to $450 in MediSave top-ups in August",
+          "neutralSummary": "Singaporeans who haven't already signed up for these schemes may do so by July 14 to receive their payments in August.",
           "versions": [
             {
               "political": "center",
@@ -592,127 +574,13 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Six schools fill at least half their spots after first phase of Primary 1 registration exercise 2026",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/six-schools-fill-at-least-half-their-spots-after-first-phase-of-primary-1-registration-exercise-2026"
+              "headline": "Eligible Singaporeans to receive up to $850 in GSTV cash, up to $450 in MediSave top-ups in August",
+              "url": "https://www.straitstimes.com/singapore/eligible-singaporeans-to-receive-up-to-850-in-gstv-cash-up-to-450-in-medisave-top-ups-in-august"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Thai beer dynasty mother drops 'ungrateful child' case against son",
-          "neutralSummary": "Thai beer dynasty mother drops 'ungrateful child' case against son",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Thai beer dynasty mother drops 'ungrateful child' case against son",
-              "url": "https://www.channelnewsasia.com/asia/thai-beer-singha-ungrateful-child-law-inheritance-jeeranuch-bhirombhakdi-siranudh-psi-scott-6240631"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
-          "neutralHeadline": "AI chip startup SambaNova valued at $11 billion in $1 billion funding round",
-          "neutralSummary": "AI chip startup SambaNova valued at $11 billion in $1 billion funding round",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "AI chip startup SambaNova valued at $11 billion in $1 billion funding round",
-              "url": "https://www.channelnewsasia.com/business/ai-chip-startup-sambanova-valued-11-billion-in-1-billion-funding-round-6240926"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "AI Chip Startup SambaNova Raises Funds at $11 Billion Value",
-              "url": "https://www.bloomberg.com/news/articles/2026-07-08/ai-chip-startup-sambanova-raises-funds-at-11-billion-valuation"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Trump declares Iran ceasefire ‘over’, China calls for de-escalation",
-          "neutralSummary": "Trump declares Iran ceasefire ‘over’, China calls for de-escalation&nbsp;&nbsp;South China Morning PostTrump says Iran ceasefire over after fighting flares up&nbsp;&nbsp;The Straits TimesSnap Insight: US-Iran MOU now on life support. What’s next?&nbsp;&nbsp;CNATrump declares ceasefire with Iran over",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "South China Morning Post",
-              "initials": "SC",
-              "domain": "news.google.com",
-              "headline": "Trump declares Iran ceasefire ‘over’, China calls for de-escalation",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnVzS1hMcVRpUVFrZ1UyN1BZSEFXRG5sdVlXNmxBckFvVXhGaW41bG5RVWp4RnJGdnJGaWdYZ0g1ZU1NOXVHWHVpYnRKeFZPUzNfekR1UGpmaW55MGs4Zm1LZkF1RTd5eG5aRXVTOG95bmNYZnVualV2TFk0NUExMU1kSVd1MTRudzhmQTNsYkYycjFtQnFJ0gGXAUFVX3lxTFAxUmtaTUx1Y3F0X01ad2hNVzl4S3JIeG1GZDh1Y3Z3V2VnaTBJenFlbExOU1E1NkswN2ZyeUtMQ1NfQXVRUjdfX0steDNLM1VXNTlYcGZQSjRfenRyZ2xMNEZUMGozX3JTc1pJdlpXNWJDMEdPc28tM00wcjRmRU02MVV3aTd6di05XzFVUUdYWC1zOXBsdEk?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Gold Drops on Rate-Hike Fears as Trump Says Iran Ceasefire Over",
-              "url": "https://www.bloomberg.com/news/articles/2026-07-07/gold-holds-drop-as-us-strikes-in-iran-cloud-rate-hike-outlook"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap",
-          "neutralSummary": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap&nbsp;&nbsp;Bloomberg.comTanker attacks send oil higher, stocks hit by AI jitters&nbsp;&nbsp;CNAThe U.S. strikes Iran, Samsung's Wall Street letdown, using AI for financial planning and more in Morning Squawk&nbsp;&nbsp;CNBCStock market",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "news.google.com",
-              "headline": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVQtaEVKRHlPRXhIemJ0WElRcjIydmxfX1MzTm1MXzhBeGh5MXRYUFlmUlRxTWJ2eURZc3hDSmFId0VaVTIyZEJxRkp6MHZWUGpzcHpQN0xEbEFLWUlWUC1rbVM4LXUtNWtRUjN6cmtfVkNSdjYxLVpjVkgxbVRYcGktZVhRbjE2MWdmbmFzaUQ4TUVpMHItTHR3cFU3elRSTUp0a0VDV3BjRUtXN00yZGh3aw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Police searching for 44-year-old driver involved in hit-and-run in Punggol",
-          "neutralSummary": "The incident involved a car and a van at Block 122A Edgedale Plains.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Police searching for 44-year-old driver involved in hit-and-run in Punggol",
-              "url": "https://www.straitstimes.com/singapore/police-searching-for-driver-involved-in-hit-and-run-in-punggol"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Missing: 13-year-old girl last seen in Tampines",
-          "neutralSummary": "She was last seen near Tampines Bus Interchange wearing a purple T-shirt and black shorts.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Missing: 13-year-old girl last seen in Tampines",
-              "url": "https://www.straitstimes.com/singapore/missing-13-year-old-girl-last-seen-in-tampines"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
           "neutralHeadline": "Man to be charged over fake bomb threats at government buildings, including Parliament House",
           "neutralSummary": "The 40-year-old man allegedly sent the bomb threats on July 3 and 7.",
           "versions": [
@@ -724,13 +592,38 @@
               "domain": "straitstimes.com",
               "headline": "Man to be charged over fake bomb threats at government buildings, including Parliament House",
               "url": "https://www.straitstimes.com/singapore/man-to-be-charged-over-fake-bomb-threats-at-government-buildings-including-parliament-house"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Man charged with emailing PM Wong false bomb threat targeting Parliament House",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3NaU2hKd01aaVdwYWhpUDdVRUhydVFmLVVnYk1QczBOS3FSRzlGZG9tU3gwR2d4Ull3NnVzbXBJenYtZGlwR1MwVkVCeURvazZhLV9yUTlhalhlQ3BkMzRsWWxqdTZfcHFJeDdxTHZ2aVlXdmpWcWlvaXAxeEFQZmdKa1ZpNmNsR05yVllVQ3hsTFU5SE1pRER1NERBYWxKRTBZSy02RQ?oc=5"
             }
           ]
         },
         {
-          "id": "singapore-9",
-          "neutralHeadline": "MOH probing LC Nursing Home founder for possible non-disclosure of disciplinary actions during licensing",
-          "neutralSummary": "Chia Yang Pong was struck off the medical register in 2004 in a high-profile case.",
+          "id": "singapore-3",
+          "neutralHeadline": "Oil rises after US launches fresh strikes on Iran",
+          "neutralSummary": "Oil rises after US launches fresh strikes on Iran",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Oil rises after US launches fresh strikes on Iran",
+              "url": "https://www.channelnewsasia.com/business/oil-rises-after-us-launches-fresh-strikes-iran-6242531"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "18 SIA, Scoot flights to and from S’pore affected as Typhoon Bavi approaches Taiwan and China",
+          "neutralSummary": "Flights to and from Tokyo, Sapporo, Seoul and Taipei have been cancelled or retimed.",
           "versions": [
             {
               "political": "center",
@@ -738,8 +631,88 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "MOH probing LC Nursing Home founder for possible non-disclosure of disciplinary actions during licensing",
-              "url": "https://www.straitstimes.com/singapore/health/moh-investigating-lc-nursing-home-founder-for-possible-non-disclosure-of-disciplinary-actions-at-the"
+              "headline": "18 SIA, Scoot flights to and from S’pore affected as Typhoon Bavi approaches Taiwan and China",
+              "url": "https://www.straitstimes.com/singapore/18-sia-scoot-flights-to-and-from-spore-affected-as-typhoon-bavi-approaches-taiwan-and-china"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Not all that glitters is gold: Buyers advised to verify marketing claims when jewellery shopping",
+          "neutralSummary": "A test found that the gold layer in three pieces of gold-wrapped silver jewellery varied in thickness.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Not all that glitters is gold: Buyers advised to verify marketing claims when jewellery shopping",
+              "url": "https://www.straitstimes.com/singapore/not-all-that-glitters-is-gold-consumers-advised-to-verify-marketing-claims-when-jewellery-shopping"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Man charged after allegedly making false bomb threats to Prime Minister’s Office, HTX",
+          "neutralSummary": "Koh Jye Shyang, 40, was handed two charges.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Man charged after allegedly making false bomb threats to Prime Minister’s Office, HTX",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/man-charged-after-allegedly-making-false-bomb-threats-to-prime-ministers-office-htx"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "AI models tuned to S’pore patients’ clinical data being built under new national drive",
+          "neutralSummary": "The initiative aims to help clinicians better diagnose diabetes, high cholesterol, eye diseases.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "AI models tuned to S’pore patients’ clinical data being built under new national drive",
+              "url": "https://www.straitstimes.com/singapore/ai-models-tuned-to-spore-patients-clinical-data-being-built-under-new-national-drive"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "Cyclist taken to hospital after accident involving taxi in Ang Mo Kio",
+          "neutralSummary": "The 56-year-old cyclist was taken conscious to Tan Tock Seng Hospital.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Cyclist taken to hospital after accident involving taxi in Ang Mo Kio",
+              "url": "https://www.straitstimes.com/singapore/cyclist-taken-to-hospital-after-accident-involving-taxi-in-ang-mo-kio"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
+          "neutralHeadline": "8 taken to hospital, including 2 with minor burn injuries, after fire in Tuas dormitory",
+          "neutralSummary": "The fire involved items at the entrance of a dormitory unit on the second floor, said the SCDF.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "8 taken to hospital, including 2 with minor burn injuries, after fire in Tuas dormitory",
+              "url": "https://www.straitstimes.com/singapore/8-taken-to-hospital-including-2-with-minor-burn-injuries-after-fire-in-tuas-dormitory"
             }
           ]
         }
@@ -750,51 +723,26 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Pakistan Locates Wreckage Of Missing Cargo Plane In Sea, Search On For Crew",
-          "neutralSummary": "The plane was approaching Karachi from Sharjah.",
+          "neutralHeadline": "Weather LIVE Updates: Red alert in Delhi, Ghaziabad, Gurgaon flooded; Wayanad’s death toll rises to 4",
+          "neutralSummary": "Weather LIVE Updates: The India Meteorological Department (IMD) issued 'red' and 'orange' alerts, warning of thunderstorms and more rain.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Pakistan Locates Wreckage Of Missing Cargo Plane In Sea, Search On For Crew",
-              "url": "https://www.ndtv.com/world-news/pakistan-locates-wreckage-of-missing-boeing-cargo-plane-in-sea-search-on-for-crew-11745234#publisher=newsstand"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Wayanad debris slip: 2 more bodies recovered from site; death toll rises to 5",
+              "url": "https://www.thehindu.com/news/national/kerala/wayanad-debris-slip-one-more-body-recovered-from-site-death-toll-rises-to-4/article71200902.ece"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Pakistan cargo plane wreckage found in Arabian Sea after disappearing en route to Karachi; 5 crew still missing",
-              "url": "https://indianexpress.com/article/world/wreckage-of-missing-pakistan-cargo-plane-found-says-airports-authority-10777823/"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Pakistan searches for Boeing cargo plane missing over Arabian Sea",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzlnbVRUQjdlMHVDRjBaUnFZX20zTGlsVXlFT2FvVkdPd1BILUhiWF9nbElSTDhNemZWNVFHcnJfQmVhbE9PSFd0VV9LN0IwV25RSTl3eVBzN2daS3pTOFgwR0dJY3pXVjZ1c1hidUxXYkV2RDZMY1A1dHdSVm52dFZUVmF6Mmh1LVVUcFlrRFhWcXdod1V1bjVSVU51ajFrNWNzVTE2ZlTSAa4BQVVfeXFMUGEyWVlIQXRSR21PUzI2TUJPLWxQSDZSMUotNi1VRUdjUURsNXg4bVlTQm1na0x6TkE3ajJBYWdkNlRvTG93QUNNOWNDZ2Iyc05UbFBXSXRtLXRhb1RWUm80VnRVWHZKYW54ZHR0cDliZHlrOXNvZGdyajZqcHhNLWNEUVVpOVltd05kOUF5dmZDLU50czRjUjFrdVRzcmhTaDBwUFhKRHZWM0RGcXBn?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "Trump to let Ukraine make Patriots",
-          "neutralSummary": "Trump to let Ukraine make Patriots",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "US To Let Ukraine Make Patriot Missiles To Fight Russia, Says Trump",
-              "url": "https://www.ndtv.com/world-news/us-to-let-ukraine-make-patriot-missiles-to-fight-russia-says-trump-11745233#publisher=newsstand"
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Weather LIVE Updates: Red alert in Delhi, Ghaziabad, Gurgaon flooded; Wayanad’s death toll rises to 4",
+              "url": "https://www.hindustantimes.com/india-news/weather-today-live-updates-imd-delhi-mumbai-pune-gurugram-noida-wfh-wayanad-landslide-cloudburst-himachal-floods-traffic-101783561201556.html"
             },
             {
               "political": "center",
@@ -802,15 +750,15 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Trump to let Ukraine make Patriots",
-              "url": "https://economictimes.indiatimes.com/news/defence/trump-says-us-to-give-ukraine-the-right-to-make-patriot-missiles/articleshow/132265054.cms"
+              "headline": "Wayanad landslide death toll rises to four",
+              "url": "https://economictimes.indiatimes.com/news/india/one-more-body-recovered-from-wayanad-landslide-site-death-toll-rises-to-four/articleshow/132276806.cms"
             }
           ]
         },
         {
-          "id": "india-3",
-          "neutralHeadline": "BJP supporters attacked TMC rally, assaulted women, says Mamata Banerjee",
-          "neutralSummary": "On Tuesday, the high court allowed the Mamata Banerjee-led TMC to hold the rally over the rape and murder of a 12-year-old girl in Baruipur",
+          "id": "india-2",
+          "neutralHeadline": "PM Modi's Australia visit: Early trade pact, big investment, clean energy and more",
+          "neutralSummary": "India and Australia are strengthening economic ties and bilateral cooperation. Prime Minister Modi invited Australian businesses to invest in India's expanding economy. AustralianSuper announced a significant new investment in India's infrastructure fund. Discussions covered opportunities in clean e",
           "versions": [
             {
               "political": "left",
@@ -818,8 +766,76 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Video: Mamata Banerjee Slaps Man Amid Trinamool vs BJP At Kolkata Rally",
-              "url": "https://www.ndtv.com/india-news/video-mamata-banerjee-slaps-man-amid-trinamool-vs-bjp-at-kolkata-rally-11745000#publisher=newsstand"
+              "headline": "PM Modi Highlights Australia's Role In India's 500 GW Renewable Energy Target",
+              "url": "https://www.ndtv.com/world-news/pm-modi-highlights-australias-role-in-indias-500-gw-renewable-energy-target-11746902#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "PM Modi's Australia visit: Early trade pact, big investment, clean energy and more",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/india-australia-ties-early-trade-pact-500-million-investment-clean-energy-and-more-top-highlights-from-pm-modis-visit/articleshow/132276284.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Australia Agrees to Sell Uranium to India During Modi Visit",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-09/australia-agrees-to-sell-uranium-to-india-during-modi-visit"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "US releases Iran strike footage",
+          "neutralSummary": "US releases Iran strike footage",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "US releases Iran strike footage",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/us-releases-footage-of-strikes-on-90-iranian-military-targets-tehran-warns-of-retaliation/articleshow/132277041.cms"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "news.google.com",
+              "headline": "Video: Iran Releases Footage Of Khamenei's Destroyed Home For The First Time",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSDQ4WGJGMjFUNU03cVZZckcxSXAyYnRCdHZBVjF0eU16M04tMXpwdHR3U1d6LXFqbjg3LW1RNV9YV3FzVEpIdk4zellWWmItVDVMLXktRG1rZVJGNF9BR05aZVlfVDMyUDBvaVl3UmdTWU9yUEd5ajVDR0xobEtidzUxVmNwYnFpRmZEMGQ0Z2hxY0FUMmRqbnptcmlFMm5FblphSGhUaXU3dFRRZUxUOUM5V2lLZ9IBvgFBVV95cUxONk0zLThhMWJxNngzY01BaEFaTjEwbUhuY2hlNkZCMDM4RG5wWU1qbjZPdExESnJqVDBrQ1gtaG9RMkpRVDBKZTlUcTlnZC13bVMwLXc2SkZzeVFSN3VIS3Zkc250ZnJreVJZTnBiZlNEV1lsRjQwWG9OVGpMT2lpUzFKbXlLOVZ5UkRibHNBakRsemZYVWNTRlFESUdUS1YzX1NuYnNOQm5uZHhBRFozVjBYU3Q3eVhYQmx0MGhB?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Hormuz Traffic Grinds to Near Halt After US, Iran Strike",
+              "url": "https://www.bloomberg.com/news/videos/2026-07-09/hormuz-traffic-grinds-to-near-halt-after-us-iran-strike-video"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "PM Modi begins key Australia visit with Guard of Honour, bilateral talks",
+          "neutralSummary": "Prime Minister Modi received a ceremonial welcome in Australia, where he addressed business leaders about India's clean energy ambitions.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "PM Modi in Australia LIVE: PM Modi holds delegation-level talks with Australian PM Albanese",
+              "url": "https://www.thehindu.com/news/national/narendra-modi-australia-visit-live-updates-three-nation-tour-green-energy-deals-anthony-albanese-melbourne/article71200835.ece"
             },
             {
               "political": "center",
@@ -827,149 +843,124 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "BJP supporters attacked TMC rally, assaulted women, says Mamata Banerjee",
-              "url": "https://www.hindustantimes.com/india-news/bjp-supporters-attacked-tmc-rally-assaulted-women-says-mamata-banerjee-101783519725583.html"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Watch: Pinaka long-range rocket roars off launcher in DRDO’s latest test",
-          "neutralSummary": "The Defence Research and Development Organisation successfully conducted a flight-test of the Pinaka Long Range Guided Rocket. This successful trial marks another milestone in India's indigenous rocket artillery development. The system is designed to deliver precision strikes at extended ranges for",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "India Tests Pinaka Long-Range Guided Rocket With \"Textbook Precision\"",
-              "url": "https://www.ndtv.com/india-news/india-tests-pinaka-long-range-guided-rocket-with-textbook-precision-11745015#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Watch: Pinaka long-range rocket roars off launcher in DRDO’s latest test",
-              "url": "https://timesofindia.indiatimes.com/defence/news/drdo-successfully-flight-tests-pinaka-long-range-guided-rocket-in-odisha/articleshow/132266041.cms"
+              "headline": "PM Modi begins key Australia visit with Guard of Honour, bilateral talks",
+              "url": "https://www.hindustantimes.com/world-news/pm-modi-begins-key-australia-visit-with-guard-of-honour-bilateral-talks-101783568850799.html"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Trump on Iran: US will probably hit them tonight",
-          "neutralSummary": "Trump on Iran: US will probably hit them tonight",
+          "neutralHeadline": "Monsoon tracker LIVE | Orange alert issued in Delhi",
+          "neutralSummary": "Rain lashed parts of Delhi in the early hours of July 9, extending a wet spell in the national capital and bringing much-needed relief to residents from the recent humid conditions",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Monsoon tracker LIVE | Orange alert issued in Delhi",
+              "url": "https://www.thehindu.com/news/national/monsoon-rain-live-updates-delhi-orange-alert-mumbai-india-imd-weather-forecast-rain-cancelled-flight-latest-news/article71200744.ece"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "US-Iran War Live Updates: Trump Says NATO Failed US On Iran",
-              "url": "https://www.ndtv.com/world-news/us-iran-war-live-updates-us-strikes-iran-after-tanker-attacks-in-hormuz-donald-trump-nato-israel-lebanon-hezbollah-ceasefire-11741497#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Trump on Iran: US will probably hit them tonight",
-              "url": "https://economictimes.indiatimes.com/news/defence/trump-on-iran-us-will-probably-hit-them-again-wednesday-night/articleshow/132264716.cms"
+              "headline": "Weather LIVE Updates: Red Alert For Heavy Rain In Delhi-NCR For Next 3 Hours",
+              "url": "https://www.ndtv.com/india-news/weather-today-live-updates-delhi-ncr-rain-live-monsoon-update-monsoon-spell-continues-in-delhi-waterlogging-in-several-parts-11746704#publisher=newsstand"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "No Evidence Linking Indian Officials To Nijjar Killing: Canada",
-          "neutralSummary": "Trudeau made an allegation linking India to the Sikh separatist's murder",
+          "neutralHeadline": "PM Modi invites Australian businesses to invest in India, seeks early conclusion of CECA",
+          "neutralSummary": "Over the past few years, we have built a strong framework for future cooperation by combining the capabilities of both countries, said Prime Minister Narendra Modi",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "PM Modi invites Australian businesses to invest in India, seeks early conclusion of CECA",
+              "url": "https://www.thehindu.com/news/national/symbol-of-our-shared-confidence-pm-modi-calls-for-deeper-india-australia-strategic-ties-amid-global-uncertainty/article71200802.ece"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "No Evidence Linking Indian Officials To Nijjar Killing: Canada",
-              "url": "https://www.ndtv.com/world-news/canada-police-finds-no-evidence-linking-indian-officials-to-hardeep-singh-nijjar-killing-11744968#publisher=newsstand"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "‘No Indian govt official was involved in Nijjar killing’: US FBI, Canada launch major crackdown on Goldy Brar, Lawrence Bishnoi gangs",
-              "url": "https://www.opindia.com/2026/07/no-indian-govt-official-was-involved-in-nijjar-killing-us-fbi-canada-launch-major-crackdown-on-goldy-brar-lawrence-bishnoi-gangs/"
+              "headline": "\"Win-Win Proposition\": PM Modi Urges Australian Businesses To Invest In India",
+              "url": "https://www.ndtv.com/world-news/pm-modi-urges-australian-businesses-to-invest-in-india-a-win-win-proposition-11747347#publisher=newsstand"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Building collapse in Delhi's Rohini traps several",
-          "neutralSummary": "Building collapse in Delhi's Rohini traps several",
+          "neutralHeadline": "'Symbol of our shared confidence': PM Modi pitches stronger India-Australia ties in Melbourne",
+          "neutralSummary": "'Symbol of our shared confidence': PM Modi pitches stronger India-Australia ties in Melbourne&nbsp;&nbsp;The Times of IndiaIndia-Australia ties: Early trade pact, AUD 500 million investment, clean energy and more —Top highlights from PM Modi's visit&nbsp;&nbsp;The Times of IndiaPM Modi Highlights Au",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Several Feared Trapped As Under-Construction Building Collapses In Delhi",
-              "url": "https://www.ndtv.com/india-news/several-feared-trapped-as-under-construction-house-collapses-in-delhi-11744601#publisher=newsstand"
+              "headline": "PM Modi, Anthony Albanese Frame India-Australia Ties In A Historic Selfie",
+              "url": "https://www.ndtv.com/world-news/pm-modi-anthony-albanese-frame-india-australia-ties-in-a-historic-selfie-11746922#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Building collapse in Delhi's Rohini traps several",
-              "url": "https://economictimes.indiatimes.com/news/india/building-collapse-in-delhis-rohini-traps-several-rescue-operation-underway/articleshow/132264071.cms"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "'Symbol of our shared confidence': PM Modi pitches stronger India-Australia ties in Melbourne",
+              "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUGN3ZFFrM2tMUWdVaWttNnVsTkJzbjluRWRxUWo2aWFncWJTRDNFVDVQZ0pvZW0tSVh1a0VZblo2eVpiakx3eXRSRWxHWDMzaGJnU2ZPb2Q5RVFDYTk3U09aR205eG9Zck9ZcnJJTXJ6NGVmQ1p0dm5ObTBpb3prTFBZeWhnb3pfaGxxMF85NDRfMHBTRHBoa1pUN0NSc0FCeW1TalQyNmxRbUlCYmVFTVRVUWRsdzFDT2NrWTg3cndDVU91TTVKLXdNbHVCOGJkdXItdnllampyUDdsRVpzX040VVkzMnpWTnMyLUduRQ?oc=5"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Baruipur rape and murder: Accused Prabhas Mondal killed by police during crime scene reconstruction",
-          "neutralSummary": "Baruipur rape and murder: Accused Prabhas Mondal killed by police during crime scene reconstruction&nbsp;&nbsp;Telegraph India\"Did Wrong, Was Punished\": Bengal Rape-Murder Accused's Mother On His Encounter&nbsp;&nbsp;NDTVRape, lynching, encounter and murder: Baruipur becomes flashpoint for Bengal's",
+          "neutralHeadline": "‘I’m number 1 on Iran's list': Trump claims big threat aboard Air Force One, also warns reporters | World News",
+          "neutralSummary": "‘I’m number 1 on Iran's list': Trump claims big threat aboard Air Force One, also warns reporters | World News&nbsp;&nbsp;Hindustan Times\"I May Be Gone\": Trump Says He's \"Number One\" On Iran's \"Kill List\"&nbsp;&nbsp;NDTV'On every single of their list': Trump claims Iran is plotting to assassinate hi",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Police resort to baton charge as BJP, TMC workers clash during protest over Baruipur rape",
-              "url": "https://indianexpress.com/article/cities/kolkata/baruipur-rape-protest-bjp-tmc-clash-police-baton-charge-10777834/"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "\"I May Be Gone\": Trump Says He's \"Number One\" On Iran's \"Kill List\"",
+              "url": "https://www.ndtv.com/world-news/i-may-be-gone-donald-trump-says-hes-number-one-on-irans-kill-list-11747221#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "pessimistic",
-              "source": "AP",
-              "initials": "AP",
+              "source": "Hindustan Times",
+              "initials": "HT",
               "domain": "news.google.com",
-              "headline": "Baruipur rape and murder: Accused Prabhas Mondal killed by police during crime scene reconstruction",
-              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQmJmMVVBamdHZFVHSDNDT1VTUGVNdm92T2s4aE5wYXdoX0NkZEwxNGktZWdwbVo4U1R5QUlpQnNESm9tZmtNMDR2cVhsUUw1dU14a3p1NXktaHJZMWppRTRJZ0loRWg1WFhld2g5TDVlNmZaWGhJMV9LNGZyLXlRa2pHdmdFMVgzbjNYZHZNM2hRRWlwNXVKZXVSVjg3Vk5qbERJTlNCQzJZMjBNQlBnRHF1Z3hWdzVNTEZEMHdpMk44WHU1N0E?oc=5"
+              "headline": "‘I’m number 1 on Iran's list': Trump claims big threat aboard Air Force One, also warns reporters | World News",
+              "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT2E4cFpzQzRreGZMMl9DeVc0N2dtWXlWVUJQeTZJTkpuUEJ6allkSXFUY0R0OENzVEt2VHpyLXF6bVo3LWVFVVc1Q2pTNG42UnpjclZMYTc0S0g1Q2VqQXM1cFQzR3NHdkpuWE84bFprWVNBdmFoakhLZWxjRC0wOU9qUWJFWWZvNWVMbnlLR2NuZkRzaTc0THo4NEhQdWJxWXpuNUprUjA2YXYxTUI4aUV2NEhyb1BlV05XdElpVXRmbW1DdmJwM0JqNDE5a1RVRlBmQWVhU3RCcm5DcEhKNWJTbzRta254LVVuZEpRZTEwWDJvb0tnOHFTZnZaMlVTaWljRW1udkU?oc=5"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "England legend to retire after Lord's Test against India; check stats &amp; records",
-          "neutralSummary": "The 35-year-old will bring the curtain down on an international career that began in 2009.",
+          "neutralHeadline": "'Called a little while ago': Trump says Iran wants 'deal badly' after fresh US strikes",
+          "neutralSummary": "'Called a little while ago': Trump says Iran wants 'deal badly' after fresh US strikes",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Pratika Rawal ruled out of India’s one-off Test vs England",
-              "url": "https://indianexpress.com/article/sports/cricket/pratika-rawal-ruled-out-of-indias-one-off-test-vs-england-10777768/"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "'Begging For Deal': Trump Shares Video Of '20 Times' Bigger US Strikes On Iran",
+              "url": "https://www.ndtv.com/world-news/begging-for-deal-trump-shares-video-of-20-times-bigger-us-strikes-on-iran-11746875#publisher=newsstand"
             },
             {
               "political": "center",
@@ -977,8 +968,8 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "England legend to retire after Lord's Test against India; check stats &amp; records",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/news/englands-legend-tammy-beaumont-to-retire-after-lords-test-against-india-ends-17-year-international-career-check-stats-records/articleshow/132265422.cms"
+              "headline": "'Called a little while ago': Trump says Iran wants 'deal badly' after fresh US strikes",
+              "url": "https://timesofindia.indiatimes.com/world/middle-east/they-called-a-little-while-ago-trump-claims-iran-wants-to-make-deal-badly-after-fresh-us-strikes/articleshow/132277827.cms"
             }
           ]
         }
