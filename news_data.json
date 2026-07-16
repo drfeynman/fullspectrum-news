@@ -1,31 +1,133 @@
 {
-  "generatedAt": "2026-07-15T14:56:57.806651+00:00",
+  "generatedAt": "2026-07-16T04:50:51.527540+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Iran And U.S. Stage New Attacks, Battle Over Control Of Strait Of Hormuz",
-          "neutralSummary": "Oil prices rose again on Tuesday, with Brent crude futures hitting more than $86 per barrel, but were still well below the peak since the war began.",
+          "neutralHeadline": "World Cup 2026: Argentina complete comeback to beat England and reach final",
+          "neutralSummary": "World Cup 2026: Argentina complete comeback to beat England and reach final",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Iran And U.S. Stage New Attacks, Battle Over Control Of Strait Of Hormuz",
-              "url": "https://www.huffpost.com/entry/iran-us-new-attacks-strait-of-hormuz_n_6a561167e4b0ac1765ef842c"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Old rivals, new battle: Argentina and England clash in World Cup Semifinal",
+              "url": "https://www.npr.org/2026/07/15/nx-s1-5893686/old-rivals-new-battle-argentina-and-england-clash-in-world-cup-semifinal"
             },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Celebrations erupt in Argentina’s capital after World Cup semifinal win",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/celebrations-erupt-in-argentinas-capital-after-world-cup-semifinal-win?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "World Cup 2026: Argentina complete comeback to beat England and reach final",
+              "url": "https://www.france24.com/en/sport/20260715-world-cup-2026-argentina-complete-comeback-to-beat-england-and-reach-final"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Middle East live: US launches fresh strikes on Iran as Hormuz remains paralysed",
+          "neutralSummary": "The United States launched a fresh wave of strikes against Iran on Wednesday, targeting military capabilities linked to threats against shipping in the Strait of Hormuz. President Donald Trump warned he could widen the campaign unless Tehran returned to negotiations. Follow our liveblog for the late",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-              "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss"
+              "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+              "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Iran launches strikes on Gulf, even as FM visits Qatar",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Middle East live: US launches fresh strikes on Iran as Hormuz remains paralysed",
+              "url": "https://www.france24.com/en/middle-east/20260716-middle-east-live-us-launches-fresh-strikes-on-iran-as-hormuz-remains-paralyzed"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Gold Declines as Fresh US Strikes on Iran Fuel Inflation Fears",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-15/gold-steadies-as-soft-inflation-war-risk-cloud-fed-rate-outlook"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Trump resumes Iran port blockade and threatens strikes on energy targets",
+          "neutralSummary": "Trump resumes Iran port blockade and threatens strikes on energy targets&nbsp;&nbsp;Yahoo News UKUS resumes blockade on Iran, launches strikes after attacks in Strait of Hormuz&nbsp;&nbsp;Fox NewsLive updates: US pounds Iranian targets for fifth day, strikes tanker bound for key oil port&nbsp;&nbsp;",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Iran Threatens To Halt All Mideast Energy Exports After Trump Reimposes Naval Blockade",
+              "url": "https://www.huffpost.com/entry/iran-threatens-energy-exports-amid-us-blockade_n_6a574963e4b0d0cec7ce2f7f"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Yahoo News UK",
+              "initials": "YN",
+              "domain": "news.google.com",
+              "headline": "Trump resumes Iran port blockade and threatens strikes on energy targets",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTW1DVzNxMUs1U2htTWd5Y0gtYnF5SUxnYU16UWE4c1VFeFR6SW03VUlLWW1TZk1yRmJ4eVUtUTZlenJ0YWc5eVhPUW0teWRTamF6TjVCcFFGWlBuNG0tVTFsMDJoMENXM2ZTeDUzU1FOeFVGRjRnZW5ZeHVGOG8xVU1xdlNPaFNIeWd5OWNBekcxdDRiWGFrTmNUN2xiT2c1cWMtMEJIMVYtM0sxZ1dpcTVlQQ?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "US launches ‘wave of strikes’ on Iran, Tehran threatens to halt regional energy exports",
+              "url": "https://www.france24.com/en/middle-east/20260715-us-launches-wave-of-strikes-on-iran-tehran-threatens-to-halt-regional-energy-exports"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Five arrested after Hong Kong police raid independent bookshops",
+          "neutralSummary": "Officials say they are suspected of selling \"seditious\" books which incited \"hatred\" against authorities.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Five arrested after Hong Kong police raid independent bookshops",
+              "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -33,13 +135,38 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "The U.S. and Iran standoff over the Strait of Hormuz intensifies",
-              "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates"
+              "headline": "Hong Kong booksellers arrested for allegedly selling seditious books",
+              "url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books"
             }
           ]
         },
         {
-          "id": "global-2",
+          "id": "global-5",
+          "neutralHeadline": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
+          "neutralSummary": "Since start of Trump’s second term, 14 Mexican immigrants have died in ICE custody and three in agency operationsMexico formally requested that US state attorneys general criminally investigate cases of immigrants who have died in Immigration and Customs Enforcement (ICE) custody or during raids, th",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
+              "url": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Mexico Asks U.S. State Attorneys General To Investigate Migrant Deaths In ICE Custody",
+              "url": "https://www.huffpost.com/entry/mexico-us-ice-deaths_n_6a5700f5e4b0d75ea1c2ab78"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
           "neutralHeadline": "Venezuela’s interim government and opposition to begin formal talks",
           "neutralSummary": "Nobel laureate María Corina Machado will not lead negotiations over new elections, contrary to expectationsThe interim government of Venezuela has announced it will begin formal talks with the opposition aimed at “strengthening democracy” in the country.The move is backed by the US, which says it is",
           "versions": [
@@ -64,7 +191,7 @@
           ]
         },
         {
-          "id": "global-3",
+          "id": "global-7",
           "neutralHeadline": "China’s economy grows at 4.3%, one of its lowest rates on record",
           "neutralSummary": "Worse-than-expected figures for three months to June come amid concerns over lopsided economyBusiness live – latest updatesChina has posted worse-than-expected growth figures for the three months to June as its economy expanded by just 4.3% – one of its lowest quarterly readings on record.The rate,",
           "versions": [
@@ -89,7 +216,7 @@
           ]
         },
         {
-          "id": "global-4",
+          "id": "global-8",
           "neutralHeadline": "Fire Breaks Out At Pub In Bangkok, Killing At Least 27 People",
           "neutralSummary": "Bangkok Gov. said 63 people were taken to the hospital, 22 of them in critical conditions.",
           "versions": [
@@ -114,91 +241,27 @@
           ]
         },
         {
-          "id": "global-5",
-          "neutralHeadline": "China's Q2 economic growth cools to 3-1/2-year low as imbalances worsen",
-          "neutralSummary": "China's Q2 economic growth cools to 3-1/2-year low as imbalances worsen&nbsp;&nbsp;Yahoo FinanceChina’s Economy Grows at Slowest Pace in Years&nbsp;&nbsp;The New York TimesChina’s economy grows 4.3% in Q2, slowest since late 2022&nbsp;&nbsp;NPRChina economic growth falls sharply, missing target&nbsp",
+          "id": "global-9",
+          "neutralHeadline": "U.S. And Iran Vie For Strait Of Hormuz In Latest Attacks",
+          "neutralSummary": "Tehran and Washington are nearly at the midway point of the 60-day period of an interim deal that was supposed to set up talks for a permanent end to the war.",
           "versions": [
             {
               "political": "left",
-              "tone": "optimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "China economic growth falls sharply, missing target",
-              "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss"
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "U.S. And Iran Vie For Strait Of Hormuz In Latest Attacks",
+              "url": "https://www.huffpost.com/entry/us-war-on-iran_n_6a545353e4b0107f0db670bb"
             },
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Yahoo Finance",
-              "initials": "YF",
-              "domain": "news.google.com",
-              "headline": "China's Q2 economic growth cools to 3-1/2-year low as imbalances worsen",
-              "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQcHIycDlBQ3czNTRUZnZJQjlMYmJJMmVDUWVrcWZWNzZVdk0wZ2VGWG96bXNleEJsXzZDdmtVTldSLTVPM1RNLWNqaVpMU09LaFpFY2p1OWRNNVFpT3F0NnUyVlFsSTZsRWRqQ3U4dFhyZnFBR0toNzh3cXI?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "New US Ebola patient arrives in Germany for treatment",
-          "neutralSummary": "Aid worker flown to Berlin as Trump administration bars Americans from traveling to US on commercial flightsA US national who contracted Ebola in the Democratic Republic of the Congo has arrived in Germany for treatment, the health ministry in Berlin said on Monday, weeks after another American infe",
-          "versions": [
-            {
               "political": "left",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "New US Ebola patient arrives in Germany for treatment",
-              "url": "https://www.theguardian.com/world/2026/jul/14/american-ebola-patient-arrives-germany"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
-          "neutralSummary": "Exclusive: Three men killed in incidents over past year allegedly involving G4S guards, who replaced in-house team after previous deathsBereaved families and politicians have raised alarm about continued killings on Del Monte’s pineapple farm in Kenya despite the company hiring a British security fi",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
-              "url": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
-          "neutralSummary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality ratesThere is no approved drug to help the medical teams scrabbling to save lives in the Ebola outbreak in the Democratic Republic of the Congo –",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
-              "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-          "neutralSummary": "Vigilantes also took part in the fight that raged all night and the following morning, residents sayNigerian soldiers killed more than 300 members of kidnapping and cattle bandit gangs in the north-western state of Zamfara this week, according to a government official.Government troops targeted the",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-              "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "The crews stuck at sea as the Strait of Hormuz crisis grows",
+              "url": "https://www.npr.org/2026/07/15/nx-s1-5894731/the-crews-stuck-at-sea-as-the-strait-of-hormuz-crisis-grows"
             }
           ]
         }
@@ -209,8 +272,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Todd Blanche Faces Crucial Hurdle Ahead of Confirmation as Attorney General",
-          "neutralSummary": "Todd Blanche’s nomination is broadly a referendum on President Trump’s vision of the Justice Department as a projection of his power.",
+          "neutralHeadline": "100 House Democrats vote to cut off aid to Israel, showcasing party shift",
+          "neutralSummary": "House Democrats split nearly evenly on a Wednesday amendment to cut off U.S. aid to Israel, showcasing how the contentious issue is reshaping the political dynamics in the party. The amendment spearheaded by Rep. Thomas Massie (R-Ky.) was always presumed to be a doomed show vote, but provided a test",
           "versions": [
             {
               "political": "left",
@@ -218,17 +281,26 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Todd Blanche Faces Crucial Hurdle Ahead of Confirmation as Attorney General",
-              "url": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation-doj.html"
+              "headline": "Almost Half of House Democrats Vote to End Aid to Israel",
+              "url": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Acting AG Todd Blanche faces a key test. And, ICE pauses most traffic stops",
-              "url": "https://www.npr.org/2026/07/15/g-s1-133652/up-first-newsletter-todd-blanche-iran-strait-of-hormuz-ice-traffic-stops"
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "House vote exposes Democrats’ widening divide over Israel",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2pRdEUxdzVXQ1h6S1g2Q3JYbnlMVkFTQlg0Rm9zdFR6bkF0MTR1cVpJY0kxQkk0dFZvVjlEekJYdUVlM3hoUU9leTJEWDc2bTU0d1o3UGl5NF91cDJaeENzeDFCQnB6eXNLWEIwbjIxVHZiSkxHemVLTzRrS2g1MWhBakhyVndTY2pOVDJ4aDFadUJOWGF3bEJBVWFKVkRTNmhDSG1YdlJrUFlT?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "100 House Democrats vote to cut off aid to Israel, showcasing party shift",
+              "url": "https://thehill.com/homenews/house/5970608-pelosi-clark-massie-israel-amendment/"
             },
             {
               "political": "right",
@@ -236,15 +308,117 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Trump AG pick Todd Blanche faces Senate test in first major confirmation fight since Graham’s death",
-              "url": "https://www.foxnews.com/politics/trump-ag-pick-todd-blanche-faces-senate-test-first-major-confirmation-fight-since-grahams-death"
+              "headline": "House Democrats fracture badly over Massie amendment to cut $3.3B in U.S. aid to Israel",
+              "url": "https://www.foxnews.com/politics/house-democrats-fracture-massie-amendment-cut-3-3b-us-aid-israel"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "House Democrats Cave To Their Rabid Anti-Israel Challengers In Israel Aid Vote",
+              "url": "https://www.dailywire.com/news/israel-funding-vote-deepens-democratic-divisions"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "House passes bill to make daylight saving time permanent",
-          "neutralSummary": "House passes bill to make daylight saving time permanent&nbsp;&nbsp;CBS NewsHouse passes Daylight Saving Time reform as Trump signals support for ending clock change&nbsp;&nbsp;Fox NewsHere's what permanent daylight saving time would look like in Colorado&nbsp;&nbsp;9NewsHouse passes bipartisan bill",
+          "neutralHeadline": "Trump says Iran has freed a U.S. citizen as gesture of goodwill",
+          "neutralSummary": "President Trump said on Wednesday evening that Iran has freed a U.S. citizen as a gesture of goodwill after recently increased tensions between Washington and Tehran. “Iran has allowed an American Citizen, who was wrongfully detained in December of 2024 under the ‘presidency’ of Sleepy Joe Biden, to",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Trump says Iran has freed a U.S. citizen as gesture of goodwill",
+              "url": "https://thehill.com/homenews/administration/5970850-iran-frees-us-citizen-trump/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump says Iran released American woman held since 2024 in 'gesture of goodwill'",
+              "url": "https://www.foxnews.com/politics/trump-says-iran-released-american-woman-held-2024-gesture-goodwill"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Trump: Iran Frees Wrongfully Detained American In ‘Gesture Of Goodwill’",
+              "url": "https://www.dailywire.com/news/live-updates-iranian-protests-intensify-as-citizens-demand-end-to-ayatollah-rule"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Blanche faces questions on DOJ fund, Epstein files at attorney general confirmation hearing",
+          "neutralSummary": "Blanche faces questions on DOJ fund, Epstein files at attorney general confirmation hearing&nbsp;&nbsp;CBS NewsTodd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing&nbsp;&nbsp;The New York TimesTakeaways from Blanche and Clayton hearings: Fund for Trump allies and 202",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Takeaways from Todd Blanche's confirmation hearing for attorney general",
+              "url": "https://www.npr.org/2026/07/15/nx-s1-5895105/todd-blanche-senate-confirmation-attorney-general-takeaways"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "Blanche faces questions on DOJ fund, Epstein files at attorney general confirmation hearing",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkI3V3hzcUJ3TUxYMTFYdVI3cU1KamhEWUF3TGNMbFgtaU51YmlBZ1g5ZUN5TXVydUxYVUZ3aEEwQ2hYQkRCOHkwWmdya3I4LWMyLXh5ck5UZmlZQ3lmZV9mT0tNb1UzdXFrbkxOdllaUmtoMGZnNmRDX1V2N3dKekZVY242Rkd5dUwxaF91anFBb0J5OV9ublJqNA?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Hirono ripped for 'deranged' opening confirmation hearing question to Blanche: 'What a joke'",
+              "url": "https://www.foxnews.com/politics/hirono-ripped-deranged-opening-confirmation-hearing-question-blanche-what-joke"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "'Let's Not Negotiate': Trump Uses Bizarre Logic After Renewed Strikes On Iran",
+          "neutralSummary": "The president also said he hasn’t ruled out a ground invasion of Iran.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "'Let's Not Negotiate': Trump Uses Bizarre Logic After Renewed Strikes On Iran",
+              "url": "https://www.huffpost.com/entry/donald-trump-iran-dont-want-to-negotiate_n_6a56d699e4b0540b8c7b6990"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Y29uM0stWFdBX2ZvYno1emtKc25RYTZJdFVqazNHMWdJTFdCb2tlV3FqblB0dHBJRDdoNUxMeXNweGM2NW5hakdCLU9jelo4V2VKby1laGVZdw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "House passes State Department funding bill for fiscal year 2027",
+          "neutralSummary": "The House on Wednesday passed an appropriations bill funding the State Department, national security and other programs for fiscal year 2027, sending the measure to the Senate for consideration. The lower chamber voted 217-209 to pass the measure, with one Democrat crossing the aisle to support the",
           "versions": [
             {
               "political": "left",
@@ -258,27 +432,18 @@
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "House passes bill to make daylight saving time permanent",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDXzhVSFZ6aDNoanFRVUVmME11LUFGSDh6dk0tckNnTS1zLThrTHNBT3RJVmJuMlhVSkdLY0RZVzNKQmM3ZDktT0NsdDMyQW1JNzhTVVotSTZvZVd4UmdVMHdLY0swcXJveUI0djZqRl9BTFJkNDZvNHpjNA?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Why Tom Cotton is a major obstacle to daylight saving time",
-              "url": "https://www.washingtonexaminer.com/news/senate/4649175/tom-cotton-obstacle-permanent-daylight-saving-time-legislation/"
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "House passes State Department funding bill for fiscal year 2027",
+              "url": "https://thehill.com/homenews/house/5970582-house-state-department-funding-bill/"
             }
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "Boat capsize near Alcatraz leaves 1 dead, 3 missing in San Francisco Bay",
-          "neutralSummary": "Boat capsize near Alcatraz leaves 1 dead, 3 missing in San Francisco Bay&nbsp;&nbsp;San Francisco Chronicle1 dead, 3 missing after boat carrying mostly family members sinks in SF Bay during memorial service&nbsp;&nbsp;ABC7 Bay AreaRescuers are still searching for 3 people after a boat sank in San Fr",
+          "id": "us-6",
+          "neutralHeadline": "Trump Says He’ll Seek to Replace Immigrant Truck Drivers With Veterans",
+          "neutralSummary": "The president has pushed to curtail the commercial licenses of immigrants, including legal residents, whom he has blamed for crashes.",
           "versions": [
             {
               "political": "left",
@@ -286,51 +451,49 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "One Dead and Three Missing in San Francisco Bay After Boat Capsizes Near Alcatraz",
-              "url": "https://www.nytimes.com/2026/07/14/us/boat-fire-rescue-san-francisco-alcatraz.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "San Francisco Chronicle",
-              "initials": "SF",
-              "domain": "news.google.com",
-              "headline": "Boat capsize near Alcatraz leaves 1 dead, 3 missing in San Francisco Bay",
-              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXA5TGtUSTFvWURJNm9ISTk3cjBWRUJwaWdCTWF6Z1hoMXVEVTlIaHlXZFFnRVdoTzFyallkV2pHM21aVWo2Mkx5STZyak8wMmtVYmhpSDVsT3N0WFdsbmQ1UC1SemFnRS04ajVEYkJXbEE4NlNVWHRGaGt5dG9EYnNwa0xCTlJYRW1WdXBEV0ZVUQ?oc=5"
+              "headline": "Trump Says He’ll Seek to Replace Immigrant Truck Drivers With Veterans",
+              "url": "https://www.nytimes.com/2026/07/15/us/politics/trump-immigrant-truck-drivers-veterans.html"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Heroes reveal horror they saw as they dragged boaters from ocean near Alcatraz — 1 dead, 3 still missing",
-              "url": "https://nypost.com/2026/07/15/us-news/heroes-reveal-horror-they-saw-as-they-dragged-boaters-from-ocean-near-alcatraz-three-still-missing/"
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump says ‘proud American veterans’ will replace illegal immigrant truck drivers",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4650629/trump-veterans-replace-illegal-immigrant-truck-drivers/"
             }
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "Trump: Texas, Alaska could be ‘alternatives’ to Strait of Hormuz",
-          "neutralSummary": "President Trump on Tuesday suggested pipelines in Texas and Alaska could serve as alternatives to the Strait of Hormuz, which Trump said is “open if people want to go through it” despite Iranian officials blocking maritime shipping through the region.  In an interview with Fox News, Trump was presse",
+          "id": "us-7",
+          "neutralHeadline": "Trump Administration Fires U.S. Attorney Minutes After His Appointment",
+          "neutralSummary": "Federal judges had chosen the veteran Seattle prosecutor to fill the vacant seat. Now, a potential legal battle looms.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "The U.S. and Iran standoff over the Strait of Hormuz intensifies",
-              "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates"
-            },
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Administration Fires U.S. Attorney Minutes After His Appointment",
+              "url": "https://www.nytimes.com/2026/07/15/us/trump-fires-prosecutor-roger-rogoff.html"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "New York Times files motion to quash subpoenas following Air Force One coverage",
+          "neutralSummary": "The New York Times has filed a motion pushing back against subpoenas issued to its reporters from the Trump administration following a report on the new Air Force One, the paper reported Wednesday. According to the Times, the outlet’s top newsroom lawyer, David McCraw, said in a Wednesday statement",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "CNN",
               "initials": "CNN",
               "domain": "news.google.com",
-              "headline": "Live updates: US launches new attacks on Iran as battle for control over Hormuz intensifies",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxVGZoUVBJNUtEYi1ONDBNWDZnX1o3ZTVLblF5RkY0dzR0VG1NRE5ZQzd1VHFTU3FDVnhIRENicjJIalVjRElNTjBtV0pfMVd3QVJMazBCMkZDZVNpRGZfNjdTdWJkcnZWT2VwVWd3?oc=5"
+              "headline": "New York Times fights Trump administration subpoenas for reporters’ testimony",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUnVCdUdKYTJrZF9hTE1ObWQ3eDVfb0dNU2VUdnNrNjVQZFluZ3o1UVpOQ3Y2Zk53VkxHWFlhVU5rMVZQTzlPc0tTSllRa0ZpUUlaemZRTzRDTUpQYXdnYWNuLVNWT0NTZ25ySTIydm5Tc0Nra1U2dE9yVS1BMkprSnFVYw?oc=5"
             },
             {
               "political": "center",
@@ -338,99 +501,24 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Trump: Texas, Alaska could be ‘alternatives’ to Strait of Hormuz",
-              "url": "https://thehill.com/homenews/administration/5969138-trump-suggests-texas-alaska-pipelines/"
+              "headline": "New York Times files motion to quash subpoenas following Air Force One coverage",
+              "url": "https://thehill.com/media/5970958-nyt-challenges-trump-admin-subpoenas/"
             }
           ]
         },
         {
-          "id": "us-5",
-          "neutralHeadline": "US military attacks Iran after Trump’s threat of wider strikes",
-          "neutralSummary": "The U.S. military conducted another round of strikes against Iran on Wednesday morning, targeting an Iranian island near the Strait of Hormuz after President Trump threatened wider strikes.  The U.S. forces fired precision munitions against coastal defense systems and cruise missile storage and laun",
+          "id": "us-9",
+          "neutralHeadline": "Fetterman warns he would leave Democratic Party if it turns its back on Israel",
+          "neutralSummary": "Maverick Sen. John Fetterman (D-Pa.) has said he has “no plans” to leave the Democratic Party, but he warned on Wednesday that if Democrats completely turn their backs on U.S. support for Israel, that would cross a red line that could push him out of the party. “If our party ever becomes — and just&",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "'Let's Not Negotiate': Trump Uses Bizarre Logic After Renewed Strikes On Iran",
-              "url": "https://www.huffpost.com/entry/donald-trump-iran-dont-want-to-negotiate_n_6a56d699e4b0540b8c7b6990"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "US military attacks Iran after Trump’s threat of wider strikes",
-              "url": "https://thehill.com/policy/defense/5969274-us-military-strikes-iran-island/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Trump Pressures ICE to Resume Traffic Stops After Agency Pulls Back",
-          "neutralSummary": "Immigration and Customs Enforcement ordered its officers on Tuesday to halt most vehicle stops across the country after they shot two people over the past week.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Pressures ICE to Resume Traffic Stops After Agency Pulls Back",
-              "url": "https://www.nytimes.com/2026/07/15/us/politics/trump-ice-traffic-stops.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump reverses DHS policy, orders ICE to resume vehicle stops after one-day pause",
-              "url": "https://www.foxnews.com/politics/trump-reverses-dhs-policy-orders-ice-resume-vehicle-stops-after-one-day-pause"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "What to Know About Todd Blanche’s Order Granting Trump Immunity From I.R.S. Audits",
-          "neutralSummary": "Acting attorney general Todd Blanche’s decision to grant President Trump protection from I.R.S. audits is set to be a central issue in his confirmation hearing on Wednesday.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "What to Know About Todd Blanche’s Order Granting Trump Immunity From I.R.S. Audits",
-              "url": "https://www.nytimes.com/2026/07/15/us/politics/trump-irs-lawsuit-immunity-blanche.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Todd Blanche faces Senate hearing to be Trump's attorney general",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wdnBZaHlRZWtSSmlYVFV3MWhyeFhwMGVIcDV6bDc1YUFlVldhT01PWVRoeVVFeUtuanJyLVRNT0o2N3NlNTYxa2QyU2JYbHNWSUJJXw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Jay Clayton Expected to Face Tough Questions in Confirmation Hearing",
-          "neutralSummary": "His nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Jay Clayton Expected to Face Tough Questions in Confirmation Hearing",
-              "url": "https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html"
+              "headline": "Fetterman warns he would leave Democratic Party if it turns its back on Israel",
+              "url": "https://thehill.com/homenews/senate/5970730-john-fetterman-democratic-party-israel/"
             },
             {
               "political": "right",
@@ -438,33 +526,8 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "WATCH LIVE: Jay Clayton testifies before Senate panel in DNI confirmation hearing",
-              "url": "https://www.washingtonexaminer.com/news/senate/4649133/watch-live-jay-clayton-testifies-senate-panel-dni-confirmation-hearing/"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Live updates: Blanche pressed on Epstein files, Trump IRS settlement at confirmation hearing",
-          "neutralSummary": "The U.S. military launched a new round of daytime strikes against Iran, seeking to further disable its capabilities to attack ships in the Strait of Hormuz. The U.S. reimposed a blockade of the waterway on Tuesday. President Trump reportedly held on Tuesday a Situation Room strategy session for a ne",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Democrats' witness opposing Blanche's confirmation is more than an Epstein survivor",
-              "url": "https://www.npr.org/2026/07/15/nx-s1-5850397/jeffrey-epstein-todd-blanche-dani-bensky-survivor-victims-sexual-abuse-trafficking"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Live updates: Blanche pressed on Epstein files, Trump IRS settlement at confirmation hearing",
-              "url": "https://thehill.com/homenews/administration/5968257-live-updates-trump-iran-todd-blanche-jay-clayton-hearings/"
+              "headline": "Fetterman says he’ll leave Democratic Party if it becomes ‘anti-Israel party’",
+              "url": "https://www.washingtonexaminer.com/news/senate/4650827/fetterman-leave-democratic-party-anti-israel/"
             }
           ]
         }
@@ -475,74 +538,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Frasers Property-led consortium outbids two others with $2.13b offer for Bayshore Drive mixed-use site",
-          "neutralSummary": "The top offer for the 99-year leasehold site works out to $1,323 psf ppr.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Frasers Property-led consortium outbids two others with $2.13b offer for Bayshore Drive mixed-use site",
-              "url": "https://www.straitstimes.com/singapore/housing/frasers-property-led-consortium-outbids-two-others-with-2-13-billion-offer-for-bayshore-drive-mixed"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "EdgeProp.sg",
-              "initials": "E",
-              "domain": "news.google.com",
-              "headline": "Frasers Property-led consortium submits top bid of $2.13 bil for Bayshore Drive mixed-use GLS site",
-              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUFNNZUFwRFZBODZ3amMyZGxEOHI2cUd3X3BIWHJPQ1lieDFmWi10WFh1aGhVZ19nSnI0cmxwS3kyMnZYNmpkUFR2UkhrM3pXVllYdk9rcmFDcHd0MmJTU1lqbTFyUHl4dktSSDdNZ3BRYzNJWGtDczNuUF9rT2VQRmVsS2p0YldVa1lqTzZBR0pzcDVtc2VPSDlhNEFFMGRLbnM2bHlTSnYtWl9WNzA4RjZVdnZENDdNZW5sUmc5RkVGOE1VekHSAcsBQVVfeXFMTkc5QjBTSTRIcVZ1R21sOXR4NlJHUTBhWVNWcWxJOUNHVGxyT1JDczJiUjNRRG45a2x6U0FOb0F2WnZjeGdHOHJ0TEo4ajlIeEx4QU9DQm1raENqaFFvbUpqZEZ0bTVYLTlqVHZoa2lnWWcwWGdBLTdYdDJzNEVvQnpHUkhqcXJ6Umw1RFJiUFc3ZDdNZnFOMEtfMDFoNGJEc0xpbkZjTVZmQ1d4WGZuREMwd05yRENwQkFtbE9DbU90Tk1STGlVeXFJaHM?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-2",
-          "neutralHeadline": "GovTech retrenches 93 staff; 7% to 9% of roles to be affected by restructuring in next 2 years",
-          "neutralSummary": "The restructuring is meant to take GovTech from managing projects delivered by vendors to running tech products itself.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "GovTech retrenches 93 staff; 7% to 9% of roles to be affected by restructuring in next 2 years",
-              "url": "https://www.straitstimes.com/singapore/govtech-retrenches-93-staff-7-to-9-of-roles-to-be-affected-by-restructuring-in-next-2-years"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Business Times",
-              "initials": "BT",
-              "domain": "news.google.com",
-              "headline": "GovTech retrenches 93 staff in first phase of agency’s 2-year workforce transformation",
-              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa0l1UktrNmFhdHl1SWJYYWVyMDFWU20zcnl2UmlZcUpSM1N2RW1FZ0J5TExGMXBWV2VaRTlLU0prUVllR1pFS0tjSDhhMzdTSHF4akVYcmQwODdndlllYnlBX25KeUpCUW9iZG1BcEtkSFRjTG9aWEkyQ2pnbWVjbmM4NmE3elJ6TnJVV3Bock4tMGxrd0VaVXdjUk9jRDNDNkltcHMxbGhaNXpYWDBUWWV0UExFYXpNUk9lUm5iaVhmUElQWFMtWHRBcl9UYk5QMmlN?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
-          "neutralHeadline": "Primary 1 registration: 31 schools to conduct balloting in Phase 2A",
-          "neutralSummary": "At this stage in 2025, 38 primary schools went through a ballot.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Primary 1 registration: 31 schools to conduct balloting in Phase 2A",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/31-primary-schools-to-conduct-balloting-in-phase-2a-of-primary-1-registration-2026"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "‘Not surprising’: Why Thailand keeps reliving the same types of nightspot tragedies",
-          "neutralSummary": "Thailand has promised tougher nightspot safety measures after major fires in the past. Yet following the deadly bar fire in Bangkok on Sunday, bar owners, patrons and experts tell CNA many of the same problems persist.&nbsp;",
+          "neutralHeadline": "Singapore residents set to spend S$1 billion more a year in JB after RTS Link opens: Study",
+          "neutralSummary": "Groceries, drug stores and dining are expected to draw the biggest share of Singapore consumers' spending across the border.",
           "versions": [
             {
               "political": "center",
@@ -550,15 +547,113 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "‘Not surprising’: Why Thailand keeps reliving the same types of nightspot tragedies",
-              "url": "https://www.channelnewsasia.com/asia/thailand-bangkok-deadly-bar-fire-safety-failures-loopholes-6255636"
+              "headline": "Singapore residents set to spend S$1 billion more a year in JB after RTS Link opens: Study",
+              "url": "https://www.channelnewsasia.com/singapore/singapore-spend-more-jb-rts-link-opens-6257241"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "Freesia Woods condo management ordered to compensate couple over termite infestation",
+          "neutralSummary": "The court awarded them $10,978 for repair costs.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Freesia Woods condo management ordered to compensate couple over termite infestation",
+              "url": "https://www.straitstimes.com/singapore/housing/freesia-woods-condo-management-ordered-to-compensate-couple-over-termite-infestation"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
+          "neutralHeadline": "China and Xi are seen more favourably than the US and Trump in many nations, Pew study suggests",
+          "neutralSummary": "In only six countries do people still see the US more positively than China, according to the findings released by Pew Research Center.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "China and Xi are seen more favourably than the US and Trump in many nations, Pew study suggests",
+              "url": "https://www.channelnewsasia.com/world/china-xi-united-states-trump-pew-study-favourable-6256736"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "More people around the world now favour China over the US, Pew study suggests",
+              "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Johor polls result raises stakes for Anwar in upcoming Negeri Sembilan election",
+          "neutralSummary": "Prime Minister Anwar Ibrahim and his Pakatan Harapan pact need to show they can campaign effectively in a state where the incumbent chief minister is from his own PKR party, analysts say.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Johor polls result raises stakes for Anwar in upcoming Negeri Sembilan election",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-anwar-negeri-sembilan-election-high-stakes-6255311"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "Seoul leads Asian stocks higher as US inflation eases rate fears",
-          "neutralSummary": "Asian stocks enjoyed a much-needed rally following a painful selloff in recent weeks as tech firms were battered by concerns over extended valuations and the vast sums invested in artificial intelligence.",
+          "neutralHeadline": "Malaysia says startup residents in Johor's Forest City have valid travel papers, amid alleged Israeli links",
+          "neutralSummary": "Malaysia's Immigration Department said it had inspected 266 foreigners from 40 countries and found they had valid documents, though further checks were&nbsp;ongoing to ensure compliance with all other entry requirements and related laws.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Malaysia says startup residents in Johor's Forest City have valid travel papers, amid alleged Israeli links",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-forest-city-commune-israeli-travel-documents-6255296"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "South Korea regulator to announce new measures on single-stock leveraged ETFs",
+          "neutralSummary": "South Korea regulator to announce new measures on single-stock leveraged ETFs",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "South Korea regulator to announce new measures on single-stock leveraged ETFs",
+              "url": "https://www.channelnewsasia.com/business/south-korea-regulator-announce-new-measures-single-stock-leveraged-etfs-6257376"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Korea Plans Measures on Leveraged ETFs Driving Wild Volatility",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-16/korea-to-announce-measures-on-single-stock-leveraged-etfs-soon"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict",
+          "neutralSummary": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict",
           "versions": [
             {
               "political": "center",
@@ -566,56 +661,24 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Seoul leads Asian stocks higher as US inflation eases rate fears",
-              "url": "https://www.channelnewsasia.com/asia/asian-stocks-us-inflation-fed-rate-6255536"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "China's Q2 economic growth cools to 3.5-year low as imbalances worsen",
-          "neutralSummary": "China's Q2 economic growth cools to 3.5-year low as imbalances worsen",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "China's Q2 economic growth cools to 3.5-year low as imbalances worsen",
-              "url": "https://www.channelnewsasia.com/east-asia/china-q2-economy-gdp-growth-35-year-low-6255001"
+              "headline": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict",
+              "url": "https://www.channelnewsasia.com/business/oil-prices-rise-4th-day-us-strikes-iran-raise-fears-wider-conflict-6257256"
             },
             {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "China economic growth falls sharply, missing target",
-              "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Singapore, Indonesia launch defence alumni initiative",
-          "neutralSummary": "Singapore Defence Minister Chan Chun Sing - who is in Jakarta for a working visit - and his Indonesian counterpart Sjafrie Sjamsoeddin also reaffirmed their countries’ commitment to explore new areas of bilateral cooperation.",
-          "versions": [
-            {
               "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Singapore, Indonesia launch defence alumni initiative",
-              "url": "https://www.channelnewsasia.com/singapore/indonesia-singapore-defence-alumni-initiative-chan-chun-sing-saf-tni-6253141"
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Gold Declines as Fresh US Strikes on Iran Fuel Inflation Fears",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-15/gold-steadies-as-soft-inflation-war-risk-cloud-fed-rate-outlook"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Teens who died from consuming drugs made methamphetamine pills, inhaled drug: Coroner",
-          "neutralSummary": "Telegram messages between the pair revealed that they had been discussing ways to consume methamphetamine.",
+          "neutralHeadline": "Missed the PSLE essential exam strategies forum? Watch the sessions here",
+          "neutralSummary": "How can parents help ensure that kids sitting for the PSLE science exam do not misunderstand questions?",
           "versions": [
             {
               "political": "center",
@@ -623,15 +686,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Teens who died from consuming drugs made methamphetamine pills, inhaled drug: Coroner",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/teens-who-died-from-consuming-drugs-made-methamphetamine-pills-inhaled-drug-coroner"
+              "headline": "Missed the PSLE essential exam strategies forum? Watch the sessions here",
+              "url": "https://www.straitstimes.com/singapore/parenting-education/missed-the-psle-essential-exam-strategies-forum-here-are-recordings-of-the-two-sessions"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Three Straits Times journalists win Singapore Press Club awards",
-          "neutralSummary": "They were recognised for their craft and the impact of their work on July 15.",
+          "neutralHeadline": "$3 billion money laundering case: Conveyancing lawyer charged with forgery over property purchase",
+          "neutralSummary": "Court documents linked her alleged actions to an associate of one of the 10 foreigners convicted in the case.",
           "versions": [
             {
               "political": "center",
@@ -639,8 +702,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Three Straits Times journalists win Singapore Press Club awards",
-              "url": "https://www.straitstimes.com/singapore/three-straits-times-journalists-win-singapore-press-club-awards"
+              "headline": "$3 billion money laundering case: Conveyancing lawyer charged with forgery over property purchase",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/3-billion-money-laundering-case-conveyancing-lawyer-charged-with-forgery-over-property-purchase"
             }
           ]
         }
@@ -651,33 +714,58 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "'I intend to kill Muslims': Indian mall worker in US stabbed by Utah man",
-          "neutralSummary": "'I intend to kill Muslims': Indian mall worker in US stabbed by Utah man",
+          "neutralHeadline": "'They better behave': Trump says Iran wants settlement amid fresh strikes",
+          "neutralSummary": "President Trump warned Iran to behave if it desires negotiations with Washington. US forces conducted new military strikes targeting Iranian command centers and air defense systems. These strikes aimed to degrade Iran's ability to threaten commercial vessels in the Strait of Hormuz. Iranian authorit",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"Are You Muslim?\" Indian Man Stabbed 15 Times In US Mall",
-              "url": "https://www.ndtv.com/world-news/intend-to-kill-muslims-us-man-stabs-an-indian-in-mall-over-his-religion-11775204#publisher=newsstand"
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Iran scraps plan of more talks with US as strikes enter 5th day; Trump warns ‘better behave’",
+              "url": "https://indianexpress.com/article/world/iran-us-strikes-5th-day-donald-trump-10788707/"
             },
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "'I intend to kill Muslims': Indian mall worker in US stabbed by Utah man",
-              "url": "https://timesofindia.indiatimes.com/world/us/i-intend-to-kill-muslims-indian-mall-worker-in-us-stabbed-by-utah-man/articleshow/132417887.cms"
+              "headline": "'They better behave': Trump says Iran wants settlement amid fresh strikes",
+              "url": "https://timesofindia.indiatimes.com/world/us/they-better-behave-trump-says-iran-wants-settlement-amid-fresh-strikes/articleshow/132429050.cms"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Gautam Adani Denies Any Deal Linked To US Move To Drop Charges",
-          "neutralSummary": "The affidavit was filed in response to a July 8 order by the US District Court.",
+          "neutralHeadline": "Latur coaching owner paid ₹5 lakh to procure NEET questions from NTA paper-setter, says CBI",
+          "neutralSummary": "The CBI has found that 111 of these questions allegedly match with the questions in the NTA’s master question sets prepared for NEET (UG) 2026",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Latur coaching owner paid ₹5 lakh to procure NEET questions from NTA paper-setter, says CBI",
+              "url": "https://www.thehindu.com/news/national/latur-coaching-owner-paid-5-lakh-to-procure-neet-questions-from-nta-paper-setter-says-cbi/article71228421.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "news.google.com",
+              "headline": "Rs 5 Lakh Paid To NTA Paper-Setter In NEET Leak, 111 Questions Matched: CBI",
+              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSURuWVhPM0lsRTFMbVVwd1lJRHFsMzdiTXEyX0pheGVXcG1GOU16Tk5iWWJ5WmNFamNDeW1NRkx4TURraGdzZkZjQ3haMEYyU2ZkUFlQUnQ2ejh3dm1ieEk4RER3VWQ4TVJ0Y0hjWnN6MlNHQ3R3dVVpQjk1WDR6S2l6TG5hN2tXZ2pnRGpoQVc5YzRLYnpkUElaLXNoSjRUX05iQ0J6cHBQN1NyQWM5TFhLVXFSalhGdGNGQ0tNYXRUeC1TRC1tb2ZUOEtSeVJZc3FUUVNLMGJLS004NUNrNlFQQk5hUXl2alHSAfIBQVVfeXFMUDl0Tk5yMDVMVDYxZ01mazY3WlNWYUd1QXk3ZlR4b0tUY3RGdFMyeXRqNjgtU0FmUFdLNG5TR05tNVBabi1QMzNUdTdqdXBKazRHcFRQRWp5U2FrV25JdEF1Q0szTmk2WUpSMmw3bmdnTnlfem9nNGlKbnBwaExtT01lM0IzZGRaUlpqQ3hWLVhFenh5UDloNFZrWTlSTVEycllmcHVSWnNYbnNrbHY3QXB4a05FWEY2cE9CQno4SDYyYklvMVRpUy1HcnF4REhGYUhWQjhGdDlabnN4TXN2V0U3aXZSazhYVE1QSE5jUE4yTVE?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Open Flat As US Launches Fresh Strikes",
+          "neutralSummary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
           "versions": [
             {
               "political": "left",
@@ -685,8 +773,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Gautam Adani Denies Any Deal Linked To US Move To Drop Charges",
-              "url": "https://www.ndtv.com/india-news/gautam-adani-denies-any-deal-linked-to-us-move-to-drop-charges-11775577#publisher=newsstand"
+              "headline": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Open Flat As US Launches Fresh Strikes",
+              "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-16-july-us-iran-war-oil-price-11777698#publisher=newsstand"
             },
             {
               "political": "left",
@@ -694,15 +782,15 @@
               "source": "Indian Express",
               "initials": "IE",
               "domain": "indianexpress.com",
-              "headline": "Gautam Adani denies any deal linked to dismissal of US criminal case in sworn affidavit",
-              "url": "https://indianexpress.com/article/business/adani-deal-us-investment-settle-bribery-case-10788115/"
+              "headline": "Stock market today: Sensex, Nifty open marginally higher; HCL Tech, Maruti, M&M among top gainers",
+              "url": "https://indianexpress.com/article/business/stock-market-today-sensex-nifty-open-marginally-higher-hcl-tech-maruti-mm-among-top-gainers-10788785/"
             }
           ]
         },
         {
-          "id": "india-3",
-          "neutralHeadline": "'Not offered with genuine devotion': UP assembly speaker on those claiming their donations at Ram temple",
-          "neutralSummary": "'Not offered with genuine devotion': UP assembly speaker on those claiming their donations at Ram temple&nbsp;&nbsp;The Times of IndiaUP Speaker Questions 'Donations Without Devotion'. Opposition Responds&nbsp;&nbsp;NDTV‘Only those seeing theft want refund’: UP Speaker on Ram Temple row&nbsp;&nbsp;T",
+          "id": "india-4",
+          "neutralHeadline": "\"Can't Give Up\": Trump Denies Removing Immigration Traffic Stops",
+          "neutralSummary": "ICE has been under pressure to beef up arrest and deportation numbers.",
           "versions": [
             {
               "political": "left",
@@ -710,49 +798,49 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "UP Speaker Questions 'Donations Without Devotion'. Opposition Responds",
-              "url": "https://www.ndtv.com/india-news/up-speaker-satish-mahana-questions-donations-without-devotion-opposition-responds-11775596#publisher=newsstand"
+              "headline": "\"Can't Give Up\": Trump Denies Removing Immigration Traffic Stops",
+              "url": "https://www.ndtv.com/world-news/cant-give-up-trump-denies-removing-immigration-traffic-stops-despite-recent-shooting-incidents-11777619#publisher=newsstand"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
+              "source": "Al Jazeera",
+              "initials": "AJ",
               "domain": "news.google.com",
-              "headline": "'Not offered with genuine devotion': UP assembly speaker on those claiming their donations at Ram temple",
-              "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQcmQ1bDBJYlg2YjBGNWVPVnJZMXI5aExtMC1EUF81YUY1UUJQcFctWUtZa2JUajZEeE0xak9WRHZVRnJnQVh1Q2JTbmJ3NmZvLXBnS1hyUTNMY2dMWmxOREVDMFFzTWtaWFBnTU9JM0p1NkdWdHpvcl96b3p1Z0JhMWNjUnJIR204bTlJN2k5UUVuU0I3NFNVOWp2SVI3WnJUd3Zkcmd0eVJzTEhyRUg0c3NmSkhRSnhlYTQ1alJzRm1icE54d2Q0T2d1S1c5TWlHeGlZTjVydVRpeXRJRjVCTGRQM013Q2d0MVRTYmlGXzZZdW82d3ZaMzEzallrNk5VQU1KX1lKZEFPOFJuRFRzcmFvaUhTRHBIdEpESkdQUmJ6cnFKOXVHYVV3UzdMdw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "'Abhishek has done no wrong': Mamata stands behind nephew amid rebellion in TMC",
-          "neutralSummary": "Mamata Banerjee strongly defended Abhishek Banerjee, stating he had done no wrong. She accused rebel leaders of unfairly targeting her nephew and his family. Mamata linked Madan Mitra's exit to ED summons, suggesting a 'setting' with the BJP. She asserted that a few leaders leaving would not weaken",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Abhishek has done no wrong': Mamata stands behind nephew amid rebellion in TMC",
-              "url": "https://timesofindia.indiatimes.com/india/abhishek-has-done-no-wrong-mamata-stands-firmly-behind-nephew-amid-rebellion-in-tmc/articleshow/132417266.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "‘You want me to have heart attack, I’ll live to see your end': Mamata to BJP amid TMC rebellion",
-              "url": "https://www.hindustantimes.com/india-news/mamata-banerjee-bjp-wants-me-to-have-heart-attack-will-see-your-end-madan-mitra-tmc-ritabrata-banerjee-abhishek-banerjee-101784115115012.html"
+              "headline": "Trump urges ICE to keep using traffic stops after deadly incidents",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPODRnV1MyMl9sTGVUTmZod3lXTHZ1cTVXeW91ZVIweUZmTHZibGdma1ZzR3lRTW9laERfY2NVcms1YTRtOERqWngyV0VyZG1yRHRsb1BHT0lpN1VsQ003bkExb0dTWThseWgtc2xUQno3STdmblJYc1dxNy1JeXFPbXE2WVRFektYaUhhVnY0cExiR0l0c2x6bDk5WHBTMm5WNjVhTEVWTFlpTDjSAbABQVVfeXFMTTJTQkV1WXhXNGFSNDV3b1ZpdWY3ajFhVVo0b1l5WndkbjZxb3Y0QmM1czQwRjVuTzBKZkFSQkd3UVNJei1PQ2JrTkhpRUs1VWctOVZkUC05WU0yRG5hMGZYMjlEaG5SelU2R3ZGV2hvYmR0Yy1FcXpXdkJaSVo3SDNURUJqM2RxTVBIeUZ5d2dQNXIta1BVRWNIbDRQci1PeE1mS3FuZ0Y1Zmx3WjMxdUY?oc=5"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "'India needs your voice': Shashi Tharoor urges Sonam Wangchuk to end hunger strike",
-          "neutralSummary": "Congress MP Shashi Tharoor has publicly backed students protesting against examination irregularities, urging climate activist Sonam Wangchuk to stop his hunger strike. He pointed out that equitable exams are vital for young people from less privileged backgrounds. Tharoor affirms that peaceful demo",
+          "neutralHeadline": "Supreme Court clears road for country’s first night safari in Lucknow’s Kukrail Reserve Forest",
+          "neutralSummary": "The Court directed the state to comply with all conditions imposed by various statutory authorities along with prior clearances before starting the work.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Supreme Court Clears UP's Rs 1,500-Crore Kukrail Night Safari Project",
+              "url": "https://www.ndtv.com/lucknow-news/supreme-court-clears-ups-rs-1-500-crore-kukrail-night-safari-project-in-lucknow-11777496#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Supreme Court clears road for country’s first night safari in Lucknow’s Kukrail Reserve Forest",
+              "url": "https://www.hindustantimes.com/india-news/supreme-court-clears-road-for-country-s-first-night-safari-in-lucknow-s-kukrail-reserve-forest-101784141236399.html"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Are banks closed today for Rath Yatra and Harela? Check state-wise list",
+          "neutralSummary": "Bank branches will be closed in Odisha, Uttarakhand, and Manipur on July 16. These closures are for Ratha Yatra and the Harela festival celebrations. Customers can still use online and mobile banking services for transactions. Other regional holidays are scheduled later this month across various sta",
           "versions": [
             {
               "political": "center",
@@ -760,65 +848,40 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "'India needs your voice': Shashi Tharoor urges Sonam Wangchuk to end hunger strike",
-              "url": "https://timesofindia.indiatimes.com/india/india-needs-your-voice-shashi-tharoor-urges-sonam-wangchuk-to-end-hunger-strike-writes-letter-to-jantar-mantar-protestors/articleshow/132415891.cms"
+              "headline": "Are banks closed today for Rath Yatra and Harela? Check state-wise list",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-today-will-banks-remain-shut-for-rath-yatra-and-harela-on-july-16-check-state-wise-list/articleshow/132429136.cms"
             },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Sonam Wangchuk hunger strike: ‘Government cruel for ignoring fast,’ says CJP's Abhijeet Dipke",
-              "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQzE1STV6Yy1IbHYyYnZ6Tk13eDN5cTVFNjVqRzNrcDBoT01XWkJPZjBpeEQ0d0dPVzk2ekNjbFV5ckRRTHVhTFRuNllnUjJKZFVCOUxyUEhzV2lxcE93N3N3VkVLQjJvOXNiZDV5OVhJOGZBVjRIMWktdG1wTmpDVGtfX3U0MlpCekpDTXg3U0hSMk0yTG9GTDRTa3gxVkhGT1UwTXdGNHJyRGN1RHExbWpXUlN2RlI2azVqOFJpOHhZWlM5d1ZWYklPVUQ5YU5Bd2E1WlJzWWxZOUpxWnI3QkJTQkRVVlQwUUIxb3d0VThXUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "'India fully deserves permanent seat at UN Security Council': Palestinian envoy",
-          "neutralSummary": "Palestinian Ambassador to India Abdullah M Abu Shawesh said that any reform of the UN body must include major global powers such as India.",
-          "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "'India fully deserves permanent seat at UN Security Council': Palestinian envoy",
-              "url": "https://www.hindustantimes.com/india-news/india-fully-deserves-permanent-seat-at-un-security-council-palestinian-envoy-abdullah-m-abu-shawesh-101784123143429.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "Amid wars and chaos, India campaigns for SHANTI at the UN Security Council",
-              "url": "https://www.opindia.com/2026/07/india-campaign-shanti-un-security-council-non-permanent-membership-jaishankar/"
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Why banks are closed in some states today",
+              "url": "https://economictimes.indiatimes.com/wealth/save/bank-holiday-today-wednesday-july-16-2026-are-banks-open-or-closed-today-for-jagannath-rath-yatra-2026-in-odisha-mumbai-and-delhi-check-state-wise-list/articleshow/132414301.cms"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "The Physicists India Makes For The World",
-          "neutralSummary": "The Physicists India Makes For The World",
+          "neutralHeadline": "Bengaluru: Apartment residents seek builder accountability, parking norms in new Bill",
+          "neutralSummary": "One stakeholder called for the Bill to prescribe clear timelines for conducting association elections and define the tenure of office-bearers",
           "versions": [
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Swarajya",
-              "initials": "SWR",
-              "domain": "swarajyamag.com",
-              "headline": "The Physicists India Makes For The World",
-              "url": "https://swarajyamag.com/newsletters/the-physicists-india-makes-for-the-world-3"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Bengaluru: Apartment residents seek builder accountability, parking norms in new Bill",
+              "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-apartment-residents-seek-builder-accountability-parking-norms-in-new-bill/article71226952.ece"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Man arrested in theft case dies in ‘police custody’ in Nellore district",
-          "neutralSummary": "Family members and relatives allege that he died due to ‘third-degree torture’ for three days while in custody at Manubolu police station",
+          "neutralHeadline": "Rise above political divide and work in public interest, V-P tells legislators",
+          "neutralSummary": "Rise above political divide and work in public interest, V-P tells legislators",
           "versions": [
             {
               "political": "left",
@@ -826,15 +889,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Man arrested in theft case dies in ‘police custody’ in Nellore district",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/man-arrested-in-theft-case-dies-in-police-custody-in-nellore-district/article71226034.ece"
+              "headline": "Rise above political divide and work in public interest, V-P tells legislators",
+              "url": "https://www.thehindu.com/news/national/rajasthan/rise-above-political-divide-and-work-in-public-interest-v-p-tells-legislators/article71226301.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "One prison escapee arrested after police open fire in Kalaburagi",
-          "neutralSummary": "The arrested prisoner was lodged in the prison in connection with a case under the Protection of Children from Sexual Offences Act",
+          "neutralHeadline": "Bidadi project: Hours after Karnataka Chief Minister announces review panel, govt. issues final land notification for acquiring 4,944.49 acres across four villages",
+          "neutralSummary": "This is the biggest tranche of land notified yet. The first set pertained to only 518.45 acres in three villages",
           "versions": [
             {
               "political": "left",
@@ -842,8 +905,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "One prison escapee arrested after police open fire in Kalaburagi",
-              "url": "https://www.thehindu.com/news/national/karnataka/one-prison-escapee-arrested-after-police-open-fire-in-kalaburagi/article71225939.ece"
+              "headline": "Bidadi project: Hours after Karnataka Chief Minister announces review panel, govt. issues final land notification for acquiring 4,944.49 acres across four villages",
+              "url": "https://www.thehindu.com/news/cities/bangalore/bidadi-project-hours-after-karnataka-chief-minister-announces-review-panel-govt-issues-final-land-notification-for-acquiring-494449-acres-across-four-villages/article71226465.ece"
             }
           ]
         }
