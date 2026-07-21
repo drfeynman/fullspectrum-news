@@ -1,158 +1,56 @@
 {
-  "generatedAt": "2026-07-21T04:58:49.288541+00:00",
+  "generatedAt": "2026-07-21T15:07:54.034077+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "UK prime minister Andy Burnham unveils new government, replacing Starmer era",
-          "neutralSummary": "Britain's new Prime Minister Andy Burnham took office on Monday, reshuffling the cabinet to remove allies of predecessor Keir Starmer and appointing John Healey as finance minister, Ed Miliband as foreign minister and Wes Streeting as defence minister. Burnham pledged a 10-year plan to tackle cost-o",
+          "neutralHeadline": "India’s youth-led Cockroach movement vows to keep demanding reforms after police crackdown",
+          "neutralSummary": "India’s youth-led Cockroach movement vows to keep demanding reforms after police crackdown&nbsp;&nbsp;AP NewsIndia’s defiant young ‘cockroaches’ face tear gas as they challenge Modi over exam leaks&nbsp;&nbsp;NBC NewsThousands protest in India after clashes, despite Modi assuring action on exams&nbs",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Andy Burnham Becomes Britain's 7th Prime Minister In A Decade After Starmer Resigns",
-              "url": "https://www.huffpost.com/entry/andy-burnham-becomes-uk-prime-minister_n_6a5e066fe4b0252a18ddd208"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Andy Burnham becomes U.K. prime minister",
-              "url": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "UK prime minister Andy Burnham unveils new government, replacing Starmer era",
-              "url": "https://www.france24.com/en/europe/20260721-uk-prime-minister-andy-burnham-unveils-new-government-replacing-starmer-era"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Andy Burnham takes over as UK prime minister, calls for 'new political model'",
-              "url": "https://www.foxnews.com/world/andy-burnham-takes-over-uk-prime-minister-calls-new-political-model"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "U.S. Carrying Out 10th Consecutive Night Of Strikes On Iran",
-          "neutralSummary": "As the U.S. and Iran inch closer toward all-out war once again, there is some hope for a diplomatic resolution.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "U.S. Carrying Out 10th Consecutive Night Of Strikes On Iran",
-              "url": "https://www.huffpost.com/entry/us-carrying-out-10th-consecutive-night-of-strikes-on-iran_n_6a5e9002e4b06bbe43f37012"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "U.S. and Iran launch new strikes after 3 U.S. service members are killed",
-              "url": "https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "US attacks Iran for 10th consecutive night",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUh0VUFhQy00V0hoRUU0bnctN2V2aFM1N1FkeXVJUGdpTTlwRnhQOHV5dFFFdXFmS2dTN1ZQQWlYR3pSb0RPYkRGS2NySGl2MU5PRnVEWmFKLXF6RktkQTBDQzFvcEFfYTZsd2lOQ3M0WExtQUNTbnZUSWxzRU10UW1wVXpHc1h5anVidkg5YW1JVU0zNXdIVWl2b9IBoAFBVV95cUxNVHRfZUFKdTR6NWlGVlZNUjN1RFQ1TG44TmNCQVNtNjdCaldMREkzZklKYVN4cE0tanlwRU85d19UZGd2aVJuNTFfNkxFclhDaFpwejcyMXgtWUxRVE44SndnOFFCeWd4c1hVSllrMjVQRWFYb3B3R3IzMkFNQlppVE5wb1pXV1dRSkFEZVhXYUFQb0NkNzZmQnhQS2xnMndm?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Trump signs order imposing new 50% tariffs on certain Canadian goods",
-          "neutralSummary": "US President Donald Trump signed orders on Monday imposing new 50% tariffs on some Canadian goods, citing what the White House called Canada's \"discriminatory treatment\" of US alcohol, automobiles and dairy products. The tariffs take effect in 30 days, with energy, potash and sector-specific imports",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
-              "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Trump imposes 50% US tariffs on some Canadian goods, citing discrimination",
-              "url": "https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Trump signs order imposing new 50% tariffs on certain Canadian goods",
-              "url": "https://www.france24.com/en/economy/20260720-trump-signs-order-imposing-new-50-tariffs-on-certain-canadian-goods"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Mexican drug lord ‘El Mayo’ sentenced to life in prison in US federal court",
-          "neutralSummary": "Case against Ismael Zambada García, who helped co-found and lead the violent Sinaloa cartel, unfolded in New YorkThe Mexican drug kingpin, Ismael Zambada García, known as “El Mayo”, was sentenced in a US federal court on Monday to life in prison, after a plea deal last year in which he admitted ⁠to",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Mexican drug lord ‘El Mayo’ sentenced to life in prison in US federal court",
-              "url": "https://www.theguardian.com/us-news/2026/jul/20/el-mayo-prison-sentence"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-              "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss"
+              "headline": "India's 'cockroach' protest continues a day after police crackdown",
+              "url": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Sinaloa Cartel boss 'El Mayo' sentenced to life, ordered to pay $15B in drug trafficking profits",
-              "url": "https://www.foxnews.com/world/sinaloa-cartel-boss-el-mayo-sentenced-life-ordered-pay-15b-drug-trafficking-profits"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
+              "url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "India’s youth-led Cockroach movement vows to keep demanding reforms after police crackdown",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmplcEQ0OFNyUjdrZjRqV09sVEljWW9VOGJjM1dVQVlwWHF3bEZaaEdHWmI5RkNLdjNLc05IalM4aU8weGVvRWc3UlhqRDdFdmhCYll6NHhNVEliNTUyNFlzMlVheUwwZW90Q3dhRXg2VF9YM1hYcGdrLWhYMWtPT1prZXJwUkJUNVJmMmNibW8zMmM?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "India's Cockroach protests vow to continue despite police crackdown",
+              "url": "https://www.france24.com/en/india-s-cockroach-protests-vow-to-continue-despite-police-crackdown"
             }
           ]
         },
         {
-          "id": "global-5",
+          "id": "global-2",
           "neutralHeadline": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests",
-          "neutralSummary": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests&nbsp;&nbsp;PBSUkraine war briefing: Moscow targeted as Wildberries warehouse attacks continue&nbsp;&nbsp;The GuardianUkraine bombs warehouses, targeting Wildberries — Russia’s version of Amazon&nbsp;&nbsp;The Washington PostU",
+          "neutralSummary": "Ukraine fires 400 drones toward Moscow as Zelenskyy grapples with protests&nbsp;&nbsp;PBSSee more headlines & perspectives on Google News",
           "versions": [
             {
               "political": "left",
@@ -184,9 +82,9 @@
           ]
         },
         {
-          "id": "global-6",
-          "neutralHeadline": "US military identifies 2 soldiers killed in Iranian attack on Jordan as from Texas and Hawaii",
-          "neutralSummary": "US military identifies 2 soldiers killed in Iranian attack on Jordan as from Texas and Hawaii&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+          "id": "global-3",
+          "neutralHeadline": "U.S. Renews Strikes On Iran After Two Military Personnel Killed By Iranian Attack",
+          "neutralSummary": "The U.S. and Iran have intensified attacks since an interim ceasefire deal signed a month ago fell apart last week, raising the possibility of a return to all-out war.",
           "versions": [
             {
               "political": "left",
@@ -207,88 +105,29 @@
               "url": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden"
             },
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Yahoo",
-              "initials": "Y",
-              "domain": "news.google.com",
-              "headline": "US military identifies 2 soldiers killed in Iranian attack on Jordan as from Texas and Hawaii",
-              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjNUQXQ5OXJBblIzWmtRTkxxei1Ebk92TGEyZjNLUDZuX1g2TlhJQzRpUmlQSWxkcktJdllyTXd4TDJ5SldDeVZFamdid21ZalVoYmJJX3RjcHEtYUJEbWF2aURNczdYVDY4aU1QWm5jR3J4SnJlRk1GZmdNems2TW96OUF3ZjRiaGo4d01McVE?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Tate brothers appear in US court for extradition proceedings",
-          "neutralSummary": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Tate brothers appear in US court for extradition proceedings",
-              "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Tate brothers vow to fight extradition as they appear at court in Miami",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/tate-brothers-vow-to-fight-extradition-as-they-appear-at-court-in-miami?traffic_source=rss"
-            },
-            {
               "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Tate brothers to remain behind bars for now as UK seeks extradition on rape, trafficking charges",
-              "url": "https://www.foxnews.com/world/tate-brothers-remain-behind-bars-now-uk-seeks-extradition-rape-trafficking-charges"
+              "tone": "pessimistic",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Pentagon identifies third US soldier killed in weekend attack by Iran",
+              "url": "https://nypost.com/2026/07/21/world-news/sgt-michael-emmanuel-swinton-idd-as-third-us-soldier-killed-near-iran/"
             }
           ]
         },
         {
-          "id": "global-8",
-          "neutralHeadline": "Teenager Dies In Spain During World Cup Celebrations",
-          "neutralSummary": "“What should have been a celebration of the Spanish national team’s World Cup victory has turned into a tragedy.”",
+          "id": "global-4",
+          "neutralHeadline": "Bologna's protesters call for accountability after man dies during police arrest",
+          "neutralSummary": "Clashes broke out between security personnel and protesters in the Italian city of Bologna. Demonstrators out on the street, calling for accountability after a man died whilst being detained by police. The incident drawing comparisons with the murder of George Floyd in the United States. \n \nSome vie",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Teenager Dies In Spain During World Cup Celebrations",
-              "url": "https://www.huffpost.com/entry/world-cup-spain-celebrations-teen-dead_n_6a5de0e0e4b0ab756517bc32"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Boy, 13, dies during World Cup celebrations in Spain",
-              "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Live: US launches 10th night of airstrikes on Iran after attacks on Bahrain, Kuwait",
-          "neutralSummary": "The US military said late on Monday it ​finished its latest round of strikes on Iran, saying it hit Iranian military command centers, missile and drone launch sites, maritime capabilities and ​air ‌defense systems. he latest round of US strikes ‌on Iran lasted about fivehours. Follow our liveblog fo",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "U.S. Launches More Airstrikes Against Iran After Announcing Another Death Of Service Member",
-              "url": "https://www.huffpost.com/entry/ap-ml-iran-us-israel-jordan_n_6a5cc4e0e4b0252a18dd6a72"
+              "headline": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+              "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
@@ -296,8 +135,133 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Live: US launches 10th night of airstrikes on Iran after attacks on Bahrain, Kuwait",
-              "url": "https://www.france24.com/en/middle-east/20260721-live-lebanon-s-aoun-to-meet-trump-as-pressure-builds-to-disarm-hezbollah"
+              "headline": "Bologna's protesters call for accountability after man dies during police arrest",
+              "url": "https://www.france24.com/en/bologna-s-protesters-call-for-accountability-after-man-dies-during-police-arrest"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+          "neutralSummary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+              "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Mexican drug lord ‘El Mayo’ sentenced to life in US prison",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/mexican-drug-lord-el-mayo-sentenced-to-life-in-us-prison?traffic_source=rss"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Sinaloa Cartel boss 'El Mayo' sentenced to life, ordered to pay $15B in drug trafficking profits",
+              "url": "https://www.foxnews.com/world/sinaloa-cartel-boss-el-mayo-sentenced-life-ordered-pay-15b-drug-trafficking-profits"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "Healthy diet too expensive for one in three people globally, UN report finds",
+          "neutralSummary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat wellOne in three people cannot afford to eat a healthy diet, a new report has found, prompting calls for urgent",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Healthy diet too expensive for one in three people globally, UN report finds",
+              "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
+          "neutralHeadline": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
+          "neutralSummary": "Mark Carney says Canada has made proposals to resolve dispute as tariffs are due to be imposed on wide range of goodsSign up for US Breaking News emailUS gas prices have continued to rise since the conflict with Iran resumed this month. According to the American Automobile Association (AAA), a gallo",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Canada ready to ‘intensify’ trade talks as Trump reportedly prepares to hit more countries with new tariffs – US politics live",
+              "url": "https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+              "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Andy Burnham Becomes Britain's 7th Prime Minister In A Decade After Starmer Resigns",
+          "neutralSummary": "He succeeded Keir Starmer, on a day when Britain’s political turbulence gave way, at least temporarily, to smooth choreography.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Andy Burnham Becomes Britain's 7th Prime Minister In A Decade After Starmer Resigns",
+              "url": "https://www.huffpost.com/entry/andy-burnham-becomes-uk-prime-minister_n_6a5e066fe4b0252a18ddd208"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Andy Burnham takes over as UK prime minister, calls for 'new political model'",
+              "url": "https://www.foxnews.com/world/andy-burnham-takes-over-uk-prime-minister-calls-new-political-model"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Another Tanker Attacked In Strait Of Hormuz As U.S. Strikes Iran For 10th Consecutive Night",
+          "neutralSummary": "The latest attacks again showed how, step by step, the U.S. and Iran have inched closer to all-out war.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Another Tanker Attacked In Strait Of Hormuz As U.S. Strikes Iran For 10th Consecutive Night",
+              "url": "https://www.huffpost.com/entry/us-iran-tensions-rise_n_6a5dd6cae4b063a1f5f1fb7c"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait",
+              "url": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates"
             }
           ]
         }
@@ -308,17 +272,101 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "US soldiers killed by Iran were from Texas and Hawaii, military says",
-          "neutralSummary": "US soldiers killed by Iran were from Texas and Hawaii, military says&nbsp;&nbsp;AP NewsPentagon Withheld Dozens of U.S. Military Injuries in Iran War&nbsp;&nbsp;The New York TimesTrump Says Iran Will Pay for Deaths as Mediators Push Truce&nbsp;&nbsp;Bloomberg.comUS launches new strikes against Iran",
+          "neutralHeadline": "Appeals court rejects Biden’s bid to block release of recordings of ghostwriter interviews",
+          "neutralSummary": "A federal appeals court on Monday rejected former President Biden’s request to prevent audio recordings and transcripts from decade-old interviews he gave to his memoir ghostwriter from becoming public. A three-judge panel from the U.S. Court of Appeals for the District of Columbia Circuit suspended",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Appeals court rejects Biden’s bid to block release of recordings of ghostwriter interviews",
+              "url": "https://thehill.com/homenews/administration/5980498-biden-memoir-recordings-court-ruling/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Appeals court rejects Biden bid to block release of ghostwriter recordings used in special counsel probe",
+              "url": "https://nypost.com/2026/07/21/us-news/appeals-court-rejects-biden-bid-to-block-release-of-ghostwriter-recordings-used-in-special-counsel-probe/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Appeals court denies Biden bid to block memoir tapes’ release in classified information dispute",
+              "url": "https://www.washingtonexaminer.com/news/justice/4656631/court-denies-joe-biden-bid-block-confidential-tape-release/"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Senate To Vote On Trump Court Pick Who Called Lindsey Graham A ‘Weak-Ass $$&&!'",
+          "neutralSummary": "Kara Westercamp, who also described Mitch McConnell as a “modern-day Benedict Arnold,” is up for a lifetime seat on a powerful trade court.",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "U.S. Military Identifies 2 Soldiers Killed In Iranian Attack On Jordan",
-              "url": "https://www.huffpost.com/entry/us-iran-war-deaths_n_6a5dfbf1e4b063a1f5f2152e"
+              "headline": "Senate To Vote On Trump Court Pick Who Called Lindsey Graham A ‘Weak-Ass $$&&!'",
+              "url": "https://www.huffpost.com/entry/trump-nominee-kara-westercamp_n_6a5e53dee4b0fb869f7ad0fd"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Here’s who is running to replace Lindsey Graham in the Senate",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4656578/who-is-running-replace-lindsey-graham-senate/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Trump Imposes 50% Tariffs On Most Canadian Goods",
+          "neutralSummary": "“If these tariffs proceed, Canada should respond tariff for tariff, dollar for dollar,” Ontario Premier Doug Ford said.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Imposes 50% Tariffs On Most Canadian Goods",
+              "url": "https://www.huffpost.com/entry/trump-canada-tariffs_n_6a5f2b53e4b0fb869f7be3ca"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump imposes 50% tariffs on Canadian goods",
+              "url": "https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Sen. Darline Graham Nordone Announces Run To Replace Lindsey Graham For Full Term",
+          "neutralSummary": "“I feel like I can do it. I feel an inner peace about it. Will it be difficult? Yes,” she told Fox News’ Sean Hannity in an interview that aired Monday.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Sen. Darline Graham Nordone Announces Run To Replace Lindsey Graham For Full Term",
+              "url": "https://www.huffpost.com/entry/darline-graham-nordone-full-term-south-carolina-senator_n_6a5eac89e4b06bbe43f37e0c"
             },
             {
               "political": "left",
@@ -326,56 +374,13 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Pentagon Identifies 2 U.S. Soldiers Killed in Jordan During Iran Strike",
-              "url": "https://www.nytimes.com/2026/07/20/us/iran-war-us-soldiers-killed-jordan-identified.html"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "US soldiers killed by Iran were from Texas and Hawaii, military says",
-              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelNiSUdhbjhraUJ2RmhZbDN4eDJydVAzdnZJODRIYnhpS3dVUjBFYW9IU01TWHlUdzZERFBMOHl5a1E1XzRYRlpmdGpkaGlDYzFMODNmU053X3JGeE9HVjB4bUdXcXJ6ZzdzdHd6d0oySkJIbEdOdGp5QkVNaGFSMGpFNDM5TEZWdjM0NmJKcFRPYmFfRDdROC0yS2tqcl9aVXc?oc=5"
+              "headline": "Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him",
+              "url": "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html"
             }
           ]
         },
         {
-          "id": "us-2",
-          "neutralHeadline": "‘King of the North’ Andy Burnham becomes 7th British prime minister in a decade",
-          "neutralSummary": "‘King of the North’ Andy Burnham becomes 7th British prime minister in a decade&nbsp;&nbsp;NBC NewsInside Andy Burnham’s 1st Day as U.K. Prime Minister&nbsp;&nbsp;The New York TimesAndy Burnham to set out cost of living support&nbsp;&nbsp;BBCUK's Andy Burnham becomes PM as Trump slams Britain as 'Po",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "3rd U.S. Service Member Killed Amid Escalating U.S.-Iran Attacks, Andy Burnham Becomes U.K. Prime Minister: Live Updates",
-              "url": "https://www.huffpost.com/entry/live-updates_n_6a5ddaf5e4b063a1f5f200e1"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Iran War Live Updates: U.S. and Iran Trade Attacks, After Killing of U.S. Soldiers",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS0pMS296bWU1WFFKSHYwbkdRN1RFVTZHQ1h4Znp3djJ6eHBRdTNFOHVIZ011OUdNZWdjeDhPZWluZENhZmZTR1JsSmhiWC12MjRqejdUcG1rM0FWVnlOd3J4NkJlNjVIdDVDRGEtY283aDQ3UGhQTU1CSVhZcDBkQw?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "NBC News",
-              "initials": "NN",
-              "domain": "news.google.com",
-              "headline": "‘King of the North’ Andy Burnham becomes 7th British prime minister in a decade",
-              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVVo4WkxDRXpERlFob2ViRWpzaFdTWk9yNVZSRGJxU0w4Q05XekI3aXlBWWtUX2h6WFNUbEthVjJsdHJYcFRKOXpmcmllUjFHZVlvZ3doODE0RHp4S2dseTViOXI3Q2ZDMTU3MDZ2eHNsNzNTVWJmakZCTnM0Q0RXbVJRSVhYTHlWZDhwMFdrU1RHTWs2eEp5YmoyM2RFYUEwYmlnUTRGZWswQUNPLTJ4SnlLcl9qc1p0QmljNmFONVlCdw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
+          "id": "us-5",
           "neutralHeadline": "The Trump White House’s stinkiest trend",
           "neutralSummary": "Fermented food is the hottest new trend in the halls of the White House. Members of President Donald Trump’s Cabinet are reportedly walking about with jars of sauerkraut in the hopes that it will give them glowing skin and tiny waists.  Wall Street Journal’s Liz Essley Whyte told Today, Explained co",
           "versions": [
@@ -400,66 +405,59 @@
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "How success in Venezuela set Trump up for disaster in Iran",
-          "neutralSummary": "Last week presented a stark contrast in the trajectories of the Trump administration’s two riskiest foreign policy ventures. On July 13, the President Donald Trump formally declared a return to military action in Iran, making clear that a war that he had anticipated would last just four or five week",
+          "id": "us-6",
+          "neutralHeadline": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
+          "neutralSummary": "Sgt. Michael Emmanuel Swinton, the 17th service member to be named, was killed during the disposal of a drone in northern Iraq.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "How success in Venezuela set Trump up for disaster in Iran",
-              "url": "https://www.vox.com/politics/495917/trump-venezuela-iran"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
+              "url": "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "G.O.P. Boxed In on Iran War as Trump Sidelines Congress",
-              "url": "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Tate Brothers to Stay in Jail as New Details About Charges Emerge",
-          "neutralSummary": "In court documents unsealed on Monday, British prosecutors accused the “manosphere” influencers of choking women, sometimes until they passed out, and then raping them.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Tate Brothers to Stay in Jail as New Details About Charges Emerge",
-              "url": "https://www.nytimes.com/2026/07/20/us/andrew-tristan-tate-brothers-hearing.html"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
-          "neutralSummary": "The FDA says lettuce distributed by Taylor Fresh Foods and Taylor Farms de Mexico is still linked to the multistate outbreak of cyclosporiasis. But the source may be difficult to definitively trace.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
-              "url": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test"
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Pentagon identifies third US soldier killed in weekend attack by Iran",
+              "url": "https://nypost.com/2026/07/21/world-news/sgt-michael-emmanuel-swinton-idd-as-third-us-soldier-killed-near-iran/"
             }
           ]
         },
         {
           "id": "us-7",
-          "neutralHeadline": "Hundreds gather for Nolan Wells’ funeral in Mississippi",
-          "neutralSummary": "Hundreds gather for Nolan Wells’ funeral in Mississippi&nbsp;&nbsp;NBC NewsNolan Wells funeral: 'We will miss everything about him,' mom says as death investigation continues&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos2 weeks after a Mississippi football player’s death, many question",
+          "neutralHeadline": "What We Know About Tuesday’s Arizona Primaries",
+          "neutralSummary": "Arizona primary voters will choose nominees for governor, secretary of state and for key races that could determine control of the House.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "What We Know About Tuesday’s Arizona Primaries",
+              "url": "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-election-what-we-know.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "The primaries to watch today in Arizona",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcTVfd0JnckNfLVRCNE9vY0N5OVNFSDN4bk9NVlhtYUJUUnBSSEJZQ3Vva0ZzZkZHVGFYYkFsOWJkNUY4U2toNWlDV19kcmlLWHc5RDE2TjB4WnlzOGkwRl9LUFpHT0R1MlFFMm1od1REQmk1eW8zaUtySTBTeUVwaVJOb2pUYW55cGtzLXZsSnp0Y1k?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
+          "neutralSummary": "The movement, which began as a satirical protest, has evolved into a nationwide challenge to Prime Minister Narendra Modi's government.",
           "versions": [
             {
               "political": "left",
@@ -467,58 +465,33 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "At Mississippi funeral, Civil Rights leaders call for justice for Nolan Wells, 18",
-              "url": "https://www.npr.org/2026/07/20/nx-s1-5897559/nolan-wells-sharpton-crump-funeral"
-            },
+              "headline": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
+              "url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Judge to hear evidence against singer D4vd in killing, dismemberment of teen and decide on trial",
+          "neutralSummary": "Judge to hear evidence against singer D4vd in killing, dismemberment of teen and decide on trial&nbsp;&nbsp;NBC NewsNew evidence against singer D4vd in brutal killing of teen set to come to light&nbsp;&nbsp;Los Angeles TimesJudge to hear evidence against singer D4vd in killing of teen&nbsp;&nbsp;NBC",
+          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "NBC News",
               "initials": "NN",
               "domain": "news.google.com",
-              "headline": "Hundreds gather for Nolan Wells’ funeral in Mississippi",
-              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTm9zNmVJazNSQmdIbzhic2NvVENJMkxJR0lhOVJrZTlsSk4wMUVHcVh5QVBCNFpwV0F3Z3g5MEhHbl9UTmg0NTJaSHJWNlYxclJPYWZnN2NMVFN1RUNCYVU0UXFKVjFHWWVmNVVmbmxyYktNZHd4bHJSZ1E3cU1OMDBuWWhmLW5NVEl0NW9kWDBRTEpsNGc?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "10 things that wowed us at the 2026 World Cup",
-          "neutralSummary": "The United States, Mexico, and Canada co-hosted the nearly six-week tournament. NPR's team of journalists who covered the World Cup reflects on the experience.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "10 things that wowed us at the 2026 World Cup",
-              "url": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament"
+              "headline": "Judge to hear evidence against singer D4vd in killing, dismemberment of teen and decide on trial",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb2JyNnlNQUJqSkU4M05Gc1Z3eFFDMURWakJhUTFaYmxkWUFyMWhYOU9RMElsVHVGMFFZalJYSjZPbDdSV3hnckN6M3lNMTRNNl9DVnF1NXU1OWJiZGo2SDFvdzA4M0ZRRUMwZ2tVeDVneVpmSFllMXFoc1BFNzVIakhoVC1BcENiZGlWaGw2b1Q0MHo4NXlUZ1JrSVYwTXBfR0pWbUs4cUZWY0U?oc=5"
             },
             {
               "political": "right",
-              "tone": "optimistic",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "World Cup Champions Won Big. So Did The IRS.",
-              "url": "https://www.dailywire.com/news/world-cup-champions-won-big-so-did-the-irs"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change",
-          "neutralSummary": "They call themselves the \"cockroaches\" and they're on the march — demanding action against corruption, amid a shortage of opportunities for young people in India.",
-          "versions": [
-            {
-              "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "India's Gen Z 'Cockroach People's Party' started as satire but is serious about change",
-              "url": "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests"
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Judge to hear evidence against singer D4vd in killing, dismemberment of  Celeste Rivas and decide on trial",
+              "url": "https://nypost.com/2026/07/21/us-news/judge-to-hear-evidence-against-singer-d4vd-in-killing-dismemberment-of-teen-and-decide-on-trial/"
             }
           ]
         }
@@ -529,8 +502,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "PM Wong congratulates Andy Burnham on his appointment as British PM",
-          "neutralSummary": "PM Wong also said he hoped to welcome Burnham to Singapore.",
+          "neutralHeadline": "Lengkok Bahru fight: Man to be charged with murder",
+          "neutralSummary": "The police said that they received a call for assistance at Block 55 Lengkok Bahru at about 4.45pm on July 20.",
           "versions": [
             {
               "political": "center",
@@ -538,24 +511,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "PM Wong congratulates Andy Burnham on his appointment as British PM",
-              "url": "https://www.straitstimes.com/singapore/pm-wong-congratulates-andy-burnham-on-appointment-as-british-pm"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "PM Wong congratulates new UK PM Andy Burnham",
-              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2QxWmh1cXZtTHhQbFFyaGExYlJ2cHhQWG1NZGF0RUlwVUdwS21pRkpsWVBNek1nNXhVQmpYNE1TdWY1NVJFMzhDZC1oRTc1b1M2a1ZUTllvV0t5ZFhTZG9DeVFRXzUyU19aaElkSkpuOVlLejh6RHlCZXZGWElyNTRyNVhVblZ2TmdCcHFLMU1jellqb2t6Qzl2WkFpYllKckRzM3pKVVpXSTNzRVE?oc=5"
+              "headline": "Lengkok Bahru fight: Man to be charged with murder",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/lengkok-bahru-fight-man-to-be-charged-with-murder"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "ST Explains: When must firms inform customers about using their personal data for AI training?",
-          "neutralSummary": "Singapore's new rules mandate that organisations inform consumers if they use personal data to train AI models.",
+          "neutralHeadline": "EV catches fire outside Woodlands HDB carpark; no injuries reported",
+          "neutralSummary": "A photo taken after the incident shows the interior of the car was entirely charred.",
           "versions": [
             {
               "political": "center",
@@ -563,15 +527,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "ST Explains: When must firms inform customers about using their personal data for AI training?",
-              "url": "https://www.straitstimes.com/tech/stexplains-can-customers-say-no-to-the-use-of-their-personal-data-for-ai-training"
+              "headline": "EV catches fire outside Woodlands HDB carpark; no injuries reported",
+              "url": "https://www.straitstimes.com/singapore/ev-catches-fire-outside-woodlands-hdb-carpark-no-injuries-reported"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Star",
+              "initials": "TS",
+              "domain": "news.google.com",
+              "headline": "EV catches fire outside Woodlands HDB carpark; no injuries reported",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMFRrTUZjM3BLdTF2ZWNWb2JTeUZKWWZCelRxaUdtTmdsdWxpYUJKWEFSbENmOENEeVZXQkE5UlZ1YS1sZk9YUWFVc21USUREY2xrb1ZfMU5uOHB2UzloMHNUeFVOMUlWNmU5bDVtR01MTFFfeG1fRDI3T0pkMTVGMFVvVGJIeHJYMzI1eXk0bkxpekJBQlZNSS1ESnFaelBsRldwSGp6TEk5VnF2Q2cwaEZmY085Q29YdzBDUllXNEVZbkZxeEpYcA?oc=5"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "No by-election will be called after Faishal’s resignation, says Desmond Lee",
-          "neutralSummary": "Four MPs in GRC will serve Kembangan residents, and the PAP said it will strengthen the team in time.",
+          "neutralHeadline": "SAF captain charged with possessing sexually explicit child abuse materials",
+          "neutralSummary": "Dylan Yoon Ker Tern is accused of committing the offences in August 2025.",
           "versions": [
             {
               "political": "center",
@@ -579,104 +552,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "No by-election will be called after Faishal’s resignation, says Desmond Lee",
-              "url": "https://www.straitstimes.com/singapore/politics/no-by-election-will-be-called-after-faishals-resignation-says-desmond-lee"
+              "headline": "SAF captain charged with possessing sexually explicit child abuse materials",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/saf-captain-charged-with-possessing-sexually-explicit-child-abuse-materials"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Star",
+              "initials": "TS",
+              "domain": "news.google.com",
+              "headline": "Singapore Armed Forces captain charged with possessing sexually explicit child abuse materials",
+              "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRDQwZU82cU5KajVza21PZnJOTVBTeGVST1djTFhxQ25SQUZSamxWWm4xeF91VlFpNXY0ZTBVbnM0bU1BLTZjbEJtdElKb09aN0gxdXhSeE44QUVwOWR3WURzTzhQX1RqRzVaVnJWUmRuaUVyVnJudDBUQ1FUSmlIWWdXUHVSMGVfM004bUl0T1p2aW1Pc2N0SHdtTUxIWjdZNEVCcE04UXNhcmxONVhFT1RNREtFX2dNa3pIVnBXNHJKd2MtZnZPUGQtcDRQbDlIbHFiTGVpZk8tM29hTkR2VDdrMnFRX0JkTS0w?oc=5"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "481 firms lauded for doing good in 2026; businesses donated nearly $384 million over past 3 years",
-          "neutralSummary": "Small and medium-sized enterprises formed the majority of companies recognised in the 2026 cohort.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "481 firms lauded for doing good in 2026; businesses donated nearly $384 million over past 3 years",
-              "url": "https://www.straitstimes.com/singapore/community/481-firms-lauded-for-doing-good-in-2026-businesses-donated-nearly-384-million-over-past-three-years"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Remaining charges against Hin Leong founder O.K. Lim withdrawn",
-          "neutralSummary": "A district court granted Lim Oon Kuin a discharge amounting to an acquittal on July 17.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Remaining charges against Hin Leong founder O.K. Lim withdrawn",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/remaining-charges-against-hin-leong-founder-o-k-lim-withdrawn"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Man accused of sexually assaulting friend’s teenage daughter",
-          "neutralSummary": "The girl had become pregnant when she was in junior college and aborted the baby, reportedly at the man's request.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Man accused of sexually assaulting friend’s teenage daughter",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/man-accused-of-sexually-assaulting-friends-teenage-daughter"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Faishal Ibrahim resigns over online messages with female member of the public",
-          "neutralSummary": "Zaqy Mohamad will take over as Acting Minister-in-charge of Muslim Affairs.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Faishal Ibrahim resigns over online messages with female member of the public",
-              "url": "https://www.straitstimes.com/singapore/politics/faishal-ibrahim-resigns-over-online-messages-with-a-female-member-of-the-public"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Faishal Ibrahim resigns: No by-election to be held in Marine Parade-Braddell Heights GRC",
-              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2tsYXJmeHpxT21tYmdkbURfN3hSdjdIRFRVRXlIbWhTTmxZS1ZfZURfS0FNeGt4ZkhqeTY4dk15NkRwdHdBd1ZmZk1pN0lld3d3VUU2MFNlbzVadDQxdlBMcE9aOE85NU52cHR5WmNtY1h5TEVyb3NPUGxNYVN4WWJxaEZLWkk1Yng0c1lRYlZBVHowUjhlWUIzV0g3ZzJkd0g1VlZkRkdUaUFucFJKV3VFVjBCNFdEaVlkVmxqdVlMSmRfZ3c5bEhCYw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "Ex-actor Edmund Chen’s jail term over accident that injured motorcyclist cut from 5 days to 1 day",
-          "neutralSummary": "In allowing Chen’s appeal, Justice Hri Kumar Nair said five days’ jail was manifestly excessive.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Ex-actor Edmund Chen’s jail term over accident that injured motorcyclist cut from 5 days to 1 day",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/ex-actor-edmund-chens-jail-term-over-accident-that-injured-motorcyclist-cut-from-5-days-to-1-day"
-            }
-          ]
-        },
-        {
-          "id": "singapore-9",
-          "neutralHeadline": "Asia stocks up as chip stocks recover, oil eases",
-          "neutralSummary": "US technology stocks advanced on Monday and this was mirrored in Asian trade.",
+          "neutralHeadline": "Network School in Johor’s Forest City ordered to cease operations after business licence revoked",
+          "neutralSummary": "Iskandar Puteri City Council’s decision was in accordance with existing legal provisions, says Johor Chief Minister Onn Hafiz Ghazi.",
           "versions": [
             {
               "political": "center",
@@ -684,8 +577,115 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Asia stocks up as chip stocks recover, oil eases",
-              "url": "https://www.channelnewsasia.com/east-asia/asian-markets-chip-stocks-oil-prices-6267211"
+              "headline": "Network School in Johor’s Forest City ordered to cease operations after business licence revoked",
+              "url": "https://www.channelnewsasia.com/asia/network-school-forest-city-startup-johor-6267971"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "news.google.com",
+              "headline": "Tech commune Network School in Johor’s Forest City ordered to cease operations from July 22",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOVZ6Qk5PLXRwSlVlV0o4MEowU0E1MVRNN01WYW41eTJHdUhLRmYxTElLRVNKY2hwdWJST210REo2WHVPckM1bWd0cmYyUVBMOUNjSVpmQkwtR1I2X3R2S2xjODNXU1BDUXluRjVNVDhBd3ZpUk9IZXhtYmxiSFA2aUtDZkhZb1VHUHdpc1FSZ2tQVjhSTHNnN3gzbmI0Z2tuX3c?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "He delivers food by day and pens poetry by night. Now he’s won China’s top literary prize",
+          "neutralSummary": "Wang Jibing, a 56-year-old food delivery rider from China’s eastern Jiangsu province, won the Lu Xun Literary Prize for his poetry collection titled Low Flight.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "He delivers food by day and pens poetry by night. Now he’s won China’s top literary prize",
+              "url": "https://www.channelnewsasia.com/east-asia/food-delivery-rider-wins-china-top-poetry-literary-prize-6267586"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Food delivery rider wins China's top literary prize",
+              "url": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Members of Indonesia syndicate which sold babies to Singapore get 3 to 7 years' jail",
+          "neutralSummary": "The 19 defendants were convicted of selling at least 34 babies between 2022 and 2025, some of whom were taken to Singapore and sold for thousands of dollars for each child.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Members of Indonesia syndicate which sold babies to Singapore get 3 to 7 years' jail",
+              "url": "https://www.channelnewsasia.com/asia/indonesia-baby-trafficking-ring-trial-bandung-singapore-6267441"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "Philippines, China summon each other's envoys over South China Sea incident",
+          "neutralSummary": "Philippines, China summon each other's envoys over South China Sea incident",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Philippines, China summon each other's envoys over South China Sea incident",
+              "url": "https://www.channelnewsasia.com/east-asia/south-china-sea-philippine-ambassador-summoned-6267311"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "China, Philippines trade accusations over South China Sea encounter",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd01ERXdGbnY4WmswSGZoUWFrOXVNWG5sR1ZGc2ozR2ZNcGhnOXVlZmo1ekpzcjEyeU5pS0tucElxZmV0dF9wb3JlR2ZWTUF5TDBNRTBvc25hMWtzajFudU81RXJmQnBVRGdIUF9veVNBcDFYNld4SDRxSmRFR0RNU1I4cEpNRUlDMDYySTBzZzhhYjFRSDAxRnFPWjVsbGpvM3A2WVc5TXI0X2lUMWxaQUp4MWZKTDVzNEwyWWgzMFBtV0w2SHd3?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "Missing: 13-year old boy last seen in Tampines",
+          "neutralSummary": "The boy was wearing a green singlet and black shorts.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Missing: 13-year old boy last seen in Tampines",
+              "url": "https://www.straitstimes.com/singapore/missing-13-year-old-boy-last-seen-in-tampines"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
+          "neutralHeadline": "Law centre in Geylang Serai brings legal aid to people with special needs, mental conditions",
+          "neutralSummary": "A full-time community lawyer and programme coordinator will be based at the MINDS Community Hub.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Law centre in Geylang Serai brings legal aid to people with special needs, mental conditions",
+              "url": "https://www.straitstimes.com/singapore/community/law-centre-in-geylang-serai-brings-legal-aid-to-people-with-special-needs-mental-conditions"
             }
           ]
         }
@@ -696,8 +696,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "CJP protest: Delhi Police files FIR over violence",
-          "neutralSummary": "CJP protest: Delhi Police files FIR over violence",
+          "neutralHeadline": "AAP takes dig at Congress' dharna outside PM's residence, says Rahul 'undermining' CJP protest",
+          "neutralSummary": "Delhi AAP chief Saurabh Bharadwaj also attacked the Congress, alleging that its leaders were silent on the ongoing movement, while their social media handles and influencers aligned to them have been trying to “weaken” the CJP protest",
           "versions": [
             {
               "political": "left",
@@ -705,33 +705,42 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "CJP protest in Delhi LIVE: Dipke apologises to CJP supporters who were 'brutally beaten' by police",
-              "url": "https://www.thehindu.com/news/national/cjp-protest-delhi-jantar-mantar-sonam-wangchuk-july-21-2026/article71247869.ece"
+              "headline": "AAP takes dig at Congress' dharna outside PM's residence, says Rahul 'undermining' CJP protest",
+              "url": "https://www.thehindu.com/news/national/aap-takes-dig-at-congress-dharna-outside-pms-residence-says-rahul-undermining-cjp-protest/article71250100.ece"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "CJP protest: Delhi Police files FIR over violence",
-              "url": "https://economictimes.indiatimes.com/news/india/cjp-protest-in-delhi-police-files-complaint-over-violence-and-vandalism-of-vehicles-abhijeet-dipke-sonam-wangchuk/articleshow/132526623.cms"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Congress, CJP Protest LIVE Updates: Congress Leaders Removed From Protest Site Outside PM's House",
+              "url": "https://www.ndtv.com/india-news/cjp-protest-in-delhi-live-cockroach-janta-party-parliament-protest-abhijeet-dipke-jantar-mantar-sonam-wangchuk-parliament-monsoon-session-saurav-das-11794314#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Rahul Gandhi’s protest outside PM home ‘delays’ Karnataka Cabinet expansion",
+              "url": "https://indianexpress.com/article/cities/bangalore/karnataka-cabinet-expansion-delayed-rahul-gandhi-protest-10797182/"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Shambhu border sealed as farmers head to Delhi to oppose India-US trade deal",
-          "neutralSummary": "Farmers marched towards Delhi to protest the proposed Indo-US trade agreement.  Police barricaded the Shambhu border, preventing many from reaching their destination.  Protesters voiced concerns about potential impacts on Indian agriculture and dairy sectors.  They demanded transparency and consulta",
+          "neutralHeadline": "Watch: Rahul Gandhi dragged away, forcibly removed from protest site; pics show nosebleed",
+          "neutralSummary": "Congress released videos showing dramatic scenes of senior leaders' detention. Rahul Gandhi was seen lying on the road during the protest. Priyanka Gandhi Vadra resisted boarding a police bus as she was pulled inside. Police forcibly removed and detained several opposition leaders outside the Prime",
           "versions": [
             {
               "political": "left",
-              "tone": "optimistic",
+              "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Punjab Farmers To Take Part In Rally Against India-US Trade Deal Today",
-              "url": "https://www.ndtv.com/india-news/farmers-from-punjab-haryana-rajasthan-hold-delhi-rally-against-india-us-fta-11798699#publisher=newsstand"
+              "headline": "Video: Rahul Gandhi, Priyanka Detained From Protest Site, Taken Away In Bus",
+              "url": "https://www.ndtv.com/india-news/neet-paper-leak-row-rahul-gandhi-sister-priyanka-lead-congress-protest-to-pm-modi-s-house-11800745#publisher=newsstand"
             },
             {
               "political": "center",
@@ -739,15 +748,24 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Shambhu border sealed as farmers head to Delhi to oppose India-US trade deal",
-              "url": "https://timesofindia.indiatimes.com/city/chandigarh/shambhu-border-sealed-as-farmers-head-to-delhi-to-oppose-india-us-trade-deal/articleshow/132527122.cms"
+              "headline": "Watch: Rahul Gandhi dragged away, forcibly removed from protest site; pics show nosebleed",
+              "url": "https://timesofindia.indiatimes.com/india/watch-rahul-gandhi-dragged-away-forcibly-removed-from-protest-site-pics-show-nosebleed/articleshow/132538590.cms"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Rahul, Priyanka, Akhilesh detained from protest site near PM's residence; thousands regroup at CJP's Jantar Mantar protest site | LIVE",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjhrSDIzMnFKNnR6N0ZJbFF4ZHZ2VGtGTllrRUFuZHFwTlczS0lKUFluTndYYzhlUnZ3T3RUQmdBVnNvUGNFYkE2cjdZMFRVUEYzVi1NV19EWTkzZ3hFM3Z2VEIyU2ZJTExZTkpsM2s1bFpialRmMDhPdWJaTnVmUUtPVXJKSVA5eEFlYW9yclB2SHdfSWZHV1pjd2sxRjc1SWRiLTBnZGpNVHJkT3ZjamhHTjZJSWh4Znc?oc=5"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Sikkim landslides: 8 dead, 19 feared trapped in Teesta hydel project tunnel",
-          "neutralSummary": "The workers were trapped at least three kilometers inside the tunnel and rescue operations were continuing despite rain and inclement weather.",
+          "neutralHeadline": "‘I was hungry’: CJP sacks spokesperson Vijeta Dahiya after he defends leaving protest march, eating burger instead",
+          "neutralSummary": "Announcing disciplinary action, the party said it was removing Dahiya as its spokesperson and relieving him of all official responsibilities.",
           "versions": [
             {
               "political": "left",
@@ -755,8 +773,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "8 Killed, Several Trapped In Sikkim Tunnel After Landslide Triggers Gas Leak",
-              "url": "https://www.ndtv.com/india-news/27-feared-trapped-in-sikkim-tunnel-after-landslide-triggers-gas-leak-11798079#publisher=newsstand"
+              "headline": "CJP Sacks Spokesperson Over Burger Video. \"I'm Not Accountable,\" He Says",
+              "url": "https://www.ndtv.com/india-news/vijeta-dahiya-cockroach-janta-party-jantar-mantar-protest-cjp-sacks-spokesperson-over-burger-video-im-not-accountable-he-replies-11801320#publisher=newsstand"
             },
             {
               "political": "center",
@@ -764,115 +782,88 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Sikkim landslides: 8 dead, 19 feared trapped in Teesta hydel project tunnel",
-              "url": "https://www.hindustantimes.com/india-news/sikkim-landslides-8-dead-19-feared-trapped-in-teesta-hydel-project-tunnel-death-toll-101784605938399.html"
+              "headline": "‘I was hungry’: CJP sacks spokesperson Vijeta Dahiya after he defends leaving protest march, eating burger instead",
+              "url": "https://www.hindustantimes.com/india-news/i-was-hungry-cjp-sacks-spokesperson-vijeta-dahiya-after-he-defends-leaving-protest-march-eating-burger-instead-101784630939570.html"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "CJP protest in Delhi highlights: Dipke, protesters reclaim dismantled Jantar Mantar protest site, as CJP awaits Govt response to demands",
-          "neutralSummary": "Teargas and lathi-charges as CJP protesters storm into central Delhi; several injured, detained",
+          "neutralHeadline": "India’s youth-led Cockroach movement vows to continue protest after police crackdown",
+          "neutralSummary": "India’s youth-led Cockroach movement vows to continue protest after police crackdown&nbsp;&nbsp;AP NewsThousands protest in India after clashes, despite Modi assuring action on exams&nbsp;&nbsp;ReutersJantar Mantar: What is the Gen Z CJP protest in Delhi about?&nbsp;&nbsp;BBCWho are India’s Cockroac",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "CJP protest in Delhi highlights: Dipke, protesters reclaim dismantled Jantar Mantar protest site, as CJP awaits Govt response to demands",
-              "url": "https://www.thehindu.com/news/national/cjp-protest-july-20-2026-cockroach-janata-party-jantar-mantar-parliament-march-sonam-wangchuk/article71242448.ece"
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "India’s youth-led Cockroach movement vows to continue protest after police crackdown",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmplcEQ0OFNyUjdrZjRqV09sVEljWW9VOGJjM1dVQVlwWHF3bEZaaEdHWmI5RkNLdjNLc05IalM4aU8weGVvRWc3UlhqRDdFdmhCYll6NHhNVEliNTUyNFlzMlVheUwwZW90Q3dhRXg2VF9YM1hYcGdrLWhYMWtPT1prZXJwUkJUNVJmMmNibW8zMmM?oc=5"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "CJP’s Jantar Mantar Protest Live Updates: Protest enters Day 24; heavy security in Delhi",
-              "url": "https://indianexpress.com/article/cities/delhi/cjp-protest-news-jantar-mantar-live-updates-security-abhijeet-dipke-sonam-wangchuk-hunger-strike-neet-paper-leak-dharmendra-pradhan-10795901/"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "CJP's parliament march from Jantar Mantar: India's 'cockroach' protest continues a day after police crackdown",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnSlhTal84WnZOQjQtS0g4bjFldE1xTFhNc2ZmREctZi1Bd0p5Q1IzSk5WZ3llNno1ZFFLS2M2WFRIMkEzSHhaV0lXcktrd3lIMzQ5dzZFb1lFQQ?oc=5"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Wes Streeting Named New UK Defence Minister",
-          "neutralSummary": "UK's new PM Andy Burnham named ex-health minister Wes Streeting as his defence secretary late Monday.",
+          "neutralHeadline": "Six months of UDF rule in Kerala’s Pala municipality ends with ouster of chairperson Diya Binu",
+          "neutralSummary": "No-confidence motion, moved by LDF against Diya Binu, regarded as the youngest chairperson of any civic body in the country, passed with support of 17 councillors, including four Congress members and UDF vice-chairperson",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Wes Streeting Named New UK Defence Minister",
-              "url": "https://www.ndtv.com/world-news/wes-streeting-named-new-uk-defence-minister-11798511#publisher=newsstand"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Who is Kanishka Narayan? Indian-origin MP named UK’s first AI Minister",
-              "url": "https://indianexpress.com/article/world/who-is-kanishka-narayan-indian-origin-mp-named-uks-first-ai-minister-10795868/"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Six months of UDF rule in Kerala’s Pala municipality ends with ouster of chairperson Diya Binu",
+              "url": "https://www.thehindu.com/news/national/kerala/six-month-udf-rule-in-keralas-pala-municipality-ends-with-ouster-of-chairperson-diya-binu/article71248506.ece"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "Parliament monsoon session: Opposition slams Modi, Rahul calls him ‘anti-youth’ PM",
-          "neutralSummary": "Opposition leaders on Monday slammed the Bharatiya Janata Party-led Union government over the students’ protest outside Parliament.",
+          "neutralHeadline": "Kumily panchayat plans to set up CSTP plant to prevent wastewater from flowing into Periyar lake",
+          "neutralSummary": "Without a proper treatment system, untreated wastewater from tourism establishments flows into a canal that feeds directly into the Periyar lake within the Mullaperiyar reservoir. Local body officials discovered that several businesses were discharging wastewater directly into culverts connected to",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "indianexpress.com",
-              "headline": "Parliament Monsoon Session 2026 Day 2 Live Updates: Opposition looks to corner Centre over CJP crackdown",
-              "url": "https://indianexpress.com/article/india/parliament-monsoon-session-day-2-neet-paper-leak-cjp-protests-police-action-10795932/"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Parliament monsoon session: Opposition slams Modi, Rahul calls him ‘anti-youth’ PM",
-              "url": "https://www.hindustantimes.com/india-news/parliament-monsoon-session-opposition-slams-modi-rahul-calls-him-anti-youth-pm-101784575138334.html"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Kumily panchayat plans to set up CSTP plant to prevent wastewater from flowing into Periyar lake",
+              "url": "https://www.thehindu.com/news/national/kerala/kumily-panchayat-plans-to-set-up-cstp-plant-to-prevent-wastewater-from-flowing-into-periyar-lake/article71249805.ece"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today",
-          "neutralSummary": "A bench of chief justice DK Upadhyaya and justice Tejas Karia observed that it would consider Wangchuk’s wife Gitanjali’s plea seeking his transfer to a hospital of his choice on Tuesday after examining the medical records.",
+          "neutralHeadline": "GoM to examine phased shift of bulk cargo from Visakhapatnam Port to Mulapeta Port",
+          "neutralSummary": "Proposal aims to reduce pollution, ease congestion at Visakhapatnam Port and enable commercially viable operations at Mulapeta Port, says Minister",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Delhi High Court seeks Sonam Wangchuk’s medical reports, to hear transfer plea today",
-              "url": "https://www.hindustantimes.com/india-news/delhi-high-court-seeks-sonam-wangchuk-s-medical-reports-to-hear-transfer-plea-today-101784575173688.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Live Law",
-              "initials": "LL",
-              "domain": "news.google.com",
-              "headline": "Appeal Against Refusal To Shift Sonam Wangchuk To Private Hospital : Live Updates From Delhi High Court...",
-              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNUl4eDN0R09MMEw4MUpJeXF1eFVTUUM1dlBCenpxcnhnR1lxNE9YSVp1NjdGSWNNeTRjbExHZmI5Z2J5U1l5aF9tbVZzTTUzX21WUUJ6ajF4S0NxVmREaTNnOVVkbHBMc201TndPSW9GU0ljUEQxRzZWTUhLWnItTHlGemx6TERkTnVMQnl2eGNMRzhPZzRpejJ1Z1BKdDJBbXNRb0QtR2tGb3VfTUdlUEZ3VC0xYzg5eHEtTUNGejIwc1RDMTRCRG03enVnX0RlQUUzMV9MS0F4eDNfdGpTTnluaXVNUdIB6wFBVV95cUxPVlpKbGI4c1FSVjBEWlN4SGs3TDFkNzdCX2gxamc1azBpOHlpbnUzSnpLUG5LdnhfNF9YWDA4bE4yZ2ZmRTVPWlB5LVlYVTNlWTlocEh3T2dvQkNsT2NfbkVVclplcmQ0MzdTUHdyRGhnVEhRdkQ5MXJCMnNTX1Azc2RUZWtFNHFwVnpoZzhoczQtTm9vSWRHZjAza2FnYTgtejdYZVdoVEhDWU9uNkZ3WlB5M01qYnFyZGptMXFlN2NnT1FYVERSWkEyZEViT0F2LUhaUjFSM0YxS1BFVUlzeW5RX3VHeHYyYWJr?oc=5"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "GoM to examine phased shift of bulk cargo from Visakhapatnam Port to Mulapeta Port",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/gom-to-examine-phased-shift-of-bulk-cargo-from-visakhapatnam-port-to-mulapeta-port/article71249427.ece"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Martyrs’ Day 2026 turns out to be show of political strength for rival Trinamool factions in West Bengal",
-          "neutralSummary": "Trinamool Congress MP Kakoli Ghosh Dastidar, who, along with 19 other party Lok Sabha MPs, has merged with the little-known Nationalist Citizens Party of India (NCPI), said the faction would observe Martyrs’ Day at Rajghat",
+          "neutralHeadline": "Two from Karnataka rescued from Chinese-run scam compound in Myanmar",
+          "neutralSummary": "Two from Karnataka rescued from Chinese-run scam compound in Myanmar",
           "versions": [
             {
               "political": "left",
@@ -880,15 +871,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Martyrs’ Day 2026 turns out to be show of political strength for rival Trinamool factions in West Bengal",
-              "url": "https://www.thehindu.com/news/national/west-bengal/martyrs-day-2026-turns-out-to-be-show-of-political-strength-for-rival-trinamool-factions-in-west-bengal/article71242029.ece"
+              "headline": "Two from Karnataka rescued from Chinese-run scam compound in Myanmar",
+              "url": "https://www.thehindu.com/news/national/karnataka/two-from-karnataka-rescued-from-chinese-run-scam-compound-in-myanmar/article71249696.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Haryana police close Shambu border ahead of farmers’ motorcycle rally",
-          "neutralSummary": "A traffic advisory has been issued with alternative routes",
+          "neutralHeadline": "Shivamogga Deputy Commissioner holds meeting on forming Bharat Jodo Yuva Sanghas",
+          "neutralSummary": "Shivamogga Deputy Commissioner Prabhulinga Kavalikatti tells officers that the State government had planned to form 10,000 Bharat Jodo Yuvaka Sanghas in the State.",
           "versions": [
             {
               "political": "left",
@@ -896,8 +887,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Haryana police close Shambu border ahead of farmers’ motorcycle rally",
-              "url": "https://www.thehindu.com/news/national/haryana-police-close-shambu-border-ahead-of-farmers-motorcycle-rally/article71248028.ece"
+              "headline": "Shivamogga Deputy Commissioner holds meeting on forming Bharat Jodo Yuva Sanghas",
+              "url": "https://www.thehindu.com/news/national/karnataka/shivamogga-deputy-commissioner-holds-meeting-on-forming-bharat-jodo-yuva-sanghas/article71250039.ece"
             }
           ]
         }
