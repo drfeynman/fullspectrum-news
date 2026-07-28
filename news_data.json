@@ -1,13 +1,90 @@
 {
-  "generatedAt": "2026-07-28T04:54:11.521545+00:00",
+  "generatedAt": "2026-07-28T15:25:08.242346+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Berlin Pride attack suspect raised red flags, group says, amid questions about prior release from prison despite ISIS ties",
-          "neutralSummary": "Berlin Pride attack suspect raised red flags, group says, amid questions about prior release from prison despite ISIS ties&nbsp;&nbsp;CBS NewsA fatal attack on Berlin’s Pride festival leaves locals wondering how their city will recover&nbsp;&nbsp;AP NewsBerlin Pride attacker served less than 2 years",
+          "neutralHeadline": "Japan hit by 7.1-magnitude earthquake",
+          "neutralSummary": "Japanese media is reporting that there are a number of casualties following the 7.1 magnitude earthquake in Japan. Authorities have said people are trapped in a shopping mall after its second floor collapsed, including casualties. Rescue efforts are ongoing.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Japan earthquake injures 50 and traps ‘many people’ inside shopping mall",
+              "url": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "A 7.1 quake hits Japan's Kyushu, trapping people in a collapsed shopping mall",
+              "url": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Japan hit by 7.1-magnitude earthquake",
+              "url": "https://www.france24.com/en/japan-hit-by-7-1-magnitude-earthquake"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Wildfires In France Drive More Than 250,000 From Their Homes",
+          "neutralSummary": "Fire crews are battling round-the-clock against the blaze that has burned an area four times the size of Paris.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Wildfires In France Drive More Than 250,000 From Their Homes",
+              "url": "https://www.huffpost.com/entry/europe-wildfires-2026_n_6a66abf2e4b00feba845e7d1"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "news.google.com",
+              "headline": "‘Ash fell from the sky’: Tourists describe fleeing ‘apocalyptic’ wildfires in France",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcERkX2NiUS1YQmpDQW80V2Y1cU5EbzRlcU5RNkhUOVBISy1nNExpN2RFanJ2TU1BcXpKQ0RPV2F6S01RVDJLNjM4d1J6YjVGc0ZvU1pJQTRrUDNYZ2pCYno5cV9hNjI5RmhJelFnV3BfTW9kZGVObVY1aGVWb1RSek1ydnpSdUpSeUM3X2JhbEpublJJejJRZzlpWDV5emphTVZkcGp1VUZLYzNEQUE2TTcxbnExaU9yY3ZMYzBEOS1sZDQ?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "France and Spain brace for heatwave that could worsen raging wildfires",
+              "url": "https://www.aljazeera.com/news/2026/7/28/france-and-spain-brace-for-heatwave-that-could-worsen-raging-wildfires?traffic_source=rss"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Wildfires displace more than 250,000 in France, threaten famed wine region",
+              "url": "https://www.foxnews.com/world/wildfires-displace-250000-france-threaten-famed-wine-region"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Questions mount after deadly Berlin Pride attack. Here’s what to know",
+          "neutralSummary": "Questions mount after deadly Berlin Pride attack. Here’s what to know&nbsp;&nbsp;AP NewsInvestigators find apparent claim of responsibility after Berlin Pride attack&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosBerlin Pride attacker pledged allegiance to Islamic State, say prosecutors&",
           "versions": [
             {
               "political": "left",
@@ -19,22 +96,13 @@
               "url": "https://www.huffpost.com/entry/berlin-pride-suspect-killed_n_6a66a575e4b006a1a83680ce"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Suspect in Berlin Pride vehicle attack is dead, police say",
-              "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride"
-            },
-            {
               "political": "center",
               "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
+              "source": "AP",
+              "initials": "AP",
               "domain": "news.google.com",
-              "headline": "Berlin Pride attack suspect raised red flags, group says, amid questions about prior release from prison despite ISIS ties",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWt3OG9KSFgzTm42M3BJbUdqR2NpV1EyU0lqM0JYaElSdHRqOGtjMlYyT21ZdDQ5dk5SNjdLc2RxZlhYVzNaWkZ4S1ZWaldaSTZfVW9WT1pGbHhCQ0MwZmd2SE00Z0dDYVlLTUU1cWNmNEdtRE10OUNfSlVHTVRyakxn?oc=5"
+              "headline": "Questions mount after deadly Berlin Pride attack. Here’s what to know",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSW1GUTIydE45Ti0tdVBFWnRjWTRwdjZla2w0UG9QMlZDQmZ5Mkk2S2ZMVlpUTE1tRm5oam02c25QMzd0WjFwckpMYW5GdlZEZ05vdWhLLUhWT1BIRGdlb2h1UDEwM0V5cWtrak4tTXByMFFyZkM3Sl9CWDdrMjFZbmtlSnU0NmVPbVo2UWJ1cWJXQzcxOHNybGZYSXFjS2RDQl9PT1hGTFg?oc=5"
             },
             {
               "political": "right",
@@ -48,77 +116,9 @@
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "Yemen says ready for Houthi escalation after rebels target Saudi Arabia",
-          "neutralSummary": "The warning comes as the Houthis step up attacks on Saudi oil infrastructure and impose a maritime blockade, raising fears that the Iran-backed group's campaign could open a new front in the wider regional conflict and threaten shipping through the Red Sea.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Houthis Fire Missiles At Saudi Arabia In Response To Airstrikes In Yemen",
-              "url": "https://www.huffpost.com/entry/ap-ml-iran-us-houthis-saudi-arabia_n_6a651d0ce4b021af4925b01c"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Why a new war in Yemen could be different for the Houthis",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmhWWkdGTHV4cDNqcHlKWjdfN2c2eXpleFlZWnFtU0lkRzFpbGQ4a25YS0xqNFVuVWRuS2s2dVZEZzdXX2gzdF90alNnQkw1TVNHcTA4M2lkeUF1dUVwNHNpWTVTRnUtbFBIZ1JnT2FxV01zc3NYYWQxRjdlTlhoRzZ0anBXakZlWGowMDFFQXNYT21GZHlWOFkyWl9mZlXSAaQBQVVfeXFMTzFEZjFvbkhiQm5jeEdkYTUxSFNFNDVhX2VOQmlNcFlSbHF5SmVldnZkcGFmVlZtUVBQcHo4U1dxbEZNaUQ1YXdwbXByeWRaVmRibG92bllmMENGS2xkdXlteFRjcW9CSlg1VWFXU2tQMzR3RTY5OHlKSlRNeEtNWTFVRjl0M1RFVzdTc1lDc0ExQ0I0cFE5MDEzbXAxd2NybjZ0eHY?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Yemen says ready for Houthi escalation after rebels target Saudi Arabia",
-              "url": "https://www.france24.com/en/middle-east/20260727-yemen-says-ready-for-houthi-escalation-after-rebels-target-saudi-arabia"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Trump says Iran war talks taking place during lull in strikes",
-          "neutralSummary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Trump says Iran war talks taking place during lull in strikes",
-              "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "CNN",
-              "initials": "CNN",
-              "domain": "news.google.com",
-              "headline": "Live updates: US signals pause in Iran strikes will allow talks to progress",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XYlk1TXQyaFgzZF92aWM1cHMxWHlIci14VTNUVEVBamN4Rl9qQzNvQVo2VmEwVjBpbEZIU1RXTk1QMFJHay0wbFloVnU5Ui0yLVFFcWdiOXg3cGN1RVo5bW1QMTZSNlR0LU1iN0t3?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Trump says Iran talks taking place during pause in US military strikes",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss"
-            }
-          ]
-        },
-        {
           "id": "global-4",
-          "neutralHeadline": "Shots fired near US consulate in Canada for second time in four months",
-          "neutralSummary": "No one was injured and no suspects have been identified in connection to shooting near Toronto compound, police sayShots were fired near the US consulate in Toronto early on Monday but no one was injured in the second shooting near the diplomatic compound in four months.“Officers heard a firearm bei",
+          "neutralHeadline": "Shot fired outside US consulate in Toronto for second time this year",
+          "neutralSummary": "Shot fired outside US consulate in Toronto for second time this year&nbsp;&nbsp;ReutersGunman fired at US consulate in Toronto, second time building was shot at this year&nbsp;&nbsp;Fox NewsU.S. Consulate fired upon for 2nd time this year, police seek suspect vehicle&nbsp;&nbsp;CBCShots fired at US",
           "versions": [
             {
               "political": "left",
@@ -130,54 +130,54 @@
               "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Shots fired at US consulate in Toronto for a second time this year",
-              "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss"
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "Shot fired outside US consulate in Toronto for second time this year",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2ZkekJaWFBCLS1YUjZLNTZ2TmdzVE9PeEtQTG1tRi13NmdUMERzb19xNlZJcEx5NXNQSnk0NVl0aTdnc0dHNzlTNFpoSWZCeFN6Mk5MYzZsNnRuejRNcl9lRTBKQTJ3d3NlNXNjZ1lyU1VvXzE0eHF4THc5cnQ0LVVKYmFzOThPWmxBNERvVjQ1WFN2dDlrN0l1emJrQlAwT3dNYjRINjI3R2o2QWZWOVFn?oc=5"
             },
             {
-              "political": "left",
+              "political": "right",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Shot fired outside US consulate in Toronto for second time this year",
-              "url": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Gunman fired at US consulate in Toronto, second time building was shot at this year",
+              "url": "https://www.foxnews.com/world/gunman-fired-us-consulate-toronto-second-time-building-shot-year"
             }
           ]
         },
         {
           "id": "global-5",
-          "neutralHeadline": "US walks out of UN Security Council meeting as France condemns rights vote",
-          "neutralSummary": "US walks out of UN Security Council meeting as France condemns rights vote&nbsp;&nbsp;France 24US diplomats walk out as France addresses UN Security Council&nbsp;&nbsp;Al JazeeraWaltz slams France after stunning social media attack on US after UN vote&nbsp;&nbsp;Fox NewsUS Envoy Quits UN Security Co",
+          "neutralHeadline": "‘The only job I wanted’: Zidane’s first words as France head coach",
+          "neutralSummary": "France great Zinedine Zidane's long-held ambition to coach the national team became reality on Tuesday when the French Football Federation appointed the former captain and World Cup winner as Didier Deschamps' successor on a four-year contract. Here is what he had to say.",
           "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "news.google.com",
-              "headline": "US walks out of UN Security Council meeting as France condemns rights vote",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ01MRXFwd1lyb2IyZDlVSU1laWxPXzU5dy1MLW9tSF9RV3BwZXhCQ0QwQzhfN3BkdWtuVGU0aVp2ZXJabllZdGtTb1VndUtNWlkwX3FKbnF2X2lkeFdvdXpiQTIzcVpNWDN1cW40YnZXa0t1ZGxYVjVIVFA5VzJiM3YyUWRqTWVaMVl0LXVTV09idkNYYU9iWlAxeEdBQ1k3VkFEbXZpZmFqcmtvS2pyc241T3NvcDRDX2c?oc=5"
-            },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "US diplomats walk out as France addresses UN Security Council",
-              "url": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Zidane confirmed as France head coach",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "‘The only job I wanted’: Zidane’s first words as France head coach",
+              "url": "https://www.france24.com/en/the-only-job-i-wanted-zidane-s-first-words-as-france-head-coach"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
-          "neutralSummary": "Nelson Haase Mazzei was sentenced for murdering Jara in 2023, but fled from authorities in ChileMore than 50 years after the murder of the Chilean folk singer Víctor Jara, the last man wanted in connection with his death has been tracked down and brought to justice.Nelson Haase Mazzei, a retired col",
+          "neutralHeadline": "‘Many people’ trapped inside Japanese shopping centre, others missing in paper factory, after earthquake – live updates",
+          "neutralSummary": "An ⁠earthquake ​with ⁠a ⁠preliminary magnitude ​of ‌6.8 ‌struck ‌the country’s Kumamoto prefectureKyushu Electric Power said ​48,000 homes had lost power as a result of the latest ​quake, while railway company JR Kyushu said that it had ​suspended services, including its high-speed bullet trains.Kum",
           "versions": [
             {
               "political": "left",
@@ -185,17 +185,17 @@
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
-              "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile"
+              "headline": "‘Many people’ trapped inside Japanese shopping centre, others missing in paper factory, after earthquake – live updates",
+              "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates"
             },
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
-              "url": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss"
+              "tone": "pessimistic",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "news.google.com",
+              "headline": "Live Updates: Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUXdraDR2eURCMHg5ZGJkY3NhOHRYT0FPLVlOOXQ1S0ZTS0U5TFQ2M0o5V3haRWNacU9DcVJvLUh1dVJxOXB3ZWg1SWcza3lpb01fT2o0eGxwX1RrWFVlSE9tUGZfNVZEQ3VuckxoSnJCYm9lVmROcWZVTkJ5ajNBNXp6YWpTZw?oc=5"
             }
           ]
         },
@@ -226,51 +226,42 @@
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Wildfires In France Drive More Than 250,000 From Their Homes",
-          "neutralSummary": "Fire crews are battling round-the-clock against the blaze that has burned an area four times the size of Paris.",
+          "neutralHeadline": "US walks out of UN Security Council meeting during France's remarks",
+          "neutralSummary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Wildfires In France Drive More Than 250,000 From Their Homes",
-              "url": "https://www.huffpost.com/entry/europe-wildfires-2026_n_6a66abf2e4b00feba845e7d1"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Wildfires displace more than 250,000 in France, threaten famed wine region",
-              "url": "https://www.foxnews.com/world/wildfires-displace-250000-france-threaten-famed-wine-region"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "US walks out of UN Security Council meeting during France's remarks",
+              "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "U.S. Pauses Attacks On Iran For A Second Straight Day And Tehran Does Too",
-          "neutralSummary": "Since the U.S. has halted attacks for the past two nights, Iran has as well, its army spokesperson told Iran’s state TV on Sunday.",
+          "neutralHeadline": "For the first time since Iran war, Trump and Netanyahu meet amid fraying ties",
+          "neutralSummary": "Benjamin Netanyahu is set to visit the White House once again on July 28. But the Israeli Prime Minister is likely to get a cooler welcome in Washington than on previous trips. The US's full-scale air war on Iran - which Netanyahu reportedly had a major role in convincing Donald Trump to launch - ha",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "U.S. Pauses Attacks On Iran For A Second Straight Day And Tehran Does Too",
-              "url": "https://www.huffpost.com/entry/iran-war-us-pauses-attacks-second-straight-day_n_6a6634d4e4b04785304393e9"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
-              "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran"
+              "headline": "Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation",
+              "url": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "For the first time since Iran war, Trump and Netanyahu meet amid fraying ties",
+              "url": "https://www.france24.com/en/for-the-first-time-since-iran-war-trump-and-netanyahu-meet-amid-fraying-ties"
             }
           ]
         }
@@ -281,51 +272,33 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "3 Killed In Seattle Festival Shooting, U.S. And Iran Pause Attacks: Live Updates",
-          "neutralSummary": "Follow the latest news on the major headlines of the day.",
+          "neutralHeadline": "Lindsey Graham Names 1 Thing Trump 'Loves' In Chilling New Video",
+          "neutralSummary": "The late South Carolina senator celebrated the start of the war against Iran in newly released documentary footage.",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "optimistic",
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "3 Killed In Seattle Festival Shooting, U.S. And Iran Pause Attacks: Live Updates",
-              "url": "https://www.huffpost.com/entry/live-updates_n_6a6713c7e4b047853043da09"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Seattle Police Search for 3rd Shooter in Deadly Food Festival Shooting",
-              "url": "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html"
+              "headline": "Lindsey Graham Names 1 Thing Trump 'Loves' In Chilling New Video",
+              "url": "https://www.huffpost.com/entry/lindsey-graham-iran-war-video_n_6a66fc69e4b047853043cbd6"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-              "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms"
-            },
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "CNN",
-              "initials": "CNN",
+              "source": "Washington Post",
+              "initials": "WP",
               "domain": "news.google.com",
-              "headline": "Live updates: US signals pause in Iran strikes will allow talks to progress",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XYlk1TXQyaFgzZF92aWM1cHMxWHlIci14VTNUVEVBamN4Rl9qQzNvQVo2VmEwVjBpbEZIU1RXTk1QMFJHay0wbFloVnU5Ui0yLVFFcWdiOXg3cGN1RVo5bW1QMTZSNlR0LU1iN0t3?oc=5"
+              "headline": "Lindsey Graham’s death leaves Trump reflecting on his own mortality",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZVhaa0libUdYb18ycmZjenNhcC1sT3doSEVtNlFnWnRpYXMtYVBDRU5pdlVPQTRqODRVZlNkWFg0QnFsS2hkZlBjNktKOGpQcGpSYTZjVTJ1aUVEMVpXc0J0dlk1bUM3QkpWNGFJMWJQaFAyNjRqcHgtYU5iaW05UkI5bF9WQ24wd0hiUnB4b3ZIczd6WGxrd3RsdHlyVGZ3SkRqcHd1d2Q4b21yc1Vz?oc=5"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "DOJ asks Supreme Court to restore Trump’s mail-in voting executive order",
-          "neutralSummary": "The Justice Department asked the Supreme Court on Monday to lift a judge’s block on President Trump’s executive order that seeks to restrict mail-in voting, calling the halt premature.  Solicitor General D. John Sauer said the courts have no power to intervene yet because the U.S. Postal Service (US",
+          "neutralHeadline": "The Supreme Court’s Voting Rights Decision Will Reach Far Beyond Congress",
+          "neutralSummary": "Thousands of seats held by Black, Latino and Native officeholders at the local level could be threatened by the court’s decision in Louisiana v. Callais.",
           "versions": [
             {
               "political": "left",
@@ -344,6 +317,22 @@
               "domain": "nytimes.com",
               "headline": "Trump Asks Supreme Court to Allow Order Restricting Mail Voting",
               "url": "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Senate Democrats investigating DOJ subpoenas of New York Times reporters",
+          "neutralSummary": "A group of Senate Democrats is seeking answers from the Department of Justice (DOJ) over its move to issue subpoenas to a handful of New York Times reporters over the outlet&#8217;s reporting on a new Air Force One jet gifted to President Trump by Qatar. Led by Sen. Adam Schiff (D-Calif.), Democrats",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Senate Democrats Press Blanche on Times Subpoenas",
+              "url": "https://www.nytimes.com/2026/07/28/us/politics/senate-democrats-todd-blanche-subpoenas.html"
             },
             {
               "political": "center",
@@ -351,24 +340,15 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "DOJ asks Supreme Court to restore Trump’s mail-in voting executive order",
-              "url": "https://thehill.com/homenews/campaign/5992732-supreme-court-mail-in-voting-trump-justice-department/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump asks Supreme Court to unblock mail-in voting executive order",
-              "url": "https://www.washingtonexaminer.com/news/supreme-court/4664902/trump-request-supreme-court-unblock-mail-in-voting-executive-order/"
+              "headline": "Senate Democrats investigating DOJ subpoenas of New York Times reporters",
+              "url": "https://thehill.com/homenews/media/5993879-senate-democrats-probe-doj-subpoenas-new-york-times/"
             }
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "Fiery Michigan Senate primary reaches final stretch: Takeaways from El-Sayed, Stevens debate",
-          "neutralSummary": "Rep. Haley Stevens (D-Mich.) and former Wayne County health director Abdul El-Sayed squared off in&#160;their second one-on-one&#160;debate&#160;to replace retiring Sen. Gary Peters (D-Mich.) — just one week out from the Aug. 4 Democratic Senate primary.&#160;&#160; The duo clashed once again over c",
+          "id": "us-4",
+          "neutralHeadline": "6 Takeaways From Michigan’s Senate Debate Between Abdul El-Sayed and Haley Stevens",
+          "neutralSummary": "At the final debate before next week’s Democratic primary for Senate, Dr. Abdul El-Sayed and Representative Haley Stevens showcased their wildly different ideological stances and political styles.",
           "versions": [
             {
               "political": "left",
@@ -378,140 +358,38 @@
               "domain": "nytimes.com",
               "headline": "6 Takeaways From Michigan’s Senate Debate Between Abdul El-Sayed and Haley Stevens",
               "url": "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "CNN",
-              "initials": "CNN",
-              "domain": "news.google.com",
-              "headline": "Stevens and El-Sayed trade personal attacks and other takeaways from the Michigan Senate primary debate",
-              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUdkeFdtU0hsZjdDQVVXTzd6MWxBMGJZN1JPdGdqS19OLXFfQ2ktWHJGT29KMVdfejl2b3JFUlA2WVVYMm16NWVWRG9kY2FSY2FUcEQxTWZ2LVNVQW4xeVBEcmVXcXRwZTFYUDY2VkV2cS1ic2xGZG9GNVZiZkFVdFdJbnJQc3l6SFlVckp1Qm4ySHpCNko3enhn?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Fiery Michigan Senate primary reaches final stretch: Takeaways from El-Sayed, Stevens debate",
-              "url": "https://thehill.com/homenews/campaign/5993136-el-sayed-stevens-michigan-democratic-senate-primary-debate/"
-            },
-            {
-              "political": "right",
-              "tone": "optimistic",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Abdul el Sayed’s 2028 ambitions cloud Michigan Senate race against Haley Stevens",
-              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4665073/abdul-el-sayed-michigan-senate-leaked-comments-2028-haley-stevens/"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Did Trump just kill his own nuclear deal?",
-          "neutralSummary": "Welcome to The Logoff: President Donald Trump has seemingly called off a nuclear deal with Saudi Arabia after his energy secretary already formally signed it. What happened? On Wednesday, the Trump administration formally concluded what’s called a “123 Agreement” to work with Saudi Arabia on the dev",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Did Trump just kill his own nuclear deal?",
-              "url": "https://www.vox.com/politics/496562/trump-nuclear-deal-saudi-israel-july"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Why Trump is suddenly threatening Iran's last untouched nuclear site",
-              "url": "https://www.foxnews.com/politics/why-trump-suddenly-threatening-irans-last-untouched-nuclear-site"
             }
           ]
         },
         {
           "id": "us-5",
-          "neutralHeadline": "Minnesota prediction market ban paused by federal judge days before rollout",
-          "neutralSummary": "A federal judge on Monday halted a prediction market ban in Minnesota days before it was set to roll out.  District Judge Katherine Menendez wrote that the Trump administration, Kalshi and Polymarket are “likely to succeed on the merits” in the case arguing that the state ban is pre-empted by federa",
+          "neutralHeadline": "Netanyahu to meet Trump in a first encounter since the Iran war began",
+          "neutralSummary": "The meeting comes as both face pressures at home. Netanyahu is up for reelection, embattled in part due to his deteriorating relationship with Trump. Trump is under pressure to end an unpopular war.",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Minnesota Judge Blocks First State Ban on Prediction Markets Like Kalshi and Polymarket",
-              "url": "https://www.nytimes.com/2026/07/27/us/minnesota-kalshi-polymarket-ban.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Minnesota prediction market ban paused by federal judge days before rollout",
-              "url": "https://thehill.com/policy/technology/5993164-federal-judge-halts-minnesota-prediction-market-ban/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Maine Democrats Have a New Working-Class Hero in Troy Jackson. Can He Deliver?",
-          "neutralSummary": "Troy Jackson, a former logger, faces the tall task of taking down Susan Collins.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Maine Democrats Have a New Working-Class Hero in Troy Jackson. Can He Deliver?",
-              "url": "https://www.nytimes.com/2026/07/27/us/politics/troy-jackson-maine-senate-democrats.html"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
-              "url": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Lindsay Clancy now on trial in murder of her 3 children in Duxbury, Massachusetts",
-          "neutralSummary": "Lindsay Clancy now on trial in murder of her 3 children in Duxbury, Massachusetts&nbsp;&nbsp;CBS NewsAt trial, former husband faces Lindsay Clancy for first time since their three children were killed&nbsp;&nbsp;The Boston GlobeMassachusetts mother goes on trial for killing her three children&nbsp;&",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trial of Lindsay Clancy, Accused of Murdering Her Children, Begins With Ex-Husband’s Testimony",
-              "url": "https://www.nytimes.com/2026/07/27/us/lindsay-clancy-husband-testimony.html"
+              "headline": "Netanyahu to meet Trump in a first encounter since the Iran war began",
+              "url": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Lindsay Clancy now on trial in murder of her 3 children in Duxbury, Massachusetts",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWVVMW9FT0szVDgzX2pLLS1sQ0FRS3cycDhnaG8xZzdkZS1VNEFNcEhvbmhNYzlyWHQ3VGlMSkp6d3BLMFBwbTVGd0ctWUFuUjg3WnYwclRma1NBMFROUm9jUlhIcHZiaTAteXV6eFhyUnBrUVhDZDJpMk9QZGwxcFgxWV9wZ3V6STBENlBDOGJIVXFFNXk1WQ?oc=5"
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Trump publicly rebukes Netanyahu ahead of critical White House meeting on Iran",
+              "url": "https://nypost.com/2026/07/28/us-news/trump-rebukes-netanyahu-ahead-of-oval-office-meeting-says-i-know-exactly-whats-going-on-at-pickaxe-mountain-nuke-site/"
             }
           ]
         },
         {
-          "id": "us-8",
-          "neutralHeadline": "Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us",
-          "neutralSummary": "Sen. Rand Paul has released a tranche of Dr. Anthony Fauci's diary entries from the COVID-19 pandemic. Fauci is set to appear before a Senate committee Wednesday on the origins of the coronavirus.",
+          "id": "us-6",
+          "neutralHeadline": "Rand Paul on Fauci diary entries: ‘Level of dishonesty is really astounding’",
+          "neutralSummary": "Senate Homeland Security Committee Chair Rand Paul (R-Ky.), who has published Dr. Anthony Fauci’s private diary from when he led the nation’s response to the COVID-19 pandemic in 2020, says that the entries reveal a “level of dishonesty” that is “really astounding.” “One of the biggest items that we",
           "versions": [
             {
               "political": "left",
@@ -521,22 +399,90 @@
               "domain": "npr.org",
               "headline": "Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us",
               "url": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Rand Paul on Fauci diary entries: ‘Level of dishonesty is really astounding’",
+              "url": "https://thehill.com/homenews/senate/5993885-rand-paul-accuses-fauci-dishonesty-diary/"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Netanyahu to join Trump for high-stakes meeting at the White House",
+          "neutralSummary": "Netanyahu to join Trump for high-stakes meeting at the White House&nbsp;&nbsp;NBC NewsWhy this time around, Netanyahu’s meeting with Trump might not go to script&nbsp;&nbsp;CNNTrump, ahead of meet with Netanyahu: ‘I don’t need Bibi’ for intel on Pickaxe Mountain&nbsp;&nbsp;The Times of IsraelIran Wa",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "NBC News",
+              "initials": "NN",
+              "domain": "news.google.com",
+              "headline": "Netanyahu to join Trump for high-stakes meeting at the White House",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWm1OaEFjdC0teDFRXzJWMTYtNmRBeG45ZGh3R3R0bmxtVmlXTF9uNG43UkRfZEktNjg0OVpHbHh4d09Wek9BVTNxSV9lendlMWZOT2J5T3UzM3Z6LV80dFZ4NElhYWlfbXFocW01cVRSOU4tWE5iQlhHa3RGY0tSYUdqbUJUWldRamJJYVNOTFB3Y3A0NzJWYTNFZm5PdnY5UTlVZVJjZWpaeVYwOGc?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump welcomes Netanyahu to White House as raging Iran war threatens to sour US-Israel relationship",
+              "url": "https://www.foxnews.com/politics/trump-welcomes-netanyahu-white-house-raging-iran-war-threatens-sour-us-israel-relationship"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Fauci diaries, released by Sen. Rand Paul, touch on COVID origins and tense relationship with Trump",
+          "neutralSummary": "Fauci diaries, released by Sen. Rand Paul, touch on COVID origins and tense relationship with Trump&nbsp;&nbsp;CBS NewsFauci, in Private Diary, Reflected on Covid’s Origins and His Own Fame&nbsp;&nbsp;The New York TimesDiary entries, a subpoena and an anticipated clash: Dr. Anthony Fauci and Rand Pa",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "Fauci diaries, released by Sen. Rand Paul, touch on COVID origins and tense relationship with Trump",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvZ3ppUlE1U0FpT3l1dTBTSGdERm1rLVplVnZhajh4VHhaNEVLXzhfN3ROQmc2d2l1T0xDQU5RRHJCaWxRRU9sSzNVdnhPUzBLdVBVVzF1QWtTRkEzdjdaMXl4Q0lVOUdkQ1A1QkJlcElRUDhQUVE?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "WATCH: Rand Paul says Fauci lobbied for $1M prize while leading COVID response",
+              "url": "https://www.foxnews.com/politics/watch-rand-paul-says-fauci-lobbied-1m-prize-while-leading-covid-response"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
-          "neutralSummary": "South Asia's leaders have long boasted about their demographic dividend. But the region's young people are turning it into a political reckoning.",
+          "neutralHeadline": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
+          "neutralSummary": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz&nbsp;&nbsp;ReutersIran war live: Oman sends Hormuz plan with Gulf nations reportedly onboard&nbsp;&nbsp;Al JazeeraIran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’&nbsp;&nbsp;CNBCIran and Oman Seek Ag",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
-              "url": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia"
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Oman pushes plan to let Iran collect ‘voluntary’ fees to pass through Strait of Hormuz",
+              "url": "https://nypost.com/2026/07/28/world-news/oman-pushes-plan-to-let-iran-collect-voluntary-fees-to-pass-through-strait-of-hormuz/"
             }
           ]
         }
@@ -547,152 +493,56 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "ABSD deadline for large en bloc projects extended to facilitate redevelopment",
-          "neutralSummary": "The changes are targeted at en bloc redevelopment projects that yield at least 700 units.",
+          "neutralHeadline": "'Considerable number' of people dead, many trapped in shopping mall after magnitude 7.1 quake hits Japan's Kyushu",
+          "neutralSummary": "The authorities said the second floor of the Aeon Mall in Kashima, Kumamoto collapsed, with reports of what sounded like an explosion.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "ABSD deadline for large en bloc projects extended to facilitate redevelopment",
-              "url": "https://www.straitstimes.com/singapore/absd-deadline-for-large-en-bloc-projects-extended-to-facilitate-redevelopment"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "'Considerable number' of people dead, many trapped in shopping mall after magnitude 7.1 quake hits Japan's Kyushu",
+              "url": "https://www.channelnewsasia.com/east-asia/japan-kyushu-earthquake-71-tsunami-6282661"
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "Business Times",
-              "initials": "BT",
+              "tone": "pessimistic",
+              "source": "Straits Times",
+              "initials": "ST",
               "domain": "news.google.com",
-              "headline": "ABSD deadline extended to up to 7 years for developers of large en bloc sites to encourage reuse of land",
-              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmlWOVZZS3FjZmJCWDZ5RFpZVW1DM2tycndlOWtfTmt1WXZFbHZhc1liSXFfNmtMTHJMV2ljMmlUUGhGT0N6NEdOQ2hzczYzM2lac29YSDZQUUYySDlPTU9WSHVRR3dQQWpTU2VhYjM5bVV5bDNobjJrNzdCNG9ya1l0QVU3Ty1TaXJPaG96a1hFT2tRdzh6ZG5NSVBvSjd2V3R2cTNITTFsZFhsdVpmVHJNNDczZDZFalJiUjN1dE5vdw?oc=5"
+              "headline": "7.1 magnitude earthquake hits southern Japan",
+              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2pCeW1GSTR2WjJLV20xbW5oR1UxNEF0bHNNZHZQWnFGSWxmcWhRS011UXhqaGt2aGkwV1NwM3Y0R2NfZGstb1pISDFRMDQ5MkpyVU55Z3EwRlVoRkZMUy1Kci1kODFUM2pfdmcxdS1FSmZHcnI1aWRqdFRlbWg4d25YVU05bDR2Y1BiODJTWWszQ3hVeVgza29FTEVCZw?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Powerful earthquake hits Japan, with  many people feared trapped in collapsed mall",
+              "url": "https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "No more 15-month wait-out period for private home owners to buy HDB resale flats: Chee Hong Tat",
-          "neutralSummary": "Chee said market conditions have improved and the Government has assessed that the cooling measure has met its purpose.",
+          "neutralHeadline": "Johor police arrest 335 scam suspects in Forest City crackdown",
+          "neutralSummary": "The suspects were mostly foreigners and allegedly belonged to two syndicates targeting victims abroad, says Johor’s police chief.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "No more 15-month wait-out period for private home owners to buy HDB resale flats: Chee Hong Tat",
-              "url": "https://www.straitstimes.com/singapore/15-month-wait-out-period-for-private-home-owners-to-buy-hdb-resale-flats-lifted-chee-hong-tat"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Johor police arrest 335 scam suspects in Forest City crackdown",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-forest-city-johor-scam-syndicates-call-centres-6282901"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Rising number of suicides among adults in their 30s; median age highest since 2017",
-          "neutralSummary": "Suicide is the second leading cause of death among adults aged 30 to 39.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Rising number of suicides among adults in their 30s; median age highest since 2017",
-              "url": "https://www.straitstimes.com/singapore/community/rising-number-of-suicides-among-adults-in-their-30s-median-age-highest-since-2017"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "441 suicides reported in Singapore in 2024; deaths among adults aged 30 to 39 up 50%",
-              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2VxOXVlekNtb2VRb3NGVW1WXzI0cGU3Vlo2eXZhVWJrcUp2b0k3MlVZOTVuT19Gd2J6UEtXTGVOcVprQ0U2RjM0Y0hfdGxkTVdSTHdLTHJza200TDZWelpKOFZuNkNuQTRnWThRMHVubVlmUkxHMERtSHQzTFk4QjZjdklaZDlqN3VTUGhLQUo5Y1NSLUswV0syaldaY1U?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Elderly man dies after fire at Circuit Road HDB flat",
-          "neutralSummary": "Firefighters had to forcibly enter the unit and found an unresponsive person in the living room.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Elderly man dies after fire at Circuit Road HDB flat",
-              "url": "https://www.straitstimes.com/singapore/one-taken-to-hospital-about-80-evacuated-after-fire-breaks-out-in-macpherson"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Singapore, Australia commit to unrestricted flow of essential goods, defence supplies",
-          "neutralSummary": "This year marks the 30th anniversary of the Singapore-Australia Joint Ministerial Committee.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Singapore, Australia commit to unrestricted flow of essential goods, defence supplies",
-              "url": "https://www.straitstimes.com/singapore/politics/singapore-australia-commit-to-unrestricted-flow-of-essential-goods-defence-supplies"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Seoul, Tokyo lead Asian plunge as tech stocks suffer fresh rout",
-          "neutralSummary": "Seoul, Tokyo lead Asian plunge as tech stocks suffer fresh rout",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Seoul, Tokyo lead Asian plunge as tech stocks suffer fresh rout",
-              "url": "https://www.channelnewsasia.com/asia/asia-markets-kospi-nikkei-tech-stocks-6282211"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "What is CXMT, the chipmaker that just became China's most valuable listed company?",
-          "neutralSummary": "CXMT shares surged more than 500 per cent in their Shanghai debut on Monday (Jul 27), highlighting strong investor backing for a homegrown chip champion.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "What is CXMT, the chipmaker that just became China's most valuable listed company?",
-              "url": "https://www.channelnewsasia.com/east-asia/cxmt-china-chipmaker-shares-most-valuable-listed-company-6282096"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "China is building more legal tools for foreign-related disputes. What does it mean for companies, individuals?",
-          "neutralSummary": "A draft law submitted for second reading in June would allow China’s public prosecutors to sue foreign organisations and individuals deemed to have harmed national or public interests.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "China is building more legal tools for foreign-related disputes. What does it mean for companies, individuals?",
-              "url": "https://www.channelnewsasia.com/east-asia/china-law-foreign-disputes-sue-organisations-individuals-6275506"
-            }
-          ]
-        },
-        {
-          "id": "singapore-9",
           "neutralHeadline": "Modi faces challenge from activists over surveillance at India youth protest",
           "neutralSummary": "A court will decide whether police use of facial recognition and surveillance at protests was legal.",
           "versions": [
@@ -715,6 +565,120 @@
               "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss"
             }
           ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Apple briefly becomes second company ever to notch $5 trillion market value",
+          "neutralSummary": "Apple briefly becomes second company ever to notch $5 trillion market value",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Apple briefly becomes second company ever to notch $5 trillion market value",
+              "url": "https://www.channelnewsasia.com/business/apple-briefly-becomes-second-company-ever-notch-5-trillion-market-value-6283756"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Apple Becomes Second Company to Hit $5 Trillion in Market Value",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-28/apple-becomes-second-company-to-hit-5-trillion-in-market-value"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Food technology firm GrubMarket confidentially files for US IPO",
+          "neutralSummary": "Food technology firm GrubMarket confidentially files for US IPO",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Food technology firm GrubMarket confidentially files for US IPO",
+              "url": "https://www.channelnewsasia.com/business/food-technology-firm-grubmarket-confidentially-files-us-ipo-6283376"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "E-Commerce Platform GrubMarket Files Confidentially for IPO",
+              "url": "https://www.bloomberg.com/news/articles/2026-07-28/e-commerce-platform-grubmarket-files-confidentially-for-ipo"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "ABSD changes aside, mega collective sale sites must be priced realistically to attract developers",
+          "neutralSummary": "A longer timeline only helps if the underlying economics of the deal make sense to a developer.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "ABSD changes aside, mega collective sale sites must be priced realistically to attract developers",
+              "url": "https://www.straitstimes.com/singapore/housing/absd-changes-aside-mega-en-bloc-sites-must-be-priced-realistically-to-attract-developers"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "47 cars, including 11 Rolls-Royces, linked to $3b money laundering probe up for closed-bid auction",
+          "neutralSummary": "The auction is only open to Singapore registered companies and will close at noon on July 31.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "47 cars, including 11 Rolls-Royces, linked to $3b money laundering probe up for closed-bid auction",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/47-cars-including-11-rolls-royces-linked-to-3b-money-laundering-probe-up-for-closed-bid-auction"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "6 to be charged with rioting after Yishun fight that left man unconscious",
+          "neutralSummary": "Seven men, aged between 18 and 33, were arrested between July 25 and 28.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "6 to be charged with rioting after Yishun fight that left man unconscious",
+              "url": "https://www.straitstimes.com/singapore/6-to-be-charged-with-rioting-after-yishun-fight-that-left-man-unconscious"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
+          "neutralHeadline": "Govt proactively reformed laws to deal with real-world problems, advance public interest: Shanmugam",
+          "neutralSummary": "These include improvements to divorce proceedings and the rollout of novel laws during the Covid-19 pandemic.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Govt proactively reformed laws to deal with real-world problems, advance public interest: Shanmugam",
+              "url": "https://www.straitstimes.com/singapore/politics/govt-proactively-reformed-laws-to-deal-with-real-world-problems-advance-public-interest-shanmugam"
+            }
+          ]
         }
       ]
     },
@@ -723,26 +687,26 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Parliament monsoon session LIVE: NDA's 'Mangal Milan' meeting begins ahead of paper leak bill debate",
-          "neutralSummary": "Parliament monsoon session LIVE: The House is set to take up a debate on the Public Examinations (Prevention of Unfair Means) Amendment Bill today, in the backdrop of student protests that forced Dharmendra Pradhan to resign. Lok Sabha Speaker Om Birla has allotted 6 hours for the debate.",
+          "neutralHeadline": "'Milestone' vs 'Pradhan saved Pradhan Mantri': Centre, oppn clash over anti-paper leak bill",
+          "neutralSummary": "The Lok Sabha is discussing a proposed amendment to the anti-paper leak law. This legislation aims to strengthen safeguards against examination fraud following the NEET exam leak. Union minister Jitendra Singh introduced the bill, reaffirming government commitment to student welfare. Congress critic",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Parliament Monsoon Session Day 7 LIVE: Lok Sabha likely to debate Public Examinations Amendment Bill",
-              "url": "https://www.thehindu.com/news/national/parliament-monsoon-lok-sabha-live-updates-2026-july-28-2026-exam-amendment-bill-news/article71275442.ece"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Parliament Monsoon Session 2026 Live Updates: Key Bills On Public Examinations, MSMEs On Parliament Agenda Today",
-              "url": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-anti-paper-leak-bill-key-bills-on-public-examinations-msmes-on-parliament-agenda-today-lok-sabha-rajya-sa-11830768#publisher=newsstand"
+              "headline": "10-Year Jail, Rs 10 Crore Fine: Anti-Paper Leak Bill Explained",
+              "url": "https://www.ndtv.com/india-news/10-year-jail-rs-10-crore-fine-anti-paper-leak-bill-explained-11833299#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Milestone' vs 'Pradhan saved Pradhan Mantri': Centre, oppn clash over anti-paper leak bill",
+              "url": "https://timesofindia.indiatimes.com/india/milestone-legislation-vs-did-pradhan-fight-pakistan-centre-oppn-clash-as-lok-sabha-debates-new-anti-paper-leak-bill-top-developments/articleshow/132680306.cms"
             },
             {
               "political": "center",
@@ -750,8 +714,8 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Parliament monsoon session LIVE: NDA's 'Mangal Milan' meeting begins ahead of paper leak bill debate",
-              "url": "https://www.hindustantimes.com/india-news/parliament-monsoon-session-live-updates-paper-leak-bill-debate-lok-sabha-rajya-sabha-bjp-congress-neet-protest-july-28-101785205885916.html"
+              "headline": "10 years' jail,  ₹50 lakh fine, two-month probes: How 2026 bill will rewrite the anti-paper leak law",
+              "url": "https://www.hindustantimes.com/ht-explainers/monsoon-session-of-parliament-how-2026-bill-would-rewrite-the-2004-anti-paper-leak-law-101785237051360.html"
             },
             {
               "political": "right",
@@ -766,8 +730,8 @@
         },
         {
           "id": "india-2",
-          "neutralHeadline": "'Allah commanded me': Knife-wielding man attacks 3 women on Paris street - video",
-          "neutralSummary": "'Allah commanded me': Knife-wielding man attacks 3 women on Paris street - video",
+          "neutralHeadline": "Gandhis vs Pralhad Joshi: 'Defender of rapists' charge meets 'authenticate it' challenge",
+          "neutralSummary": "Congress leaders Priyanka Gandhi Vadra and Rahul Gandhi criticised the Prime Minister's choice for education minister. They alleged the minister expressed happiness over the release of convicted rapists. This accusation stems from remarks made regarding the Bilkis Bano case convicts. The opposition",
           "versions": [
             {
               "political": "left",
@@ -775,8 +739,17 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "\"Allah Commanded Me,\" Says Man Who Attacked 3 Women With Knives In Paris",
-              "url": "https://www.ndtv.com/world-news/allah-commanded-me-says-man-who-attacked-3-women-with-knives-in-paris-11830770#publisher=newsstand"
+              "headline": "\"Defender Of Rapists Is Education Minister\": Rahul Gandhi Slams Pralhad Joshi",
+              "url": "https://www.ndtv.com/india-news/cjp-protests-dharmendra-pradhan-paper-leak-protest-neet-protest-bjp-defender-of-rapists-is-education-minister-rahul-gandhi-slams-pralhad-joshi-11833464#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "‘Defender of rapists…filthiest type of man’: The Gandhis vs Pralhad Joshi",
+              "url": "https://indianexpress.com/article/political-pulse/defender-rapists-filthiest-man-rahul-gandhi-priyanka-gandhi-pralhad-joshi-bilkis-bano-10807790/"
             },
             {
               "political": "center",
@@ -784,49 +757,49 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "'Allah commanded me': Knife-wielding man attacks 3 women on Paris street - video",
-              "url": "https://timesofindia.indiatimes.com/world/europe/allah-commanded-me-knife-wielding-man-attacks-3-women-on-paris-street-video/articleshow/132674419.cms"
+              "headline": "Gandhis vs Pralhad Joshi: 'Defender of rapists' charge meets 'authenticate it' challenge",
+              "url": "https://timesofindia.indiatimes.com/india/gandhi-siblings-vs-pralhad-joshi-defender-of-rapists-charge-meets-authenticate-it-challenge/articleshow/132684843.cms"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Man attacks 3 women with knives in Paris; arrested",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/french-police-arrest-man-after-he-attacks-three-women-with-knives-in-paris/articleshow/132673957.cms"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "'Defender of rapists is now India's education minister': Rahul slams PM Modi over Pralhad Joshi's appointment",
+              "url": "https://www.hindustantimes.com/india-news/defender-of-rapists-rahul-gandhi-slams-bjps-choice-of-new-education-minister-parliament-monsoon-session-101785242585018.html"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Delhi Protesters Allege Pellet Injury, Move Supreme Court For Ban On Pellet Guns",
-          "neutralSummary": "Delhi Protesters Allege Pellet Injury, Move Supreme Court For Ban On Pellet Guns&nbsp;&nbsp;Live LawGurugram woman says she was shot at during July 20 protest&nbsp;&nbsp;The HinduEx-IB Special Director, and two victims move Supreme Court to ban pellet guns&nbsp;&nbsp;The News MinuteBlinded At 14, Wo",
+          "neutralHeadline": "India mocks sham election in PoK, says cosmetic exercise to cover up violations",
+          "neutralSummary": "Jaiswal said mass protests in Pak-occupied J&amp;K are direct consequence of its economic exploitation, denial of fundamental rights and administrative oppression",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Pellet guns, shock batons used against protesters in Delhi; police deny",
-              "url": "https://www.thehindu.com/news/national/pellet-guns-shock-batons-used-against-protesters-in-delhi-police-deny/article71250708.ece"
+              "source": "Indian Express",
+              "initials": "IE",
+              "domain": "indianexpress.com",
+              "headline": "Cosmetic electoral exercise by Pakistan to camouflage illegal occupation: India on PoK polls",
+              "url": "https://indianexpress.com/article/india/cosmetic-electoral-exercise-pak-illegal-occupation-india-pok-polls-10807804/"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Live Law",
-              "initials": "LL",
-              "domain": "news.google.com",
-              "headline": "Delhi Protesters Allege Pellet Injury, Move Supreme Court For Ban On Pellet Guns",
-              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVU9OTmVuWE1xbldsZGxYSXBlYmZTWVlFUFhBRHlTQmEzbXVVT0c4RzJ5dEpJdmtyYXk5cWhmbmlMOGpPbVBMX0Foa0VFd24tQ0VhOGlmWl9zTDJTM2VpN09sV2RTdVVrYmN6bGM0Q2stbVBoTFJqT1d2VF8zMnhGS21lcWRWYlkyUDJVSkw3U0ctelBacUNzU3JVOUpDbktoOVZndTRXbVhiRmJuLWdmYkFzTXJDNFRPbmJ6OEtYNG5OV1o5akNzZGZTQ1pGXzRWdGdJb0hRVGJuM3dod3BibmM0c23SAeoBQVVfeXFMTnBtU19kb0ZTYWdORGU3WlZ1ME81Qk1zaWZOTWpDY2FvVG9HWFBLSjRuUTZQSGFGTTRhLVU5TkNLb2VZWUNZSlVuajRzdjVDSlREWWJwdnFxWU54WHoyUy1qeXNkUmdva083WWJxMjJCVTU2Z2xtYzM5QmpXRXJqTTJmM1NKN2VoeGhQR2hYMGNCWl9vSk02SHc2QjMxbmVrQ0hfb1NMSzlEYkZoekprNms3N2JQbUgyUU9hSWN6ZFVLcy1yUFFDRS04QUNqWThzV0poSkNDNnl0cjhPMC1hSnNfN1RGUWZiU2Fn?oc=5"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "India mocks sham election in PoK, says cosmetic exercise to cover up violations",
+              "url": "https://www.hindustantimes.com/india-news/india-mocks-sham-election-in-pok-says-cosmetic-exercise-to-cover-up-violations-101785246422508.html"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "U.S., India expanding cooperation in defence, civil nuclear sector",
-          "neutralSummary": "We are expanding defence and civil nuclear cooperation, including the adoption of trusted AI and other emerging technologies powering the economy, says U.S. Assistant Secretary of State S. Paul Kapur",
+          "neutralHeadline": "Parliament Monsoon Session Day 7 LIVE: Venugopal questions absence of Amit Shah in Lok Sabha, says 'he is the person who rules Delhi'",
+          "neutralSummary": "Congress MP K.C. Venugopal said that if govt is not sincere, no new legislation can serve any purpose; who gave orders to fire pellet guns on students, asked Priyanka Gandhi in Lok Sabha; Rajya Sabha adjourned for the day",
           "versions": [
             {
               "political": "left",
@@ -834,24 +807,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "U.S., India expanding cooperation in defence, civil nuclear sector",
-              "url": "https://www.thehindu.com/news/national/us-india-expanding-cooperation-in-defence-civil-nuclear-sector/article71275449.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "US, India Expanding Defence, Civil Nuclear Cooperation: Trump Official",
-              "url": "https://www.ndtv.com/india-news/us-india-expanding-defence-civil-nuclear-cooperation-trump-official-11830355#publisher=newsstand"
+              "headline": "Parliament Monsoon Session Day 7 LIVE: Venugopal questions absence of Amit Shah in Lok Sabha, says 'he is the person who rules Delhi'",
+              "url": "https://www.thehindu.com/news/national/parliament-monsoon-lok-sabha-live-updates-2026-july-28-2026-exam-amendment-bill-news/article71275442.ece"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "'No protester will be left alone': CJP claims 'no FIR' assurance from govt in midnight talks",
-          "neutralSummary": "Government representatives met with CJP and shared draft notifications. Bihar and Assam governments will withdraw FIRs and release arrested protesters. Future legal action against demonstrators will also be prevented. Union government and other BJP/NDA states will release similar notifications soon.",
+          "neutralHeadline": "‘Character assassination’: Drama in Parliament as Priyanka, Rijiju spar over Pralhad Joshi's appointment as edu minister",
+          "neutralSummary": "Kiren Rijiju said that Priyanka Gandhi comments amount to “character assassination” of Pralhad and urged the House to expunge her statement from the record.",
           "versions": [
             {
               "political": "left",
@@ -859,24 +823,24 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "\"No Protester Will Be Left Alone\": CJP After Midnight Talks With Government",
-              "url": "https://www.ndtv.com/india-news/cockroach-janta-party-neet-paper-leak-jantar-mantar-protest-no-protester-will-be-left-alone-cjp-saurav-das-after-midnight-talks-with-government-11830511#publisher=newsstand"
+              "headline": "Parliament Monsoon Session 2026 Live Updates: Priyanka Gandhi's Remarks Against Minister Pralhad Joshi Expunged",
+              "url": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-anti-paper-leak-bill-key-bills-on-public-examinations-msmes-on-parliament-agenda-today-lok-sabha-rajya-sa-11830768#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'No protester will be left alone': CJP claims 'no FIR' assurance from govt in midnight talks",
-              "url": "https://timesofindia.indiatimes.com/india/no-protestor-left-behind-cjp-claims-centre-assured-no-firs-in-bihar-and-assam-after-midnight-talks/articleshow/132673883.cms"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "‘Character assassination’: Drama in Parliament as Priyanka, Rijiju spar over Pralhad Joshi's appointment as edu minister",
+              "url": "https://www.hindustantimes.com/india-news/drama-in-parliament-as-priyanka-rijiju-spar-over-pralhad-joshis-appointment-as-education-minister-lok-sabha-101785242303138.html"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "Bihar Announces Withdrawal Of Cases Against Students Protesters: 'No Action In Future...'",
-          "neutralSummary": "Bihar Announces Withdrawal Of Cases Against Students Protesters: 'No Action In Future...'&nbsp;&nbsp;News18See more headlines and perspectives on Google News",
+          "neutralHeadline": "'Clock it', 'delulu': How Gen Z lingo took over Parl during anti-paper leak Bill debate",
+          "neutralSummary": "'Clock it', 'delulu': How Gen Z lingo took over Parl during anti-paper leak Bill debate",
           "versions": [
             {
               "political": "left",
@@ -884,24 +848,24 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "After Bihar, Assam Drops Cases, Assures No Action Against CJP Protesters",
-              "url": "https://www.ndtv.com/india-news/after-bihar-assam-drops-cases-assures-no-action-against-cjp-protesters-11830335#publisher=newsstand"
+              "headline": "Tejasvi Surya's \"Delulu\" Jibe At Congress Over Paper Leak Bill",
+              "url": "https://www.ndtv.com/india-news/tejasvi-suryas-delulu-jibe-at-congress-over-paper-leak-bill-11833846#publisher=newsstand"
             },
             {
               "political": "center",
-              "tone": "optimistic",
-              "source": "News18",
-              "initials": "N18",
-              "domain": "news.google.com",
-              "headline": "Bihar Announces Withdrawal Of Cases Against Students Protesters: 'No Action In Future...'",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWlaTjhDMVlMcGVONUxHMjRlV0FIRkxDY05tbkxCZ1RrSHZWdmhtZ2V1MVFGSzZwZ2hsdVB0eTVIeG4tQ2hKakNHbmVfdkVtanlkdFNhMVU4Yy1WTUtKTFpraHhmMXB1Znpsb2p3YXVoeGYyX21VNUhlZDlQLXB4TVFGVmJEdWs4NE9RZjR0SnZaQVRtRDFBZ0RoRDIwQ0NBM3RBeXduSWNXd1ZLdmxUTmZfZjZid9IBuwFBVV95cUxNUzhxMTdPUEVwenFJUGlDM01XRUhUVVFOcjlGcTRjckFyY05WTmN4bms1ZFJzenhVX05leWJyOTgzQlM3Mkg2SGJRNUFsSm9JemI3cktPb0hXS2xTdGpudzFHYkRnVlZCLTV0SThza2ZKbGhOd000QlJ0YlhOSlJVdm8yVW5Jd3AzbE52bVJzUXFxVE80aEhJUXhkdEIwSkpTTFJrdjZ3RjBmWHh5VnV4OHNWUUtoQUlwZWkw?oc=5"
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Clock it', 'delulu': How Gen Z lingo took over Parl during anti-paper leak Bill debate",
+              "url": "https://timesofindia.indiatimes.com/india/clock-it-delulu-how-gen-z-lingo-took-over-parliament-during-anti-paper-leak-bill-debate/articleshow/132684933.cms"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Multiple explosions rock Erbil near US consulate",
-          "neutralSummary": "Multiple explosions rock Erbil near US consulate",
+          "neutralHeadline": "China Explores New Airport Project After Mongla Port Expansion In Bangladesh",
+          "neutralSummary": "A Chinese delegation visited the proposed Rampal Airport site to inspect the area",
           "versions": [
             {
               "political": "left",
@@ -909,67 +873,58 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Multiple Explosions Rock Erbil Near US Consulate As Iranian Drones Hit Iraq",
-              "url": "https://www.ndtv.com/world-news/multiple-explosions-rock-erbil-near-us-consulate-as-iranian-drones-hit-iraq-11830408#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Multiple explosions rock Erbil near US consulate",
-              "url": "https://economictimes.indiatimes.com/news/defence/multiple-explosions-rock-erbil-near-us-consulate-as-iranian-drones-target-iraq/articleshow/132673909.cms"
+              "headline": "China Explores New Airport Project After Mongla Port Expansion In Bangladesh",
+              "url": "https://www.ndtv.com/world-news/china-explores-new-airport-project-after-mongla-port-expansion-in-bangladesh-11833774#publisher=newsstand"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "India squad for Sri Lanka Tests: Jadeja returns; Bumrah picked with a rider",
-          "neutralSummary": "The men's selection committee announced the squad for the Sri Lanka Test series. Ravindra Jadeja returns to the team after being rested for the Afghanistan Test. Saransh Jain has earned his maiden call-up to the Indian squad. Washington Sundar remains unavailable for the first Test match. Sai Sudhar",
+          "neutralHeadline": "Former UP minister Nanak Ram Bhurji dies after fall from 7th floor in Lucknow; police probe cause of death",
+          "neutralSummary": "The officer-in-charge of the MLA residence informed the local police about a man having fallen from an upper floor behind the legislators' residential complex.",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "India squad for Sri Lanka Tests: Jadeja returns; Bumrah picked with a rider",
-              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-squad-for-sri-lanka-tests-ravindra-jadeja-returns-jasprit-bumrah-picked-with-a-rider/articleshow/132674417.cms"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Ex-UP Minister Nanak Ram Bhurji Dies After Falling From Building In Lucknow",
+              "url": "https://www.ndtv.com/india-news/ex-up-minister-and-bjp-leader-nanak-ram-bhurji-dies-after-falling-from-building-in-lucknow-11832642#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "India announces Test squad for Sri Lanka series",
-              "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-announces-test-squad-for-sri-lanka-series-shubman-gill-named-captain/articleshow/132674487.cms"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Former UP minister Nanak Ram Bhurji dies after fall from 7th floor in Lucknow; police probe cause of death",
+              "url": "https://www.hindustantimes.com/india-news/former-up-minister-nanakdeen-bhurji-dies-after-falling-from-7th-floor-of-mla-residence-complex-in-lucknow-uttar-pradesh-101785239533965.html"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "No planes, no problem: India's 'no 1 airport' Khajuraho has zero flights",
-          "neutralSummary": "Khajuraho Airport has achieved India's top customer satisfaction ranking.  This airport currently has no commercial flights operating during July and August.  The survey results have prompted questions about the Airports Authority of India's evaluation criteria.  Flights to Delhi and Varanasi are ex",
+          "neutralHeadline": "'Nobody tells me what to sell': Trump on Netanyahu opposing US's proposed F-35 jet sales to Turkey | World News",
+          "neutralSummary": "'Nobody tells me what to sell': Trump on Netanyahu opposing US's proposed F-35 jet sales to Turkey | World News&nbsp;&nbsp;Hindustan TimesNetanyahu Had Objected To US Sale Of F-35s To Turkey. Trump Responds&nbsp;&nbsp;NDTVTrump on Netanyahu opposing F-35s to Turkey: ‘Nobody tells me what we should b",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "No planes, no problem: India's 'no 1 airport' Khajuraho has zero flights",
-              "url": "https://timesofindia.indiatimes.com/city/bhopal/no-planes-no-problem-indias-no-1-airport-khajuraho-has-zero-flights/articleshow/132673489.cms"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Netanyahu Had Objected To US Sale Of F-35s To Turkey. Trump Responds",
+              "url": "https://www.ndtv.com/world-news/benjamin-netanyahu-had-objected-to-us-sale-of-f-35s-to-turkey-donald-trump-responds-11833469#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Zero-flight Khajuraho airport became India's No. 1",
-              "url": "https://economictimes.indiatimes.com/news/india/zero-flights-full-marks-how-khajuraho-airport-with-not-a-single-flight-became-indias-best-rated/articleshow/132674186.cms"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "news.google.com",
+              "headline": "'Nobody tells me what to sell': Trump on Netanyahu opposing US's proposed F-35 jet sales to Turkey | World News",
+              "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbTVEVVI5eDl0Vm53MlhtWkNYWFplNm1zMW9TZkhCRXRIRFpyaE1NVnRFRXRwb01qVlY1M2xhRW9SbGJ2WDdWSlluRmU3d1JvVXFRUmFfRFVKZjJieEM0NnkzTWpuSDNTOVFsMTdvclkwVnZnMEJrcUNQUURfdDVZUVJnc25ocVpUNjFObDFZUmR6ZWNYcEd0SE9zNVRzODdEVzVnTkpZdnFYVW41ampvYTRLU1NQZnp3SUtIT2xCamoyTlpRVkI5VEJ0UjhBNS1zZFVnWVRKOVVUREVKTVlnVDdKYmluc2RNU0tVVXFRYkpiWHBLX2JmU2pZUnBHSFJIc0VaaC04TjNxSUHSAZACQVVfeXFMTWRNZE9jYjFzU3Q3X0I2VkdYZHZZVjgzSTNnb1ZQdnF4dldKblVuWTJ5VGE4OUhJMHptRUdTRjBQbWRLMlRQckFnNEl0ajdpSTlTU2dVNnlFTzhRQmI5UEozSHpzRlBEMEdxdGV6QTdiNjFDUkljc256Nk41LW9iclpoRWZSZXdwVE9ib1lzcXFfMUw3WEpXUnNTYi1RVHRGR3JIeXJWUFhVU2VYZ3JVV1FKMUNKYTlMM0hYQUxLU0I1c1FEUUpyZGpUX2hVTlpNN3pyR0IwU0Y5ZnZDZHZRRnROandia0RUSmR4U3ZUWElScEkzbXVhaTl2S1J3RnJJZFVvZkdEcmxiWUpycmRNdWE?oc=5"
             }
           ]
         }
