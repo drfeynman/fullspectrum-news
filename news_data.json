@@ -1,11 +1,45 @@
 {
-  "generatedAt": "2026-08-13T14:23:34.756249+00:00",
+  "generatedAt": "2026-08-14T03:54:17.735392+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
+          "neutralHeadline": "Japan protests Putin's first visit to disputed islands",
+          "neutralSummary": "President Vladimir Putin visited Russia's far-eastern Kuril islands for the first time on Thursday, prompting protests by Japan which also claims the territory.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
+              "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Vladimir Putin's first visit to disputed Pacific islands draws Tokyo protest",
+              "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Japan protests Putin's first visit to disputed islands",
+              "url": "https://www.france24.com/en/video/20260813-japan-protests-putin-s-first-visit-to-disputed-islands"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
           "neutralHeadline": "Scores dead in Colombia after powerful earthquake strikes west of country",
           "neutralSummary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and PereiraMore than 100 people died after a powerful earthquake struck western Colombia, collapsing and severely damaging scores of buildings in major cities including Cali and Pereira.The US and",
           "versions": [
@@ -30,57 +64,7 @@
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
-          "neutralSummary": "Japanese PM says islands seized by Soviets late in second world war are part of her country under international lawThe Japanese government has reacted angrily to Vladimir Putin’s first visit to the disputed Kuril Islands, which are claimed by both Tokyo and Moscow.Japan’s foreign minister, Toshimits",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
-              "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-              "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
           "id": "global-3",
-          "neutralHeadline": "Earthquake Response Strains Colombia's New Government And Rescuers As They Race Against The Clock",
-          "neutralSummary": "Civilian-run databases suggest the number of missing could be as high as 3,900.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Earthquake Response Strains Colombia's New Government And Rescuers As They Race Against The Clock",
-              "url": "https://www.huffpost.com/entry/colombia-earthquake-search-recovery-president_n_6a7b75cce4b07b8d622551f5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Colombia earthquake response tests new far-right government",
-              "url": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
           "neutralHeadline": "Ex-Syrian President Bashar Assad Sentenced To Death In Absentia For War Crimes",
           "neutralSummary": "Bashar Assad and his brother were sentenced for crimes against humanity during Syria's 14-year conflict that left about half a million people dead.",
           "versions": [
@@ -105,9 +89,59 @@
           ]
         },
         {
+          "id": "global-4",
+          "neutralHeadline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+          "neutralSummary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+              "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Romania shuts down nuclear reactor as Danube hits record lows",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTkE5WkJLcGhoa3JlcElXSzk1UU8waGYzRWpYV2tOaW1zSEVtWGplQi1qNkRKTWE2RmZvUzRXdTZQSms1dHlBV3pQTzhoTkt1SG1OTHlLYVRISlN1eElPR1Bxck5zZXY2aWw0eDZRNFA3WHZUamJNRVVoMW0ycS1oUDFZWUdpZV9PU1VqR2x4TjVPTVliOXc?oc=5"
+            }
+          ]
+        },
+        {
           "id": "global-5",
-          "neutralHeadline": "Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' US ambassador says",
-          "neutralSummary": "Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' US ambassador says&nbsp;&nbsp;AP NewsSettler Siege of Palestinian Homes Highlights Growing West Bank Chaos&nbsp;&nbsp;nytimes.comIsraeli Settlers Besiege Palestinian Homes in Occupied West Bank Village of Qusra&nbsp;&nbs",
+          "neutralHeadline": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+          "neutralSummary": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+              "url": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmlmZ0lFTDZodTVzOGx0alVzcVp3eWJaci1XWjlSbmRGOFlyRHJpUU1MakVOc2xReVhacm8tSlczVy0zS19Tam5nUjdpM1BzRUNGaUhxVXcxSF9xYmxVVExZLXFITUg3RWlSVDF6eDluRHFJOHdhZk4xbEpLcVEzcmdCTWJOZ3FoVzdpRm15R0NuQmtZdFg0cThLWnNBZm43NUhHZFNLZ0x1ekxKZkUtTzRKM0s?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
+          "neutralSummary": "The U.S. Ambassador to Israel Mike Huckabee condemned the actions of Jewish settlers who are besieging the home of an American Palestinian family in the Israeli-occupied West Bank.",
           "versions": [
             {
               "political": "left",
@@ -119,20 +153,20 @@
               "url": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' US ambassador says",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjg4cjNRa214Zmg2OEk1S1ltSkZnd2RLcmlReHNZaDJZeTlfZVU3VjZtb1o5WjVTVV9WRnNmRTgtRnRvS3I5TWR1bUtjWExlV2t2NllOb1lTUV9kNEJodFdqdDFSOEJxWXVJRHR1SWxzN1UzTVJhTFM5TkE5SUZkdGxZMllaRzkzM2twRjJmTW9BcUVwaWNyV2FVYlFITHZqUjhFRWNGMC16b2g3dlh0ZWN6Q1dVd3FXM01RRA?oc=5"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
+              "url": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss"
             }
           ]
         },
         {
-          "id": "global-6",
-          "neutralHeadline": "Photos: See the best photos from the solar eclipse",
-          "neutralSummary": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain,",
+          "id": "global-7",
+          "neutralHeadline": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
+          "neutralSummary": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain's first total solar eclipse in more than a century.",
           "versions": [
             {
               "political": "left",
@@ -140,74 +174,58 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Photos: See the best photos from the solar eclipse",
-              "url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "CNN",
-              "initials": "CNN",
-              "domain": "news.google.com",
-              "headline": "The best photos from Wednesday’s solar eclipse",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmY2FEOHQwQlU2ZDQ1QV8zQjlzRWxWQnNyUWZvQkJuMm50cl9abVBKekZkczRfWGRPRDNiekNSY0V2V2JJdDZ4NlNmT1MxSm01bjBVNGc1WUlQMmxONWhnbHpoWW10YTFFMVFLaXgzN09HelpnX2ExVHh3ejYwdw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Turkey lays out plans for defence pact with Pakistan and Saudi Arabia",
-          "neutralSummary": "Turkey lays out plans for defence pact with Pakistan and Saudi Arabia&nbsp;&nbsp;ReutersTurkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia&nbsp;&nbsp;Al JazeeraMecca defense pact isn’t meant to challenge Israel, at least not on the battlefield&nbsp;&nbsp;The Times of IsraelChi",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Turkey lays out plans for defence pact with Pakistan and Saudi Arabia",
-              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUWs3VXl5XzJEaGdzbG5aSE9QTXI5MHRWeE9pMXI5VlIwZkowSU5vbGZVS194RjNYTE5TckdnOXVsRGxMVlFKZmRfVDlhSnk2VW8tSVFNcE9oNE9BVUhDaG0wVzVlTVRtUzdWNHdfSkFqR3BlZ3dkbXp4LTFtYUc5amw1bkJ4V2NxbEl3MUpBaWJRSEFJM1N2OWpiZE11bXFOZ005Z3FkUDFJeGpqZXNfdVI2Nm9DcDc3amFiNkZNOWZ3NnVwUE9OdklwTjkycXc?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia",
-              "url": "https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss"
+              "headline": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
+              "url": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-          "neutralSummary": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continuesAs Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections.Hakainde Hichilema, 64, is bidding for a second term leading th",
+          "neutralHeadline": "Solar eclipse 2026: Africa witnesses partial eclipse",
+          "neutralSummary": "Part of the world turned its eyes to the skies this Wednesday.\n\nThe eclipse was also visible across Africa. In Tabarka, where the phenomenon was most pronounced in Tunisia, 59.06% of the Sun was obscured.\n\nThe partial eclipse was also visible from Dakar and several regions of Senegal, with a maximum",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-              "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Photos: See the best photos from this year's total solar eclipse",
+              "url": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/best-solar-eclipse-photos"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Solar eclipse 2026: Africa witnesses partial eclipse",
+              "url": "https://www.france24.com/en/video/20260813-solar-eclipse-2026-africa-witnesses-partial-eclipse"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-          "neutralSummary": "Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lakeAt least 44 people have died after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said.The boat had a capacity of 90 people, but was carrying 114 adult passengers, five cre",
+          "neutralHeadline": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
+          "neutralSummary": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM&nbsp;&nbsp;The GuardianPoland arrests Russian allegedly hired to kill Ukrainian-American who was 'inconvenient to the Putin regime'&nbsp;&nbsp;Fox NewsPoland says it thwarted a Russian plot to kill American citizen in Warsaw&",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "The Guardian",
               "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-              "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize"
+              "domain": "news.google.com",
+              "headline": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdkQ1ZGJkRVJuUXlkYkp4RURTNWdFRFRfbWM1S0tvbzVld3BQSHEzN1Q4UTd5ODVCSEdlREpPcUh4STF5QkQ1bWwzbkR1WHB0Y2lVM1pZYWdISUhEbjh4RWJKdmJFMVlTY3k3Yll4blpCalJ0VUQ3Q0lrMDZnRFFfaHFXLUpRSXJLV284T25ERTdTVDZpUWlmSHVtM2VqWWdNV3RTZC11cmgtN0NSVjZmRUkxTQ?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Poland arrests Russian allegedly hired to kill Ukrainian-American who was 'inconvenient to the Putin regime'",
+              "url": "https://www.foxnews.com/world/poland-arrests-russian-allegedly-hired-kill-ukrainian-american-inconvenient-putin-regime"
             }
           ]
         }
@@ -218,8 +236,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Karoline Leavitt is leaving her role as Trump's White House press secretary",
-          "neutralSummary": "Karoline Leavitt is leaving her role as Trump's White House press secretary&nbsp;&nbsp;PBSKaroline Leavitt’s Most Memorable Moments as White House Press Secretary&nbsp;&nbsp;time.comTrump’s loss of Karoline Leavitt was so sudden that there is no plan to replace her&nbsp;&nbsp;The IndependentWhy Karo",
+          "neutralHeadline": "Even Fox News Won't Help Trump Sell His Lies On A Major Issue Anymore",
+          "neutralSummary": "The president posted on Thursday that the U.S. has “total control” of the Strait of Hormuz.",
           "versions": [
             {
               "political": "left",
@@ -227,26 +245,17 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "White House Press Secretary Karoline Leavitt Steps Down",
-              "url": "https://www.huffpost.com/entry/white-house-press-secretary-karoline-leavitt-steps-down_n_6a7ccca1e4b079a0b2ec255f"
+              "headline": "Even Fox News Won't Help Trump Sell His Lies On A Major Issue Anymore",
+              "url": "https://www.huffpost.com/entry/donald-trump-fox-news-bret-baier-strait-of-hormuz_n_6a7d1f75e4b079a0b2ec3d55"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "PBS",
-              "initials": "P",
-              "domain": "news.google.com",
-              "headline": "Karoline Leavitt is leaving her role as Trump's White House press secretary",
-              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlpEU1ZPQ1hES0c0eGtPM0VnVi1jRGJYQ3NZdnduLXNZNjdDZ0NuWXV3OTFJMXM3YUg1Mk1PaUtqa05wSXB1Um1wN2ZjdTNjUmFadmowMzdDU1JBQmdtNDQwWHh0XzBvTzlnek9EdWFJd2pId25jX1A1QVJyVk1QUVpqWTN3RzZIMEhuMlpqR1NyR2xzM1hNUE02eUlBUkVuTHI3SFd4dTBUUDJ4LUFncGpR?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump has his Karoline Leavitt replacement lined up as he retools White House press operation",
-              "url": "https://www.washingtonexaminer.com/news/washington-secrets/4685939/trump-karoline-leavitt-replacement-lined-up-white-house-press-operation/"
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Does Trump even have an agenda anymore?",
+              "url": "https://www.vox.com/the-logoff-newsletter-trump/498986/trump-august-agenda-reflecting-pool-birthright-citizenship-fed-slush-fund"
             }
           ]
         },
@@ -277,8 +286,106 @@
         },
         {
           "id": "us-3",
-          "neutralHeadline": "Nick Reiner pleads not guilty to murder charges following indictment",
-          "neutralSummary": "The son of actor and director Rob Reiner was indicted last month by a grand jury, with details unsealed Wednesday. Nick Reiner’s parents were found dead in December.",
+          "neutralHeadline": "White House Press Secretary Karoline Leavitt Steps Down",
+          "neutralSummary": "President Donald Trump said Leavitt will now be one of his “top advisers.”",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "White House Press Secretary Karoline Leavitt Steps Down",
+              "url": "https://www.huffpost.com/entry/white-house-press-secretary-karoline-leavitt-steps-down_n_6a7ccca1e4b079a0b2ec255f"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "CNN",
+              "initials": "CNN",
+              "domain": "news.google.com",
+              "headline": "Who could replace Karoline Leavitt as White House press secretary?",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORnR6MVJnbXhtVUJmWmRVdTB2d3ZXaWtpUUpqSGlVbzhnOFd3OWdGdEV0eEpCVzNlX2N2S2UxX0dMS2dtRWZGQWY5VDVzX0EtaHlIVkhKMml4aHliUjRoUGhQekhHQmpoRUZ6MzAzQVhWNFE0c0tHSXdpLTVic2pJQ1drQ2U5dw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "What We Know About the Storms Battering the Midwest",
+          "neutralSummary": "A lingering weather system has brought severe flooding and intense winds — including a few tornadoes — to Illinois, Indiana and Ohio.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "What We Know About the Storms Battering the Midwest",
+              "url": "https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Charlie Kirk Suspect Fights Death Penalty, Says No Others Were in Danger",
+          "neutralSummary": "Prosecutors say they can seek the death penalty against Tyler Robinson because he also endangered people near Charlie Kirk, who was shot in the throat last year. Mr. Robinson’s lawyers note that the gunman struck only his target.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Charlie Kirk Suspect Fights Death Penalty, Says No Others Were in Danger",
+              "url": "https://www.nytimes.com/2026/08/13/us/charlie-kirk-tyler-robinson-death-penalty.html"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
+          "neutralSummary": "The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
+              "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Judge Dismisses Trump Administration’s Antisemitism Case Against Harvard",
+          "neutralSummary": "The government argued the university had not done enough to combat antisemitism during campus protests. A judge called the incidents “isolated and episodic.”",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Judge Dismisses Trump Administration’s Antisemitism Case Against Harvard",
+              "url": "https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Judge Throws Out Trump’s Harvard Antisemitism Case",
+              "url": "https://www.dailywire.com/news/judge-throws-out-trumps-harvard-antisemitism-case"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Senate Democrats call for GAO audit of White House ballroom project",
+          "neutralSummary": "A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following new reporting on the Trump administration’s multi-million-dollar construction projects.  The Washington Post reported Wednesday on confidential contrac",
           "versions": [
             {
               "political": "left",
@@ -286,131 +393,42 @@
               "source": "Washington Post",
               "initials": "WP",
               "domain": "washingtonpost.com",
-              "headline": "Nick Reiner pleads not guilty to murder charges following indictment",
-              "url": "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
-              "url": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' US ambassador says",
-          "neutralSummary": "Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' US ambassador says&nbsp;&nbsp;AP NewsSettler Siege of Palestinian Homes Highlights Growing West Bank Chaos&nbsp;&nbsp;nytimes.comIsraeli Settlers Besiege Palestinian Homes in Occupied West Bank Village of Qusra&nbsp;&nbs",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
-              "url": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers"
+              "headline": "Concerned about Trump’s ballroom project, Senate Democrats seek audit",
+              "url": "https://www.washingtonpost.com/investigations/2026/08/13/senate-democrats-request-audit-trumps-ballroom-project/"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Settler siege of Palestinian homes in the West Bank a 'horrific act of terror,' US ambassador says",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjg4cjNRa214Zmg2OEk1S1ltSkZnd2RLcmlReHNZaDJZeTlfZVU3VjZtb1o5WjVTVV9WRnNmRTgtRnRvS3I5TWR1bUtjWExlV2t2NllOb1lTUV9kNEJodFdqdDFSOEJxWXVJRHR1SWxzN1UzTVJhTFM5TkE5SUZkdGxZMllaRzkzM2twRjJmTW9BcUVwaWNyV2FVYlFITHZqUjhFRWNGMC16b2g3dlh0ZWN6Q1dVd3FXM01RRA?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "2 soldiers killed in Texas helicopter crash",
-          "neutralSummary": "Two Fort Hood soldiers were killed after an Army helicopter crashed Wednesday in Central Texas, local authorities and military officials said.  The aircraft, an AH-64 Apache attack helicopter, crashed in Salado, Texas, a village in Bell County, according to a press release. Officials from the Army b",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Two dead after military helicopter crashes in Texas",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sSXl2WXAyYmQxOE14LXMtTXlZTm5rX2VReFNPTzFvUUhpd2xqcGctV2l5WG14Z1JRUVY5VHVSREJMV25HWHFzTjB5Z3ppUi1Hc1ZTUFpkRVpmQQ?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "2 soldiers killed in Texas helicopter crash",
-              "url": "https://thehill.com/policy/defense/6026762-army-helicopter-crash-army-2-dead/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "GOP Nominee Torched For Offering Absurd Solution To Cope With Rising Gas Prices",
-          "neutralSummary": "No one:Republicans on affordability: “Drink less Starbucks”--A critic said on X",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "GOP Nominee Torched For Offering Absurd Solution To Cope With Rising Gas Prices",
-              "url": "https://www.huffpost.com/entry/michele-tafoya-starbucks-comments_n_6a7cfbfee4b079a0b2ec3144"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Rep. Max Miller Sued By Ex-Wife For Publishing Explicit Photo Of Daughter",
-          "neutralSummary": "Court documents allege a nude photo of Miller’s young daughter was included in a trove of evidence released to the public.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Rep. Max Miller Sued By Ex-Wife For Publishing Explicit Photo Of Daughter",
-              "url": "https://www.huffpost.com/entry/rep-max-miller-sued-by-ex-wife-for-publishing-explicit-photo-of-daughter_n_6a7cfb3ae4b08accea254982"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "RFK Jr. Says He Can't Vote Because He's Legally Homeless — But His Claims Just Don't Add Up",
-          "neutralSummary": "The Health and Human Services secretary shared a factually hazy explanation for his supposed voting dilemma while in LA on Tuesday.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "RFK Jr. Says He Can't Vote Because He's Legally Homeless — But His Claims Just Don't Add Up",
-              "url": "https://www.huffpost.com/entry/rfk-jr-cant-vote-homeless-fact-check_n_6a7c9d2de4b0b34a98241ca5"
+              "headline": "Senate Democrats call for GAO audit of White House ballroom project",
+              "url": "https://thehill.com/homenews/senate/6028941-senate-democrats-audit-white-house-ballroom/"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "MAGA Influencer Reacts To 1 Hilariously Bonkers Theory About Her Viral Oval Office Appearance",
-          "neutralSummary": "Social media users’ imaginations ran wild after Jayme Leagh Franklin exhibited some strange behavior during an Oval Office event.",
+          "neutralHeadline": "Kennedy Center board restores Trump's name, testing judge",
+          "neutralSummary": "Kennedy Center board restores Trump's name, testing judge&nbsp;&nbsp;axios.comKennedy Center Board Decides to Inscribe Trump’s Name on Building&nbsp;&nbsp;The New York TimesKennedy Center votes to restore Trump’s name and close for 2 years, challenging a judge’s order&nbsp;&nbsp;WANE 15Kennedy Cente",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "MAGA Influencer Reacts To 1 Hilariously Bonkers Theory About Her Viral Oval Office Appearance",
-              "url": "https://www.huffpost.com/entry/maga-influencer-reacts-to-the-funniest-conspiracy-theory-on-her-viral-oval-office-appearance_n_6a7cb3a7e4b0ecad6d3e1552"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Kennedy Center Board votes again to shut main building down — and add Trump's name back",
+              "url": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Axios",
+              "initials": "AX",
+              "domain": "news.google.com",
+              "headline": "Kennedy Center board restores Trump's name, testing judge",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkZKUUdPeEYtRDlncjlPX0VFby1KRGZDUFN2Tmk2X2VTYXJVVFgxNktXNktjM3lsRkl2aEN5R1gwRjZkS21lT192QURPTEE1aUNhR3JhdzdHNmF4SUdhOXRUTGNIcGhlalU1aFVVV0FTc1V5V24wUGRGVHFNZV92ZDdR?oc=5"
             }
           ]
         }
@@ -421,8 +439,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Couple arrested after exposing toddler, seven-month-old baby to drugs",
-          "neutralSummary": "The couple’s sons were placed under the care of their next of kin.",
+          "neutralHeadline": "Raised voices at LawSoc meeting; members call for release of full report on leadership failings",
+          "neutralSummary": "The Law Society of Singapore held a closed-door session at Maxwell Chambers on Aug 13.",
           "versions": [
             {
               "political": "center",
@@ -430,22 +448,95 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Couple arrested after exposing toddler, seven-month-old baby to drugs",
-              "url": "https://www.straitstimes.com/singapore/couple-arrested-after-exposing-their-toddler-and-7-month-old-baby-to-drugs"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Couple arrested after drugs found at home with infant and 3-year-old son",
-              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWpsR0RWR0xxbFpXYUNzOEVFZ3E5REs5ZmV3NmFkR1Y0S19pX1ZDbW5wMmZ4ZlVHUm9pX252MWhCWjJRcjVWeUdrWV9uSF9qeE5mOVhTanVIY2J4V2Y5SjBwTWFtdjFXUHFKeTJJMnBEYmNyYjc3cjAyWk4tal8tQzBZbUZ0SnktRVZRdg?oc=5"
+              "headline": "Raised voices at LawSoc meeting; members call for release of full report on leadership failings",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/raised-voices-at-lawsoc-meeting-members-call-for-release-of-full-report-on-leadership-failings"
             }
           ]
         },
         {
           "id": "singapore-2",
+          "neutralHeadline": "Jail for gambling addict who exploited adoptive dad and others to obtain nearly $1.9m",
+          "neutralSummary": "Tay Yi Cong, 29, illegally obtained more than $1.6m from his adoptive father alone.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Jail for gambling addict who exploited adoptive dad and others to obtain nearly $1.9m",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/jail-for-gambling-addict-who-exploited-adoptive-dad-and-others-to-obtain-nearly-1-9m"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
+          "neutralHeadline": "‘High-stakes weekend’ for PM Anwar’s PH as DAP, PKR hold crucial party congresses",
+          "neutralSummary": "Malaysia's Parti Keadilan Rakyat and Democratic Action Party face difficult questions following recent electoral setbacks. The outcomes of their congresses could have significant ramifications for PM Anwar’s grip on power, say party members and observers.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "‘High-stakes weekend’ for PM Anwar’s PH as DAP, PKR hold crucial party congresses",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-pkr-dap-congress-anwar-ibrahim-unity-government-6316806"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "news.google.com",
+              "headline": "Anwar's fate in the balance as PKR, DAP hold party meets",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMXdzeE9SMTQtUXpDVzZsazJLWkxld2w2LWpDcVB5V09heHJvNFF5Wkhtd3c5bUZTbUhYS0N6em1KZTNiVG12dXFqMVU2VzQ4b01XaEtQaDZJZEE5eVExSUpJUllZZi1sYjBGOUVCTENwMWRWNmNSZ0NlQWlhaWNqYWVLODlVMXZ4VkltbHA1cHNWMFRaWkU3clZaZzlNeldhU1NHWW9iaGFyNlhOaENFWDRqLXplZzktZFo4OTZPYWNTNWhvUmNZ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Record rain in Japan kills four, leaves thousands stranded at Narita airport",
+          "neutralSummary": "Japanese authorities said four deaths have been confirmed so far, including at least one person trapped in a submerged vehicle.&nbsp;",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Record rain in Japan kills four, leaves thousands stranded at Narita airport",
+              "url": "https://www.channelnewsasia.com/east-asia/japan-record-rain-kills-four-narita-stranded-airport-6318756"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "news.google.com",
+              "headline": "Thousands stranded at Japan’s Narita airport after record rain kills four",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSUMzMXpiWktjMGhvdHZ1Rnd6aVhMS1hHUTJGVEU3VERvX3FFTm5jU1RfX3ZKUkY5SXJhdGxQZ2xnQ2tJUWFBRnJ0NGRQaXdKMUM3MFQxcjdYcnFROXo4Vk5XMWp2N0JOOEVFUlBpeEhpYmtSUGl5OTNFRzFrd0l3OGwxOUVBRmNrZHZpaF9BTnFGQV9idTRQdzNiX21yQnprVWN2QmZiNUNsaXg1aUVwc2tmRy1CWmM?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "From summer camps to big salaries: China’s AI talent race is starting young and going big",
+          "neutralSummary": "AI talent is commanding a huge premium in China - and parents are betting that exposing their children to technology early could give them a headstart.&nbsp;",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "From summer camps to big salaries: China’s AI talent race is starting young and going big",
+              "url": "https://www.channelnewsasia.com/east-asia/summer-camps-big-salaries-chinas-ai-talent-race-starting-young-and-going-big-6302251"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
           "neutralHeadline": "Air India mandates drug tests for all pilots after mid-air plunge",
           "neutralSummary": "Air India mandates drug tests for all pilots after mid-air plunge",
           "versions": [
@@ -459,18 +550,18 @@
               "url": "https://www.channelnewsasia.com/asia/air-india-mandatory-drug-test-pilot-mid-air-plunge-6317471"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Air India Orders One-Off Drug Test for Its Over 5,000 Pilots",
-              "url": "https://www.bloomberg.com/news/articles/2026-08-13/air-india-orders-one-off-drug-test-for-its-over-5-000-pilots"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Air India to test all pilots for banned substances",
+              "url": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "id": "singapore-3",
+          "id": "singapore-7",
           "neutralHeadline": "Japan protests Putin's first visit to disputed islands",
           "neutralSummary": "Russian President Vladimir Putin visited a fish-processing plant where he was given caviar.",
           "versions": [
@@ -495,9 +586,9 @@
           ]
         },
         {
-          "id": "singapore-4",
-          "neutralHeadline": "Singapore PM Wong sends condolences to China over death of former premier Zhu Rongji",
-          "neutralSummary": "Zhu Rongji, who served as China's premier from 1998 to 2003, died from illness on Wednesday at the age of 97.",
+          "id": "singapore-8",
+          "neutralHeadline": "Oil steadies after US threatens indefinite blockade of Iran",
+          "neutralSummary": "Oil steadies after US threatens indefinite blockade of Iran",
           "versions": [
             {
               "political": "center",
@@ -505,88 +596,24 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Singapore PM Wong sends condolences to China over death of former premier Zhu Rongji",
-              "url": "https://www.channelnewsasia.com/singapore/china-former-premier-zhu-rongji-dies-singapore-lawrence-wong-condolences-6314786"
+              "headline": "Oil steadies after US threatens indefinite blockade of Iran",
+              "url": "https://www.channelnewsasia.com/business/oil-steadies-after-us-threatens-indefinite-blockade-iran-6318766"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "The Star",
-              "initials": "TS",
+              "source": "Straits Times",
+              "initials": "ST",
               "domain": "news.google.com",
-              "headline": "Singapore PM Wong sends condolences to China over death of former premier Zhu Rongji",
-              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWEFLV1ZCelVpckszbFZSZk5zOERVWUFpTVV3WWlKZUVIVlQyNjdaU1d5RGFVcVMyWjBTUXBhU1pmRUhpNUVoZzlkNmYxOGhGbl9nNlY3NGVYMHQ2Q1RReHI0bUZ0cDF1RjFnMG5sbmQ4WjBXUllkUkE2aHh6dHRMWTV4Y090UkRpM2ZrQXlZLVdYd1JYZkVqSmNWU2pwQVA3NGZOWF9zS2NzajdPRlhKa09lWnA3T1ZCTUV5SnVFZFBrd1lheWs4Z25KdE93WlBNRGdUNlFqYm43OVFPak9zdA?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Raised voices at LawSoc meeting; members call for release of full report on leadership failings",
-          "neutralSummary": "The Law Society of Singapore held a closed-door session at Maxwell Chambers on Aug 13.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Raised voices at LawSoc meeting; members call for release of full report on leadership failings",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/raised-voices-at-lawsoc-meeting-members-call-for-release-of-full-report-on-leadership-failings"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "‘It’s very noisy’: Some Punggol residents affected by noise from Cross Island Line work",
-          "neutralSummary": "Other residents, however, have found the noise bearable.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "‘It’s very noisy’: Some Punggol residents affected by noise from Cross Island Line work",
-              "url": "https://www.straitstimes.com/singapore/transport/its-very-noisy-some-punggol-residents-affected-by-noise-from-cross-island-line-work"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Missing: 14-year-old girl last seen near NEX shopping mall on July 24",
-          "neutralSummary": "Sarah Fitriyana Abdullah, 14, was last spotted near 23 Serangoon Central on July 24.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Missing: 14-year-old girl last seen near NEX shopping mall on July 24",
-              "url": "https://www.straitstimes.com/singapore/missing-14-year-old-girl-last-seen-in-serangoon-on-july-24"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "Jail for gambling addict who exploited adoptive dad and others to obtain nearly $1.9m",
-          "neutralSummary": "Tay Yi Cong, 29, illegally obtained more than $1.6m from his adoptive father alone.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Jail for gambling addict who exploited adoptive dad and others to obtain nearly $1.9m",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/jail-for-gambling-addict-who-exploited-adoptive-dad-and-others-to-obtain-nearly-1-9m"
+              "headline": "US eyes indefinite Iran naval blockade as oil supply shortfall deepens",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS1NzN0NJSVV6blZaTEo4UG1RTFZ1S1Rua0l5M3p1bkM4LWdGUi1PdFJMaml2QUJjQmloZlJDNEw3ME5QdTN1RjhkbEVGcG1KZEVzdjJaUmtNVUFPZTBiX2QxU1VLQ2RibXlPT2RpTFZfakU4b29idmR0d3p4RF9tMUIxN0tzd0p2TG9YTGRaVzdmNjdjanNBNGVUQ1p6R3JoX2pLX1hfanc2YS1MMVNuY2JYZjMtUFR6?oc=5"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Man arrested for allegedly molesting two teens, including stepdaughter, in one day",
-          "neutralSummary": "Both cases took place within hours of each other on Aug 12.",
+          "neutralHeadline": "Two motorcyclists arrested for attempting to smuggle cigarettes, vapes at Woodlands Checkpoint",
+          "neutralSummary": "In one case, contraband was found underneath the motorcycle's seat and in its storage boxes.",
           "versions": [
             {
               "political": "center",
@@ -594,8 +621,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Man arrested for allegedly molesting two teens, including stepdaughter, in one day",
-              "url": "https://www.straitstimes.com/singapore/man-arrested-for-allegedly-molesting-two-teens-including-his-stepdaughter"
+              "headline": "Two motorcyclists arrested for attempting to smuggle cigarettes, vapes at Woodlands Checkpoint",
+              "url": "https://www.straitstimes.com/singapore/two-motorcyclists-arrested-for-attempting-to-smuggle-cigarettes-vapes-at-woodlands-checkpoint"
             }
           ]
         }
@@ -606,208 +633,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "'Was angry about Punjab's drug problem': What Sukhbir Badal's attacker told police",
-          "neutralSummary": "'Was angry about Punjab's drug problem': What Sukhbir Badal's attacker told police",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Turban Came Off, Re-Tied: Moment Sukhbir Badal's Attacker Was Arrested",
-              "url": "https://www.ndtv.com/india-news/sukhbir-badal-attack-turban-came-off-re-tied-moment-sukhbir-badals-attacker-was-arrested-11904730#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Was angry about Punjab's drug problem': What Sukhbir Badal's attacker told police",
-              "url": "https://timesofindia.indiatimes.com/india/sukhbir-badals-hand-injured-at-nanded-gurdwara-what-we-know-so-far-about-attack-on-sad-chief/articleshow/133206630.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Nihang in 60s, worked as 'sewadar': What we know about Sukhbir Singh Badal's attacker",
-              "url": "https://www.hindustantimes.com/india-news/nihang-in-mid-60s-who-attacked-sukhbir-singh-badal-ex-punjab-deputy-cm-accused-arrested-what-we-know-shiromani-akali-dal-101786615457727.html"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "Air India Orders One-Off Drug Test for Its Over 5,000 Pilots",
-          "neutralSummary": "Air India Group will screen its more than 5,000 pilots for psychoactive substances in an unprecedented one-time action, according to an internal email, after a captain allegedly tested positive for illegal drugs following the mid-air plunge of its Phuket-Delhi flight.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Dope Test For All Air India Pilots After Captain Found Positive For Marijuana",
-              "url": "https://www.ndtv.com/india-news/dope-test-for-all-air-india-pilots-after-captain-found-positive-for-marijuana-11904434#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Air India Orders One-Off Drug Test for Its Over 5,000 Pilots",
-              "url": "https://www.bloomberg.com/news/articles/2026-08-13/air-india-orders-one-off-drug-test-for-its-over-5-000-pilots"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Telangana school principal found dead with 27 stab wounds at home: Police",
-          "neutralSummary": "Kallu Roopa Reddy, principal and director of Nagarjuna Grammar English Medium School in Kondamallepally, suffered around 27 stab wounds in the attack",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Telangana School Principal Found Dead At Home With 27 Stab Wounds",
-              "url": "https://www.ndtv.com/telangana-news/telangana-school-principal-kallu-roopa-reddy-found-dead-with-27-stab-wounds-11905594#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Telangana school principal found dead with 27 stab wounds at home: Police",
-              "url": "https://www.hindustantimes.com/india-news/telangana-school-principal-found-dead-with-27-stab-wounds-at-her-home-police-101786623536459.html"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Fresh clashes erupt along Assam-Arunachal border, police fire in air to disperse mob",
-          "neutralSummary": "Fresh clashes erupt along Assam-Arunachal border, police fire in air to disperse mob&nbsp;&nbsp;The Times of India‘Economic blockade’ in Assam affects life along border with Arunachal Pradesh&nbsp;&nbsp;The HinduAssam-Arunachal Border Tense Amid Student Body's Protest, Cops Open Fire To Disperse Cro",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Assam-Arunachal Border Tense Amid Student Body's Protest, Cops Open Fire To Disperse Crowd",
-              "url": "https://www.ndtv.com/india-news/assam-arunachal-border-tense-amid-student-bodys-protest-cops-open-fire-to-disperse-crowd-in-dhemaji-likabali-11903831#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "Fresh clashes erupt along Assam-Arunachal border, police fire in air to disperse mob",
-              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbEVTNGlYakQ0bTdNNGloTEN5RGZiMVgzeXUwM2JoTFpzWlJ5ZUw2R29xNjMzNnZYanYxdGhySUxZNnZsRDdCenZGMHlkTnJrb3RZU1JBX0c1d1I2M18xZGh4Y1VKdDl6WlpUMEI3eVI2ZmxCbWQtY2FsMkdRZzJvd2ZRWl9uMHRxYUI0UnBaMlNLaVRyZklua2gtUmxzRjh0MlpaRUg5cHJXNjNweE00ZFZvRWpCZUdfQjByZ0ZJU1UxdTh2c2NLNXFPSWhmMmJYeUZfSUp1d2tFMnFscF84Vm4zSEhtZDdkS1VXN1V2YUg?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Bengal Withdraws State Honour From BJP MP Nagendra Ray, Who Insulted Netaji",
-          "neutralSummary": "The BJP MP was honoured with Banga Bibhushan in February, when the Mamata Banerjee government was in power.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Bengal Withdraws State Honour From BJP MP Nagendra Ray, Who Insulted Netaji",
-              "url": "https://www.ndtv.com/india-news/bengal-withdraws-state-honour-from-bjp-mp-nagendra-ray-who-insulted-netaji-11905068#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "PM Modi enquires about Sukhbir Singh Badal's health after ‘kirpan attack’ in Nanded",
-          "neutralSummary": "Narendra Modi inquired about former Punjab deputy chief minister Sukhbir Singh Badal’s health in a phone conversation with his wife.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Sukhbir Badal Attack Live Updates: PM Modi Dials Akali Chief's Wife, Asks About His Health",
-              "url": "https://www.ndtv.com/india-news/sukhbir-singh-badal-attack-live-updates-nanded-maharashtra-gurudwara-akali-dal-chief-hospitalised-harsimrat-kaur-shiromani-akali-dal-11904400#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "PM Modi enquires about Sukhbir Singh Badal's health after ‘kirpan attack’ in Nanded",
-              "url": "https://www.hindustantimes.com/india-news/pm-modi-speaks-with-sukhbir-singh-badal-s-wife-asks-about-his-health-after-nanded-attack-101786620742021.html"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Jaspal Singh held after Sukhbir Badal attack",
-          "neutralSummary": "Jaspal Singh held after Sukhbir Badal attack",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"Total Failure Of Intelligence\": Akali Dal Leaders On Sukhbir Badal Attack",
-              "url": "https://www.ndtv.com/india-news/total-failure-of-intelligence-akali-dal-leaders-on-sukhbir-singh-badal-attack-11904693#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Jaspal Singh held after Sukhbir Badal attack",
-              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/sukhbir-badal-attack-62-year-old-jaspal-singh-arrested-in-nanded-probe-underway/articleshow/133211621.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Iran mocks Trump's secret jet swap",
-          "neutralSummary": "Iran mocks Trump's secret jet swap",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Iran mocks Trump's secret jet swap",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-secret-escape-iran-mocks-missile-scare-that-forced-aircraft-switch/articleshow/133210839.cms"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "news.google.com",
-              "headline": "Israel's Unverified 'Iran Kill Plot' Warning Behind Trump's Secret Jet Switch In Turkey: Report",
-              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWttZnVGV2VYSnR1VVN4eUdQaThTSlA3VGlhN0JRanE2bk5JY0hCVEpnQk9FQm1HQXB6eWZKZzl6TXVjYV9KejFhS01HeVFVb2ZwVndQTGpkN3lUMDhPSmNSclB0aGpnWXhrNmNiVFc1aFhFc1pJTzUwdkNOVWdYTTdSZ04yZzJyb25CaFZSXzZQQVRseGNYNGJQZHhNQTNubUUwRVQxWHFnck1FOW5USEJPeEc2N1NwZXVtemNVX3RSMUhsUkF3SDVLRdIB0wFBVV95cUxNMld6by15YTl4Z0ZqeUR5RmdBcVIxUGlNUXQxcEZLRjhiQ0ZFOU5xWlZ4ejI3aDIzZmJONFZqZzRDRlR6LTI0a05KV3QxNTNMVUQxWW5UM2EtNloxY1RMMEJtS21QQ19welBHY1F2U3dQTjFZeHQ5MGdjLXBBQ2VkVkFkQ0NEWXpEdFpuZTUyaWFVRjhnTkJkMlI1ZlNPVEV0cVktMGRoRTRCVFE0TlpaQ3V2V1hNbVN1NzlrSTNWX0ZKWGNiQkRjclFpOHNDbWd3d2Vz?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "Bengaluru: Mentorship programme for innovators launched; aims to find sustainable solutions for rural connectivity challenges, bridge digital divide",
-          "neutralSummary": "Bengaluru: Mentorship programme for innovators launched; aims to find sustainable solutions for rural connectivity challenges, bridge digital divide",
+          "neutralHeadline": "Uttarakhand: 7 dead after water, debris enter under-construction tunnel in Chamoli",
+          "neutralSummary": "Uttarakhand: 7 dead after water, debris enter under-construction tunnel in Chamoli",
           "versions": [
             {
               "political": "left",
@@ -815,8 +642,208 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Bengaluru: Mentorship programme for innovators launched; aims to find sustainable solutions for rural connectivity challenges, bridge digital divide",
-              "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-mentorship-programme-for-innovators-launched-aims-to-find-sustainable-solutions-for-rural-connectivity-challenges-bridge-digital-divide/article71341599.ece"
+              "headline": "Seven workers dead, 14 injured as water, debris enter tunnel in Uttarakhand’s Chamoli",
+              "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-chamoli-workers-feared-inside-under-construction-thdc-tunnel/article71342539.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "7 Killed, 3 Trapped As Water, Debris Enter Tunnel In Uttarakhand's Chamoli",
+              "url": "https://www.ndtv.com/india-news/several-workers-trapped-as-water-debris-enter-tunnel-in-uttarakhands-chamoli-11906228#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Uttarakhand: 7 dead after water, debris enter under-construction tunnel in Chamoli",
+              "url": "https://timesofindia.indiatimes.com/city/dehradun/six-workers-dead-2-missing-after-water-debris-enter-under-construction-tunnel-in-uttarakhand/articleshow/133223387.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "‘I need your help’: Wangchuk calls for ‘peaceful revolution’ ahead of Independence Day",
+          "neutralSummary": "Sonam Wangchuk urges a peaceful revolution for India's future by 2047. He seeks citizens' help to identify selfless and fearless national leaders. Wangchuk expresses concern over the criminal backgrounds of many elected Members of Parliament. He believes better leadership is crucial for the country'",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "India needs a peaceful revolution: Sonam Wangchuk",
+              "url": "https://www.thehindu.com/news/national/india-needs-a-peaceful-revolution-sonam-wangchuk/article71343890.ece"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "‘I need your help’: Wangchuk calls for ‘peaceful revolution’ ahead of Independence Day",
+              "url": "https://timesofindia.indiatimes.com/city/delhi/i-need-your-help-sonam-wangchuk-calls-for-peaceful-revolution-ahead-of-independence-day/articleshow/133226944.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Kerala opposes mines, minerals bill passed by Parl",
+          "neutralSummary": "Chief minister VD Satheesan said on Thursday that Kerala strongly opposes the Mines and Minerals (Development and Regulation) Amendment Bill, 2026, passed by Parliament, as it effectively transfers the states’ rights and authority over land to the jurisdiction of the Union government",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Hemant Soren opposes Mines and Minerals Amendment Bill",
+              "url": "https://www.thehindu.com/news/national/jharkhand-cm-soren-urges-pm-modi-to-reconsider-mining-bill-flags-impact-on-states-finances/article71342730.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Kerala opposes mines, minerals bill passed by Parl",
+              "url": "https://www.hindustantimes.com/india-news/kerala-opposes-mines-minerals-bill-passed-by-parl-101786649943047.html"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Phuket-Delhi A320 lost flight controls for 4 seconds, Airbus preliminary probe finds",
+          "neutralSummary": "Phuket-Delhi A320 lost flight controls for 4 seconds, Airbus preliminary probe finds",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Exclusive: For 4 Seconds, Air India Phuket-Delhi Plane Had No Flight Controls",
+              "url": "https://www.ndtv.com/india-news/air-india-phuket-delhi-flight-for-4-seconds-air-india-phuket-delhi-plane-had-no-flight-controls-exclusive-11907766#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Phuket-Delhi A320 lost flight controls for 4 seconds, Airbus preliminary probe finds",
+              "url": "https://timesofindia.indiatimes.com/india/phuket-plunge-airbus-sends-initial-report-to-ai-seeks-maintenance-details/articleshow/133226705.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "When Karoline Leavitt Became Trump's Voice On India-US Trade, War With Pak",
+          "neutralSummary": "Leavitt gave birth to her second child -- a girl named Viviana -- in May",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "When Karoline Leavitt Became Trump's Voice On India-US Trade, War With Pak",
+              "url": "https://www.ndtv.com/world-news/when-karoline-leavitt-became-trumps-voice-on-india-us-trade-war-with-pak-11907851#publisher=newsstand"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers",
+          "neutralSummary": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers&nbsp;&nbsp;ReutersTrump orders Pentagon to redesign US aircraft carrier to use steam catapults to launch jets&nbsp;&nbsp;The GuardianExclusive | Trump Orders Navy to Restore Older Tech on Aircraft Carriers, Costing",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Trump Orders Navy To Return To Older System Of Launching Jets Off Aircraft Carriers",
+              "url": "https://www.ndtv.com/world-news/trump-orders-navy-to-return-to-older-system-of-launching-jets-off-aircraft-carriers-11907726#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWl5Q296eFVlNTZXb2JiWFdHQVNjTEM0di00TXJkNW5yblZfbDNYRHNMaldKbGJqdnZJQU5EeFppUGplTXc2MWg2MWFNX3A0RUMzcHlJSWRwWXEtQzhhSXZzWG93UERWV0E3b3JBeVhBRXNhTUUyUFFDMk5RVGpIcHVfYzVNUnFGcXFqdHZ5NEVZeldnSUVKY3ZwcWRmT01fUUM5WjBZMEI2R0dEQ1E?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "US sends new carrier to Middle East amid reports of mental health crisis on USS Lincoln",
+          "neutralSummary": "US sends new carrier to Middle East amid reports of mental health crisis on USS Lincoln",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "New Aircraft Carrier Heads To Middle East Amid Reports Of USS Lincoln Issue",
+              "url": "https://www.ndtv.com/world-news/new-aircraft-carrier-heads-to-middle-east-amid-reports-of-uss-abraham-lincoln-issue-11907755#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "US sends new carrier to Middle East amid reports of mental health crisis on USS Lincoln",
+              "url": "https://timesofindia.indiatimes.com/world/middle-east/us-rushes-new-carrier-to-middle-east-amid-reports-of-mental-health-crisis-on-uss-lincoln/articleshow/133223354.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "'A moment that tore apart several lives': PM Modi on Partition Horrors Remembrance Day",
+          "neutralSummary": "'A moment that tore apart several lives': PM Modi on Partition Horrors Remembrance Day",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'A moment that tore apart several lives': PM Modi on Partition Horrors Remembrance Day",
+              "url": "https://timesofindia.indiatimes.com/india/a-moment-that-tore-apart-several-lives-pm-modi-on-partition-horrors-remembrance-day/articleshow/133227567.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "US court gives Trump's tariffs a 'rare' win",
+          "neutralSummary": "US court gives Trump's tariffs a 'rare' win",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "US court gives Trump's tariffs a 'rare' win",
+              "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-court-backs-trumps-power-to-close-de-minimis-tariff-exemption/articleshow/133226789.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Moneycontrol.com",
+              "initials": "M",
+              "domain": "news.google.com",
+              "headline": "Trump imposes up to 100% tariffs on imported drones, components",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc19sdjJNRHlGejZWT2pVRkhyZWpBaVp5QkdPUUhMYS1jR3UzQmpNNzNUeE55LVo3VnpZRXFETjRCaVVYeXA1RHFhVkJJNURPSnpPNm1hamszZmZMc1dPVWk5Rkt5NUZyOGdZcWYxNk1jT1NJYXVEaG1LNmRfY0NYQXRyX1dDN09sN3ZRM0RJUk1uLUFKQkd6ZlNxQi1sVjVCQ0ZkQ3dGOXV0by1XclRpZ2F1dHJsbGF6b2fSAb8BQVVfeXFMT0V1YndDaWptYWpYRmU2enk2N1c2S2xJdGs2Tzk0TEVYcDdxSXIyOWtzTThDYTVPdFd4aW5GZkMwZGZkZkFibnB1VGl4SzFIbzNZb1dzVnZDb1ljQzBid3RZTnRyWEdLNFR2ODVjSkJuRzRMSjZpRjlMTWktWEtPejNCUWdqUlJqNWU4dHd2blhmLWJnOHVpX3M1eV9ZdHJtbHpNRkJ0dVRZSjFpRDV4ekFHaXU5SS1IU1FGNk9UWVk?oc=5"
             }
           ]
         }
