@@ -1,40 +1,22 @@
 {
-  "generatedAt": "2026-08-18T02:46:23.087103+00:00",
+  "generatedAt": "2026-08-18T13:45:40.061232+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
-          "neutralSummary": "US president’s abrupt order to scale back joint exercises with Seoul is meant to ‘flatter’ North Korea’s dictator, top Democrat saysDonald Trump’s move to gut Washington’s 73-year-old military alliance with Seoul has been called “inane” and “shortsighted” as lawmakers warned it risked strengthening",
+          "neutralHeadline": "More and more Christian families pressured to leave the West Bank by Israeli settlers",
+          "neutralSummary": "Christian leaders and religious figures in the West Bank say difficult living conditions are pushing an increasing number of Christian families to leave their homes. The reality is threatening the historic presence of Christians in Palestinian territories. France 24's correspondent Majed Saeed repor",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
-              "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "BBC breaks down Trump's latest shift on North and South Korea",
-              "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Trump orders Pentagon to scale back joint exercises with South Korea",
-              "url": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea"
+              "headline": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+              "url": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank"
             },
             {
               "political": "left",
@@ -42,119 +24,33 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Trump says talking to North Korea’s Kim makes the south safer",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss"
+              "headline": "Palestinian-American confronts Israeli settler at his besieged home",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "More and more Christian families pressured to leave the West Bank by Israeli settlers",
+              "url": "https://www.france24.com/en/more-and-more-christian-families-pressured-to-leave-the-west-bank-by-israeli-settlers"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "US Ambassador Huckabee slams extreme group of Israeli settlers for seizing Palestinian homes on West Bank",
+              "url": "https://www.foxnews.com/world/us-ambassador-huckabee-slams-extreme-group-israeli-settlers-seizing-palestinian-homes-west-bank"
             }
           ]
         },
         {
           "id": "global-2",
-          "neutralHeadline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
-          "neutralSummary": "Israeli Prime Minister Benjamin Netanyahu and US envoy Jared Kushner agreed Monday that an American general would oversee the disarmament of Hamas, an Israeli official said, as Netanyahu insisted Israel would not withdraw from Gaza until the group gives up its weapons.The understanding comes as Pres",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Kushner Has A Rare Meeting With Hamas' Leader On The Gaza Road Map. A Meeting With Netanyahu Is Next",
-              "url": "https://www.huffpost.com/entry/ap-ml-mideast-wars-gaza_n_6a8242dee4b05886dff53857"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
-              "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-              "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmgyejFsV0U5RU5jOUxLNUNsX2tPLUxTbk8zeFZ1VUxxYjZCdy1kdm5mdURoVkJFY1NLVXFVMU8zZXpoaDgtdlBxQV9JNGxBM0Q4YWhtZEV3dlZSNjhOWnkyQjZpdHJtZ1VPc3FVU3p1VnljVEhBdm9HbnJIQTRKcG1mQTFaUy13WUQySEZ2R3pLMlZuZTFlYktLcHRTdEJfU3F5aEdORWNkWDg0UlRV0gG0AUFVX3lxTFBYQnN0THV1R0ZKNWc1TjVsTG1BYmpTOUZfOTJXeVoxUlh2cTczd2I0dnJfUHgtM2x3S1M1bXRpXzl3bFVEYzFJYjRueFNpbThVN1dHNXcwRE1UOG14dERTcGtLTUs5c2xDdFBEa3dyU3VmZmJVcmV5MlphZEh2d0MwMDMwOEhDdHFqQnQwOHVfMU9ONTNvb2xpZmwxUEZ4M3R3UDcyOW9vRDVUUnpnX1JDSW5FTQ?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Netanyahu, Kushner agree US general to verify Hamas disarmament before Israel withdraws from Gaza",
-              "url": "https://www.france24.com/en/middle-east/20260817-netanyahu-kushner-agree-us-general-verify-hamas-disarmament-before-israel-withdraws-from-gaza"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal",
-          "neutralSummary": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-              "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "60 days after signing Iran deal, Trump stuck in quagmire as war drags on",
-              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVW11cldIazMtZ3FxdFMxclNuV2E0bkxXS1NQTW5fdlVtTmk4WWgyemVPSEJvOE5VWk5RRS1PckxxOWtqdURsOTJ0YTcxZERta1lkSm1UbkQ5TXpMRGh2UEw4NzIwa3kxZ2R2MkgtSk1EbTRsaGplZnpLdGJWcmM1ci1FTXJlM2tkZk1rcmxGbS0xS2J5UWJpQm9RbFdYVjViOWdGbWNLb2NzdTNmaUtLeTFjZG1PVUN4S1JlZEhOOA?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Trump says Iran will not make the deal he believes is necessary",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Middle East live: Trump threatens to bomb Oman if they get in way of Hormuz shipping deal",
-              "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "US-Iran Prospects Dim as Trump Seems in No Hurry to Reach Deal",
-              "url": "https://www.bloomberg.com/news/videos/2026-08-17/trump-likes-the-idea-of-declaring-hormuz-a-territory-video"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "DR Congo Ebola outbreak becomes country’s deadliest",
-          "neutralSummary": "The DRC’s latest Ebola outbreak has killed 2,325 people, making it the country’s deadliest outbreak on record. Nearly 5,000 cases have been confirmed as the virus spreads to a sixth province, while health authorities work to tackle mistrust and contain transmission. Two vaccines have also entered ea",
+          "neutralHeadline": "Ebola in DRC: Deadliest outbreak on record ‘outpacing the response’",
+          "neutralSummary": "Eve Irvine is pleased to welcome WHO Spokesperson Tarik Jašarević. His central concern is that we do not yet know where all the places the Ebola virus is circulating: infected people remain outside treatment centres, transmission chains go undetected, and patients who seek care too late face much po",
           "versions": [
             {
               "political": "left",
@@ -175,38 +71,29 @@
               "url": "https://www.huffpost.com/entry/ebola-outbreak-congo_n_6a823ee0e4b0b3bc96f6df4c"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Ebola outbreak in DR Congo becomes deadliest in its history",
-              "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss"
-            },
-            {
               "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "DR Congo Ebola outbreak becomes country’s deadliest",
-              "url": "https://www.france24.com/en/dr-congo-ebola-outbreak-becomes-country-s-deadliest"
+              "headline": "Ebola in DRC: Deadliest outbreak on record ‘outpacing the response’",
+              "url": "https://www.france24.com/en/ebola-in-drc-deadliest-outbreak-on-record-outpacing-the-response"
             }
           ]
         },
         {
-          "id": "global-5",
-          "neutralHeadline": "Russia warns UK over supplying drones to Ukraine",
-          "neutralSummary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+          "id": "global-3",
+          "neutralHeadline": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
+          "neutralSummary": "Lee Jae Myung reiterates desire for full command back in Seoul’s hands after Donald Trump cuts joint exercises, citing warm ties with Kim Jong-un‘Inane, haphazard decision’ by Trump to gut South Korea allianceSouth Korea’s president ⁠has renewed his push to regain independent control of the military",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Russia warns UK over supplying drones to Ukraine",
-              "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
+              "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un"
             },
             {
               "political": "left",
@@ -214,17 +101,76 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "As war with Ukraine wages on, a look at life inside Russia",
-              "url": "https://www.npr.org/2026/08/17/nx-s1-5933043/as-war-with-ukraine-wages-on-a-look-at-life-inside-russia"
+              "headline": "Trump orders Pentagon to scale back joint exercises with South Korea",
+              "url": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Kushner Has A Rare Meeting With Hamas' Leader On The Gaza Road Map. A Meeting With Netanyahu Is Next",
+          "neutralSummary": "U.S. negotiator Jared Kushner has held a rare meeting with the Hamas chief in Egypt in a push to make progress on the stalled Gaza ceasefire.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Kushner Has A Rare Meeting With Hamas' Leader On The Gaza Road Map. A Meeting With Netanyahu Is Next",
+              "url": "https://www.huffpost.com/entry/ap-ml-mideast-wars-gaza_n_6a8242dee4b05886dff53857"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+              "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
               "domain": "news.google.com",
-              "headline": "How Ukraine’s Satellites Help Drive Its War Drones",
-              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWNHZFA3LWpoWUp1NHhsSndKeUhxYUI1bGVFTVRKdy1YLVUzVE9PYlJZa3BtVlNqY2dEbWhmX3VldV9vYVdTTmwxbGhRZXhlTk9GWkljMFFGOGJqTEd4WTNUVXZsZWNBbEEzVFNTTVViektDZHR4b0xFYWEyZTR2TmVDbmlMZzhlT2NtbA?oc=5"
+              "headline": "Kushner, Netanyahu make little progress on advancing Gaza deal after meeting",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3lGVlRVWXZIQms1SjhydXhxTmNiX1drNURRNjR1WHg1ek1nSktCc1B5YkRQN0dDaXB4ZWVJWUU2V0hIOEhERXVBSXZ6SFcwdzljeFk2NllrSjV6YnNYZFV0MUNVYXlLZG15aE1BcW0zYXNaZW9vVzNzZkY0bjk5dDF4U2lQa0V1TW95M2FmY1NFOURBa0EtWVducWozSXo3YksycUk3UkJpNUE?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Trump threatens to bomb Oman, as its ally tires to mediate Iran negotiations",
+          "neutralSummary": "As the 60-day ceasefire deadline passes, US President Donald Trump is lashing out at an American ally trying to mediate negotiations between the US and Iran. Using an expletive, Trump threatened to bomb Oman if it \"gets in the way.\" This isn’t the first time Trump has threatened Oman. Details by Mon",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+              "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Why has Trump threatened to bomb Oman – for a second time?",
+              "url": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Trump threatens to bomb Oman, as its ally tires to mediate Iran negotiations",
+              "url": "https://www.france24.com/en/trump-threatens-to-bomb-oman-as-its-ally-tires-to-mediate-iran-negotiations"
             }
           ]
         },
@@ -255,8 +201,8 @@
         },
         {
           "id": "global-7",
-          "neutralHeadline": "Youngest Black Professor At Cambridge Who Faced Plagiarism Claims Is Found Dead",
-          "neutralSummary": "A British sociologist who resigned from the University of Cambridge last week following plagiarism accusations was found dead Friday.",
+          "neutralHeadline": "Russian State Bank Fires Economist Who Warned Moscow Losing ‘War Of Attrition’",
+          "neutralSummary": "“We have the illusion that everything [in Ukraine] will collapse. It has not collapsed and will not collapse. Our costs are mounting,” said Andrei Klepach.",
           "versions": [
             {
               "political": "left",
@@ -264,24 +210,24 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Youngest Black Professor At Cambridge Who Faced Plagiarism Claims Is Found Dead",
-              "url": "https://www.huffpost.com/entry/britain-cambridge-professor_n_6a7f8b72e4b0ddd9c1b2143e"
+              "headline": "Russian State Bank Fires Economist Who Warned Moscow Losing ‘War Of Attrition’",
+              "url": "https://www.huffpost.com/entry/russian-economist-losing-war-fired_n_6a833eb7e4b0ddd9c1b30533"
             },
             {
-              "political": "left",
+              "political": "right",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-              "url": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Russian state economist fired after stark warning about Moscow’s economic future",
+              "url": "https://www.foxnews.com/world/russian-state-economist-fired-after-stark-warning-about-moscows-economic-future"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Russia's prominent anti-war politician jailed for 11 years",
-          "neutralSummary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+          "neutralHeadline": "UK will support Ukraine \"100%\" despite Russian warning, PM Burnham says",
+          "neutralSummary": "UK will support Ukraine \"100%\" despite Russian warning, PM Burnham says&nbsp;&nbsp;ReutersUK 'supports Ukraine 100%', Burnham says, after Russia's drone warning&nbsp;&nbsp;BBCWhat is behind Russia’s ‘consequences’ threat over UK sending drones to Ukraine?&nbsp;&nbsp;The GuardianUK drones used for ‘d",
           "versions": [
             {
               "political": "left",
@@ -289,15 +235,24 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Russia's prominent anti-war politician jailed for 11 years",
-              "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss"
+              "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+              "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "UK will support Ukraine \"100%\" despite Russian warning, PM Burnham says",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-          "neutralSummary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
+          "neutralHeadline": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+          "neutralSummary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
           "versions": [
             {
               "political": "left",
@@ -305,17 +260,17 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-              "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss"
+              "headline": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+              "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Hayden Panettiere’s dad ‘was just starting’ to recover from son’s 2023 death when actress died: neighbors",
-              "url": "https://nypost.com/2026/08/17/us-news/hayden-panettieres-dad-was-just-starting-to-recover-from-sons-2023-death-when-actress-died-neighbors/"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Tupac Shakur murder trial begins thirty years after his death",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tupac-shakur-murder-trial-begins-thirty-years-after-his-death?traffic_source=rss"
             }
           ]
         }
@@ -326,8 +281,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Trump voted by mail in Florida primary election: Report",
-          "neutralSummary": "President Trump last week returned a mail-in ballot ahead of Florida&#8217;s primary election on Tuesday, Politico reported Monday, the second time he has done so amid his unfounded claims that mail-in voting contributes to election fraud. The outlet added that Trump requested his ballot in late Jul",
+          "neutralHeadline": "This primary is \"like 'Florida Man' having his own election\"",
+          "neutralSummary": "This primary is \"like 'Florida Man' having his own election\"&nbsp;&nbsp;AxiosFlorida Primary Underscores State’s New Identity as a Republican Juggernaut&nbsp;&nbsp;The New York TimesFlorida voters choose in governor, Senate primaries and more races to watch today&nbsp;&nbsp;CBS NewsWhat to watch in",
           "versions": [
             {
               "political": "left",
@@ -335,42 +290,8 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Trump Votes by Mail Again in Florida",
-              "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-mail-vote-florida-election.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump voted by mail in Florida primary election: Report",
-              "url": "https://thehill.com/homenews/administration/6034201-trump-returns-mail-in-ballot/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump votes by mail in Florida election for second time this year: Report",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4690692/trump-votes-by-mail-florida-primary/"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Actress Hayden Panettiere, star of ‘Heroes’ and ‘Nashville,’ dies at 36",
-          "neutralSummary": "Ms. Panettiere was in cardiac arrest before she died, the coroner’s office said. In a May memoir, she detailed the difficulties she had growing up in the public eye.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Actress Hayden Panettiere, star of ‘Heroes’ and ‘Nashville,’ dies at 36",
-              "url": "https://www.washingtonpost.com/obituaries/2026/08/17/hayden-panettiere-former-child-actress-who-starred-heroes-dies-36/"
+              "headline": "Florida Primary Underscores State’s New Identity as a Republican Juggernaut",
+              "url": "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html"
             },
             {
               "political": "left",
@@ -378,24 +299,24 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
-              "url": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies"
+              "headline": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+              "url": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers"
             },
             {
-              "political": "right",
+              "political": "center",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Hayden Panettiere’s dad ‘was just starting’ to recover from son’s 2023 death when actress died: neighbors",
-              "url": "https://nypost.com/2026/08/17/us-news/hayden-panettieres-dad-was-just-starting-to-recover-from-sons-2023-death-when-actress-died-neighbors/"
+              "source": "Axios",
+              "initials": "AX",
+              "domain": "news.google.com",
+              "headline": "This primary is \"like 'Florida Man' having his own election\"",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EdC04aHRSaXJLSGExRzUwU1Jlajd4VTUtRDRfdktFVXo2dzNVVFZOTXE0T0VsaV81RUFmbUgyeHg5WHFHRlRqUHQ4WlBuVVV1QlpEejNfczZxNVBvcklkZWZFSVp3OF9Wdzc2S2piTW5IX295QzRr?oc=5"
             }
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "Trump lashes out at South Korea over its refusal to join Iran war",
-          "neutralSummary": "Trump lashes out at South Korea over its refusal to join Iran war&nbsp;&nbsp;PBSFact check: Every single part of this Trump story about South Korea is wrong&nbsp;&nbsp;CNN‘Not the way it works’: Korea’s miscalculation on trade may cost them on security&nbsp;&nbsp;PoliticoFacing Quagmire in Iran, Tru",
+          "id": "us-2",
+          "neutralHeadline": "White House Triples Down After Trump Snaps At CNN Reporter",
+          "neutralSummary": "It’s unhinged, even for the Trump White House.",
           "versions": [
             {
               "political": "left",
@@ -403,33 +324,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Trump Scales Back Military Exercises With South Korea Because They're Not Nice For Kim Jong Un",
-              "url": "https://www.huffpost.com/entry/donald-trump-south-korea-north-korea_n_6a825b4ae4b0b3bc96f6e554"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "PBS",
-              "initials": "P",
-              "domain": "news.google.com",
-              "headline": "Trump lashes out at South Korea over its refusal to join Iran war",
-              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMzdqMkJnQ0pQYVJQZzJoTmlNakFNekJtZTJtY0R0Z2ZhNGQ1bW9nUzF6OElWZ0hFaUM2YzB3X0Y4Wjc0TGliNndLNk5vQ1pncVcxOE1EaEN3RUZ5aHpIVkZHOTM4c0J4QWFpMldtUnJBbERQc0liQlRuRjdTWWZlNmZHM0RyaGpYRzRZamxDMkpWTU9Ed1FuUTBxVGMyWDRH?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Why Trump is tearing up a beloved national park",
-          "neutralSummary": "This story appeared in&#160;The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&#160;Subscribe here. Welcome to The Logoff: Remember President Donald Trump’s first-term border wall? It’s still being built — th",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Why Trump is tearing up a beloved national park",
-              "url": "https://www.vox.com/the-logoff-newsletter-trump/499508/trump-big-bend-national-park-border-wall-security-construction"
+              "headline": "White House Triples Down After Trump Snaps At CNN Reporter",
+              "url": "https://www.huffpost.com/entry/trump-snaps-female-cnn-reporter_n_6a837528e4b05886dff64767"
             },
             {
               "political": "right",
@@ -437,13 +333,104 @@
               "source": "NY Post",
               "initials": "NYP",
               "domain": "nypost.com",
-              "headline": "Trump admin briefly pauses contentious border project in Texas’ Big Bend National Park",
-              "url": "https://nypost.com/2026/08/17/us-news/trump-admin-briefly-pauses-contentious-border-project-in-texas-big-bend-national-park/"
+              "headline": "White House officials slam ‘cringeworthy theatre kid’ Jon Ossoff after senator’s Trump dig",
+              "url": "https://nypost.com/2026/08/18/us-news/white-house-officials-slam-theatre-kid-jon-ossoff-after-trump-dig/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Residents on Hawaii’s Big Island Look to Help One Another After Hurricane Lala",
+          "neutralSummary": "In a remote region of the ravaged Big Island, there were  community gas runs, donated turkey stuffing, a makeshift emergency broadcast and even a helicopter.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Residents on Hawaii’s Big Island Look to Help One Another After Hurricane Lala",
+              "url": "https://www.nytimes.com/2026/08/18/us/hawaii-hurricane-lala-community-relief.html"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "What to watch Tuesday: Redistricting scrambles Florida as Alaska pits Dan Sullivan v. Dan Sullivan",
+          "neutralSummary": "What to watch Tuesday: Redistricting scrambles Florida as Alaska pits Dan Sullivan v. Dan Sullivan&nbsp;&nbsp;AP NewsVoters weigh a DeSantis successor and other key races to watch in Florida, Alaska and Wyoming&nbsp;&nbsp;CNNLive updates: Florida, Alaska voters head to polls; federal trial opens in",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "What to Watch in Tuesday’s Primary Elections in Alaska, Florida and Beyond",
+              "url": "https://www.nytimes.com/2026/08/18/us/politics/what-to-watch-primary-elections.html"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "What to watch Tuesday: Redistricting scrambles Florida as Alaska pits Dan Sullivan v. Dan Sullivan",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3dJd1RyX09ralRMT3BWakRraWlTUWZKYUU3aHBJS2hwYnNTeHlsYlBIT2owcW5lRGh4SGswRU85cF9GaGZadUhXQzZjampXcFFUS3pVQ1QzOWl5bGhGcGU2aTMxdnlKR2lRZzJqVUF3NDNvcjBqVWVoTlFadGdFQnNaT1kyeGp6XzR6Q3BZUkxvQTV0bXliWmtDR05ScThkUDdsS2l4RW9nQmxM?oc=5"
             }
           ]
         },
         {
           "id": "us-5",
+          "neutralHeadline": "Judge orders release of woman accused of WWII Memorial vandalism",
+          "neutralSummary": "A Kentucky woman accused of vandalizing the World War II Memorial on the National Mall was released from custody Monday but ordered to stay away from the national monument, according to court documents. Melissa L. Farris, 41, was charged with depredation against property of the United States and des",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Pirro Challenges Release of Woman Accused of Vandalizing World War II Memorial",
+              "url": "https://www.nytimes.com/2026/08/18/us/politics/wwii-memorial-vandalism-trump-pirro.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Judge orders release of woman accused of WWII Memorial vandalism",
+              "url": "https://thehill.com/regulation/court-battles/6034717-judge-order-release-suspect-world-war-2-memorial-vandalism/"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Tina Peters offered job as elections consultant in California",
+          "neutralSummary": "Former Colorado elections clerk Tina Peters was offered a new role Monday as an assistant registrar of voters for a county in Northern California following her release from prison over efforts to subvert the 2020 presidential election. In an appearance on “The Northstar Breakdown,” Clint Curtis, a S",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "A California County Eyes a New Hire: Tina Peters, the Election Denier",
+              "url": "https://www.nytimes.com/2026/08/17/us/california-voting-shasta-county-tina-peters.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Tina Peters offered job as elections consultant in California",
+              "url": "https://thehill.com/homenews/state-watch/6034702-tina-peters-california-clerk/"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
           "neutralHeadline": "House Panel Investigates Charges a Democrat Had Sexual Contact With Aide",
           "neutralSummary": "Representative Jimmy Gomez of California acknowledged “personal mistakes” outside his marriage but denied breaking rules that bar relationships with a direct subordinate.",
           "versions": [
@@ -468,75 +455,9 @@
           ]
         },
         {
-          "id": "us-6",
-          "neutralHeadline": "Appeals Court Rejects Trump’s Strategy of Picking U.S. Attorneys",
-          "neutralSummary": "It was the second federal appellate decision to take issue with the administration’s custom of leaving interim prosecutors in place to lead U.S. attorney’s offices to circumvent congressional approval.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Appeals Court Rejects Trump’s Strategy of Picking U.S. Attorneys",
-              "url": "https://www.nytimes.com/2026/08/17/us/us-attorneys-interim-appointments.html"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Welcome to The Local: Twin Cities",
-          "neutralSummary": "We’ll be sharing neighborhood news and, today, talking with Hope Walz. We’ll also be revealing what Wirecutter is reviewing at the State Fair.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Welcome to The Local: Twin Cities",
-              "url": "https://www.nytimes.com/2026/08/17/us/the-local-twin-cities-launch.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Welcome To The CCP Of NYC",
-              "url": "https://www.dailywire.com/news/welcome-to-the-ccp-of-nyc"
-            }
-          ]
-        },
-        {
           "id": "us-8",
-          "neutralHeadline": "Feds pausing Big Bend border construction while CBP commissioner visits the park",
-          "neutralSummary": "Feds pausing Big Bend border construction while CBP commissioner visits the park&nbsp;&nbsp;texastribune.orgSee more headlines & perspectives on Google News",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Border Construction in Big Bend Is Halted After Drawing Criticism",
-              "url": "https://www.nytimes.com/2026/08/17/us/big-bend-border-wall-texas-construction.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "texastribune.org",
-              "initials": "T",
-              "domain": "news.google.com",
-              "headline": "Feds pausing Big Bend border construction while CBP commissioner visits the park",
-              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc21ScHBwc3F6eWdTclRwWmJhUEVCZHd1bmw1WmVDX3lwRGRWOWR2VmtQTzdBdDVveTU2eTlSRzE0b05ldklnU05pN2FvSTFXQlNDN1p5X3hNb3Y0UmI1M0lKYlkybFg3N1RjRFkyZ1IyZW1oZ3hTMnVRTC05N1dobmlhRFJCMzg5Y0xEcWZCS0d4U1JETHhPSG1FMjdzNGpCZ3c?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Judge delays Luigi Mangione’s state murder trial after double jeopardy claim",
-          "neutralSummary": "Judge delays Luigi Mangione’s state murder trial after double jeopardy claim&nbsp;&nbsp;NBC NewsLuigi Mangione’s state murder trial effectively postponed&nbsp;&nbsp;CNNLuigi Mangione reveals motive for CEO's killing after pleading guilty in federal case&nbsp;&nbsp;PBSMangione’s State Trial Is Delaye",
+          "neutralHeadline": "Judge delays Mangione’s state trial after lawyers sought dismissal",
+          "neutralSummary": "On Monday, Judge Gregory Carro issued an order giving prosecutors until Oct. 9 to respond to Mangione’s lawyers’ motion that the state charges be dismissed.",
           "versions": [
             {
               "political": "left",
@@ -546,15 +467,22 @@
               "domain": "washingtonpost.com",
               "headline": "Judge delays Mangione’s state trial after lawyers sought dismissal",
               "url": "https://www.washingtonpost.com/nation/2026/08/17/judge-delays-mangiones-state-trial-after-lawyers-sought-dismissal/"
-            },
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+          "neutralSummary": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?",
+          "versions": [
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "NBC News",
-              "initials": "NN",
-              "domain": "news.google.com",
-              "headline": "Judge delays Luigi Mangione’s state murder trial after double jeopardy claim",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTlUa1hyVVc5SzJYaGhuVklZaUY5STZXeGdBOS1ybDNiVzZ5Wk5fTm8zeEF3eTEzODJGdUdkX2xCYVZNeThxNVpqUURydHJ6TVZKejlFd0Z1dkxTcmFFdERaN1l4cFBSTFMtbi1JOTRjRW1XSDlNeV9PLXVTTFhFdV9qU3lTX1Jf?oc=5"
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+              "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health"
             }
           ]
         }
@@ -565,8 +493,33 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "South Korea reviewing Trump's comments on downsizing drills, hopes for US-North Korea talks",
-          "neutralSummary": "The Blue House said it would continue diplomatic consultations on US-Korea military cooperation related to the Strait of Hormuz, while discussing details on joint military drills with the United States.",
+          "neutralHeadline": "OpenAI launches ChatGPT for teens amid youth safety concerns",
+          "neutralSummary": "ChatGPT for Teens comes with reduced exposure to content that may be harmful or developmentally inappropriate.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "OpenAI launches ChatGPT for teens amid youth safety concerns",
+              "url": "https://www.straitstimes.com/tech/openai-launches-chatgpt-for-teens-amid-youth-safety-concerns"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls",
+              "url": "https://www.channelnewsasia.com/business/openai-unveils-chatgpt-teens-stronger-guardrails-parental-controls-6325946"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "Asian allies stress 'critical' US cooperation as Trump slashes Korea drills",
+          "neutralSummary": "Japan's calls for cooperation came after US President Donald Trump downsized military drills with South Korea, praised his relationship with North Korea's Kim Jong Un and lashed out at Seoul for not helping Washington fight Iran.",
           "versions": [
             {
               "political": "center",
@@ -574,8 +527,8 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "South Korea reviewing Trump's comments on downsizing drills, hopes for US-North Korea talks",
-              "url": "https://www.channelnewsasia.com/east-asia/south-korea-trump-us-drills-north-talks-6323391"
+              "headline": "Asian allies stress 'critical' US cooperation as Trump slashes Korea drills",
+              "url": "https://www.channelnewsasia.com/world/trump-slash-korea-drills-critical-cooperation-6325186"
             },
             {
               "political": "left",
@@ -589,91 +542,27 @@
           ]
         },
         {
-          "id": "singapore-2",
-          "neutralHeadline": "PAP, WP continue to clash over opposition party’s economic proposals",
-          "neutralSummary": "The debate has continued online following criticism of the WP by a former senior minister of state.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "PAP, WP continue to clash over opposition party’s economic proposals",
-              "url": "https://www.straitstimes.com/singapore/politics/pap-wp-continue-to-clash-over-opposition-partys-economic-proposals"
-            }
-          ]
-        },
-        {
           "id": "singapore-3",
-          "neutralHeadline": "Police appeal for information on missing girl, last seen off Upper Serangoon Road",
-          "neutralSummary": "The girl was wearing a black jacket and greyish-black pants.",
+          "neutralHeadline": "Philippine student live-streamed fatal school shooting before taking own life: Official",
+          "neutralSummary": "The student shot and killed another student and injured two others before taking his own life.&nbsp;",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Police appeal for information on missing girl, last seen off Upper Serangoon Road",
-              "url": "https://www.straitstimes.com/singapore/police-appeal-for-information-on-missing-girl-last-seen-off-upper-serangoon-road"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Philippine student live-streamed fatal school shooting before taking own life: Official",
+              "url": "https://www.channelnewsasia.com/asia/philippines-school-shooting-two-dead-zamboanga-6324951"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "AsiaOne",
-              "initials": "A",
-              "domain": "news.google.com",
-              "headline": "Missing 13-year-old girl last seen in Tanjong Rhu found, Singapore News",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDREdC1HSGpNeU1UREJ6Zk5rSy0tNVRmRU5OcVQ5YjdKbDhDU2ZrNTI1b3hVY1hTTlhRX0dhdlVuOVh4LXItYWNWVnlhUk5hLVZhajRCZDN3WXYtVHRNT3Vjcml0ZTdJRlZsbERPbG9kSmdzWm5Cb2xXRlNUaUtyRWJkWC15RUx5X0R6R2VB?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Loosened nightlife rules for Boat Quay, Clarke Quay to be formalised after year-long pilot",
-          "neutralSummary": "As at June 2026, 37 applications for new bars, pubs and nightclubs were approved.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
               "source": "Straits Times",
               "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Loosened nightlife rules for Boat Quay, Clarke Quay to be formalised after year-long pilot",
-              "url": "https://www.straitstimes.com/singapore/loosened-nightlife-rules-for-boat-quay-clarke-quay-to-be-made-permanent-after-year-long-pilot"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Millions of guns, repeated shootings: Thailand confronts limits of firearm control",
-          "neutralSummary": "Thailand eyes tougher firearms rules after deadly shootings, but a CNA probe finds illegal weapons easy to buy. Experts say gun control is an elusive target.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Millions of guns, repeated shootings: Thailand confronts limits of firearm control",
-              "url": "https://www.channelnewsasia.com/asia/thailand-gun-violence-school-shooting-firearms-control-6323466"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "South Korea landslide kills one as heavy rains sweep southern areas: Reports",
-          "neutralSummary": "Rescue workers pulled three residents from a residential apartment building in Geoje, South Gyeongsang province, after a landslide buried the first floor, with one person later pronounced dead at a hospital.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "South Korea landslide kills one as heavy rains sweep southern areas: Reports",
-              "url": "https://www.channelnewsasia.com/east-asia/south-korea-landslide-heavy-rains-kill-one-6322861"
+              "domain": "news.google.com",
+              "headline": "Student live-streamed fatal school shooting before taking own life, official says",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOTIwME5hY2RvTmZ1dDBQQnhLNzFaZ1RzTU5VR19VMVFKdmFVMkV5aVBHTXM5UVBaZEt4R3R0TVVVTmVEYlU0cEd1RUprNTBmR1JfbHZVR1VfbkNYM0kxZV9GQlo5QmdiZ1ptalY1UGppRzdLRHBpeXFfMXBPRDg2WkZUWEEza1c0VHQyS3g2R3pCUW50emNJUVFaNkpVVDE5RnplUXQ0bzJkdXNUTUJWam9HTWhqNWVwcU9xYldmaENUMVJqX2h6Mg?oc=5"
             },
             {
               "political": "left",
@@ -681,56 +570,122 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Record rains drench South Korean city as landslide kills one",
-              "url": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss"
+              "headline": "Student killed in Philippines Catholic school shooting",
+              "url": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Six more bus interchanges, including Bishan and Tampines, to get upgraded facilities",
+          "neutralSummary": "Starting in 2027, the enhancement works will be done in phases to minimise disruption to services.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Six more bus interchanges, including Bishan and Tampines, to get upgraded facilities",
+              "url": "https://www.straitstimes.com/singapore/transport/six-more-bus-interchanges-including-bishan-and-tampines-to-get-upgraded-facilities"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "15-year-old girl arrested over bomb hoax at Xinmin Secondary School",
+          "neutralSummary": "The threat was made on Aug 13, but no suspicious items were found on the school premises.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "15-year-old girl arrested over bomb hoax at Xinmin Secondary School",
+              "url": "https://www.straitstimes.com/singapore/15-year-old-arrested-in-relation-to-bomb-hoax-at-xinmin-secondary-school"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Teenage girl arrested over bomb hoax that forced Xinmin Secondary School evacuation",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY3FNSlpqcFlKbkFnQUlaQkV1WXl6WGhscm5CTTU3bEN2R0VzbXhVX01Ma2hMd0kxMlZMdTVIaS1Mc1NFcUd6UnVqZFZfeUktdHZWWGxqWnRQYTNGMVA3cmQzQzV0TVprRllVWlYwblJJSDE5cjEtRmdaZlpNVS1OczNlSkF3X3pfNjBjZTc0cDhRNUtNVGhaWjF2N2p1OWxqX0VB?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Social media platforms must verify advertisers’ identities under new Singapore code",
+          "neutralSummary": "Failure to comply is a criminal offence under the Online Criminal Harms Act, which may result in fines of up to $1 million.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Social media platforms must verify advertisers’ identities under new Singapore code",
+              "url": "https://www.straitstimes.com/tech/social-media-platforms-must-verify-advertisers-identities-under-new-singapore-code"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "30% more delivery capacity, 20% lower fuel bill: How this S’pore courier found a greener route to growth",
-          "neutralSummary": "Home-grown SME XDel uses real-time route planning to cut wasted mileage and boost delivery capacity.",
+          "neutralHeadline": "All-day dining, hydrotherapy pool, hair salon bus at S’pore’s first private assisted living project",
+          "neutralSummary": "Basic assisted living packages start at $8,000 a month.",
           "versions": [
             {
               "political": "center",
-              "tone": "optimistic",
+              "tone": "neutral",
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "30% more delivery capacity, 20% lower fuel bill: How this S’pore courier found a greener route to growth",
-              "url": "https://www.straitstimes.com/singapore/courier-service-cuts-fuel-costs-boosts-delivery-enterprise-singapore"
+              "headline": "All-day dining, hydrotherapy pool, hair salon bus at S’pore’s first private assisted living project",
+              "url": "https://www.straitstimes.com/singapore/housing/luxury-eldercare-from-8k-to-over-13k-a-month-at-singapores-first-private-assisted-living-project"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "sg.news.yahoo.com",
+              "initials": "S",
+              "domain": "news.google.com",
+              "headline": "All-day dining, hydrotherapy pool, hair salon bus at S’pore’s first private assisted living project",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BZ3Bwa05NY1NxRUZwREpOd3Y4ZjVYWnVVOFhhQ3VSc3NMbEI2TElBVGZxaHYzSS0zYmxTUHNab2tudlF3NDRIM1hSY25TazIwRDN6M3BZeGdTUmlxcmsxMTI1cVYxZ0VqNXlaUmMxQVp4aTRlVjBveg?oc=5"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Helping Singapore age well: How this company supports employees and the wider community",
-          "neutralSummary": "From providing nutritional support for older employees to encouraging staff to volunteer with seniors, Nestle Singapore is embedding care into both its workplace and the communities it serves.",
+          "neutralHeadline": "Malaysia considering consumption tax reform: Prime Minister Anwar",
+          "neutralSummary": "Malaysia previously scrapped the goods and services tax&nbsp;amid an outcry over rising living costs.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Helping Singapore age well: How this company supports employees and the wider community",
-              "url": "https://www.straitstimes.com/singapore/helping-seniors-age-well-how-company-supports-employees-and-community-nestle"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Malaysia considering consumption tax reform: Prime Minister Anwar",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-pm-anwar-consumption-tax-reform-gst-6325246"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Beyond qualifications and experience: What employers really want from jobseekers",
-          "neutralSummary": "Beyond qualifications and experience: What employers really want from jobseekers",
+          "neutralHeadline": "Bond yields jump, oil extends gains as US-Iran ceasefire expires",
+          "neutralSummary": "Bond yields jump, oil extends gains as US-Iran ceasefire expires",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Beyond qualifications and experience: What employers really want from jobseekers",
-              "url": "https://www.straitstimes.com/singapore/jobs/sph-media-career-expo-what-employers-really-want"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Bond yields jump, oil extends gains as US-Iran ceasefire expires",
+              "url": "https://www.channelnewsasia.com/business/bond-yields-jump-oil-extends-gains-us-iran-ceasefire-expires-6324846"
             }
           ]
         }
@@ -741,8 +696,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "'Every voter had valid ID': Trump praises India polls, renews push for SAVE America Act",
-          "neutralSummary": "'Every voter had valid ID': Trump praises India polls, renews push for SAVE America Act",
+          "neutralHeadline": "Army chief Seth meets Nepal PM Shah, discusses defence ties amid border tensions",
+          "neutralSummary": "Army chief Seth meets Nepal PM Shah, discusses defence ties amid border tensions",
           "versions": [
             {
               "political": "left",
@@ -750,8 +705,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Trump's Nod To India's Electoral System In Push For Mandatory US Voter ID",
-              "url": "https://www.ndtv.com/world-news/trumps-nod-to-indias-electoral-system-in-push-for-mandatory-us-voter-id-11923535#publisher=newsstand"
+              "headline": "Army Chief Meets Nepal PM, Discusses Bilateral Military Ties",
+              "url": "https://www.ndtv.com/india-news/army-chief-general-dhiraj-seth-meets-nepal-pm-balendra-shah-discusses-bilateral-military-ties-11926187#publisher=newsstand"
             },
             {
               "political": "center",
@@ -759,124 +714,65 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "'Every voter had valid ID': Trump praises India polls, renews push for SAVE America Act",
-              "url": "https://timesofindia.indiatimes.com/india/everyone-had-valid-photo-id-trump-recalls-talk-with-cec-gyanesh-kumar-praises-indias-election-system/articleshow/133308662.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Trump cites Gyanesh Kumar while renewing push for SAVE America Act, praises India's voter ID system",
-              "url": "https://www.hindustantimes.com/india-news/trump-cites-gyanesh-kumar-while-renewing-push-for-save-act-praises-indias-voter-id-system-101787013701985.html"
+              "headline": "Army chief Seth meets Nepal PM Shah, discusses defence ties amid border tensions",
+              "url": "https://timesofindia.indiatimes.com/india/army-chief-seth-meets-nepal-pm-shah-discusses-defence-ties-amid-border-tensions/articleshow/133323379.cms"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "‘Huge victory for Jharkhand’: Mahto ends hunger strike after Soren govt accepts demands",
-          "neutralSummary": "‘Huge victory for Jharkhand’: Mahto ends hunger strike after Soren govt accepts demands",
+          "neutralHeadline": "Ship Hit By \"Unknown Projectile\" In Hormuz As US-Iran Deadlock Continues",
+          "neutralSummary": "An unidentified projectile damaged the ship's engine room and \"resulted in a crew casualty\"",
           "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "‘Huge victory for Jharkhand’: Mahto ends hunger strike after Soren govt accepts demands",
-              "url": "https://timesofindia.indiatimes.com/india/huge-victory-for-jharkhand-student-leader-mahto-ends-16-day-hunger-strike-after-soren-govt-accepts-demands/articleshow/133306400.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "J’khand protests: Soren accepts students’ demands",
-              "url": "https://economictimes.indiatimes.com/news/india/jharkhand-cabinet-cancels-jssc-cgl-exam-amidst-student-protests-cm-hemant-soren-says/articleshow/133301582.cms"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Ship Hit By \"Unknown Projectile\" In Hormuz As US-Iran Deadlock Continues",
+              "url": "https://www.ndtv.com/world-news/ship-hit-by-unknown-projectile-in-hormuz-as-us-iran-deadlock-continues-11926268#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
               "domain": "news.google.com",
-              "headline": "Jharkhand Student Leader Devendra Nath Mahto Ends Hunger Strike",
-              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTFxZlVxdnEzRzlNcTRVRzE3RUVsUHB4V1BBbU1UX3V6T2I4SExSVmtNQnNSNGhpVjg5bjAzV2dTbEVGN1MxVzhTUTBoOGVDWkwxbEpLY2xOeVZTN1Fuc2RvZERseVBIQ0h1ck5DQUxkXzJabTJaY2ZObzNaUlZ1czVSeGoxakZoTWZoMGMwTmtaamVvSFZNQVhHYWFUNUhsU3N4enRXdw?oc=5"
+              "headline": "Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdnhsTnlwVkVUTjEzcmw0cVhsUDZxVUoyUDl6WkNSSXp1SEx1c1AzQ1pwcloxN3RnMUV5SU9oSnJzcm1aQkRIV1hPMnBqWDAwMGp4T1g3YmxJT05qSGVxZm5LcDlmY3p5UkY5el82UHplTzR0R3dMWUQ1dzRvU2sxNTUxanRDVlMwVV9ab3EzRkYwLVFYWVdLcWVpXzVXLVktcG9odVdGSdIBrAFBVV95cUxQWmg0WGhUZzNuTDBDYkNzeDdJMjRVMEJRRFJLcENEaXhXNDR2T2tyVzVvMF9YSmtLYkRObGEzSE9NSmNUQTFfYXFseDFFYm40VmNSbkNFNGdqcDY0NWttUlpjbmFzMmFobW9pVGdMTEplNHFaTlBlaXZvZmM3N013Nk1UMF84SnkyT0FyQl9iLXpQTEZpWnVCY2dnbzJvblVJMUtreWF1TW5nZnps?oc=5"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Devendra Mahto ends 16-day hunger strike after Jharkhand cancels key exams",
-          "neutralSummary": "\"Today marks a huge victory for Jharkhand. While I am now suspending my protest, my struggle for reform will continue,\" Mahto said.",
+          "neutralHeadline": "Bihar transfers 17 IPS officers amid row over AK-47 use during student protests",
+          "neutralSummary": "Bihar transfers 17 IPS officers amid row over AK-47 use during student protests",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Jharkhand government cancels JSSC-CGL exam, all exams conducted by tainted firm",
-              "url": "https://www.thehindu.com/news/national/hemant-sorent-announces-jssc-cgl-exam-cancellation-after-emergency-cabinet-meeting/article71357634.ece"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Top Cop In Bihar's Siwan Removed After AK-47 Used During July Student Protests",
+              "url": "https://www.ndtv.com/india-news/bihar-protests-puran-kumar-jha-top-cop-in-bihars-siwan-removed-after-ak-47-used-during-july-student-protests-11925645#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Devendra Mahto ends 16-day hunger strike after Jharkhand cancels key exams",
-              "url": "https://www.hindustantimes.com/india-news/devendra-mahto-ends-16-day-hunger-strike-after-jharkhand-cancels-key-exams-101787014943150.html"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Bihar transfers 17 IPS officers amid row over AK-47 use during student protests",
+              "url": "https://timesofindia.indiatimes.com/india/bihar-transfers-17-ips-officers-amid-row-over-ak-47-use-during-student-protest/articleshow/133320050.cms"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "Tamil Nadu CM Vijay apologises after minister mentions ex-CM Karunanidhi by name",
-          "neutralSummary": "Tamil Nadu forest minister RV Ranjith Kumar's reference to the DMK stalwart as “Karunanidhi” sparked immediate objections from opposition DMK members.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"I Apologise On His Behalf\": Vijay As Minister Mentions Karunanidhi Without Title",
-              "url": "https://www.ndtv.com/tamil-nadu-news/tamil-nadu-chief-minister-c-joseph-vijay-as-minister-mentions-m-karunanidhi-without-title-i-apologise-on-his-behalf-11923607#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Tamil Nadu CM Vijay apologises after minister mentions ex-CM Karunanidhi by name",
-              "url": "https://www.hindustantimes.com/india-news/tamil-nadu-cm-vijay-apologises-after-minister-mentions-karunanidhi-by-name-101787017261951.html"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "\"Would Pay A Price\": Moscow Warns UK After British-Made Drones Hit Russia",
-          "neutralSummary": "Russia's warning came after it reported that UK-based drones had been used against Russian territory.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"Would Pay A Price\": Moscow Warns UK After British-Made Drones Hit Russia",
-              "url": "https://www.ndtv.com/world-news/moscow-warns-uk-after-british-made-drones-hit-russia-11923413#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Identity of 'Dimagi Naxal Party' founder remains a mystery",
-          "neutralSummary": "Identity of 'Dimagi Naxal Party' founder remains a mystery",
+          "neutralHeadline": "'Will form high-powered panel': SC on Delhi Police 'excesses' against student protesters",
+          "neutralSummary": "'Will form high-powered panel': SC on Delhi Police 'excesses' against student protesters",
           "versions": [
             {
               "political": "center",
@@ -884,58 +780,8 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Identity of 'Dimagi Naxal Party' founder remains a mystery",
-              "url": "https://timesofindia.indiatimes.com/india/identity-of-dimagi-naxal-party-founder-remains-a-mystery/articleshow/133308937.cms"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "Is ‘Dimagi Naxal Party’ another front of AAP-linked Cockroach Janta Party? Here is what we found",
-              "url": "https://www.opindia.com/2026/08/dimagi-naxal-party-cockroach-janta-party-aam-aadmi-party-connection-explained/"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "MacKenzie Scott helped abolish $40bn in medical debt; how mechanics work",
-          "neutralSummary": "MacKenzie Scott's donations have enabled medical debt abolition across America. Her approach allows acquiring and erasing patient debt at steep discounts. This model has inspired other billionaires to contribute millions to similar initiatives. While philanthropic efforts provide immediate relief, p",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "MacKenzie Scott helped abolish $40bn in medical debt; how mechanics work",
-              "url": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-has-helped-abolish-40-billion-in-medical-debt-how-mechanics-work/articleshow/133240371.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Bezos’ ex-wife Scott’s $40B medical debt relief",
-              "url": "https://economictimes.indiatimes.com/news/international/global-trends/jeff-bezos-ex-wife-mackenzie-scott-who-sold-half-of-her-amazon-stake-helped-erase-40-billion-in-medical-debt-with-100-million-in-donations/articleshow/133304974.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Black money in polls: Supreme Court orders 1-year probe deadline, special courts",
-          "neutralSummary": "The court issued the directions while deciding an appeal arising from a 2015 Karnataka high court order that quashed an FIR against Prathik Parasrampuria",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Black money in polls: Supreme Court orders 1-year probe deadline, special courts",
-              "url": "https://www.hindustantimes.com/india-news/black-money-in-polls-supreme-court-orders-1-year-probe-deadline-special-courts-101786994749388.html"
+              "headline": "'Will form high-powered panel': SC on Delhi Police 'excesses' against student protesters",
+              "url": "https://timesofindia.indiatimes.com/india/high-powered-committee-to-probe-alleged-police-excesses-sc-on-delhi-student-protests/articleshow/133316000.cms"
             },
             {
               "political": "center",
@@ -943,33 +789,106 @@
               "source": "Live Law",
               "initials": "LL",
               "domain": "news.google.com",
-              "headline": "'Black Money In Elections Corrupts Democracy': Supreme Court Issues Directions To Curb Use Of Unaccounted ...",
-              "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUXAxbERoUjJ6MG9tMTZlR05LVmxXRndFaG9oVkRPUTYwT0hhXzRnWDBlejNYR0Q5cWdiWDZfZm0xb01sSTBaZlFmSS1uaU9rYm85WG40dEhDQVNudDY5RjV6Y19zeXMtNzhpdmlIX3hBb1lCMFlmWlU2OHY1S3ZMVGtaZnBTT2NkcUs4dlI0azVpSXBESlVJcl9aMThhVjc0V1RmQUhZSVdyTjl4OEtHMlJqRlhjUnNYSU9PcUh6M0ZCY253NHpETmRBX2NRZUI3Q3V2cHpsUmxjRGU1YVRrX1Rnc0tVVzlsTUpPME1qQ2lQOHQt0gH6AUFVX3lxTE1hdC1jYW9meWJnNjRyZ1BrdmxLUXZQc1FiMTVHMWoyTnlCQjBXMGlhZC1ZYmVlQ3NYYjg1dTJTQmxSY0kwaU9ySWkyX0VtaUQzaks2OGM3VFdHamdfSGxhTXBZN05kNnowdVlKdFVkeWtGcVQxYXl6VFp5T0ZqT000Sm54cXZGTmtmYUlsZmQwMmRrUUhGd0xYNFRYcExDVzBkZWRiTzkwV3k1QlllNjRHT2k2NHAyWGZ5b0NGQzNNTHlwV3l0OGlMMXFPeE9DTDB3N0VLaUhfdjZmYjZia3hKWUZiT1NGbTkzOGo5ZVF1dVNFZkRJUktvY3c?oc=5"
+              "headline": "No Excessive Force Used Against Student Protesters, Parliament March Was Illegal : Delhi Police To...",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVV1QXFmU0JPVFdEdi1xcXl0bG9lVWZqaEpYQWV2VGcxMFd6N3J0V1pabENEQkQ5c290ZUh4VXZqN0ZhdEFYUUswVHd1RWlUa1pGbnFwcWloRmxYekZ2dWk1UllHTkF1d2o3UEdEdGlGd1A3X1ZZVEFwRVNzRWxaRTRYTGdVY0RQdWtjSlQ2RDEyRmZ1TFJ1VFVkdHh4NXlWMU1LVkNrWVU1cThJOFk4LTZjR1JlRGZDcjY2LXVBQ2k2TFRsNjRyT256N1hkNEh1eGNWdTR4SUd3ZUoyclNSNUo0OE03QdIB6wFBVV95cUxONVU2Q1dTOTk2cWZ2c1FCMFlfSERyV1RGZ2g3X1A0UHZ5SFFvanFPcEVrNTduQlJaMmhEWTBGai1hSEotSERUUzdPeVFuTElDaDU4Ql9yMk9xcFNKX240Nmk1N3NqZ1lLS1N0cW93UjN5VlBYN2tncmhxN1l0aHNDdzhTdGJrRVVyVHd1OWk4RTBYNE5sYjBGS0FuTzhvQVdRelVDNVFDTVlRUVJRUUh4X1h6bEVCNGIzNVlFcFRhNTVfa2VHWDBiOUlyeUpsQjJaQ3FITjNhZERLZlhINkZKY3EzSzctT01CNWVZ?oc=5"
             }
           ]
         },
         {
-          "id": "india-9",
-          "neutralHeadline": "Jharkhand protest: Rahul Gandhi urges Hemant Soren to meet protesting students and resolve their issue",
-          "neutralSummary": "Jharkhand protest: Rahul Gandhi urges Hemant Soren to meet protesting students and resolve their issue&nbsp;&nbsp;The Hindu'Huge victory for Jharkhand': Student leader Mahto ends 16-day hunger strike after Soren govt accepts demands&nbsp;&nbsp;The Times of IndiaMiffed with no response from Soren’s g",
+          "id": "india-5",
+          "neutralHeadline": "India weighs giving the world a sweeter sugar tax",
+          "neutralSummary": "India weighs giving the world a sweeter sugar tax",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "India weighs giving the world a sweeter sugar tax",
+              "url": "https://economictimes.indiatimes.com/news/economy/agriculture/india-weighs-sugar-import-duty-cut-to-curb-record-local-prices/articleshow/133316298.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "India Weighs Sugar Import Tax Cut to Bring Local Prices Down",
+              "url": "https://www.bloomberg.com/news/articles/2026-08-18/india-weighs-sugar-import-duty-cut-to-curb-record-local-prices"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Pak top court orders Imran Khan be moved to hospital",
+          "neutralSummary": "Pak top court orders Imran Khan be moved to hospital",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Pak top court orders Imran Khan be moved to hospital",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/supreme-court-orders-hospital-transfer-for-imran-khan-amid-health-concerns/articleshow/133316526.cms"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQREo3SXN5M2VRMVk2V0tYbFJEVzdVZ1BFNGtOT0d4TXU4QTZpV0hPZGlvczJwMlZCTzh1V3VXTGF1Tmd0RGxEa1F6TV8zNUxrM1I3c3dDT3VDUkpsMG9XRHdURDJnZURHTXpLdkZBdDc0QjZwendXVmk4VURVOGxoVmZRb2wyYTgtcG1lZndhQjhlN2NPOG8xSjZCNmtiWUVEUTdVTUV4c0JybWU5d2JYYUxQRmluZ9IBuwFBVV95cUxOY1k3dHF0OV9GMENOVks5ZVhRU1lIRTRxcWJIUWw0TnRrVjIwSy1lQW1nb3Faa3BOMl8zMi0xM2lIU25GWHkySnh4ZFFUUTBQSnpqVEZUdEVOVzR4bGpMcDhPRFF2eEFGYVhTTGNsdHRFZERDYkJYTVhnRmprd28waUx5Vmh0b0dyZmpRVTFwbUtrN3dyT3BxX2EzcktBS0h3aWhMcmMtcEc5T2JKUWlXNl9TNUZaT1M3TFdr?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Quantum: Science Gallery Bengaluru Exhibits The Story Of Forgotten Pioneers",
+          "neutralSummary": "Quantum: Science Gallery Bengaluru Exhibits The Story Of Forgotten Pioneers",
+          "versions": [
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Swarajya",
+              "initials": "SWR",
+              "domain": "swarajyamag.com",
+              "headline": "Quantum: Science Gallery Bengaluru Exhibits The Story Of Forgotten Pioneers",
+              "url": "https://swarajyamag.com/newsletters/quantum-science-gallery-bengaluru-exhibits-the-story-of-forgotten-pioneers-3"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Should be mandatory for education officials to send their kids to government schools, says Dipke",
+          "neutralSummary": "Earlier, Mr. Dipke had posted a video of the headmaster of a Zilla Parishad school in the village who allegedly drank and slept in class",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "The Hindu",
               "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Jharkhand protest: Rahul Gandhi urges Hemant Soren to meet protesting students and resolve their issue",
-              "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSXJnay1uZkFmVWJVSFpUdmM0cjlYYXFSUjhiX212SkhNQ3NCUVA0bmNsRksyNEp6YXBhc1ZBOVYyLTFQU0VkNm5IOFRReHluR0xIMXViRFdlZWlNVzhKS0ZPdW10dEZZVkRRSWtxSnJYYUU3RU9FOWdlRzZ0N1hKcjdUTzBZb2Z2R3hINkJldVJKLW1CbEFtLXFrNms1RF8wV056Ym9ZUHdXa1FRYWVCejVoazB0NW5mNU9aYk5iZFRPOVNPLXVDb183Wm1DWDI3Tkw5WF9tNUpUQ1JvWktMQnZjeXhWN0IyeEc3aF9fd3V3U1dsVjZSTUdQY0V0T0nSAYYCQVVfeXFMTjg2ajh2N2JVZEw4VlNEbE4xVWFFQWRTQlNxemdFZDNXanh5ZnRRbldKcjJEbi1NQnRRWVpJdTJhR1pEM1ZNOFlUZnFvLVR1Y0Y1LXF4WElyeHAxWi1FTmpkYzBIbERyTEhOd0xiQVUwWlZEUDhZaWwtWElnVlhDeXktZ2VSd3FWcG5ieU5uYTRoVVNLRE5fLUJUaTN1ZmVtMkdXVmY0ZlJxek5lUVQybGV1ZXppZUhiRWtPa1JZV1g2RDF1Y1R0Si10cDN2NVk2TFE5aWM5MEE4U3YwQUx5WWROeGdSSUJGcHlhTWYtNEEtckpmdm9haDF2WFlNSHRtZm5mQ3RkUQ?oc=5"
-            },
+              "domain": "thehindu.com",
+              "headline": "Should be mandatory for education officials to send their kids to government schools, says Dipke",
+              "url": "https://www.thehindu.com/news/national/should-be-mandatory-for-education-officials-to-send-their-kids-to-govt-schools-says-abhijeet-dipke/article71360639.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "Maternity leave for third child of women government employees raised to 365 days in Tamil Nadu",
+          "neutralSummary": "Women government employees are now granted 365 days of maternity leave for their first two children, while those with two or more children are granted up to 12 weeks of maternity leave, points out Minister for Human Resources Management D. Sarathkumar",
+          "versions": [
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "Rahul Gandhi asks Hemant Soren to meet protesting students: Why his appeal exposes Congress-backed JMM govt’s brutal crackdown on protesters",
-              "url": "https://www.opindia.com/2026/08/rahul-gandhi-asks-hemant-soren-to-meet-protesting-students-why-his-appeal-exposes-congress-backed-jmm-govts-brutal-crackdown-on-protesters/"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Maternity leave for third child of women government employees raised to 365 days in Tamil Nadu",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/maternity-leave-for-third-child-of-women-government-employees-raised-to-365-days/article71360294.ece"
             }
           ]
         }
