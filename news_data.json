@@ -1,14 +1,204 @@
 {
-  "generatedAt": "2026-08-26T13:57:32.132959+00:00",
+  "generatedAt": "2026-08-27T12:07:54.678087+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Fire in a hospital nursery kills 14 newborns in Pakistan’s capital",
-          "neutralSummary": "Fire in a hospital nursery kills 14 newborns in Pakistan’s capital&nbsp;&nbsp;AP News14 Newborns Die in Hospital Fire in Pakistan’s Capital&nbsp;&nbsp;The New York TimesIslamabad PIMS hospital fire: Witnesses say rescue was delayed as blaze killed 14 babies&nbsp;&nbsp;BBCFire tears through hospital",
+          "neutralHeadline": "Nepal flash flood: Disaster in a geological battleground zone",
+          "neutralSummary": "France 24's Leela Jacinto takes a look at how the extreme geography of Nepal and Tibet, dominated by the Himilaya mountains, contributed to the initial confusion over the cause of catastrophic floods that have killed at least 180 people - now believed to be the result of a glacial collapse.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Nearly 1,400 missing, mostly tourists, after Nepal-Tibet flash flood kills at least 356",
+              "url": "https://www.theguardian.com/world/2026/aug/27/what-caused-nepal-flash-flood-glacial-collapse-tibet-border"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "At least 1,500 missing after deadly Nepal-Tibet floods",
+              "url": "https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Photos: More than 1,300 missing in Nepal and Tibet after deadly floods",
+              "url": "https://www.aljazeera.com/gallery/2026/8/27/photos-more-than-1400-missing-in-nepal-and-tibet-after-deadly-floods?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Nepal flash flood: Disaster in a geological battleground zone",
+              "url": "https://www.france24.com/en/video/20260827-nepal-flash-flood-disaster-in-a-geological-battleground-zone"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Nepal floods: Rescue teams search for over 1,300 missing",
+          "neutralSummary": "After flash floods destroyed entire villages in a Himalayan valley on the Nepal-Tibet border, the search for over 1,300 missing people, including tourists and pilgrims, is underway.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Flash floods on Nepal-Tibet border leave scores dead and hundreds missing",
+              "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "What we know about deadly Nepal-Tibet floods",
+              "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Nepal-Tibet floods: What is a glacial collapse, how common is it?",
+              "url": "https://www.aljazeera.com/features/2026/8/27/nepal-tibet-floods-what-is-a-glacial-collapse-how-common-is-it?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Nepal floods: Rescue teams search for over 1,300 missing",
+              "url": "https://www.france24.com/en/video/20260827-nepal-floods-rescue-teams-search-for-over-1-300-missing"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "More Than a Thousand Missing After Deadly Nepal Floods",
+              "url": "https://www.bloomberg.com/news/videos/2026-08-27/more-than-a-thousand-missing-after-deadly-nepal-floods-video"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "NY doctor’s desperate plea for her parents who went missing in catastrophic Nepal flash floods: ‘Worst 24 hours of my life’",
+              "url": "https://nypost.com/2026/08/27/us-news/ny-docs-desperate-plea-for-missing-parents-caught-in-nepal-floods/"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Catastrophic floods caused by a glacier collapse kill at least 273, with more than 1,300 missing",
+          "neutralSummary": "Catastrophic floods caused by a glacier collapse kill at least 273, with more than 1,300 missing&nbsp;&nbsp;AP NewsNepal flood death toll surges as 65 Americans listed among hundreds of people still missing&nbsp;&nbsp;CBS NewsNepal flash floods latest: Hundreds killed in Nepal flood as fears grow of",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+              "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Catastrophic floods caused by a glacier collapse kill at least 273, with more than 1,300 missing",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTRiakhGUy1IMDZwSGk4Zld5ZmdZQUNmMzZWMVZ3cHo3TkF2alg4YjIybVZaN0lFV3plMUdWc285NU1GS0dXZ085M1hzcWdwZGZ2RV90dDZGSDF5b3dNZ0h6MHZMV3JEU1dqS1Y1WlpNelU2cXhCVm53U0ZyNUJkcl9mcnRBM1Z2ZHl3WGhFRUNnUHB3eURyc2c5QzVpelN1UFRyZGY0eF9WakdnbWtJ?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "‘Swept away’: Nepal families search for relatives after devastating floods",
+              "url": "https://www.aljazeera.com/news/2026/8/27/swept-away-nepal-families-search-for-relatives-after-devastating-floods?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "How a glacier collapse is believed to have caused Nepal-Tibet disaster",
+              "url": "https://www.france24.com/en/video/20260827-how-a-glacier-collapse-is-believed-to-have-caused-nepal-tibet-disaster"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
+          "neutralSummary": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight‘A massacre’: Haiti gangs carrying out mass killingsAt least 47 people were killed and more than 50 others kidnapped when armed men attacked a once peaceful community near Haiti’s capital at the weeken",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
+              "url": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "47 Killed, Dozens Kidnapped In Gang Attack Near Haiti’s Capital",
+              "url": "https://www.huffpost.com/entry/haiti-gang-attack_n_6a8e69f0e4b0bedb6cc25dd8"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
+              "url": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "More Than A Dozen Infants Killed In Islamabad Hospital Fire",
+          "neutralSummary": "The blaze was allegedly sparked by a fault in the air-conditioning system, local media reported.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "More Than A Dozen Infants Killed In Islamabad Hospital Fire",
+              "url": "https://www.huffpost.com/entry/islamabad-pakistan-hospital-fire_n_6a8e6740e4b0e34ff0624a92"
+            },
             {
               "political": "left",
               "tone": "neutral",
@@ -17,33 +207,6 @@
               "domain": "bbc.co.uk",
               "headline": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
               "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Fire in a hospital nursery kills 14 newborns in Pakistan’s capital",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm5hSC1PNnBiNHV4QTJxemNPSE5YdVdTSTlRWVJhZnU2dU9kbTlZQmkwbHFPbGYyRGxQTEV5WHR1R2R2SDNNQ21ya0Z4bldkQ2dMMDBJT2c3Z3loaU1GV1l2SUV1MXFnMjNBeWFPSHBUaEl3UXBDNnJMVWlDSWIyMkYzenZHNEhQa2FjQXk3YU5FVVJWbnNmQ3ZaWk83VXYyRFRrV3dCOHhFZTllWi12OEVtSE9aQQ?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Locked inside: Grief and anger as Pakistan hospital fire kills 14 newborns",
-              "url": "https://www.aljazeera.com/news/2026/8/26/locked-inside-grief-and-anger-as-pakistan-hospital-fire-kills-14-newborns?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Pakistan: At least 14 newborns die in hospital fire",
-              "url": "https://www.france24.com/en/video/20260826-pakistan-at-least-14-newborns-die-in-hospital-fire"
             },
             {
               "political": "right",
@@ -57,61 +220,9 @@
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "At least 22 bodies recovered, hundreds missing after Nepal-Tibet flash floods",
-          "neutralSummary": "At least 22 bodies have been recovered and 384 people reported missing after a massive flash flood that swept through parts of Nepal and Tibet, officials said Wednesday. Chinese state media also reported on Wednesday that the mudslide disaster had \"resulted in major casualties and missing people\" at",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
-              "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
-              "url": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "CNN",
-              "initials": "CNN",
-              "domain": "news.google.com",
-              "headline": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border",
-              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Deadly flash floods sweep through northern Nepal",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "At least 22 bodies recovered, hundreds missing after Nepal-Tibet flash floods",
-              "url": "https://www.france24.com/en/asia-pacific/20260826-at-least-22-bodies-recovered-hundreds-missing-after-nepal-tibet-flash-floods"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Canada strikes back at US with retaliatory tariffs as trade war escalates",
-          "neutralSummary": "Canada struck back at the United States on Tuesday with retaliatory tariffs on about $20 billion worth of American goods, including steel, dairy products, appliances and farm equipment, as the trade war between the once-friendly neighbors escalated sharply. The confrontation threatened one of the wo",
+          "id": "global-6",
+          "neutralHeadline": "Canada Announces $20 Billion In Retaliatory Tariffs On U.S. Goods",
+          "neutralSummary": "Trump’s trade war widens.",
           "versions": [
             {
               "political": "left",
@@ -139,156 +250,31 @@
               "domain": "npr.org",
               "headline": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
               "url": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Canada strikes back at US with retaliatory tariffs as trade war escalates",
-              "url": "https://www.france24.com/en/video/20260826-canada-strikes-back-at-us-with-retaliatory-tariffs-as-trade-war-escalates"
             }
           ]
         },
         {
-          "id": "global-4",
-          "neutralHeadline": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
-          "neutralSummary": "Gang leader threatens to kill hostages after attack in Kenscoff in which homes were also set alight‘A massacre’: Haiti gangs carrying out mass killingsAt least 47 people were killed and more than 50 others kidnapped when armed men attacked a once peaceful community near Haiti’s capital at the weeken",
+          "id": "global-7",
+          "neutralHeadline": "Norway’s King Harald in ‘very serious’ health condition, royal family cancels all planned events",
+          "neutralSummary": "Norway’s King Harald in ‘very serious’ health condition, royal family cancels all planned events&nbsp;&nbsp;New York PostNorway's royal family gathers at King Harald's bedside as his condition worsens&nbsp;&nbsp;BBCNorwegian King Harald's health is in very serious condition, palace says&nbsp;&nbsp;A",
           "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
-              "url": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
-              "url": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
-          "neutralSummary": "US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from the White StripesDon’t already get First Thing in your inbox? Sign up hereGood morning. The US supreme court has sided with Donald Trump in his effor",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
-              "url": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
-              "url": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "China denounces US threat of sanctions over trade with Iran",
-          "neutralSummary": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate TehranExplainer: could US sanctions threaten China-Iran ties?China has denounced the threat of US sanctions for its trade with Iran, saying any such measures would be illegal, and warned it",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "China denounces US threat of sanctions over trade with Iran",
-              "url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-              "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "China: Dissident artist jailed for satirical Mao sculptures",
-          "neutralSummary": "China: Dissident artist jailed for satirical Mao sculptures&nbsp;&nbsp;DW.comChinese Artist Sentenced to Three Years in Prison for Mao Sculptures&nbsp;&nbsp;The New York TimesChinese artist is sentenced to 3 years in prison over satirical Mao artworks&nbsp;&nbsp;NBC NewsArtist known for sculptures o",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Artist known for sculptures of Mao Zedong jailed for slandering ‘heroes and martyrs’",
-              "url": "https://www.theguardian.com/world/2026/aug/25/artist-gao-zhen-sculptures-mao-zedong-jailed-china"
+              "headline": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+              "url": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "DW.com",
-              "initials": "D",
+              "source": "New York Post",
+              "initials": "NY",
               "domain": "news.google.com",
-              "headline": "China: Dissident artist jailed for satirical Mao sculptures",
-              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT0h2SkprcGMzVXRlMFYtN1Z4TThtb1Z4NmVmQ3RUX21OMXZVT0E2U2phM2hzZnp0TC1TRmhCc1FCS3ZQNXpvNjIycGJpT3NSdkxEcVJKMm5qZWdIRl9vQkU5S3hYUG5ZWjY4cHVQb09NWVVtVzdhSmhnVlprbnlCZE1JQ2ROZUtPeU1ZQ1V6SkFGV3JTYUHSAZYBQVVfeXFMTUVvTXNGbWZzYmlxX0JPZC1hSnRGZXgtM3BuQjl1ZUlhek5uYi1UcGVhbnlLd3M5cnpUeGl5TldaR3oxSGh1QkE1b1l1NUlVeDNab1BGU0RaN05FSHZKYUdpT3UyYkNtRjZoZWkzSzZTQ1VmVl9CWjJxUkFwckZBRWlEc3JuZmVvOUxvLVM2NnUwTUNZQ0ZR?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "Trump Threatens Tariffs On All Cars And Trucks To 50% Amid Canada Trade Spat",
-          "neutralSummary": "U.S. tariffs on all cars and trucks, automotive parts and steel will be increased to 50% starting January 1, 2027, Trump said in a social post on Monday.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Threatens Tariffs On All Cars And Trucks To 50% Amid Canada Trade Spat",
-              "url": "https://www.huffpost.com/entry/trump-carney-trade-war-tariffs_n_6a8c4edce4b07583705ac198"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Canada hits back at the U.S. with tariffs as the countries' trade fight escalates",
-              "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade",
-          "neutralSummary": "Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade&nbsp;&nbsp;CBS NewsIran says the U.S. is standing in the way of Hormuz deal amid talks with Oman&nbsp;&nbsp;CNBCIran and Oman reach Hormuz deal, but reopening hinges on US complia",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5"
+              "headline": "Norway’s King Harald in ‘very serious’ health condition, royal family cancels all planned events",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMndPME1TcHRJekk0bEo4YjBUN3JmMnhMQU9hWDVtLU1NN3FrNy0xMnhMdC1mVTlkVG14RUVyZUpuUzk3ZU5UQTFBczhvNVJqVjRwa1V3ckFmdEtZLXp2X1dDOTBVUGtiaVhZazBwV1hSVFp2SUttVzVHOFZrbFYyYk9jZmVZN1B1TjZNT0ZRd1FMU3RtRDhOQ25PdmJneUpPajVFSmpNbV9IM2M?oc=5"
             },
             {
               "political": "left",
@@ -296,8 +282,58 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Iran, Oman agree on temporary Hormuz route: What we know",
-              "url": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss"
+              "headline": "Norway’s King Harald in ‘extremely serious’ condition, palace says",
+              "url": "https://www.aljazeera.com/news/2026/8/27/norways-king-harald-in-extremely-serious-condition-palace-says?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks",
+          "neutralSummary": "The US president expected Ottawa to bow to tariff demands, but Canada is striking back – and it could cost AmericansThis was originally published in This Week in Trumpland. Sign up to receive it in your inbox every WednesdayEarlier this year, a survey found that Canada, along with Switzerland, was t",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks",
+              "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "How far will the US-Canada trade war go?",
+              "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/27/how-far-will-the-us-canada-trade-war-go?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Japanese artist Yayoi Kusama dies aged 97",
+          "neutralSummary": "Japan's Yayoi Kusama, one of the world's most celebrated contemporary artists, has died aged 97, her company said Thursday, sparking tributes from around the world. The \"polka dot queen\" channelled hallucinations and battles with mental health into vibrant art featuring her trademark dots, nets and",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97",
+              "url": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Japanese artist Yayoi Kusama dies aged 97",
+              "url": "https://www.france24.com/en/video/20260827-japanese-artist-yayoi-kusama-dies-aged-97"
             }
           ]
         }
@@ -308,77 +344,18 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Forbes Chairman Issues Dire Warning About Trump's Trade War On Canada",
-          "neutralSummary": "President Donald Trump on Saturday announced 50% tariffs on some $20 billion worth of Canadian goods after trade talks collapsed.",
+          "neutralHeadline": "Critics Trash Ivanka Trump’s Dolly Parton Tribute: 'Rich F**king Thing For You To Say'",
+          "neutralSummary": "The president’s eldest daughter proved she has zero self-awareness while sharing her favorite quote by the late country music legend.",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Forbes Chairman Issues Dire Warning About Trump's Trade War On Canada",
-              "url": "https://www.huffpost.com/entry/forbes-chairman-steve-forbes-slams-trump-canada-trade-war_n_6a8d95cbe4b0c0b31a445d2f"
+              "headline": "Critics Trash Ivanka Trump’s Dolly Parton Tribute: 'Rich F**king Thing For You To Say'",
+              "url": "https://www.huffpost.com/entry/critics-trash-ivanka-trumps-dolly-parton-tribute_n_6a8eebebe4b02b26136dfb37"
             },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "The bizarre roots of Trump&#8217;s trade war on Canada",
-              "url": "https://www.vox.com/politics/500447/canada-trade-war-tariff-trump-obsession"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "‘Captain Canada’ firebrand unloads on Trump with profane one-liner as trade war escalates",
-              "url": "https://www.foxnews.com/politics/captain-canada-firebrand-unloads-trump-profane-one-liner-trade-war-escalates"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Remembering Dolly Parton: A look back at the multitude of awards the icon earned",
-          "neutralSummary": "Following the announcement of Dolly Parton's death on Tuesday, a retrospective highlights her extensive collection of awards across music, film, television, and philanthropy throughout her legendary career.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Dolly Parton, country music singer and cultural icon, dies at 80",
-              "url": "https://www.washingtonpost.com/obituaries/2026/08/25/dolly-parton-country-music-singer-cultural-icon-dies-80/"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
-              "url": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Remembering Dolly Parton: A look back at the multitude of awards the icon earned",
-              "url": "https://thehill.com/blogs/in-the-know/6050020-remembering-dolly-parton-look-at-awards-won/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Trump orders flags to be lowered for Dolly Parton",
-          "neutralSummary": "“There has never been anyone like her, and never will,” Trump said on Truth Social.",
-          "versions": [
             {
               "political": "left",
               "tone": "neutral",
@@ -387,6 +364,122 @@
               "domain": "washingtonpost.com",
               "headline": "Trump orders flags to be lowered for Dolly Parton",
               "url": "https://www.washingtonpost.com/obituaries/2026/08/25/trump-orders-flags-be-lowered-dolly-parton/"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Federal Judge’s Move On Trump Mail Voting Order Clears Path For More Legal Challenges",
+          "neutralSummary": "Additional court rulings could still stop the directive from taking effect before the rapidly approaching midterm elections.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Federal Judge’s Move On Trump Mail Voting Order Clears Path For More Legal Challenges",
+              "url": "https://www.huffpost.com/entry/trump-mail-in-voting_n_6a8f1cb8e4b0a9d5e57c5ec9"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Judge lifts block on Trump changes to mail voting, though legal fights continue",
+              "url": "https://www.washingtonpost.com/politics/2026/08/26/judge-lifts-block-trump-changes-mail-voting-though-legal-fights-continue/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Democratic States File New Lawsuit Seeking To Block Trump Order Limiting Mail Voting In Midterms",
+          "neutralSummary": "The action marked a new phase in the high-stakes litigation just two days after the Supreme Court ruled against them in a separate case.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Democratic States File New Lawsuit Seeking To Block Trump Order Limiting Mail Voting In Midterms",
+              "url": "https://www.huffpost.com/entry/dem-states-new-lawsuit-challenging-trump-mail-in-voting-order_n_6a8f039be4b0a9d5e57c2183"
+            },
+            {
+              "political": "right",
+              "tone": "optimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "2028 Dem hopeful slaps Trump administration with lawsuit over mail-in voting after major SCOTUS victory",
+              "url": "https://www.foxnews.com/politics/2028-dem-hopeful-trump-admin-lawsuit-over-mail-in-voting-scotus-victory"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "South Carolina Republicans Nominate Darline Graham for Senate, As Trump Told Them To",
+          "neutralSummary": "Lindsey Graham’s younger sister had never shown an interest in public office until Trump talked her into running for Senate after her brother’s sudden death.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "South Carolina Republicans Nominate Darline Graham for Senate, As Trump Told Them To",
+              "url": "https://www.huffpost.com/entry/trump-darline-graham-wins_n_6a8c9421e4b004726c09f4b9"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "How Darline Graham’s Politics Compare With Her Brother’s as She Runs for Senate",
+              "url": "https://www.nytimes.com/2026/08/26/us/politics/darline-lindsey-graham-political-views.html"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Dolly Parton was even more generous than you knew",
+          "neutralSummary": "Dolly Parton was on her way to the studio to polish off “Blue Smoke” when the SUV she was riding in collided with a sedan in a Nashville intersection in 2013. At the hospital, she struck an unlikely friendship with her physician, Naji Abumrad, who, like Parton, was raised in a misty mountain village",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Dolly Parton was even more generous than you knew",
+              "url": "https://www.vox.com/future-perfect/500687/dolly-parton-philanthropy"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Dolly Parton died after a brief period of cancer",
+              "url": "https://www.washingtonpost.com/nation/2026/08/26/dolly-parton-died-after-brief-period-cancer/"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Dolly Parton, secular saint",
+          "neutralSummary": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. You’ve probably read a lot about Dolly Parton over the last 24 hours: her songwriting genius, her generosity, her incredible hair. The country icon a",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Dolly Parton, secular saint",
+              "url": "https://www.vox.com/today-explained-newsletter/500607/dolly-parton-philanthropic-legacy"
             },
             {
               "political": "right",
@@ -394,99 +487,15 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "How Dolly Parton United A Divided Nation",
-              "url": "https://www.dailywire.com/news/how-dolly-parton-united-a-divided-nation"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Meta settles social media addiction case with California, other states for $16.7 billion",
-          "neutralSummary": "Meta settles social media addiction case with California, other states for $16.7 billion&nbsp;&nbsp;CNBCMeta to Pay Up to $17 Billion in Landmark Settlement Over Social Media Addiction Claims&nbsp;&nbsp;The New York TimesMeta settles with US states over social media harms&nbsp;&nbsp;ReutersAdam Moss",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "California says states, Meta agree to $17 billion settlement in child safety trial",
-              "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNBC",
-              "initials": "C",
-              "domain": "news.google.com",
-              "headline": "Meta settles social media addiction case with California, other states for $16.7 billion",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RbkNIV2NNRGxSZHRKcGk2bXdrRTFfYmNuMTFzMkJTeEJJMFE2dHRnUWhVWm00R1pkV0xNc0RGaktESDB6d3dFVE1WejhPYU1aZ1N4cmQ2d0M5ZWtVdV9jVkVXaFphSkpHRDlYekt6M1k5QWplLWpoVFgxY9IBgAFBVV95cUxOc0kzYURnS1pYTnR0SlphVVNCSnZOOEk3V0xOak1JcHdmUndmeTF2Qjg4UVM1b2ZVbURjbG82N0J6VV9DWG9mN0J0MWRTQ0Qwc1pjNmF3QWFUTHlfWTJxTUdZVE5QUy1BSjdQVkdVd3l2ZDRUTmpzWEw5U1pYWXBIWA?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Meta settles social media addiction trial with states for up to $17B",
-              "url": "https://thehill.com/policy/technology/6051476-meta-settlement-youth-addiction-lawsuit/"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "USS Abraham Lincoln sailor’s father released from immigration custody",
-          "neutralSummary": "A Nicaraguan immigrant who was detained by Border Patrol agents while his son spent more than nine months deployed in the Middle East has been released from custody, his family announced Tuesday. Luis Manuel Aviles Roa, who has lived in the U.S. for nearly two decades, was released and reunited with",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "U.S.S. Abraham Lincoln Sailor Says Father Arrested by Border Patrol Has Been Released",
-              "url": "https://www.nytimes.com/2026/08/26/us/politics/uss-abraham-lincoln-sailor-father-arrested-immigration-released.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "USS Abraham Lincoln sailor’s father released from immigration custody",
-              "url": "https://thehill.com/policy/defense/6051341-navy-sailor-father-immigration-case-dhs/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "In Headache for Republicans, Second Dan Sullivan Advances in Alaska Senate Race",
-          "neutralSummary": "A long-shot candidate with the same name as the incumbent Republican senator will be on the ballot in November. That could be a problem for the G.O.P.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "In Headache for Republicans, Second Dan Sullivan Advances in Alaska Senate Race",
-              "url": "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Second Dan Sullivan advances to Alaska Senate’s general election",
-              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4692793/second-dan-sullivan-advances-alaska-senate/"
+              "headline": "Dolly Parton Never Had Kids. She Still Exemplified Motherhood.",
+              "url": "https://www.dailywire.com/news/dolly-parton-never-had-kids-she-still-exemplified-motherhood"
             }
           ]
         },
         {
           "id": "us-7",
-          "neutralHeadline": "Darline Graham, Backed By Trump, Wins Primary for Senate in South Carolina",
-          "neutralSummary": "Ms. Graham, who is temporarily filling the seat long held by her late brother, Senator Lindsey Graham, prevailed in a runoff and will be heavily favored in November.",
+          "neutralHeadline": "Armed Man Arrested Near Trump Golf Course Is Sent to Mental Health Court",
+          "neutralSummary": "A California judge suspended criminal proceedings against the man, a former Marine, who had been arrested days before the president was set to visit for a fund-raiser.",
           "versions": [
             {
               "political": "left",
@@ -494,24 +503,49 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Darline Graham, Backed By Trump, Wins Primary for Senate in South Carolina",
-              "url": "https://www.nytimes.com/2026/08/25/us/politics/south-carolina-senate-graham-norman.html"
+              "headline": "Armed Man Arrested Near Trump Golf Course Is Sent to Mental Health Court",
+              "url": "https://www.nytimes.com/2026/08/26/us/trump-golf-course-man-gun-arrest.html"
             },
             {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Lindsey Graham's sister wins Republican primary to contest Senate seat in November",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lR2ZpWUhNQ0RkWC1YRVBIN215RVdtUi1SdThMMGFmMF83dTA0RXM4WDZ4OE03eWtPTEhDWmxMck93TzFWekVVbUwxNEI1ZFVFdVZXUXQ1S3NLZw?oc=5"
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Armed man arrested at Trump golf course allegedly had first lady's schedule, notes on Secret Service: reports",
+              "url": "https://www.foxnews.com/politics/armed-man-arrested-trump-golf-course-allegedly-first-ladys-schedule-notes-secret-service"
             }
           ]
         },
         {
           "id": "us-8",
-          "neutralHeadline": "What to know about the Lindsay Clancy trial as closing arguments near",
-          "neutralSummary": "Closing arguments are expected later this week in the trial of Lindsay Clancy, the 36-year-old Massachusetts mother who strangled her three kids to death in 2023.",
+          "neutralHeadline": "Judge Handling 9/11 Case Sets June 2028 Trial Date",
+          "neutralSummary": "Prosecutors had asked for an earlier start. The judge has not yet ruled on several issues related to the defendants’ torture in C.I.A. prisons.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Judge Handling 9/11 Case Sets June 2028 Trial Date",
+              "url": "https://www.nytimes.com/2026/08/26/us/politics/sept11-attacks-trial-date.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "CNN",
+              "initials": "CNN",
+              "domain": "cnn.com",
+              "headline": "Judge in Fox News-Dominion defamation trial: 'The parties have resolved their case'",
+              "url": "https://www.cnn.com/2023/04/18/media/fox-dominion-settlement/index.html"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "FDA approves pancreatic cancer drug that extends patients’ lives",
+          "neutralSummary": "In trials, Revolution Medicines’ daraxonrasib nearly doubled average survival times for one of the deadliest cancers.",
           "versions": [
             {
               "political": "left",
@@ -519,33 +553,17 @@
               "source": "Washington Post",
               "initials": "WP",
               "domain": "washingtonpost.com",
-              "headline": "What to know about the Lindsay Clancy trial as closing arguments near",
-              "url": "https://www.washingtonpost.com/nation/2026/08/26/what-know-about-lindsay-clancy-trial/"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Biden mourns Dolly Parton: ‘An American original’",
-          "neutralSummary": "Former President Biden is joining every other living commander in chief in remembering Dolly Parton, calling the country music icon &#8220;an American original.&#8221; Parton died at 80&#160;on Tuesday in Nashville following a &#8220;brief battle with cancer,&#8221; according to her representatives.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Dolly Parton didn't just write hits — she created an American songbook",
-              "url": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
+              "headline": "FDA approves pancreatic cancer drug that extends patients’ lives",
+              "url": "https://www.washingtonpost.com/health/2026/08/26/fda-approves-landmark-pancreatic-cancer-drug-daraxonrasib/"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Biden mourns Dolly Parton: ‘An American original’",
-              "url": "https://thehill.com/blogs/in-the-know/6051347-dolly-parton-dies-at-80-joe-biden/"
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "FDA Approves Pancreatic Cancer Drug That Nearly Doubled Survival In Trial",
+              "url": "https://www.dailywire.com/news/fda-approves-pancreatic-cancer-drug-that-nearly-doubled-survival-in-trial"
             }
           ]
         }
@@ -556,33 +574,42 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "South Korea steps up checks as China probes formaldehyde-tainted cabbages",
-          "neutralSummary": "A viral video showing cabbages being dipped in a formaldehyde solution in northern China to preserve freshness has triggered nationwide inspections and regional concern.",
+          "neutralHeadline": "‘I don’t know what to tell our 7-year-old daughter’: Husband of S’pore woman missing in Nepal floods",
+          "neutralSummary": "At least nine Singaporeans have been reported missing in the deadly floods.",
           "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "‘I don’t know what to tell our 7-year-old daughter’: Husband of S’pore woman missing in Nepal floods",
+              "url": "https://www.straitstimes.com/singapore/i-dont-know-what-to-tell-our-7-year-old-daughter-husband-of-spore-woman-missing-in-nepal-floods"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "South Korea steps up checks as China probes formaldehyde-tainted cabbages",
-              "url": "https://www.channelnewsasia.com/east-asia/china-cabbage-formaldehyde-south-korea-food-safety-6342101"
+              "headline": "Desperate families search for missing after Nepal floods",
+              "url": "https://www.channelnewsasia.com/asia/nepal-floods-missing-desperate-families-search-6344616"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "China probes use of formaldehyde to keep cabbages fresh",
-              "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "More Than a Thousand Missing After Deadly Nepal Floods",
+              "url": "https://www.bloomberg.com/news/videos/2026-08-27/more-than-a-thousand-missing-after-deadly-nepal-floods-video"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Jail for man who made 1,035 calls to neighbourhood police centres for ‘fun’",
-          "neutralSummary": "Foo Jia Hong had made the calls to Yishun, Bedok, Geylang and Ang Mo Kio neighbourhood police centres.",
+          "neutralHeadline": "Nepal-Tibet floods: Singapore Red Cross pledges $50,000 in humanitarian aid",
+          "neutralSummary": "It will also launch a public fund-raising appeal on Aug 28.",
           "versions": [
             {
               "political": "center",
@@ -590,24 +617,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Jail for man who made 1,035 calls to neighbourhood police centres for ‘fun’",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/man-who-made-1035-calls-to-neighbourhood-police-centres-for-fun-and-enjoyment-gets-23-days-jail"
+              "headline": "Nepal-Tibet floods: Singapore Red Cross pledges $50,000 in humanitarian aid",
+              "url": "https://www.straitstimes.com/singapore/nepal-tibet-floods-singapore-red-cross-pledges-50000-in-humanitarian-aid"
             },
             {
               "political": "center",
               "tone": "neutral",
               "source": "CNA",
               "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Man who made more than 1,000 silent calls to police 'for fun and enjoyment' gets jail",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1ltdkhBWnFOTEhVSF9qRkdpN3c2NE9wWkZFRWxEVVBzLVRMNjNFMk94TFowa3FPWnM3VkVBMHJjNmxsTU05VjRJczZlWDBneHBCM3RDVVNtb0NMNGc0RDVGSXN2Mng4VUtVUGxWdTE4MWw4cTZ6NWRkLWpNWjdDZEpROFZ4bVV3SjR1ZzNZZzEtMkU3?oc=5"
+              "domain": "channelnewsasia.com",
+              "headline": "PM Lawrence Wong extends condolences to those affected by Nepal-Tibet flash floods",
+              "url": "https://www.channelnewsasia.com/singapore/nepal-tibet-flash-floods-lawrence-wong-condolences-mfa-6344516"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Children of unwed parents to receive cash benefits under SG Child Support Package",
-          "neutralSummary": "It marks a significant shift as those born out of wedlock were previously excluded from some baby-related cash benefits.",
+          "neutralHeadline": "Singapore to explore how S-E Asia, Central Asia can work more closely when it chairs ASEAN in 2027",
+          "neutralSummary": "Two new Kazakhstan agreements could also open opportunities for Singapore companies.",
           "versions": [
             {
               "political": "center",
@@ -615,15 +642,72 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Children of unwed parents to receive cash benefits under SG Child Support Package",
-              "url": "https://www.straitstimes.com/singapore/community/every-child-counts-new-cash-benefits-in-sg-child-support-package-given-to-kids-of-unmarried-mums"
+              "headline": "Singapore to explore how S-E Asia, Central Asia can work more closely when it chairs ASEAN in 2027",
+              "url": "https://www.straitstimes.com/singapore/singapore-to-explore-how-se-asia-central-asia-can-work-more-closely-when-it-chairs-asean-in-2027"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "‘I was too naive’: Retiree loses over $70k to investment scam after meeting woman on TikTok",
-          "neutralSummary": "The woman asked for his help to invest in a company which she claimed used AI robots to mine cryptocurrency.",
+          "neutralHeadline": "Japan to survey animal cafes over hygiene, welfare concerns",
+          "neutralSummary": "The environment&nbsp;ministry will examine whether they comply with relevant laws, including whether animals have enough space and how often cleaning takes place, said an official.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Japan to survey animal cafes over hygiene, welfare concerns",
+              "url": "https://www.channelnewsasia.com/east-asia/japan-animal-cafes-hygiene-welfare-concerns-6344591"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Former Malaysian PM Ismail Sabri charged with failure to declare assets, including nearly US$40m and gold bars",
+          "neutralSummary": "Ismail Sabri Yaakob, who pleaded not guilty, is accused of failing to declare holdings in ringgit and nine foreign currencies, as well as five gold bars, a silver bar and a gold coin.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Former Malaysian PM Ismail Sabri charged with failure to declare assets, including nearly US$40m and gold bars",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-former-pm-ismail-sabri-charged-assets-graft-probe-6342431"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "news.google.com",
+              "headline": "Graft dragnet tightens as Malaysia’s former PM Ismail Sabri charged after hospitalisation delay",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeV91MS03NGE3cjJrOXlrWnY2NzB3MVV0N0tLbFFBakNkY0RnWmNYcll2SWxacXZ5R1BMQndpenluaXlDcXVKNC15NzloTDNKdzVTaE9WUkRFbm9oeUhlTjdnZTlidnU1U0JkU1BqZV9uWnY0a3lUMVJpQmpsSkJzR2pmZHJoUG0yZk1RdFRqZzllZk1GWDhLNHVhS2hURW5DenRkWE9nT3J6dHhVVlBEdmRJZ1k3SzhxUUNnaTNJNWpFdFZE?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Nasdaq Futures Rise on Bullish Nvidia Sales Growth: Markets Wrap",
+          "neutralSummary": "Nasdaq Futures Rise on Bullish Nvidia Sales Growth: Markets Wrap&nbsp;&nbsp;Bloomberg.comNVIDIA Announces Financial Results for Second Quarter Fiscal 2027&nbsp;&nbsp;NVIDIA NewsroomWorld in Brief: Nvidia’s record earnings; catastrophic floods sweep Nepal&nbsp;&nbsp;The EconomistNvidia stock jumps af",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "news.google.com",
+              "headline": "Nasdaq Futures Rise on Bullish Nvidia Sales Growth: Markets Wrap",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0ZyNEs4VHlpUTE2VEsyU3R2Rmpxb3pZYTBjTFZENzBnWnk3MkpMU0gwUEwxRUJOVUtaeGx5bGJSR3RaRDBhd2ZNa0ZXS3U2aDhkRElxUE52S3ZrUmFQdE5fSVEyVmFGWmUwSnF2RXRJR281cWd2Nmpwcm9fQnhoRldrZHRkblNlNzNSZy1WT0xSUXNEMEE5M0hYakJqb2lzcU1rZUUwUlFOLVJuUnktVkNqLUM?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "From data chaos to clarity: S’pore charities use tech with $60k grant to spot needs, improve care",
+          "neutralSummary": "Some built tools to track intervention progress, while others used AI to detect caregiver burnout.",
           "versions": [
             {
               "political": "center",
@@ -631,106 +715,40 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "‘I was too naive’: Retiree loses over $70k to investment scam after meeting woman on TikTok",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/retiree-loses-over-70k-to-investment-scam-after-meeting-woman-on-tiktok"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Indonesia’s forestry ministry processes 42 forest fire cases, sanctions six companies",
-          "neutralSummary": "The country’s meteorology agency detected 4,508 hotspots on Wednesday morning (Aug 26), with nearly eight in 10 in Kalimantan. President Prabowo Subianto has instructed officials to do more in preventing forest and land fires.\n&nbsp;",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Indonesia’s forestry ministry processes 42 forest fire cases, sanctions six companies",
-              "url": "https://www.channelnewsasia.com/asia/indonesia-forest-fires-haze-kalimantan-6342171"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Ahead of National Day celebrations, Malaysia to step up haze mitigation measures with Indonesia",
-          "neutralSummary": "Sixteen areas in Malaysia had unhealthy air quality as at 9am on Wednesday (Aug 26). The country celebrates its 69th National Day on Aug 31.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Ahead of National Day celebrations, Malaysia to step up haze mitigation measures with Indonesia",
-              "url": "https://www.channelnewsasia.com/asia/malaysia-haze-indonesia-prevention-measures-national-day-6341626"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "South Korea's Lee calls for greater police accountability after Jeju missing-person cases",
-          "neutralSummary": "South Korea's Lee calls for greater police accountability after Jeju missing-person cases",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "South Korea's Lee calls for greater police accountability after Jeju missing-person cases",
-              "url": "https://www.channelnewsasia.com/east-asia/south-koreas-lee-calls-greater-police-accountability-after-jeju-missing-person-cases-6341566"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "4 Jeju police officers placed on administrative leave over premature closure of missing person case",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CeTVfVHA4WTU5RG4yUS1ZMnBWdXBDejc2Q3d0SFIwWmFZR2FQYkFqa01LMTYzM1FONS1GSFExQmR3Nmh2RnZNakIzdVRHTzA1S1Bva0Q1am40dw?oc=5"
+              "headline": "From data chaos to clarity: S’pore charities use tech with $60k grant to spot needs, improve care",
+              "url": "https://www.straitstimes.com/singapore/community/from-data-chaos-to-clarity-spore-charities-use-tech-with-60k-grant-to-spot-needs-improve-care"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Chinese humanoid robot sets new 100m sprint record at Beijing Games",
-          "neutralSummary": "The new 8.86-second sprint mark beat the previous robot record of 9.39 seconds. It's also faster than Jamaican Usain Bolt’s 100m world record time of 9.58 seconds.",
+          "neutralHeadline": "Car rental firm RentLah sues former director and finance company over alleged ‘cashback’ scheme",
+          "neutralSummary": "The finance company is countersuing RentLah for not paying its hire-purchase instalments.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Chinese humanoid robot sets new 100m sprint record at Beijing Games",
-              "url": "https://www.channelnewsasia.com/east-asia/chinese-humanoid-robot-100m-sprint-record-beijing-games-6341451"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Robot boxing, football and sprinting at World Humanoid Games",
-              "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Car rental firm RentLah sues former director and finance company over alleged ‘cashback’ scheme",
+              "url": "https://www.straitstimes.com/singapore/transport/car-rental-firm-rentlah-sues-former-director-and-finance-company-over-alleged-cashback-scheme"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Indonesia, Malaysia and Singapore reaffirm commitment to keep Malacca and Singapore straits safe and open",
-          "neutralSummary": "Transport Minister Jeffrey Siow said at the&nbsp;17th Cooperation Forum that recent events had shown that open sea lanes cannot be taken for granted, and that safe and open waterways depend on international law and cooperation among countries.&nbsp;",
+          "neutralHeadline": "Plans to turn Singapore Recreation Club billiards room into co-working space headed for court trial",
+          "neutralSummary": "Two SRC members sued the club and its management committee to invalidate the resolution.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Indonesia, Malaysia and Singapore reaffirm commitment to keep Malacca and Singapore straits safe and open",
-              "url": "https://www.channelnewsasia.com/singapore/strait-malacca-singapore-indonesia-malaysia-6340351"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Plans to turn Singapore Recreation Club billiards room into co-working space headed for court trial",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/plans-to-turn-singapore-recreation-club-billiards-room-into-co-working-space-headed-for-court-trial"
             }
           ]
         }
@@ -741,8 +759,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Over 90 dead, hundreds missing in Nepal floods; India rushes relief material",
-          "neutralSummary": "A massive flash flood in Nepal's Rasuwa district has caused widespread damage and claimed seventeen lives. Over one hundred Indian nationals are reported missing after the sudden surge in the Bhote Koshi River. Many missing individuals are believed to be pilgrims traveling to Tibet for the Kailash M",
+          "neutralHeadline": "HT Evening News Brief Aug 27: 21 Indians rescued amid Nepal floods; PM Modi pitches sports participation",
+          "neutralSummary": "HT Evening News Brief Aug 27: Here's your quick five-minute lap around today's top stories — politics, India, the world, and more.",
           "versions": [
             {
               "political": "left",
@@ -750,8 +768,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Nepal flash floods LIVE: At least 55 dead, over 350 missing, IAF to deploy two aircrafts with relief materials",
-              "url": "https://www.thehindu.com/news/international/nepal-floods-live-updates-august-26-2026-several-missing-dead/article71392492.ece"
+              "headline": "Nepal flash floods: 21 Indians from Tamil Nadu rescued, says Union Ministry of External Affairs",
+              "url": "https://www.thehindu.com/news/national/nepal-flash-floods-21-tamils-rescued-says-union-ministry-of-external-affairs/article71395749.ece"
             },
             {
               "political": "left",
@@ -759,33 +777,24 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "105 Indians Among 400 Kailash Yatra Pilgrims Missing In Nepal Flash Floods, 19 Dead",
-              "url": "https://www.ndtv.com/world-news/rasuwa-flash-flood-at-least-8-dead-in-nepal-flash-floods-that-started-from-tibet-report-11960788#publisher=newsstand"
+              "headline": "288 Indians Missing After Nepal Floods, 21 Rescued, Says Centre",
+              "url": "https://www.ndtv.com/world-news/288-indians-missing-after-nepal-floods-21-rescued-says-centre-11966260#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Over 90 dead, hundreds missing in Nepal floods; India rushes relief material",
-              "url": "https://timesofindia.indiatimes.com/world/south-asia/over-100-indians-missing-after-flash-floods-hit-nepal-what-we-know-so-far/articleshow/133536823.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Nepal floods claim more than 50 lives, many missing",
-              "url": "https://economictimes.indiatimes.com/nri/latest-updates/nepal-flash-floods-death-toll-claim-several-lives-police-say/articleshow/133540783.cms"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "HT Evening News Brief Aug 27: 21 Indians rescued amid Nepal floods; PM Modi pitches sports participation",
+              "url": "https://www.hindustantimes.com/india-news/ht-evening-brief-aug-27-21-indians-rescued-amid-nepal-floods-pm-modi-sports-participation-yash-toxic-101787828934211.html"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "'Stand in solidarity': PM Modi speaks to Nepal's Balen Shah, offers flood aid",
-          "neutralSummary": "'Stand in solidarity': PM Modi speaks to Nepal's Balen Shah, offers flood aid",
+          "neutralHeadline": "Nepal flash floods: 8 from Bengaluru stranded, rescue efforts on, says Deputy CM G. Parameshwara",
+          "neutralSummary": "Karnataka CM D.K. Shivakumar speaks to survivor from State, assures support",
           "versions": [
             {
               "political": "left",
@@ -793,8 +802,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Nepal floods: PM Modi speaks to Balendra Shah, offers humanitarian assistance",
-              "url": "https://www.thehindu.com/news/national/nepal-floods-pm-modi-speaks-to-balendra-shah-offers-humanitarian-assistance/article71392806.ece"
+              "headline": "Nepal flash floods: 8 from Bengaluru stranded, rescue efforts on, says Deputy CM G. Parameshwara",
+              "url": "https://www.thehindu.com/news/national/karnataka/nepal-flash-floods-8-from-bengaluru-stranded-rescue-efforts-on-says-deputy-cm-g-parameshwara/article71396063.ece"
             },
             {
               "political": "left",
@@ -802,67 +811,15 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "\"Ready To Provide All Possible Assistance\": PM Speaks With Nepal's Balen Shah",
-              "url": "https://www.ndtv.com/india-news/ready-to-provide-all-possible-assistance-pm-modi-speaks-with-nepals-balen-shah-11961653#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Stand in solidarity': PM Modi speaks to Nepal's Balen Shah, offers flood aid",
-              "url": "https://timesofindia.indiatimes.com/india/nepal-floods-pm-modi-speaks-to-balen-shah-offers-support/articleshow/133539412.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "PM Modi speaks to Nepal's Balen Shah over deadly floods, assures ‘all possible humanitarian assistance’",
-              "url": "https://www.hindustantimes.com/india-news/pm-modi-speaks-to-nepals-balen-shah-deadly-flash-floods-assures-all-possible-humanitarian-assistance-101787743774661.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Nepal flood: PM Modi assures all possible assistance",
-              "url": "https://economictimes.indiatimes.com/news/india/pm-modi-speaks-to-nepal-pm-balendra-shah-conveys-condolences-on-the-loss-of-lives-amid-flood/articleshow/133539376.cms"
+              "headline": "Nepal Flash Floods LIVE: Nepal Flood Death Count Rises To 270",
+              "url": "https://www.ndtv.com/world-news/nepal-flash-floods-live-updates-nepal-hit-by-massive-flash-floods-multiple-casualties-feared-rescue-ops-on-11960633#publisher=newsstand"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Quote of the day by Dolly Parton",
-          "neutralSummary": "Dolly Parton, in her inspiring commencement address in 2009, delineated the vital distinction between dreams and mere wishes. She emphasized that dreams are driven by focused efforts and a clear vision for the future, unlike wishes, which tend to lack the necessary determination for realization. Par",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Quote of the day by Dolly Parton",
-              "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-dolly-parton-do-not-confuse-dreams-with-wishes-dreams-are-where-you-visualize-yourself-being-successful-wishes-are-hoping-good-things-will-happen-to-you-but-theres-no-fire-in-your-gut-the-9-to-5-singers-lesson-on-taking-action-and-dreaming-about-your-goals/articleshow/133537762.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Dolly Parton grew up with 11 siblings in tiny cabin",
-              "url": "https://economictimes.indiatimes.com/news/international/global-trends/dolly-parton-grew-up-with-11-siblings-in-a-tiny-log-cabin-with-no-electricity-or-running-water-it-is-now-a-must-visit-tribute-to-the-country-music-icon/articleshow/133539869.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Over 50 Tamil Nadu pilgrims stranded after flash floods at Nepal-China border",
-          "neutralSummary": "More than 50 pilgrims from Tamil Nadu are stranded after flash floods hit the Bhote Koshi River near the Nepal-China border; rescue efforts are underway.",
+          "neutralHeadline": "More Than a Thousand Missing After Deadly Nepal Floods",
+          "neutralSummary": "A deadly flash flood tore through a valley in Nepal near the Chinese border, leaving hundreds dead and more than a thousand missing. Foreign tourists are among those affected as authorities brace for flooding downstream.\n\n (Source: Bloomberg)",
           "versions": [
             {
               "political": "left",
@@ -870,24 +827,67 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Nepal flash flood: At least 50 pilgrims from Tamil Nadu stranded as landslips disrupt route",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/nepal-flash-flood-pilgrims-from-tamil-nadu-stranded/article71392163.ece"
+              "headline": "Nepal flash floods: At least 288 Indians still missing; MEA says focus is on providing humanitarian aid as per Kathmandu’s request",
+              "url": "https://www.thehindu.com/news/national/nepal-flash-floods-indians-missing-mea-briefing-humanitarian-aid/article71395933.ece"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Indian-Origin US Couple On Kailash Yatra Goes Missing In Nepal Flash Floods",
+              "url": "https://www.ndtv.com/world-news/nepal-flash-floods-indian-origin-us-couple-on-kailash-yatra-goes-missing-in-nepal-flash-floods-11965416#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Over 50 Tamil Nadu pilgrims stranded after flash floods at Nepal-China border",
-              "url": "https://www.hindustantimes.com/india-news/over-50-tamil-nadu-pilgrims-stranded-after-flash-floods-at-nepal-china-border-101787745102705.html"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "More Than a Thousand Missing After Deadly Nepal Floods",
+              "url": "https://www.bloomberg.com/news/videos/2026-08-27/more-than-a-thousand-missing-after-deadly-nepal-floods-video"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Barrier lake near Nepal border could breach within 72 hours, China warns",
+          "neutralSummary": "Barrier lake near Nepal border could breach within 72 hours, China warns",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "China Warns Barrier Lake On Tibet-Nepal Border Could Breach Within 72 Hours",
+              "url": "https://www.ndtv.com/world-news/china-flags-new-upstream-risk-to-nepal-flood-rescue-efforts-11965910#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Barrier lake near Nepal border could breach within 72 hours, China warns",
+              "url": "https://timesofindia.indiatimes.com/world/china/barrier-lake-near-nepal-border-could-breach-in-3-days-china-warns-hundreds-dead-in-flash-floods/articleshow/133565193.cms"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "news.google.com",
+              "headline": "Tibet Mudslide Engulfs Complex at China’s Gateway to Nepal",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUVEwUTdObFBYSThxYW1hTDdlZnc3ckUtbGFtZGg3bkdTU2trUE8xaGdlWTg0djdlbm5XZnpHc2F2S29HZkFnNFJ3Y2tFYWhmYTNhdUxJaVpaRHJLd1JKRlVpbzctM1AzLTFJZ181djlPRXBZRkc4SkNmV09FUmxOWEI4V2FCVnNianBzakJ2cjdCMm5LcmhkMWpqUGVUelg5TTBXOTZjdWVNOE1meWc?oc=5"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Ice avalanche, glacial lake or earthquake? What triggered Nepal’s deadly floods",
-          "neutralSummary": "Ice avalanche, glacial lake or earthquake? What triggered Nepal’s deadly floods",
+          "neutralHeadline": "Gen-Z Key In Scaling Up India-Nepal Economic Ties: Industry Leaders To NDTV",
+          "neutralSummary": "India and Nepal share an over 1,700 km-long open border.",
           "versions": [
             {
               "political": "left",
@@ -895,24 +895,15 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "In Nepal Floods, Glacial Lake Link And Flashback To Last Year's Tragedy",
-              "url": "https://www.ndtv.com/world-news/in-nepal-floods-glacial-lake-link-and-flashback-to-last-years-tragedy-11961989#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Ice avalanche, glacial lake or earthquake? What triggered Nepal’s deadly floods",
-              "url": "https://timesofindia.indiatimes.com/world/south-asia/ice-avalanche-glacial-lake-or-earthquake-what-triggered-nepals-deadly-floods/articleshow/133541089.cms"
+              "headline": "Gen-Z Key In Scaling Up India-Nepal Economic Ties: Industry Leaders To NDTV",
+              "url": "https://www.ndtv.com/world-news/gen-z-key-in-scaling-up-india-nepal-economic-ties-industry-leaders-to-ndtv-11966027#publisher=newsstand"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "In Apocalyptic Video, Scores Of People Engulfed By Nepal Flash Floods",
-          "neutralSummary": "The video shows a massive surge of muddy water, rocks and debris rushing in from upstream",
+          "neutralHeadline": "The ‘Burn the Bonds’ Stage of the Debt Cycle Is Here",
+          "neutralSummary": "High indebtedness has prompted a call for France to cancel part of its public liabilities. Ideas spread, so expect similarly unorthodox demands elsewhere as governments grapple with high debt, while political disruptors air increasingly unconventional policies. All those roads, however, lead to more",
           "versions": [
             {
               "political": "left",
@@ -920,24 +911,24 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "In Apocalyptic Video, Scores Of People Engulfed By Nepal Flash Floods",
-              "url": "https://www.ndtv.com/world-news/video-people-buses-buildings-engulfed-by-devastating-floods-in-nepal-11961906#publisher=newsstand"
+              "headline": "Subhash Chandra's Rs 22,006-Crore Debt Cut To Just Rs 6.5 Crore. Here's Why",
+              "url": "https://www.ndtv.com/business-news/subhash-chandra-rs-22-000-crore-insolvency-case-why-nclt-approved-only-3-paise-for-every-rs-100-claimed-11965990#publisher=newsstand"
             },
             {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "news.google.com",
-              "headline": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejhZMW5oaGJZZ3BjbXp1VVduelVRbExxTW5lQkR2S1NTbzJJMTdnUFc5RzZmZ0dyeU1fTm1Jc251Y3QzSlFuTC0zYW9zMFJqVFhXaTZwcnFHTzZaTXBPb0ttTXlKeXI0UWZBTnI4Qk5tSWxtLXlDLWlTcjJidWV5c2FYdEsySnVXZG5xYTh1Y00xOVpFN2tDUlJuV01FdElBcDMyOUl0c3o2NkRSeFktSDFOVQ?oc=5"
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "The ‘Burn the Bonds’ Stage of the Debt Cycle Is Here",
+              "url": "https://www.bloomberg.com/news/articles/2026-08-27/the-burn-the-bonds-stage-of-the-debt-cycle-is-here"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Gone in seconds: Horrific Nepal flood videos show sweeping destruction",
-          "neutralSummary": "Gone in seconds: Horrific Nepal flood videos show sweeping destruction",
+          "neutralHeadline": "‘Not as big as it’s made out to be': Nepal foreign minister Shishir Khanal on border row with India",
+          "neutralSummary": "Nepalese foreign minister Shishir Khanal implied that the issue was blown out of proportion and is ‘not as big as it is made out to be’.&nbsp;",
           "versions": [
             {
               "political": "left",
@@ -945,58 +936,58 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Bridge, Houses Gone In Seconds: Videos Capture Horror Of Nepal Flash Floods",
-              "url": "https://www.ndtv.com/world-news/nepal-floods-bridge-houses-gone-in-seconds-videos-capture-horror-of-nepal-flash-floods-11960838#publisher=newsstand"
+              "headline": "\"Can't Replace Father With Mother\": Nepal Minister On China Or India Query",
+              "url": "https://www.ndtv.com/world-news/cant-replace-father-with-mother-nepal-foreign-minister-shisir-khanal-on-china-or-india-query-11965898#publisher=newsstand"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Gone in seconds: Horrific Nepal flood videos show sweeping destruction",
-              "url": "https://timesofindia.indiatimes.com/world/south-asia/gone-in-seconds-devastating-footage-from-nepal-china-border-shows-doomsday-like-scenes/articleshow/133541288.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "'Both Made Mistakes': Karnataka MLA To NDTV After Daughter Slaps Cop",
-          "neutralSummary": "Gowda minced no words to assert that her daughter's actions were \"wrong\"",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "'Both Made Mistakes': Karnataka MLA To NDTV After Daughter Slaps Cop",
-              "url": "https://www.ndtv.com/india-news/both-made-mistakes-karnataka-mla-to-ndtv-after-daughter-slaps-cop-11961465#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "Delhi family leaves Udaipur luxury hotel without paying  ₹5.74 lakh bill: Report",
-          "neutralSummary": "The family stayed at the Oberoi Udaivilas from August 14 to 23. While checking out, he told the hotel staff that bill would be paid by the travel agency",
-          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Delhi family leaves Udaipur luxury hotel without paying  ₹5.74 lakh bill: Report",
-              "url": "https://www.hindustantimes.com/india-news/delhi-family-leaves-udaipur-luxury-oberoi-udaivilas-hotel-without-paying-5-74-lakh-bill-police-fir-anurag-yadav-101787748462692.html"
-            },
+              "headline": "‘Not as big as it’s made out to be': Nepal foreign minister Shishir Khanal on border row with India",
+              "url": "https://www.hindustantimes.com/india-news/not-as-big-as-it-s-made-out-to-be-nepal-foreign-minister-shishir-khanal-on-border-row-with-india-101787822033862.html"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "AAIB to probe Kanpur trainee aircraft crash that killed trainee pilot, instructor",
+          "neutralSummary": "A team of three officials from the DGCA had departed for the site for necessary regulatory oversight and coordination, the civil aviation regulator said in a statement.",
+          "versions": [
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
+              "tone": "pessimistic",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "AAIB to probe Kanpur trainee aircraft crash that killed trainee pilot, instructor",
+              "url": "https://www.hindustantimes.com/india-news/aaib-to-probe-kanpur-trainee-aircraft-crash-that-killed-trainee-pilot-instructor-101787831001320.html"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NDTV",
+              "initials": "NDTV",
               "domain": "news.google.com",
-              "headline": "Delhi family leaves Udaipur hotel without paying Rs 5.74 lakh bill after 10-day luxury stay",
-              "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQXgwbDVVdThscTgzRkM4cVdnMEItZUVNT0xPRl9jeFBoVXJOQXRIVzh4ejByNlFBaG9yc05COGQtR05ZZktDVjVzRXNQb1dRZ3pOR1FkcW9FUTFrUjV3VUdyamJxWGVNV0dXdWUtTHp3UzJleXN0UEFSc281Y3VwQXUzYVA2aGpQLTJpazhTTmppQVp0MEM3X3NKRVMtdV9tTDhqSE9WRXJmNTdfQUdwMF95SUx0Z2hnYUFyT3FCWllyZFA3WjBIZkpQRGVFckgxQUUyNFVCZXh5NkkweFlpSi0wX084NzVkSWdDRDN6RkhZRC1RT0JjNUljU1jSAYICQVVfeXFMT0ZDX1gyZE1jMlNkMVdqZnBEUjBjTElVZmE1V003Q3JCVFVOekdRclB3VUxjb0dIcm9WQUw2NjZsT3dpdDBQS0gtV2szb0RMREFaZ0JIZDdsRzM1WWFCbDR0S0t3NVZBV2dXRGI2WkRnUTNqWmNIbWt5cWdBTnJxUWo4anpTTUZaTW1PMTNJRV9pRFZ2dUw4MGlBLWdjcjloSzRFbWtVWTI0XzU1OXhzRm9VNXlGYUJyc2o0WmJ6S1FrdHVaMDdSU19ObWRvZWc3MDZmUkpGQXhYd1BwZWl4MFl3MXJRWFJYekVnLW9MUllpU0kwS3UwNTRCa3RDX2k5N3FB?oc=5"
+              "headline": "2 Pilots Dead In Training Aircraft Crash In Kanpur",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTXotRVlPOXFQYXVOYzRiX1BwNkc2YzFMUm5ReDktR2hwRWt5SHUxUFU1UUVWbTVqNTJfaE9GTkdLT2oxdnpobTZBOFZjbGI1dzNHeUd1bUdCRlk4Sm1HUjVFczRxQUNvTGY4RzR0blFpeWswS0M1bFlYdWE4M0UxUmY0VnNGTDFRNXJxUkY3LTdwQk13YVRKVW5OREEtMjc1OG5HZlVVNnphVGY5aTBB?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "Won’t be surprised if CJP captures power in one or two States, but may not emerge as a third force nationally: P. Chidambaram",
+          "neutralSummary": "On the paper leak in this year’s NEET held by the NTA, he said that “it was waiting to happen,” considering the small number of permanent employees in the NTA and the fact that the test had to be held throughout the country, covering thousands of centres",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Won’t be surprised if CJP captures power in one or two States, but may not emerge as a third force nationally: P. Chidambaram",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/wont-be-surprised-if-cjp-captures-power-in-one-or-two-states-but-may-not-emerge-as-a-third-force-nationally-p-chidambaram/article71393157.ece"
             }
           ]
         }
