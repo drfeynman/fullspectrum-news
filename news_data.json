@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-17T06:53:25.554837+00:00",
+  "generatedAt": "2026-09-17T17:33:33.377382+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Trump Suggests EU Allowing Canada As Associate Member Could Be A 'Hostile Act'",
-          "neutralSummary": "Trump suggests that the European Union allowing Canada to become an associate member could be a “hostile act.”",
+          "neutralHeadline": "EU Opens Door For Canada To Become Its First Associate Member, Von Der Leyen Says",
+          "neutralSummary": "The European Commission president said “this is a partnership not against anyone else” in a possible effort to avoid antagonizing Donald Trump.",
           "versions": [
             {
               "political": "left",
@@ -15,8 +15,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Trump Suggests EU Allowing Canada As Associate Member Could Be A 'Hostile Act'",
-              "url": "https://www.huffpost.com/entry/trump-europe-canada_n_6aab21ece4b00c07b7447566"
+              "headline": "EU Opens Door For Canada To Become Its First Associate Member, Von Der Leyen Says",
+              "url": "https://www.huffpost.com/entry/eu-canada-associate-member_n_6aaa52bee4b0477c43c05dab"
             },
             {
               "political": "left",
@@ -24,8 +24,8 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "EU chief backs plan for Canada to become 'associate member'",
-              "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
+              "headline": "Canada welcomes EU proposal to become 'associate member'",
+              "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -33,24 +33,67 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "EU offers Canada 'associate member' role; Trump calls it 'laughable'",
-              "url": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump"
+              "headline": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
+              "url": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union"
             }
           ]
         },
         {
           "id": "global-2",
-          "neutralHeadline": "A Hague court convicts Kosovo’s former President Thaci of war crimes and sentences him to 25 years",
-          "neutralSummary": "A Hague court convicts Kosovo’s former President Thaci of war crimes and sentences him to 25 years&nbsp;&nbsp;AP NewsFormer Kosovo President Hashim Thaci sentenced to 25 years for war crimes&nbsp;&nbsp;Al JazeeraHague court convicts Kosovo’s former President Thaci of war crimes, sentences him to 25",
+          "neutralHeadline": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
+          "neutralSummary": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes&nbsp;&nbsp;CNBCTrump tells Axios he's approaching major crossroads in Iran war&nbsp;&nbsp;AxiosTrump To Meet With Gulf Leaders On Iran During UNGA Next Week - Report | LIVE BLOG&nbsp;&nbsp;i24NEWSTrump to meet",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "How the fighting between the Houthis and Saudi Arabia is affecting gas prices",
+              "url": "https://www.npr.org/2026/09/17/nx-s1-5971210/how-the-fighting-between-the-houthis-and-saudi-arabia-is-affecting-gas-prices"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNBC",
+              "initials": "C",
+              "domain": "news.google.com",
+              "headline": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aQ2E3YzFncE5mWjR1akxyYnptQi1hOHV5UlVTaGo2WkMwUWpCOVM2UmFUdms4SzVZZFFiNEVyTHlWbUgwZl93MGxkRnUxQzhtamVCemVDS2ZkR1FPT1UxTW5EaTZUS19SUV9QMzRB0gFzQVVfeXFMTmdXVlg2THpkVWxIblF6dnhDdW92UWFwak5OdUh1ajFGWjZWSzJtVm1JdHdVZF9wOVVsaXNjd0ZZeVROeVpfamlLck5VQzZYbmpidTB6alZodWxfS0h4Zl9tbEFEc1FBdFhreWZMS0F1QS0xcw?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
+              "url": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Houthis claim Saudi F-15 kill as Yemen fighting escalates",
+              "url": "https://www.france24.com/en/houthis-claim-saudi-f-15-kill-as-yemen-fighting-escalates"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Carney Heads To Europe For High-Stakes Speech And Deeper EU Ties As Canada Clashes With Trump",
+          "neutralSummary": "The trip puts him back on the European stage as relations with Washington reel from tariffs, threats and personal attacks since trade talks collapsed.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "A Hague Court Convicts Kosovo’s Former President Thaci Of War Crimes And Sentences Him To 25 Years",
-              "url": "https://www.huffpost.com/entry/hague-court-convicts-kosovos-former-president-thaci-of-war-crimes-sentences-him-25-years_n_6aaa704de4b0288deb0dff6e"
+              "headline": "Carney Heads To Europe For High-Stakes Speech And Deeper EU Ties As Canada Clashes With Trump",
+              "url": "https://www.huffpost.com/entry/mark-carney-europe-trip_n_6aa903b3e4b0288deb0caec9"
             },
             {
               "political": "left",
@@ -58,24 +101,24 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Kosovo's ex-President Thaci convicted of war crimes, sentenced to 25 years in prison",
-              "url": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes"
+              "headline": "Canada's Carney welcomes the EU's bid for closer ties amid pressure from Trump",
+              "url": "https://www.npr.org/2026/09/17/nx-s1-5971428/with-invite-to-join-eu-bloc-canadas-prime-minister-speaks-to-european-parliament"
             },
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Washington Post",
+              "initials": "WP",
               "domain": "news.google.com",
-              "headline": "A Hague court convicts Kosovo’s former President Thaci of war crimes and sentences him to 25 years",
-              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcG5kUDZnVlhBR21QQ0hMeU41Rjc2d01aZDByenE0TzJiUmhwblNId1dHLU80U3ItSXcxSUVXSG1FZ2NOUmJWX3BaUUZnU0RLVHN3LWhhZ19PWXlRMGlvNzhNOUh4bkNUOGxkVE9wdWF5V2tkMjkxY3BkVF84LWdUbGRkclNJWWlXRkg2VkdzRjNtc1VM?oc=5"
+              "headline": "Canada’s Carney embraces tighter ties with E.U. despite Trump warning",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkRCWklTMFlVT2Y2eUxRQmVwZ3NUUXRCeVZ5OF9LYk9DeTR2ZTdmWnYwYTh5QVhKNjhEMU94X3J4SGxLM3k4QVh4TFZPRmpsanh3bFNJV3RUV1RNdGJrT2kxUGVfemhldTVReXVqelU1Y1NZeVBjalBQcS1EamNqZ0ltY1RkbHhtZmV5Ui1PYmNDNW5aaGhGYmYtSHI4RzVWNDFlYQ?oc=5"
             }
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "Michelin-starred Seoul restaurant fined for serving dessert topped with ants",
-          "neutralSummary": "Prosecutors sought jail term for chief executive of Evett after insects not approved for consumption were on menuA South Korean court has fined the operator of one of Seoul’s most celebrated restaurants and its chief executive for serving a dessert topped with ants, an insect not approved for consum",
+          "id": "global-4",
+          "neutralHeadline": "Carney pushes Canada-EU ties beyond trade",
+          "neutralSummary": "Canadian Prime Minister Mark Carney used his address to the European Parliament to signal that Ottawa wants to deepen its partnership with the EU beyond trade, expanding cooperation on energy, AI, space and payment sovereignty, while also seeking to join the Erasmus programme. FRANCE 24's Dave Keati",
           "versions": [
             {
               "political": "left",
@@ -83,42 +126,17 @@
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "Michelin-starred Seoul restaurant fined for serving dessert topped with ants",
-              "url": "https://www.theguardian.com/world/2026/sep/16/michelin-starred-seoul-restaurant-evett-fined-dessert-ants"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-              "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist",
-          "neutralSummary": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist&nbsp;&nbsp;AP NewsAt Least 21 Dead in Gaza After Building Collapse, Officials Say&nbsp;&nbsp;The New York Times‘Nowhere to go’: Gaza’s damaged buildings turn deadly&nbsp;&nbsp;Al JazeeraAt least 21 killed",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Building Collapse Kills Over 20 In Gaza As Perilous Conditions Persist",
-              "url": "https://www.huffpost.com/entry/building-collapse-kills-gaza-perilous-conditions-israel-palestine_n_6aaaa854e4b05a5eaee2a394"
+              "headline": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
+              "url": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3lqZkMxREp6UW9yYVJuODAxQW96LXRiejVPakNpNXFxc2ZTWmItNEVhQW5UeWdaWTNlN19QaVRqOXh5T1hETXp3cW0td3Q4QU96UEIwQjNuSjE4ZkZLcDVFQmxTMDZLVVlMWHlqSmFIWjdBeE5BbHdUNWtIMS1Nemd5NzRJeWVuTzFTM2ZMRmpfaVhLWDVXbA?oc=5"
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Carney pushes Canada-EU ties beyond trade",
+              "url": "https://www.france24.com/en/carney-pushes-canada-eu-ties-beyond-trade"
             }
           ]
         },
@@ -149,8 +167,8 @@
         },
         {
           "id": "global-6",
-          "neutralHeadline": "Sweden's centre-left opposition wins election, SVT says",
-          "neutralSummary": "Sweden's centre-left opposition has defeated the incumbent right-wing governing bloc by the slimmest of margins, public broadcaster ​SVT ‌said on Wednesday, after 99% ⁠of the votes in Sunday's parliamentary election had been counted. FRANCE 24's Paul Rhys reports.",
+          "neutralHeadline": "Sweden's Next Government Uncertain With Thin Lead For Left-Wing Opposition After Tight Election",
+          "neutralSummary": "The outcome of the race may not be decided until Wednesday.",
           "versions": [
             {
               "political": "left",
@@ -162,20 +180,20 @@
               "url": "https://www.huffpost.com/entry/sweden-election_n_6aa7b398e4b0781f969326c8"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Sweden's centre-left opposition wins election, SVT says",
-              "url": "http://www.france24.com/en/sweden-s-centre-left-opposition-wins-election-svt-says"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Sweden prime minister to resign as left-wing bloc seals narrow election win",
+              "url": "https://www.aljazeera.com/news/2026/9/17/sweden-prime-minister-to-resign-as-left-wing-bloc-seals-narrow-election-win?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-7",
-          "neutralHeadline": "US House holds billionaire Epstein associate Leon Black in contempt of Congress",
-          "neutralSummary": "The US House of Representatives on Wednesday held billionaire investor Leon Black in contempt of Congress for defying two subpoenas in its investigation into sex offender Jeffrey Epstein. The measure passed by unanimous consent and will be referred to the Justice Department, which will decide whethe",
+          "neutralHeadline": "Ninth woman's body found as South African police investigate string of deaths",
+          "neutralSummary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
           "versions": [
             {
               "political": "left",
@@ -183,24 +201,24 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-              "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss"
+              "headline": "Ninth woman's body found as South African police investigate string of deaths",
+              "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "US House holds billionaire Epstein associate Leon Black in contempt of Congress",
-              "url": "http://www.france24.com/en/americas/20260916-leon-black-epstein-contempt-congress"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Ninth woman’s body found as South Africa probes series of killings",
+              "url": "https://www.aljazeera.com/news/2026/9/17/ninth-womans-body-found-as-south-africa-probes-series-of-killings?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Saudi Arabia accuses Houthis of targeting Mecca, calls it a 'red line'",
-          "neutralSummary": "Saudi Arabia accused Yemen’s Houthis on Wednesday of launching an attack on the holy city of Mecca, which the Iran-backed rebels denied. Saudi Arabia, a US ally which has been the target of large-scale Houthi strikes since early September, declared Mecca a “red line” as it slid deeper into the new f",
+          "neutralHeadline": "Spain: Images of floods after torrential rain",
+          "neutralSummary": "At least one person was killed after torrential rain lashed eastern Spain overnight Wednesday, submerging streets and flooding buildings and metro stations.",
           "versions": [
             {
               "political": "left",
@@ -208,8 +226,8 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-              "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss"
+              "headline": "One dead after torrential rain and flash floods hit Barcelona region",
+              "url": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
@@ -217,15 +235,15 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Saudi Arabia accuses Houthis of targeting Mecca, calls it a 'red line'",
-              "url": "http://www.france24.com/en/middle-east/20260916-saudi-arabia-accuses-houthis-of-targeting-mecca-calling-it-a-red-line"
+              "headline": "Spain: Images of floods after torrential rain",
+              "url": "https://www.france24.com/en/video/20260917-spain-images-of-floods-after-torrential-rain"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
-          "neutralSummary": "Saudi Arabia accused Yemen's Iran-backed Houthi rebels overnight of trying to attack Islam's holiest city, prompting condemnation from countries in the region but no sign of military support.",
+          "neutralHeadline": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
+          "neutralSummary": "Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab.",
           "versions": [
             {
               "political": "left",
@@ -233,8 +251,17 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
-              "url": "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack"
+              "headline": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
+              "url": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "UN fact-finding mission says US committed possible war crimes in Iran",
+              "url": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss"
             }
           ]
         }
@@ -245,103 +272,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "House passes bill to shield Americans from data center energy costs",
-          "neutralSummary": "House passes bill to shield Americans from data center energy costs&nbsp;&nbsp;CBS NewsHouse Passes Bill Taking Aim at Data Center Electricity Costs&nbsp;&nbsp;The New York TimesHouse advances bill to rein in AI data center utility costs&nbsp;&nbsp;CNBCHouse passes bill to shield consumers from data",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "House Passes Bill Taking Aim at Data Center Electricity Costs",
-              "url": "https://www.nytimes.com/2026/09/16/us/politics/house-bill-data-center-ai-energy.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "House passes bill to shield Americans from data center energy costs",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lV29Vdl93bExPSnR4QV96QWdyS0NMTURIaU0tUjdIWmtlNHQ5bEo3YzZIcWR3U2RuaFUyN21VVWQySFZmV3F3MFhvOUI1cjhZX0dRMjhuWWRSVV9oSTZBZ1lIZlFpQUlPT0JUTm80YVU5VkU?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "House approves bill aimed at putting data center electricity costs on tech companies",
-              "url": "https://thehill.com/homenews/state-watch/6090232-house-passes-data-center-electricity-bill/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "First data center bill clears House as both parties scramble for answers on affordability",
-              "url": "https://www.foxnews.com/politics/first-data-center-bill-clears-house-republicans-democrats-scramble-answers-affordability-energy"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "House passes bill to shield households from data center energy costs",
-              "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4728444/house-bill-households-data-center-energy-costs/"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Congress Clears Russia Sanctions Bill, Sending It to Trump",
-          "neutralSummary": "The bipartisan measure targets financing for Russia’s war against Ukraine as attacks intensify. It passed the House over the objections of Democrats who opposed handing President Trump new tariff powers.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Congress Clears Russia Sanctions Bill, Sending It to Trump",
-              "url": "https://www.nytimes.com/2026/09/16/us/politics/trump-congress-russia-sanctions.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
-              "url": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Congress passes sweeping US sanctions bill targeting Russia",
-              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3ZYSEg3VnhFbkR6Q25RZkZuOFM1UWZ4Vk45TXpxUE4tQXZfZGR5VlZDR2VEOHhhcmd1ekdsLXlpRzhMMmtOYnh0VDA1UXZ3eFZZdnptWnJaeGhIU2k1bmdQNE9EQnU4VUwtU3l3YktfQUpobHBTTzltZ05tU05lZHZoVF9iZTZxS0JwYTlYajlTb29mSTFORHRYcHIwQ0RXekHSAacBQVVfeXFMUGRPNFRWTWxsenJNN0psUTg5NnAxTHlISGUxaHUzRnBLYzZ3OHpaa2YwU1poVDQ3SkozLVRjMGc4NEZkX0NPS1dCc05zdk9JZXhSRURhM0htcTRaMm1HSThJYzZKLWhSVTgxTzZVemp1T2F3UGtzNjRhWW9xQmdNdXk4LXFVTzFfT1ppT1gtaGMyNDJhTFBSa2czRVcxSUtYeTF2M0JaRjQ?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "optimistic",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Democrats begrudgingly hand Trump victory on tariffs in sprawling sanctions bill",
-              "url": "https://www.foxnews.com/politics/democrats-begrudgingly-hand-trump-victory-tariffs-sprawling-sanctions-bill"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "RFK Jr.'s Sister Does What He Won't Amid Trump's Kennedy Center Fiasco",
-          "neutralSummary": "Kerry Kennedy had her say about the latest turn in Donald Trump’s renaming efforts on CNN.",
+          "neutralHeadline": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
+          "neutralSummary": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure&nbsp;&nbsp;CNBCTrump seen with ‘Kennedy Center demolished’ poster hours before court filing on building damage&nbsp;&nbsp;CNNPhotos Spur Speculation About Possible Demolition of Kennedy Center&nbsp;&nbsp;The New",
           "versions": [
             {
               "political": "left",
@@ -349,8 +281,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "RFK Jr.'s Sister Does What He Won't Amid Trump's Kennedy Center Fiasco",
-              "url": "https://www.huffpost.com/entry/kerry-kennedy-on-trumps-kennedy-center-fiasco_n_6aaa5da2e4b0477c43c06539"
+              "headline": "New Trump Photos Could Be Ominous News For Beloved Kennedy Center",
+              "url": "https://www.huffpost.com/entry/trump-air-force-one-photos-kennedy-center_n_6aab63a6e4b05a5eaee39601"
             },
             {
               "political": "left",
@@ -363,78 +295,30 @@
             },
             {
               "political": "left",
-              "tone": "pessimistic",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "Trump says Kennedy Center could be ‘ripped down’ without his intervention",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDFseTNyTzFKaXc1bGM3ZlpqWHloOU0zZ1kydHZYYV9TQnpRdTVtS2dXNDljNEtTejcxOGVpVjIybGdlU1g4dlJOQTRLS1dRVXVGMDJKWEJDdmcxSDR0ZGV2Z0VyM2FJdkx3enJqTXFPZ1VSeUx4NnRDMDF5d0F3a3BTRVN1MnNnSWpPVmJ0Q0l1aG15QnFlVHg5Tms4Z3AwYTJjRzhMZy14VHNIWkY5OUFoQ0U?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Family of Texas woman who died while pregnant sues Paxton, doctors over denied abortion",
-          "neutralSummary": "Family of Texas woman who died while pregnant sues Paxton, doctors over denied abortion&nbsp;&nbsp;The HillTexas Abortion Ban Blamed in Pregnant Woman’s Death in Lawsuit&nbsp;&nbsp;The New York TimesFamily of Texas pregnant woman who died sues AG Ken Paxton, alleges denied abortion led to death&nbsp",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Texas Abortion Ban Blamed in Pregnant Woman’s Death in Lawsuit",
-              "url": "https://www.nytimes.com/2026/09/16/us/family-of-woman-who-died-while-pregnant-sues-texas-over-abortion-ban.html"
+              "headline": "Trump Air Force One Photos Fuel Kennedy Center Demolition Speculation",
+              "url": "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "CNBC",
+              "initials": "C",
+              "domain": "news.google.com",
+              "headline": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vRXMwbEJHYVFhYnhSNlFHVmJrdTB5b1NpY3VRTzFBaTd5LW42OXZIcTBYaVlJZVZEMDZZNlJsOUtncGhkUGlRb25OWjlvd1RLN0p5UFF4VzJxRlZ1cHNuaGE0Y2tPV0IyZElJMGRDc0k3NUtmME9zSFlKSExud9IBgwFBVV95cUxPNm9CV2hkUkQzbFJvZnRUSU1oTFItT0VDUnZ0bWxjeG1TUEhzSHgwMFd5ZlRZNUxjVTNMWXZGRUNhQUNXWW5XdWtrdjB3NUktbTdCNGZEbHZTU1RmYXdGa3dyamlfNVhkbW5DMnozSEw4S1VIcGNoYTFMcmlCMU05dUtybw?oc=5"
             },
             {
               "political": "center",
               "tone": "neutral",
               "source": "The Hill",
               "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Family of Texas woman who died while pregnant sues Paxton, doctors over denied abortion",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc21BeWZnekI0VjhvVEFBdXBxWWdGUktXN3dVVjJVQjVDUGdYaG5DMHdRVmhPcVd5VjhmZ19QRmE1MXlPMjlQeXdMMVVEYzhGNVNBc1FqcTlzNkdiQ2RYd0thdE5KZFFiMEZGMmtYZlpIdG54YUJ2MERFNWhyQjVDWUx5TTF6RDht0gGOAUFVX3lxTE1WRHR3THRyZXhUVjJhZjJwRm5YdVNhcHBWU2VIY09Cc2hGV2V2YmNwTkVsQW1VSVdJUjdNaFdWaU5veHF2X3JzTk1BTnlsQ1RpWHNuSjNRMGUzVllqbU8yLU1uZW9nSGREY1VYZVZKTm1UZHRUbUpDMEFXTFdsZllXWWdCck9DUWp4dnFncWc?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Trump says he told Fed chief to ‘do what you want’ ahead of interest rate hike",
-          "neutralSummary": "The president also suggested that he doesn’t expect Kevin Warsh to follow his directions, saying he wanted the Fed “to be independent.”",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Trump says he told Fed chief to ‘do what you want’ ahead of interest rate hike",
-              "url": "https://www.washingtonpost.com/business/2026/09/16/trump-says-he-told-fed-chief-do-what-you-want/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Trump Rips Fed Rate Hike But Gives Kevin Warsh A Pass",
-              "url": "https://www.dailywire.com/news/trump-rips-fed-rate-hike-but-gives-kevin-warsh-a-pass"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Trump bashes Democrats on crime while campaigning for Michael Whatley in North Carolina",
-          "neutralSummary": "Trump bashes Democrats on crime while campaigning for Michael Whatley in North Carolina&nbsp;&nbsp;NBC NewsTrump visit draws supporters, protesters to Gastonia as Michael Whatley holds Senate campaign rally&nbsp;&nbsp;wcnc.comTrump tests the limits of political make-believe in North Carolina&nbsp;&n",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "NBC News",
-              "initials": "NN",
-              "domain": "news.google.com",
-              "headline": "Trump bashes Democrats on crime while campaigning for Michael Whatley in North Carolina",
-              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUTlWWW5WSy05SEktMGFXa25nMFo3UWNqSmJXY3ZQd2RuQ3pyWGJUQ1E3d3c1VDVZZGw1NDF1QzBEZU5PbmFIdXNjb1lrNlUtYnZNbFdwMjdqVk1BYXVqQlR6blVDZzBzUEE0d1hfYk1pQVV5cDRidGdyd3lXWVhJRGpHeVgtc0NjQVppOC1sQ1hyLUpSSE5pbW54cnltR0hTSTNLSW94ZTBWdXZIWkEzMGc2eTdqRkdTSHVQRjJmazM?oc=5"
+              "domain": "thehill.com",
+              "headline": "Trump appears to review poster about Kennedy Center demolition on Air Force One",
+              "url": "https://thehill.com/homenews/administration/6095594-trump-kennedy-center-demolition-placard/"
             },
             {
               "political": "right",
@@ -442,49 +326,115 @@
               "source": "NY Post",
               "initials": "NYP",
               "domain": "nypost.com",
-              "headline": "Trump lays into Roy Cooper on violent crime in North Carolina — dubs Dem ‘worse’ than Michael Dukakis",
-              "url": "https://nypost.com/2026/09/16/us-news/trump-lays-into-roy-cooper-on-violent-crime-in-nc-dubs-dem-worse-than-michael-dukakis/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump blames Roy Cooper and his ‘band of communists’ for North Carolina crime",
-              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4730999/trump-roy-cooper-north-carolina-crime-whatley/"
+              "headline": "Trump caught reviewing demolition plans for crumbling Kennedy Center",
+              "url": "https://nypost.com/2026/09/17/us-news/trump-caught-reviewing-demolition-plans-for-crumbling-kennedy-center/"
             }
           ]
         },
         {
-          "id": "us-7",
-          "neutralHeadline": "DHS’s ‘warning notice’ to ICE critic ‘likely’ violated First Amendment: Federal judge",
-          "neutralSummary": "A federal judge ruled late Tuesday that the Department of Homeland Security&#8217;s (DHS) may not send any more warning notices to the New York man who sent a critical email to Immigration and Customs Enforcement (ICE), saying the practice &#8220;likely&#8221; violated the First Amendment. U.S. Dist",
+          "id": "us-2",
+          "neutralHeadline": "GOP Congressman Says Donald Trump Is ‘Doing Everything He Can’ To Tank The Midterms",
+          "neutralSummary": "“I mean, this was Donald Trump’s election to lose, and he’s doing everything he can to lose it.”",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "ICE likely violated First Amendment by issuing warning to critic, judge rules",
-              "url": "https://www.washingtonpost.com/nation/2026/09/16/ice-likely-violated-first-amendment-by-issuing-warning-critic-judge-rules/"
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "GOP Congressman Says Donald Trump Is ‘Doing Everything He Can’ To Tank The Midterms",
+              "url": "https://www.huffpost.com/entry/thomas-massie-donald-trump-2026-midterms_n_6aab8336e4b05a5eaee3b0bd"
             },
             {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "DHS’s ‘warning notice’ to ICE critic ‘likely’ violated First Amendment: Federal judge",
-              "url": "https://thehill.com/regulation/court-battles/6094062-dhs-warning-notice-ice-critic-block/"
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "6 other ways Trump is meddling in the midterms",
+              "url": "https://www.vox.com/today-explained-newsletter/500314/trump-midterm-meddling"
             }
           ]
         },
         {
-          "id": "us-8",
-          "neutralHeadline": "Canada could become the EU's first \"associate member\"",
-          "neutralSummary": "Canada could become the EU's first \"associate member\"&nbsp;&nbsp;AxiosTrump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.&nbsp;&nbsp;The New York TimesTrump threatens 'serious tariffs' on EU over proposal to make Canada 'associate member'&nbsp;&nbsp;BBCOpinion |",
+          "id": "us-3",
+          "neutralHeadline": "Jon Kyl, 3-term Arizona senator, dies at 84",
+          "neutralSummary": "Former Sen. Jon Kyl (R-Ariz.), who served in Congress for more than 25 years, died at 84 years old from complications related to a neurological disease, his family announced Thursday. “Our husband, father, grandfather, son, and brother, Jon Kyl, has passed away at the age of 84 due to complications",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Jon Kyl, Senator Known for His Skills Behind the Scenes, Dies at 84",
+              "url": "https://www.nytimes.com/2026/09/17/us/politics/jon-kyl-dead.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Jon Kyl, 3-term Arizona senator, dies at 84",
+              "url": "https://thehill.com/homenews/senate/6095833-former-senator-jon-kyl-dies/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Florida Republican breaks with Trump on immigration in campaign ad: Latino voters ‘feel betrayed’",
+          "neutralSummary": "Rep. Maria Elvira Salazar (R-Fla.) accused President Trump of going “too far” with federal immigration enforcement operations in a campaign advertisement released Thursday. “The same Hispanics who helped you get to the White House in 2024 feel betrayed today,” said Salazar, who&#8217;s running for r",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "G.O.P. Representative Breaks With Trump in Ad: Hispanics ‘Feel Betrayed’",
+              "url": "https://www.nytimes.com/2026/09/17/us/politics/salazar-florida-republican-immigrationt-trump.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Florida Republican breaks with Trump on immigration in campaign ad: Latino voters ‘feel betrayed’",
+              "url": "https://thehill.com/homenews/campaign/6095767-maria-salazar-trump-immigration-ad/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Fed raises interest rates by quarter point to tackle inflation",
+          "neutralSummary": "The Federal Reserve raised interest rates by a quarter percentage point on Wednesday to try to tame inflation, raising the borrowing cost on a variety of business and consumer loans.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Fed raises interest rates by quarter point to tackle inflation",
+              "url": "https://www.washingtonpost.com/business/2026/09/16/fed-raises-rates-steady-inflation-challenges-grow/"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
+              "url": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
+          "neutralSummary": "Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab.",
           "versions": [
             {
               "political": "left",
@@ -492,33 +442,74 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "EU offers Canada 'associate member' role; Trump calls it 'laughable'",
-              "url": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump"
+              "headline": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
+              "url": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes"
             },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94c0dGTGFoQjNZRzNja2ZCVFlBSnczcTdaRW9oQU14MlVHdzBWSWFGdXJqdzB5Tm9LdUZGemtNcWZBeUxGRUQ1dXV4QnVHN29hNm9SS25XSjFGXzg?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "People's houses are collapsing into the ocean. FEMA gives them no other option",
+          "neutralSummary": "Waterfront homes are collapsing along the coast. Homeowners generally have plenty of warning before their house buckles. So why aren't most houses removed, or at least emptied, before they fall?",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "People's houses are collapsing into the ocean. FEMA gives them no other option",
+              "url": "https://www.npr.org/2026/09/17/nx-s1-5844642/fema-homes-collapse-ocean-climate-north-carolina-maine"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Longtime Arizona Sen. Jon Kyl dies following dementia diagnosis",
+          "neutralSummary": "Longtime Arizona Sen. Jon Kyl dies following dementia diagnosis&nbsp;&nbsp;AZ FamilyJon Kyl, Senator Known for His Skills Behind the Scenes, Dies at 84&nbsp;&nbsp;The New York TimesFormer US Sen. Jon Kyl of Arizona, a ‘workhorse’ who shaped water policy, dies at 84&nbsp;&nbsp;PoliticoFormer GOP whip",
+          "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Axios",
-              "initials": "AX",
+              "source": "AZ Family",
+              "initials": "AF",
               "domain": "news.google.com",
-              "headline": "Canada could become the EU's first \"associate member\"",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0VteVBYSjJHYjUwOXM2bnk4NE84N0YzX2Roalo5WXNvV0hhQnVhdk9mZEdGTjlrVkVHcmhXUFNkSzhKeUsyR0hqWmw0M0hxOXFMdlg3MXg3S3pJUDVrdHBfVlRNWnVfS2ZDNWN6enhvWVI1RVBxSjhfUVRZMzN0N0h3?oc=5"
+              "headline": "Longtime Arizona Sen. Jon Kyl dies following dementia diagnosis",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1pWVnpFRUU1RjZEbUthanVkY2x4UXYxblF2LVpQbDJfUnFRMnhNbEhPOEVkM3hSZDNqSE52RkFKMGdLZ191NlhPX2h6TmZtNW1OdnJJY21HcWFkT2JvVFVKQVl3QVlFZ0czazdUYVFxWWUxbmZDU2lJRy1iSV9lemJ3ZXN3Q3E5aUxqaFRBdVo3ak9qQVVCYnJuY1hyOFJw?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Ex-US Sen. Jon Kyl of Arizona dies at 84 after battling neurological disorder",
+              "url": "https://nypost.com/2026/09/17/us-news/ex-us-sen-jon-kyl-of-arizona-dies-at-84-after-battling-neurological-disorder/"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Kamala Harris to campaign for Abdul El-Sayed at Michigan event: Reports",
-          "neutralSummary": "Former Vice President Kamala Harris will campaign for Michigan Senate candidate Abdul El-Sayed (D) at a campaign event next week, according to multiple reports. Harris will join El-Sayed, a doctor and former head of health departments in Detroit and Wayne County, at a roundtable focused on Black mat",
+          "neutralHeadline": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say",
+          "neutralSummary": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say&nbsp;&nbsp;ReutersChina pressing Iran to help rein in Houthis after Saudi appeal, Iranian sources say&nbsp;&nbsp;The Times of IsraelChina emerges as Saudi Arabia’s latest lifeline after Trump declines request to fi",
           "versions": [
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Kamala Harris to campaign for Abdul El-Sayed at Michigan event: Reports",
-              "url": "https://thehill.com/homenews/campaign/6094523-kamala-harris-el-sayed-roundtable/"
+              "tone": "pessimistic",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnJncHUxLTNvV25NTHFxQzVwcnljdzdsTkJCNFNjSlJybF95bFBhcW9DTWV1dnlYQ0prMkI0SmdnNjBrdXNLV0ZNM1pQNW1FcUxuaWpqd3NnRXJ6U2lkQWFqQlR0UVE2X3lYU0RXNXlBdno3QkRkSzB2SEwxUzdYV2NZWlc3SGhZdGRMbUFCVDJZeXZsTy0zOHF4R013c2xyMl8zNmVkaHlFOXM1MmtuZHJRREI3UQ?oc=5"
             },
             {
               "political": "right",
@@ -526,8 +517,8 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Kamala Harris to campaign with el Sayed as Democrats look to unify voters",
-              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4730836/kamala-harris-campaign-el-sayed-michigan-senate/"
+              "headline": "China asks Iran to rein in Houthis after appeal from Saudi Arabia",
+              "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4731524/china-asks-iran-rein-in-houthis-saudi-arabia/"
             }
           ]
         }
@@ -538,8 +529,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Man who allegedly shattered glass door at Police Cantonment Complex charged with vandalism",
-          "neutralSummary": "Saravanan Arulanandan Pillay is accused of committing the offence on Sept 15.",
+          "neutralHeadline": "Air quality in central region enters unhealthy range again with 24-hour PSI readings of 102-103",
+          "neutralSummary": "As at 10pm, readings in the north, south, east and west remained in the moderate range.",
           "versions": [
             {
               "political": "center",
@@ -547,15 +538,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Man who allegedly shattered glass door at Police Cantonment Complex charged with vandalism",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/man-who-allegedly-shattered-glass-door-at-police-cantonment-complex-charged-with-vandalism"
+              "headline": "Air quality in central region enters unhealthy range again with 24-hour PSI readings of 102-103",
+              "url": "https://www.straitstimes.com/singapore/air-quality-in-central-region-enters-unhealthy-range-again-with-a-24-hour-psi-reading-of-102"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Man who sexually abused 11 girls, including daughter, granddaughters and nieces, jailed for 21 years",
-          "neutralSummary": "He had been imprisoned in August 1999 and March 2020 for sexual offences against other victims.",
+          "neutralHeadline": "Lim Tean’s bailor, Leong Sze Hian, to forfeit entire $45,000 bail following lawyer’s abscondment",
+          "neutralSummary": "Leong Sze Hian fell far short of standards expected of a surety, said the DPP.",
           "versions": [
             {
               "political": "center",
@@ -563,24 +554,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Man who sexually abused 11 girls, including daughter, granddaughters and nieces, jailed for 21 years",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/man-who-sexually-abused-11-girls-including-daughter-grandaughters-nieces-jailed-21-years"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Paedophile who sexually abused 11 girls, including his own daughter and granddaughters, gets jail",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlJDVlYwTUxzTUl2R3VCLVkwckdlMlFYX2FSMEp6dE03N3RUTXBfZDJJcEVOZVA1aENKOV9RT1U3UkxlN2lpTkpJUEdfVUFxajRScFY4dnJpMGkxQ29odzdOcW43N2hTc3g5V0dQQ3hIejhXVkFwbi1RRTNjYlBGMHdLWnVZdDcxNEJpNjdrUlpYd3U5MGdqSHI1N3U?oc=5"
+              "headline": "Lim Tean’s bailor, Leong Sze Hian, to forfeit entire $45,000 bail following lawyer’s abscondment",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/lim-teans-bailor-to-forfeit-entire-45000-bail-following-lawyers-abscondment"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Singaporean suffers cardiac arrest after being run over by bus in Taiwan; resuscitated in hospital",
-          "neutralSummary": "The woman, who was trapped under the bus, was rescued with a lifting air bag and spinal board.",
+          "neutralHeadline": "Singaporean dies while climbing mountain in Nepal",
+          "neutralSummary": "The 50-year-old man reportedly died after he felt uncomfortable while descending from an acclimatisation climb.",
           "versions": [
             {
               "political": "center",
@@ -588,15 +570,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Singaporean suffers cardiac arrest after being run over by bus in Taiwan; resuscitated in hospital",
-              "url": "https://www.straitstimes.com/singapore/singaporean-suffers-cardiac-arrest-after-being-run-over-by-bus-in-taiwan-resuscitated-in-hospital"
+              "headline": "Singaporean dies while climbing mountain in Nepal",
+              "url": "https://www.straitstimes.com/singapore/singaporean-dies-while-climbing-mountain-in-nepal"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "16 years’ jail and caning for ex-PE teacher who sexually exploited student in hotels, school",
-          "neutralSummary": "When the girl, then 14, voiced doubts about their age gap, he assured her that age was not an issue.",
+          "neutralHeadline": "No sale at first auction of 6 luxury apartments, Suntec office seized in $3b money laundering case",
+          "neutralSummary": "More than 80 properties will go under the hammer to liquidate assets seized during investigations.",
           "versions": [
             {
               "political": "center",
@@ -604,24 +586,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "16 years’ jail and caning for ex-PE teacher who sexually exploited student in hotels, school",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/16-years-jail-and-caning-for-ex-pe-teacher-who-sexually-exploited-student-in-hotels-school"
+              "headline": "No sale at first auction of 6 luxury apartments, Suntec office seized in $3b money laundering case",
+              "url": "https://www.straitstimes.com/singapore/housing/no-sale-at-first-auction-of-luxury-properties-seized-in-3b-money-laundering-case"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "The Star",
-              "initials": "TS",
+              "source": "businesstimes.com.sg",
+              "initials": "B",
               "domain": "news.google.com",
-              "headline": "16 years’ jail and caning for ex-PE teacher in Singapore who sexually exploited student in hotels, school",
-              "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaF9rSldwMEFINm1vdllGUDllNy1wUGF4aUJrRVVXTUZuTFA3cEhWa0hpMjVCU1dsOGF0SE9hYlhJclhTa3kta04zbTJQRWxwUlczcTlHTjNOaUZ5U0FwRThYc0dPb04zcV9odlR3Q0RiS2ktNWYta3pHOFg2R2I5eTgxQnc4SXFkN3BmUHA2TXVuQkExQW5UZW1tazdkZ3lKelgyRlRVTTJqZnhWQW1YS3hhN0xwWlhsdDZQVzFJbTctbXdOcmNjdXdzM1JGOU1oSmVoRXdDV01YSVBPTklsWEVCQWZBQ2ZhOENIREFDemN6cGhLU3NTRGxR?oc=5"
+              "headline": "Luxury properties seized in S$3 billion money laundering case fail to sell at auction",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNjJLaF84MmhMNEhnc05PLWc2ZlpFclBHSlpQSnRoOU90MFNyYi1KR0Y0S1JNSHFGZm5rdXhGNUNBQXlCcjFFUlFQVjRzMnB1R1FLQUQ3OG9pMUlqUmx4Njhtb1hQb2JwaWQ0TW5tVVYtUnJ4dk9VT1ZwU1lOMm5lUkozYmE1Mm1Ec1dZd2VKdlZKWDJOTDN4M3ZHNDFuQnJiMlJVY0hDYjk3NmdENnJuNUF5eVAxbmpu?oc=5"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "Climate change likely to have helped trigger Nepal glacier collapse, scientists say",
-          "neutralSummary": "Rapidly warming temperatures in the region have caused glaciers to thin and have melted ice and permafrost buried deep in the bedrock of the Himalayas, according to the researchers.",
+          "neutralHeadline": "India's Tata Sons reappoints Chandrasekaran as chairman in surprise reversal",
+          "neutralSummary": "India's Tata Sons reappoints Chandrasekaran as chairman in surprise reversal",
           "versions": [
             {
               "political": "center",
@@ -629,24 +611,15 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Climate change likely to have helped trigger Nepal glacier collapse, scientists say",
-              "url": "https://www.channelnewsasia.com/asia/nepal-tibet-disaster-climate-change-glacier-collapse-6390591"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Climate change likely played role in Nepal-Tibet flood, study finds",
-              "url": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss"
+              "headline": "India's Tata Sons reappoints Chandrasekaran as chairman in surprise reversal",
+              "url": "https://www.channelnewsasia.com/business/indias-tata-sons-reappoints-chandrasekaran-chairman-in-surprise-reversal-6391661"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "'We simply want to help people': Indonesia army chief on why it is building thousands of bridges, wells",
-          "neutralSummary": "General Maruli Simanjuntak tells CNA in an exclusive interview why the building of bridges and digging of wells by the military is consistent with Indonesia’s defence philosophy.&nbsp;",
+          "neutralHeadline": "Most stocks rise as Fed hikes and oil prices drop",
+          "neutralSummary": "Equity markets across Asia were mostly higher on Thursday (Sep 17) as Tokyo, Singapore, Mumbai, Bangkok and Jakarta all advanced.",
           "versions": [
             {
               "political": "center",
@@ -654,31 +627,40 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "'We simply want to help people': Indonesia army chief on why it is building thousands of bridges, wells",
-              "url": "https://www.channelnewsasia.com/asia/indonesia-bridges-army-chief-maruli-simanjuntak-pongpet-6388976"
+              "headline": "Most stocks rise as Fed hikes and oil prices drop",
+              "url": "https://www.channelnewsasia.com/business/stocks-markets-fed-rate-hike-inflation-us-6390891"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Stocks, Bonds Rise After Fed-Day Drop as Oil Falls: Markets Wrap",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-16/stock-market-today-dow-s-p-live-updates"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "Timeline: From budget-airline pioneer to financial strain - how did AirAsia get here?",
-          "neutralSummary": "Bought for RM1 in 2001, AirAsia grew from a struggling Malaysian carrier into one of Asia’s best-known low-cost airline groups, but more than two decades later, it is facing mounting financial pressure from debt and rising fuel costs.",
+          "neutralHeadline": "Four taken to hospital after multi-vehicle accident on CTE",
+          "neutralSummary": "Two drivers are assisting with police investigations.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Timeline: From budget-airline pioneer to financial strain - how did AirAsia get here?",
-              "url": "https://www.channelnewsasia.com/asia/airasia-timeline-budget-airline-pioneer-financial-strain-6389446"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Four taken to hospital after multi-vehicle accident on CTE",
+              "url": "https://www.straitstimes.com/singapore/four-taken-to-hospital-after-multi-vehicular-accident-on-cte"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Retain ECP’s recreational value, minimise impact on nature, among feedback for Long Island works",
-          "neutralSummary": "The HDB received 430 responses for an environmental study for the works slated to begin end-2026.",
+          "neutralHeadline": "Crystal Jade shuts Clementi Mall and Jurong Point outlets, bringing total closures in 2026 to five",
+          "neutralSummary": "They come after the company shuttered its Great World outlet earlier in September.",
           "versions": [
             {
               "political": "center",
@@ -686,15 +668,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Retain ECP’s recreational value, minimise impact on nature, among feedback for Long Island works",
-              "url": "https://www.straitstimes.com/singapore/environment/retain-ecps-recreational-value-minimise-impact-on-nature-among-feedback-for-long-island-works"
+              "headline": "Crystal Jade shuts Clementi Mall and Jurong Point outlets, bringing total closures in 2026 to five",
+              "url": "https://www.straitstimes.com/singapore/crystal-jade-shuts-clementi-mall-and-jurong-point-outlets-bringing-total-closures-in-2026-to-five"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "True Fitness closure: Put limits on what spas and gyms can collect in pre-paid packages?",
-          "neutralSummary": "Prepayments are common in different industries, and customers have collectively lost millions of dollars on such plans.",
+          "neutralHeadline": "KKH-MUIS team wins top healthcare award for guiding Muslim couples from marriage to parenting",
+          "neutralSummary": "Seven clinicians and two teams were honoured at the National Medical Excellence Awards.",
           "versions": [
             {
               "political": "center",
@@ -702,8 +684,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "True Fitness closure: Put limits on what spas and gyms can collect in pre-paid packages?",
-              "url": "https://www.straitstimes.com/singapore/true-fitness-closure-put-limits-on-what-spas-and-gyms-can-collect-in-pre-paid-packages"
+              "headline": "KKH-MUIS team wins top healthcare award for guiding Muslim couples from marriage to parenting",
+              "url": "https://www.straitstimes.com/singapore/health/kkh-muis-team-wins-top-healthcare-award-for-guiding-muslim-couples-offering-antenatal-support"
             }
           ]
         }
@@ -714,17 +696,51 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "‘India, you better buy oil somewhere else’: US senator’s warning after Russia sanctions bill clears House",
-          "neutralSummary": "The legislation does not itself impose a 100% tariff on Indian goods, but gives Trump the authority to levy such duties under special conditions if he wishes.",
+          "neutralHeadline": "India warns US on Russia sanctions bill",
+          "neutralSummary": "India warns US on Russia sanctions bill",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "India warns US on Russia sanctions bill",
+              "url": "https://economictimes.indiatimes.com/news/india/india-warns-that-washingtons-russia-sanctions-bill-holds-implications-for-bilateral-ties-energy-market/articleshow/134316619.cms"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "India warns new US tariffs over Russian oil could impact ties",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMl9PcjVlYklaOEduZmFaQTc4UTYydWlqdzRhWkI5SGl6YTl5blRoY042TWJidktWNDFfTmo1NHFTYU1MVVVVSXozUkVMcWVWRWZBTExJZzVhZ2hzeGJTNFBDdjZ1YzZ5cHdsRFc5T1U5WDlZdDduUE01MmMyTkZyQ3U2ZDFGb0Yya1I5U0FINW5xMzNOOUhnbVByU054WmNjYjFqZ9IBqgFBVV95cUxNQURNRGtuanJNa3FsVEZWdWJHT1BuQTN2NUJVVm11RUFnemZfbDlnN2h0NFFUU2l4dWNYNGduSGtQV28wYUQ1X3l3cGl6NU9BVFU1WXRlMl9uMDQzOU0wVzdGR3JKVHA4TzB3dW03TXpmZ2JKTFJlbzRzZU9EWGcyTEQ3djdFWFBQeHRab2duTlRfcUxWbjBZWm1oa3BBa0xBeVR4ZlJCWkhJQQ?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "OpIndia",
+              "initials": "OPI",
+              "domain": "opindia.com",
+              "headline": "US Congress passes Sanctioning Russia and Iran Act: Here’s what the bill says, its impact, and India’s response",
+              "url": "https://www.opindia.com/2026/09/us-congress-passes-sanctioning-russia-and-iran-act-what-bill-says-impact-indias-response/"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "On Modi's birthday, CM Omar Abdullah wishes PM would grant J&K statehood",
+          "neutralSummary": "Omar Abdullah also advised the Ladakh leadership to not rely on Centre's verbal assurances regarding their struggle for constitutional safeguards.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "India, China To Face New Trump Tariffs? US House Passes Russia Sanctions Bill",
-              "url": "https://www.ndtv.com/world-news/us-congress-passes-sweeping-russia-sanctions-bill-12056969#publisher=newsstand"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Birthday wishes pour in for Modi as he turns 76",
+              "url": "https://www.thehindu.com/news/national/leaders-greet-pm-modi-on-76th-birthday/article71475668.ece"
             },
             {
               "political": "center",
@@ -732,8 +748,56 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "‘India, you better buy oil somewhere else’: US senator’s warning after Russia sanctions bill clears House",
-              "url": "https://www.hindustantimes.com/india-news/india-you-better-buy-oil-somewhere-else-us-senator-s-warning-after-russia-sanctions-bill-clears-house-101789619145208.html"
+              "headline": "On Modi's birthday, CM Omar Abdullah wishes PM would grant J&K statehood",
+              "url": "https://www.hindustantimes.com/india-news/on-modis-birthday-cm-omar-abdullah-wishes-pm-would-grant-jammu-kashmir-statehood-101789648208546.html"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Supreme Court seeks Manipur Chief Secretary report on 25 unnatural deaths in relief camps",
+          "neutralSummary": "CJI slams failure to give information on the deaths, including a sexual assault, to a court-appointed panel; asks why post-mortems were conducted in only 20 out of the 640 deaths in the relief camps",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Supreme Court seeks Manipur Chief Secretary report on 25 unnatural deaths in relief camps",
+              "url": "https://www.thehindu.com/news/national/manipur/supreme-court-expresses-shock-over-deaths-in-relief-camps-in-manipur-asks-chief-secretary-to-respond/article71475957.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Supreme Court's Strong Remarks Against Tamil Nadu's Opposition To Hindi",
+          "neutralSummary": "The Tamil Nadu Hindi language issue came up in the Supreme Court today",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Supreme Court's Strong Remarks Against Tamil Nadu's Opposition To Hindi",
+              "url": "https://www.ndtv.com/india-news/supreme-courts-strong-remarks-against-tamil-nadus-opposition-to-hindi-12058998#publisher=newsstand"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Who owns Tata, who runs it? The Tata Sons-Tata Trusts power tussle explained",
+          "neutralSummary": "Tata Sons said in a statement that \"Chandra acceded to the Board's request to reconsider his decision\". The board subsequently \"resolved by a majority vote to re-appoint him as Executive Chairman for a further term of five years upon the expiry of his current tenure\".",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Who owns Tata, who runs it? The Tata Sons-Tata Trusts power tussle explained",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/who-owns-tata-who-runs-it-the-power-struggle-between-tata-sons-and-tata-trusts-explained-noel-tata-n-chandrasekaran/articleshow/134314550.cms"
             },
             {
               "political": "left",
@@ -741,49 +805,24 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "news.google.com",
-              "headline": "U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QdIBvAFBVV95cUxNNVZTYkhoZ0hEWW1saXFmcmQwNU9qaHlwdmR3amt0NGlQSU1vSzg0SjMxVHZQbjBMQVpFekxlUUVoVldnQTNsX09sOWFyWmZDUXhxNnhVYXNONlFreGNMbzdZX044Rm5icTVPVU9ROV9PY3k0bGFvT2VTVVY1a05xOFJOYXE5T3YxQ01MdkpRZjFQWlN6a2xlV0NPVFNwWmNlMEFCQmpkUFpIeVNMVFMwVzMxSjJvblpFZ0RGdQ?oc=5"
+              "headline": "Chandrasekaran accepts re-appointment as Tata Sons chairman, Tata Trusts terms it illegal",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSE9OTGxDalhKSmdTMzZCOWtaMG1NZzFweXZBT3Zuc3dtbWEydUhnZmJUN3BCakFXUS0tekI3LXI3c2ZBTElMemNEMWhnM3YyNkNyb05qeXltdEMycUlTRi1PVG0zdHd1cHU3Z1l4X3ZnaEF1cVd1Zk1PekhfYU9fSG1ONGRwV0E1ZkZkQ1NfZXYxRnNZVTZVSUswU3gxc3V4SXNJUEtaZkh2dTZnSkZ0czdVZk1PNFNzZ2NHZjNkUUgtNFpCam5GM0ViNmZzZTdHdWfSAdgBQVVfeXFMUDEybDRoWVhYR0g3NC15bVAtdXFnaWFGTmVRRWhOcE8yQlFHbDBGVXZ3TEdVMlVHOUNTZjdlRnMxQkhXTlpuekptMmZ4alVDNzdZRE10WkZQNjR1VjN0aDN6Njlkd2RTT1dxWS1TTnBjN2ZMdWEyWlJoNWVadFF3Q204YU9zcDY3NlBhb1lueFZ1U3BtdlluWVYzY1p1TFFpU19ZUFYyOUNCdUpUc0RJWWNqV0c1Um1nc3RtazlCcHljVGRoREExY2F3bmQ4TDlWd2h2bk8zTXpT?oc=5"
             }
           ]
         },
         {
-          "id": "india-2",
-          "neutralHeadline": "Iranian drones target US-linked ship near Hormuz",
-          "neutralSummary": "Iranian drones target US-linked ship near Hormuz",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "US-Contracted Vessel Hit By Iranian Missiles Near Strait Of Hormuz: Report",
-              "url": "https://www.ndtv.com/world-news/us-contracted-vessel-hit-by-iranian-missiles-near-strait-of-hormuz-report-12056877#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Iranian drones target US-linked ship near Hormuz",
-              "url": "https://economictimes.indiatimes.com/news/defence/iranian-drones-missile-target-us-contracted-vessel-near-strait-of-hormuz-crew-injured-report/articleshow/134301478.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Disha Salian’s father sends Rs 500cr defamation notice to Aaditya Thackeray",
-          "neutralSummary": "Disha Salian's father has sent a defamation notice seeking Rs 500 crore compensation.  The notice targets Aaditya Thackeray and Anil Deshmukh for their statements.  Thackeray denied any acquaintance with Salian and called it a false campaign.  The CBI recently registered an FIR concerning Salian's d",
+          "id": "india-6",
+          "neutralHeadline": "'Politically motivated': Uddhav Thackeray denies link to Disha Salian case, alleges ‘character assassination’",
+          "neutralSummary": "Uddhav Thackeray reiterated said that Disha Salian's death was an unfortunate incident but his family had no connection with it. &nbsp;",
           "versions": [
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Disha Salian’s father sends Rs 500cr defamation notice to Aaditya Thackeray",
-              "url": "https://timesofindia.indiatimes.com/city/mumbai/rs-500-crore-defamation-notice-to-aaditya-thackeray-in-disha-salian-death-case/articleshow/134303274.cms"
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "'Politically motivated': Uddhav Thackeray denies link to Disha Salian case, alleges ‘character assassination’",
+              "url": "https://www.hindustantimes.com/india-news/uddhav-thackeray-denies-link-to-disha-salian-case-alleges-character-assassination-aaditya-thackeray-101789654312613.html"
             },
             {
               "political": "right",
@@ -797,57 +836,9 @@
           ]
         },
         {
-          "id": "india-4",
-          "neutralHeadline": "E.M. Sudarsana Nachiappan, former Union Minister and senior Congress leader, passes away at 79",
-          "neutralSummary": "Sudarsana Nachiappan had defeated P. Chidambaram in Sivaganga during the 1999 Lok Sabha elections",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "E.M. Sudarsana Nachiappan, former Union Minister and senior Congress leader, passes away at 79",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/em-sudarsana-nachiappan-former-union-minister-and-senior-congress-leader-passes-away-at-79/article71475548.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Dengue spread neither unusual nor alarming this year: Tamil Nadu Directorate of Public Health",
-          "neutralSummary": "Every year, seasonal variations in dengue cases occur naturally during the monsoon due to changes in climatic conditions, the DPH said",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Dengue spread neither unusual nor alarming this year: Tamil Nadu Directorate of Public Health",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/dengue-spread-neither-unusual-nor-alarming-this-year-tamil-nadu-directorate-of-public-health/article71474004.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Supreme Court agrees to give ‘precedence’ hearing to plea against Delhi SIR",
-          "neutralSummary": "Advocate Prashant Bhushan said the electoral authorities have not disclosed, though the rules require, the names of the people to whom they are disclosing notices.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Supreme Court agrees to give ‘precedence’ hearing to plea against Delhi SIR",
-              "url": "https://www.thehindu.com/news/cities/Delhi/supreme-court-agrees-to-give-precedence-hearing-to-plea-against-delhi-sir/article71475568.ece"
-            }
-          ]
-        },
-        {
           "id": "india-7",
-          "neutralHeadline": "ED widens scrutiny of possible irregularities in IBC proceedings | Explained",
-          "neutralSummary": "Enacted in 2016, the Code provides a time-bound framework for resolving insolvency and maximising the value of a distressed company’s assets",
+          "neutralHeadline": "Adult family member can appear on behalf of voter in response to SIR notices",
+          "neutralSummary": "Adult family member can appear on behalf of voter in response to SIR notices",
           "versions": [
             {
               "political": "left",
@@ -855,15 +846,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "ED widens scrutiny of possible irregularities in IBC proceedings | Explained",
-              "url": "https://www.thehindu.com/news/national/ed-widens-scrutiny-of-possible-irregularities-in-ibc-proceedings-explained/article71475626.ece"
+              "headline": "Adult family member can appear on behalf of voter in response to SIR notices",
+              "url": "https://www.thehindu.com/news/national/telangana/adult-family-member-can-appear-on-behalf-of-voter-in-response-to-sir-notices/article71478007.ece"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "‘Architects of 9/11 were not hiding in caves,’ India tells UNSC in scathing attack at Pakistan",
-          "neutralSummary": "India’s Permanent Representative Harish Parvathaneni listed the names of al-Qaeda leaders who had planned and perpetrated the September 11, 2001, attacks and who were captured in Pakistani cities",
+          "neutralHeadline": "Bengaluru: Two police officers suspended over video showing them collecting cash",
+          "neutralSummary": "Bengaluru: Two police officers suspended over video showing them collecting cash",
           "versions": [
             {
               "political": "left",
@@ -871,15 +862,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "‘Architects of 9/11 were not hiding in caves,’ India tells UNSC in scathing attack at Pakistan",
-              "url": "https://www.thehindu.com/news/national/architects-of-911-were-not-hiding-in-caves-india-tells-unsc-in-scathing-attack-at-pakistan/article71475498.ece"
+              "headline": "Bengaluru: Two police officers suspended over video showing them collecting cash",
+              "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-two-police-officers-suspended-over-video-showing-them-collecting-cash/article71477867.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Ex-Keralam DGP Tomin Thachankary found guilty in disproportionate assets case",
-          "neutralSummary": "Vigilance and Anti-Corruption Bureau registered the case in 2007 alleging that Thachankary had amassed assets disproportionate to his known sources of income between 2003 and 2007",
+          "neutralHeadline": "After brief disruption, officials restart talks for Bangladesh PM Tarique Rahman’s India visit",
+          "neutralSummary": "Sources in Dhaka said efforts are underway to schedule his visit to New Delhi during a suitable period in November following Mr. Rahman’s existing diplomatic engagements",
           "versions": [
             {
               "political": "left",
@@ -887,8 +878,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Ex-Keralam DGP Tomin Thachankary found guilty in disproportionate assets case",
-              "url": "https://www.thehindu.com/news/national/kerala/ex-keralam-dgp-tomin-thachankary-found-guilty-in-disproportionate-assets-case/article71475587.ece"
+              "headline": "After brief disruption, officials restart talks for Bangladesh PM Tarique Rahman’s India visit",
+              "url": "https://www.thehindu.com/news/national/after-brief-disruption-officials-restart-talks-for-bangladesh-pm-tarique-rahmans-india-visit/article71477603.ece"
             }
           ]
         }
