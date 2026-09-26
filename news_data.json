@@ -1,22 +1,31 @@
 {
-  "generatedAt": "2026-09-26T06:48:27.990330+00:00",
+  "generatedAt": "2026-09-26T16:58:40.342676+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "CNN removed from Trump press pool, despite judge order to reinstate White House access",
-          "neutralSummary": "US news outlet CNN has been removed from a press pool that is accompanying President Donald Trump on a trip to Tennessee on Saturday. Last week, CNN, along with MS NOW and Politico, was barred from White House access by the Trump administration, but a judge ordered it temporarily restored, saying th",
+          "neutralHeadline": "Iran Proposes A Deal To Reopen The Strait Of Hormuz In 7 Days If The U.S. Meets Its Conditions",
+          "neutralSummary": "Iran’s disruption of the strait has emerged as its main point of leverage. The effects have been felt far beyond the Middle East.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Iran Proposes A Deal To Reopen The Strait Of Hormuz In 7 Days If The U.S. Meets Its Conditions",
+              "url": "https://www.huffpost.com/entry/iran-proposes-deal-reopen-strait-of-hormuz-7-days-us-meets-conditions_n_6ab69619e4b0bad9a6472b11"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "White House bars CNN from travelling with Trump on Air Force One",
-              "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss"
+              "headline": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+              "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -24,8 +33,58 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "White House bars CNN from Air Force One for Trump’s upcoming trip",
-              "url": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss"
+              "headline": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz",
+              "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Pope Warns 'Paradise Of Machines' Could Undermine Humanity As He Opens France Trip",
+          "neutralSummary": "From the very start of his pontificate, Leo has identified artificial intelligence as one of the greatest challenges facing humanity.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Pope Warns 'Paradise Of Machines' Could Undermine Humanity As He Opens France Trip",
+              "url": "https://www.huffpost.com/entry/pope-ai-warning_n_6ab67e78e4b075a3d285a2a0"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+              "url": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Huge crowds cheer Pope Leo along Champs-Elysees ahead of Paris mass",
+          "neutralSummary": "Luke Shrago is live from Paris.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Pope praises 'energy and commitment' of young people as huge crowds join open-air Mass in Paris",
+              "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Several hundred thousand people gather for Pope Leo’s mass in Paris",
+              "url": "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
             },
             {
               "political": "center",
@@ -33,49 +92,40 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "CNN removed from Trump press pool, despite judge order to reinstate White House access",
-              "url": "https://www.france24.com/en/americas/20260926-cnn-removed-from-trump-press-pool-despite-judge-order-to-reinstate-white-house-access"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "CNN left off Air Force One for Trump’s trip to Tennessee as White House installs new media restriction",
-              "url": "https://nypost.com/2026/09/25/us-news/cnn-left-off-air-force-one-for-trumps-trip-to-tennessee-as-white-house-installs-new-media-restriction/"
+              "headline": "Huge crowds cheer Pope Leo along Champs-Elysees ahead of Paris mass",
+              "url": "https://www.france24.com/en/huge-crowds-cheer-pope-leo-along-champs-elysees-ahead-of-paris-mass"
             }
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "Hurricane Polo barrels towards Baja California region of Mexico",
-          "neutralSummary": "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific watersHurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been notably active in recent months. On 22 September, a measurement of",
+          "id": "global-4",
+          "neutralHeadline": "Hundreds of thousands turn out for Pope Leo's popemobile parade along Champs-Élysées ahead of Mass",
+          "neutralSummary": "Hundreds of thousands turn out for Pope Leo's popemobile parade along Champs-Élysées ahead of Mass&nbsp;&nbsp;AP News'A once-in-a-lifetime event': Faithful and curious flock to Pope Leo XIV's Mass in Paris&nbsp;&nbsp;France 24Pope warns a 'paradise of machines' could undermine humanity as he opens F",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Hurricane Polo barrels towards Baja California region of Mexico",
-              "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico"
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Hundreds of thousands turn out for Pope Leo's popemobile parade along Champs-Élysées ahead of Mass",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEJFcjNvV3FnbnMyU21pVDFZV1k0TzFRajdDb0hHaVlrcFZlWThrTDZqdEwtQjdsOUdGeWR4c0JUdE1BMEFzamc5SmtfT3FUWVB2Tm1aa3daSWRoM3JqUl8zMVZkLWdfVm8wdXoyNzBmXzRRYnBvdGptV08xYkFYT1VmZ21wSUlvRHppckpmWXhUdWpCX0Z4RVhaNA?oc=5"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Hurricane Polo Churns Off Mexico's Pacific Coast As 'One Of The Strongest Storms Ever'",
-              "url": "https://www.huffpost.com/entry/hurricane-polo_n_6ab2321fe4b043d6b5685c8a"
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "🔴 Live: Pope Leo celebrates Mass before hundreds of thousands at Concord in central Paris",
+              "url": "https://www.france24.com/en/europe/20260926-live-more-than-half-a-million-expected-at-pope-s-open-air-mass-in-paris"
             }
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "Lots of pomp but little progress as Trump and Xi end state visit to DC",
-          "neutralSummary": "US President Donald Trump and Chinese leader Xi Jinping capped a state visit to Washington on Friday with pomp and pageantry but no real breakthroughs. Trump said he discussed the Iran war with Xi during his two-day visit, with both men confirming they will meet twice more before the end of the year",
+          "id": "global-5",
+          "neutralHeadline": "Trump Xi Summit Leaves Big Issues Unresolved",
+          "neutralSummary": "Bloomberg North Asia correspondent Stephen Engle tells Bloomberg This Weekend that President Donald Trump and Chinese President Xi Jinping bought more time to negotiate over trade while major disagreements involving Taiwan, Iran and technology remain. Speaking with hosts David Gura and Christina Ruf",
           "versions": [
             {
               "political": "left",
@@ -88,69 +138,19 @@
             },
             {
               "political": "center",
-              "tone": "optimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Lots of pomp but little progress as Trump and Xi end state visit to DC",
-              "url": "https://www.france24.com/en/americas/20260925-lots-of-pomp-but-no-progress-as-trump-and-xi-end-state-visit"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Trump reportedly rejects Iran’s 7-day plan to reopen Strait of Hormuz",
-          "neutralSummary": "US President Donald Trump has reportedly rejected an Iranian plan to reopen the Strait of Hormuz. The proposal was presented by Iran's Foreign Minister Abbas Araghchi to Trump’s envoy Steve Witkoff on the sidelines of a UN gathering in New York. The plan stipulated that the important waterway would",
-          "versions": [
-            {
-              "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-              "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Trump reportedly rejects Iran’s 7-day plan to reopen Strait of Hormuz",
-              "url": "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Pope warns against 'losing humanity' to AI machines",
-          "neutralSummary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Pope warns against 'losing humanity' to AI machines",
-              "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-              "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Trump Xi Summit Leaves Big Issues Unresolved",
+              "url": "https://www.bloomberg.com/news/videos/2026-09-26/trump-xi-summit-leaves-big-issues-unresolved-video"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "US Supreme Court allows Trump to use controversial voter 'verification' system",
-          "neutralSummary": "The US Supreme Court on Friday ruled the Trump administration can use a controversial new federal database that would ostensibly verify voter citizenship in November’s elections. Critics argue the administration is exaggerating the threat of non-citizen voters – an extreme rarity in US elections – t",
+          "neutralHeadline": "4 American tourists dead after building explosion and collapse in Athens",
+          "neutralSummary": "4 American tourists dead after building explosion and collapse in Athens&nbsp;&nbsp;CBS NewsSix Dead After Explosion in Athens Tourist District&nbsp;&nbsp;The New York TimesAthens explosion: Six dead in blast near Acropolis in Plaka district&nbsp;&nbsp;BBCRescuers pull 4 unconscious from collapsed b",
           "versions": [
             {
               "political": "left",
@@ -158,58 +158,58 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-              "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss"
+              "headline": "British national among six dead in building explosion close to Acropolis in Athens",
+              "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "US Supreme Court allows Trump to use controversial voter 'verification' system",
-              "url": "https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry"
+              "tone": "pessimistic",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "4 American tourists dead after building explosion and collapse in Athens",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDkta3c5RDBnb19GWWI2S3Vib1VDTVc1OXhOWVBod21HeTRRbW92Y3hFbVprVWdSOVRWbF9qSEN5Y25TbU8tT19aT0ZIUWg5Q2lablRnN0c4Z1FRX2JLY3dzWW1CaFRnTzVSczEwdWJFNXpkc2dZTF91WjlnTEFDM00yZU54bW51?oc=5"
             }
           ]
         },
         {
           "id": "global-7",
-          "neutralHeadline": "Thousands turn out to greet Pope in France",
-          "neutralSummary": "Thousands turn out to greet Pope in France&nbsp;&nbsp;BBCPope warns a ‘paradise of machines’ could undermine humanity as he opens France trip&nbsp;&nbsp;apnews.comPope Leo XIV begins his Apostolic Journey to France&nbsp;&nbsp;Vatican NewsPope Leo meets with France's Macron in Paris, says AI is a maj",
+          "neutralHeadline": "Bangkok roads submerged as flood disaster declared",
+          "neutralSummary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Thousands turn out to greet Pope in France",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuSEtYTmk2T19vWnlISGRScnZ6ZXBNc0dJNVpEUmdjY2IwLXhMUjFzbGdRV2tGaS1reTY2MldkYU50VHU1UFJpVTRPNk1pY0p4N0pKZThqOVA?oc=5"
+              "domain": "bbc.co.uk",
+              "headline": "Bangkok roads submerged as flood disaster declared",
+              "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Pope Leo XIV begins historic 4-day visit to France",
-              "url": "https://www.foxnews.com/world/pope-leo-xiv-begins-historic-4-day-visit-france"
+              "source": "CNN",
+              "initials": "CNN",
+              "domain": "news.google.com",
+              "headline": "Thai capital Bangkok declared disaster zone amid widespread flooding",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFo1R1RraXg1b3VJVDg2bzhodmNCcmxzbWNVekh1akJJTkJXLVNGM05UMGZveXJUWnB6TFJNalUxQzI1X1hSbUFKNnpyOC1jcm51QUZON0diTm9EQ0NwRmItemJyOENvUnBYcHBMRWM4YXduOTIxbVU1VVEzOHgyZ2JNR0Fhejg?oc=5"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
-          "neutralSummary": "Armed with paper fortune-tellers and pop worship songs, young French Catholics from the Anuncio movement fanned out into the crowds awaiting Pope Leo XIV's arrival in Paris on Friday, hoping to bring strangers closer to God in one of Europe's most secular countries.",
+          "neutralHeadline": "Brazil's President Lula bans online betting ahead of presidential election",
+          "neutralSummary": "Brazil’s President Luiz Inácio Lula da Silva on Friday signed an order banning fixed-odds betting just over a week ahead of the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Pope Leo XIV makes first official Papal visit in France in nearly 20",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pope-leo-xiv-makes-first-official-papal-visit-in-france-in-nearly-20?traffic_source=rss"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Brazil's Lula bans online gambling ahead of presidential election",
+              "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
@@ -217,24 +217,24 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
-              "url": "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit"
+              "headline": "Brazil's President Lula bans online betting ahead of presidential election",
+              "url": "https://www.france24.com/en/brazil-s-president-lula-bans-online-betting-ahead-of-presidential-election"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Yemen's president calls on his people to mobilise against Iran-backed Houthis",
-          "neutralSummary": "Yemen’s Riyadh-based President Rashid al-Alimi on Friday called on ‌his people to mobilise and join the armed ‌forces while offering a general amnesty to the Iran-backed Houthi rebels who have seized swaths of Yemen's Red Sea coast and imposed a naval blockade on Saudi Arabia.",
+          "neutralHeadline": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
+          "neutralSummary": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?&nbsp;&nbsp;Al JazeeraTelecoms networks disrupted in Tigray as Ethiopia's military cites major losses by rebels&nbsp;&nbsp;ReutersA disastrous new war threatens in Africa&nbsp;&nbsp;The EconomistEthiopia fighting: Are Tigray'",
           "versions": [
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Yemen's president calls on his people to mobilise against Iran-backed Houthis",
-              "url": "https://www.france24.com/en/middle-east/20260925-yemen-president-calls-on-his-people-to-mobilise-against-iran-backed-houthis"
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGYxMGJ0MFdTcnppR3hUUkxpaXRWbWRWdDNfeGhfMjByY2c5RklUTmtQVGRGcXRNbk5uWFIwUjZkRDBjdTY5RWVjb2dHNTBkcXFmMmUybVl3em9BU0VjWWRRdnZFWVFXZXZiZFZWQXcxUjdzS2NYM0Y5VTBkNUQ3ZGNnUnFUNzJfX3dLNnJ4SV82Skw0WS1BQ05QTy1ORjNXeGNrOExTbXlPVkx0WVVFUDRvdFQwQdIBuwFBVV95cUxNWjFRVzhqVDNxWEsyOGVrRE9acjdsLWpDMHFzN3ZrNzNkWWV3WlNVUTNtb1FRSGQ0ZFRkSXBReTlUelhrdk9xM0didkZidFk0bDRzTFhUMkUyT25UVEVsUG4zUVVaYkFfeExSMTAwNDJJdHdhTEtGQVhRektSTnRnb1BxaWRxQWUtZTFKcDRJS0NmakJaSkg4bDB0MmVKMlA0TG5HSWM0TmlGS2hkandRdDNtbkdmUWpJX0NF?oc=5"
             }
           ]
         }
@@ -245,8 +245,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Supreme Court rejects Republicans’ Missouri redistricting push for third time",
-          "neutralSummary": "Supreme Court rejects Republicans’ Missouri redistricting push for third time&nbsp;&nbsp;NBC NewsSupreme Court Once Again Blocks Republican-Backed Voting Map in Missouri&nbsp;&nbsp;The New York TimesSupreme Court blocks Missouri from using new congressional map in 2026 election&nbsp;&nbsp;Fox NewsSu",
+          "neutralHeadline": "Supreme Court Rejects A Trump-Backed Missouri Congressional Map For The Third Time",
+          "neutralSummary": "The Supreme Court has rejected a new Missouri congressional map backed by President Donald Trump for the third time.",
           "versions": [
             {
               "political": "left",
@@ -256,15 +256,6 @@
               "domain": "huffpost.com",
               "headline": "Supreme Court Rejects A Trump-Backed Missouri Congressional Map For The Third Time",
               "url": "https://www.huffpost.com/entry/supreme-court-missouri-redistricting_n_6ab6f078e4b075a3d285fcc0"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Supreme Court Once Again Blocks Republican-Backed Voting Map in Missouri",
-              "url": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-missouri-congressional-map.html"
             },
             {
               "political": "left",
@@ -285,24 +276,6 @@
               "url": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri"
             },
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "NBC News",
-              "initials": "NN",
-              "domain": "news.google.com",
-              "headline": "Supreme Court rejects Republicans’ Missouri redistricting push for third time",
-              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR2Z3MXZCQVpaQ0ZBMEdjcTZMLVVOZ1NhakhDWW1rQk5hSHdvVnd2VjBQYXlfM0kzMWhqXy15S2U2d1kzSUFzTi1XNWhDeUtScG00akljajBXQjdQa3JYQ1BDQklyNmhQay0wcVdDUjRWZnE4VjhXSXlYMEFZLWdUSXVibEdscnl6UUtmNjFEQ3RydlFKYS1pZTFoMHM2YjN4aWw4VGsyVFhobGxDeHBjU1dFRkY2bkdhTExKTVFxSk9sUQ?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Supreme Court blocks use of GOP-favored map in Missouri — again",
-              "url": "https://thehill.com/regulation/court-battles/6112550-mo-congressional-redistricting-battle/"
-            },
-            {
               "political": "right",
               "tone": "neutral",
               "source": "Fox News",
@@ -310,6 +283,40 @@
               "domain": "foxnews.com",
               "headline": "Supreme Court blocks Missouri from using new congressional map in 2026 election",
               "url": "https://www.foxnews.com/politics/supreme-court-blocks-missouri-from-using-new-congressional-map-2026-election"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
+          "neutralSummary": "The president said the deal was not “acceptable” and demurred on whether he would restart military strikes after the midterm elections.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
+              "url": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "Trump rejects Iran’s seven-day roadmap to reopen Strait of Hormuz",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1VlfSAa4BQVVfeXFMTjljQTNjOXdPLVpNZWhUNTduR2ZZWGN3dDRrak9NOS1WWlBNejVMWDk2aGRkek9CYzB5OWpiTU1BeWtHUkRZZGduc28td2dSZmlsQUM2NTNrQ1M5WU1rcVJoNWZKZlkzNmN5Z1FkWnJFN0FNVDEtQjFKSkYwQ0RQZFpkOWVxNm43dkloMnZtTFFFSy1xVVRYVEJEYkFZdzdBemNCMEJQZGVLZzdvQXlB?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Trump reiterates Iran can not have a nuclear weapon as prez rejects regime’s seven-day ceasefire proposal",
+              "url": "https://nypost.com/2026/09/26/us-news/trump-reiterates-iran-can-not-have-a-nuclear-weapon-as-prez-rejects-regimes-seven-day-ceasefire-proposal/"
             },
             {
               "political": "right",
@@ -317,13 +324,90 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Supreme Court shuts down legal mess over Missouri’s congressional map",
-              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4739540/supreme-court-missouri-congress-map/"
+              "headline": "Trump confirms he rejected Iran’s peace proposal",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4744065/trump-confirm-reject-iran-peace-proposal/"
             }
           ]
         },
         {
-          "id": "us-2",
+          "id": "us-3",
+          "neutralHeadline": "Live updates: Trump attends Texas-Tennessee football game in Knoxville; US, China to cut tariffs on $30 billion worth of goods",
+          "neutralSummary": "President Trump will attend the University of Texas vs. University of Tennessee football game in Knoxville at noon on Saturday — an appearance coming ahead of senators&#8217; last chance to pass the Protect College Sports Act before recessing into a lame-duck period. Trump will fly to Knoxville Satu",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Live updates: Trump attends Texas-Tennessee football game in Knoxville; US, China to cut tariffs on $30 billion worth of goods",
+              "url": "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "US, China strike deal to lower tariffs on $30B in goods after Trump-Xi Washington summit",
+              "url": "https://www.foxnews.com/politics/us-china-strike-deal-lower-tariffs-30b-goods-trump-xi-washington-summit"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Trump to attend major Texas vs. Tennessee college football game — and coaches are worried about disruptions",
+              "url": "https://nypost.com/2026/09/26/sports/trump-to-attend-major-college-football-game-and-coaches-are-worried-about-disruptions/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "US and China make deal cutting tariffs on $30 billion worth of goods",
+              "url": "https://www.washingtonexaminer.com/news/world/4744099/us-china-deal-cut-tariff-30-billion-good/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "CNN Left Off Air Force One For Trump's Upcoming Trip, White House Signals In New Media Restriction",
+          "neutralSummary": "The White House has signaled that CNN will be left off Air Force One for President Donald Trump’s Saturday trip.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "CNN Left Off Air Force One For Trump's Upcoming Trip, White House Signals In New Media Restriction",
+              "url": "https://www.huffpost.com/entry/trump-media-cnn-air-force-one_n_6ab734b9e4b0d1543f544b9a"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
+              "url": "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "White House blocks CNN from traveling with Trump on Air Force One",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGVTcE00R05DNzNrNjlvRUFsVnpSNnRYYTh1MzhtU2pOOW9seklpMUoxX1UwSjQyNkhZSFVCSlhsLVJCUVJmSGxSekZvd09OSUFScUpnaWFBeEVONVdHcF9ncFBOVFhpYjlITmhjNDZUeXhFVUZfWlY0ck9jVHRuUE41V2ptYUVxTlZ6c0Naanhha2g0SWZCbUcyTEo?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
           "neutralHeadline": "Utah University Where Charlie Kirk Was Killed Had Many Security Deficiencies: Report",
           "neutralSummary": "The report says Kirk’s Turning Point USA organization insisted he speak outdoors despite security concerns, and Utah Valley University officials didn’t properly assess the possibility of a rooftop shooter.",
           "versions": [
@@ -353,190 +437,11 @@
               "domain": "washingtonpost.com",
               "headline": "Utah university releases independent review of Charlie Kirk shooting",
               "url": "https://www.washingtonpost.com/nation/2026/09/25/utah-university-releases-independent-review-charlie-kirk-shooting/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Charlie Kirk assassination report highlights several security failures at Utah Valley University",
-              "url": "https://nypost.com/2026/09/26/us-news/charlie-kirk-assassination-report-highlights-several-security-failures-at-utah-valley-university/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Utah Valley University report details key security flaws at Charlie Kirk’s assassination",
-              "url": "https://www.washingtonexaminer.com/news/investigations/4743501/utah-university-report-security-charlie-kirk-assassination/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
-          "neutralSummary": "The White House has signaled that CNN will be left off Air Force One for President Donald Trump's Saturday trip in the latest media restriction in an ongoing dispute with First Amendment implications.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "CNN left off Air Force One for Trump's upcoming trip, White House signals in new media restriction",
-              "url": "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "CNN left off Air Force One for Trump’s trip to Tennessee as White House installs new media restriction",
-              "url": "https://nypost.com/2026/09/25/us-news/cnn-left-off-air-force-one-for-trumps-trip-to-tennessee-as-white-house-installs-new-media-restriction/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "CNN says it was barred from Air Force One pool for Trump Tennessee trip",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4743878/cnn-barred-air-force-one-pool-trump-tennessee-trip/"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "What the Supreme Court's voter-citizenship database decision means for the midterms",
-          "neutralSummary": "What the Supreme Court's voter-citizenship database decision means for the midterms&nbsp;&nbsp;PBSThe Supreme Court just threw a new monkey wrench at the midterms. Here’s what to know&nbsp;&nbsp;CNNSupreme Court Allows Use of Trump Administration’s Expansive Database for Voter Screening&nbsp;&nbsp;T",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Supreme Court Ruling Could Have Limited Impact on Voter Screening in Midterms",
-              "url": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-voter-fraud-midterms-impact.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "PBS",
-              "initials": "P",
-              "domain": "news.google.com",
-              "headline": "What the Supreme Court's voter-citizenship database decision means for the midterms",
-              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXRrT2ZfQ0RhUzJYanc4ZHlsMWlJOC1VOFd1U0VkbERWOGxGUEROTFpRMEFEWWM3YkNueThsS211TjA4d0Q3MXBsTzdzYkdObVBxZkZxN0ZGYVo1WElmT1BGSzNacFpwbXlJT0xGVUlSeFVYNHdlNkFJMzdHSkFsRkxIb1VodjAyTEYtN1IxZWxlOHA2dmdWMFVPOE02aWI1X3VoRzgwaU4xUjFuOXdtYTJiZVdGWG8?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Supreme Court Hands Trump Win On Voter Citizenship Checks Ahead Of Midterms",
-              "url": "https://www.dailywire.com/news/supreme-court-hands-trump-win-on-voter-citizenship-checks-ahead-of-midterms"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Thousands without power, roads flood in New Jersey as first major signs of nor'easter take shape",
-          "neutralSummary": "Thousands without power, roads flood in New Jersey as first major signs of nor'easter take shape&nbsp;&nbsp;apnews.comState of Emergency for parts of New Jersey ahead of nor'easter | Live updates&nbsp;&nbsp;6abc PhiladelphiaRoads flood in New Jersey, inundate some homes, as first major signs of nor'",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape",
-              "url": "https://www.npr.org/2026/09/26/g-s1-145146/roads-flood-in-new-jersey"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Thousands without power, roads flood in New Jersey as first major signs of nor'easter take shape",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGRqdGEzMGFJUjh3UDU4cDJaaGdaWnNMYVpJS1Fid19ueFRYeXRMTGtJODdIeGE4RlYwZnpzU2JWYTdaQnk5LW5KRGluRjVjX2U5cS11UzY4Q0FDQXdWRVJENnluUHBMT1hKa0NRUDlUNU9pVVR0MXN0MFRNLV94WjduYUVkODlBNTdoQUtHUDNvNHp1REV3NWZXQ2c?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Thousands without power, roads flood in New Jersey as first major signs of nor’easter take shape",
-              "url": "https://nypost.com/2026/09/26/us-news/thousands-without-power-roads-flood-in-new-jersey-ahead-of-noreaster-set-to-thrash-east-coast/"
             }
           ]
         },
         {
           "id": "us-6",
-          "neutralHeadline": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-          "neutralSummary": "The visit comes at an important time for both men.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-              "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Xi praises US state visit 'perfection' as Trump calls meetings 'very productive'",
-              "url": "https://www.foxnews.com/politics/xi-praises-us-state-visit-perfection-trump-calls-meetings-very-productive"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Trump, Xi Barely Finish State Visit Before Booking Two More Meetings",
-              "url": "https://www.dailywire.com/news/trump-xi-barely-finish-state-visit-before-booking-two-more-meetings"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Iran War Updates: Tehran proposes 7-day plan to reopen Strait of Hormuz as it seeks deal before U.S. midterms",
-          "neutralSummary": "Iran War Updates: Tehran proposes 7-day plan to reopen Strait of Hormuz as it seeks deal before U.S. midterms&nbsp;&nbsp;CBS NewsExclusive | Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms&nbsp;&nbsp;WSJIran proposes Hormuz plan, Trump reportedly refuses&nbsp;&nbsp;DawnIran war",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CBS News",
-              "initials": "CN",
-              "domain": "news.google.com",
-              "headline": "Iran War Updates: Tehran proposes 7-day plan to reopen Strait of Hormuz as it seeks deal before U.S. midterms",
-              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMkdfOTQxTjRqN04xZFVPX21CZDlGNTFDREhiZjV5RmZWQ090V0RtV3dZamlyQnMxTFVRU29OV2xyLUM0Q2RKTDMwR2hjVjRaaE96SU5HQzN3VHREbE04ZzhHYXNiamw1R0d5ZEozY1J3d2ZfazZoM3J5S2VlYUkxaUpyU3piczhjWkw3M09MQVI?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Iran pitches 7-day plan to US to reopen strait",
-              "url": "https://thehill.com/newsletters/energy-environment/6112626-iran-pitches-7-day-plan-to-us-to-reopen-strait/"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
           "neutralHeadline": "Supreme Court Lets Trump Admin Use Social Security Info To Screen For Noncitizen Voters",
           "neutralSummary": "The unsigned decision overrules lower court decisions that blocked data matching across government agencies.",
           "versions": [
@@ -561,9 +466,9 @@
           ]
         },
         {
-          "id": "us-9",
-          "neutralHeadline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-          "neutralSummary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
+          "id": "us-7",
+          "neutralHeadline": "Nor’easter to bring rain, winds and flooding to the East Coast through the weekend",
+          "neutralSummary": "Nor’easter to bring rain, winds and flooding to the East Coast through the weekend&nbsp;&nbsp;NBC NewsNor'easter will slam Northeast, NYC, Boston through Sunday&nbsp;&nbsp;The Weather ChannelNor'easter Live Updates: Powerful Storm Brings Winds and Heavy Rain to East Coast&nbsp;&nbsp;The New York Tim",
           "versions": [
             {
               "political": "left",
@@ -571,17 +476,58 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-              "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france"
+              "headline": "Powerful nor'easter brings winds, floods to East Coast",
+              "url": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-pounds-mid-atlantic-new-england-coastlines-hurricane-nolo-targets-hawaii"
             },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "NBC News",
+              "initials": "NN",
+              "domain": "news.google.com",
+              "headline": "Nor’easter to bring rain, winds and flooding to the East Coast through the weekend",
+              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU2lFODliY1RlVk1Sa1pOR3ZhVEZsc0Z0S1ZyMVZIQWtLUUFKX0NmeG4tUVNyX0RaREdtQzJxSXJBY0NDSVFxYzlGTmE4aDRVN1I5ZkFxZFJtNWdIcUQ0eTVCY0VoOFpNS2Vmd19mZW45T0ZrQ1RzRlNLbzhBSEN6STEyU0FhUVlMMm5hMm41aFlJMW01MXFvNm9UN2RfZw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+          "neutralSummary": "Takeaways from the Trump-Xi state visit: Pageantry and pandas&nbsp;&nbsp;NPRAt Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia&nbsp;&nbsp;The New York TimesTrump’s red-carpet rollout for Xi was everything MAGA didn’t need amid dire predictions&nbsp;&nbsp;The IndependentAmerica an",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
+              "source": "NPR",
+              "initials": "NPR",
               "domain": "news.google.com",
-              "headline": "Pope Leo warns against AI and says technology ‘must remain at service of humans’ during first visit to France – as it happened",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX2dDTW82Smd5LTlfM0QzdjNkcUl0RFVnbW1Qamp6T3BtY2NTa0VFbzhmcG1LYlBlMG5YZWtOTEVLcVpRR2N0QXJxYTluT0Vhak9GZ3c5TkNmWHl6bmFLLUQ4aW5ZWm9XY2piamQtWUx0Z3B4NWJyT3UtMHNFOFhKb1lwTGJraUtyM1BmaGs4YldrSzdoY0pNdEZKc0Q5eXVxUmowdkU0Z0t2YkpsS1gtUzFFY25acmZYVVE?oc=5"
+              "headline": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVBZWnVJOUxQenNUQWNlSnBVQUk5RWc2WnROWmxkUTBuRHJoazdvNVlIeUhpeDRzNzdoWmlVNUtYV2Z1TU14d0tCUDdUVUllRUQ4SWRPMXc0bm9hSWRkb0lPWEpCM1NjQnRxZ0lDNlpzblpWOU5GVXJDb0wzSFBRcktfOGJKbXNNRW1kM3pjVWRCZTZBUDQ0?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Trump, Xi Barely Finish State Visit Before Booking Two More Meetings",
+              "url": "https://www.dailywire.com/news/trump-xi-barely-finish-state-visit-before-booking-two-more-meetings"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "She grew up under Soviet rule. Now EU's top diplomat warns Europe against giving Russia what it wants",
+          "neutralSummary": "She grew up under Soviet rule. Now EU's top diplomat warns Europe against giving Russia what it wants&nbsp;&nbsp;Fox NewsUS, Europe worry Russia is testing NATO with hybrid attacks and sabotage&nbsp;&nbsp;USA TodayRussia Tycoons Examine How Billionaires Shook Off EU Sanctions&nbsp;&nbsp;Bloomberg.co",
+          "versions": [
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "news.google.com",
+              "headline": "She grew up under Soviet rule. Now EU's top diplomat warns Europe against giving Russia what it wants",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0lpbTYyMG9Fa29jSnZkWlBvQVBqVUF4Qk1UbkFpNmxMV01oTUhBeHo1LVNzS2RoMkI2OEI3WTYxVnQwQldwNHJOOGR4SVpqcjR0UENodmFWUi1ZLWZJSzJCdWNCa1Y3alRBSkVfc3B3Q2c1RFRJdGJCMndEWVBKOHozYlRPRHRwcmRGRkZack5fdG0wOHdHelNDTmhsYUpLT1VrVXRKZDVaUnJfY3fSAbMBQVVfeXFMUExwR3ZpeGZ4cnBkUVlSOXpNeFpvS3ZaOVk2Y1RGQ2dLX1VOdVFBRVc3UUt6LVhYdHZpSUYtZUw1MVJpVGVQa3hOaVVnNEpoeFNXTEwyVFRYVm9BQkFQSFlfWDBMYi0zSUVab0dfWl9xanRTOGNUMm92YVhJZFdobFFMc2lqOENfeXFJQllwOUVvWi1KdTRnYTNucjZrTEZtelQtY0NDT0tjRVBpQnVXd3ZsbVU?oc=5"
             }
           ]
         }
@@ -592,24 +538,42 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "‘Should we move houses?’: Property agents step in as parents plan for Primary 1",
-          "neutralSummary": "Some agents market themselves as Primary 1 strategists, while others offer school maps and advice.",
+          "neutralHeadline": "Bangkok declares disaster after homes flooded, roads submerged by heavy rain",
+          "neutralSummary": "Prime Minister Anutin Charnvirakul cut short a trip to London to return home after more than 300mm of rain fell in some areas between Thursday afternoon and Saturday morning, according to officials.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "‘Should we move houses?’: Property agents step in as parents plan for Primary 1",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/should-we-move-houses-property-agents-step-in-as-parents-plan-for-primary-1"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Bangkok declares disaster after homes flooded, roads submerged by heavy rain",
+              "url": "https://www.channelnewsasia.com/asia/bangkok-heavy-rain-canals-roads-flooding-disaster-6412356"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "South China Morning Post",
+              "initials": "SC",
+              "domain": "news.google.com",
+              "headline": "Bangkok declares flood disaster across city as thousands flee from homes",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXh1cEdSa0h4Z0Nkb3VJM1ltaW1PSzh1eXlkM3Zad01KcTZDbkd4djhqRXNmTEFrZE9vNWFiVkcwVjRHV0pJNzNCdkRmSjY3TGVIbTBhd1ZPSkxtYWNqN21IWmxKVnlXVnBqejZmbHcycDJQdDZFYjB1MzVoTTc2LXM4MzdscjA2c1Q3d0k1ZkN6SzVuMVMyejFFZW0yc0ZUb3cyREhNa0ZtX2RLZ1pXVjIwM3NWM1RlMXBUUjUwTTNPbUx1ajNvcVR0RFBySzZGaG9kdVZqVdIB1wFBVV95cUxPM2JvMTNLZHFZV1dfdWZiSG9JeEZwT0ZFWUJyZ1FuMk5fQWxETGYtcWRKQ2FlNFd1R0IwVkFvZi1ISmI2VWc5b1ZFRU5sZER4R29hU3dzeGVIaFJwLVVKZllFSjBsNGxNYlFpNlc0aXpTTklrQW1TSldyNzZLTDVZaGpfM1lMWmRsQThMc2pEVEQ4dVJHa3AtSUxkOHU5SjI0Q3lqc09yc1l2TEZUcm1nMGhZaWZnY2Q1d3hRcGlOVkVHMjJBOXBsNF9RT0VOSzJNNExUUEJEMA?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Bangkok roads submerged as flood disaster declared",
+              "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Man to be charged with allegedly starting a fire in front of mosque at UOB Plaza",
-          "neutralSummary": "The fire was extinguished by a member of public and no injuries were reported.",
+          "neutralHeadline": "Air quality in central region back in unhealthy range; 24-hour PSI reading at 115",
+          "neutralSummary": "Hourly PM2.5 readings were in the elevated band across Singapore as at 11pm.",
           "versions": [
             {
               "political": "center",
@@ -617,15 +581,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Man to be charged with allegedly starting a fire in front of mosque at UOB Plaza",
-              "url": "https://www.straitstimes.com/singapore/man-to-be-charged-with-allegedly-starting-a-fire-in-front-of-mosque-at-uob-plaza"
+              "headline": "Air quality in central region back in unhealthy range; 24-hour PSI reading at 115",
+              "url": "https://www.straitstimes.com/singapore/air-quality-in-central-region-back-in-unhealthy-range-24-hour-psi-reading-at-104"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Non-verbal, non-mobile S’pore girl joins global hackathon where experts try to solve medical mysteries",
-          "neutralSummary": "The Undiagnosed Hackathon aims to help the 60 per cent of rare disease patients worldwide still without a diagnosis.",
+          "neutralHeadline": "When two families try to claim the same body: Singapore officers help identify Nepal flood victims",
+          "neutralSummary": "Methods used include fingerprint comparisons and post-mortem examinations.",
           "versions": [
             {
               "political": "center",
@@ -633,31 +597,31 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Non-verbal, non-mobile S’pore girl joins global hackathon where experts try to solve medical mysteries",
-              "url": "https://www.straitstimes.com/singapore/health/non-verbal-non-mobile-spore-girl-joins-global-hackathon-where-experts-try-to-solve-medical-mysteries"
+              "headline": "When two families try to claim the same body: Singapore officers help identify Nepal flood victims",
+              "url": "https://www.straitstimes.com/singapore/when-two-families-claimed-the-same-body-singapore-officers-help-identify-nepal-flood-victims"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Navigate a moon maze, count pups in ST’s Sept activity page for children",
-          "neutralSummary": "Navigate a moon maze, count pups in ST’s Sept activity page for children",
+          "neutralHeadline": "Warm words, limited deals: Trump-Xi summit puts focus on managing US-China rivalry",
+          "neutralSummary": "US President Donald Trump and Chinese President Xi Jinping’s personal rapport helped set a warm tone in Washington this week, but analysts say lasting stability will depend on whether the two sides can better manage their unresolved differences.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Navigate a moon maze, count pups in ST’s Sept activity page for children",
-              "url": "https://www.straitstimes.com/singapore/community/navigate-a-moon-maze-count-pups-in-sts-sept-activity-page-for-children"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Warm words, limited deals: Trump-Xi summit puts focus on managing US-China rivalry",
+              "url": "https://www.channelnewsasia.com/east-asia/warm-words-limited-deals-trump-xi-summit-puts-focus-managing-us-china-rivalry-6410746"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "How a missed 2,000-kueh order pushed a heritage Singapore brand to adopt AI",
-          "neutralSummary": "System trained to recognise all the naming variations on HarriAnn’s menu for its corporate clients and cafe outlets.",
+          "neutralHeadline": "Joint highest temperature for month recorded in Woodlands on Sept 26",
+          "neutralSummary": "NEA data showed that the temperature reached 35.8 deg C at Woodlands Avenue 9 Climate Station.",
           "versions": [
             {
               "political": "center",
@@ -665,15 +629,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "How a missed 2,000-kueh order pushed a heritage Singapore brand to adopt AI",
-              "url": "https://www.straitstimes.com/tech/how-a-missed-2000-kueh-order-pushed-a-heritage-brand-to-adopt-ai"
+              "headline": "Joint highest temperature for month recorded in Woodlands on Sept 26",
+              "url": "https://www.straitstimes.com/singapore/joint-highest-temperature-for-month-recorded-in-woodlands-on-sept-26"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "No flashy robots, just a quiet transformation: How Singapore’s food and retail sectors are using AI",
-          "neutralSummary": "Some brands are deploying AI to streamline backend tasks freeing up their staff to provide what algorithms cannot replace.",
+          "neutralHeadline": "Supporting women dealing with menopause, early career stress, among PAP Women’s Wing focus areas",
+          "neutralSummary": "Supporting women dealing with menopause, early career stress, among PAP Women’s Wing focus areas.",
           "versions": [
             {
               "political": "center",
@@ -681,15 +645,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "No flashy robots, just a quiet transformation: How Singapore’s food and retail sectors are using AI",
-              "url": "https://www.straitstimes.com/tech/no-flashy-robots-just-a-quiet-transformation-how-singapores-food-and-retail-sectors-are-using-ai"
+              "headline": "Supporting women dealing with menopause, early career stress, among PAP Women’s Wing focus areas",
+              "url": "https://www.straitstimes.com/singapore/supporting-women-dealing-with-menopause-early-career-stress-among-pap-womens-wing-focus-areas"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "Singapore’s shops and restaurants scoring quick wins with AI",
-          "neutralSummary": "These include automated staff rostering, reservation management, customer service and administrative work.",
+          "neutralHeadline": "All 7 baby rabbits rescued in Seletar die; VFA to re-home adult animals retrieved, plus one newborn",
+          "neutralSummary": "A rescued adult rabbit gave birth to three kits, but two of them were delivered without a heartbeat.",
           "versions": [
             {
               "political": "center",
@@ -697,15 +661,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Singapore’s shops and restaurants scoring quick wins with AI",
-              "url": "https://www.straitstimes.com/tech/singapores-shops-and-restaurants-scoring-quick-wins-with-ai"
+              "headline": "All 7 baby rabbits rescued in Seletar die; VFA to re-home adult animals retrieved, plus one newborn",
+              "url": "https://www.straitstimes.com/singapore/all-7-baby-rabbits-rescued-in-seletar-die-vfa-to-re-home-adult-animals-retrieved-plus-one-newborn"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Low on code, high on miles: S’porean uses AI to create tool to maximise credit card rewards",
-          "neutralSummary": "So far, it tracks around 50 credit cards and over 3,300 merchants across Singapore.",
+          "neutralHeadline": "App with weather and route guidance for cyclists among youth proposals to improve S’pore transport",
+          "neutralSummary": "It is part of an initiative for young people to work with government agencies to improve Singapore.",
           "versions": [
             {
               "political": "center",
@@ -713,15 +677,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Low on code, high on miles: S’porean uses AI to create tool to maximise credit card rewards",
-              "url": "https://www.straitstimes.com/tech/low-on-code-high-on-miles-sporean-uses-ai-to-create-tool-to-maximise-credit-card-rewards"
+              "headline": "App with weather and route guidance for cyclists among youth proposals to improve S’pore transport",
+              "url": "https://www.straitstimes.com/singapore/transport/app-with-weather-and-route-guidance-for-cyclists-among-youth-proposals-to-improve-spore-transport"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Over 5,600 Muslim households receive $2.2 million in cost-of-living support",
-          "neutralSummary": "Each household received at least $120 as part of a one-off payout.",
+          "neutralHeadline": "S’pore’s former WorldSkills winners fly to Shanghai to support competing juniors",
+          "neutralSummary": "Over 30 supporters, including parents of competitors, have made the trip to China to cheer them on.",
           "versions": [
             {
               "political": "center",
@@ -729,8 +693,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Over 5,600 Muslim households receive $2.2 million in cost-of-living support",
-              "url": "https://www.straitstimes.com/singapore/over-5600-muslim-households-receive-2-2-million-in-cost-of-living-support"
+              "headline": "S’pore’s former WorldSkills winners fly to Shanghai to support competing juniors",
+              "url": "https://www.straitstimes.com/singapore/parenting-education/spores-former-worldskills-winners-fly-to-shanghai-to-support-competing-juniors"
             }
           ]
         }
@@ -741,17 +705,17 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Non-recovery of train ticket from deceased passenger can't defeat compensation claim: SC",
-          "neutralSummary": "Non-recovery of train ticket from deceased passenger can't defeat compensation claim: SC",
+          "neutralHeadline": "TMC chief Mamata Banerjee to attend INDIA bloc meeting on September 30",
+          "neutralSummary": "Addressing a rally in Hooghly, Banerjee said, \"Why was the SIR conducted? It was forced upon us solely to capture Bengal, as they couldn't win otherwise.\"",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Non-recovery of train ticket from deceased passenger can't defeat compensation claim: Supreme Court",
-              "url": "https://www.thehindu.com/news/national/non-recovery-of-train-ticket-from-deceased-passenger-cant-defeat-compensation-claim-supreme-court/article71511853.ece"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "INDIA Bloc To Meet On September 30, Removing Gyanesh Kumar Main Agenda",
+              "url": "https://www.ndtv.com/india-news/india-bloc-to-meet-on-september-30-remove-gyanesh-kumar-main-agenda-12101717#publisher=newsstand"
             },
             {
               "political": "center",
@@ -759,172 +723,199 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Non-recovery of train ticket from deceased passenger can't defeat compensation claim: SC",
-              "url": "https://www.hindustantimes.com/india-news/nonrecovery-of-train-ticket-from-deceased-passenger-can-t-defeat-compensation-claim-sc-101790397839208.html"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "Chhattisgarh government declares school holiday amid heavy rain, flood-like situation",
-          "neutralSummary": "Chief Minister Vishnu Deo Sai ordered relief and rescue operations across the State after incessant rain inundated low-lying areas and cut off villages in the Bastar region",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Chhattisgarh government declares school holiday amid heavy rain, flood-like situation",
-              "url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-government-declares-school-holiday-amid-heavy-rain-flood-like-situation/article71511704.ece"
+              "headline": "TMC chief Mamata Banerjee to attend INDIA bloc meeting on September 30",
+              "url": "https://www.hindustantimes.com/india-news/tmc-chief-mamata-banerjee-to-attend-india-bloc-meeting-on-september-30-101790435021552.html"
             },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"Every Canal Is Filled\": Bangkok Declares Flood Disaster Amid Heavy Rainfall",
-              "url": "https://www.ndtv.com/world-news/bangkok-declares-flood-disaster-amid-heavy-rainfall-thailand-every-canal-is-filled-12100406#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Delhi-NCR rain alert as IMD forecasts thunderstorms, gusty winds this weekend",
-          "neutralSummary": "Delhi-NCR is likely to receive rain, thunderstorms and gusty winds on Saturday and Sunday as a depression over central India moves towards Uttar Pradesh.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Delhi On 'Yellow Alert', Light To Moderate Rain Expected Today",
-              "url": "https://www.ndtv.com/delhi-news/delhi-on-yellow-alert-light-to-moderate-rain-expected-today-12100343#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Delhi-NCR rain alert as IMD forecasts thunderstorms, gusty winds this weekend",
-              "url": "https://www.hindustantimes.com/india-news/delhincr-rain-alert-as-imd-forecasts-thunderstorms-gusty-winds-this-weekend-101790402011103.html"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "'Regionalist, Not Racist': Bengaluru CEO To NDTV On Hiring Ban On Men From 4 States",
-          "neutralSummary": "Karthik SG, CEO of A1 Sports World, has banned hiring male candidates from four North Indian states.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "'Regionalist, Not Racist': Bengaluru CEO To NDTV On Hiring Ban On Men From 4 States",
-              "url": "https://www.ndtv.com/india-news/regionalist-not-racist-bengaluru-ceo-karthik-sg-to-ndtv-on-hiring-ban-on-men-from-4-states-12100262#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "'Padma Bhushan small thing, make him PM': Cong mocks BJP Bengal chief's praise for CEC",
-          "neutralSummary": "Congress leader Pawan Khera mocked West Bengal BJP chief Samik Bhattacharya’s praise for CEC Gyanesh Kumar, saying, \"The Padma Bhushan is a very small thing. Make him the Prime Minister.\" Bhattacharya credited Kumar with a violence-free election and voter roll revision, amid Opposition criticism and",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Amid Row, Bengal BJP Chief Says Gyanesh Kumar Deserves Padma Bhushan",
-              "url": "https://www.ndtv.com/india-news/amid-row-bengal-bjp-chief-says-gyanesh-kumar-deserves-padma-bhushan-for-sir-12099590#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Padma Bhushan small thing, make him PM': Cong mocks BJP Bengal chief's praise for CEC",
-              "url": "https://timesofindia.indiatimes.com/india/padma-bhushan-small-thing-make-him-pm-cong-mocks-bjp-bengal-chiefs-praise-for-cec/articleshow/134498800.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "OpenAI's AI agents ‘went rogue’, targeted US govt",
-          "neutralSummary": "OpenAI's AI agents ‘went rogue’, targeted US govt",
-          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "OpenAI's AI agents ‘went rogue’, targeted US govt",
-              "url": "https://economictimes.indiatimes.com/news/international/global-trends/openais-ai-agents-went-rogue-targeted-us-government-websites-without-labs-knowledge-report/articleshow/134495500.cms"
+              "headline": "INDIA bloc meet likely in Delhi on Sept 30: Mamata",
+              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/india-bloc-meeting-likely-to-be-held-in-delhi-on-september-30-mamata-banerjee-amid-sir-row/articleshow/134504923.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "5 dead, over 100 houses damaged as heavy rain lash UP; thunderstorms, more rain likely",
+          "neutralSummary": "The heavy rain, thunderstorms and strong winds also damaged standing crops in rural areas and over 100 houses across.&nbsp;",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Weather updates: Six dead, over 100 houses damaged as heavy rain lashes U.P.; thunderstorms, more rain likely",
+              "url": "https://www.thehindu.com/news/national/india-weather-live-updates-rains-imd-delhi-uttar-pradesh-uttarakhand-andhra-pradesh-september-26-2026/article71511749.ece"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "gizmodo.com",
-              "initials": "G",
-              "domain": "news.google.com",
-              "headline": "OpenAI’s ‘Rogue AI’ Problem Is Bigger Than It Let On",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQblRhYkZrMkRsTHVGWkJmUVN3NTZWTnNNUG9vUnc4eHc5emFNQ1F3a1NlZkdTYndybkVHQUJ3aHI4R1JReUVCZmtTWkQtc19vMS1feGRrUXlaczkwNXAxbXFjQTMxWUpCRFFfcmpoM3piVnpVdENHMVhHX2wtV0ctcXRRSHFTZjA?oc=5"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "5 dead, over 100 houses damaged as heavy rain lash UP; thunderstorms, more rain likely",
+              "url": "https://www.hindustantimes.com/india-news/5-dead-over-100-houses-damaged-as-heavy-rain-lash-up-thunderstorms-more-rain-likely-101790431490894.html"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Asian Games: India bags 7 medals with kabaddi double; tally climbs to 30",
+          "neutralSummary": "At the Asian Games 2026, India marked a notable achievement by gathering seven medals on Saturday. The kabaddi squads were outstanding, with men and women conquering Iran to uphold their golds. Sawan Barwal made headlines, winning silver in the men’s marathon, signaling an end to India’s medal dry s",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Asian Games 2026 highlights | India’s kabaddi teams dominate with double gold; Sindhu, Unnati enter quarters",
+              "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-26-2026/article71510179.ece"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Asian Games: India bags 7 medals with kabaddi double; tally climbs to 30",
+              "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-7-india-win-seven-medals-as-kabaddi-teams-deliver-gold-double-in-action-packed-saturday/articleshow/134506152.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "\"Gonna Be A F***ing Bloodbath\": How FBI Uncovered Plot To Attack Trump Event",
+          "neutralSummary": "In one Signal group called \"Hunters\", they shared aerial photos of the White House ground",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "\"Gonna Be A F***ing Bloodbath\": How FBI Uncovered Plot To Attack Trump Event",
+              "url": "https://www.ndtv.com/world-news/gonna-be-a-f-ing-bloodbath-how-fbi-uncovered-plot-to-attack-trump-event-12102335#publisher=newsstand"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "3 Of Family Killed As SUV Rams Truck In Maharashtra. Driver Had Fallen Asleep",
+          "neutralSummary": "Visuals of the incident show that the car had slid under the truck",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "3 Of Family Killed As SUV Rams Truck In Maharashtra. Driver Had Fallen Asleep",
+              "url": "https://www.ndtv.com/india-news/3-of-family-killed-as-suv-rams-truck-in-maharashtra-driver-had-fallen-asleep-12102303#publisher=newsstand"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "EC extends deadline for claims, objections to October 12 in Maharashtra amid SIR row",
+          "neutralSummary": "The move comes after reports of differences among the three-member Election Commission over decisions and directions regarding electoral roll revisions.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Amid Delhi SIR Row, Deadline For Claims, Objections Extended To October 30",
+              "url": "https://www.ndtv.com/india-news/gyanesh-kumar-election-commission-amid-delhi-sir-row-deadline-for-claims-objections-extended-to-october-30-12101835#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "EC extends deadline for claims, objections to October 12 in Maharashtra amid SIR row",
+              "url": "https://www.hindustantimes.com/india-news/ec-extends-deadline-for-claims-objections-to-october-12-in-maharashtra-amid-sir-row-101790429776655.html"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Temple priest arrested for alleged derogatory remarks against Sree Narayana Guru",
-          "neutralSummary": "He was booked after receiving a complaint about a YouTube video in which the accused allegedly made derogatory remarks earlier this month",
+          "neutralHeadline": "Air India crash probe: Pilots' body seeks formal consideration of its tech submissions",
+          "neutralSummary": "Air India crash probe: Pilots' body seeks formal consideration of its tech submissions",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Temple priest arrested for alleged derogatory remarks against Sree Narayana Guru",
-              "url": "https://www.thehindu.com/news/national/kerala/temple-priest-arrested-for-alleged-derogatory-remarks-against-sree-narayana-guru/article71511900.ece"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Air India crash probe: Pilots' body seeks formal consideration of its tech submissions",
+              "url": "https://timesofindia.indiatimes.com/india/air-india-crash-probe-pilots-body-seeks-formal-consideration-of-its-tech-submissions/articleshow/134507349.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "news.google.com",
+              "headline": "Air India AI-171 crash: Pilots' body seeks representation on panel reviewing draft final probe report | India News",
+              "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbVVRQkNlSHE5bHN0NXJDVzFPbFpLVkozQnhlOTdwbnBsdnRoV0EtUFdIRnJ2Y21CX0hhaFg5YXEtUFN3Y1RaMzRzalJHd0h3b0lEcnBaT3l2WEd3aXhMaXJPaERQcWxEb0xzTTZOc2RZZWhYYmtCYUwyTmQ3Xy15RW04RVA4LU02VnpMY2VQOUhKd0RMdEhKM19oRzNsMXhkRXFtbnE1UFVLeXhCS1NxTU5aSW1pa2JZYm1zdm9DUEpFMlZlbXhFR095TkNyeUxjUXlqME9fcXdHMWpiZ09CdVJwM00wRnMyQXBPMUZER3NqSGgwYXNtYi0ycFpBRVAyUGc?oc=5"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Asian Games 2026 India’s medallists: Full list of winners",
-          "neutralSummary": "Here’s the full list of Indian medallists at the Aichi-Nagoya Asian Games 2026 categorised by sport",
+          "neutralHeadline": "'Stop using threats': China takes veiled shot at US over Cuba &amp; Iran in UN speech",
+          "neutralSummary": "Chinese Vice President Han Zheng called on the US to respect the sovereignty of Iran and Cuba during his speech. He criticized American actions in the Middle East and urged for an end to the pressure on Cuba. Zheng highlighted the importance of international cooperation among all nations regarding g",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Asian Games 2026 India’s medallists: Full list of winners",
-              "url": "https://www.thehindu.com/sport/asian-games-2026-india-medalists-full-list-of-winners-aichi-nagoya-japan/article71491065.ece"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Stop using threats': China takes veiled shot at US over Cuba &amp; Iran in UN speech",
+              "url": "https://timesofindia.indiatimes.com/world/china/stop-using-threats-china-takes-veiled-shot-at-us-over-cuba-iran-in-sharply-critical-un-speech/articleshow/134507178.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "China pushes back against US on Iran and Cuba in UN speech",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmFyYk05dGVubEpsSTJ2dGwxcWtFNEx0ZDNybVVaMndCOUpzOTV5SHNjdmw0eHFCQzlsSHZONU91bHVjeU9lQ1RjSTJSM0pZRDhzUUNENHl1b1daMUxkajZ2QklCNTY5bXUxV0dEczRhZTJmU0VKWHhUeWN0OG5OYWRXdWRYUHJOaFJWbjlySGpEdUQtaDdDWThfTWk?oc=5"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Asian Games 2026 LIVE | India’s kabaddi queens strike gold, beat Iran in thrilling final; Anahat Singh makes squash final",
-          "neutralSummary": "India defeats fierce rivals Iran 37-34 to clinch the gold in womens kabbadi, marking India's third gold medal at the Games",
+          "neutralHeadline": "Gauhati University student found dead at homestay; boyfriend detained",
+          "neutralSummary": "The lifeless body of 21-year-old Nimisha Thakuria, a Sociology student at Gauhati University, was discovered at a homestay in Garal-Dharapur. Just before her phone was switched off, she called her mother to express fears of an assault. This incident has sparked protests, with demonstrators raising c",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Gauhati University student found dead at homestay; boyfriend detained",
+              "url": "https://timesofindia.indiatimes.com/city/guwahati/gauhati-university-student-found-dead-at-homestay-boyfriend-detained/articleshow/134502851.cms"
+            },
+            {
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Asian Games 2026 LIVE | India’s kabaddi queens strike gold, beat Iran in thrilling final; Anahat Singh makes squash final",
-              "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-26-2026/article71510179.ece"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Gauhati University student found dead at homestay in Assam; male friend arrested",
+              "url": "https://www.hindustantimes.com/india-news/gauhati-university-student-found-dead-at-homestay-in-assam-male-friend-arrested-101790430130139.html"
             }
           ]
         }
