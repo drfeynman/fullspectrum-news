@@ -1,31 +1,40 @@
 {
-  "generatedAt": "2026-09-27T07:17:35.338645+00:00",
+  "generatedAt": "2026-09-27T17:37:06.021450+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square",
-          "neutralSummary": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square&nbsp;&nbsp;AP NewsPope Leo Receives Rockstar Welcome in Secular France&nbsp;&nbsp;WSJPope brings message to protect life to French shrine at Lourdes known for miraculous cures&nbsp;&nbsp;YahooPope Leo draws vast crowds",
+          "neutralHeadline": "South Africa shootings leave 27 killed",
+          "neutralSummary": "It has been a deadly night in South Africa, with 27 people killed in two separate shooting incidents. Police say 17 people were shot dead at a tavern outside Johannesburg by suspects armed with assault rifles, while another 10 were killed near Cape Town when gunmen opened fire at a venue selling gri",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "At least 27 dead after two mass shootings in South Africa, police say",
+              "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-              "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
+              "headline": "Two mass shootings in South Africa leave 27 dead",
+              "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEJFcjNvV3FnbnMyU21pVDFZV1k0TzFRajdDb0hHaVlrcFZlWThrTDZqdEwtQjdsOUdGeWR4c0JUdE1BMEFzamc5SmtfT3FUWVB2Tm1aa3daSWRoM3JqUl8zMVZkLWdfVm8wdXoyNzBmXzRRYnBvdGptV08xYkFYT1VmZ21wSUlvRHppckpmWXhUdWpCX0Z4RVhaNA?oc=5"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+              "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week"
             },
             {
               "political": "left",
@@ -33,22 +42,174 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss"
+              "headline": "Dozens killed in two mass shootings in South Africa",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
             },
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Pope Leo XIV celebrates open-air Mass in front of 800,000 people in central Paris",
-              "url": "https://www.france24.com/en/france/20260926-pope-leo-xiv-celebrates-open-air-mass-in-front-of-800-000-people-in-central-paris"
+              "headline": "South Africa shootings leave 27 killed",
+              "url": "https://www.france24.com/en/south-africa-shootings-leave-27-killed"
             }
           ]
         },
         {
           "id": "global-2",
+          "neutralHeadline": "Trump Rejects Iran Plan to Reopen Hormuz",
+          "neutralSummary": "Bloomberg News Middle East reporter Dan Williams and Bloomberg Intelligence senior commodity strategist Mike McGlone are on Bloomberg This Weekend discussing President Donald Trump’s rejection of Iran’s latest proposal to reopen the Strait of Hormuz and restart negotiations, as the conflict continue",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Iran Proposes A Deal To Reopen The Strait Of Hormuz In 7 Days If The U.S. Meets Its Conditions",
+              "url": "https://www.huffpost.com/entry/iran-proposes-deal-reopen-strait-of-hormuz-7-days-us-meets-conditions_n_6ab69619e4b0bad9a6472b11"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+              "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
+              "url": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Trump Rejects Iran Plan to Reopen Hormuz",
+              "url": "https://www.bloomberg.com/news/videos/2026-09-27/trump-rejects-iran-plan-to-reopen-hormuz-video"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Two giant pandas arrive in Atlanta from China after Xi-Trump summit",
+          "neutralSummary": "Ping Ping and Fu Shuang to live at Atlanta zoo in Georgia as part of loan deal between Chinese and US governmentsTwo giant pandas from China arrived in Atlanta, Georgia, on Sunday morning as part of an agreement between the Chinese and American governments.While in Washington DC for a three-day summ",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Two giant pandas arrive in Atlanta from China after Xi-Trump summit",
+              "url": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
+              "url": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "2 giant pandas set off to Atlanta zoo from China after Xi-Trump summit",
+              "url": "https://nypost.com/2026/09/27/us-news/atlanta-zoo-to-welcome-2-giant-pandas-from-china-after-xi-trump-summit/"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Four killed in helicopter crash near Montreal",
+          "neutralSummary": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Four killed in helicopter crash near Montreal",
+              "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "news.google.com",
+              "headline": "Four American tourists among 6 killed after explosion levels building near Athens’ Acropolis",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1VyQmc1ejZvR19GbjlPc1I4YWROSFA4TWRSbEZTNkRtWEQyNVJhSE5qUjFyd21zWkdtXzVqN05LYnVKaDNqUWNxZHloSW9tM1Q4YTA4dlQyb203ZklHU29pb1hmRTRtQVJ6N2ljTTlBbmdLbm9GcVNrZWZrZ3FkaE45QWdrNVVzbVBRVUE0a2s0c0pxUDhDLUlvX2pGTEIwVUJtVXdHZzZaUVo0a0xseFN6THprZ9IBuwFBVV95cUxPQk1QV192bDJoV3N2cXAxWURDZDQwMUUtUmM5enc0M0Vmd25BNWVUSzFOQVRiQUV1UnhfanFIZjVuNFdTdlJWVE05MHpST2k0emhJYmF6aXljaVgwazY4ZEoyamZQWW1yR2I0NDhld0hNckZiUEJmeU5IYnhsTlVrNzZKYjFraS1hUFJaWmZEcjVZOHc4blJOMGE5Z2l5SWxDZmdkVmFOVkUxTGtrZTY5Sy03R3oxZjZGaVFj?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+          "neutralSummary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed governmentThere are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aim",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
+              "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "Ethiopia’s army promises restraint amid fears of new civil war",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMkJJek4zQTlPX09odlJjOEJGUjFfbk9PdWNhWkxVOFAyS293WHhTVXFVc1luTFlYRk5uT0JVejNTbWtHMFdNa19PNi1WempGa0N4YkVsd3FQTFRFbHJpdWFVUlJFb3YzbVFGS1dDZjdZdDBUdGpNN0xGb19XMjdXUE00Zzc2OGhTbFdHci1sdC1uWUpsZVo1MDR5bXRGWWNyekpON9IBqgFBVV95cUxPWG5DdVJWM3F5VldvdWpiczJXbHlWS3dPTW1Ebzg2ckIwWHdKV0RkeEs3cHlUQkx5c2F0S2JXVGVkeXY0cUd1RTBGT3NZM3FXYVJfdmItNEpWUVFENzMyaURYMzVZYkZIYkJxbUNhS0QwMlIwMDNxRGlLWVViZFl0bWxwS1NhMi1ocjFjYUlpWVdhNXdwMWN5TEZiZWpQNE5XTGN5c1VONVlXQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "Pope Leo Draws 800,000 People To Paris For Open-Air Mass On Iconic Square",
+          "neutralSummary": "Pope Leo has sought to encourage French Catholics to persevere in their faith “even amid the thorns” of a secular world during his four-day visit.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Pope Leo Draws 800,000 People To Paris For Open-Air Mass On Iconic Square",
+              "url": "https://www.huffpost.com/entry/pope-leo-draws-800000-people-to-paris-for-open-air-mass-on-iconic-square_n_6ab8157ae4b07795582c66d9"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Pope Leo draws staggering 800,000 faithful to heart of Paris for massive outdoor Mass",
+              "url": "https://www.foxnews.com/world/pope-leo-draws-staggering-800000-faithful-heart-paris-massive-outdoor-mass"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
           "neutralHeadline": "Pope Warns 'Paradise Of Machines' Could Undermine Humanity As He Opens France Trip",
           "neutralSummary": "From the very start of his pontificate, Leo has identified artificial intelligence as one of the greatest challenges facing humanity.",
           "versions": [
@@ -73,9 +234,9 @@
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "Iran waiting for official US response after Trump rejects Hormuz deal, minister says",
-          "neutralSummary": "The foreign minister says the US has not officially rejected the deal, despite comments from Donald Trump on Saturday.",
+          "id": "global-8",
+          "neutralHeadline": "Pope Leo continues his visit to France in Lourdes",
+          "neutralSummary": "Pope Leo XIV continued his visit to France in Lourdes, at the major Catholic pilgrimage site in the foothills of the Pyrenees, where he celebrated mass before around 150,000 people. Hendro Munstermann, a Vatican correspondent for the Dutch newspaper Nederland Dagblad, joins us from Lourdes to share",
           "versions": [
             {
               "political": "left",
@@ -83,42 +244,8 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Iran waiting for official US response after Trump rejects Hormuz deal, minister says",
-              "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "87-year-old woman's eviction from Madrid apartment sparks protest against Spain's housing crisis",
-          "neutralSummary": "87-year-old woman's eviction from Madrid apartment sparks protest against Spain's housing crisis&nbsp;&nbsp;FortuneEviction of 87-year-old puts Spain’s deepening housing crisis in the spotlight&nbsp;&nbsp;The GuardianAnger grows across Spain after elderly woman evicted from her home of 70 years&nbsp",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Fortune",
-              "initials": "F",
-              "domain": "news.google.com",
-              "headline": "87-year-old woman's eviction from Madrid apartment sparks protest against Spain's housing crisis",
-              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmVlNzhVTGlKekU4dkZlSF9EX1lQeFNNbzRYMndSbU45Zk81bDZpQzRjQlNVWTJsdE1fYVNicXBFZEJLYnQyQUJzTF9GaG9ISm9IcnJMcXpsV0lXS3gtanlBTy04cEE5UWFzc3RVWmJPWTRGZzFPZ0J0dzdrNWdrdXFqVi1jSml1ZEl1R1AxRFZrNWVaX25UUEdPcHBXZkN3RGN4Rm1ERQ?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Thousands protest in Madrid against Spain’s housing crisis",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/thousands-protest-in-madrid-against-spains-housing-crisis?traffic_source=rss"
+              "headline": "'Scourge' of abuse must be rooted out, says Pope during Lourdes visit",
+              "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
@@ -126,124 +253,24 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Thousands march in Madrid to protest eviction of 87-year-old woman",
-              "url": "https://www.france24.com/en/europe/20260926-thousands-march-in-madrid-to-protest-eviction-of-87-year-old-woman"
+              "headline": "Pope Leo continues his visit to France in Lourdes",
+              "url": "https://www.france24.com/en/video/20260927-pope-leo-continues-his-visit-to-france-in-lourdes"
             }
           ]
         },
         {
-          "id": "global-5",
-          "neutralHeadline": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-          "neutralSummary": "Fighting escalates after Tigrayan rebels form new coalition aimed at overthrowing Abiy Ahmed governmentThere are growing fears of a return to civil war in Ethiopia after an offensive by fighters from Tigray into the neighbouring states of Afar and Amhara and the formation of a new rebel alliance aim",
+          "id": "global-9",
+          "neutralHeadline": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
+          "neutralSummary": "A 300-year-old Mexican musical tradition is finding new life around the world — one sweaty, joyous, all-night fandango at a time.",
           "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-              "url": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Ethiopia’s army promises restraint amid fears of new civil war",
-              "url": "https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Iran Proposes A Deal To Reopen The Strait Of Hormuz In 7 Days If The U.S. Meets Its Conditions",
-          "neutralSummary": "Iran’s disruption of the strait has emerged as its main point of leverage. The effects have been felt far beyond the Middle East.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Iran Proposes A Deal To Reopen The Strait Of Hormuz In 7 Days If The U.S. Meets Its Conditions",
-              "url": "https://www.huffpost.com/entry/iran-proposes-deal-reopen-strait-of-hormuz-7-days-us-meets-conditions_n_6ab69619e4b0bad9a6472b11"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-              "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Bangkok roads submerged as flood disaster declared",
-          "neutralSummary": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Bangkok roads submerged as flood disaster declared",
-              "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Bangkok declared disaster zone after heavy rains submerge roads",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "At least 17 killed in South Africa shooting, police hunt for eight suspects",
-          "neutralSummary": "At least 17 killed in South Africa shooting, police hunt for eight suspects&nbsp;&nbsp;Al JazeeraSouth Africa police launch manhunt after 17 killed in tavern shooting&nbsp;&nbsp;CNNSeparate mass shootings in South Africa townships leave at least 27 people dead&nbsp;&nbsp;The HillSouth Africa: Pair o",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "At least 17 killed in South Africa shooting, police hunt for eight suspects",
-              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmdOdlJEMEQ4dmtRUTBFWGtFT1o4UTBjcnFhS01GUGF0bWFMaUJzMmJBZVNxMzE4WHdveHlKN2h6V3lyN3YybjN6azNDanE0aXM5ZjhZSUxMWGNyeGRFSWx6WUtndVk0ZTB5eDVISTg5b1VDOXJpd0hiamt4Sk5IRlFaXzhFdE3SAYwBQVVfeXFMTm12eTFrYm5IN195Zk1PMzBXMEJ0NkZVTWtPbmRiSWtTN3FWQlBmdHRoNXBwU3BhbWRUNzVFX3hvT0Y5bDBncGV4YmZfWkdVZy1TRE5tc3lwaThDWkVoc0w0S28zTnpQX3kxWWFYSTdTbTJ0VUc2NXpQVWcwVG5ibDJITjJsQXRaTXZXaTA?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Unusually powerful storm pummels northeast US with heavy rain, high winds",
-          "neutralSummary": "A powerful storm unusual for this time of year intensified on Sunday over the northeastern United States, bringing torrential rain and powerful winds that cut off power to tens of thousands of people and killed one person, according to US media.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Powerful storm batters US Northeast disrupting power and travel",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/powerful-storm-batters-us-northeast-disrupting-power-and-travel?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Unusually powerful storm pummels northeast US with heavy rain, high winds",
-              "url": "https://www.france24.com/en/americas/20260926-unusually-powerful-storm-pummels-northeast-us-with-heavy-rain-high-winds"
+              "headline": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
+              "url": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango"
             }
           ]
         }
@@ -254,9 +281,18 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Live updates: Trump returns to White House after Texas-Tennessee game; Iran’s proposal to reopen Strait of Hormuz rejected",
-          "neutralSummary": "President Trump left Knoxville for the White House Saturday afternoon after attending the University of Texas vs. University of Tennessee football game — an appearance coming ahead of senators&#8217; last chance to pass the Protect College Sports Act before recessing into a lame-duck period. Trump f",
+          "neutralHeadline": "Trump Rejects Iranian Proposal To Open Hormuz And End Fighting",
+          "neutralSummary": "Trump Rejects Iranian Proposal To Open Hormuz And End Fighting",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Rejects Iranian Proposal To Open Hormuz And End Fighting",
+              "url": "https://www.huffpost.com/entry/trump-iran-hormuz_n_6ab83002e4b07c8d2e68bf40"
+            },
             {
               "political": "left",
               "tone": "neutral",
@@ -265,24 +301,90 @@
               "domain": "nytimes.com",
               "headline": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
               "url": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "2 giant pandas arrive in Atlanta under a US-China government agreement",
+          "neutralSummary": "2 giant pandas arrive in Atlanta under a US-China government agreement&nbsp;&nbsp;apnews.com2 giant pandas arrive at Zoo Atlanta in a rare loan from China&nbsp;&nbsp;CNNNew giant pandas from China arrive in Atlanta zoo&nbsp;&nbsp;CBS NewsGiant pandas arrive in Atlanta&nbsp;&nbsp;WSB-TVChina’s Panda",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
+              "url": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html"
             },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "2 giant pandas arrive in Atlanta under a US-China government agreement",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnFTY09PTzdnQlc3TEl5dTFwajExdllpLUx4ZlVBenlIbVFYcEtfV1FVWDZRZF9wZG9zY2tRVWNVUUNudldnVXR1bDNJb2tXWmh6TTFtVzE1Y0xZUFBSS21WUXIxQ3RZWWE5OFdTUEZxanhuRWkzQzc4RjE5T1loa2JrSWphc3ZzSmZiRU1zX1E5X3RwZF9jWE9lNHE1YnUzZ1dmOQ?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "2 giant pandas set off to Atlanta zoo from China after Xi-Trump summit",
+              "url": "https://nypost.com/2026/09/27/us-news/atlanta-zoo-to-welcome-2-giant-pandas-from-china-after-xi-trump-summit/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+          "neutralSummary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-              "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz"
+              "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+              "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
+              "source": "BBC",
+              "initials": "BBC",
               "domain": "news.google.com",
-              "headline": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1VlfSAa4BQVVfeXFMTjljQTNjOXdPLVpNZWhUNTduR2ZZWGN3dDRrak9NOS1WWlBNejVMWDk2aGRkek9CYzB5OWpiTU1BeWtHUkRZZGduc28td2dSZmlsQUM2NTNrQ1M5WU1rcVJoNWZKZlkzNmN5Z1FkWnJFN0FNVDEtQjFKSkYwQ0RQZFpkOWVxNm43dkloMnZtTFFFSy1xVVRYVEJEYkFZdzdBemNCMEJQZGVLZzdvQXlB?oc=5"
+              "headline": "Two mass shootings in South Africa leave 27 dead",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OcFRmTXRXMWwwbU1EajhqRUl1SXdfLWtsa0pXTzU4bTBOY21jVHp6Ui1PRUU5TmlVQmNPVDZkWC1wOFFBS1o5azZZdE9yT1RLbjctRXZJMmN6UzQ?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "pessimistic",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Gunmen Massacre 27 In Back-To-Back South African Mass Shootings",
+              "url": "https://www.dailywire.com/news/gunmen-massacre-27-in-back-to-back-south-african-mass-shootings"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Jim Jordan predicts third Trump impeachment if Democrats take control of House",
+          "neutralSummary": "Rep. Jim Jordan (R-Ohio) on Sunday predicted that Democrats will impeach President Trump for a third time between his two presidencies if they take control of the House after the November midterm elections. Jordan suggested in an interview on &#8220;Cats Roundtable,&#8221; the WABC 770 AM radio show",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "House Democrats Plan Vast Oversight Of Trump Administration. Impeachment Is An Option.",
+              "url": "https://www.huffpost.com/entry/election-2026-house-democrats-oversight-trump-administration_n_6ab882ace4b07795582c7a78"
             },
             {
               "political": "center",
@@ -290,72 +392,13 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Live updates: Trump returns to White House after Texas-Tennessee game; Iran’s proposal to reopen Strait of Hormuz rejected",
-              "url": "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/"
+              "headline": "Jim Jordan predicts third Trump impeachment if Democrats take control of House",
+              "url": "https://thehill.com/homenews/house/6113638-jim-jordan-trump-impeachment-prediction/"
             }
           ]
         },
         {
-          "id": "us-2",
-          "neutralHeadline": "Utah University Where Charlie Kirk Was Killed Had Many Security Deficiencies: Report",
-          "neutralSummary": "The report says Kirk’s Turning Point USA organization insisted he speak outdoors despite security concerns, and Utah Valley University officials didn’t properly assess the possibility of a rooftop shooter.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Utah University Where Charlie Kirk Was Killed Had Many Security Deficiencies: Report",
-              "url": "https://www.huffpost.com/entry/security-flaws-at-utah-university-during-charlie-kirks-visit_n_6ab6c75ae4b0bad9a6475d87"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Report Finds Security Failings at Event Where Charlie Kirk Was Killed",
-              "url": "https://www.nytimes.com/2026/09/25/us/utah-valley-university-charlie-kirk-security.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Utah university releases independent review of Charlie Kirk shooting",
-              "url": "https://www.washingtonpost.com/nation/2026/09/25/utah-university-releases-independent-review-charlie-kirk-shooting/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
-          "neutralSummary": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress&nbsp;&nbsp;PBSSee more headlines & perspectives on Google News",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Administration Uses Rare Authority To Claw Back Nearly $1B In Spending Approved By Congress",
-              "url": "https://www.huffpost.com/entry/trump-rescissions-congress_n_6ab72898e4b0d1543f5449fd"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "PBS",
-              "initials": "P",
-              "domain": "news.google.com",
-              "headline": "Trump administration uses rare authority to claw back nearly $1B in spending approved by Congress",
-              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOTlHOHBtXzNwNUIyazlua3AtN3A4S3ItRk9QWXZYNG95dE9WOERVYTNhTWhaaWFTMW5lRW1UOXRobGtqU185SDZLVjQ0RG1zbk1fNG9tTkZzYm9rSEQwaFN2VzVralRrZmVaNjgweU5LWnVJVVUzVWlzMXd3OVMyU1RpT2xfcUhBbzdkdEZMaXhUSkRweXA3dkJUOVkwWlB0T0lVaF9weHA1V3hTSnRHa2FnNnFDQVVGamViWExLR2E4enZzUHdVellqZk9ubVnSAdQBQVVfeXFMUHp5YXgtVGl2X2E3WlhmUERzQ1ZaaUwwN2g4VjhabnFrQmhRbEJrY3kzY0tqZlY1SGhLZ1gxS0xvM2tQQmlsajlQYnpzeWY2UEVSam82bG5uNHA3d3E5LXpoQWR0VFZYaS03REl2SFk3WnZJT2ZENTVLQmVyT0xlaXJoVHVMdFM4OGZuMURNdXJseXNPUGVub2dBNTlTNV9XOXNuQk9IQUtDcjhVQUR2MGhBZUhJMHVoamhVcUxRNXlHc21mSnJLU19namlSeUJYdDRldlI?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
+          "id": "us-5",
           "neutralHeadline": "Supreme Court Rejects A Trump-Backed Missouri Congressional Map For The Third Time",
           "neutralSummary": "The Supreme Court has rejected a new Missouri congressional map backed by President Donald Trump for the third time.",
           "versions": [
@@ -380,18 +423,18 @@
           ]
         },
         {
-          "id": "us-5",
-          "neutralHeadline": "Supreme Court Lets Trump Admin Use Social Security Info To Screen For Noncitizen Voters",
-          "neutralSummary": "The unsigned decision overrules lower court decisions that blocked data matching across government agencies.",
+          "id": "us-6",
+          "neutralHeadline": "Utah University Where Charlie Kirk Was Killed Had Many Security Deficiencies: Report",
+          "neutralSummary": "The report says Kirk’s Turning Point USA organization insisted he speak outdoors despite security concerns, and Utah Valley University officials didn’t properly assess the possibility of a rooftop shooter.",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Supreme Court Lets Trump Admin Use Social Security Info To Screen For Noncitizen Voters",
-              "url": "https://www.huffpost.com/entry/supreme-court-trump-social-security-voter-registration_n_6ab69736e4b075a3d285ba97"
+              "headline": "Utah University Where Charlie Kirk Was Killed Had Many Security Deficiencies: Report",
+              "url": "https://www.huffpost.com/entry/security-flaws-at-utah-university-during-charlie-kirks-visit_n_6ab6c75ae4b0bad9a6475d87"
             },
             {
               "political": "left",
@@ -399,99 +442,74 @@
               "source": "Washington Post",
               "initials": "WP",
               "domain": "washingtonpost.com",
-              "headline": "Government can use Social Security data to identify noncitizen voters, Supreme Court rules",
-              "url": "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Trump Promotes Criticism of Republican Who Broke With Him on Immigration",
-          "neutralSummary": "Trump Promotes Criticism of Republican Who Broke With Him on Immigration&nbsp;&nbsp;nytimes.comTrump turns on Salazar after Florida Republican challenges his immigration crackdown&nbsp;&nbsp;politico.comA Miami Republican faces backlash after publicly giving Trump immigration advice&nbsp;&nbsp;The W",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Promotes Criticism of Republican Who Broke With Him on Immigration",
-              "url": "https://www.nytimes.com/2026/09/26/us/politics/trump-salazar-immigration-criticism.html"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "nytimes.com",
-              "initials": "N",
-              "domain": "news.google.com",
-              "headline": "Trump Promotes Criticism of Republican Who Broke With Him on Immigration",
-              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeDVaSEh2ZGROeFhjZ1pwRXFwcnE0dzYxZjF6b2lPLXFlOVh0ZDBwbnhvZDdtd2FNMjh0VGlJNGlwczBUZWlhd2ZzTXhsWjJIcmpLeWRKSWk2WjNURGtsUTJsRW1KUEtVdllVRFZtN1ZnNXljUDctRDdWZ0hDOEVaZW5CQjRaeVJ0ang3Q1FIRzY?oc=5"
+              "headline": "Utah university releases independent review of Charlie Kirk shooting",
+              "url": "https://www.washingtonpost.com/nation/2026/09/25/utah-university-releases-independent-review-charlie-kirk-shooting/"
             }
           ]
         },
         {
           "id": "us-7",
-          "neutralHeadline": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards",
-          "neutralSummary": "President Trump announced Saturday he approved new fuel economy standards that eliminate an electric vehicle (EV) mandate introduced under the Biden administration. The 2024 EV mandate aimed to facilitate the transition from gas-powered to EVs by setting new pollution standards for automakers&#8217;",
+          "neutralHeadline": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
+          "neutralSummary": "A 300-year-old Mexican musical tradition is finding new life around the world — one sweaty, joyous, all-night fandango at a time.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
+              "url": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "5 arrested near a U.K. air base used by U.S. on suspicion of preparing a terrorist act",
+          "neutralSummary": "Police evacuated homes Sunday near an air base in England used by the U.S. and arrested several men over suspected explosives offenses.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "5 arrested near a U.K. air base used by U.S. on suspicion of preparing a terrorist act",
+              "url": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Five arrested on explosives charges near UK air base used by US in Iran war",
+              "url": "https://www.washingtonexaminer.com/news/world/4744368/men-arrested-explosives-uk-raf-airbase-us-iran-war/"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Blanche claims Trump ‘hasn’t denied access’ to White House reporters",
+          "neutralSummary": "Attorney General Todd Blanche on Sunday claimed that President Trump did not deny White House reporters access to the executive mansion, after the president banned CNN, Politico and MS NOW reporters from the grounds and had their passes confiscated by Secret Service. &#8220;Well, the president hasn&",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Blanche says president has right to restrict access to White House and Air Force One",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3lTN3RJYm1ndDQ4SkRjLVJibDdWa2l4YzB0S1M1cVVfMTBzNWJBNHhsUHU5clMyVlpINWJxWnR0Y1NsdFRiNTIwQUY0VS1SaGsxRXFmWlZPQndhTk56US1HUThVaXI3WEI5MktnQm53cWJtVjQ3TVZJck96NDk5Z0dGQ3J5RlN5eFdZZA?oc=5"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards",
-              "url": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump to set new fuel economy standards and undo Biden-era ‘EV mandate’",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4744317/trump-fuel-economy-standards-biden-electric-vehicles/"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Trump stumps for Protect College Sports Act at Texas-Tennessee game: ‘Bipartisanship for the first time in a while’",
-          "neutralSummary": "President Donald Trump vouched for the Protect College Sports Act while attending the University of Texas versus University of Tennessee college football game on Saturday, saying he thinks House Speaker Mike Johnson (R-LA) can ensure its success in the lower chamber. “Mike Johnson’s fantastic. And w",
-          "versions": [
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump stumps for Protect College Sports Act at Texas-Tennessee game: ‘Bipartisanship for the first time in a while’",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4744245/trump-stump-protect-college-sports-act-bipartisan/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "EXCLUSIVE: Clay Travis Interviews President Donald Trump During Tennessee-Texas Game",
-              "url": "https://www.dailywire.com/news/exclusive-clay-travis-interviews-president-donald-trump-during-tennessee-texas-game"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Jesse Watters Reveals One Reason Why He Wants Democrats To Win Midterms",
-          "neutralSummary": "“We need something to cover,” the Fox News host said.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Jesse Watters Reveals One Reason Why He Wants Democrats To Win Midterms",
-              "url": "https://www.huffpost.com/entry/jesse-watters-fox-news-midterms-democrats_n_6ab73501e4b07c8d2e68a795"
+              "headline": "Blanche claims Trump ‘hasn’t denied access’ to White House reporters",
+              "url": "https://thehill.com/homenews/administration/6113681-blanche-defends-trump-media-ban/"
             }
           ]
         }
@@ -502,104 +520,22 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Bangkok declares disaster after homes flooded, roads submerged by heavy rain",
-          "neutralSummary": "Prime Minister Anutin Charnvirakul cut short a trip to London to return home after more than 300mm of rain fell in some areas between Thursday afternoon and Saturday morning, according to officials.",
+          "neutralHeadline": "Personal information of over 23,500 Simba customers leaked in data breach",
+          "neutralSummary": "The data involved included customers' names, ID numbers, mobile numbers and e-mail addresses.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Bangkok declares disaster after homes flooded, roads submerged by heavy rain",
-              "url": "https://www.channelnewsasia.com/asia/bangkok-heavy-rain-canals-roads-flooding-disaster-6412356"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "South China Morning Post",
-              "initials": "SC",
-              "domain": "news.google.com",
-              "headline": "Bangkok declares flood disaster across city as thousands flee from homes",
-              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXh1cEdSa0h4Z0Nkb3VJM1ltaW1PSzh1eXlkM3Zad01KcTZDbkd4djhqRXNmTEFrZE9vNWFiVkcwVjRHV0pJNzNCdkRmSjY3TGVIbTBhd1ZPSkxtYWNqN21IWmxKVnlXVnBqejZmbHcycDJQdDZFYjB1MzVoTTc2LXM4MzdscjA2c1Q3d0k1ZkN6SzVuMVMyejFFZW0yc0ZUb3cyREhNa0ZtX2RLZ1pXVjIwM3NWM1RlMXBUUjUwTTNPbUx1ajNvcVR0RFBySzZGaG9kdVZqVdIB1wFBVV95cUxPM2JvMTNLZHFZV1dfdWZiSG9JeEZwT0ZFWUJyZ1FuMk5fQWxETGYtcWRKQ2FlNFd1R0IwVkFvZi1ISmI2VWc5b1ZFRU5sZER4R29hU3dzeGVIaFJwLVVKZllFSjBsNGxNYlFpNlc0aXpTTklrQW1TSldyNzZLTDVZaGpfM1lMWmRsQThMc2pEVEQ4dVJHa3AtSUxkOHU5SjI0Q3lqc09yc1l2TEZUcm1nMGhZaWZnY2Q1d3hRcGlOVkVHMjJBOXBsNF9RT0VOSzJNNExUUEJEMA?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Bangkok roads submerged as flood disaster declared",
-              "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Personal information of over 23,500 Simba customers leaked in data breach",
+              "url": "https://www.straitstimes.com/singapore/personal-information-of-over-23500-simba-customers-leaked-in-data-breach"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Six to face charges after allegedly taking part in unlawful assembly at Changi Prison, State Courts",
-          "neutralSummary": "The police said some had previously been investigated for similar offences.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Six to face charges after allegedly taking part in unlawful assembly at Changi Prison, State Courts",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/six-to-face-charges-after-allegedly-taking-part-in-unlawful-assembly-at-changi-prison-state-courts"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
-          "neutralHeadline": "PUB urges public to avoid many areas across Singapore due to flash flood risks",
-          "neutralSummary": "The flood at the junction of Neo Pee Teck Lane and Pasir Panjang Road has subsided, PUB said at 12.08pm.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "PUB urges public to avoid many areas across Singapore due to flash flood risks",
-              "url": "https://www.straitstimes.com/singapore/flash-flood-at-junction-of-neo-pee-teck-lane-and-pasir-panjang-road-subsided-pub"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Haze in S’pore: Air quality worsens as PSI hits unhealthy range in central, eastern and western regions",
-          "neutralSummary": "As at 7am, the 24-hour PSI stood at 128 in the central region, 115 in the east and 106 in the west.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Haze in S’pore: Air quality worsens as PSI hits unhealthy range in central, eastern and western regions",
-              "url": "https://www.straitstimes.com/singapore/haze-in-spore-air-quality-worsens-as-psi-hits-unhealthy-range-in-central-eastern-and-western-regions"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Scams, illegal businesses pose new setback for Johor’s Forest City revival",
-          "neutralSummary": "Forest City is courting investors and trying to shed its “ghost town” label, but recent controversies are testing efforts to revive the development and its property market.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Scams, illegal businesses pose new setback for Johor’s Forest City revival",
-              "url": "https://www.channelnewsasia.com/asia/scams-illegal-businesses-pose-new-setback-johors-forest-city-revival-6408931"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
           "neutralHeadline": "Singapore’s new Primary 1 rules: Who lives around the 12 schools getting a wider catchment?",
           "neutralSummary": "ST analysed the neighbourhoods around the 12 primary schools in Bukit Timah, Newton and Marine Parade to find out the housing mix in these areas.",
           "versions": [
@@ -615,9 +551,9 @@
           ]
         },
         {
-          "id": "singapore-7",
-          "neutralHeadline": "Man facing charges after allegedly starting fire outside mosque in Raffles Place",
-          "neutralSummary": "Martin See Hock Leng, 50, was handed four charges in total.",
+          "id": "singapore-3",
+          "neutralHeadline": "‘Pure joy’: Singaporean serves free food in heartland every month to bring people together",
+          "neutralSummary": "He has spent about $2,800 of his savings on the six gatherings he has organised in 2026.",
           "versions": [
             {
               "political": "center",
@@ -625,31 +561,113 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Man facing charges after allegedly starting fire outside mosque in Raffles Place",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/man-facing-charges-after-allegedly-starting-fire-outside-mosque-in-raffles-place"
+              "headline": "‘Pure joy’: Singaporean serves free food in heartland every month to bring people together",
+              "url": "https://www.straitstimes.com/singapore/community/pure-joy-singaporean-serves-free-food-in-heartland-every-month-to-bring-people-together"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "PUB urges public to avoid many areas across Singapore due to flash flood risks",
+          "neutralSummary": "One occurred at the junction of Neo Pee Teck Lane and Pasir Panjang Road and subsided shortly after.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "PUB urges public to avoid many areas across Singapore due to flash flood risks",
+              "url": "https://www.straitstimes.com/singapore/flash-flood-at-junction-of-neo-pee-teck-lane-and-pasir-panjang-road-subsided-pub"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Najib Razak's 'solidarity fund' raises US$2.27 million, still short of US$12.27 million target: DPM Zahid",
+          "neutralSummary": "The jailed former Malaysian prime minister’s eldest son told reporters that even if his father's frozen assets were released, his family would still be unable to immediately raise the fine for Najib to serve his sentence at home as part of a royal pardon.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Najib Razak's 'solidarity fund' raises US$2.27 million, still short of US$12.27 million target: DPM Zahid",
+              "url": "https://www.channelnewsasia.com/asia/malaysia-najib-razak-solidarity-fund-insufficient-target-6413531"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Bangkok floods force thousands into shelters",
+          "neutralSummary": "Nearly 4,900 people have been evacuated to shelters, with around 52,000 households affected by the floods.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Bangkok floods force thousands into shelters",
+              "url": "https://www.channelnewsasia.com/asia/bangkok-floods-thousands-shelters-heavy-rain-6413256"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "news.google.com",
+              "headline": "Bangkok floods force thousands into shelters",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOejQwZzhyN1hiQTU3dWVDWUdiNlV5OEV3MHdpSUN1RnRXYkdoLVpxdEhzWUxCbzc0NEU1NmVxbS1EaHVVNkg3R1ZjYUdiOUhwSzdMRmtFb3ZWY3pTQWEzdFpVZVhSRF9Cc1dUcG9nTnVzWHk2eGplbG5CSmMxQV9QaHpZWC1MZEhsbllnQW5TYw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "Scams, illegal businesses pose new setback for Johor’s Forest City revival",
+          "neutralSummary": "Forest City is courting investors and trying to shed its “ghost town” label, but recent controversies are testing efforts to revive the development and its property market.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Scams, illegal businesses pose new setback for Johor’s Forest City revival",
+              "url": "https://www.channelnewsasia.com/asia/scams-illegal-businesses-pose-new-setback-johors-forest-city-revival-6408931"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "New mediation task force set up in Geylang Serai to resolve neighbour disputes early",
-          "neutralSummary": "The task force intends to prevent minor disputes from escalating further.",
+          "neutralHeadline": "‘Deep respect’: analysts weigh in on Trump’s red carpet welcome for Xi",
+          "neutralSummary": "‘Deep respect’: analysts weigh in on Trump’s red carpet welcome for Xi&nbsp;&nbsp;South China Morning PostUS says China to buy 10 million tonnes of coal in 2027 and 2028&nbsp;&nbsp;The Business TimesChina, US agree to AI dialogue, tariff cuts on US$30 billion in goods during Xi visit&nbsp;&nbsp;CNAH",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "New mediation task force set up in Geylang Serai to resolve neighbour disputes early",
-              "url": "https://www.straitstimes.com/singapore/new-mediation-task-force-set-up-in-geylang-serai-to-resolve-neighbour-disputes-early"
+              "source": "South China Morning Post",
+              "initials": "SC",
+              "domain": "news.google.com",
+              "headline": "‘Deep respect’: analysts weigh in on Trump’s red carpet welcome for Xi",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOak9jclN6OFNZdFdRM3VJSUE4SnNRT0lJUWdKWjVNU0dxY3JIalJBTFZKMTkyMnprZzJvMWpXOWJVZkNKdUJpQkh5S0VUcGpqWU1YM2FwQjNMWWFJNUI0UWQ2Ml9ta2h6RWNyZWEzbEd3RExrWEhrLTg1R1JCd05KM0ZMbE9wck1NbVBKcE9xVFl5UWRidXM4RkdRNjl0d2FKQmc3ZUdKbXhzdnA2V1RsQ2RfdkxTU0nSAbcBQVVfeXFMUDU4UjQ5SHFseVRaTUhRZVdka1c5TVl2ZkNVU0RtTnVwNlFwMEJVdWh2cTJoWld0bDhFRzhMS0trOUlmWkxvek1WNDVvYjlNcTdxVEhadk1udkZyaFpfbExEak90WW5pQ3VKUi04MHZ2YWItZ3dFZS1xaHNEUV9hLXJzTHNaNnY0VnZraHJnWE5rd21scFR1QXlQUmFlRXVoVDNrMTJhYVVyaTNGc1h1NXpocFh5UTVj?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Xi got Trump's red carpet welcome - but not everything he wanted",
+              "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Fewer Sec 3 students taking eight or more subjects, more opting for just six",
-          "neutralSummary": "From 2028, JC admission will be based on students’ performance in five G3-level subjects instead of six.",
+          "neutralHeadline": "Ex-employee sues GlobalFoundries for at least $528k, alleging wrongful dismissal",
+          "neutralSummary": "He was sacked in 2023 amid corruption investigations at the semiconductor manufacturer.",
           "versions": [
             {
               "political": "center",
@@ -657,8 +675,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Fewer Sec 3 students taking eight or more subjects, more opting for just six",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/fewer-secondary-3-students-taking-eight-or-more-subjects-more-opting-for-just-six"
+              "headline": "Ex-employee sues GlobalFoundries for at least $528k, alleging wrongful dismissal",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/ex-employee-sues-globalfoundries-for-at-least-528k-alleging-wrongful-dismissal"
             }
           ]
         }
@@ -669,8 +687,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Second Punjab varsity hit by ‘rape-suicide’ protests; buildings set ablaze, Delhi-Amritsar highway blocked",
-          "neutralSummary": "The protesting students also blocked the Delhi-Amritsar national highway outside the university around 4am, demanding that an FIR be registered.",
+          "neutralHeadline": "M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission",
+          "neutralSummary": "CPI(M) general secretary seeks wider Opposition coordination against SIR and invites AAP leader to join protests against alleged misuse of Central agencies in Keralam",
           "versions": [
             {
               "political": "left",
@@ -678,42 +696,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Punjab varsity students protest, block highway over unverified rape report",
-              "url": "https://www.thehindu.com/news/national/punjab/punjab-varsity-students-protest-block-highway-over-rape-of-female-student/article71515254.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Punjab's Lovely Professional University Students Vandalise Campus, Block Highway Over 'Rape' Case",
-              "url": "https://www.ndtv.com/india-news/punjab-university-lpu-students-protest-rape-by-worker-cops-call-it-rumour-lovely-professional-university-jalandhar-phagwara-national-highway-block-vio-12103906#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Second Punjab varsity hit by ‘rape-suicide’ protests; buildings set ablaze, Delhi-Amritsar highway blocked",
-              "url": "https://www.hindustantimes.com/india-news/lovely-professional-university-chitkara-university-rape-suicide-claims-protests-punjab-latest-news-police-101790480567312.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Punjab uni students hold protest, block highway",
-              "url": "https://economictimes.indiatimes.com/news/india/private-university-students-hold-protest-block-highway-over-unverified-gangrape-report-lovely-professional-university/articleshow/134514408.cms"
+              "headline": "M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission",
+              "url": "https://www.thehindu.com/news/national/ma-baby-meets-kejriwal-ahead-of-india-bloc-meeting-on-election-commission/article71516130.ece"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Udhayanidhi targets CM Vijay over law and order in Tamil Nadu",
-          "neutralSummary": "Udhayanidhi listed several poll promises he alleged the TVK government had failed to fulfill, such as financial assistance for women.&nbsp;",
+          "neutralHeadline": "Punjab’s LPU student protesters block NH-44, clash with police after alleged rape of female student",
+          "neutralSummary": "After students claim hostel resident was raped by a plumber, police register FIR, set up SIT to probe charges; LPU denies allegations as misleading rumours; protesters vandalise university property, disrupt traffic, demand personal assurance from LPU chancellor and Rajya Sabha MP Ashok Mittal",
           "versions": [
             {
               "political": "left",
@@ -721,42 +712,24 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Karur stampede left an indelible scar: Tamil Nadu CM Vijay on first anniversary",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/karur-stampede-left-an-indelible-scar-says-vijay-on-first-anniversary/article71515129.ece"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Udhayanidhi targets CM Vijay over law and order in Tamil Nadu",
-              "url": "https://www.hindustantimes.com/india-news/udhayanidhi-targets-cm-vijay-over-law-and-order-in-tamil-nadu-101790484360104.html"
+              "headline": "Punjab’s LPU student protesters block NH-44, clash with police after alleged rape of female student",
+              "url": "https://www.thehindu.com/news/national/punjab/punjab-varsity-students-protest-block-highway-over-rape-of-female-student/article71515254.ece"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Are banks open or closed today? What customers need to know",
-          "neutralSummary": "Are banks open or closed today? What customers need to know",
+          "neutralHeadline": "India’s first LNG-powered train is here",
+          "neutralSummary": "India’s first LNG-powered train is here",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Are banks open or closed today? What customers need to know",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/banks-open-today-are-banks-open-or-closed-on-sunday-september-27-ahead-of-a-3-day-strike/articleshow/134515612.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Why banks are open today, Sunday — What customers should know",
-              "url": "https://www.hindustantimes.com/india-news/banks-open-today-strike-dates-services-impacted-101790482332615.html"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Amit Shah Flags Off India's 1st LNG-Powered Train From Gujarat's Sabarmati",
+              "url": "https://www.ndtv.com/india-news/amit-shah-flags-off-indias-1st-lng-powered-train-from-gujarats-sabarmati-12105888#publisher=newsstand"
             },
             {
               "political": "center",
@@ -764,15 +737,15 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Are public, private sector banks open today?",
-              "url": "https://economictimes.indiatimes.com/wealth/save/bank-holiday-today-september-27-are-banks-open-or-closed-due-to-union-strike/articleshow/134485708.cms"
+              "headline": "India’s first LNG-powered train is here",
+              "url": "https://economictimes.indiatimes.com/industry/transportation/railways/indias-first-lng-powered-train-is-here-1400-hp-power-cars-to-replace-nearly-40-of-diesel-use-while-cutting-carbon-dioxide-nitrogen-oxides-particulate-emissions/articleshow/134519987.cms"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "'India calls for restraint': Jaishankar on ship attacks in Gulf, seafarers at UNGA - top quotes",
-          "neutralSummary": "'India calls for restraint': Jaishankar on ship attacks in Gulf, seafarers at UNGA - top quotes&nbsp;&nbsp;timesofindia.indiatimes.comIndia&nbsp;&nbsp;General DebateAt UN, S Jaishankar Calls Attack On Seafarers In Middle East 'Unacceptable'&nbsp;&nbsp;NDTVJaishankar-Lavrov meet: Annual summit; BRICS",
+          "neutralHeadline": "'Prepared To Respond Quickly, Decisively': Defence Chief On Pakistan Threat",
+          "neutralSummary": "General NS Raja Subramani was speaking at the NDTV Defence Summit 2026 a day after External Affairs Minister S Jaishankar termed Pakistan a \"serial practitioner of terrorism\" at the 81st session of the United Nations General Assembly",
           "versions": [
             {
               "political": "left",
@@ -780,49 +753,15 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "At UN, S Jaishankar Calls Attack On Seafarers In Middle East 'Unacceptable'",
-              "url": "https://www.ndtv.com/india-news/at-un-s-jaishankar-calls-attack-on-seafarers-in-middle-east-unacceptable-12103242#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "timesofindia.indiatimes.com",
-              "initials": "T",
-              "domain": "news.google.com",
-              "headline": "'India calls for restraint': Jaishankar on ship attacks in Gulf, seafarers at UNGA - top quotes",
-              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNFh0Y1EwVkNkWENfbVlKQ0ZzWVBSTGtIa1djc0JiSWpBeWJBRktLTzBtRGYteHVlSTVZLXdJb2JCSW41SVd0WXlWVjRhTXlLWmR0MFF6RWFNeUg2dXVVR2Vsd0hzZjZSdGtNNGpvVHZjdEJ1SmdObGN2MWgycWZhclZ2bTNxa2JSZXlWcGxlbnVHRUp3RHBiaWFIS1QycmNMSU9WNmREWDAtMzZsMHhhVFBRekZRbzlaMUk2R00yRENmVXpMdXRUWTB4M211enJuN3BUYWo3bjVNLUJSaTI1dGxHZ2NqQ3FXNEc5ZXh3?oc=5"
+              "headline": "'Prepared To Respond Quickly, Decisively': Defence Chief On Pakistan Threat",
+              "url": "https://www.ndtv.com/india-news/prepared-to-respond-quickly-decisively-defence-chief-subramani-on-pakistan-threat-operation-sindoor-lessons-12105666#publisher=newsstand"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Nations can shape own AI ecosystems: Jaishankar",
-          "neutralSummary": "Nations can shape own AI ecosystems: Jaishankar",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Every Nation Has Right To Shape Its AI Ecosystem: S Jaishankar At UN",
-              "url": "https://www.ndtv.com/world-news/eam-jaishankar-highlights-ai-role-in-human-empowerment-at-unga-says-nations-can-shape-own-ecosystems-12103266#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Nations can shape own AI ecosystems: Jaishankar",
-              "url": "https://economictimes.indiatimes.com/news/india/jaishankar-advocates-for-ai-sovereignty-at-unga-emphasizes-global-south-challenges-and-technologys-role/articleshow/134514752.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "‘Ma, they punched me’: Student’s last call to family; how horror unfolded at homestay",
-          "neutralSummary": "Nimisha Thakuria, a 22-year-old Gauhati University student, made a frantic phone call stating she could not breathe. After her family lost contact, she was found critically injured at a homestay on the outskirts of Guwahati. Her alleged companion, Ashiq Ali, has been detained, stating that she hange",
+          "neutralHeadline": "‘Illegal detention by Assam Police has finally ended’: CJP’s Ranka to address press",
+          "neutralSummary": "Ashutosh Ranka, co-convenor of the Cockroach Janta Party, reported his detention by Assam Police has ended. He stated that he will address the media after being taken back to the original pick-up location. Several other CJP leaders were also detained in Guwahati before a regional volunteers' meeting",
           "versions": [
             {
               "political": "center",
@@ -830,74 +769,108 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "‘Ma, they punched me’: Student’s last call to family; how horror unfolded at homestay",
-              "url": "https://timesofindia.indiatimes.com/city/guwahati/ma-they-punched-me-in-the-chest-students-last-call-before-death-at-guwahati-homestay-accused-claims-she-hanged-herself/articleshow/134514085.cms"
+              "headline": "‘Illegal detention by Assam Police has finally ended’: CJP’s Ranka to address press",
+              "url": "https://timesofindia.indiatimes.com/city/guwahati/illegal-detention-by-assam-police-has-finally-ended-cjps-ashutosh-ranka-to-address-press/articleshow/134523500.cms"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "timesofindia.indiatimes.com",
-              "initials": "T",
-              "domain": "news.google.com",
-              "headline": "'Ma, they punched me in chest': Student's last call before death at Guwahati homestay; accused claims she",
-              "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPOVJjem9hV3ZZaEVEenR4WXV0U2pMbXJobG1EU2wwX1lNSVA3SWtnczBJU3Z4Q3RYbnljOGMyTTBELVBaaUJ0WXBZQlpDNVNyejNxZWZvSkJBOVJ1MGpCQTJVVTVSY2ZvQTFHRTlneTI1TGcwVEZKaXFVblIyeXpLRG5FQVJ2ZWJuNUpRV2t5MHIzNnlJZFFWT3hQRjdya1gzVkk0UXNuREFidnZtQVVrNUlWT0NnaHEzcFJhWkI3NlhVNFF6dG44ZmdyNWFRQ1NsamJfSEJIM3RZVFZUVlJzSlZUYmdIUE5aUmdQSmlEUWk0U0tqbk1ncVF1dlNhLWpVdmZ6MHhIWHhhc29URXFnVWcxcmQxV2hmQU9YYWxWQQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "At least 18 dead in 48 hours as heavy rains trigger floods across India",
-          "neutralSummary": "The affected regions face severe flooding, crop damage, and widespread evacuations, with thousands displaced from their homes.",
-          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "At least 18 dead in 48 hours as heavy rains trigger floods across India",
-              "url": "https://www.hindustantimes.com/india-news/severe-floods-across-india-claim-18-lives-displace-thousands-amid-heavy-monsoon-rains-up-bihar-odisha-chhattisgarh-imd-101790478465466.html"
+              "headline": "Ashutosh Ranka says team CJP's ‘illegal detention’ by Assam Police 'finally ended'; Dipke reacts",
+              "url": "https://www.hindustantimes.com/india-news/ashutosh-ranka-says-illegal-detention-by-assam-police-finally-ended-cjp-team-chief-dipke-reacts-101790527524604.html"
             }
           ]
         },
         {
-          "id": "india-8",
-          "neutralHeadline": "Mehli Mistry quits as trustee of Tata Medical Centre",
-          "neutralSummary": "Mehli Mistry quits as trustee of Tata Medical Centre",
+          "id": "india-6",
+          "neutralHeadline": "Asian Games: Athletics leads India’s seven-medal haul, three boxers assure medals",
+          "neutralSummary": "India showcased a stellar performance at the Asian Games 2026, clinching a total of seven medals, predominantly in athletics and squash. Parul Chaudhary shone brightly, securing a bronze in the women’s 3000m steeplechase. Silver medals were added by Ancy Sojan and Sarvesh Kushare in their respective",
           "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Asian Games: Athletics leads India’s seven-medal haul, three boxers assure medals",
+              "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-8-athletics-leads-indias-seven-medal-haul-three-boxers-assure-medals/articleshow/134521777.cms"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Mehli Mistry quits as trustee of Tata Medical Centre",
-              "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/mehli-mistry-steps-down-as-trustee-of-tata-medical-centre-trust-declines-re-election/articleshow/134507461.cms"
+              "headline": "India medal tally swells to 37 on Asian Games day 8",
+              "url": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-2026-indias-medal-tally-swells-to-37-after-seven-medal-haul-on-day-8/articleshow/134523400.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Nepal battered by severe rain: 21 dead, 5 missing as floods, landslides worsen",
+          "neutralSummary": "In Nepal, heavy rainfall has caused devastating floods and landslides, resulting in 21 lives lost and extensive damage. Authorities have evacuated around 3,000 residents from perilous areas to guarantee their safety. This deluge follows the earlier Bhotekoshi floods, which had a death toll of over 1",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Nepal battered by severe rain: 21 dead, 5 missing as floods, landslides worsen",
+              "url": "https://timesofindia.indiatimes.com/world/south-asia/nepal-battered-by-severe-rain-21-dead-5-missing-as-floods-landslides-worsen/articleshow/134523964.cms"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Moneycontrol.com",
-              "initials": "M",
+              "source": "Reuters",
+              "initials": "R",
               "domain": "news.google.com",
-              "headline": "Mehli Mistry steps down as Tata Medical Centre trustee; declines re-election",
-              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc2tldXhZTnZQZ2JfanlMWGJNNnF2RnhFNnZzQkFqR05kMURYVTFOU0UzMElWbTVJbHBMS3JOOFJjUlNZTnhFa2VfcG1QQ2tkdkhlbVRENVZPVEZ4NXpmRHpMYU91YjA3cHE0MjZkWlRSYXE0bHRBUk8wNUoxUm16ZzZYRE9zNFJVQU1DNHlkQ0lLVlU2ZmYwTG01QmxWUFdONlhNWjhVWl81SWxqSmc0YVBadzE4X29CbDIta1BWcEJQRHEtRU9lRG5vNlg1dHpuU2hTSHZ30gHbAUFVX3lxTFBBNDVoY3lVX2lZaGwybFdCSTEtOXc0ekpZYnZ2OEY2ZktmeHNiX1RWbGsxd3M2Q0xPaVRHTVJIUHVIN1M1MXd6UEN6MFJpeXVyS3lGLUwzR3B2bVdBNTFYbTkzZFNzdFQ5WllvM0h4MDlHcjJRT3Y5YnNqYWwwVWxGa2E5TWxfVlktdEJrN01DSGZ1cmw0Qk5fcllkTmxzU3V3ajBmNU1kWFBtbFlLSE5TSjZGSlFhMVYxRFZtZ2NNZzMxTS1qSTRtZmRlYlYyVE5laHphYmlSSFRSWQ?oc=5"
+              "headline": "Floods, landslides kill 56 in India and 14 in Nepal",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDl0UzBQZFNRMUNTNWZpRnNkVVVILXI5Vk5RRmV1bk5UeURhMWZWbjZkVklUVktUWGlsdmFORXVIQ0pDLWFfRWlxeGhtUl81Y1BlQ21XVThzX2hUSHVualNRdFdHZFIwbk5EaDBkUlBMN3hkV0ljMVJxVklMMHhXaEpwalNGZUVzVi03QnNFaFNuMTVTVHhtaWpoWnJXWFM2YUEwNWRMVS10RXk0VTZlUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "'I promised myself': Virat Kohli after 15,000-run landmark",
+          "neutralSummary": "Virat Kohli became only the second batter after Sachin Tendulkar to complete 15,000 ODI runs. He also hit his record-extending 55th ODI century as India beat West Indies by eight wickets in the first ODI. Kohli said his priority has always been to understand the situation and do what the team needs.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'I promised myself': Virat Kohli after 15,000-run landmark",
+              "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/i-promised-myself-im-going-to-play-positively-virat-kohli-after-15000-run-landmark/articleshow/134523992.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Rohit Sharma, Virat Kohli &amp; the last dance",
+              "url": "https://economictimes.indiatimes.com/news/sports/cricket/rohit-sharma-virat-kohli-the-last-dance/articleshow/134510082.cms"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "A year after Karur stampede at TVK rally, scars remain and justice still elusive",
-          "neutralSummary": "The physical traces of the tragedy have faded, but the trauma remains even after a year. The victims’ families seek justice as the CBI investigates delays",
+          "neutralHeadline": "IndiGo A321 enroute Blr suffers tail strike; plane lands safely in second attempt",
+          "neutralSummary": "On Sunday, an IndiGo Airbus A321 operating flight 6E 6542 experienced a tail strike during a go-around. The incident occurred while attempting to land in gusty weather at Bengaluru airport. All passengers and crew were safely disembarked, and the aircraft is undergoing maintenance checks. The Direct",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "A year after Karur stampede at TVK rally, scars remain and justice still elusive",
-              "url": "https://www.thehindu.com/news/national/tamil-nadu/one-year-of-karur-stampede-at-tvk-rally-joseph-vijay-justice-for-victims-still-elusive/article71507633.ece"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "IndiGo A321 enroute Blr suffers tail strike; plane lands safely in second attempt",
+              "url": "https://timesofindia.indiatimes.com/india/indigo-a321-suffers-tail-strike-during-go-around-at-bangalore-plane-lands-safely-in-second-attempt/articleshow/134523319.cms"
             }
           ]
         }
