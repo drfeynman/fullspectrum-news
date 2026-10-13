@@ -1,11 +1,54 @@
 {
-  "generatedAt": "2026-10-13T08:41:22.648821+00:00",
+  "generatedAt": "2026-10-13T19:49:07.970264+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
+          "neutralHeadline": "Pope Leo XIV Will Undergo Surgery To Remove A Nodule On His Lung",
+          "neutralSummary": "Pope Leo XIV has announced he will undergo surgery to remove a nodular lesion on his lung.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Pope Leo XIV Will Undergo Surgery To Remove A Nodule On His Lung",
+              "url": "https://www.huffpost.com/entry/ap-eu-vatican-pope-leo-surgery_n_6acb6ee3e4b07a9187214108"
+            },
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Pope's surgery to remove lump on lung 'concluded successfully', Vatican says",
+              "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "news.google.com",
+              "headline": "Pope Leo Undergoes ‘Successful’ Surgery to Remove Lung Nodule, Vatican Says",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zalk3S3VDUElUcFNEdUpIem4tTmtXbTRVM19GX2ZEV3BFWE15YWhGa19zZFd1cEozS0toNHd6SWdOazhZR2NPYkFkRFU4ZG9BLVFGTi0tVndYR3h1Wl9vMGs3NDl0X2lLZ2Z1Rjd4ZmlldjgzaWt4bU9DNlN0ZUU?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "optimistic",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Pope Leo surgery to remove lung nodule was successful, Vatican says",
+              "url": "https://www.foxnews.com/world/pope-leo-surgery-remove-lung-nodule-successful-vatican-says"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
           "neutralHeadline": "Zelenskyy Says Russia Strikes Energy Facilities Despite Trump Claim Of Energy Ceasefire",
           "neutralSummary": "“We support it, but I have not heard approval of this proposal from the Russian side,” the Ukrainian president said.",
           "versions": [
@@ -21,36 +64,43 @@
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-              "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'",
-              "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
-              "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss"
+              "headline": "Trump says Putin and Zelenskyy both want to end Russia’s war on Ukraine",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-says-putin-and-zelenskyy-both-want-to-end-russias-war-on-ukraine?traffic_source=rss"
             }
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "Pope Leo to be hospitalized Tuesday for surgery to remove a lung nodule",
-          "neutralSummary": "Pope Leo to be hospitalized Tuesday for surgery to remove a lung nodule&nbsp;&nbsp;NBC NewsPope Leo to be admitted to Gemelli Hospital on October 13&nbsp;&nbsp;Vatican NewsPope Leo to enter hospital on Tuesday for surgery on lung nodule&nbsp;&nbsp;ReutersBishops, clergy, religious and faithful offer",
+          "id": "global-3",
+          "neutralHeadline": "Hurricane Simon hitting western Mexico after tropical systems kill 5",
+          "neutralSummary": "Hurricane Simon hitting western Mexico after tropical systems kill 5&nbsp;&nbsp;CBS NewsDeath toll rises to 6 as Hurricane Simon and Rachel remnants unleash floods in Mexico&nbsp;&nbsp;The HillStorms cause 5 deaths in Mexico as flood risk eases in southwestern US&nbsp;&nbsp;AP NewsHurricane Simon's",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
+              "url": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "Hurricane Simon hitting western Mexico after tropical systems kill 5",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQTltZFUyRm5WWUxVNUphSUZvY0hXWC1fTTlwbW8zLWs5eEN6QXA4UWNBSXF6RlNfX25TREFMSFljMFloaURlc2lPeHBRakVOUjhldWtpYllkZFpNQkFicjMzQm9EaFZYc0hhcGVCalV6TWU3X0xsSFd4eTkzTDh2R2l4Nm1CQ0Zzb0V5S0FibkQtODdkTGtURk9kV0RlX19VeS00QnNVYw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Skies Over Saudi Capital Empty After Deadly Houthi Airport Strikes",
+          "neutralSummary": "The skies over Riyadh were virtually empty on Monday as authorities extended the suspension of operations at the city’s international airport after deadly weekend attacks by Houthis.",
           "versions": [
             {
               "political": "left",
@@ -58,40 +108,22 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Pope Leo XIV Will Undergo Surgery To Remove A Nodule On His Lung",
-              "url": "https://www.huffpost.com/entry/ap-eu-vatican-pope-leo-surgery_n_6acb6ee3e4b07a9187214108"
+              "headline": "Skies Over Saudi Capital Empty After Deadly Houthi Airport Strikes",
+              "url": "https://www.huffpost.com/entry/riyadh-attack-houthis-saudi-arabia_n_6acce4dce4b0ec20eb6b45c5"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "NBC News",
-              "initials": "NN",
-              "domain": "news.google.com",
-              "headline": "Pope Leo to be hospitalized Tuesday for surgery to remove a lung nodule",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNlhjR0VrVjNqLU1EcjhyRUVHQ3JGR29Lcnc1bUVERllyazdqTWQ1ZFBNZU4yRF9OQ3lwWnJiUTNTQ3d4Q3BQeDJiVzcwSC1PeGpkVXRib3N3dnl3QTRPWVBGOVlTMVdzYjhTbzF2RjBDRG1zX1B2bTB6Q2NrNmh6eXFLekhINHFzdU5uRVVCczVVMTlDaHZVVnU5b2xld0VxMjhKR05IQlNaNVhSZGh3ZmV0Z3Z3d2hIVUE?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Pope Leo to enter hospital on Tuesday for surgery on lung nodule this week",
-              "url": "https://www.france24.com/en/europe/20261012-what-we-know-about-pope-leo-xiv-planned-lung-operation-this-week"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Pope Leo announces tumor on lung, surgery planned in 'next few days'",
-              "url": "https://www.foxnews.com/world/pope-leo-announces-tumor-lung-surgery-planned-next-few-days"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Saudi coalition strikes fuel depot near Yemen's capital",
+              "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "id": "global-3",
+          "id": "global-5",
           "neutralHeadline": "Trump Says Russia And Ukraine Agree To 'Energy Ceasefire' But Kyiv Says Attacks Continue",
           "neutralSummary": "Ukrainian President Volodymyr Zelenskyy said Russia was still hitting energy infrastructure in Kyiv and in the city of Kharkiv.",
           "versions": [
@@ -116,59 +148,9 @@
           ]
         },
         {
-          "id": "global-4",
-          "neutralHeadline": "Trump Says Ukraine Should 'Get A New Leader' As He Blames Zelenskyy For Diesel Prices",
-          "neutralSummary": "Ukrainian and European officials on Saturday reacted to Trump’s diesel deal with dismay, saying it will help pay for Russia’s war efforts.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Says Ukraine Should 'Get A New Leader' As He Blames Zelenskyy For Diesel Prices",
-              "url": "https://www.huffpost.com/entry/russian-attacks-kill-15-ukraine-after-trump-strikes-diesel-deal-with-putin_n_6aca261fe4b0942a61417193"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
-              "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "'Breaking Bad' actor and disability activist RJ Mitte dies aged 34",
-          "neutralSummary": "\"Breaking Bad\" actor RJ Mitte, who played Walter White Jr. in the hit US television series, has died aged 34, his representatives said Monday. The actor, who lived with cerebal palsy, also became a prominent disability rights advocate, championing inclusion and representation in film and television.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Breaking Bad actor RJ Mitte dies aged 34",
-              "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "'Breaking Bad' actor and disability activist RJ Mitte dies aged 34",
-              "url": "https://www.france24.com/en/americas/20261013-breaking-bad-actor-and-disability-activist-rj-mitte-dies-aged-34"
-            }
-          ]
-        },
-        {
           "id": "global-6",
-          "neutralHeadline": "One dead and several hurt after rollercoaster incident at Six Flags",
-          "neutralSummary": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+          "neutralHeadline": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+          "neutralSummary": "The sentence marks an end to the mystery around Tupac's cold case, which has intrigued hip-hop fans for nearly 30 years.",
           "versions": [
             {
               "political": "left",
@@ -176,8 +158,33 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "One dead and several hurt after rollercoaster incident at Six Flags",
-              "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss"
+              "headline": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+              "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Duane ‘Keffe D’ Davis sentenced for masterminding Tupac Shakur’s murder",
+              "url": "https://nypost.com/2026/10/13/us-news/duane-keffe-d-davis-sentenced-for-tupac-shakurs-murder/"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
+          "neutralHeadline": "Cornell bans all fraternity parties over gang sex assault allegations",
+          "neutralSummary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Cornell bans all fraternity parties over gang sex assault allegations",
+              "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -185,56 +192,58 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Man dies after fall from Six Flags rollercoaster in Georgia",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/man-dies-after-fall-from-six-flags-rollercoaster-in-georgia?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "🔴 Live: Greta Thunberg joins French student protests ahead of nationwide rallies",
-          "neutralSummary": "🔴 Live: Greta Thunberg joins French student protests ahead of nationwide rallies",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "🔴 Live: Greta Thunberg joins French student protests ahead of nationwide rallies",
-              "url": "https://www.france24.com/en/europe/20261013-live-france-braces-for-fresh-nationwide-protests-over-school-conditions"
+              "headline": "Cornell suspends fraternity parties after alleged campus gang rape case",
+              "url": "https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "'It's clear that Moscow is just playing with Washington', analyst says",
-          "neutralSummary": "President Donald Trump's envoys told ​Ukrainian officials on Friday that a deal to allow Russian diesel exports is part of a bid to draw Russia back to negotiations after the failure of previous efforts to launch sustained talks to end the war, three people familiar with the meeting told Reuters. FR",
+          "neutralHeadline": "Trump's diesel deal with Putin angers Europe",
+          "neutralSummary": "President Trump's diesel deal with Russia sparks European fury, as Ukraine's President Zelenskyy questions Washington's motives and allies vow to keep pressure on Moscow.",
           "versions": [
             {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "'It's clear that Moscow is just playing with Washington', analyst says",
-              "url": "https://www.france24.com/en/tv-shows/a-propos/20261012-it-s-clear-that-moscow-is-just-playing-with-washington-analyst-says"
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump's diesel deal with Putin angers Europe",
+              "url": "https://www.npr.org/2026/10/13/nx-s1-5998764/trumps-diesel-deal-with-putin-angers-europe"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump Russia deal could fuel Putin's war, ex-NATO commander warns as Zelenskyy says 'nyet'",
+              "url": "https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Systems Like Supply Chains are Being ‘Weaponized’: Modi",
-          "neutralSummary": "Indian PM Narendra Modi warned that the interconnected systems that once united the world like supply chains, trade and tech have become instruments of coercion.\n\nHe said at the Bloomberg New Economy Forum that India stands apart with a different approach. (Source: Bloomberg)",
+          "neutralHeadline": "🔴 Live: French students ‘not giving up the fight’ as 480,000 join new day of school protests",
+          "neutralSummary": "🔴 Live: French students ‘not giving up the fight’ as 480,000 join new day of school protests",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Photos: French protests over school conditions swell",
+              "url": "https://www.aljazeera.com/gallery/2026/10/13/photos-french-students-continue-to-protest-over-run-down-schools?traffic_source=rss"
+            },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Systems Like Supply Chains are Being ‘Weaponized’: Modi",
-              "url": "https://www.bloomberg.com/news/videos/2026-10-13/systems-like-supply-chains-are-being-weaponized-modi-video"
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "🔴 Live: French students ‘not giving up the fight’ as 480,000 join new day of school protests",
+              "url": "https://www.france24.com/en/europe/20261013-live-france-braces-for-fresh-nationwide-protests-over-school-conditions"
             }
           ]
         }
@@ -245,8 +254,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "The Memo: Trump critics allege abuse of power as Ilhan Omar’s home is raided",
-          "neutralSummary": "Federal agents raided the Washington area home of Rep. Ilhan Omar (D-Minn.) on Monday, sparking an instant political firestorm. Critics of President Trump immediately cast the raid as an abuse of power victimizing a congresswoman who has been a vigorous opponent of the White House, while conservativ",
+          "neutralHeadline": "Rep. Ilhan Omar's Home Raided By Federal Agents",
+          "neutralSummary": "“Make no mistake: this is an attempt to target political enemies and weaponize federal law enforcement,” said the Minnesota congresswoman.",
           "versions": [
             {
               "political": "left",
@@ -256,15 +265,6 @@
               "domain": "huffpost.com",
               "headline": "Rep. Ilhan Omar's Home Raided By Federal Agents",
               "url": "https://www.huffpost.com/entry/ilhan-omar-raid-homeland-security_n_6accd2d4e4b0ec20eb6b3c2b"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Federal Agents Search Home of Rep. Ilhan Omar",
-              "url": "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html"
             },
             {
               "political": "left",
@@ -281,26 +281,8 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
-              "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Immigration agents search congresswoman Ilhan Omar's home",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nMXdITGJwRFVwSXB0SHIwS3pRM000X3phc2l3Z3lBckxlVkljNk9NRkZuUTNUYTFVbXNObjdSd2czd1p3STZtRzFKcDZsZGtqQ2w5UVdSRzl1VTQ?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "The Memo: Trump critics allege abuse of power as Ilhan Omar’s home is raided",
-              "url": "https://thehill.com/homenews/analysis/6144242-omars-reelection-facing-political-firestorm/"
+              "headline": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+              "url": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar"
             },
             {
               "political": "right",
@@ -308,22 +290,90 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Federal agents raid Ilhan Omar’s DC home amid immigration fraud investigation",
-              "url": "https://www.foxnews.com/politics/ilhan-omars-home-dc-searched-hsi-pre-dawn-raid"
+              "headline": "Ilhan Omar's wealth scandal takes a turn just one day after raid of her DC home",
+              "url": "https://www.foxnews.com/politics/ilhan-omar-wealth-scandal-takes-turn-one-day-after-raid-dc-home"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump says he’s not involved in investigation into Ilhan Omar",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4763556/trump-not-involved-ilhan-omar-investigation/"
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Ilhan Omar Fundraising Off ICE Investigation",
+              "url": "https://www.dailywire.com/news/ilhan-omar-fundraising-off-ice-investigation"
             }
           ]
         },
         {
           "id": "us-2",
+          "neutralHeadline": "Kimberly Guilfoyle Resigns as U.S. Ambassador to Greece",
+          "neutralSummary": "Kimberly Guilfoyle Resigns as U.S. Ambassador to Greece&nbsp;&nbsp;WSJTrump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations&nbsp;&nbsp;BBCKimberly Guilfoyle Resigns as Ambassador to Greece&nbsp;&nbsp;The New York TimesGuilfoyle’s Collapse Comes as White House Struggl",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
+              "url": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "WSJ",
+              "initials": "W",
+              "domain": "news.google.com",
+              "headline": "Kimberly Guilfoyle Resigns as U.S. Ambassador to Greece",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeXpJUWNkT003TmxtcW9ERHlBUWc4RXFwaU1Yc01LMHZuZlFrYUZZOGZPU1VrSjVMOEJWWTVIS1M1MGdPaDg1VUYtekNnODNibl80Q0ZuOE9CWG9ZSVlZQWNZenJJQ1UtV1R4NjRFUERNVFZSdmFIZlh4V2taM0xRNWpVM3k?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Kimberly Guilfoyle confirms exit as ambassador to Greece as Trump asks her to resign amid flurry of scandals",
+              "url": "https://www.foxnews.com/politics/kimberly-guilfoyle-confirms-exit-ambassador-greece-trump-asks-her-resign-amid-flurry-scandals"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Judge blocks Trump administration from cutting down trees at D.C. golf course for 2 weeks",
+          "neutralSummary": "Judge blocks Trump administration from cutting down trees at D.C. golf course for 2 weeks&nbsp;&nbsp;CBS NewsJudge Yells at Trump Administration for Cutting Down Golf Course Trees&nbsp;&nbsp;WSJTrump’s Tree Removal Plans At D.C. Golf Course Blocked 2 More Weeks—After Abruptly Downing Hundreds&nbsp;&",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Judge Prohibits Further Tree Cutting at East Potomac Golf Course for Two Weeks",
+              "url": "https://www.nytimes.com/2026/10/13/us/politics/trump-potomac-tree-cutting-golf-course.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "A judge blocks the government's tree-clearing spree at a municipal D.C. golf course",
+              "url": "https://www.npr.org/2026/10/13/nx-s1-6000055/east-potomac-golf-course-tree-clearing-judge"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "Judge blocks Trump administration from cutting down trees at D.C. golf course for 2 weeks",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZTB5YXFnS29nUXgxSlR5R1BJb01sNXcxbW5kbFVWQW95RklXdlBfbnBSN2hKTGV1OTlTcXBmbWEzZnRPeVVGVmdLcWNUQ3dBbVVPZURPazliNzc2SG94bFFQbl9ybTJySm1ua01DV1dETFJMR3pvcUdpTnN2cVpLTzFn?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
           "neutralHeadline": "Kimberly Guilfoyle's Alleged Texts about Bettina Trump Released -- And, Oh, The Shade",
           "neutralSummary": "The beleaguered ambassador’s personal life was exposed amid her corruption scandal.",
           "versions": [
@@ -344,22 +394,29 @@
               "domain": "nytimes.com",
               "headline": "Trump Says He Is ‘Looking at’ Firing Kimberly Guilfoyle",
               "url": "https://www.nytimes.com/2026/10/12/us/politics/trump-kimberly-guilfoyle-greece.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "Trump ‘looking at’ firing Athens ambassador Guilfoyle over alleged plea for cash",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWXJwcDJLVk1nSThGSHJicG1NM0xhWldGMExVSkNCTlZFQXgxTl9aZEpLR2tzMnRGdWVUMUxzSGdfak5ONVo5S2o4VThLeTJKUTIyczdNSzdsYmdOMGhxcTNsWDdiRGVHSmFvSkxmcFJHZHFQNFFtNzc1N2NkRlBRNVhvOFRLUkdncHB3OVRPQXJGd2plYVNoWQ?oc=5"
             }
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "Calls Show How Confusion Delayed Emergency Response for Christa Pike",
-          "neutralSummary": "The first 911 call from inside the prison was made at 8:40 p.m. It took about 30 minutes to verify its authenticity.",
+          "id": "us-5",
+          "neutralHeadline": "These California Boat Dwellers Fear the Worst: Life on Land",
+          "neutralSummary": "For decades, dozens of people lived rent-free on a bay just north of San Francisco. A few holdouts remained as a deadline loomed to leave the water.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "These California Boat Dwellers Fear the Worst: Life on Land",
+              "url": "https://www.nytimes.com/2026/10/13/us/california-anchor-outs-boats.html"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "He Would Be Florida’s First Black Governor. Can He Sway Black Voters?",
+          "neutralSummary": "Byron Donalds, the Republican nominee for governor, is working to win over Black voters who usually support Democrats as his party girds for the possibility of low turnout.",
           "versions": [
             {
               "political": "left",
@@ -367,83 +424,49 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Calls Show How Confusion Delayed Emergency Response for Christa Pike",
-              "url": "https://www.nytimes.com/2026/10/12/us/christa-pike-medical-care-delay.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "911 calls reveal 30-minute delay in treating Christa Pike after failed execution",
-              "url": "https://www.washingtonexaminer.com/news/crime/4763637/911-calls-christa-pike-failed-execution/"
+              "headline": "He Would Be Florida’s First Black Governor. Can He Sway Black Voters?",
+              "url": "https://www.nytimes.com/2026/10/13/us/byron-donalds-florida-governor-black-voters.html"
             }
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "U.S. Miltary Archbishop Says Catholic Soldiers Shouldn't Serve On Firing Squad",
-          "neutralSummary": "Archbishop Timothy Broglio, who oversees Catholic pastoral services for the U.S. military, is condemning the proposed livestream of Nidal Hasan's firing squad execution.",
+          "id": "us-7",
+          "neutralHeadline": "Cornell bans fraternity houses from hosting parties as rape investigation continues",
+          "neutralSummary": "The Ivy League university’s president announced the ban as administrators address allegations of a 2024 gang rape at a fraternity house.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "U.S. Miltary Archbishop Says Catholic Soldiers Shouldn't Serve On Firing Squad",
-              "url": "https://www.huffpost.com/entry/u-s-military-archbishop-opposes-catholic-soldiers-on-firing-squad_n_6acd2a58e4b064943475ff68"
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Cornell bans fraternity houses from hosting parties as rape investigation continues",
+              "url": "https://www.washingtonpost.com/education/2026/10/13/cornell-bans-fraternity-houses-hosting-parties-rape-investigation-continues/"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
+              "source": "BBC",
+              "initials": "BBC",
               "domain": "news.google.com",
-              "headline": "US archbishop says Catholics in army should not participate in firing squad",
-              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSkxHQjJJd1QtTVN5b2VWNElOTG0yV3M1Zzd3cDVSYjdBNThablQza2V1RnlhMFJ3NGpYVVpVbzNQSVZVem9SYlFGLS1YRzdUSWVEaXFWSEtRRHp2V3Y1b3M0V1hUVUhNbk85b2lFdHRBaERhV0F6dDdlQnZQS3ZLVzBmM29mWXdOZTE0UW5rTXlGcFM4YnVEc0ZITWFLZy1DTzNWS3FTWmJTZEhxS1poTTBXeEY2NUVi0gG-AUFVX3lxTFBHRVE2Q0JHN1hQZkM4MFR6REVnV1lNS05taF9mWVBjOHJKTWtyUlFLbDFIZXpMcHFvT2U0VWd6T252ZW41b0l5c1VhUG9oaGYzYjd0Vm5qZGpvXzZNX0l3T3BmSWF4alVDbXNCQ2ZrZVB0dUZQVmUybFFvWlRaSWxiMnpINUx2TXQ3QTlOOGo3WERFekd3bmJUWDRMQ0xtXzlvUkFVUWgxb2tTWkpiakczRjZaN05sVHNSY2VSUEE?oc=5"
+              "headline": "Cornell cancels fraternity parties over sexual assault case",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TdFdicHc1RGgzRGItZGE4NmpUVnNqU0l4YXlzMWpmdGRHUVQtMXpRRlJfcWNlLWxhNG5ZMmcyTGdXRHAyQW5ydnV6RU83NEJBMFJ1UF9iQnRBRlE?oc=5"
             }
           ]
         },
         {
-          "id": "us-5",
-          "neutralHeadline": "Zelensky unleashes on Trump over Russia diesel deal",
-          "neutralSummary": "Welcome to The Hill&#8217;s Defense &#038; NatSec newsletter {beacon} Defense &#038;National Security Defense &#038;National Security &#8202; The Big Story&#160; Zelensky unleashes on Trump over Russia diesel deal Kyiv’s allies, including those in President Trump’s circle, are rallying around Ukrain",
+          "id": "us-8",
+          "neutralHeadline": "Vance announces plan to use wartime authority to boost fuel production at Texas refinery",
+          "neutralSummary": "The Trump administration will use wartime authority to augment fuel production at a refinery in Texas, Vice President JD Vance announced on Tuesday. The move comes as high energy prices are putting a strain on the economy and are becoming a political liability ahead of the midterms. “I am pleased to",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Fox News Star Seethes Over Trump's Deal With 'The Bad Guys'",
-              "url": "https://www.huffpost.com/entry/brian-kilmeade-trump-russia-fuel-deal_n_6acc1569e4b0ec20eb6af787"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Zelensky unleashes on Trump over Russia diesel deal",
-              "url": "https://thehill.com/newsletters/defense-national-security/6144319-zelensky-criticized-trump-russian-diesel/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Rider on Georgia Roller Coaster Dies and Several Others Are Injured",
-          "neutralSummary": "The episode happened Monday afternoon at the Six Flags Over Georgia amusement park, the police said. It was not immediately clear what led up to the rider’s death.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Rider on Georgia Roller Coaster Dies and Several Others Are Injured",
-              "url": "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html"
+              "headline": "Vance announces plan to use wartime authority to boost fuel production at Texas refinery",
+              "url": "https://thehill.com/homenews/administration/6146057-trump-vance-defense-production-act/"
             },
             {
               "political": "right",
@@ -451,83 +474,33 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "One dead and several injured after roller coaster incident at Six Flags Over Georgia",
-              "url": "https://www.washingtonexaminer.com/news/entertainment/4763670/man-killed-goliath-rollercoaster-six-flags-georgia/"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Actress Selma Blair Is Arrested in Assault on Flight Attendants",
-          "neutralSummary": "The police responded to a call about a “physically abusive passenger” aboard a flight that landed at Kennedy Airport on Sunday night, officials said.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Actress Selma Blair Is Arrested in Assault on Flight Attendants",
-              "url": "https://www.nytimes.com/2026/10/12/us/selma-blair-arrested.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "FBI Takes Action After Actress Accused Of Attacking Flight Attendants",
-              "url": "https://www.dailywire.com/news/fbi-takes-action-after-actress-melts-down-midflight"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "New White House press secretary a 'devoted fan' of Trump and MAGA",
-          "neutralSummary": "Katie Zacharia worked for one of Trump's companies and raised her profile appearing on conservative-leaning talk shows. She also amplified right-wing conspiracy theories. Now she'll be the president's chief spokesperson.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "New White House press secretary a 'devoted fan' of Trump and MAGA",
-              "url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Katie Zacharia says she plans to be press secretary until the end of Trump’s term as she preps for first briefing",
-              "url": "https://www.washingtonexaminer.com/news/washington-secrets/4763659/katie-zacharia-plans-press-secretary-end-trump-term-first-briefing/"
+              "headline": "Vance: Trump to invoke Defense Production Act to expand oil refinery in Texas",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4764352/trump-invokes-defense-production-act-expand-oil-refinery-texas/"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Trump's Russia deal leaves GOP candidates with a Putin problem",
-          "neutralSummary": "Trump's Russia deal leaves GOP candidates with a Putin problem&nbsp;&nbsp;AxiosRussia deal, execution plans and deportations tell a defining tale about Trump and power&nbsp;&nbsp;CNNTrump Gives Putin a Hand in Russia’s Economic War With Ukraine&nbsp;&nbsp;The New York TimesTrump faces stiff bipartis",
+          "neutralHeadline": "Why these roller coasters are closed after a rider’s death at Six Flags in Georgia",
+          "neutralSummary": "Nine other Six Flags attractions have been closed.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Axios",
-              "initials": "AX",
-              "domain": "news.google.com",
-              "headline": "Trump's Russia deal leaves GOP candidates with a Putin problem",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOVZDbTdjTHE1M3JpM0xVXzdlblZPOXZpTXktVlFlQWdNZDMxSVBuMU9fUUVNQ1dWZmRqYVdyVEpEdnI1cElTdjFNWl8zZTNQdktyWldONnBrUTVqOGp1dUQyM3RuN1psMHdYbFFzNHp6OTFTRFA5MUNRRFYzMnhqU0RnOFY?oc=5"
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Why these roller coasters are closed after a rider’s death at Six Flags in Georgia",
+              "url": "https://thehill.com/homenews/state-watch/6145187-why-these-roller-coasters-are-closed-after-a-riders-death-at-six-flags-in-georgia/"
             },
             {
               "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Republican lawmakers break with Trump on diesel deal with Russia",
-              "url": "https://www.foxnews.com/politics/republican-lawmakers-break-trump-diesel-deal-russia"
+              "tone": "pessimistic",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Six Flags Over Georgia’s Goliath roller coaster restraints were ‘clicking weird’ before Hassan Kariem’s death, riders say",
+              "url": "https://nypost.com/2026/10/13/us-news/six-flags-goliath-roller-coaster-safety-concerns-before-hassan-kariems-death/"
             }
           ]
         }
@@ -538,8 +511,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Malaysia’s Firefly extends Seletar-Subang flight cancellations",
-          "neutralSummary": "The flights are cancelled until Oct 14 due to the ongoing haze and poor weather conditions.",
+          "neutralHeadline": "Singaporeans advised to defer travel to Saudi Arabia due to heightened security risks: MFA",
+          "neutralSummary": "Singaporeans already in Saudi Arabia should avoid all travel to high-risk areas.",
           "versions": [
             {
               "political": "center",
@@ -547,24 +520,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Malaysia’s Firefly extends Seletar-Subang flight cancellations",
-              "url": "https://www.straitstimes.com/singapore/malaysias-firefly-extends-seletar-subang-flight-cancellations"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Malaysia's Firefly extends flight cancellations due to haze",
-              "url": "https://www.channelnewsasia.com/asia/malaysia-firefly-extend-flight-cancellations-haze-6454756"
+              "headline": "Singaporeans advised to defer travel to Saudi Arabia due to heightened security risks: MFA",
+              "url": "https://www.straitstimes.com/singapore/singaporeans-advised-to-defer-travel-to-saudi-arabia-due-to-heightened-security-risks-mfa"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Over 380,000 discounted SIA, Scoot tickets for sale from Oct 23-30",
-          "neutralSummary": "The discounted tickets will be available online through the SIA and Scoot websites and mobile applications.",
+          "neutralHeadline": "Haze and a Godzilla El Nino: How is Singapore preparing?",
+          "neutralSummary": "Singapore is also testing out solutions to tackle heat without air-conditioning.",
           "versions": [
             {
               "political": "center",
@@ -572,15 +536,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Over 380,000 discounted SIA, Scoot tickets for sale from Oct 23-30",
-              "url": "https://www.straitstimes.com/singapore/over-380000-discounted-sia-scoot-tickets-for-sale-from-oct-23-30"
+              "headline": "Haze and a Godzilla El Nino: How is Singapore preparing?",
+              "url": "https://www.straitstimes.com/singapore/environment/haze-and-a-godzilla-el-nino-how-is-singapore-preparing"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Singapore refreshes cyber strategy with new measure to block malware and phishing sites",
-          "neutralSummary": "The service is part of Singapore’s new cybersecurity strategy.",
+          "neutralHeadline": "S’pore asks AI firms for full transparency after Australian government hack: Shanmugam",
+          "neutralSummary": "Shanmugam said that the tech companies have expressed an attitude of cooperation but that it was a \"work in progress\".",
           "versions": [
             {
               "political": "center",
@@ -588,8 +552,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Singapore refreshes cyber strategy with new measure to block malware and phishing sites",
-              "url": "https://www.straitstimes.com/tech/singapore-refreshes-cyber-strategy-with-new-national-tool-to-block-malware-and-phishing-sites"
+              "headline": "S’pore asks AI firms for full transparency after Australian government hack: Shanmugam",
+              "url": "https://www.straitstimes.com/tech/spore-asks-ai-firms-for-full-transparency-after-australian-government-hack-shanmugam"
             },
             {
               "political": "center",
@@ -597,38 +561,13 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "news.google.com",
-              "headline": "New Singapore cybersecurity strategy to tap 'best available' AI models for cyber defence",
-              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNUhwUXBHZ3BOM3RKSUxZY3dWc1BiR0lFYkY1M0lOOER1cjQtckdUY1lJQkRwalZVcFozQ1dwUlloblBmQUtQam9kSHBzdWhJanpfUTNfVzVNMzc4V0JxSTdCMDR6Nnk1T2k3Y2NqZUJydmlkV0FfVWtPSkhPTzZISDhSOUdsVzB3SVhRNktEMW9UVkE?oc=5"
+              "headline": "Singapore asks major tech firms for full transparency, quicker information-sharing amid AI risks: Shanmugam",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQXphbDdxWXFvNllaaWhMdU8wOFAzZEpLb0VQcWpMVWo4aXN6aDR5YXNNbnp4aHNKd24yeUNBUFV5V3VGUFZmbVFSZllORnFhU24wV3hjaVdkZ3FBUkdDZEtuSnBQaXFXM1RudHhTeGJXRDV2VWs5clNXbGd1SWJLNkxfZzNPdXdvcVRQSDNvZ3ZSVkNmVjRVZ0hyNWlYVHM?oc=5"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Public healthcare institutions report system disruptions; longer wait times expected",
-          "neutralSummary": "System disruptions were reported at healthcare institutions under all three public health clusters.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Public healthcare institutions report system disruptions; longer wait times expected",
-              "url": "https://www.straitstimes.com/singapore/longer-wait-times-expected-as-healthcare-institutions-report-service-disruptions"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "No indication of cyberattack in system disruptions across Singapore public healthcare institutions: Health tech agency",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcF9EaGZLMVRkQ0xrR0hRYVgxUU1WWUFMX0VYYlBlTXVaTzlJMXpnM0hEdG1KUnlCZjJHWUh6RHV0VzZtdzEzdDYyaHFCbnlhUkRMZlo3SHQ5aHdybXJOcFBCU3RJSzUzZVc1TmY4VW1CLWRMLWQ2aEhUVlJPZWlEeEVvclo1REljYmZwM1VGOEVrdE1Sck5qMF9fR0w?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
           "neutralHeadline": "India youth protest leaders detained after entering barricaded Delhi protest site",
           "neutralSummary": "The detentions on Tuesday (Oct 13) came after Cockroach Janta Party (CJP) leaders entered Jantar Mantar, an iconic site for demonstrations that police had removed from New Delhi's list of designated protest venues a day earlier.",
           "versions": [
@@ -653,23 +592,7 @@
           ]
         },
         {
-          "id": "singapore-6",
-          "neutralHeadline": "China approves local clearing organisation for Visa after years-long wait",
-          "neutralSummary": "With a local clearing organisation in China, Visa would be able to settle domestic yuan transactions directly with its own network.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "China approves local clearing organisation for Visa after years-long wait",
-              "url": "https://www.channelnewsasia.com/business/china-visa-approval-local-clearing-organisation-6455046"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
+          "id": "singapore-5",
           "neutralHeadline": "Prabowo steps up Indonesia's firefighting efforts; foreign offers of help not discussed",
           "neutralSummary": "Over 60,000 personnel are supporting ground operations, with water bombing also being carried out, said Cabinet Secretary Teddy Indra Wijaya.",
           "versions": [
@@ -684,7 +607,7 @@
             },
             {
               "political": "center",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "The Star",
               "initials": "TS",
               "domain": "news.google.com",
@@ -694,7 +617,7 @@
           ]
         },
         {
-          "id": "singapore-8",
+          "id": "singapore-6",
           "neutralHeadline": "CNA Explains: How the new Huanggang Port will improve Hong Kong-mainland connectivity",
           "neutralSummary": "The revamped Huanggang Port becomes the first Hong Kong-mainland China checkpoint to use a joint clearance system, with passengers only having to show their documents once.",
           "versions": [
@@ -710,18 +633,50 @@
           ]
         },
         {
-          "id": "singapore-9",
-          "neutralHeadline": "Systems Like Supply Chains are Being ‘Weaponized’: Modi",
-          "neutralSummary": "Indian PM Narendra Modi warned that the interconnected systems that once united the world like supply chains, trade and tech have become instruments of coercion.\n\nHe said at the Bloomberg New Economy Forum that India stands apart with a different approach. (Source: Bloomberg)",
+          "id": "singapore-7",
+          "neutralHeadline": "Two men to be charged over stolen bank cards on flight from Ho Chi Minh City to Singapore",
+          "neutralSummary": "They were arrested during an airport police operation at Terminal 4 targeting theft on aircraft.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Systems Like Supply Chains are Being ‘Weaponized’: Modi",
-              "url": "https://www.bloomberg.com/news/videos/2026-10-13/systems-like-supply-chains-are-being-weaponized-modi-video"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Two men to be charged over stolen bank cards on flight from Ho Chi Minh City to Singapore",
+              "url": "https://www.straitstimes.com/singapore/two-men-to-be-charged-over-stolen-bank-cards-on-flight-from-ho-chi-minh-city-to-spore"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "Social enterprise using sentiment analysis at call centre among 30 winners of SME AI Impact Awards",
+          "neutralSummary": "The inaugural awards recognise businesses that used proprietary AI solutions or off-the-shelf solutions.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Social enterprise using sentiment analysis at call centre among 30 winners of SME AI Impact Awards",
+              "url": "https://www.straitstimes.com/singapore/politics/social-enterprise-using-sentiment-analysis-at-call-centre-among-30-winners-of-sme-ai-impact-awards"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
+          "neutralHeadline": "Aesthetic doctor injected woman with excessive dermal fillers, causing long-term side effects",
+          "neutralSummary": "Isaac Wong Kai Jie injected her with more than three times the annual limit of dermal fillers in one session.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Aesthetic doctor injected woman with excessive dermal fillers, causing long-term side effects",
+              "url": "https://www.straitstimes.com/singapore/health/aesthetic-doctor-injected-woman-with-excessive-dermal-fillers-causing-long-term-side-effects"
             }
           ]
         }
@@ -732,8 +687,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "SC stays defamation case trial against Rahul Gandhi",
-          "neutralSummary": "SC stays defamation case trial against Rahul Gandhi",
+          "neutralHeadline": "Bihar: 13 dead after boat capsizes in Vaishali; CM announces Rs 4 lakh ex-gratia",
+          "neutralSummary": "In a heart-wrenching event in the Raghopur Diara vicinity of Vaishali district, a boat capsized, tragically involving many children. The local community is in distress, with RJD leader Tejashwi Yadav voicing his grief and urging immediate rescue actions. The administration is actively working to has",
           "versions": [
             {
               "political": "left",
@@ -741,101 +696,76 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Supreme Court stays defamation case proceedings against Rahul Gandhi over 2019 remarks against PM",
-              "url": "https://www.thehindu.com/news/national/supreme-court-defamation-case-proceedings-rahul-gandhi-pm-modi/article71578167.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Top Court Stays Defamation Case Trial Against Rahul Gandhi In PM Remarks Case",
-              "url": "https://www.ndtv.com/india-news/supreme-court-stays-defamation-case-against-rahul-gandhi-over-2019-pm-modi-remarks-12177356#publisher=newsstand"
+              "headline": "Nearly dozen dead after boat capsizes in Bihar’s Vaishali",
+              "url": "https://www.thehindu.com/news/national/bihar/several-killed-after-boat-capsizes-in-bihar-vaishali-october-13-2026/article71581066.ece"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "SC stays defamation case trial against Rahul Gandhi",
-              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/sc-stays-trial-court-proceedings-in-defamation-case-against-rahul-gandhi-over-modi-remarks/articleshow/134909850.cms"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Bihar: 13 dead after boat capsizes in Vaishali; CM announces Rs 4 lakh ex-gratia",
+              "url": "https://timesofindia.indiatimes.com/city/patna/several-feared-dead-after-boat-capsizes-in-bihars-vaishali/articleshow/134923081.cms"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Live Law",
-              "initials": "LL",
-              "domain": "news.google.com",
-              "headline": "Rahul Gandhi & INDIA Bloc Leaders File Writ Petition In Supreme Court Against ECI Over SIR Process",
-              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY1VpdTN2OFhCLVg3NktlZXVtRUZmYXBRUzJEVzNTT0RIQkZTTGNnVnZLdUlMZUJhRGtVNWxQRGdNdlZFWnVzcjIxRnRkYlJuTlZXTFNlOXQ4UWo1UWxWb3g4d0lCTWVMXzZUemViWFdJcUw2X2dGYmZVU1F3QUlZZ2x5RzZPbEtmY0p1WVhmVVlRbm8tWHNSQThvYVFEYjVRUzRtbjRTRTJKVmw0UWFnVnFiaDJBS2FPSzVhX3dHLU9hNjBGbVkwZDdYWmdhY2NoN3VkONIB2gFBVV95cUxOYmlUSGNMWUdtb0NRVUNtMWRJYWtZQ0RpV0Z4aTdsRW1la2d4Ym1GTE9uN2w4Nm0zS1hQeU5uNjlWa282ZldJV3VYSmRxUTg1YkMtYnk3a2ZTY2VoUEhja0lEZHV5SjBJR1hDcnRFNDl5enNCWkxxVlJ4YlNkT0ptd1lKTW1RMjFibnJxQVRLRzRPOEc2QzdfY3ZtNEJuSnlOMzVpeGJiV2VhLUk0NUhmNW9mUHZEYVhfTjZjcEtqMVFQRklsZWRBUENQT0lMSnZfb3QzaWVzZnpXUQ?oc=5"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "11 dead, several missing after boat capsizes in Bihar’s Raghopur",
+              "url": "https://www.hindustantimes.com/india-news/10-killed-after-boat-capsizes-in-bihars-vaishali-death-toll-raghopur-ganga-river-101791909227473.html"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Judge unwell, Supreme Court defers hearing on Delhi protest crackdown till Thursday",
-          "neutralSummary": "The court also granted Delhi Police and other authorities time until Wednesday evening to file their responses to notices issued in contempt proceedings.",
+          "neutralHeadline": "India reaffirms Ladakh status as China says it doesn’t recognise the UT",
+          "neutralSummary": "India reaffirms Ladakh status as China says it doesn’t recognise the UT",
           "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "India reaffirms Ladakh status as China says it doesn’t recognise the UT",
+              "url": "https://timesofindia.indiatimes.com/india/india-reaffirms-ladakh-status-as-china-says-it-doesnt-recognise-the-ut/articleshow/134926048.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Ladakh integral to India, China can't deny it: MEA",
+              "url": "https://economictimes.indiatimes.com/news/india/ladakh-integral-to-india-chinas-denial-cant-change-facts-mea/articleshow/134925135.cms"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "The Hindu",
               "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Anti-CEC protests LIVE: Supreme Court defers hearing on pleas related to Delhi protests, curbs on metro and trains to October 15",
-              "url": "https://www.thehindu.com/news/national/anti-cec-delhi-protest-against-gyanesh-kumar-cec-october-13-2026-live-updates/article71577767.ece"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Judge unwell, Supreme Court defers hearing on Delhi protest crackdown till Thursday",
-              "url": "https://www.hindustantimes.com/india-news/supreme-court-delhi-protest-police-crackdown-hearing-latest-news-jantar-mantar-ec-gyanesh-kumar-cjp-october-10-101791874261367.html"
+              "domain": "news.google.com",
+              "headline": "MEA reaffirms Ladakh is an integral part of India, says China’s denial cannot change facts",
+              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObU0wcmZQMF9LNEN3YXM0b0kzUTRaM0tpR19DSFNwNms0TThsZDdicHZrdVJ1dF8zdEtnc2I3NEQ5Q1pIekt6NjlSU3FqLWpiYVpaQjJCR0pFcjk3Rl8yeXdhamhkcnNSMEszcEhSVjJ6T2RZbFF5NUxNRzM0a3ZCUEl2bUEtMlZyc3IwczkyN0o1OFBudHdzMm5zRDB5T1Fjc2FURDJGYWJDMEl5eko5dHdnTGl2WUJ4ZXRjRHRpN0RJa095cUw1NlVvRGUycE1NQnN6a2tZWHdUYzdlcWs0RNIB5wFBVV95cUxQSG1yR1ZYU3lLdjdWSFFfY01Wc2c0RHlLQm5GNUEwNlhNR2VJdmdnMm9veUN5YTgwc1Z5R19JQm8wLV9sMmdER0lUSHJwQ2lHMEpTMU1tVG5jZ0xQajJHaEtmR0VzRk1BcEIxSk9PRmw4ZGJrdVhZbzh0LVliSy1iQUNsVVVXd3RJbnZoaWRWOWdPelpaeEZQWHF1ci1OdTdnUjRNb0cwbDBKclFTeVk4N3N2ZThoOU5nUFNlWEQ3YUhLNk1LWGxxVmpZTGJxYUFlUVlNRFVHTERjYllPdEFnelpfX1NlRFU?oc=5"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Caught on cam: Punjab anti-drug activist shot dead after confronting chemist over 'drug sales'",
-          "neutralSummary": "Parwinder Singh Jhota was involved in a sting operation targeting a medical store in Mansa. He confronted the store owner about selling prohibited substances and had a heated exchange before being shot. Despite his attempts to escape, Jhota fell and was pronounced dead at the hospital. The police ha",
+          "neutralHeadline": "FIR against CJP leaders after Jantar Mantar entry, breach of peace bond alleged",
+          "neutralSummary": "Delhi Police filed an FIR involving Cockroach Janta Party leaders for entering Jantar Mantar without authorization. The FIR includes violations of a peace bond previously signed by the leaders. CJP members protested against the resignation of Chief Election Commissioner Gyanesh Kumar. Tensions escal",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "\"Maar Mujhe\": Anti-Drug Activist Shot Dead By Medical Store Owner In Punjab",
-              "url": "https://www.ndtv.com/india-news/parvinder-singh-jhota-anti-drug-activist-shot-dead-by-medical-store-owner-in-punjab-mansa-maar-mujhe-12177449#publisher=newsstand"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Caught on cam: Punjab anti-drug activist shot dead after confronting chemist over 'drug sales'",
-              "url": "https://timesofindia.indiatimes.com/city/chandigarh/anti-drug-activist-parwinder-singh-jhota-shot-dead-during-sting-operation-in-punjab/articleshow/134909393.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "‘Media diversity’, 'open debates': PM Modi lists what makes India 'mother of democracy'",
-          "neutralSummary": "Speaking at an event in Delhi, PM Modi listed media diversity, open debates as examples of the country's openness to different perspectives.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "‘Media diversity’, 'open debates': PM Modi lists what makes India 'mother of democracy'",
-              "url": "https://www.hindustantimes.com/india-news/india-mother-of-democracy-pm-modi-points-to-countrys-debates-media-diversity-social-media-base-101791873650135.html"
+              "headline": "FIR against CJP leaders after Jantar Mantar entry, breach of peace bond alleged",
+              "url": "https://timesofindia.indiatimes.com/city/delhi/jantar-mantar-row-delhi-police-allege-cjps-ashutosh-ranka-saurav-das-breached-peace-bond-fir-filed/articleshow/134922437.cms"
             },
             {
               "political": "center",
@@ -843,24 +773,149 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "Mother of Democracy: Modi speaks on power game",
-              "url": "https://economictimes.indiatimes.com/news/india/india-is-the-mother-of-democracy-pm-modi-pitches-power-to-empower-at-bloomberg-new-economy-forum/articleshow/134908605.cms"
+              "headline": "FIR filed on CJP leaders after Jantar Mantar breach",
+              "url": "https://economictimes.indiatimes.com/news/india/delhi-police-files-fir-against-cjp-leaders-ranka-das-after-jantar-mantar-breach/articleshow/134921624.cms"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Anti-CEC protests highlights: CJP leaders Das, Ranka booked for unauthorised entry at Jantar Mantar",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRFpfc0xqZm55Q2JBU1BDZnVtUDYzWlI3NkRwZWdZVWQzY0VYLW81ZFRSZnFETjVpV0FOVnZ0TW5Ga3NXSXVkOUxKdGRubkpRdF9mSEJNdlFRNFRwSjBCU3BiOU1UVWM1eWFZbVJvbklVdGRFMjMxT3BoSV9maXFsRG1NMElfLUljMEc5M0VMQUZsTDdTa3BIYWFfa3ZXWE1kbTA2VDNJQ3lPcm04SGo5Q1dfUy1zZExPU2JIVHFERm1YQ0N4VzEzanZ2Zjh1bEdFVlE?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Mumbai airport holds off on winter flight cuts",
+          "neutralSummary": "Mumbai airport holds off on winter flight cuts",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Mumbai Airport Says Airlines To Operate Winter Flight As Planned",
+              "url": "https://www.ndtv.com/india-news/mumbai-airport-says-airlines-to-operate-winter-flight-as-planned-12181374#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Moneycontrol.com",
-              "initials": "M",
-              "domain": "news.google.com",
-              "headline": "India is the mother of democracy, says PM Modi: 'We debate on issues democratically'",
-              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOHIxVUpWenYyUGp5ZG5XUGNoWUFZN2VQOE13OUI5YmhOOFI0Mk15V1B4Sy1zRFZDNmp1a3JJajY0bllnY3pIWmVrQXMtMlUzU09IQkc5RG5tYVRUcExFS3FGaktFNl9LQ1hqWGw2ejh2UnNnZFgwdnJSc09nblFfVUY1aE8xTjJhQ2FDU1kzNVJHTGF3NWNoMFRNOGVXSjNYbklPc29HengzZFRWMjlVMk9TY0hzU3ZqbHpBbGRieDZncy10SGp0ZjllYUJPelXSAdQBQVVfeXFMTV9CTktoZW9lSWpLXzJTQmFZWkplU1ozbmxmd3hvUVk5SGIxODFMRTZZazdlUlF3V1ZHWXNuYjE2VmZwVHM2X3d2aHhZR2RFUjZIWkV4UUpOVm5UZUZfNzFGM0I1cnpQYUx0aVNBOWJOand1RFVXY1VEZDAxUFJ3Y0RtT2JFd3hleDgwWjRyR0EwSDZBNGIwUWhPNTU0d2o3Qy1SSlpXM3RrN2FXejJvbXpIZ3VYbEFMMTN1UEZkQVB4VGJZMUJfWnJ4LXBPTjBTdkstSE0?oc=5"
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Mumbai airport holds off on winter flight cuts",
+              "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/adani-mumbai-airport-holds-off-on-winter-flight-cuts-after-airline-pushback/articleshow/134922210.cms"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Arlekar new full-time Governor of Tamil Nadu, Sudha Yadav to take charge in Karnataka in new gubernatorial appointments",
-          "neutralSummary": "O.P. Mathur to now serve as Governor of Keralam; Braj Mohan Ram to be Governor of Odisha, Dhal Singh Bisen  Governor of Uttarakhand and former BJP general secretary Dushyant Gautam Governor of Sikkim",
+          "neutralHeadline": "Trump administration asks Don Jr's ex-girlfriend Kimberly Guilfoyle to resign as US ambassador to Greece",
+          "neutralSummary": "Trump administration asks Don Jr's ex-girlfriend Kimberly Guilfoyle to resign as US ambassador to Greece&nbsp;&nbsp;The Times of India‘Honey Please’: Kimberly Guilfoyle Pushed Donor to Wire $100,000 to Her Amex Account&nbsp;&nbsp;WSJTrump ousts Kimberly Guilfoyle as US ambassador to Greece after cor",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Trump Asks Greece Ambassador To Resign Over Corruption Allegations",
+              "url": "https://www.ndtv.com/world-news/donald-trump-asks-greece-ambassador-kimberly-guilfoyle-to-resign-over-corruption-allegations-12181304#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "Trump administration asks Don Jr's ex-girlfriend Kimberly Guilfoyle to resign as US ambassador to Greece",
+              "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQMkFWU1UtWUZlUF9DdThXVmx1Mk1zTlhka0hYN245eVZhRGRPRmNJaDdUYjd0dDZLeFNTX2RPek5LUUhrYjRuSDJWTTFWQWdCWEgxOFZYc3RiZHNUWG1MWHM4cmpFXzQ5X2psRkRPR2YtVEQ5Tl9odEFFN080TmtTWGhNWXJzcEIwRWhCUmtKelZSM1ZqcGs0M1dZdUVzWklsSmZ4QTdsWVlESWMxb3FvaDlaaGZCXzFhZV9SanV3c0VScVVfa05BWlJ6WUs0YlRZTUFIZ0gyVHY3S21fYWluYVJfXzdhVVFIQkczekRDZ3N5TnRNOXJtWXlSdUhvTmI2WlRrUm93c3IzUTRrendnUm9vOXZCRnA1OHNlU1dHRS1pWVFJ0gGqAkFVX3lxTFBBZ3pkS2c4QmlfUUJTaTdDYzhOSV9zMXp2MjZUZkJuaVl6UVlDWnkxY29Cc3k1U0N5YmZZMVNtRjdkRVlfbWhXdEZzQ0FoWW1KQk56YmxtdGFPc3JqT0NkQ3NNYXdkNi1CbkZuTF9lS2h1UFNRbkVaODNsWk42eXBQMVJwUjNLY0xQT1NtcVl3NHdyb1RWX0lrT2wzZWc3VUY0Q1VzenFKcGxYWHpOZGpYc1F1cTIyMjVfUWktbThvQnFlRkNxYUtmbV8wRnpKZ21HZ0YwcFV5OHRodkJpallBbDZNNlliUXByeHREcktBUDJZT3d3WXRIYjRpT212N29hZUJ4TC14NDJBcng0NUVzZlQ4TDEzeTZNTmJWTHZCRmxWN2w1N0VlU0E?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Mamata Banerjee escapes knife attack, TMC claims assailant was a 'drug addict, posed as her niece'",
+          "neutralSummary": "Party MP Dola Sen sent a written complaint to the Kalighat police station in Kolkata stating that the incident took place around 6 pm.&nbsp;",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Woman Tried To Attack Mamata Banerjee With Knife Near Her House, Claims Party",
+              "url": "https://www.ndtv.com/india-news/woman-tried-to-attack-mamata-banerjee-with-knife-near-her-house-claims-party-12181119#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Mamata Banerjee escapes knife attack, TMC claims assailant was a 'drug addict, posed as her niece'",
+              "url": "https://www.hindustantimes.com/india-news/knife-in-hand-woman-claiming-to-be-mamata-banerjee-s-niece-allegedly-tries-to-enter-security-cordon-101791905851996.html"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "'Heights of irony': Congress hits back at Shah over 2029 poll claim with '3 Bs'",
+          "neutralSummary": "'Heights of irony': Congress hits back at Shah over 2029 poll claim with '3 Bs'",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Heights of irony': Congress hits back at Shah over 2029 poll claim with '3 Bs'",
+              "url": "https://timesofindia.indiatimes.com/india/heights-of-irony-congress-hits-back-at-amit-shah-over-2029-poll-claim-with-3-bs/articleshow/134922785.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "SIR row: Amit Shah says 'Congress losing since decades'; Oppn party flags ‘heights of irony’",
+              "url": "https://www.hindustantimes.com/india-news/congress-losing-since-decades-sir-started-2024-amit-shah-counters-rahul-gandhi-allegations-against-ec-gyanesh-kumar-101791900746977.html"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Anti-drug activist shot dead by medical store owner in Punjab's Mansa",
+          "neutralSummary": "Anti-drug activist shot dead by medical store owner in Punjab's Mansa&nbsp;&nbsp;The HinduAnger mounts in Punjab after anti-drug crusader killed in broad daylight&nbsp;&nbsp;The HinduPunjab anti-drug activist Jhota shot dead after he confronted chemist over sale of addictive drugs&nbsp;&nbsp;Telegra",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Anti-drug activist shot dead by medical store owner in Punjab's Mansa",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNWcwbGM0VEZ2QVFYUTA5SS1iYzdBektZSGMzRjJyaE5CdklhazhNbDNGWlBhVWJsOHRCNWxrZWRyRlRXNGdjOHlaVWRYX2xGeDdwQVJTWlV4eURWSHhIUXc1dGhkUlE3eExqY3JKTzVWa1p2YkJ2Ny1iOUthelE1SGFaSWUyMDRMN0xjZXFoMmE5M05MRzFpVkR3dklBbEZpOUhacFpHM2pnZHFFbVV5VnN4NXlpNExCR3EyZlF1YmNvSE5pSVdVaVpOUXR4N03SAdYBQVVfeXFMTWpfSVppaGgtS1psZjI5ekgyUExSVnJxNmlqRHo3TG4zM3VjVGxiVGVJVHUyUEpORVN0OVhnX1BzWTRFUTlaRFA0NnBSbzV3ZTBsU3FlTDdibzdDVlRjZXN0a2FXRHZ3V21TdVFXbjdYT2pycTdJZmFHOXZSR2VfT1pOTFFuRHlyMDY3R2NvTVl3R1hROV82ZWFwcmNYRTlNSmkxd3otQUJZTlJ2bjQyUFFtLXVqdnVySlFkRkh6VnZLNmIxRHpQR0wyOFd3OXBvWk9iUUNqZw?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "OpIndia",
+              "initials": "OPI",
+              "domain": "opindia.com",
+              "headline": "Who is Parvinder Singh Jhota? Punjab anti-drug activist shot dead by a chemist for exposing drug sales",
+              "url": "https://www.opindia.com/2026/10/who-is-parvinder-singh-jhota-punjab-anti-drug-activist-shot-dead-by-a-chemist-for-exposing-drug-sales/"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "WRD begins removal of invasive plants from irrigation tanks along Palar River in Vellore",
+          "neutralSummary": "WRD officials said that on an average, around 15 tonnes of invasive plants grew in one acre of irrigation tank",
           "versions": [
             {
               "political": "left",
@@ -868,99 +923,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Arlekar new full-time Governor of Tamil Nadu, Sudha Yadav to take charge in Karnataka in new gubernatorial appointments",
-              "url": "https://www.thehindu.com/news/national/keralam-odisha-karnataka-uttarakhand-sikkim-tamil-nadu-get-new-governors/article71576452.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "'Rahul grabbed my hand, pushed me': Pregnant journalist alleges assault during protest",
-          "neutralSummary": "'Rahul grabbed my hand, pushed me': Pregnant journalist alleges assault during protest",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Pregnant Journalist Alleges Rahul Gandhi Pushed Her. Lies, Says Congress",
-              "url": "https://www.ndtv.com/india-news/pregnant-oneindia-journalist-richa-parashar-alleges-rahul-gandhi-pushed-her-lies-says-congress-12177239#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Rahul grabbed my hand, pushed me': Pregnant journalist alleges assault during protest",
-              "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-grabbed-my-hand-pushed-me-pregnant-journalist-alleges-assault-during-india-bloc-protest/articleshow/134910718.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Last-min question papers, more exam centres: Nilekani's plan to prevent NEET paper leaks",
-          "neutralSummary": "Last-min question papers, more exam centres: Nilekani's plan to prevent NEET paper leaks",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Last-min question papers, more exam centres: Nilekani's plan to prevent NEET paper leaks",
-              "url": "https://timesofindia.indiatimes.com/india/last-minute-question-papers-more-exam-centres-nandan-nilekanis-plan-to-prevent-neet-paper-leaks/articleshow/134912143.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Nilekani wants to use AI to stop exam paper leaks",
-              "url": "https://economictimes.indiatimes.com/news/india/nandan-nilekani-calls-for-ai-generated-question-papers-nationwide-computer-based-testing/articleshow/134911361.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Saudi-Houthi crisis: IndiGo cancels flights to Riyadh, Jeddah, Dammam and Madinah",
-          "neutralSummary": "Saudi-Houthi crisis: IndiGo cancels flights to Riyadh, Jeddah, Dammam and Madinah",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Saudi-Houthi crisis: IndiGo cancels flights to Riyadh, Jeddah, Dammam and Madinah",
-              "url": "https://timesofindia.indiatimes.com/india/saudi-houthi-crisis-indigo-cancels-flights-to-riyadh-jeddah-dammam-and-madinah/articleshow/134911657.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "IndiGo cancels flights to and from Saudi's Riyadh, Jeddah, Dammam and Madinah till Oct 17",
-              "url": "https://www.hindustantimes.com/india-news/indigo-cancels-flights-to-and-from-saudi-arabia-riyadh-jeddah-dammam-and-madinah-till-oct-17-101791876530973.html"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "Systems Like Supply Chains are Being ‘Weaponized’: Modi",
-          "neutralSummary": "Indian PM Narendra Modi warned that the interconnected systems that once united the world like supply chains, trade and tech have become instruments of coercion.\n\nHe said at the Bloomberg New Economy Forum that India stands apart with a different approach. (Source: Bloomberg)",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Systems Like Supply Chains are Being ‘Weaponized’: Modi",
-              "url": "https://www.bloomberg.com/news/videos/2026-10-13/systems-like-supply-chains-are-being-weaponized-modi-video"
+              "headline": "WRD begins removal of invasive plants from irrigation tanks along Palar River in Vellore",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/wrd-begins-removal-of-invasive-plants-from-irrigation-tanks-along-palar-river-in-vellore/article71578999.ece"
             }
           ]
         }
