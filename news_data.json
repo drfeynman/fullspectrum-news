@@ -1,13 +1,56 @@
 {
-  "generatedAt": "2026-10-15T17:41:19.761109+00:00",
+  "generatedAt": "2026-10-16T06:32:47.036298+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Pope Leo XIV Diagnosed With Lung Cancer After Surgery To Remove Part Of Right Lung",
-          "neutralSummary": "Pope Leo XIV has lung cancer and had the lower lobe of his right lung removed, the Vatican announced Tuesday.",
+          "neutralHeadline": "School Roof Collapse In Pakistan Kills At Least 35 And Injures More Than 50",
+          "neutralSummary": "Peshawar police chief Saeed Ahmed said that the school’s owner had been arrested. He said that the building was structurally weak.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "School Roof Collapse In Pakistan Kills At Least 35 And Injures More Than 50",
+              "url": "https://www.huffpost.com/entry/pakistan-school-roof-collapse_n_6ad07f7ce4b0f62da445e40b"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+              "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
+              "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Peshawar mourns children killed in school roof collapse",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "What is adenocarcinoma? Here's what to know about Pope Leo XIV's form of lung cancer",
+          "neutralSummary": "What is adenocarcinoma? Here's what to know about Pope Leo XIV's form of lung cancer&nbsp;&nbsp;PBS‘A bolt from the blue’: Shock cancer diagnosis raises uncertainty for Leo’s papacy&nbsp;&nbsp;CNNColumn | I’m an oncologist. Here’s what nonsmokers need to know about lung cancer.&nbsp;&nbsp;The Washin",
           "versions": [
             {
               "political": "left",
@@ -28,6 +71,15 @@
               "url": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech"
             },
             {
+              "political": "center",
+              "tone": "neutral",
+              "source": "PBS",
+              "initials": "P",
+              "domain": "news.google.com",
+              "headline": "What is adenocarcinoma? Here's what to know about Pope Leo XIV's form of lung cancer",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVmNyazEtTGd4SEdSRTh5czBYaDdCaDRzT2VMTGdodUhXOG9mVFNtYmtHU045OXUzZjBiNGlCMFpzd3BVNlY1MXFyTlpIMWN5MXNYdDN1ZHF5ZlRzUXZ6dE4ybVd6ZnI4SW8tUGI5Y09Mc05VaVpBcHFsM0RETEVwWGNjbExGUW56S0tncFd3MXVXZ2dOX05tU1F0Yy1pT2NaZlhmQTIwWDlub0JGU3U2V3J3ZlhHTjZN?oc=5"
+            },
+            {
               "political": "right",
               "tone": "optimistic",
               "source": "Fox News",
@@ -39,9 +91,9 @@
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "Former US generals push to stop 'barbaric' firing squad execution livestream",
-          "neutralSummary": "A group of 72 retired US generals, admirals, and other high-ranking military officers have urged authorities to cancel plans to livestream the firing squad execution of Fort Hood shooter Nidal Hassan – bringing legal arguments and the dangerous consequences such a broadcast would have. A government",
+          "id": "global-3",
+          "neutralHeadline": "Four dead, including three children, in Oregon school shooting",
+          "neutralSummary": "Four dead, including three children, in Oregon school shooting",
           "versions": [
             {
               "political": "left",
@@ -49,49 +101,24 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-              "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
+              "headline": "Three children and teacher killed in US primary school shooting",
+              "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Former US generals push to stop 'barbaric' firing squad execution livestream",
-              "url": "https://www.france24.com/en/video/20261015-former-us-generals-push-to-stop-barbaric-firing-squad-execution-livestream"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-          "neutralSummary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-              "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
-              "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan"
+              "headline": "Four dead, including three children, in Oregon school shooting",
+              "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead"
             }
           ]
         },
         {
           "id": "global-4",
           "neutralHeadline": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump",
-          "neutralSummary": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump&nbsp;&nbsp;AP NewsZelensky says Ukraine will resume strikes on Russian refineries as frustration with Trump mounts&nbsp;&nbsp;CNNRussia accuses Ukraine of attacking oil refinery after Zelensky says s",
+          "neutralSummary": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump&nbsp;&nbsp;AP NewsUkraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce&nbsp;&nbsp;Yahoo'We’re done': Zelenskyy defies Trump after Putin attacks Ukraine, says will ke",
           "versions": [
             {
               "political": "left",
@@ -113,12 +140,12 @@
             },
             {
               "political": "center",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "'We're done': Ukraine resumes strikes on Russian oil refineries as 'only leverage' for peace talks",
-              "url": "https://www.france24.com/en/video/20261015-we-re-done-ukraine-resumes-strikes-on-russian-oil-refineries-as-only-leverage-for-peace-talks-1"
+              "headline": "Live: Trump calls renewed Ukraine attacks on Russian oil refineries 'a disgrace'",
+              "url": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace"
             }
           ]
         },
@@ -137,43 +164,18 @@
               "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Judge cuts off ex-Venezuela dictator Nicolás Maduro’s rambling NYC court speech rejecting new torture rap",
-              "url": "https://nypost.com/2026/10/15/us-news/judge-cuts-off-ex-venezuela-dictator-nicolas-maduros-rambling-nyc-court-speech-rejecting-new-torture-rap/"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Maduro pleads not guilty to new torture-related charges in New York",
+              "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
-          "neutralSummary": "Congress approves constitutional amendment that bans six-day workweeks, which could affect up to 30 millionBrazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could affect 30 million workers and that will hand a political victor",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
-              "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff"
-            },
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Brazil's Congress approves shorter working week in win for Lula",
-              "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
           "neutralHeadline": "Pope Leo Is Eating And Recovering After Cancer Surgery, Doctors Say",
           "neutralSummary": "“Recovery is proceeding as planned,” Leo’s two doctors said.",
           "versions": [
@@ -198,9 +200,9 @@
           ]
         },
         {
-          "id": "global-8",
-          "neutralHeadline": "NATO to address drone attacks in the Black Sea after seven missing off Romania",
-          "neutralSummary": "NATO will put drone strikes in the Black Sea on its agenda at a meeting next week, officials said Thursday, following two new attacks and the disappearance of seven people. Incidents involving civilian vessels in the Black Sea have been on the rise off the coasts of Bulgaria and Romania in a suspect",
+          "id": "global-7",
+          "neutralHeadline": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+          "neutralSummary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
           "versions": [
             {
               "political": "left",
@@ -208,42 +210,67 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-              "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
+              "headline": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+              "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Bystander guns down suspected primary school shooter in Oregon",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "19 injured as minibus crashes into train at Channel Tunnel entrance",
+          "neutralSummary": "Nineteen people were injured Thursday when a minibus carrying truck drivers crashed into a vehicle shuttle train at the French entrance to the Channel Tunnel near Calais, forcing a 90-minute suspension of shuttle services. Two people were hospitalised with serious but non-life-threatening injuries,",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+              "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "NATO to address drone attacks in the Black Sea after seven missing off Romania",
-              "url": "https://www.france24.com/en/europe/20261015-seven-missing-off-romania-after-latest-black-sea-drone-attacks"
+              "headline": "19 injured as minibus crashes into train at Channel Tunnel entrance",
+              "url": "https://www.france24.com/en/europe/20261016-19-injured-as-minibus-crashes-into-train-at-channel-tunnel-entrance"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Albania’s leader defies calls to resign as student protesters rampage in capital",
-          "neutralSummary": "Albania’s leader defies calls to resign as student protesters rampage in capital&nbsp;&nbsp;NBC NewsBanks, buildings burn as Albania's capital Tirana erupts into student violence&nbsp;&nbsp;ReutersAlbania’s PM dismisses calls to resign as student protests spread&nbsp;&nbsp;Al JazeeraStudent Protests",
+          "neutralHeadline": "Rubio urges Lebanon to resist Hezbollah pressure over seized explosives",
+          "neutralSummary": "Rubio urges Lebanon to resist Hezbollah pressure over seized explosives&nbsp;&nbsp;AxiosRubio presses Lebanon on confiscation of weapons from Hezbollah&nbsp;&nbsp;Al JazeeraHezbollah says it owned confiscated explosives, meant to attack Israel&nbsp;&nbsp;ReutersHizbullah’s Explosives Smuggling Signa",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Student protesters attack government buildings in Albania",
-              "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss"
-            },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "NBC News",
-              "initials": "NN",
+              "source": "Axios",
+              "initials": "AX",
               "domain": "news.google.com",
-              "headline": "Albania’s leader defies calls to resign as student protesters rampage in capital",
-              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3UyTGFVRmpzRE9VaGlERUxRMmk0eTE2NU1oS3VmVzRPVGV3Z2tfejRTNUZraTh3azQ4NXNUNnZ5S2tJUUFfVnIyQ19pUGZLU3RCS2NUQXEzR2RpVjhhb1hCVXprNG56Y0szNEFfSDFlZ1JvdU83cmNCQnFGc0dtVjhPVGdSTmIydmZKRjNlYnhjZXpJQmpVWVBzcjBPcVlwLXFNeXpseEdnVFhuUGFVSVZzeUtXQQ?oc=5"
+              "headline": "Rubio urges Lebanon to resist Hezbollah pressure over seized explosives",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FVWhHZXZ1c1VPbEdhRFZUaWFpVnZkbFJTWXRTQTFMc3JLWk5Kb1FPUmdiUkREb05PQlVJeFNyVnZtUnMwOHFSSkNhX2VXYk5jRUwtS2tnRXdUVlV6TkF5bTlxVGlyMV9OQk1XVTRPQjFrTnRqTmRkc251cDlOZmM?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
+              "url": "https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss"
             }
           ]
         }
@@ -254,17 +281,189 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Trump Says Execution Of Fort Hood Shooter Won't Be Livestreamed",
-          "neutralSummary": "“He will die, as scheduled, by firing squad, but this event will not be streamed,” Trump posted.",
+          "neutralHeadline": "Trump looms as tensions flare in final Maine Senate debate",
+          "neutralSummary": "Trump looms as tensions flare in final Maine Senate debate&nbsp;&nbsp;NBC News‘Oh, Shut Up’: 5 Takeaways From the Senate Debate in Maine&nbsp;&nbsp;The New York Times'Oh, shut up!': Democrat snaps at Collins after heckler drives Maine Senate debate off the rails&nbsp;&nbsp;Fox News‘It’s time for a c",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Says Execution Of Fort Hood Shooter Won't Be Livestreamed",
-              "url": "https://www.huffpost.com/entry/trump-says-execution-of-fort-hood-shooter-wont-be-livestreamed_n_6ad0e012e4b0bfd25654daa7"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "5 Takeaways From the Senate Debate in Maine",
+              "url": "https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "NBC News",
+              "initials": "NN",
+              "domain": "news.google.com",
+              "headline": "Trump looms as tensions flare in final Maine Senate debate",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQWRNeFJYMWtCTTVyWVp0ekt3SmJFZXdWNnFCcTFPTlJvc2NnbUJTeDZJUk5HSnI2ZUhYM2pQLVFtOENfTGQxRUxZLTFJWGpLQkg5cFVjclVIbW9NbWxPVk1RQjNISlhIVWk2c0J0aTJacG9qM0VMQnhydTJ6b2lxU0tRM2ZIUm9LaXU0N3JYMld0NmJlV1dRUkJSeUdTckcwd1l0Y1AxTzhCTFluT3N3?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Collins, Jackson trade jabs in final Maine Senate debate: 3 takeaways",
+              "url": "https://thehill.com/homenews/campaign/6152820-susan-collins-troy-jackson-debate-takeaways/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "'Oh, shut up!': Democrat snaps at Collins after heckler drives Maine Senate debate off the rails",
+              "url": "https://www.foxnews.com/politics/shut-democrat-snaps-collins-heckler-drives-maine-senate-debate-rails"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Anti-data center protester crashes Maine Senate debate between Susan Collins and Troy Jackson",
+              "url": "https://nypost.com/2026/10/15/us-news/anti-data-center-protester-crashes-maine-senate-debate-between-susan-collins-and-troy-jackson/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Maine Senate debate gets testy as Troy Jackson tells Collins to ‘shut up’: Top takeaways",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4768372/maine-senate-debate-troy-jackson-susan-collins-shut-up/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "‘Shut Up’: Dem Snaps At Susan Collins In Fiery Maine Senate Debate",
+              "url": "https://www.dailywire.com/news/shut-up-dem-snaps-at-susan-collins-in-fiery-maine-senate-debate"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "5 dead, including suspect, after Oregon elementary school shooting",
+          "neutralSummary": "Five people are dead, including the suspect, after an active shooting incident at Silver Rail Elementary School in Bend, Ore., police confirmed at a media conference Thursday night. Bend Police Chief Mike Krantz said three children died at the scene, including a 5-year-old, an 8-year-old and an 11-y",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "City in Oregon Mourns After Deadly School Shooting",
+              "url": "https://www.nytimes.com/2026/10/16/us/oregon-vigil-school-shooting.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "5 dead, including suspect, after Oregon elementary school shooting",
+              "url": "https://thehill.com/homenews/state-watch/6152592-bend-oregon-elementary-school-shooting/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Four dead, including three children, in Oregon elementary school shooting",
+              "url": "https://www.washingtonexaminer.com/news/crime/4768124/bend-oregon-elementary-school-shooting/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Children Among Dead In Oregon Elementary School Shooting, Bystander Takes Out Gunman",
+              "url": "https://www.dailywire.com/news/multiple-people-including-children-shot-at-oregon-elementary-school"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Elon Musk's flying Tesla is gloriously absurd",
+          "neutralSummary": "Elon Musk's flying Tesla is gloriously absurd&nbsp;&nbsp;AxiosTesla unveils what it says is a flying car&nbsp;&nbsp;CNNFlying cars: Tesla's new Roadster uses SpaceX thrusters to turn in the air, can drive upside down&nbsp;&nbsp;The Jerusalem PostTesla’s New Roadster Takes Flight After Nearly a Decad",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Most of Ken Paxton’s Money Can Be Traced to One Man: Elon Musk",
+              "url": "https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Axios",
+              "initials": "AX",
+              "domain": "news.google.com",
+              "headline": "Elon Musk's flying Tesla is gloriously absurd",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41amE5a0NrVFFwTktIam1oQWhZOEV4YnE1Nk8xVi1JU1ZWWk9vMlRsQzFnQkdxdGtXblRWTE9KSzQtUWNCdi0yeWgyRHpVS3BPWWlQS3FWR2R2dHlzcjVIMWFPSE9wWXRBUmFhN1owZ05DWDFaNVhB?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Musk bankrolls PAC spending big on Paxton in Texas",
+              "url": "https://thehill.com/homenews/campaign/6152571-musk-texas-pac-paxton-senate/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
+          "neutralSummary": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter&nbsp;&nbsp;The New York TimesTrump shuts down Hegseth plan to livestream military execution&nbsp;&nbsp;ReutersWhy the Death Penalty Is a Sore Point for Papal Authority&nbsp;&nbsp;First ThingsRetired US generals call on Pent",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "news.google.com",
+              "headline": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDF2Snl5TEZIRXFONUZRT3cwZk9OYURQak9TWkFKc2JPbjdFZkVSNGFtS3BBazZBdmVOOEVPaHo3eng0Z1ZYbEZ1YllrYl9wQzU2ZTBkc2JMNnBESFpRY3lkeXZpZlNzanFvNXhHcHRpakNPd0JETlN5S1F0a2RHWHRhWXVfWVlOWE01VlA0dmhpWFJwQUpsS3Jn?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Fort Hood survivors praise Trump for scrapping Hasan execution livestream: ‘We’re not barbaric’",
+              "url": "https://www.foxnews.com/politics/fort-hood-survivors-praise-trump-scrapping-hasan-execution-livestream-not-barbaric"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Trump is taking his midterms anger out on Ukraine",
+          "neutralSummary": "This story appeared in&#160;The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&#160;Subscribe here. Welcome to The Logoff: Is Trump turning on Ukraine?&#160; What’s happening? Ukraine says its access to Starl",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Trump is taking his midterms anger out on Ukraine",
+              "url": "https://www.vox.com/the-logoff-newsletter-trump/506446/trump-russia-ukraine-zelenskyy-diesel-refineries-starlink"
             },
             {
               "political": "left",
@@ -272,34 +471,66 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
-              "url": "https://www.nytimes.com/2026/10/15/us/trump-hasan-fort-hood-execution-livestream.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5bXY3WjdLWnUtYVI0V2NNQmMtd2hZemx6MHM0RXpobVg4YlNqWm01aWluQVlSTTdxbHlTNW5tTE12YmlCVU9lZGYwWkh4ZXBKcjdUR3ZmcUk3bEE?oc=5"
+              "headline": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
+              "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html"
             }
           ]
         },
         {
-          "id": "us-2",
-          "neutralHeadline": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump",
-          "neutralSummary": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump&nbsp;&nbsp;AP NewsZelensky says Ukraine will resume strikes on Russian refineries as frustration with Trump mounts&nbsp;&nbsp;CNNRussia accuses Ukraine of attacking oil refinery after Zelensky says s",
+          "id": "us-6",
+          "neutralHeadline": "In Michigan Senate Race, Ocasio-Cortez Joins El-Sayed on Trail in Trump Country",
+          "neutralSummary": "Representative Alexandria Ocasio-Cortez campaigned with Dr. Abdul El-Sayed in a swath of Michigan including areas won by President Trump, making a progressive pitch in a key Senate race.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "‘We’re Done’: Ukraine Resumes Attacks On Russian Oil Refineries As Zelenskyy Loses Patience With Trump",
-              "url": "https://www.huffpost.com/entry/zelenskyy-trump-energy-ceasefire_n_6ad0a7ade4b08a0fe855f9ac"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "In Michigan Senate Race, Ocasio-Cortez Joins El-Sayed on Trail in Trump Country",
+              "url": "https://www.nytimes.com/2026/10/15/us/politics/ocasio-cortez-el-sayed-michigan-vance-trump-senate.html"
             },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump links Michigan Senate candidate Abdul El-Sayed to Muslim Brotherhood: 'He's a con man'",
+              "url": "https://www.foxnews.com/politics/trump-links-michigan-senate-candidate-abdul-el-sayed-muslim-brotherhood-con-man"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Man Found in Barrel in Lake Mead in 2022 Is Identified by Las Vegas Police",
+          "neutralSummary": "The victim was shot once in the head in the early 1980s, the authorities said, and was identified after family members from Arkansas could provide a DNA match.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Man Found in Barrel in Lake Mead in 2022 Is Identified by Las Vegas Police",
+              "url": "https://www.nytimes.com/2026/10/15/us/lake-mead-body-identified-las-vegas.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Lake Mead murder victim found in barrel in 2022 ID’d — solving 40-plus-year cold case",
+              "url": "https://nypost.com/2026/10/15/us-news/lake-mead-murder-victim-found-in-barrel-in-2022-idd-solving-40-plus-year-cold-case/"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump",
+          "neutralSummary": "Ukraine abandons truce and attacks Russian oil refinery as Zelenskyy says he feels betrayed by Trump&nbsp;&nbsp;AP NewsUkraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce&nbsp;&nbsp;Yahoo'We’re done': Zelenskyy defies Trump after Putin attacks Ukraine, says will ke",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
@@ -321,177 +552,18 @@
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "'Tired Of The Bulls**t': Marjorie Taylor Greene Calls Out Trump Admin Over Ilhan Omar Raid",
-          "neutralSummary": "The ex-Trump ally, who once shared a snap of herself with a gun and encouraged going on the “offense” against Omar, took on the administration over its probe into the progressive.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "'Tired Of The Bulls**t': Marjorie Taylor Greene Calls Out Trump Admin Over Ilhan Omar Raid",
-              "url": "https://www.huffpost.com/entry/marjorie-taylor-greene-ilhan-omar-raid_n_6ad0a983e4b08a0fe855fb9a"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Somalis in Minnesota unleash fury on Trump after feds raid Ilhan Omar's DC home",
-              "url": "https://www.foxnews.com/politics/somalis-minnesota-unleash-fury-trump-feds-raid-ilhan-omar-dc-home"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Nancy Mace: AI Makes Public Execution A-OK",
-          "neutralSummary": "The congresswoman shut down concerns that livestreaming the Fort Hood shooter’s death could make him a martyr using some very literal logic.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Nancy Mace: AI Makes Public Execution A-OK",
-              "url": "https://www.huffpost.com/entry/nancy-mace-fort-hood-shooter-execution-ai_n_6acfa70ee4b0e26c18d11abf"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "The Dangerous Spectacle Of An Almost-Public Execution",
-              "url": "https://www.dailywire.com/news/the-dangerous-spectacle-of-an-almost-public-execution"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
-          "neutralSummary": "Election officials say they worry the administration could use its own unsubstantiated claims to contest the vote in November.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
-              "url": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "These swing voters regret voting for Trump and it's influencing their midterm choices",
-              "url": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
-          "neutralSummary": "The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
-              "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83bEFwbS0za0dIT0c3VS1wdk1QMlhmemVfUTNEUWtWaGwyTlY4N2RPTG9jdlpJNVFkQnJmTWM2Y3hmMUhZWERXYjB3cFpFc0FaS2s0NDNPU25pdkE?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Mifepristone detection study draws fire from Senate Democrats",
-          "neutralSummary": "Senate Democrats demanded answers Thursday from Environmental Protection Agency (EPA) Administrator Lee Zeldin about an agency study to detect the abortion pill mifepristone in drinking water.  Led by Sen. Patty Murray (D-Wash.), the entire Senate Democratic Conference signed a letter to Zeldin call",
+          "id": "us-9",
+          "neutralHeadline": "4 GOP senators join letter demanding Pentagon inspector general investigation of Ukraine’s Starlink outage",
+          "neutralSummary": "4 GOP senators join letter demanding Pentagon inspector general investigation of Ukraine’s Starlink outage&nbsp;&nbsp;The HillEXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say&nbsp;&nbsp;ReutersSenators Demand Investigation Into Ukraine Satellite Disruption&n",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "The Hill",
               "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Mifepristone detection study draws fire from Senate Democrats",
-              "url": "https://thehill.com/policy/healthcare/6151217-senate-democrats-demand-epa-mifepristone/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Senate Democrats pressure EPA to drop abortion pill water quality study",
-              "url": "https://www.washingtonexaminer.com/policy/healthcare/4767117/senate-democrats-pressure-epa-drop-abortion-pill-water-quality-study/"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "'Suspicious' mail with DSA-linked return address triggers FBI, Capitol Hill investigation",
-          "neutralSummary": "Senior Capitol Hill staff were warned about suspicious letters containing unknown substances mailed to multiple congressional offices nationwide.",
-          "versions": [
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "'Suspicious' mail with DSA-linked return address triggers FBI, Capitol Hill investigation",
-              "url": "https://www.foxnews.com/politics/suspicious-mail-dsa-linked-return-address-triggers-fbi-capitol-hill-investigation"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "FBI, Capitol Police probing letters ‘containing suspicious substances’ mailed with DSA-linked return address",
-              "url": "https://nypost.com/2026/10/15/us-news/capitol-police-probing-suspicious-letters-mailed-with-dsa-linked-return-address/"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "DOJ gives California 48 hours to review list of possible noncitizens on voter rolls",
-          "neutralSummary": "The Justice Department gave California 48 hours to confirm whether noncitizens were mailed ballots, threatening emergency relief if it fails to act.",
-          "versions": [
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "DOJ gives California 48 hours to review list of possible noncitizens on voter rolls",
-              "url": "https://www.foxnews.com/politics/doj-gives-california-48-hours-review-list-possible-noncitizens-voter-rolls"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "DOJ sues California over alleged noncitizens on voter rolls left unchecked",
-              "url": "https://www.washingtonexaminer.com/news/justice/4766983/doj-sue-california-noncitizen-voter-rolls-secretary-declined-to-view/"
+              "domain": "news.google.com",
+              "headline": "4 GOP senators join letter demanding Pentagon inspector general investigation of Ukraine’s Starlink outage",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcEZiY3k5TEN0aS1va0xtVFVvcHVXeFlULTdYMG5kQ2llcXdxYjVlS1FZR2JhZENkbkFDUVEta1NHTEN1MzUtYWVWSzVaMlB0LWRuWm40UnpseVhUOUZIQ1Zlc2dGWDVYeWREcFRnMFNhZEo0ZXp2UENhNkEzZDloYW1HcTBKSS1mcGpKOTRMMFRvdnNxNEgxY2RLcm3SAaIBQVVfeXFMTmF2UnpmUDJJbkJhMTI5QXR0Q3U5cUNmSlhCV29TUjBEUmxVRVhWU1hadHRfYklnOTlXOXQ0akp6dmhKendoWi1JdXBDcDhQTm4xbExRd0REVnY3S2k2U3puUTNGOHpVSE4yRnZCcEFwSmRZMGNzTWdONWlHZF9NMzBqUDdXaktEcHo3ZTQ2UE9fOWllS1ZsNWJ4RXRvWW1sM1ZB?oc=5"
             }
           ]
         }
@@ -502,56 +574,6 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "5 injured after chain collision involving 3 public buses in Yishun; 3 of them taken to hospital",
-          "neutralSummary": "The accident took place at Block 790 Yishun Avenue 2 at about 3.05pm on Oct 15.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "5 injured after chain collision involving 3 public buses in Yishun; 3 of them taken to hospital",
-              "url": "https://www.straitstimes.com/singapore/at-least-6-people-injured-after-accident-involving-three-public-buses-in-yishun"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Three people taken to hospital after chain collision involving public buses in Yishun",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmNsVG1QZHlNa0k5cXlxRUlGRHJaV04zZGttaU5XVFZRdDRYM0xHOWdRdVdhUTZKVW9XRDV4b2lMNkZ6cHlpX05IbjZreWl4V2lDYjh1bENRaGR2UFdweDN1N19CUFJVdndTYVEtcWdCcEdqbWc5X1BYWS0xZmUzOGpGZFFzT0NPTXpEMHpuQkVVVE5zanljc2tiMng5SXlpLVRBM1Z4STJsWUs4?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-2",
-          "neutralHeadline": "Indonesia disaster chief's brother among five suspects in alleged corruption case",
-          "neutralSummary": "One of the suspects&nbsp;in an alleged corruption case involving the misuse of emergency funds at the&nbsp;National Disaster Mitigation Agency is Bima Setyawan, the younger brother of agency chief Suharyanto.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Indonesia disaster chief's brother among five suspects in alleged corruption case",
-              "url": "https://www.channelnewsasia.com/asia/indonesia-corruption-disaster-agency-funds-6461676"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "The Star",
-              "initials": "TS",
-              "domain": "news.google.com",
-              "headline": "Indonesia’s disaster chief’s brother among five arrested over alleged graft amid haze crisis",
-              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaHphaEZ4d2RCMXBoa0lybURPbVBJMGpnOTJVLXZIaEZUM1ZCSzVwMEpfcnRiZmVic2dwTkNPb0EyQ2NHNy1QSFlBVzlaWVRseFJfam1QRE14bDZtalZWRERCMmNMRi1EcjVSN3F0dGVOa3lVR00yek1iVHR1RjhUblV2NVE3R3lYejBzbmdzc28xZE5SODlZbXY4UFYtZm5SaDVhdU92dHZtUU51TlRQVDBWSTdmTGUzdlV5UGRHbmNzU0VVX1VPU25jMXZqRHRydnYydGJxQVJJQTVOVlQtVnJORzdCYnIx?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
           "neutralHeadline": "Pakistan school roof collapse kills 28; more deaths feared",
           "neutralSummary": "A rescue official said the ceiling came down on the students after the roof of a higher floor collapsed, crumpling the two storeys.",
           "versions": [
@@ -570,15 +592,56 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-              "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
+              "headline": "At the scene of a school roof collapse in Pakistan",
+              "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "Cross Island Line: Traffic to be diverted in Ang Mo Kio Ave 3 amid suspension of tunnelling works",
+          "neutralSummary": "Road realignments to last 18 months while underground obstructions hindering works are probed.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Cross Island Line: Traffic to be diverted in Ang Mo Kio Ave 3 amid suspension of tunnelling works",
+              "url": "https://www.straitstimes.com/singapore/transport/cross-island-line-traffic-to-be-diverted-in-ang-mo-kio-ave-3-amid-suspension-of-tunnelling-works"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
+          "neutralHeadline": "Haze in S’pore: Air quality worsens amid ‘very unhealthy’ PSI and ‘high’ PM2.5 in three regions",
+          "neutralSummary": "At 2pm, the 24-hour PSI in the central, east and west regions remain 'very unhealthy'.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Haze in S’pore: Air quality worsens amid ‘very unhealthy’ PSI and ‘high’ PM2.5 in three regions",
+              "url": "https://www.straitstimes.com/singapore/haze-in-spore-air-quality-worsens-overnight-as-psi-hits-very-unhealthy-range-in-central-region"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Singapore haze: Air quality very unhealthy in three regions; PM2.5 readings high in most of the country",
+              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02ckJ3WjJYc1VPUzU3Q250emhueUdKUnlIM00zMGp3ZG9jd3ZJSWVNajlSdDF5OXVFenhPeFVBM2luREp1VUdJSjIzMXBzQ2lqT3RJenREdWY2UWFKLVNwNC1mYWEzMy15WC1wb2tmSXpib2dxcGoyR0lxYw?oc=5"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Indonesia to use dry ice to clear haze from forest fires",
-          "neutralSummary": "The trial in South Sumatra is aimed at clearing smoke and increasing visibility in haze-affected areas.",
+          "neutralHeadline": "Security stepped up in India's capital for 'cockroach' movement rally",
+          "neutralSummary": "The rally on Friday (Oct 16) is in support of the two Cockroach Janta Party leaders detained and sent to jail this week for demonstrating at a protest site, said founder Abhijeet Dipke.",
           "versions": [
             {
               "political": "center",
@@ -586,24 +649,24 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Indonesia to use dry ice to clear haze from forest fires",
-              "url": "https://www.channelnewsasia.com/asia/indonesia-test-dry-ice-seeding-combat-haze-air-quality-visibility-6461586"
+              "headline": "Security stepped up in India's capital for 'cockroach' movement rally",
+              "url": "https://www.channelnewsasia.com/asia/india-delhi-cockroach-movement-rally-security-protest-6465161"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Desperate to clear toxic haze, Indonesia douses its skies with dry ice",
-              "url": "https://www.bbc.co.uk/news/articles/ck1l3djr5d5do?at_medium=RSS&at_campaign=rss"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Delhi Police Tighten Security Ahead of ‘Cockroach’ Rally",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-16/new-delhi-braces-for-fresh-crackdown-as-cockroaches-plan-march"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "Malaysia raises threshold for haze-related school closures",
-          "neutralSummary": "Schools will now close in areas where the Air Pollutant Index (API) exceeds 200, while outdoor activities will be suspended when the readings reach 100 or above.",
+          "neutralHeadline": "Four killed fighting wildfires in Indonesian national park",
+          "neutralSummary": "The four men were overwhelmed while battling flames in the Bromo Tengger Semeru National Park in East Java.",
           "versions": [
             {
               "political": "center",
@@ -611,81 +674,81 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Malaysia raises threshold for haze-related school closures",
-              "url": "https://www.channelnewsasia.com/asia/malaysia-raises-limits-school-closure-haze-api-6460991"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Malaysia’s haze crisis fuels frustration over school closure policies and weak enforcement",
-              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnlhSlRrR282V2dnbFh3RjJyUzJjN21pNmNmVzBzcnp4YkVHM0JxOFBEekhzZ1R4NmIwT2lOczZ4ZUwzREljVzNNUlpsLUlqRzU1X3RlU1JzTVZ2VU9PUVl0MlNFUE9QdVdrd0otWlMycXZZSVFQWDUzRk55OGdrem55T1k3bjdWX09nVjRlX3hkUVpkeEFmNkw3RFlfcGhMN2lMSjFCMHJGTzFVc0x3ZXRVb3RXSmxfNEd6aXRMTQ?oc=5"
+              "headline": "Four killed fighting wildfires in Indonesian national park",
+              "url": "https://www.channelnewsasia.com/asia/four-killed-fighting-wildfires-in-indonesian-national-park-6465026"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "Singapore-bound SIA flight diverted back to San Francisco due to ‘unruly’ passenger",
-          "neutralSummary": "The passenger, who injured himself in the process, was handed over to the local authorities.",
+          "neutralHeadline": "Malaysia's economy grows 5.3% year-on-year in Q3: Advance estimate",
+          "neutralSummary": "Malaysia has benefited from a global boom in artificial intelligence infrastructure that has driven demand for its tech products and semiconductors.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Singapore-bound SIA flight diverted back to San Francisco due to ‘unruly’ passenger",
-              "url": "https://www.straitstimes.com/singapore/singapore-bound-sia-flight-diverted-back-to-san-francisco-due-to-unruly-passenger"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Malaysia's economy grows 5.3% year-on-year in Q3: Advance estimate",
+              "url": "https://www.channelnewsasia.com/business/malaysia-economy-growth-q3-official-advance-estimate-6464966"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "Singapore looking into which companies responsible for haze-causing fires: PM Wong",
-          "neutralSummary": "He said that where warranted, Singapore will take action under its Transboundary Haze Pollution Act.",
+          "neutralHeadline": "Indonesian stocks dive 11% as MSCI weighs market reclassification",
+          "neutralSummary": "The US firm said earlier this year that investors had raised concerns about \"ongoing opacity in shareholding structures\" as well as coordinated trading behaviour that affected price information.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Singapore looking into which companies responsible for haze-causing fires: PM Wong",
-              "url": "https://www.straitstimes.com/singapore/singapore-looking-into-which-companies-responsible-for-haze-causing-fires-pm-wong"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Indonesian stocks dive 11% as MSCI weighs market reclassification",
+              "url": "https://www.channelnewsasia.com/business/indonesia-stocks-msci-weigh-market-reclassification-6464081"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Singapore Q2 tourism receipts down 6.2% at $7.21 billion amid global uncertainty",
-          "neutralSummary": "Tourism receipts for the first half of 2026 stood at $15.71 billion.",
+          "neutralHeadline": "China says can 'easily win' confrontation with Philippines",
+          "neutralSummary": "The remarks by Chinese Ambassador Jing Quan came a day after Philippine defence chief Gilberto Teodoro labelled Beijing a regional \"troublemaker\".&nbsp;",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Singapore Q2 tourism receipts down 6.2% at $7.21 billion amid global uncertainty",
-              "url": "https://www.straitstimes.com/singapore/singapore-q2-tourism-receipts-down-6-2-at-7-21-billion-amid-global-uncertainty"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "China says can 'easily win' confrontation with Philippines",
+              "url": "https://www.channelnewsasia.com/east-asia/china-easily-win-confrontation-philippines-6464791"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Michael Palin on the Philippines and China’s Power",
+              "url": "https://www.bloomberg.com/news/videos/2026-10-16/michael-palin-on-the-philippines-and-china-s-power"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Quicker cross-border cooperation needed to disrupt scams and crimes: S’pore, international police",
-          "neutralSummary": "German authorities in 2024 texted Singapore police directly about a ransomware attempt, speeding up enforcement action.",
+          "neutralHeadline": "Trump says he is talking to Russia and China about denuclearisation",
+          "neutralSummary": "Trump says he is talking to Russia and China about denuclearisation",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Quicker cross-border cooperation needed to disrupt scams and crimes: S’pore, international police",
-              "url": "https://www.straitstimes.com/singapore/quicker-cross-border-cooperation-needed-to-disrupt-scams-and-crimes-spore-international-police"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Trump says he is talking to Russia and China about denuclearisation",
+              "url": "https://www.channelnewsasia.com/world/trump-russia-china-denuclearisation-6464736"
             }
           ]
         }
@@ -696,8 +759,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "CJP Connaught Place protest faces a 'central' hurdle",
-          "neutralSummary": "CJP Connaught Place protest faces a 'central' hurdle",
+          "neutralHeadline": "‘Will stand with Pakistan if US attacks’: Rajasthan BJP chief’s remark sparks Congress backlash",
+          "neutralSummary": "‘Will stand with Pakistan if US attacks’: Rajasthan BJP chief’s remark sparks Congress backlash&nbsp;&nbsp;The Times of IndiaBJP Rajasthan chief Madan Rathore says he will ‘stand with Pakistan’ in war with US, issues clarification later&nbsp;&nbsp;Hindustan TimesIf US-Pak war breaks out, we'll stand",
           "versions": [
             {
               "political": "left",
@@ -705,142 +768,97 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Don't Join, Will Allow Only 11 Carrying Flag: Delhi Police On CJP's Connaught Place Protest",
-              "url": "https://www.ndtv.com/india-news/will-allow-only-11-people-carrying-flag-delhi-police-on-cjps-october-16-connaught-place-protest-call-12191195#publisher=newsstand"
+              "headline": "\"If Pak-US War Breaks Out, Will Stand With Pakistan\": BJP Leader Sparks Row",
+              "url": "https://www.ndtv.com/india-news/if-pakistan-us-war-breaks-out-will-stand-with-pakistan-rajasthan-bjp-leader-madan-rathore-sparks-row-aap-congress-hit-out-12192819#publisher=newsstand"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "CJP Connaught Place protest faces a 'central' hurdle",
-              "url": "https://economictimes.indiatimes.com/news/india/cjp-protests-ndmc-announces-closure-of-central-park-in-connaught-place-on-oct-16-17-citing-administrative-reasons-delhi-sir/articleshow/134970003.cms"
-            },
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Anti-CEC protest highlights | Delhi Police says can allow small gathering at 'suitable place' ahead of CJP's 'Tiranga' protest; CP Central Park shut",
-              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObXQxZWpNQWtvaXdYTUo2S2dtcWpXQk5zSUV0bEhJdk9TLTczUDZtdHlCbGl3bjhqaDdBZm9DMFJtM1M4YmNEMndSOXVuVGpfd2xXZ1RJUGFtVFFDU1ozQmtFaEJpMEpEZGl6SDM1eUZ5OXFlOVd2bENNcmtQM1F1Ylc5N1FIbmt2d1loYTlYWnQwX3oyWXRnd3FRTG1DVjVpcUdiSFdUanIwdFg5YVJFWFR5UXZFLU5uMzRfVEMyNWU3RmNuVEVr0gHOAUFVX3lxTFB6cDUwTWNIbGxxdGUxMGdMUk9CcGRwa0VMWUg2a0RQMW9kWm8xTHVnc0pDVWdlN3dsMV9tRU5IdFZNQkNPbURDUk9oaUJlNE15SnJmdm1vWjFmLTNuM1ZyRWVQajJ5Ui1BeU9zaUVESl9Oc284TkxQOHE4ZkZDZGw5MHZKNHJGeTRWVXZlSURNaDY2ZGVJYlhVRU5VZTNBR3I0OXJNSTBDUjByY1NNXzhSNVFsRVNEX1JOVGdBMnNjNnVzYV9rY2xRUHNFdTNn?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "Delhi high court declines to stop CJP’s Connaught Place protest, records police assurance on regulation",
-              "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbzNxV2FZT1Z1ZEhaVVhFcXA5djFkRmpTR2dxdjdyODZWMG1Lc2l3dkpIZ2R4RE1yNVg3b3BOQnJKa1F6cVFvcG51NVhsZDJFa0tIMS1VNlJUQ3FRTFlmeEtjaXFJZXhqWkJ4ZS1nR0pFQk1DVm93V0U2WHVUc01rcUhGUXNQd2p3TmJYM0tVVmVGZUxuSXA2bFgwcGREckJfVWE0Z05QN1dacGx2amNXeVlGT1Y1ak8zNjVuTE1GcTd2ZEdodjJuRGRDMHdSdEFlclgyeU54SFRxbXlYeF9VekdBSWtiNjFubUtBUVB0NGN6NnFBbm84cnlFbXl4dG42empUeNIBigJBVV95cUxQaTN0OTBYbk51b2NidDJGSWthSHZ6bHQ0OE5ZWXBncGRhSXRFNndtTG9aSEhPZFRvUFVPOVhQd0lBcVhHSDVtZUFlZGlNRkhjRXd0SmpDdGpYZ1kwR0ptMTZhUi1NYUJxeTZySlZJd2Nsd1BYcGE3ZHJUWXg2OTdldG53dHlZYXJlZ3RJSU5xaDd3RTY3MmJCM2t6dGdwYTZGVW5zUmpmYnNMZVNOSE1vbC00Q2Z5Q0gyeGMyc2JWeUZubE9ISDU3bG0wNFR1U1JZTW16RlpFY2NjTVJuVFNZbDNKOWtYdmVrdjhtQTJkemtmSWpDc3NJbF9IV0c1ZFJIeGI3bHFYVHBwZw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "Imran Khan asked to leave India: What rights do OCI cardholders have?",
-          "neutralSummary": "Actor Imran Khan faces deportation from India by October 28 due to his involvement in a protest. This action stems from a complaint lodged by BJP leader Kirit Somaiya regarding legal violations during the demonstration. Khan, a US citizen and OCI cardholder, was detained at the protest site in Mumba",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Imran Khan asked to leave India: What rights do OCI cardholders have?",
-              "url": "https://timesofindia.indiatimes.com/legal/news/imran-khan-told-to-leave-india-what-rights-do-oci-cardholders-have/articleshow/134959772.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "Bollywood actor Imran Khan asked to leave India after participating in protest, media says",
-              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONkJPS0gxbDFyUUhGSlZVRThBVHgxaWk5bUstV1NDU3pMb3YyOG4teTlUZk04bVluNU1KN2lMclo4OUc0azhSRzBUYTNVdGZRdVBPVVFzVlFhTV8yMjB3SEZUcVpaYnFVbHd6QTV0SFVqUUlYZ25KQUJKX0tYa1pMU044eFhobzhudDlOSnNEazN1T2RmN1Z1MEJ1cnpOQzJLS0NDZG5ZNlM1U0VSSnV4d0NpcUd5ZndnZF9zakJhdy1fVTBMbm1zb3l2cXUzTDFFVE1j?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "US temple attack plot: Teen’s alleged manifesto describes Indians as ‘subhumans’",
-          "neutralSummary": "A 19-year-old white supremacist's intention to attack a temple near Chicago was disrupted by a rifle malfunction. Following the incident, concerned colleagues notified authorities after he expressed his intentions via messages. Police arrested Alexandros Paporakis, uncovering alarming materials incl",
-          "versions": [
             {
               "political": "center",
               "tone": "pessimistic",
               "source": "Times of India",
               "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "US temple attack plot: Teen’s alleged manifesto describes Indians as ‘subhumans’",
-              "url": "https://timesofindia.indiatimes.com/world/us/us-temple-attack-plot-teens-alleged-manifesto-describes-indians-as-subhumans/articleshow/134970777.cms"
-            },
+              "domain": "news.google.com",
+              "headline": "‘Will stand with Pakistan if US attacks’: Rajasthan BJP chief’s remark sparks Congress backlash",
+              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONnc0Ui1xekZ6MDVYRFRpQWp2djEtZzdHUnpNOVRYQVFfcmx1ODdDa1JCVVlYVG0yVDRtTlkyNHVhNFpaeU5IY1hZMG1zUWZLdER6dHhoLVhWcEZxbWxJZ2dhcE03bjNQYmdLUTF3cVVvY3ktc1k0bFRMWnNxX01LeERXdERmNzk1TmtiSDFxVFJMbFlDY0JYcGlYMHNvU1UycjFuQkJSQjdZNGI0eVRTMWUzM0lPQXRJQjNtaDdKNmhxb1NYeU1XcVZZd1ZzQ3BZMHpSYU04Yk9oTk4tYmJycHBYbGN2SVdFSUI1RXF6a1M?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "Earthquake Of Magnitude 7 Strikes Russia, Japan Mistakenly Issues 9.9 Warning",
+          "neutralSummary": "The seismic event was recorded at around 3:35 pm local time.",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "US teenager appears in court over alleged Hindu temple shooting plot",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QOGdkZEQ1Vm92em9VX1ExSGxtT1JHR0xyRzU3UTlkWk1ZOXZjNk1hS2Ftb1lCcnFrZFlLYmpvZkR1UlhBamIzbGczUTFBRmVKWko0ZFdtVEVMQlk?oc=5"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Earthquake Of Magnitude 7 Strikes Russia, Japan Mistakenly Issues 9.9 Warning",
+              "url": "https://www.ndtv.com/world-news/russia-earthquake-earthquake-of-magnitude-7-strikes-russias-kamchatka-peninsula-12193129#publisher=newsstand"
             }
           ]
         },
         {
-          "id": "india-4",
-          "neutralHeadline": "Trump says military execution won't be live",
-          "neutralSummary": "Trump says military execution won't be live",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Trump says military execution won't be live",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-military-execution-will-not-be-livestreamed/articleshow/134970516.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Dawn",
-              "initials": "D",
-              "domain": "news.google.com",
-              "headline": "Trump says military execution of Fort Hood gunman will not be livestreamed",
-              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUnNmRzRCYl9TR0xydjhOaFFua2lCdGVqSjVKa0F5dGF3V3dZeDNiWUxzTnl0cmhJRjB5Y19BWE9yT3ZJR3B6Um9neENDeWxxcDNkOXBIeGFmTlpkVVpvQ0NDcW9FM2dpWXdrNGNnUlJFRVFlTExDYzkyOVJzbVpEeE9rTW5nT0lLMVlxVHY0UHM5eVBOQy1lQXJWOVR0Tk5FaTFwLWdmY1RQMktp?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "\"Objective Is Regime Change\": BJP On Neha Bora's \"Bangladesh Showed Way\" Video",
-          "neutralSummary": "\"Objective Is Regime Change\": BJP On Neha Bora's \"Bangladesh Showed Way\" Video&nbsp;&nbsp;NDTV'Open admission of regime change': BJP targets Rahul over Neha Bora's 'Bangladesh showed us the way' remark&nbsp;&nbsp;The Times of IndiaBharat isn’t Bangladesh: The real danger isn’t a regime-change dream,",
+          "id": "india-3",
+          "neutralHeadline": "'We’re done': Zelenskyy defies Trump after Putin attacks Ukraine, says will keep hitting Russian refineri",
+          "neutralSummary": "'We’re done': Zelenskyy defies Trump after Putin attacks Ukraine, says will keep hitting Russian refineri&nbsp;&nbsp;The Times of IndiaRussia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume&nbsp;&nbsp;BBC\"We're Done\": Zelensky Feels 'Betrayed' By Trump, Ukraine Attack",
           "versions": [
             {
               "political": "left",
               "tone": "pessimistic",
               "source": "NDTV",
               "initials": "NDTV",
-              "domain": "news.google.com",
-              "headline": "\"Objective Is Regime Change\": BJP On Neha Bora's \"Bangladesh Showed Way\" Video",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkZjNlRZbHIzR3Q2VmRzU2ttRHdKSkYzS0ZGdElZbmluWlFsdUVyQ0FUTktqc1dCV29VMDc2aTZJSzJqaG9WRG1WT29uLXJQZG1aTE04cnR5MVllUVRzcDVnOG5VUGtScGdodWhFWEZRTWtSenBmUVZrdEt2dm00ZmhZcmVhVTRIMDFwSzZ3b1FpWnFaQnJtWVF1enhOOVFsVzYzcDM2YlZfbjRyR2lpdVpMTQ?oc=5"
+              "domain": "ndtv.com",
+              "headline": "\"We're Done\": Zelensky Feels 'Betrayed' By Trump, Ukraine Attacks Russian Refinery",
+              "url": "https://www.ndtv.com/world-news/ukraine-energy-truce-were-done-zelensky-feels-betrayed-by-trump-attacks-russian-refinery-12193215#publisher=newsstand"
             },
             {
-              "political": "right",
+              "political": "center",
               "tone": "pessimistic",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "Far-left anarchist Neha Bora’s Bangladesh-style regime-change pitch for India: What does her dangerous desire mean for the country",
-              "url": "https://www.opindia.com/2026/10/neha-boras-bangladesh-regime-change-mean-for-india/"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "'We’re done': Zelenskyy defies Trump after Putin attacks Ukraine, says will keep hitting Russian refineri",
+              "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVGFOTzg3a09SeEx3U1lpbEVSVlJnVDJfSkJMOVByaDJ6aGxiMGs1QlJDSkVCX0h3bXZsSUl3UFNaUTlRdEFXbW9MRFlQMXdZR3VmcFZaSzhTRGlQX1paZjc2UWVrRDZFOFVEd2pyWS1PVC1NOEpDanBwejhQQlZSTzFxT3dlY3pXX09qUFpxUEFmdTViSzhpaU5lUXlrVTFDUlZLXzNsX1hMOU8td1g5NENNcE9yODdXMnJsWV9vRnEyVm9WWXN5cUVJazlVYmxnSEhfT0VGYlpXUTI3SGtXM2dLblZwRnN1M05BT0R6VkhDV3pXc0hXR3ZMa0NnNHhPVTl1MmhOT1jSAY4CQVVfeXFMTTNPQy0wdjhaSWN2TG5NMmd6cGNZa1pqT1BhOHlianV2aW5vY1FiYTRCc1R1cS1xM2hSbkFaRzJuWTJZVGR4bG1uSzEweGxtcmFCU3JzdkdGT3lmRC16SnpLVE95QUR6YXhLbTJpcFByaG0teThkWVBQbjQ4cjdnTW5LbzdXbXozSWZoWFdMVFo2Z1FRLXFhRGNpdmFpUXFlNDQ3X0dOTDdyYUZPWTNQLUlDWlRYOGVxUlBwZlM2LXlVM2pfU3BBYkp5VkNnZDQwWGM3MUZRNUp3YXNtU29LYTVoS29KNHRZajNja0lmN2hqS0kxUG9SVS1SQVNaXzBRLVM5RUtHbWpxY2poc0xn?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "CJP protest: SC refuses urgent hearing on plea against NDMC order shutting down Central Park",
+          "neutralSummary": "Justice Bagchi observed that the various issues surrounding the protest, including the right to protest, the proposed selling of 'mungfali' and concerns over law and order, were interconnected",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "CJP protest: SC refuses urgent hearing on plea against NDMC order shutting down Central Park",
+              "url": "https://www.thehindu.com/news/cities/Delhi/cjp-protest-sc-refuses-urgent-hearing-on-plea-against-ndmc-order-shutting-down-central-park/article71591318.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Odisha government announces to hold student union election after a gap of eight years",
+          "neutralSummary": "Process of elections to be completed in next 10 days; will begin from October 7 and come to end on October 16, 2026",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Odisha government announces to hold student union election after a gap of eight years",
+              "url": "https://www.thehindu.com/news/national/odisha/odisha-government-announces-to-hold-student-union-election-after-a-gap-of-eight-years/article71546217.ece"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "CPI(M) district committee meeting begins at Ponnani",
-          "neutralSummary": "The meeting is focused on strengthening the party’s work among the people and planning organisational activities in response to current political conditions.",
+          "neutralHeadline": "Accused in 2025 Visakhapatnam naval dockyard spy case held after deportation from Saudi Arabia",
+          "neutralSummary": "K. Srinivas allegedly shared details of ships and submarines at the dockyard with a woman posing as an employee of a Dubai shipping firm",
           "versions": [
             {
               "political": "left",
@@ -848,31 +866,31 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "CPI(M) district committee meeting begins at Ponnani",
-              "url": "https://www.thehindu.com/news/national/kerala/cpim-district-meet-begins-at-ponnani/article71541278.ece"
+              "headline": "Accused in 2025 Visakhapatnam naval dockyard spy case held after deportation from Saudi Arabia",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/one-arrested-in-naval-espionage-racket-case-in-andhra-pradesh/article71588709.ece"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Call for curbing inter-State drug smuggling",
-          "neutralSummary": "DGP Harish Kumar Gupta flags off motor cycle rally titled ‘Fight Against Drugs’ to Gujarat",
+          "neutralHeadline": "Four dead, 35 injured as Bengaluru-Kozhikode sleeper bus collides with truck near Periyapatna",
+          "neutralSummary": "Police said the accident took place when the truck swerved to the right to avoid hitting a tree that had fallen by the roadside due to overnight rains.",
           "versions": [
             {
               "political": "left",
-              "tone": "optimistic",
+              "tone": "neutral",
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Call for curbing inter-State drug smuggling",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/call-for-curbing-inter-state-drug-smuggling/article71589368.ece"
+              "headline": "Four dead, 35 injured as Bengaluru-Kozhikode sleeper bus collides with truck near Periyapatna",
+              "url": "https://www.thehindu.com/news/national/karnataka/four-dead-35-injured-as-bengaluru-kozhikode-sleeper-bus-collides-with-truck-near-periyapatna/article71591215.ece"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Defence Minister Rajnath Singh to represent India at upcoming SCO Heads of Government meeting",
-          "neutralSummary": "Prime Minister Narendra Modi will be taking part virtually through video-conference; the two-day meeting will bring together heads of government and designated senior representatives of SCO member states to discuss regional cooperation and economic engagement",
+          "neutralHeadline": "Three soldiers among seven more held in Bolarum arms theft case; police say weapons were meant for a string of robberies",
+          "neutralSummary": "Retired Havaldar Mallesh allegedly explored selling the stolen military weapons to contacts in West Bengal",
           "versions": [
             {
               "political": "left",
@@ -880,15 +898,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Defence Minister Rajnath Singh to represent India at upcoming SCO Heads of Government meeting",
-              "url": "https://www.thehindu.com/news/national/defence-minister-rajnath-singh-to-represent-india-at-upcoming-sco-heads-of-government-meeting/article71588802.ece"
+              "headline": "Three soldiers among seven more held in Bolarum arms theft case; police say weapons were meant for a string of robberies",
+              "url": "https://www.thehindu.com/news/cities/Hyderabad/three-soldiers-among-seven-more-held-in-bolarum-arms-theft-police-say-weapons-were-meant-for-a-string-of-robberies/article71540130.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Commander of U.S. Pacific Command to visit India from October 3",
-          "neutralSummary": "Admiral Paparo’s visit also underscores Washington’s continued engagement with India and its enduring presence and interests in the Indian Ocean region",
+          "neutralHeadline": "Trump cites Indian election that didn't happen to call U.S. electoral process ‘corrupt’",
+          "neutralSummary": "The reference to India appeared to be a possible mix-up with Brazil. Brazil held the first round of its presidential election on Sunday, with 125.27 million valid votes recorded, according to the country's electoral authority.",
           "versions": [
             {
               "political": "left",
@@ -896,8 +914,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Commander of U.S. Pacific Command to visit India from October 3",
-              "url": "https://www.thehindu.com/news/national/commander-of-us-pacific-command-to-visit-india-from-october-3/article71540919.ece"
+              "headline": "Trump cites Indian election that didn't happen to call U.S. electoral process ‘corrupt’",
+              "url": "https://www.thehindu.com/news/international/trump-cites-indian-election-that-didnt-happen-to-call-us-electoral-process-corrupt/article71545999.ece"
             }
           ]
         }
