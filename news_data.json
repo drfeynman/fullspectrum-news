@@ -1,13 +1,56 @@
 {
-  "generatedAt": "2026-10-21T06:44:21.299184+00:00",
+  "generatedAt": "2026-10-21T17:57:24.242130+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Nigeria records first Ebola case as outbreak spreads across Africa",
-          "neutralSummary": "Nigeria has confirmed its first Ebola case in Africa's latest outbreak, while Kenya reported its ninth infection, raising fears of further spread across the continent. Africa CDC chief Jean Kaseya warned of an “extremely serious threat” and urged the international community to send funding, medical",
+          "neutralHeadline": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+          "neutralSummary": "The announcement of Hubbard's release came as talks got underway between Putin and White House envoy Steve Witkoff in Saint Petersburg focused on the latest U.S. efforts to end the war in Ukraine.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+              "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Russia releases American Stephen Hubbard after four years in prison",
+              "url": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Russia releases American teacher imprisoned on Ukraine mercenary charges after Trump pressed Putin",
+              "url": "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Who is Stephen Hubbard, the US citizen released by Russia?",
+              "url": "https://nypost.com/2026/10/21/us-news/who-is-stephen-hubbard-the-us-citizen-released-by-russia/"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+          "neutralSummary": "Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.The woman began showing symptoms on 7 October and was a",
           "versions": [
             {
               "political": "left",
@@ -21,36 +64,27 @@
             {
               "political": "left",
               "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Nigeria confirms Ebola case linked to East Africa",
+              "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
               "headline": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
               "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Nigeria Announces First Case of Ebola in Current Outbreak",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEMtN0pFRF9vaUpjdWZ0Q184SUlGOTNKS1cxbXk5bVBxVE1aZDZod2s3anA1V0Q0Z3NFaHRCYjRkeFhvb2h2eHNWaGVNRkxtSFZzRlZEdFBTOHZOOTItOU5zUVVIdHpVWE4yZ05nOWlSSDJQQnVTemFyMGJDVU5iMQ?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Nigeria records first Ebola case as outbreak spreads across Africa",
-              "url": "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa"
             }
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "Alberta voters overwhelmingly reject separation process in a victory for Carney",
-          "neutralSummary": "Alberta voters overwhelmingly reject separation process in a victory for Carney&nbsp;&nbsp;AP NewsAlberta rejects secession referendum, chooses to remain part of Canada&nbsp;&nbsp;CNNAlberta's decision to stay in Canada gives Carney backing to take on Trump&nbsp;&nbsp;BBCAlberta voters reject move t",
+          "id": "global-3",
+          "neutralHeadline": "Alberta voters reject independence from Canada in victory for Carney",
+          "neutralSummary": "Alberta voters reject independence from Canada in victory for Carney&nbsp;&nbsp;PBSOpinion | Canada Said No, Again&nbsp;&nbsp;The New York TimesAlberta premier to speak to media Wednesday after strong support for 'remain' in referendum&nbsp;&nbsp;CBCHuge setback for Alberta's separatist movement aft",
           "versions": [
             {
               "political": "left",
@@ -71,63 +105,29 @@
               "url": "https://www.huffpost.com/entry/alberta-canada-separation-vote_n_6ad6fc51e4b061c2be45e47c"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-              "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada"
-            },
-            {
               "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Alberta voters overwhelmingly reject separation process in a victory for Carney",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNam5EME1Qam5lQmc2X3BhcDgzXzdMaWJLa1V2akVCc0c2dnJlZmo4bjZ5NEdXZmMxNHp6d1kxV3hEY2QwbkZraktnS1V5a3ItMUFvZmlxb0daZUppSHdqdjBvdUNrNVNueGo0TlROS21OeGl4OTBwM0RlanJuT2pGZjllNWxHMS0wOVFtRV9DOHA0TzZWbkotTGJXMzJHcjJFOHVFbkhnOUk?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Homeland Security grants temporary deportation reprieve for more than 100,000 Ukrainians and Sudanese",
-          "neutralSummary": "Homeland Security grants temporary deportation reprieve for more than 100,000 Ukrainians and Sudanese&nbsp;&nbsp;PBSTrump officials soften approach to key immigration policy ahead of midterms&nbsp;&nbsp;The Washington PostImmigrants from Ukraine and Sudan to retain deportation protections for now&nb",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "US grants deportation reprieve to migrants from Ukraine and Sudan",
-              "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
+              "tone": "optimistic",
               "source": "PBS",
               "initials": "P",
               "domain": "news.google.com",
-              "headline": "Homeland Security grants temporary deportation reprieve for more than 100,000 Ukrainians and Sudanese",
-              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY2dsb3VneVVqOXBaYUlCNVNnR2pxblVsc2N4MDJyZkZ3VjhNemlPbHk4OTZ0c256aHU5YmhURTZKNUcxODBlRzFkYlpGSkdqb2Nya3NEUnVlcHVBWjI4cUEzaXRwOFBSMEpGZTRKWE94WjY3WmFIVVJscFFVZllyUkg5NWRaM1lGcHRrYmJUWTlYQlFEYVZmQ0FPaURiNm1teFN4VUYwcDdkZy1FLUV1MGJTZ1V0RDlhWXJxV2JDVFI4WU9XOGZHOWxkMTRSUklD0gHWAUFVX3lxTE9JY0p2SThwVV9POG11TTc5cl9jdDhZZlg3LWRINmtXUDRJY3UzanFONVZsLXFneE5fME1kZzJ6QlNaOVJHNVpOWnN3V0JqSnJzdnFhdU5OVkpZc2d4OC04bHpOUDNqallISWU2cXM5eWNEelVLdzc1UUUtWFFqTXRxdmVVcV9kMC1nb3ZBZWRiWW1vc3FLMFlRcDBYaTBlRkRYcjFXRHlwT3kzbFdzdWtQYWNkdS1QREoxRTV2eDJSc1NaOFBEaXhlbVJDZXpXSFY4UTdUNlE?oc=5"
+              "headline": "Alberta voters reject independence from Canada in victory for Carney",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVXFHVkNxRmotR0hFa3VXV2ZyVEVYd0NGbk01SkZwWUQtVVdIS3NmcE1kX1NiOS1nVlh0dncwZXpkUVJTZ1dkOGY0WTJwMG02LV9WVHFnc3NmRTVheXdfUy1DcC1MTjNfZ01QMmNJTmtkUU1HOXc2ZS16UTF6aV9DWVo5YU1sU2tTYWxic2FteGU5Mmw4Yy16RXFLdm1wTGM3RkltZ29R0gGrAUFVX3lxTE5OUno4cldQSjBtQjZ4WXN2MGtJMU5VWUM2OHhqTGpvQWhZbk5JRGZFcnFLZ0NEM2E3Qmd3S2hEQ2hjRGhuZDYzYWx0WGEwZ0hteFBkbmpscExYZHVFUWV4a0x4ZXNJYVVjbmk0R0VxbkZqYXFWNHRUeTk3RVlVc20wd09Cb2FreWJhb1haQ2N1MFFOU25CNndMc256aC1YNnJNWElGcE4xem0ySQ?oc=5"
             }
           ]
         },
         {
           "id": "global-4",
-          "neutralHeadline": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-          "neutralSummary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutorsA Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst",
+          "neutralHeadline": "Australian politician who was intentionally hit by car loses both her legs",
+          "neutralSummary": "Australian politician who was intentionally hit by car loses both her legs&nbsp;&nbsp;CBS NewsAustralian lawmaker loses both of her legs in ‘targeted’ attack involving a vehicle&nbsp;&nbsp;Cleveland.comAustralian Politicians Were Already on Edge Before One of Their Own Was Attacked&nbsp;&nbsp;The Ne",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-              "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children"
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Australian Politician Who Was Hit By Car Has Lost Both Legs",
+              "url": "https://www.huffpost.com/entry/australia-lawmaker-injured_n_6ad8767ee4b04f71533db123"
             },
             {
               "political": "left",
@@ -135,40 +135,49 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Kenya cult leader's children still being starved weeks before trial, son says",
-              "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss"
+              "headline": "Australian MP loses both legs after alleged car attack, husband says",
+              "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "Australian politician who was intentionally hit by car loses both her legs",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGVZYUVnUTNXNE8tbGJBUnhOM0xyUDFsdmt6VUs5RXZ4bXBpM2hUd0VxUzM4OHBjNUpDVS1NSkh1Wmh3Y3E3blA2UEgzTG9hU3RDNElwSFcxUFhRWmh4Q2taeDh4NndLTV9MZVhOMzVhNEhNOEp6aTJ0S0xFV1owWEV0a2pRS0p4VkV1Ulo4UXpUNzViZjh3?oc=5"
             }
           ]
         },
         {
           "id": "global-5",
-          "neutralHeadline": "Drone attack near market kills 80 in Sudan",
-          "neutralSummary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of warA drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home.Ahmed Wadi, a witness, said the attack in the town of al-Dibab in West Kordof",
+          "neutralHeadline": "Shark trapped for a month in South Korean canal is finally freed",
+          "neutralSummary": "Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubersIn South Korea, they call them jagyeongdan, a word whose meaning sits somewhere between vigilante group and neighbourhood watch. Each night they put on hi-vis vests, picked up their selfie st",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "Drone attack near market kills 80 in Sudan",
-              "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan"
+              "headline": "Shark trapped for a month in South Korean canal is finally freed",
+              "url": "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "news.google.com",
+              "headline": "Shark Returns to Sea After Over a Month Stuck in a South Korean Port Canal",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWUhaWHRtVDd1bTFmbFVxTUpYbW5LMGZBUVBBVWJyOFB4VXdFSmZCSl9tdE05a0pydlctaWNhWEVYZ2k3TnZhYklyZEdiR01LbVVaUk8yaktZbjhyTlNaVDlKdGRqN0lCeEY3Z2tPczJPNER3dkJQLXgybmtxUDlRUVZxOVR4OFhpdlE?oc=5"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "Iran says Saudi Arabia, Houthis have not answered mediation offer",
-          "neutralSummary": "Iran says Saudi Arabia, Houthis have not answered mediation offer&nbsp;&nbsp;ReutersLive Updates: Latest from Israel, Iran, and the Middle East&nbsp;&nbsp;The Jerusalem PostIran support for Houthis probed as Yemen war re-erupts and Saudi cities hit&nbsp;&nbsp;Al JazeeraIran’s FM says no response fro",
+          "neutralHeadline": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+          "neutralSummary": "UK fighter jets to protect Saudi Arabia from Houthi attacks&nbsp;&nbsp;DW.comBritain sends fighter jets to defend Saudi Arabia amid Houthi attacks&nbsp;&nbsp;The Washington PostWW1 to Houthis: British jets for Saudi Arabia build on long military bond&nbsp;&nbsp;Al JazeeraUK to send jets to defend Sa",
           "versions": [
             {
               "political": "left",
@@ -181,12 +190,12 @@
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
+              "tone": "pessimistic",
+              "source": "DW.com",
+              "initials": "D",
               "domain": "news.google.com",
-              "headline": "Iran says Saudi Arabia, Houthis have not answered mediation offer",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFhacmtBdGRlT0NRV3BIbVVtYnI5NXJXTWlPYzUtei1CemFlOW5aWk55cUF3Z2loa3pvNjM4UUxJa0FsdGNuLTdaLTdUcTJiZ0lXZjM1Nk51Xzh2dmxoVXVVRU1XOHBYM0RwbVo2MmxQUDBfemdPREFTSG5velNHTFhNbTB6M25yM2ZBcnBSbm1DY0NvMFJQX05XTUV0djdUNVl2aXBmYWJ6aDEwNnEtbExqVjBpYWRWb3c?oc=5"
+              "headline": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX09hOG01THVnWTBtMmVfekx4eUpYdnRtdDJZUVpRZFNuQTh5NlE0RlVaYlhHbVJzRTNXaXd4RURST1ZPTFF5TnJ1ODJCdkRCOENXTVVZd09NZHJjeXktRzZCdlJrbVNFdmYwdXUwOEtycjA1OVBlS3ZTZ25KR0NCNUZWWdIBgwFBVV95cUxNY1lEUHVHNzlwOUNJcW5YeE15RllpRmdVZThBdjlvMjdKY2JqUkxfQmV0QkVXbVNVeGgzalVacXhLMURVclhxVjhIT2JkLTZMVVNrUlkzd1hic3RuV25iWXdtSERockhvcXI3RzJ2eHMwYUpHZ0EzZnUxcVFJYW9XTC1Edw?oc=5"
             }
           ]
         },
@@ -217,51 +226,51 @@
         },
         {
           "id": "global-8",
-          "neutralHeadline": "U.N. Food Agency Cuts Aid To 500,000 Palestinians In Gaza, Citing Funding Shortages",
-          "neutralSummary": "The WFP said it was reducing the number of recipients of its monthly assistance to 1.1 million people from 1.6 million.",
+          "neutralHeadline": "Kremlin says 'ready' to resume 3-way talks with US and Ukraine mid-November",
+          "neutralSummary": "Moscow is ready to resume trilateral US-Ukraine-Russia talks next month, the Kremlin said Wednesday after President Vladimir Putin met with US envoy Steve Witkoff in Russia. FRANCE 24's correspondent Gulliver Cragg has more.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "U.N. Food Agency Cuts Aid To 500,000 Palestinians In Gaza, Citing Funding Shortages",
-              "url": "https://www.huffpost.com/entry/un-food-agency-cuts-to-gaza-aid-program_n_6ad5f539e4b05d72fd92654f"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Russia says it is ready to resume talks with Ukraine and US to end war",
+              "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Gaza children face worsening food shortages as prices rise and aid is cut",
-              "url": "https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss"
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Kremlin says 'ready' to resume 3-way talks with US and Ukraine mid-November",
+              "url": "https://www.france24.com/en/kremlin-says-ready-to-resume-3-way-talks-with-us-and-ukraine-mid-november"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Australian Lawmaker Critically Injured In Car Attack, Police Say",
-          "neutralSummary": "The driver was arrested at the scene by a passerby. He will be interviewed in relation to the incident, police said.",
+          "neutralHeadline": "Macron rejects Trump’s claims blaming migrants for French riots",
+          "neutralSummary": "French President Emmanuel Macron condemned comments by \"foreign leaders\" on the violent protests in France on October 17. He has now arrived in Saudi Arabia as part of his Gulf tour.",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Australian Lawmaker Critically Injured In Car Attack, Police Say",
-              "url": "https://www.huffpost.com/entry/australia-lawmaker-injured-vehicle-attack_n_6ad5da25e4b061c2be446127"
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Macron accuses foreign leaders of exploiting French riots",
+              "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-              "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured"
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Macron rejects Trump’s claims blaming migrants for French riots",
+              "url": "https://www.france24.com/en/video/20261021-macron-rejects-trump-s-claims-blaming-migrants-for-french-riots"
             }
           ]
         }
@@ -272,35 +281,17 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Trump snaps at White House reporter: ‘Are you a sick person?’",
-          "neutralSummary": "President Trump snapped at a reporter in the Oval Office on Tuesday, telling him to be “quiet.” As the president took questions from journalists in the Oval Office earlier Tuesday, one reporter appeared to begin asking about changes to East Potomac Park that include a new golf course. “On the golf c",
+          "neutralHeadline": "Vivek Ramaswamy Confronted By Heckler Over Ad With Opponent's Estranged Mother",
+          "neutralSummary": "The Ohio gubernatorial candidate’s campaign reportedly plans to put millions of dollars into the spot, which has been met with bipartisan backlash.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Pushes to Evict White House Press Corps",
-              "url": "https://www.nytimes.com/2026/10/20/us/politics/trump-white-house-media.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump snaps at White House reporter: ‘Are you a sick person?’",
-              "url": "https://thehill.com/homenews/media/6161621-trump-snaps-at-white-house-reporter-are-you-a-sick-person/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Vance reveals the Trump dilemma that could complicate his 2028 White House ambitions",
-              "url": "https://www.foxnews.com/politics/vance-reveals-trump-dilemma-complicate-2028-white-house-ambitions"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Vivek Ramaswamy Confronted By Heckler Over Ad With Opponent's Estranged Mother",
+              "url": "https://www.huffpost.com/entry/vivek-ramaswamy-heckler-amy-acton-mother-attack-ad_n_6ad89885e4b0ba084e1382e9"
             },
             {
               "political": "right",
@@ -308,142 +299,8 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Trump floats reverting White House press room to swimming pool: Report",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4773355/trump-white-house-press-room-swimming-pool/"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Ohio governor’s race takes ugly turn with viral video featuring Acton’s mother",
-          "neutralSummary": "A new viral video targeting Amy Acton is roiling the increasingly ugly Ohio governor’s race, where the Democrat is running against GOP nominee Vivek Ramaswamy. The clip features Acton&#8217;s estranged mother, Donna Arthur, calling the Democrat “a liar” and urging Ohioans to vote against her. It’s u",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Ohio Governor’s Race Reaches New Low As Republicans Roll Out Amy Acton’s Pedophile-Protecting Mother",
-              "url": "https://www.huffpost.com/entry/amy-acton-mother-ad-ohio-governor_n_6ad78dc6e4b02def98682767"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "Ohio governor’s race in uproar over ad featuring Democrat’s estranged mother",
-              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3dmcEk3N3ZMY1A1WVNEMVNmVkJxbVZmcmhzRkl1eTRKNU9BdmJyWVo0YnpJdW1TU3NueDRyZGlLTGxCT19tVGkzMTFsaF9wVnZOQ05YU0VoNkJsVjFoX2NWdW50Q3Z2WEtxUllYSDNVWll4NmptZEZfU1djdFYtT1RPTS1DTVZaNDA1Z09jdzhvS3dMZHczeWd6anRHLUthRFM5VmMtbUUxZWFWZExPSEVMalROQVZpUjJOdVFXcVlCbUtu?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Ohio governor’s race takes ugly turn with viral video featuring Acton’s mother",
-              "url": "https://thehill.com/homenews/campaign/6161344-ramaswamy-ohio-governor-race-controversy/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Musk endorses Paxton in Texas Senate race",
-          "neutralSummary": "Tech mogul Elon Musk has formally endorsed Republican Ken Paxton in the Texas Senate race after bankrolling his campaign for several weeks. The tech billionaire and one-time trillionaire has spent more than $150 million on Paxton’s candidacy as the lone donor to Texas PAC, a political action committ",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "In Texas’ Senate Race, Paxton and Talarico Converge on Key Battleground",
-              "url": "https://www.nytimes.com/2026/10/20/us/paxton-talarico-fort-worth-tarrant-county-texas.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Musk endorses Paxton in Texas Senate race",
-              "url": "https://thehill.com/homenews/campaign/6161202-musk-endorses-paxton-in-texas-senate-race/"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Ramaswamy takes responsibility for attack ad featuring Acton’s estranged mother",
-          "neutralSummary": "Ohio gubernatorial candidate Vivek Ramaswamy (R) confirmed to reporters Tuesday evening that his campaign was behind a new attack ad featuring his Democratic opponent Amy Acton&#8217;s mother calling her a &#8220;liar&#8221; and insinuating she suffers from mental health issues. Ramaswamy acknowledg",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Ramaswamy takes responsibility for attack ad featuring Acton’s estranged mother",
-              "url": "https://thehill.com/homenews/campaign/6161654-ramaswamy-attack-ad-amy-acton/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Vivek Ramaswamy defends controversial ad featuring Amy Acton’s estranged mom – admits his campaign is behind it",
-              "url": "https://nypost.com/2026/10/21/us-news/vivek-ramaswamy-defends-controversial-ad-featuring-amy-actons-estranged-mom-admits-his-campaign-is-behind-it/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Ramaswamy pours $4 million into ad featuring Amy Acton’s estranged mother",
-              "url": "https://www.washingtonexaminer.com/news/campaigns/state/4773383/vivek-ramaswamy-ad-amy-acton-estranged-mother/"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Cornell responds to Jane Doe’s letter saying she felt ‘unsupported’ by university president",
-          "neutralSummary": "A woman known as Jane Doe who accused seven men at Cornell University of sexual assault at a fraternity house sent a letter to the school saying she “felt unsupported and disebelieved” by the Ivy League institution’s president, Michael Kotlikoff. Cornell has responded to the letter, first obtained b",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Woman Who Accused Cornell Students Of Rape Felt 'Unsupported' By President's Response",
-              "url": "https://www.huffpost.com/entry/cornell-rape-accuser-felt-abandoned-by-university-president_n_6ad7efd7e4b02def98692b31"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Cornell responds to Jane Doe’s letter saying she felt ‘unsupported’ by university president",
-              "url": "https://thehill.com/homenews/education/6161542-jane-doe-cornell-letter/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Trump Repeatedly Flips Out At Reporters During Fraud Whistleblower Announcement",
-          "neutralSummary": "“I don’t know who the hell you are, but you better be careful,” the president said in an obscure threat to one reporter.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Repeatedly Flips Out At Reporters During Fraud Whistleblower Announcement",
-              "url": "https://www.huffpost.com/entry/trump-repeatedly-flips-reporters-during-fraud-whistleblower-announcement_n_6ad7ce04e4b02def98691981"
+              "headline": "‘Stop whining’: Vance goes after Republicans criticizing Ramaswamy ad featuring opponent’s estranged mother",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/state/4774094/jd-vance-goes-after-republicans-criticizing-vivek-ramaswamy-ad/"
             },
             {
               "political": "right",
@@ -451,24 +308,24 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Trump Says He’d Shield Fraud-Busting Reporters From Future Dem ‘Weaponization’",
-              "url": "https://www.dailywire.com/news/trump-says-hed-shield-fraud-busting-reporters-from-future-dem-weaponization"
+              "headline": "Ramaswamy Bets Millions On Bombshell Ad Featuring Dem’s Estranged Mother",
+              "url": "https://www.dailywire.com/news/ramaswamy-bets-millions-on-bombshell-ad-featuring-dems-estranged-mother"
             }
           ]
         },
         {
-          "id": "us-7",
-          "neutralHeadline": "Why the Trump administration is fighting over a golf course",
-          "neutralSummary": "This story appeared in&#160;The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&#160;Subscribe here. Welcome to The Logoff: Donald Trump is trying to take over a public park.&#160; What’s happening? On Sunday,",
+          "id": "us-2",
+          "neutralHeadline": "Witkoff Asks Putin To Resume Three-Way Ukraine Peace Talks, Secures Release Of U.S. Citizen",
+          "neutralSummary": "The Russian president also offered to help U.S. President Donald Trump in dealing with Iran.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Why the Trump administration is fighting over a golf course",
-              "url": "https://www.vox.com/the-logoff-newsletter-trump/506955/trump-east-potomac-golf-links-takeover"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Witkoff Asks Putin To Resume Three-Way Ukraine Peace Talks, Secures Release Of U.S. Citizen",
+              "url": "https://www.huffpost.com/entry/putin-witkoff-us-citizen-release_n_6ad88657e4b0ba084e1377a6"
             },
             {
               "political": "left",
@@ -476,58 +333,192 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "news.google.com",
-              "headline": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tNjJLczlPMVp6NnExc09JTmE0SmNaTHM0RGdnNTJGQVo1X1dndzV3MUUyMEJ5ZFpRbm5aU0RkQnpkRzhqalZEU05WVlhmTUszbk5CSlJuOTZOMlk?oc=5"
+              "headline": "Russia ready to resume talks with Ukraine and US to end war",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uR3lheURKOHZfRVVGclF1YVpoVE9QcXpBTTlkc2JjUXV2RTQ2bHY0SFZCa1hmTXVTWU1XTnRaVk8yWk1XX2lUbWl4LVNjQ0Ficm5UdEdMMDh0S1E?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Putin Agrees To Three-Way Peace Talks After Meeting With Trump Envoys",
+              "url": "https://www.dailywire.com/news/putin-agrees-to-three-way-peace-talks-after-meeting-with-trump-envoys"
             }
           ]
         },
         {
-          "id": "us-8",
-          "neutralHeadline": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
-          "neutralSummary": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.",
+          "id": "us-3",
+          "neutralHeadline": "The Supreme Court is about to decide whether to ban trans women from women’s sports",
+          "neutralSummary": "One of the last decade’s most consequential changes to how the Supreme Court operates is the growth of the so-called shadow docket — a process that allows the justices to decide cases unusually quickly, and often without full briefing or oral argument. Historically, the Court would typically allow c",
           "versions": [
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "The Supreme Court is about to decide whether to ban trans women from women’s sports",
+              "url": "https://www.vox.com/politics/507025/supreme-court-kmk-washington-transgender-sports"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
-              "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "news.google.com",
-              "headline": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0sxaWtWdHl5a2Y0SGVZOUJ6LTQycmtKZTdTd0NsamRDQ080MW1CVUxtRnlYM1E3bng3VlVLZ1ZQMTVoLUpQdUpBYTV6UERfS29xOHlpOTc1dy1JQi13Q0pHR2phTWk3blNsZzdoYnlQYlg1bjVXb3hIWHFBUS1oem9xdC1oWG9ITHJrQmZ4NEZvOUZfeGFKMw?oc=5"
+              "headline": "Supreme Court upholds pause on Trump's anti-trans prison policy",
+              "url": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy"
             }
           ]
         },
         {
-          "id": "us-9",
-          "neutralHeadline": "Who is Ana Reyes, federal judge Trump called a ‘crazed lunatic’?",
-          "neutralSummary": "U.S. District Judge Ana Reyes shot down the Justice Department’s (DOJ) demand to not participate in a key hearing on Monday on the future of East Potomac Park, which President Trump wants to turn into a championship-style golf course. The Trump administration has alleged that Reyes is biased after s",
+          "id": "us-4",
+          "neutralHeadline": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
+          "neutralSummary": "The move buys good will with President Trump while costing the President Vladimir V. Putin — who is wanted for war crimes — little.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
+              "url": "https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+              "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Who is Stephen Hubbard, the US citizen released by Russia?",
+              "url": "https://nypost.com/2026/10/21/us-news/who-is-stephen-hubbard-the-us-citizen-released-by-russia/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Supreme Court Rebuffs Trump Administration Restrictions On Medical Care For Transgender Inmates",
+          "neutralSummary": "About 600 inmates were receiving hormone therapy in 2025, the agency said in court records.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Supreme Court Rebuffs Trump Administration Restrictions On Medical Care For Transgender Inmates",
+              "url": "https://www.huffpost.com/entry/trump-transgender-inmates-supreme-court_n_6ad8db7ee4b04f71533e0ab4"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Supreme Court Blocks Trump From Denying Gender-Affirming Care to Trans Prisoners",
+              "url": "https://www.nytimes.com/2026/10/21/us/politics/supreme-court-trump-transgender-prisoners.html"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Carville says he has ‘Trump Derangement Syndrome’: ‘I can’t sleep’",
+          "neutralSummary": "Democratic strategist James Carville quipped Tuesday he &#8220;can&#8217;t sleep&#8221; because of his &#8220;Trump Derangement Syndrome,&#8221; referring the fake condition some use to describe a person with an intense worry about and fixation on what President Trump does. Carville said in an appea",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "James Carville Says He’s Got ‘Trump Derangement Syndrome’ And Wants It To Get Worse",
+              "url": "https://www.huffpost.com/entry/james-carville-trump-derangement-syndrome_n_6ad85446e4b0ba084e1362ea"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Who is Ana Reyes, federal judge Trump called a ‘crazed lunatic’?",
-              "url": "https://thehill.com/regulation/court-battles/6161270-ana-reyes-federal-judge/"
+              "headline": "Carville says he has ‘Trump Derangement Syndrome’: ‘I can’t sleep’",
+              "url": "https://thehill.com/homenews/administration/6163006-james-carville-trump-derangement-syndrome/"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Toledo Residents Ordered to Evacuate After Chemical Explosion",
+          "neutralSummary": "Nearly 1,000 people were told to leave the area and others were urged to shelter in place, as a hazardous chemical was still leaking on Wednesday, officials said.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Toledo Residents Ordered to Evacuate After Chemical Explosion",
+              "url": "https://www.nytimes.com/2026/10/21/us/toledo-ohio-chemical-explosion.html"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Trump Approval Hits New Low Two Weeks Before Midterms, Poll Finds",
+          "neutralSummary": "Likely voters favored Democratic candidates over Republicans by 11 percentage points in their congressional district, a New York Times/Siena poll found.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Approval Hits New Low Two Weeks Before Midterms, Poll Finds",
+              "url": "https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3",
-              "url": "https://www.foxnews.com/politics/judge-trump-called-lunatic-abruptly-backs-off-demand-showdown-doj-3"
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Trump’s approval ratings hit new lows in final stretch of midterms",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUlZkY2QzR1BURnZiRGJEamJ4WVRwc3N4R3Jmc0ZxZnhtZkJDMG4yU3l3d0FCZkM1Ri1VaXNpM2xMTVFjRnhlemloWEdYZ3pkZ1BGbE9LNHlMbU5qSG40TGdKWHlpblJoanMtY3FhT0tVRFVKWnRxVDRGMHdOaVN5THpsMlQxeXJBeExMT1k5Q3Q?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Trump Wields an Unprecedented $277 Million in Final Midterm Stretch",
+          "neutralSummary": "The enormous spending by the term-limited president’s super PAC has no parallel in American history, and could offer struggling Republican candidates a lifeline.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Wields an Unprecedented $277 Million in Final Midterm Stretch",
+              "url": "https://www.nytimes.com/2026/10/20/us/politics/trump-maga-inc-midterms.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump leans into unprecedented power ahead of midterm elections",
+              "url": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections"
             }
           ]
         }
@@ -538,8 +529,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "South-east Asia’s digital economy to hit US$368b in 2026, up 17% as AI uplifts growth",
-          "neutralSummary": "The growth is expected despite geopolitical and macroeconomic challenges.",
+          "neutralHeadline": "World needs ‘bridge builders’ to make the transition to new multipolar order: President Tharman",
+          "neutralSummary": "President Tharman said it is important to recast the narrative of climate change to focus on the here and now.",
           "versions": [
             {
               "political": "center",
@@ -547,33 +538,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "South-east Asia’s digital economy to hit US$368b in 2026, up 17% as AI uplifts growth",
-              "url": "https://www.straitstimes.com/tech/south-east-asias-digital-economy-to-hit-us368b-in-2026-up-17-as-ai-uplifts-growth"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
-              "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-2",
-          "neutralHeadline": "Parents jailed over fatal abuse of 8-month-old son",
-          "neutralSummary": "Trevor Neo was smothered, shaken and hit by his parents for almost his entire life.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Parents jailed over fatal abuse of 8-month-old son",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/parents-jailed-over-fatal-abuse-of-8-month-old-son"
+              "headline": "World needs ‘bridge builders’ to make the transition to new multipolar order: President Tharman",
+              "url": "https://www.straitstimes.com/singapore/politics/world-needs-bridge-builders-to-make-the-transition-to-new-multi-polar-order-president-tharman"
             },
             {
               "political": "center",
@@ -581,109 +547,45 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "news.google.com",
-              "headline": "Couple jailed more than 15 years each over fatal abuse of their baby boy",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3oyZ1lmM3VsRHk3Q0FoWkxJVm5uekZZS0NjbDE1U3Z4YXljU1pEdVc3Rm9abGhzWHdqRndLX3piV2hZUW5XVVJ0U3M1cEtuUHZMamVvTld3eDhNMFg5V0ppbmk4eS0xMkZEbTc3NDBHY3FuQ0hiTlJnaTN4bmhWQ253WVFpRFNUR1pzREpR?oc=5"
+              "headline": "'Bridge-builders' like Singapore, Sweden key amid risk of fragmented world order: President Tharman",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYWxFNU1veVJEODFDZGtFTDhEVVI4dHVWaWV1aW5WV0FOTExucnNaNUhqZk5EUWs3QVF3bUU5M09mZFJ1cjl4ekZiSjhQNm55OTdFUEhaWHlKMTBnUDNsUHhoMFpjMXFpRzlraF9VbU5ROHRNSGNuYzVJTVRRSmx3ZmhvT0ZPNkF1UVNta29rZUdMMlBnRmt5SUdJYmxjSi0ybFNlTnFYb2ZVcTdTY2NUU1dtMl9NQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "At least $83,000 lost in phishing scams linked to fake Simba websites since March: Police",
+          "neutralSummary": "Victims clicked on websites impersonating the telco listed among the top sponsored search results.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "At least $83,000 lost in phishing scams linked to fake Simba websites since March: Police",
+              "url": "https://www.straitstimes.com/singapore/at-least-83000-lost-in-phishing-scams-linked-to-fake-simba-websites-since-march-police"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Haze in Singapore: Air quality improves with normal PM2.5 readings across island",
-          "neutralSummary": "At 1pm, 24-hour PSI readings continued to hover in the moderate and unhealthy range islandwide.",
+          "neutralHeadline": "Prabowo accuses MSCI of trying to intimidate Indonesia after market rout",
+          "neutralSummary": "MSCI warned last week it was considering demoting Indonesia's equities to \"standalone\" market status,&nbsp;triggering a record-breaking market rout.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Haze in Singapore: Air quality improves with normal PM2.5 readings across island",
-              "url": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-lies-between-moderate-and-unhealthy-bands-overnight"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Prabowo accuses MSCI of trying to intimidate Indonesia after market rout",
+              "url": "https://www.channelnewsasia.com/asia/prabowo-accuses-msci-intimidate-indonesia-market-rout-6478796"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "Two men to be charged after woman loses over $23k to scammers posing as Harvey Norman, MAS staff",
-          "neutralSummary": "The 40-year-old victim handed over $3,500 in cash and around $20,000 in foreign currency and jewellery.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Two men to be charged after woman loses over $23k to scammers posing as Harvey Norman, MAS staff",
-              "url": "https://www.straitstimes.com/singapore/two-men-to-be-charged-after-woman-loses-over-23k-to-scammers-posing-as-harvey-norman-mas-staff"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Singapore, Sweden to boost cooperation in clean energy transition, public policy",
-          "neutralSummary": "The Lee Kuan Yew School of Public Policy signed agreements with two Swedish institutions.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Singapore, Sweden to boost cooperation in clean energy transition, public policy",
-              "url": "https://www.straitstimes.com/singapore/politics/singapore-sweden-to-boost-cooperation-in-clean-energy-transition-public-policy"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "China says APEC finance ministers agree to boost policy coordination",
-          "neutralSummary": "China says APEC finance ministers agree to boost policy coordination",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "China says APEC finance ministers agree to boost policy coordination",
-              "url": "https://www.channelnewsasia.com/east-asia/china-apec-finance-ministers-agree-boost-policy-coordination-6477976"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "China defends DeepSeek after US ban of its AI from government systems",
-          "neutralSummary": "Federal civilian agencies should remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT systems, the US Department of Homeland Security said.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "China defends DeepSeek after US ban of its AI from government systems",
-              "url": "https://www.channelnewsasia.com/east-asia/china-deepseek-us-ban-ai-government-systems-6477686"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "Ambani's US$3.2 billion Jio IPO attracts rapid bids in record Indian sale",
-          "neutralSummary": "Jio Platforms is home to India's biggest telecom company with more than 500 million subscribers, making it the world's second-largest telecom operator in a single country ​after China Mobile.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Ambani's US$3.2 billion Jio IPO attracts rapid bids in record Indian sale",
-              "url": "https://www.channelnewsasia.com/business/india-jio-platforms-ipo-opens-reliance-ambani-6476976"
-            }
-          ]
-        },
-        {
-          "id": "singapore-9",
           "neutralHeadline": "Two years into presidency, Indonesia’s Prabowo faces tough balancing act between ambitious promises and fiscal discipline",
           "neutralSummary": "As Indonesian President Prabowo Subianto&nbsp;enters his third year in office, observers say the challenge will be to translate his ambitious promises into tangible results while balancing public expectations with economic and political stability.",
           "versions": [
@@ -697,6 +599,86 @@
               "url": "https://www.channelnewsasia.com/asia/indonesia-president-prabowo-subianto-2-years-in-office-economic-gains-challenges-6474906"
             }
           ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Over 3,000 taxpayers made false claims for employment expenses; IRAS warns of misleading tax advice",
+          "neutralSummary": "IRAS said it had identified the taxpayers through ongoing compliance reviews.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Over 3,000 taxpayers made false claims for employment expenses; IRAS warns of misleading tax advice",
+              "url": "https://www.straitstimes.com/singapore/over-3000-taxpayers-made-false-claims-for-employment-expenses-iras-warns-of-misleading-messages"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Singapore rises to 14th spot in global rule of law ranking; 2nd for absence of corruption",
+          "neutralSummary": "It is among the few nations to see its score improve amid a decline in most countries.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Singapore rises to 14th spot in global rule of law ranking; 2nd for absence of corruption",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/spore-rises-to-14th-spot-in-global-rule-of-law-ranking-2nd-for-absence-of-corruption"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "Why is it difficult to identify companies linked to fires? How can S’pore’s haze law be strengthened?",
+          "neutralSummary": "Enforcement is limited by the cross-border nature of investigations and difficulties in collecting evidence.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Why is it difficult to identify companies linked to fires? How can S’pore’s haze law be strengthened?",
+              "url": "https://www.straitstimes.com/singapore/environment/why-is-it-difficult-to-identify-companies-linked-to-fires-how-can-spores-haze-law-be-strengthened"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "App to help diners with visual impairment at hawker centres among ideas at inaugural challenge",
+          "neutralSummary": "Named LetsGo, the app prototype will say “occupied table” or “empty table” when the user points their phone camera.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "App to help diners with visual impairment at hawker centres among ideas at inaugural challenge",
+              "url": "https://www.straitstimes.com/tech/app-to-help-diners-with-visual-impairment-at-hawker-centres-among-ideas-showcased-at-inaugural"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
+          "neutralHeadline": "Some S’pore vets see up to 15% increase in respiratory or eye-related cases during haze",
+          "neutralSummary": "Common symptoms of haze-related illnesses reported for pets include eye, skin and breathing problems.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Some S’pore vets see up to 15% increase in respiratory or eye-related cases during haze",
+              "url": "https://www.straitstimes.com/singapore/up-to-15-increase-in-respiratory-or-eye-related-vet-visits-in-singapore-during-haze"
+            }
+          ]
         }
       ]
     },
@@ -705,40 +687,67 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "What are the deal contours of India-New Zealand FTA?",
-          "neutralSummary": "The latest Free Trade Agreement to come into force has several advantages for India in terms of trade, investment, and the mobility of students, while protecting India’s sensitive sectors",
+          "neutralHeadline": "No Jantar Mantar protest call until it remains de-notified: CJP's Saurav Das, Ashutosh Ranka to court",
+          "neutralSummary": "CJP leaders Saurav Das and Ashutosh Ranka have assured that they will not make any calls for protest at Jantar Mantar until it remains de-notified.&nbsp;",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "What are the deal contours of India-New Zealand FTA?",
-              "url": "https://www.thehindu.com/business/Economy/what-are-the-deal-contours-of-india-new-zealand-fta/article71606245.ece"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "'No More Jantar Mantar Protest Calls': CJP's Saurav Das, Ashutosh Ranka Give In Writing To Court",
+              "url": "https://www.ndtv.com/india-news/no-jantar-mantar-protest-call-cjp-leaders-saurav-das-ashutosh-ranka-give-in-writing-to-court-12216617#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "No Jantar Mantar protest call until it remains de-notified: CJP's Saurav Das, Ashutosh Ranka to court",
+              "url": "https://www.hindustantimes.com/india-news/no-jantar-mantar-protest-call-until-it-remains-de-notified-cjps-saurav-das-ashutosh-ranka-to-court-101792593805863.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Live Law",
+              "initials": "LL",
+              "domain": "news.google.com",
+              "headline": "CJP Leaders Saurav Das, Ashutosh Ranka Undertake Not To Call For Jantar Mantar Protest Until It Remains...",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdThGS0VKZ29QXzROLURfSV9wWGR3cDVPLUFxb2NKSUJoWjR1XzJ3Y3pqUXY3bC12UnZ5am9TQjhZZkI1U254WWhoU0hhbmpiSGFqaHAxcHMtUHRYOXhfR2x4bXNJWFQzdWMyRWJsWmJZb09WNjZ2SnQzMk9lUGNlZjB6WnhneElwaHlmSDZUV0RxdVZRNG54S0U2V0ZDdFBKdnpSd0E1Rm1acEFzcTczY2NMWGQ0SVRjR2ktNWZ0ZlRpTjdGRGpyWEV3czloR05uZ0ZzV0VOdmFpS2VqT0V5VW03OGRULVF5MFBzSNIB8gFBVV95cUxNOGptSXVqN2tUb3JYNGpUYk1QSFE0NVBTRkdvY2otUmRNdDdCeW1zcmgybUtCV0hFRnl0RlFIVFVvRGc4YmtKbnNUOHRjb0hrVF94dWZnT3BVZjRMUnViYWtMSnZwbUEzT2dHeU5ZeHNXTUlDMFI5NjNVcW5pcGNIbXI3VTRhRkNBRERZeUF5U1pBYWI0aW1ZMndra3FsUXotTDJ3RDJiczZ6RXpjR2Eta3RNdHAtdWJSREtiZUhqaG5weGVqcUw5cFl1QkdEQkZPby1PSnh1UVNmTXdZRFlpQzduUWhKT2Y4QWNkUGJXWVZ0Zw?oc=5"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi",
-          "neutralSummary": "Rubio is on a two-day visit to India",
+          "neutralHeadline": "AP municipal polls: Supreme Court orders EC to defer publication of final candidates list after YSR Congress alleges violence",
+          "neutralSummary": "AP municipal polls: Supreme Court orders EC to defer publication of final candidates list after YSR Congress alleges violence&nbsp;&nbsp;Bar and BenchCourts' Hands Aren't Tied To Interfere When Free & Fair Elections Are Polluted By Unconstitutional Or...&nbsp;&nbsp;Live LawULB polls in Andhra Prades",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "'US' Pakistan Ties Will Never Come At India's Expense': Marco Rubio Assures Delhi",
-              "url": "https://www.ndtv.com/world-news/us-pak-ties-will-never-come-at-indias-expense-marco-rubio-assures-delhi-12213742#publisher=newsstand"
+              "tone": "pessimistic",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "ULB polls in Andhra Pradesh: SEC orders strict implementation of Supreme Court’s directions",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/ulb-polls-in-andhra-pradesh-sec-orders-strict-implementation-of-supreme-courts-directions/article71608105.ece"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Bar and Bench",
+              "initials": "BA",
+              "domain": "news.google.com",
+              "headline": "AP municipal polls: Supreme Court orders EC to defer publication of final candidates list after YSR Congress alleges violence",
+              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSXJsazB4Rk8wcVN0RmpqTFNJTW1oYjJnNEthcmhqNm1CbjBId1ppRkJHWUptejNJQ2xHVmQ1UGdOZVgzQ3JNczVYX2lRcS1KR1EwSjQwS2o0NHVDdnowaHRZT1MzUVkzX3IyeEFDbFU5N3A2UUtyZ1NlWndnZW9mV21iVXFUbmJOZmtMMzJqOWo2OTZhNFluajhxcGhMbnRxdE5qOWdKWHRwN1RqeGtrR1lsd1ZORkw3UXFBWXU0UkN4OWVkMjNTQ1ZPR2tLcXlGQVBXbTVDVEpOX0NVbkplMlVsTnNFTEh2MUgzSVJn0gH7AUFVX3lxTE5Da280LW5iUnhmZzdHYXdSdEt2RGhBNi1NWmFOdzh0eUhSTlo5V2pIcUx4dGo1V3lSSnloeG5BZzBGdnFyNFJINjExZXAxOUxvX2tWVTh3OU5EcFZnQnZCSlZfVlI2X2toTHNhcTF5TlFFRXpxMWpaTkxHQmNBanpacjdXYWE5ekFpOW9iSzlPbl85cmYwY3lRQm1JQ2FmTVU4Z2dNSGx6bTQ2RGxpT0FvR1VzdWlTdFVpZDhiVnl5MFhsdktFTDNoQmpMeExiU3BrQ2RqcUpjRkxqWnFTZk1RbmZhSXBPaGs4eF9mdjY4ZWstS3pob1pkX28w?oc=5"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Schools in Chennai, four other Tamil Nadu districts declare holiday amid heavy rainfall",
-          "neutralSummary": "Rains continued to lash parts of the state through Tuesday night and continued on Wednesday morning, with parts of Chennai witnessing waterlogging.",
+          "neutralHeadline": "Israel Had Planned To Bomb Iran In October, Stopped Because Of Trump: Report",
+          "neutralSummary": "The bombing was supposed to be more intense than the February 28 attacks.",
           "versions": [
             {
               "political": "left",
@@ -746,124 +755,106 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Schools In Chennai, Nearby Districts Closed Due To Heavy Rain, Flood Risks",
-              "url": "https://www.ndtv.com/chennai-news/schools-in-chennai-nearby-districts-closed-due-to-heavy-rain-flood-risks-12213506#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Schools in Chennai, four other Tamil Nadu districts declare holiday amid heavy rainfall",
-              "url": "https://www.hindustantimes.com/india-news/school-holiday-chennai-rains-tamil-nadu-districts-imd-forecast-latest-chennai-news-101792553117097.html"
+              "headline": "Israel Had Planned To Bomb Iran In October, Stopped Because Of Trump: Report",
+              "url": "https://www.ndtv.com/world-news/israel-had-planned-to-bomb-iran-in-october-stopped-because-of-trump-report-12216972#publisher=newsstand"
             }
           ]
         },
         {
           "id": "india-4",
-          "neutralHeadline": "'Pay community dividend': Trump's message to companies building massive data centres",
-          "neutralSummary": "Donald Trump has proposed that large data centres should generate their own electricity and sell surplus power. He emphasized the potential for lower electricity prices through this model for local communities and the grid. Companies are encouraged to provide financial benefits to increase acceptanc",
+          "neutralHeadline": "GRAP-1 invoked in Delhi-NCR: What is banned, what is allowed and which curbs start from November 1",
+          "neutralSummary": "GRAP-1 invoked in Delhi-NCR: What is banned, what is allowed and which curbs start from November 1&nbsp;&nbsp;The Times of IndiaGRAP-1 curbs imposed in Delhi-NCR as air quality slips into ‘poor’ category&nbsp;&nbsp;The HinduPollution Curbs Under GRAP-1 Imposed In Delhi, Parking Charges To Be Doubled",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Pollution Curbs Under GRAP-1 Imposed In Delhi, Parking Charges To Be Doubled",
+              "url": "https://www.ndtv.com/india-news/delhi-air-quality-grap-1-pollution-curbs-under-grap-1-in-delhi-ncr-as-air-quality-drops-to-poor-12214729#publisher=newsstand"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Pay community dividend': Trump's message to companies building massive data centres",
-              "url": "https://timesofindia.indiatimes.com/world/us/pay-the-community-a-dividend-trumps-message-to-companies-building-massive-data-centres/articleshow/135083496.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Trump calls on data centre cos to pay a 'dividend'",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/donald-trump-make-deals-and-get-them-built-calls-on-data-centre-companies-to-pay-a-dividend-artificial-intelligence/articleshow/135083295.cms"
+              "domain": "news.google.com",
+              "headline": "GRAP-1 invoked in Delhi-NCR: What is banned, what is allowed and which curbs start from November 1",
+              "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVjNRTmVfblVEMS03NFk5cEJsRjhvOWE0R1hQeVZhSld6c1ltYmlSeUVBZGRneGFacGM5MXJGWTg5bmhnSk01cmUxbHhFY2Zjd29jbVZkQnVGVHhrQ3E0SHFCN1kyZ2hUSEowOWtGTG5YZEFsX0VjTG5IcWN3cUg5ZVQtQ2taZWFZRmRvRUZQUjhjbTgyQmQ3OTJ4VXRSMEdRZ2EtZFpBZlhmamFudXI5dUhiQU13T0U4SHZ0cWNfb2gwYWNUZ19QLXJJT3RtOXV3Z1QxUURscUVVRXV2LXBHcGRKMUtJTjA4ZmVBQXBQLTNibHJObDRndWdpX3d3Z9IBgwJBVV95cUxOYzE0UDZDdnFZWGIzaUxLLUxMelQ5bXFqdG1tbGs0S2tDdTVYZ2k1eXBDZFhUR0hrcnd2dVluTUcyRU1GblQxOFk5Zmc4aWh6aXZ0Vjd4Z042QW1PTjV0TTVpSHp3Wm8wVGJQZjFtWFBnN2VobE1hUF9HT2FjWUwxdENXQ2FkeGZKRFByMUNRaFRWRlBGakxXeGh2OUhWbko1Y3JhbHhYRFZxREp1TUJUQUU0VVNyaW83NWFaaXNPREs4c2Y0ZDQzbHIwWndqdHlEdTlmaUtvOEFPSVR2R1I0dk8wM2JPWHhBNV9DclRZM1A4SGlpOXlKcEpCT3RmTl9CYmE0?oc=5"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Influencer with 1.3 million followers dies by suicide in Chennai",
-          "neutralSummary": "V Harish, a 27-year-old social media influencer, was found dead in Chennai after alleged cyberbullying. His father accused another influencer, Jason Samuel, of causing severe mental distress through defamatory posts. Harish's online channels were reported and blocked multiple times, contributing to",
+          "neutralHeadline": "Trump's son 'opposed' Iran war, believed US should avoid another Middle East conflict",
+          "neutralSummary": "Donald Trump Jr expressed private opposition to the war with Iran, differing from his father's military approach. Despite sharing his views with close associates, he has avoided public disagreements with his father. The conflict has revealed divisions within the MAGA movement on foreign intervention",
           "versions": [
             {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Influencer with 1.3 million followers dies by suicide in Chennai",
-              "url": "https://timesofindia.indiatimes.com/city/chennai/influencer-dies-by-suicide-in-chennai-father-alleges-cyberbullying/articleshow/135074460.cms"
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Trump's Son Warned Him Against Dragging US Into War With Middle East: Report",
+              "url": "https://www.ndtv.com/world-news/donald-trumps-son-donald-trump-junior-warned-him-against-dragging-us-into-war-with-middle-east-report-12216513#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Social media influencer with 1.4 mn followers found dead in Chennai; suicide suspected",
-              "url": "https://www.hindustantimes.com/india-news/social-media-influencer-with-1-4-mn-followers-found-dead-in-chennai-suicide-suspected-101792556631378.html"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Trump's son 'opposed' Iran war, believed US should avoid another Middle East conflict",
+              "url": "https://timesofindia.indiatimes.com/world/us/trump-jr-opposed-fathers-iran-war-believed-us-should-avoid-another-middle-east-conflict-report/articleshow/135097565.cms"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "'Damning photos': Oppn targets Hardeep Puri's 'private meeting' pic with Epstein",
-          "neutralSummary": "Leaders from Congress, TMC, and NCP have voiced strong disapproval of Hardeep Singh Puri for his dealings with Jeffrey Epstein. Puri has contended that his interactions came during a professional delegation after his ambassadorial tenure. Critics are calling for clarification about the substance of",
+          "neutralHeadline": "US Secretary of State Marco Rubio meets Mukesh, Anant Ambani at Jamnagar refinery",
+          "neutralSummary": "The visitors were given a tour of the world-class refinery complex, offering a first-hand view of its scale, advanced technology and integrated operations.",
           "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Damning photos': Oppn targets Hardeep Puri's 'private meeting' pic with Epstein",
-              "url": "https://timesofindia.indiatimes.com/india/damning-photos-opposition-targets-hardeep-puris-private-meeting-pic-with-jeffrey-epstein/articleshow/135083247.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Opposition question Puri's alleged Epstein meeting",
-              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/this-is-the-beginning-opposition-leaders-question-hardeep-puris-alleged-meeting-with-jeffrey-epstein/articleshow/135083320.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "2 injured in explosion at under-construction building in Bengaluru",
-          "neutralSummary": "At least two construction workers were injured in an explosion at a building site in Bengaluru. The incident occurred on Jarmia Road and has raised security concerns. Following the explosion, officials from various divisions inspected the site to assess potential risks. The injured workers were admi",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "2 injured in explosion at under-construction building in Bengaluru",
-              "url": "https://timesofindia.indiatimes.com/city/bengaluru/2-injured-in-explosion-at-under-construction-building-in-bengaluru/articleshow/135083975.cms"
-            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "Police investigating ‘suspicious’ explosion at under-construction Bengaluru building",
-              "url": "https://www.hindustantimes.com/india-news/bangalore-blast-police-investigating-suspicious-explosion-at-under-construction-bengaluru-building-101792563572374.html"
+              "headline": "US Secretary of State Marco Rubio meets Mukesh, Anant Ambani at Jamnagar refinery",
+              "url": "https://www.hindustantimes.com/india-news/us-secretary-of-state-marco-rubio-sergio-gor-meets-mukesh-anant-ambani-at-jamnagar-refinery-101792602520991.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Marco Rubio arrives in Jamnagar to visit Reliance refinery",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTlBVlh5b19pWXd6RlNhMjNfdUwyenBkVFd2ajA5djhLRlJuZ01mMlVObl9oRExIV3lHNzhzZm5ueGZRWGhqcWxYdFk0V21reGZtb19uZk9scjYyajZxMklRd1V3THlzdENvcXBBblVfVmRMd0ZuTHU1NnlsZ0N4TzZ3WDZNYTB1cDlYQW1DTEk2ZWhNU1duWnZTa1dxMVdtRkJvOV8tQVR6dUZzek41QUFVeFNCXzjSAb4BQVVfeXFMUHVTUndkR3h4Z0Y0Ri1saE1Ua3V1ZGdwNnVib2dPUzVSWHVPMGRrV1VsQjF5TXlKWWRveWFPTFRzTGcza3FHZXNrbHZVa3d3WkxVRGhtdGszYlBhWk1ud1QwalYzOGpFaEtWUk03VGx5U2l3OWJaalI2VVJ1dXM2VGJ3UzBmU2dMWlNsRmN1bVlhc25SWjBZam9Ub3RCZzQzOUR5bnJqTmxGdWNfQWZrOFU4RVJxSVl1dU00UTU3QQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "India-Australia joint military exercise begins in capital",
+          "neutralSummary": "India-Australia joint military exercise begins in capital",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "India-Australia joint military exercise begins in capital",
+              "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/india-australia-joint-military-exercise-begins-in-capital/article71608037.ece"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Eight web security keys of firm used by Govt. and PSUs leaked",
-          "neutralSummary": "Many government websites, including the Aadhaar issuer UIDAI and the income tax filing portal, use eMudhra certificates or other technology from the firm; no indication that the firm’s root certificates itself — which sit above the tier that was leaked — have been compromised",
+          "neutralHeadline": "CMFRI launches open-sea mussel longline farming unit at Vizhinjam",
+          "neutralSummary": "CMFRI launches open-sea mussel longline farming unit at Vizhinjam",
           "versions": [
             {
               "political": "left",
@@ -871,15 +862,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Eight web security keys of firm used by Govt. and PSUs leaked",
-              "url": "https://www.thehindu.com/sci-tech/technology/eight-web-security-keys-of-firm-used-by-govt-and-psus-leaked/article71606342.ece"
+              "headline": "CMFRI launches open-sea mussel longline farming unit at Vizhinjam",
+              "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/cmfri-launches-open-sea-mussel-longline-farming-unit-at-vizhinjam/article71608419.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "‘Mookuthi Amman 2’ - World Of Mahasakthi teaser: Nayanthara’s titular Goddess takes on new, powerful foes",
-          "neutralSummary": "Directed by Sundar C, ‘Mookuthi Amman 2’ is set for a release in theatres on November 6 during Deepavali",
+          "neutralHeadline": "Local body polls in Andhra Pradesh: YSRCP welcomes Supreme Court directions, urges SEC to ensure free and fair elections",
+          "neutralSummary": "Sajjala urges the State Election Commissioner to ensure CCTV surveillance at the nomination centres",
           "versions": [
             {
               "political": "left",
@@ -887,8 +878,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "‘Mookuthi Amman 2’ - World Of Mahasakthi teaser: Nayanthara’s titular Goddess takes on new, powerful foes",
-              "url": "https://www.thehindu.com/entertainment/movies/mookuthi-amman-2-maha-sakthi-teaser-nayanthara-sundar-c-regena-cassandrra-hiphop-tamizha/article71465551.ece"
+              "headline": "Local body polls in Andhra Pradesh: YSRCP welcomes Supreme Court directions, urges SEC to ensure free and fair elections",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-pradesh-ysrcp-welcomes-supreme-court-directions-urges-sec-to-ensure-free-and-fair-elections/article71607735.ece"
             }
           ]
         }
