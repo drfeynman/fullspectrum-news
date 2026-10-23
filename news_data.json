@@ -1,13 +1,106 @@
 {
-  "generatedAt": "2026-10-23T06:41:21.529508+00:00",
+  "generatedAt": "2026-10-23T17:47:49.784016+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Strong earthquake strikes China’s remote Tibet region",
-          "neutralSummary": "At least 16 people have died and dozens more have been injured after a major earthquake measuring 7.0 on the Richter scale shook China’s remote Tibet region on Thursday, state media said. Hundreds of houses collapsed in the tremor.",
+          "neutralHeadline": "West Bank: Extensive military operation 'on the way', Netanyahu says",
+          "neutralSummary": "Israeli Prime Minister Benjamin Netanyahu on Friday warned of an imminent large-scale military operation in the West Bank and vowed to displace some residents of Hebron after Palestinian gunmen killed two soldiers in an attack.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Netanyahu's Office Orders Closure Of West Bank After Soldiers Kill 2 Men Behind Alleged Attack",
+              "url": "https://www.huffpost.com/entry/israel-west-bank-attack_n_6adb148ee4b096020fa11f8d"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+              "url": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Netanyahu vows West Bank military operation after attack kills two Israeli soldiers",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSmJyQXhhU1ZfQUJvRVp4cENkNzhMZFl3ajF2UjByeFJGMzdmY2VUdEI1ekRFV1EzZE5KNERXOVFYSTFzckZXYUN4QXc5ZC1CUFl5cGEzOTZ3WnpGa2tLV3NKYW9lZkFGMkFzUl9tekZnM213ZXJOdnJwaTBLMlhlRU5wZEFvYWN6OG9fSDRZMzM0dEw5SFZZX0oza0poNDlCNzhuTlBXSE96UlEyWWtpNkRGZjcySWV6VGx0NndLWkM0c0E?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "West Bank: Extensive military operation 'on the way', Netanyahu says",
+              "url": "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "🔴 Deadly shooting west of Paris ‘clearly terrorist’ attack, French interior minister says",
+          "neutralSummary": "🔴 Deadly shooting west of Paris ‘clearly terrorist’ attack, French interior minister says",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+              "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
+              "url": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "🔴 Deadly shooting west of Paris ‘clearly terrorist’ attack, French interior minister says",
+              "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+          "neutralSummary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after rea",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+              "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+          "neutralSummary": "Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody itTo Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election.But the far-r",
           "versions": [
             {
               "political": "left",
@@ -15,7 +108,57 @@
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "Magnitude-7 earthquake hits China’s Tibet, killing at least 16 and destroying hundreds of homes",
+              "headline": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+              "url": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+              "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Meghan ‘deeply distressed’ by report alleging her dad possessed child sexual abuse images",
+          "neutralSummary": "Meghan ‘deeply distressed’ by report alleging her dad possessed child sexual abuse images&nbsp;&nbsp;NBC NewsDuchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father&nbsp;&nbsp;The GuardianMeghan did not let her father see her children to protect them&nbsp;&nbsp;BBCM",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+              "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "NBC News",
+              "initials": "NN",
+              "domain": "news.google.com",
+              "headline": "Meghan ‘deeply distressed’ by report alleging her dad possessed child sexual abuse images",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjV2TGV5TGZWLWlWeFFRSl9IZHdocVBRUXgzR1Q2bzgtU251WGkydmlJa204dWNzbmtlSl9iMWV4YVJxMGNmaFlJbUxQSVdXRGRZTUUxSnl6WnBBRjFVNkxZcXlzS3hRbWJYb3k3SzFGY1hBQkJTejQtOUY3WXM1N2RENG1KYW9uYmVTNkpkTC12OUE3am1YaDAxczk4djliNnlfSHljQnFBYW94SW5EYVhNLXhfS1VQSW1nb1NGMkQwZw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
+          "neutralHeadline": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+          "neutralSummary": "Search and rescue efforts under way after quake strikes region’s north, with at least seven aftershocks recordedA magnitude-7 earthquake has hit Tibet, killing at least 16 people, injuring 54 and destroying hundreds of homes in the northern regional city of Nagqu, official media have said.Search and",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
               "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
             },
             {
@@ -26,147 +169,13 @@
               "domain": "bbc.co.uk",
               "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
               "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Strong earthquake strikes China’s remote Tibet region",
-              "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
-          "neutralSummary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist mov",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
-              "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Alberta Voters Reject Move Toward Independence In Referendum Backing Canadian Unity",
-              "url": "https://www.huffpost.com/entry/alberta-canada-separation-vote_n_6ad6fc51e4b061c2be45e47c"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
-          "neutralSummary": "Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensionsPropaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un,",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
-              "url": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "North Korea says it will resume propaganda broadcasts across border into South Korea",
-              "url": "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Deadly Fire At Canada Military Base Was Caused By Live Grenade Exercise, Army Says",
-          "neutralSummary": "High winds then propelled the blaze across the army base in Wainwright, overwhelming dozens of soldiers.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Deadly Fire At Canada Military Base Was Caused By Live Grenade Exercise, Army Says",
-              "url": "https://www.huffpost.com/entry/deadly-fire-military-base-canada-grenade_n_6ada89e7e4b096020fa0cf6e"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Grenade exercise sparked deadly fire at Canada military base, army says",
-              "url": "https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Australian politician who was hit by car has lost both legs",
-          "neutralSummary": "Australian politician who was hit by car has lost both legs&nbsp;&nbsp;AP NewsAustralian politician who was intentionally hit by car loses both her legs&nbsp;&nbsp;CBS NewsAustralian MP Helen Haines has both legs amputated after car ramming attack&nbsp;&nbsp;DW.com‘We can’t just pretend that everyth",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Australian Politician Who Was Hit By Car Has Lost Both Legs",
-              "url": "https://www.huffpost.com/entry/australia-lawmaker-injured_n_6ad8767ee4b04f71533db123"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Australian politician who was hit by car has lost both legs",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVd2UnVhbVJ3OC1vUXFFU2RfZ1NTNU1uY2xPNFpkVi12X3RIcHpzM2NUcWZBNjJxNkJsRHJTZzY1bEVfanczWDhxVGlaTnNnVUFOVDZzc0RabjJ3ZTN4MzhyUmdYOW5FSE9QTkRVdDFQYW1mdVNfMGd6cW01TExoUnFlSjVFX1l2UWJhcG5nWVFQckNuUm9EUml4WFM?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Trump says Musk has restored access to Ukraine's Starlink network",
-          "neutralSummary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
-              "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
-              "url": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-7",
-          "neutralHeadline": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-          "neutralSummary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+          "neutralHeadline": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+          "neutralSummary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
           "versions": [
             {
               "political": "left",
@@ -174,24 +183,49 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-              "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss"
+              "headline": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+              "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "Al Jazeera",
               "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Trump backs Ramaswamy ad featuring rival Amy Acton’s estranged mother",
-              "url": "https://www.aljazeera.com/news/2026/10/23/trump-backs-ramaswamy-ad-featuring-rival-amy-actons-estranged-mother?traffic_source=rss"
+              "domain": "news.google.com",
+              "headline": "At least seven killed after gunmen open fire at church in Jordan",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWDJEUlpqMVFqM21NUFNVNzdrTHlkNlJIT2FwbExlZm5FR01ZWEpFdGRFMWltUDRPSHlseFpSanVYc0EtU3ZZcjJoR3dfMnJuN0drRkx4UlZzQ1RtOUFsd2h1NWtZQmdiYmNCU256VzFTakYydExHOGRoTGg5ZzBCcDM5NVA1LUtkcHNuV1JCcDB4WXM4ZnBqY3V6Y0x3NkF6ak9KbVpqVzFHQdIBrwFBVV95cUxNbm5hVF9hZnBmYnBCS2haUGJ6akNiOVdnSEl0ekdmYUlTbnZZOEpHakE3ZWhvTnNXRHM4R0JHQUVIUkJPdmJsY0NSckdxclZiRGtaVS1tdXQtTkNCUExKdXZTandkWUNzTjdTak5iNmwyQmp1aXJQRENpbGtIUmxQaVpvbTRMX2FTamZNeG9fR2xZXzV2cUFwbVJPWXRYLTdfR3JzRUNSRlZ0RllWZXdB?oc=5"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-          "neutralSummary": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs.",
+          "neutralHeadline": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump",
+          "neutralSummary": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump&nbsp;&nbsp;ReutersMelania Trump helps forge a ceasefire deal in Ukrainian city, White House says&nbsp;&nbsp;The Seattle TimesMelania Trump Brokered Ceasefire to Allow for War Zone Evacuation&nbsp;&nbsp",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+              "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+          "neutralSummary": "Blistering record heat in Europe this summer helped kill more than 50,000 people, with nearly two-thirds of that death toll blamed on human-caused climate change, a new study found.",
           "versions": [
             {
               "political": "left",
@@ -199,33 +233,8 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-              "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Macron blames ‘seditious’ far left for unrest as France bans some protests",
-          "neutralSummary": "Macron blames ‘seditious’ far left for unrest as France bans some protests&nbsp;&nbsp;Al JazeeraFrance's Macron tightens curbs on protests, blaming hard left for unrest&nbsp;&nbsp;ReutersFrance’s devastation and its aftermath&nbsp;&nbsp;The EconomistIs Paris Burning?&nbsp;&nbsp;The American Prospect",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Macron blames ‘seditious’ far left for unrest as France bans some protests",
-              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzctQk1uZFhWUFRqbU82OWlMREFobVRtbFNyS1lKUVlIN3l5WThKR21lNmI3dFFxbGNNckE5Vm02Nng3MlUxWTE2dWowT0dweWpZRWp3eWdCYTVlM2dxZmF1UjFVU3MyeExLQ3lRSkVVam9qSGpRUk11MF9uMmxYUEpLQU9MUHFzVHVETDNjdHVXYjVtaFoxdFE4VzJCSWltY1FneWhXamRKSVpLM2ZxU9IBtgFBVV95cUxQOU1kbVB6bzV5am1qa1BWWnI4T3V4a1RGcDdBNksyXzhxdmlhTi1xdVJZN0ZKajY3a2FOdlU3UzFhQkVXU2xvelVocXNldlJMNDdSQ0Q3R0xuZXFuYV9wUTYyY0l3N0RQLXd0eUJERThhcTN5SDRLRzZSTFVad1M4eFR5R1YxNWg2MEgzRGlyY0RXN0I3S2lZbF95SWF0MUdhV2tEc0NnczdYQjByQnk0RGR1ajM3QQ?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "France's Macron blames protests on 'ultra-left groups whose aim is to bring down the Republic'",
-              "url": "https://www.foxnews.com/world/frances-macron-blames-protests-ultra-left-groups-aim-bring-down-republic"
+              "headline": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+              "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths"
             }
           ]
         }
@@ -236,8 +245,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search",
-          "neutralSummary": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search&nbsp;&nbsp;PBSIlhan Omar is not the Minnesota congresswoman’s 'real name': sources&nbsp;&nbsp;Fox NewsIlhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out&nbsp;&nbsp;BBCIlhan Omar respon",
+          "neutralHeadline": "Ex-FBI officials charged with lying to Congress about Hunter Biden probe",
+          "neutralSummary": "Two former FBI officials are facing charges for lying to Congress about their involvement in the agency’s investigation into Hunter Biden’s laptop. Nikki Floris and Bradley Benavides, who worked in the FBI’s Foreign Influence Task Force (FITF) in 2019 and 2020, were taken into custody Friday, FBI Di",
           "versions": [
             {
               "political": "left",
@@ -245,119 +254,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Ilhan Omar Reveals Details Of Raid At Her Home",
-              "url": "https://www.huffpost.com/entry/rep-ilhan-omar-shares-details-on-fbi-raid-says-she-will-move_n_6ad9f5ebe4b04f71533f7efc"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Can Trump deport Ilhan Omar?",
-              "url": "https://www.vox.com/podcasts/507328/ilhan-omar-trump-immigration-investigation-denaturalize-deport"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "What to Know About the Investigation Into Ilhan Omar’s Citizenship",
-              "url": "https://www.nytimes.com/2026/10/22/us/ilhan-omar-federal-investigation-immigration.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "PBS",
-              "initials": "P",
-              "domain": "news.google.com",
-              "headline": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search",
-              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRExSWTdjUmgzREVtRVJZVk4taWtYeno3LVJOY1prTUx1T3V3LThsbTVRWU16TGswSG9pdjJoM0lpbkFCQk5FZzkycDlVZkNJeDZkR2NTVllZTnFFQ3Y1dDIwRjk5VXdMS2ZVNTFTVUE0YmdxYllmV1plSjBmTmxVQ19lXzVWNWRwRzN5QjY2UnV4LXBCOG9TRHpwZWNuMGs3dUNZY0tDemc2a29Bdk9Rc0JURFYxaHJoQVJPd2g1SdIBxAFBVV95cUxOS09mTmxkZTFKNDBIdXA0Nm1fcEphdWNNSHE5S0FreDB5N2lFR2VWNzRQaTBaNmUwZkhpVWxybFM0a1UxanlUSkg3bWhzLTNBT0NVSV94OFh0WGRkRGNPZ0ktYWxZYjdiZ0pCblZ5TXAwcmxYaV85eHZFNjNOaV9RYVJLNS0zLUJBbjFtQVdLMFdoeUJPWS1sWGduMFVFeWRHb25VNlRHWEp4dGNLQ1pmVlZvYlJTcTJsUGNBMDZJdnZpRTJi?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "The Ilhan Omar Case Just Got A Lot Uglier",
-              "url": "https://www.dailywire.com/news/the-ilhan-omar-case-just-got-a-lot-uglier"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Supreme Court rules NH can block voters from using student IDs",
-          "neutralSummary": "Supreme Court rules NH can block voters from using student IDs&nbsp;&nbsp;The HillSupreme Court Allows Blanket Ban on Student IDs at Polls in New Hampshire&nbsp;&nbsp;The New York TimesSupreme Court sides with GOP in New Hampshire student ID voting fight&nbsp;&nbsp;YahooSupreme Court backs Republica",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Supreme Court Allows Blanket Ban on Student IDs at Polls in New Hampshire",
-              "url": "https://www.nytimes.com/2026/10/22/us/politics/supreme-court-new-hampshire-election-student-id.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Supreme Court rules NH can block voters from using student IDs",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZmY5cmRBamZMQjVYQlFKZDR2T0VyRkxYS0xDQ19HNEpMWTZMY2prSTJ1cGxUQTVNZDBDZU9MUGxYYzNOMkFtM19kelJiN3VYNEpvZmt6M1hlN0pDa251X0JlYWxLVlFRaVhTWDViN21uZ2ZybkNMQkpzZ2c0Y3dYYUhVVEZnb3V5UnE0ZVpiY9IBlAFBVV95cUxPNXd6aTF2YktIVUt4Uml4RWlxdzBLcl8yTm4xcEY0TnhVS3BDZWN0QmtaT2RnQjNTVTZUdnhlaklLemx4NlBXUUVlLWtTd0lielV4eU5MYjJsN2otX2pkc0w5Um45Z3JMbS1fZk1pMVc0REhEY2JLcVFYcFg5NEFVRHdJNUtXYU1HendSMXBwNmpxMGh6?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Supreme Court allows New Hampshire to bar student IDs for voting",
-              "url": "https://www.washingtonexaminer.com/news/supreme-court/4776748/supreme-court-new-hampshire-student-id-voting/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
-          "neutralSummary": "The call from the president about the Starshield network came after officials in Ukraine reported that they found new limits on the use of military drones in their war against Russia.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
-              "url": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Trump Steps In With Phone Call As Ukraine Battles Musk’s Starlink Restrictions",
-              "url": "https://www.dailywire.com/news/trump-makes-a-call-as-ukraine-battles-musks-satellite-restrictions"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "The Walls Are Closing In On Donald Trump (And Elon Musk)",
-          "neutralSummary": "Even Trump’s Hail Mary attempts to disrupt the midterms are falling well short.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "The Walls Are Closing In On Donald Trump (And Elon Musk)",
-              "url": "https://www.huffpost.com/entry/walls-closing-donald-trump-elon-musk_n_6ad90902e4b04f71533e5490"
+              "headline": "2 Ex-FBI Officials Charged With Making False Statements About Hunter Biden's Laptop",
+              "url": "https://www.huffpost.com/entry/biden-laptop-fbi-officials-charged_n_6adb7d0ee4b096020fa16325"
             },
             {
               "political": "left",
@@ -365,24 +263,8 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Trump merchandise stores are closing: 'He has peaked'",
-              "url": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "DOJ asks appeals court to intervene for California mail-in ballot lawsuit",
-          "neutralSummary": "The Department of Justice (DOJ) on Thursday asked an appeals court to intervene in its lawsuit against California to temporarily block the state from counting more than 20,000 mail-in ballots cast by what the Trump administration claims are from non-U.S. citizens. The request, made to the Ninth U.S.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Administration Asks Appeals Court to Intervene in California Mail Ballot Suit",
-              "url": "https://www.nytimes.com/2026/10/22/us/politics/trump-california-mail-ballot-lawsuit.html"
+              "headline": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
+              "url": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop"
             },
             {
               "political": "center",
@@ -390,24 +272,8 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "DOJ asks appeals court to intervene for California mail-in ballot lawsuit",
-              "url": "https://thehill.com/regulation/court-battles/6167264-doj-blocks-california-mail-in-ballots/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "What Dueling Visits by Ocasio-Cortez and Manchin Say About Maine’s Senate Race",
-          "neutralSummary": "Senator Susan Collins, a Republican in a tight race, is keying her closing pitch to the middle, while her progressive challenger, Troy Jackson, is seeking to excite the left.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "What Dueling Visits by Ocasio-Cortez and Manchin Say About Maine’s Senate Race",
-              "url": "https://www.nytimes.com/2026/10/22/us/politics/maine-aoc-jackson-collins-manchin-senate.html"
+              "headline": "Ex-FBI officials charged with lying to Congress about Hunter Biden probe",
+              "url": "https://thehill.com/homenews/administration/6168640-former-fbi-officials-charged-lying-congress/"
             },
             {
               "political": "right",
@@ -415,83 +281,244 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Fox News Poll: Nail-biter in Maine Senate race",
-              "url": "https://www.foxnews.com/politics/fox-news-poll-nail-biter-maine-senate-race"
+              "headline": "Ex-FBI officials arrested in Hunter Biden laptop probe as testimony comes under scrutiny",
+              "url": "https://www.foxnews.com/politics/ex-fbi-officials-arrested-hunter-biden-laptop-probe-testimony-scrutiny"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "FBI officials who covered up Hunter Biden laptop charged with lying to Congress",
+              "url": "https://nypost.com/2026/10/23/us-news/fbi-officials-who-covered-up-hunter-biden-laptop-charged-for-lying-to-congress/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Former FBI Officials Charged With Lying About Hunter Biden Case",
+              "url": "https://www.dailywire.com/news/former-fbi-officials-charged-with-lying-about-hunter-biden-case"
             }
           ]
         },
         {
-          "id": "us-7",
-          "neutralHeadline": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
-          "neutralSummary": "The details of the inquiry remain unclear, but it is one of the rare instances in which a Trump ally or appointee has been investigated for potential wrongdoing during the president’s second term.",
+          "id": "us-2",
+          "neutralHeadline": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump",
+          "neutralSummary": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump&nbsp;&nbsp;ReutersMelania Trump helps forge a ceasefire deal in Ukrainian city, White House says&nbsp;&nbsp;The Seattle TimesMelania Trump Brokered Ceasefire to Allow for War Zone Evacuation&nbsp;&nbsp",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Melania Trump Helps Forge A Ceasefire Deal In A Russian-Occupied Ukrainian City, White House Says",
+              "url": "https://www.huffpost.com/entry/melania-trump-russia-ukraine-ceasefire_n_6adb851fe4b04787f03ab7f5"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
-              "url": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html"
+              "headline": "Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City",
+              "url": "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html"
             },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "DOJ opens investigation into Trump ally Corey Lewandowski",
-              "url": "https://www.foxnews.com/politics/doj-opens-investigation-trump-ally-corey-lewandowski"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "New York City bans horse-drawn carriages from June 2028",
-          "neutralSummary": "New York City bans horse-drawn carriages from June 2028&nbsp;&nbsp;ReutersNew York City Passes Horse Carriage Ban, Ending a Central Park Tradition&nbsp;&nbsp;The New York TimesNYC Council passes law to phase out horse-drawn carriages by 2028&nbsp;&nbsp;ABC7 New YorkBreaking news: New York City ends",
-          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Reuters",
               "initials": "R",
               "domain": "news.google.com",
-              "headline": "New York City bans horse-drawn carriages from June 2028",
-              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRGM2SzRjekRCTXFaa2VMbEFwNDVQSUktR05sVnE0ZGg3d004TG5YdjRKNmZWR2kzaTFadTZaek5CbTQ1WU5qazlDTlZTc0kwZDNMWVpiQjdrRWlCMkxNZGc5Z0s4V3RaTjZySUJwd21pd1BBWV9YajV3c3VST1JRTHF6LUVRZHNrdmNQMTRTYURYN2pCSW1KUlJrOA?oc=5"
+              "headline": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Trump administration sues to block Alaska Senate certification if Republican Sen. Dan Sullivan loses in November",
+          "neutralSummary": "Trump administration sues to block Alaska Senate certification if Republican Sen. Dan Sullivan loses in November&nbsp;&nbsp;NBC NewsJustice Dept. Moves to Block Certification of Alaska Senate Race Results if Republican Loses&nbsp;&nbsp;The New York TimesTrump admin seeks to block Alaska Senate resul",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Administration Sues To Block Certification Of Alaska Senate Race — If Republican Loses",
+              "url": "https://www.huffpost.com/entry/alaska-senate-race-trump-sues_n_6adb7620e4b096020fa15ac9"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
+              "url": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "NBC News",
+              "initials": "NN",
+              "domain": "news.google.com",
+              "headline": "Trump administration sues to block Alaska Senate certification if Republican Sen. Dan Sullivan loses in November",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWxpNC1vU1lhdHpzWHZjN2JvZzVUVlVhWFA3MlJvVkMtOS0ybGR1NWVnRzJOUm1TdXZqcjJhSzdjQjEwazM0cXZXTnN0bGhYMlJteERaQVAzcVR0LU5TVTNJSHpta0doRWJCLWtibE4tTjJ3ekFmVHI3MGVFV092b0lRZUtIVnF6OXp2ZEV4TC1MQ1BKWThKdTJvdy1VQzJJeHJUUnFGbw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Meghan Markle says she’s ‘deeply distressed’ in response to child pornography allegations against her father",
+          "neutralSummary": "Meghan Markle has addressed the accusations against her father, who is being investigated over alleged possession of child sexual abuse material. Markle, Duchess of Sussex and wife to Great Britain&#8217;s Prince Harry, said she was “deeply distressed” by the news on 82-year-old Thomas Markle Sr. th",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Meghan Markle Says She’s ‘Deeply Distressed’ Over Child Sexual Abuse Material Allegations Against Her Dad",
+              "url": "https://www.huffpost.com/entry/meghan-markle-distressed-dad-child-sex-abuse-material-allegations_n_6adb641ae4b027da9ae577d9"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Meghan Markle says she’s ‘deeply distressed’ in response to child pornography allegations against her father",
+              "url": "https://thehill.com/blogs/in-the-know/6168715-meghan-markle-father-investigation-response/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "LeBron James Dunks On Donald Trump’s Furious Attack In The Most Dismissive Way",
+          "neutralSummary": "The NBA superstar needed just a handful of words to brush off the president’s latest broadside.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "LeBron James Dunks On Donald Trump’s Furious Attack In The Most Dismissive Way",
+              "url": "https://www.huffpost.com/entry/lebron-james-responds-to-donald-trump-attack_n_6adaf931e4b027da9ae53d90"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "New York City votes to end century-old horse-drawn carriage industry",
-              "url": "https://www.washingtonexaminer.com/news/business/4776681/new-york-city-council-majority-vote-horse-carriage-industry-ban/"
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "LeBron James fires back at Donald Trump over condemnation of national anthem antics",
+              "url": "https://nypost.com/2026/10/23/sports/lebron-james-fires-back-at-donald-trumps-national-anthem-criticism/"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Supreme Court Allows New Hampshire To Fully Ban Student IDs For Voting In Midterms",
+          "neutralSummary": "The Supreme Court has cleared the way for New Hampshire to fully ban student IDs for voting during the midterm elections.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Supreme Court Allows New Hampshire To Fully Ban Student IDs For Voting In Midterms",
+              "url": "https://www.huffpost.com/entry/supreme-court-voting-student-ids_n_6adacfc1e4b04787f03a4a50"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Supreme Court blocks use of student IDs as voter identification in New Hampshire",
+              "url": "https://www.foxnews.com/politics/supreme-court-blocks-student-ids-voter-identification-new-hampshire"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Judge Orders Trump to Sit for Deposition in BBC Defamation Case",
+          "neutralSummary": "Lawyers for the BBC had accused the president of delaying his testimony in the case he brought.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Judge Orders Trump to Sit for Deposition in BBC Defamation Case",
+              "url": "https://www.nytimes.com/2026/10/23/us/trump-bbc-lawsuit-deposition.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "CNN",
+              "initials": "CNN",
+              "domain": "cnn.com",
+              "headline": "Judge in Fox News-Dominion defamation trial: 'The parties have resolved their case'",
+              "url": "https://www.cnn.com/2023/04/18/media/fox-dominion-settlement/index.html"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+          "neutralSummary": "Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning. At least five people were injured, including some critically.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+              "url": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Netanyahu vows West Bank military operation after attack kills two Israeli soldiers",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSmJyQXhhU1ZfQUJvRVp4cENkNzhMZFl3ajF2UjByeFJGMzdmY2VUdEI1ekRFV1EzZE5KNERXOVFYSTFzckZXYUN4QXc5ZC1CUFl5cGEzOTZ3WnpGa2tLV3NKYW9lZkFGMkFzUl9tekZnM213ZXJOdnJwaTBLMlhlRU5wZEFvYWN6OG9fSDRZMzM0dEw5SFZZX0oza0poNDlCNzhuTlBXSE96UlEyWWtpNkRGZjcySWV6VGx0NndLWkM0c0E?oc=5"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Blaze that killed 4 soldiers on Canadian military base sparked on grenade launcher range, officials say",
-          "neutralSummary": "Blaze that killed 4 soldiers on Canadian military base sparked on grenade launcher range, officials say&nbsp;&nbsp;CBS NewsDeadly fire at Canada military base was caused by live grenade exercise, army says&nbsp;&nbsp;ReutersCanada Area presidency offers condolences after deadly military base fire&nb",
+          "neutralHeadline": "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says",
+          "neutralSummary": "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
           "versions": [
             {
               "political": "center",
-              "tone": "pessimistic",
-              "source": "CBS News",
-              "initials": "CN",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
               "domain": "news.google.com",
-              "headline": "Blaze that killed 4 soldiers on Canadian military base sparked on grenade launcher range, officials say",
-              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPanMySEgxUHRPaWduM1RDS1UxbHNNWjJKNDJOSzZ4bHc1aERLQXNaNmEwQXVsMlB4OU1DbTRsZEs4WTM0UThXT0pqOG56TTFqTFFFb0NBWlVMWUFCOE5NLVd3Qk93X3RFUDNaNUVRZGZEQmF1OU1McXJxV2dUeUNvVlJwLXF3RGRKLWt0S3ppSFR0RkJLblRvUk15VjFtRTFDUnhaZG1vS2tfVzNPRkE?oc=5"
+              "headline": "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWlvaks4NXljX3RhX2QxSGlPSFZSZ2V0dWZwdV9QZWhrbXhaRXh1WThQNXFpU0ZJZW53SDB6SlhINWVuTmdzeG83OERFTjBZclBEakZ2Mzc5LWZfelhZcVdmMUZvZUhWWkhwMkFMb0Z4elVYTEw4SVBfYkJOTnNpem9CNFZDbnd1R1VTejZmWlVfMnhGQUVQQjRKc3hUTmpM?oc=5"
             },
             {
               "political": "right",
               "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Live grenade training sparked deadly fire at Canadian military base, army says",
-              "url": "https://www.washingtonexaminer.com/news/world/4776807/live-grenade-training-canada-military-base-fire/"
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, mayor says",
+              "url": "https://nypost.com/2026/10/23/us-news/police-officer-who-shot-and-killed-1-year-old-boy-in-mississippi-has-resigned-senatobia-mayor-says/"
             }
           ]
         }
@@ -502,8 +529,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "$8,888 for a Star White iPhone Duo? New Apple device hits online resale platforms",
-          "neutralSummary": "The newly launched iPhone Duo is Apple’s first foldable smartphone.",
+          "neutralHeadline": "Singapore will form panel of experts to help investigations into haze-linked firms",
+          "neutralSummary": "The panel will comprise law firms, audit firms and investigative firms.",
           "versions": [
             {
               "political": "center",
@@ -511,15 +538,33 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "$8,888 for a Star White iPhone Duo? New Apple device hits online resale platforms",
-              "url": "https://www.straitstimes.com/singapore/8888-for-a-star-white-iphone-duo-new-apple-device-hits-online-resale-platforms"
+              "headline": "Singapore will form panel of experts to help investigations into haze-linked firms",
+              "url": "https://www.straitstimes.com/singapore/environment/singapore-will-form-panel-of-experts-to-help-investigations-into-haze-linked-firms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Singapore to set up specialist panel to investigate firms potentially linked to transboundary haze",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPelFpeGlQa0VUeFVNLXR5eGVnbWNnSnBzQnJDU1JkcG9YVlZBclRkWmNTTGNGalYxSGZkTi1SM1Q2Vy1RUjUtd3Byc1ZyZGs3S0VGN2h1azZhZzhVbGg4Mm1qd1R6SzBGZFpwcXVyeGtkUXJpNzVtTGJlMWxSSURmU2VvbFVsZ0dZZ0RQV3p3RnIxMGsyTnZZbFRSOTBMQm5ObjFGTw?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Jakarta Post",
+              "initials": "TJ",
+              "domain": "news.google.com",
+              "headline": "Singapore puts seven Indonesian firms on notice over toxic haze",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPam1rcUt0UVRVSFllSHVXYXlaUnZ4RW15VUNJRzVGcGpiU2JiZnFwY0V2X1U4bERNU1BRM2NEbDBSbURaWWZQX1Q1VjAxQWoxUkFmTTliS095LUxtSzNjTGYzVFZDV0NkSmZYWUJySndFdjZvSGYwLTI1b1djdVZYUmFVMWtlU3ItSFNXWTBDU2plamFDYThsYURSSmNBc1JnaEJQVmhyXzJqZERYNnF6MQ?oc=5"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "A look back at South-east Asia’s strongest fire and haze episodes",
-          "neutralSummary": "ST traces the scorch marks of the fires compounded by strong El Nino events in recent history.",
+          "neutralHeadline": "Drones, 5G battlefield comms take centre stage at SAF’s largest overseas drill in Australia",
+          "neutralSummary": "The annual exercise sees SAF validate the resilience of its battlefield connectivity.",
           "versions": [
             {
               "political": "center",
@@ -527,23 +572,39 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "A look back at South-east Asia’s strongest fire and haze episodes",
-              "url": "https://www.straitstimes.com/singapore/environment/a-look-back-at-the-strongest-fire-and-haze-episodes-faced-by-se-asia"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
-              "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss"
+              "headline": "Drones, 5G battlefield comms take centre stage at SAF’s largest overseas drill in Australia",
+              "url": "https://www.straitstimes.com/singapore/drones-5g-battlefield-comms-take-centre-stage-at-safs-largest-overseas-drill-in-australia"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights cancelled",
+          "neutralHeadline": "Japan’s new tax-free shopping rules: What you need to know",
+          "neutralSummary": "The new tax refund system will come into effect from Nov 1.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Japan’s new tax-free shopping rules: What you need to know",
+              "url": "https://www.straitstimes.com/singapore/japans-new-tax-free-shopping-rules-what-you-need-to-know"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Japan to change tax-free shopping rules for tourists from Nov 1",
+              "url": "https://www.channelnewsasia.com/east-asia/japan-new-tax-free-shopping-tourists-november-6485236"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled",
           "neutralSummary": "Typhoon Champi's radius is around 320km, large enough to cover most of Taiwan.",
           "versions": [
             {
@@ -552,90 +613,8 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights cancelled",
+              "headline": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled",
               "url": "https://www.channelnewsasia.com/east-asia/typhoon-champi-approaches-taiwan-flights-cancelled-6484571"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Taiwan issues land warning, cancels more than 100 flights ahead of arrival of Typhoon Champi",
-              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTEtUTWNMZ0NORTloamJjLWQ3RE5JRTdCbFBjcW9SbUpjQmh0UUtJQXVaR0M5UHRMXzNjbDVYOTlmbkNOdWN5bzlkMGpTaEpLUEhMZTdLTHFINVV5RVI1MjN3UkpvSzdSMHRCblBoY2dLMWsxWTNIUkVrYnRwNi1Dd18xYXdINUthR29yYmJZbHlRTk1zOElwN2NUY0diZ2R5TjdPNzJuMmhiU0Fqa1pIRUpvUmc?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "CNA Explains: Why China’s fifth plenum will focus on party discipline",
-          "neutralSummary": "The key meeting, which begins Monday (Oct 26), could offer clues about Beijing’s priorities ahead of 2027, observers say.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "CNA Explains: Why China’s fifth plenum will focus on party discipline",
-              "url": "https://www.channelnewsasia.com/east-asia/china-fifth-plenum-2026-party-discipline-6461861"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "TSH Resources says 274 hotspots detected within estate boundaries were outside operational areas",
-          "neutralSummary": "The palm oil cultivation company said the hotspots detected within its estate between January and Oct 21 were in “community enclave areas”.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "TSH Resources says 274 hotspots detected within estate boundaries were outside operational areas",
-              "url": "https://www.channelnewsasia.com/singapore/tsh-resources-hotspots-sgx-questions-haze-6483271"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Teen arrested over axe attack on Sarawak teacher; minister urges public not to shame student",
-          "neutralSummary": "\"This matter must be approached with care and compassion. The adolescent involved is still growing and developing,\" said&nbsp;Sarawak's Minister of Women, Children and Community Well-being Development Fatimah Abdullah.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Teen arrested over axe attack on Sarawak teacher; minister urges public not to shame student",
-              "url": "https://www.channelnewsasia.com/asia/teen-axe-attack-sarawak-teacher-6482341"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "South China Morning Post",
-              "initials": "SC",
-              "domain": "news.google.com",
-              "headline": "Malaysian teen arrested after live-streaming axe attack on teacher in class",
-              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeG5mbTlCVEowTC1kN2NMdVIwQTFPa2ZlMDFxdm1fVnlJZG0wckFlWFhvM2lDZ2k5dTVPQzN4QWRVQWFkaG94TjRBWjRkMDRQeVFPMGJKOTIzMGQ4SDc3UFlIaWlwWG5NUU1NWUhieVFXSWJjaVpkRmhmb2hRVF9Xa1hEVXNVeVExOFd1UV9tbjdHRXE1dnJxNzk5MktiYzhmcnhUQnFCWWdCU0htVzRuQVJ4QWR5WWF3SVdjQjNaZmPSAcABQVVfeXFMUEg0a1cwZEUyWnNZa1ZjSE10UmJkSUY4dzF1TmN3S1BiQjVnRzVxeUpFTS12X2lmbDlUTzItWG5UNURJamNSWGk1SXowVXBvNlNBaGN1NUh5dXprMWxUZWFfV1JHRXUySEUyazRDRlNOczdxSHM3cWJxc1lwQTVYX3RCQnFoZmlna1lMbWxHdm4yUjRNMVJRc0VFOWFyN3hqVkRJcnVwaG5SOWtKaXp5R0NVajRRb1F2OWVMS0pFbjFx?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-7",
-          "neutralHeadline": "Powerful Tibet earthquake kills at least 16 and injures 65 others",
-          "neutralSummary": "Powerful Tibet earthquake kills at least 16 and injures 65 others&nbsp;&nbsp;The Straits TimesChina orders 'all-out' rescue after Tibet quake kills 16&nbsp;&nbsp;CNAPowerful earthquake in Tibet Nagqu area leaves 16 dead&nbsp;&nbsp;BBCEarthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhu",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "Powerful Tibet earthquake kills at least 16 and injures 65 others",
-              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbjU1dENCOFJaUUc5amw4b1Z3d1FpNnlMT0lmRmNEcnp6ZFlvMjlQYXNrbWtsU290ZnZsLURXTDNIV0o3Vzg3d0t0cTZpLUFjUzl1eGkzNzFpNkJaYUQ0ajZEMTZ3WFBrVDFaenJNX0FHZlVZOFZoMHgyc3NfNHo4bEJzMEZKQWdST2RqVmdSbjM3Y0Q4MEM3ajJOaEs5Zw?oc=5"
             },
             {
               "political": "left",
@@ -643,15 +622,63 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
-              "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
+              "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+              "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "NEA issues legal notices under haze law to 10 Singapore-based companies, including Asia Pulp & Paper",
+          "neutralSummary": "The firms listed are in the palm oil or forestry business.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "NEA issues legal notices under haze law to 10 Singapore-based companies, including Asia Pulp & Paper",
+              "url": "https://www.straitstimes.com/singapore/environment/nea-issues-legal-notices-under-haze-law-to-10-singapore-based-companies-including-asia-pulp-paper"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Foodpanda rolls out full-time rider jobs with $1,800 salary and full CPF contributions",
+          "neutralSummary": "The scheme is not meant to replace its fleet of gig delivery riders, said a spokesperson.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Foodpanda rolls out full-time rider jobs with $1,800 salary and full CPF contributions",
+              "url": "https://www.straitstimes.com/singapore/transport/foodpanda-rolls-out-full-time-rider-jobs-with-1800-salary-and-full-cpf-contributions"
+            }
+          ]
+        },
+        {
+          "id": "singapore-7",
+          "neutralHeadline": "Singapore needs 3,000 more volunteers by 2030 as roles expand",
+          "neutralSummary": "Experienced volunteers will have more opportunities to lead programmes, mentor newer volunteers and shape initiatives.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Singapore needs 3,000 more volunteers by 2030 as roles expand",
+              "url": "https://www.straitstimes.com/singapore/community/singapore-needs-3000-more-volunteers-by-2030-as-roles-expand"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Man charged with cheating friend out of $112,500 after learning he was a scam victim",
-          "neutralSummary": "He allegedly deceived the elderly man by claiming he could help recover his scam losses.",
+          "neutralHeadline": "Brunei’s Prince Mateen visits SAF’s Special Operations Task Force",
+          "neutralSummary": "The Prince was in Singapore for an official visit from Oct 21 to 23.",
           "versions": [
             {
               "political": "center",
@@ -659,15 +686,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Man charged with cheating friend out of $112,500 after learning he was a scam victim",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/man-charged-with-cheating-friend-out-of-112500-after-learning-he-was-a-scam-victim"
+              "headline": "Brunei’s Prince Mateen visits SAF’s Special Operations Task Force",
+              "url": "https://www.straitstimes.com/singapore/bruneis-prince-mateen-visits-saf-special-operations-task-force"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Pickleball to be limited to 9 courts under Sengkang Town Council after residents’ survey",
-          "neutralSummary": "Play is permitted at the 9 approved courts from 10am to 7.30pm.",
+          "neutralHeadline": "Missing: 24-year-old woman last seen in Woodlands on Oct 22",
+          "neutralSummary": "The woman was wearing a black short sleeve t-shirt and black long pants.",
           "versions": [
             {
               "political": "center",
@@ -675,8 +702,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Pickleball to be limited to 9 courts under Sengkang Town Council after residents’ survey",
-              "url": "https://www.straitstimes.com/singapore/pickleball-to-be-limited-to-9-courts-under-sengkang-town-council-after-residents-survey"
+              "headline": "Missing: 24-year-old woman last seen in Woodlands on Oct 22",
+              "url": "https://www.straitstimes.com/singapore/missing-24-year-old-woman-last-seen-in-woodlands-on-oct-22"
             }
           ]
         }
@@ -687,67 +714,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "'Shaurya commandos' deployed: ITBP chief flags 'face-offs' with China along Arunachal border",
-          "neutralSummary": "'Shaurya commandos' deployed: ITBP chief flags 'face-offs' with China along Arunachal border",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'Shaurya commandos' deployed: ITBP chief flags 'face-offs' with China along Arunachal border",
-              "url": "https://timesofindia.indiatimes.com/india/shaurya-commandos-prepared-itbp-chief-flags-ongoing-china-faceoff-along-arunachal-border/articleshow/135134031.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Row over ITBP chief's Arunachal 'face-off' remark, Congress questions govt",
-              "url": "https://www.hindustantimes.com/india-news/row-over-itbp-chiefs-face-off-in-arunachal-remarks-congress-questions-govt-101792732160301.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Face-off with China continues at multiple locations along Arunachal border: ITBP D-G",
-              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSzVQRDUybkhaU09MNkFUR3A2d29NMGlKWDIzSnRJWWkwU1cwdGtHY2tzQ0RLUE85X1ZTaDJrSUZ5WU9teWlEWXk5YldIMzN3Rkx0TFJHWHRlUWtPTUZSd2RPYVgyVDB3OUdyMUw0UEpsbFdMUjNSUThYeDNLTVdYUVNTcjJMaGdlajNkMkhYdDFDQU9fSENyWFZQbUFhVldueVctZWs2ZHRkVlVpRDVZa2M2emxtLUZ4bUFTTW9ZS3dFT1NiaE1OYmwzVzNnQ3Y2S3BxU1I0MjllZw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "Siddaramaiah sting operation case: News channel head seeks anticipatory bail",
-          "neutralSummary": "Police said Rakesh Shetty, the channel head, was taken into custody and brought to Bengaluru for questioning",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Sting operation case: Kannada news channel head moves court for anticipatory bail",
-              "url": "https://www.thehindu.com/news/national/karnataka/sting-operation-case-kannada-news-channel-head-moves-court-for-anticipatory-bail/article71614752.ece"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Siddaramaiah sting operation case: News channel head seeks anticipatory bail",
-              "url": "https://www.hindustantimes.com/india-news/siddaramaiah-string-operation-case-news-channel-head-seeks-anticipatory-bail-101792734830842.html"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "'Human Pulled The Trigger, Machine Helped': Ex-CIA Chief On Iran School Bombing",
-          "neutralSummary": "The statement contradicts an earlier report that said an AI 'Kill Chain' was behind US strikes on an Iranian school.",
+          "neutralHeadline": "Delhi HC rejects Neha Bora's plea against notice to sign peace, 'maintain peace'",
+          "neutralSummary": "Pronouncing the order, Justice Subramonium Prasad said, \"I am rejecting the writ petition at this juncture.\"",
           "versions": [
             {
               "political": "left",
@@ -755,74 +723,17 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "'Human Pulled The Trigger, Machine Helped': Ex-CIA Chief On Iran School Bombing",
-              "url": "https://www.ndtv.com/india-news/general-david-petraeus-at-ndtv-world-summit-human-pulled-the-trigger-machine-helped-ex-cia-chief-on-iran-school-bombing-12223816#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "New Zealand military chief resigns over undisclosed ‘inappropriate relationship’",
-          "neutralSummary": "New Zealand military chief resigns over undisclosed ‘inappropriate relationship’",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "New Zealand Military Chief Admits To 'Inappropriate Relationship', Resigns",
-              "url": "https://www.ndtv.com/world-news/new-zealand-military-chief-air-marshal-tony-davies-resigns-admits-to-inappropriate-relationship-12223732#publisher=newsstand"
+              "headline": "In Setback For Neha Bora, Court Rejects Her Challenge To Peace Bond Notice",
+              "url": "https://www.ndtv.com/india-news/in-setback-for-neha-bora-court-rejects-her-challenge-to-peace-bond-notice-12226370#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "New Zealand military chief resigns over undisclosed ‘inappropriate relationship’",
-              "url": "https://timesofindia.indiatimes.com/world/rest-of-world/new-zealand-military-chief-resigns-over-undisclosed-inappropriate-relationship/articleshow/135133904.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "On UP voter list: 'Ram Ne Yadav Ko Mara, s/o Murkh Chandra Yadav'",
-          "neutralSummary": "Electoral rolls in Uttar Pradesh have reported unusual entries that have sparked concerns over their accuracy. Notable entries include voters with odd names and details that do not align with reality. The Chief Electoral Officer stated that fewer than 150 inaccuracies were identified among 14.8 lakh",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "On UP voter list: 'Ram Ne Yadav Ko Mara, s/o Murkh Chandra Yadav'",
-              "url": "https://timesofindia.indiatimes.com/city/lucknow/on-up-voter-list-ram-ne-yadav-ko-mara-s/o-murkh-chandra-yadav/articleshow/135131742.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "ThePrint",
-              "initials": "T",
-              "domain": "news.google.com",
-              "headline": "‘Ram Ne Yadav Ko Mara’, ‘Murkhchand Yadav’: UP voter list reads like a comedy script, but EC not amused",
-              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ1JLQlNQTUZEMWpTSURPczFXMEZtNlEtRVBXQk9qNml0ZGFsYm9CUlZsZUtLa3ZPcU12V2RvOUEtdV92LVJuMy1UTXRaZmFPODZxN0ZDZ0xjeUYxM0pFdmJ3Sm14V0FMaDhIV0dvQTNWMDl4ZVoyZm5ldmtydzJuaElOYVpzblR0YkwtNWRHLUVRamRoeU5Kdjc5cTZLaXc3UTRpYkJ5MU53alhrM3JMTVV6clhCMVJIVUdlcTY0WXVPUk1tSTVFbzVpdUVvalHSAdQBQVVfeXFMTkp1Y1YzR2NvWTZ1VjNteFdJcFpfdEFFQjd1UXlBMWZyMkdUME5SeVNJY1hSNWd5bXZvZElXMUphaFBOMnlJUXBNYmFhdWdlQ0ZUYUV6U1hFMzIxTzkxUFZuenhkQk5TWWxxUzZ6VmxYeDE3VzR6cTR5NzZ5NnJwZ2V5aGZiOGtMZHk1bURpWUk5SG1NckRZRTJVTWJ2SEpXTFhzbWpXbDNUTmtMY05Wc04wZzFBZWZlTWI0bnZpVEVXSUp3WkdhRGI1aVRKZ2hxTmp4NkQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "WhatsApp’s hidden instructions for Meta chatbot about 'WHAT NOT TO SAY' to users leaked",
-          "neutralSummary": "WhatsApp unintentionally exposed internal instructions for its AI chatbot within around 80 help and FAQ pages. These hidden instructions guided the chatbot on handling various support queries, including account deletion and legal issues. Meta clarified that the exposure was due to a bug which has si",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "WhatsApp’s hidden instructions for Meta chatbot about 'WHAT NOT TO SAY' to users leaked",
-              "url": "https://timesofindia.indiatimes.com/technology/tech-news/whatsapp-help-pages-leak-companys-hidden-instructions-titled-what-not-to-say-to-users-to-meta-chatbot/articleshow/135118266.cms"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Delhi HC rejects Neha Bora's plea against notice to sign peace, 'maintain peace'",
+              "url": "https://www.hindustantimes.com/india-news/delhi-hc-rejects-neha-boras-plea-directs-her-to-sign-peace-bond-maintain-peace-oct-16-lehra-do-tiranga-101792762728415.html"
             },
             {
               "political": "center",
@@ -830,65 +741,235 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "WhatsApp to stop working for these users from Jan",
-              "url": "https://economictimes.indiatimes.com/news/new-updates/whatsapp-and-telegram-to-stop-working-for-these-user-from-jan-1-govt-announces-new-rule-what-you-should-know/articleshow/135135195.cms"
+              "headline": "Delhi HC rejects Neha Bora’s plea against peace bond",
+              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/delhi-hc-rejects-aisa-president-neha-boras-plea-against-police-peace-bond-notice/articleshow/135148422.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Live Law",
+              "initials": "LL",
+              "domain": "news.google.com",
+              "headline": "BREAKING | Delhi High Court Rejects Neha Bora's Plea Against Peace Bond Notice Amid Anti-CEC Protests",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRWp3OGE1d0xyd2ZQT2dPcVpoSFlQR3ZadXl4d3lDV3BGQUZScEo1LTM0bmRSOWJyUkQ0eHlCSkpVd2pPa1FYWDlONU1HOExad08ySjlHM0RMYUFuVENoaTZ4SFhvUG9mUVVUTDJKSlQxVVBTX3RQZC1UMUJ4ZGVxQWYwakZXeElOSEhDS0J2cUQxdjNEU0lIcmhDQ0FQZUI0MERxcHZWd1R3d0lKanNweVJLb0RSbG5zRW1tVW1MWVVqUlY3V2JreU0yV2VjaHhEWDRQNmJB0gHbAUFVX3lxTE1ybHo0aTJCWXpGcmVwVkMtNzNDcGJWeFYtQ2x0V0ZveDlGMUlNMGVRSVl4blJ3YUQwcVVUR3ZQU0o0RjlSU2EydEtLM0pHOE9qQ3piSGNBNDhpUm1oYXdkbno3TjhkMk9KdWotMjA4QzNrMVE5MTNNV05BX1VWZnhOMWpTR2lYWHJXbHI5LUF3clRZMUNoTTN3UGtNYXh4dEhEVTFZZExpUG1FaXR4Qk1IdDhHM3BoRU5ZWUVLalRGUFppeG5XRk9uU21iS1VoZ29UVFNhRy1yTXhiNA?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "5 dead as blast rips through house storing firecrackers in Bihar village",
+          "neutralSummary": "A significant explosion occurred in Alampur village, leading to the deaths of five individuals. Firecrackers stored in a house ignited, causing widespread panic among local residents. Siwan Superintendent of Police announced the formation of a special team to investigate the incident. Authorities ar",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "At least four killed in blast at house storing firecrackers in Bihar’s Siwan",
+              "url": "https://www.thehindu.com/news/national/bihar/several-feared-dead-in-a-firecracker-factory-blast-in-bihars-siwan-district/article71616766.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "5 dead as blast rips through house storing firecrackers in Bihar village",
+              "url": "https://timesofindia.indiatimes.com/city/patna/4-dead-as-blast-rips-through-house-storing-firecrackers-in-bihar-village/articleshow/135149442.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "4 dead, more casualties feared after blast at firecracker factory in Bihar's Siwan",
+              "url": "https://www.hindustantimes.com/india-news/blast-siwan-bihar-firecracker-factory-dead-injured-rescue-fire-101792765297355.html"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Melania Trump brokers Russia-Ukraine ceasefire",
+          "neutralSummary": "Melania Trump brokers Russia-Ukraine ceasefire",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "\"Situation Dire\": Melania Trump Secures Ceasefire In Ukrainian City",
+              "url": "https://www.ndtv.com/world-news/situation-dire-melania-trump-says-she-secured-ceasefire-in-ukrainian-city-12226918#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Melania Trump brokers Russia-Ukraine ceasefire",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/melania-trump-brokers-russia-ukraine-ceasefire-in-war-hit-oleshky-white-house-says/articleshow/135148161.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Netanyahu orders sweeping West Bank offensive after deadly Hebron attack",
+          "neutralSummary": "In light of a tragic shooting on October 23 that claimed the lives of two soldiers near Hebron, Israeli Prime Minister Benjamin Netanyahu has initiated preparations for a military operation in the West Bank. This strategy includes imposing movement restrictions on Palestinians and conducting extensi",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "'Will Destroy Terror Infra': Netanyahu After 2 Soldiers Killed In West Bank",
+              "url": "https://www.ndtv.com/world-news/will-destroy-terror-infra-netanyahu-after-2-soldiers-killed-in-west-bank-12227231#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Netanyahu orders sweeping West Bank offensive after deadly Hebron attack",
+              "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-orders-sweeping-west-bank-offensive-after-deadly-hebron-attack-days-before-israel-election/articleshow/135150735.cms"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Netanyahu orders West Bank closure, warns of major military operation after attack kills Israeli soldiers",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOEEyZnNOX1U1VjdfbzBJby1hc3FRQkQxY3NRWnlyZWhJRlliWGVqYkRYX1hWd29Ma04ybVR4RzdzOTNUWnlwNnZlai1VejA5bG9fdVhnZVRYU2tLcnQ5bWV0Y2NHd0RTUkVKRzh6QkFuT0pRN1FHV3o3WW81ZGwtVzZhbTJadXNNcGlvTjNvRWVwVndZVmkxdm5yZ25oUzVCZkpJRk5MMlFwQW1yUGFVRmV6bXZHVWVJYVRaa1NoSzk0Wl9uY0ViNE9ZanBrMzVGeXJjVHZ2TdIB3gFBVV95cUxNZnViZ2lkaDBfd2hXLXBEUTVSV1BkdHVBc090S0JMLUtlb2h6U25BVzMwdHN0UXUwak1yZzgtbXJDYU5JaUFkTHRwMHJ0dm1qSUgwcm5reTRZNmx2d0p6aGk5cFpkS1pKNTlVdmhZOW5Xc1VSU1lvblhGTHJSSzRFM1ZQRG5UYmxWODlUYWlLTjA5SWtxaEdQdDVDTkl3bGVyN2s0cWtNWUxYU1NmR0h1dWxDbU1fUDJ2Y0tMUC1sdENuMFUwR3A4dEwzTHRSSl9SeV9oTzJubEUwbDVYdlE?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Shivakumar alleges ‘industrialist’ attempted sting op on him, Kerala CM using Meta glasses",
+          "neutralSummary": "Shivakumar said he had documented the episode and had information about people who might have been involved.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "DK Shivakumar's 'Sting Op Using Meta Glasses' Charge Against Industrialist",
+              "url": "https://www.ndtv.com/india-news/dk-shivakumars-sting-op-using-meta-glasses-charge-against-industrialist-12226783#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Shivakumar alleges ‘industrialist’ attempted sting op on him, Kerala CM using Meta glasses",
+              "url": "https://www.hindustantimes.com/india-news/shivakumar-alleges-industrialist-attempted-sting-op-on-him-kerala-cm-using-meta-glasses-101792772888619.html"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "India, Azerbaijan explore stronger trade and energy ties as Jaishankar meets Aliyev in Baku",
+          "neutralSummary": "S Jaishankar’s first visit to Azerbaijan in eight years focuses on expanding India-Azerbaijan ties in trade, energy, investment, tourism and connectivity.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Jaishankar meets Azerbaijan President, Foreign Minister as India attempts reset of ties",
+              "url": "https://www.thehindu.com/news/national/jaishankar-meets-azerbaijan-president-foreign-minister-as-india-attempts-reset-of-ties/article71617306.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "India, Azerbaijan explore stronger trade and energy ties as Jaishankar meets Aliyev in Baku",
+              "url": "https://www.hindustantimes.com/india-news/india-azerbaijan-explore-stronger-trade-and-energy-ties-as-jaishankar-meets-aliyev-in-baku-101792771858779.html"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Sonam Wangchuk accuses Centre of going back on assurances to Ladakh, demands U.T. with Legislature",
-          "neutralSummary": "Sonam Wangchuk accuses Centre of going back on assurances to Ladakh, demands U.T. with Legislature&nbsp;&nbsp;The HinduLadakh leader reaches Delhi, but Centre sends no invite for special status talks&nbsp;&nbsp;Telegraph IndiaWhy Ladakh’s trust deficit with Delhi is deepening&nbsp;&nbsp;India TodayS",
+          "neutralHeadline": "India ends Asian Para Games with 65 medals",
+          "neutralSummary": "India ends Asian Para Games with 65 medals",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Vijay congratulates T.N. medallists of 5th Asian Para Games",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-congratulates-tn-medallists-of-5th-asian-para-games/article71615836.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "India ends Asian Para Games with 65 medals",
+              "url": "https://economictimes.indiatimes.com/news/sports/other-sports/india-end-para-athletics-campaign-with-record-65-medals-in-asian-para-games/articleshow/135149001.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "7 Killed, 34 Injured As Gunmen Open Fire In Jordan Church During Funeral",
+          "neutralSummary": "The shooting took place at a Greek Orthodox church in Karak, about 180 kilometres south of Amman.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "7 Killed, 34 Injured As Gunmen Open Fire In Jordan Church During Funeral",
+              "url": "https://www.ndtv.com/world-news/7-killed-34-injured-as-gunmen-open-fire-in-jordan-church-during-funeral-12226991#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "At least seven killed after gunmen open fire at church in Jordan",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWDJEUlpqMVFqM21NUFNVNzdrTHlkNlJIT2FwbExlZm5FR01ZWEpFdGRFMWltUDRPSHlseFpSanVYc0EtU3ZZcjJoR3dfMnJuN0drRkx4UlZzQ1RtOUFsd2h1NWtZQmdiYmNCU256VzFTakYydExHOGRoTGg5ZzBCcDM5NVA1LUtkcHNuV1JCcDB4WXM4ZnBqY3V6Y0x3NkF6ak9KbVpqVzFHQdIBrwFBVV95cUxNbm5hVF9hZnBmYnBCS2haUGJ6akNiOVdnSEl0ekdmYUlTbnZZOEpHakE3ZWhvTnNXRHM4R0JHQUVIUkJPdmJsY0NSckdxclZiRGtaVS1tdXQtTkNCUExKdXZTandkWUNzTjdTak5iNmwyQmp1aXJQRENpbGtIUmxQaVpvbTRMX2FTamZNeG9fR2xZXzV2cUFwbVJPWXRYLTdfR3JzRUNSRlZ0RllWZXdB?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "LAC situation gets ‘disturbed’ when Chinese troops diverge from patrolling patterns: India",
+          "neutralSummary": "India says the LAC situation gets disturbed when Chinese troops diverge from established patrolling patterns.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "LAC situation gets ‘disturbed’ when Chinese troops diverge from patrolling patterns: India",
+              "url": "https://www.hindustantimes.com/india-news/lac-situation-disturbed-when-chinese-troops-diverge-from-patrolling-patterns-india-says-101792769158499.html"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "The Hindu",
               "initials": "TH",
               "domain": "news.google.com",
-              "headline": "Sonam Wangchuk accuses Centre of going back on assurances to Ladakh, demands U.T. with Legislature",
-              "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdzBRZUdKbm94XzcwbFZjcVNsdlBTY0dySnhtV1ppR0phLVpCQUd6RTRHYWJkYTNhZGFmZEdKQVhtRFlqUEFUMFFIcGN2N0ZOUjNIa29FSEVLdUZOYVNqV21INXlBeVV1WEFOcU5VY0gzZ2VxV2ZNQzNmVlN0WXBlR3hCU2lTejR6OEZTLWV2WDBRX2pMRzZ3TDk1SlFYMEY2a1dySW1vQl9wb1N2ZzBEbzVUeWljZ1NFbzJ3OFdVS05xYnhOOVJQRWhQQUxTY0gySXZDUUI2UWdnNmtuTnRTVzdaV3ZhMUhJZXFKN3dxaEM0M03SAfoBQVVfeXFMT01DVjhfU1ZndXlJbmY4cndlX0RQajY4NlUzNG5mX2JjVV9MTWg5STdHUTF5alhYN1ZOOXZSYVE1QS1obWhmZ3QwNjc0aXdNbzFqUGNJVTYwR1g2eXQ2Q1M2MExuTWFleG9aTDE1UnJqbDdxNDNxdEJCWkFmaTFDUDBiWWFJS0NLSTVqc0xJWFRHVGhLT0hjQzBUR1k0N3lQNGZkTjVNbHRnNmNneExDYzJ3cklJSWstNktnODIzVnlvOXFBMmx2aXRTOThmZkdEV2xKYVUwOTF5MzlpS245X2s2TllZWUxNZ2cwMUNDTU5HQW00ZVZ1RXNMdw?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "OpIndia",
-              "initials": "OPI",
-              "domain": "opindia.com",
-              "headline": "Civil Society Forum of Ladakh slams Sonam Wangchuk for hijacking safeguards agenda, demands elections in all eight districts",
-              "url": "https://www.opindia.com/2026/10/civil-society-forum-of-ladakh-slams-sonam-wangchuk-for-hijacking-safeguards-agenda-demands-elections-in-all-eight-districts/"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Chennai Northeast monsoon rains: T.N. CM Vijay directs officials to maintain continuous vigil",
-          "neutralSummary": "CM Vijay reviews monsoon preparedness, waterlogging at 35 locations",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Chennai Northeast monsoon rains: T.N. CM Vijay directs officials to maintain continuous vigil",
-              "url": "https://www.thehindu.com/news/cities/chennai/chennai-northeast-monsoon-rains-tn-cm-vijay-directs-officials-to-maintain-continuous-vigil/article71600485.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "Voting in first phase of panchayat polls concludes in Rajasthan",
-          "neutralSummary": "Among the districts, Jhalawar recorded 69.16% polling, followed by Jaipur at 68.29%, meanwhile, polling was boycotted in some villages over grievances related to administrative boundaries and local issues",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Voting in first phase of panchayat polls concludes in Rajasthan",
-              "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-panchayati-raj-elections-voting-updates-on-october-22-2026/article71610359.ece"
+              "headline": "Situation along LAC gets disturbed when Chinese forces diverge from established patrolling pattern: MEA",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnhQMHlFcTVsTkJ6Nmh3YjlRN2swX3ZUeGo1Yk9qcE5FVFU5VHJfZXhtODV6czFQVjBxTnM2WTBqd0IwTkdmbjk3YWhBQ0hNM0VXRUZzYTllbm5USWhEeEVTUmV0U2xKZ2tkemd5b0dLZFRpa2dRV0RzN0dhU091ajFIZnN6OHJoTGk0eGVJN0pFX29zcGotLUxoUmFpQ0laaW1ISUo4UzlSM1BreVdDMmdhWU4wUTFYT2lFejJB0gHEAUFVX3lxTE92WlQ1UU1Zem5hbi1XLXc3ZFduZTk0cllsTURIeDVLeFNHQUJNTUxJX2JlY0ZIQ2xhbWtzYURQMmhoWmJqa2kxVV9VQ002ODVaTHVUWFZmS2d0X1ZmYWlpS0dHRFJ0bFN5QTI2NkFHdmgtWEdQcnd2RTRHSlRzWG9hOUI3ME53NXI0RjVCMXVCYlVjbm50d2R6YkNXRWt4aFhjZlBFamxzNkVVNkdORHZUcnBKTGIxVDZhUnJWblNwRTRqSzc?oc=5"
             }
           ]
         }
