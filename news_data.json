@@ -1,74 +1,13 @@
 {
-  "generatedAt": "2026-10-28T18:42:49.533666+00:00",
+  "generatedAt": "2026-10-29T07:45:38.096052+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Defeated presidential candidate Bolsonaro lands in Miami after fleeing Brazil",
-          "neutralSummary": "Brazilian Senator ​Flavio Bolsonaro and his family arrived in Miami on Wednesday, where the United States government granted them ​entry visas after he refused to comply with a Brazilian Supreme Court order to surrender his passports. Bolsonaro lost Sunday's presidential election to leftist incumben",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Flávio Bolsonaro lands in Miami after Brazil election loss",
-              "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-              "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Flávio Bolsonaro arrives in Florida after fleeing Brazil",
-              "url": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
-              "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Defeated presidential candidate Bolsonaro lands in Miami after fleeing Brazil",
-              "url": "https://www.france24.com/en/video/20261028-defeated-presidential-candidate-bolsonaro-lands-in-miami-after-fleeing-brazil"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Sen Flávio Bolsonaro flees Brazil for US after election loss, will be issued visas: State Department",
-              "url": "https://www.foxnews.com/world/sen-flavio-bolsonaro-reportedly-flees-brazil-us-election-loss"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Spain: PM Sanchez gives speech on train collision",
-          "neutralSummary": "Spanish Prime Minister Pedro Sánchez addressed the nation from the site of the train collision in Toledo province, expressing his full solidarity with the victims, their families and all those injured in the tragedy.\n\nEarlier, Transport Minister Óscar Puente said a computer malfunction had disrupted",
+          "neutralHeadline": "'Desolation, despair': Spain begins three days of mourning after deadly train crash",
+          "neutralSummary": "Spain entered three days of mourning on Thursday after a high-speed train collision killed 68 people and injured scores. The incident has prompted fresh questions about rail safety and management.",
           "versions": [
             {
               "political": "left",
@@ -76,26 +15,35 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "At Least 30 People Killed In High-Speed Train Collision In Central Spain",
+              "headline": "High-Speed Train Collision Kills At Least 68 In Spain’s 2nd Deadly Rail Crash This Year",
               "url": "https://www.huffpost.com/entry/spain-high-speed-train-collision_n_6ae1c2ebe4b0bcffa26a7d92"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Dozens are dead in a high-speed train crash in Spain",
-              "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "High-speed train crash kills at least 68 people in Spain",
+              "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
               "tone": "pessimistic",
-              "source": "New York Times",
-              "initials": "NYT",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+              "url": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
               "domain": "news.google.com",
-              "headline": "At Least 68 Killed in Train Crash in Spain, Officials Say",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wZzBvVXBCSW9TcEkyamF0VHFVN1B0UTE4N1lnS05oSW5CZzU1YjhQV1J1TzRsb0dZSTg1STh5WjdXY0VoWTR2UXlCRWpGRk4tblkyaU03Q2Rrd3BrOGNCVklQLWpfc3hsbU55ODdMOURQemE1YUtVelRB?oc=5"
+              "headline": "‘It all happened in a split-second’: survivors recount details of deadly train crash in Spain",
+              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHd4MHRrTkZ5bWtsenB0dVNSeE5EQndCbG4zX3NjTTY1eFlTRXJxaXZQMnRLNEE3NDNQaHFWbkZDQ0p1UnhWVDY4eUhiNHF0UVB0ZkpCQ1Y5UGhhTnd1Rld0ZTl0WWVvWTdEUFlTUDMwZlJBckNvZllZUnYtWXFlcDFNbDJxU2R4NnRxeGx4NXYzc1VtWUdIUDdKOXpuU1ZTZHNKcGFZWXpXWlhPMzRHNWh0TThZalpqY3k5VlBMbm9jTUJja213S2VwYUlnMFpvRmtkbVBLeDFiQTRhb0dia2NPRHJoaW5LR0E?oc=5"
             },
             {
               "political": "center",
@@ -103,17 +51,8 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Spain: PM Sanchez gives speech on train collision",
-              "url": "https://www.france24.com/en/spain-pm-sanchez-gives-speech-on-train-collision"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Spanish Train Crash Kills at Least 68 People South of Madrid",
-              "url": "https://www.bloomberg.com/news/videos/2026-10-28/spanish-train-crash-kills-at-least-64-people-south-of-madrid"
+              "headline": "'Desolation, despair': Spain begins three days of mourning after deadly train crash",
+              "url": "https://www.france24.com/en/europe/20261029-desolation-despair-spain-begins-three-days-of-mourning-after-deadly-train-crash"
             },
             {
               "political": "right",
@@ -127,7 +66,102 @@
           ]
         },
         {
+          "id": "global-2",
+          "neutralHeadline": "Flavio Bolsonaro claims he is Brazil's true leader after fleeing to US",
+          "neutralSummary": "Brazil's defeated right-wing presidential candidate Flavio Bolsonaro insisted Wednesday he is his country's rightful leader after arriving in the United States to start a self-imposed exile. Bolsonaro's defiance on fleeing to Florida signaled continued upheaval for Brazil, where leftist President Lu",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
+              "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Defeated Presidential Candidate Flávio Bolsonaro And His Family Land In Miami After Fleeing Brazil",
+              "url": "https://www.huffpost.com/entry/defeated-brazilian-presidential-candidate-flávio-bolsonaro-family-land-miami_n_6ae1fe10e4b0a2cccd444145"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+              "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Flávio Bolsonaro arrives in Florida after fleeing Brazil",
+              "url": "https://www.npr.org/2026/10/27/nx-s1-6019678/bolsonaro-brazil-lula-election-trump"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Flavio Bolsonaro claims he is Brazil's true leader after fleeing to US",
+              "url": "https://www.france24.com/en/tv-shows/a-propos/20261028-flavio-bolsonaro-claims-he-is-brazil-s-true-leader-after-fleeing-to-us"
+            }
+          ]
+        },
+        {
           "id": "global-3",
+          "neutralHeadline": "U.S. cruise ship suspends 3-year around-the-world voyage in Cambodia due to fuel costs",
+          "neutralSummary": "U.S. cruise ship suspends 3-year around-the-world voyage in Cambodia due to fuel costs&nbsp;&nbsp;CBS NewsA U.S. cruise ship suspends a global voyage due to fuel costs, stranding 200 passengers&nbsp;&nbsp;NPRAn ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded&nbsp;&nbsp;Th",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "U.S. Cruise Ship Strands 200 Passengers In Asia Over Rising Fuel Costs",
+              "url": "https://www.huffpost.com/entry/mv-odyssey-cruise-ship-stranded-cambodia_n_6ae20a8ce4b0bcffa26ab19e"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+              "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "A U.S. cruise ship suspends a global voyage due to fuel costs, stranding 200 passengers",
+              "url": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-fuel-costs"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "U.S. cruise ship suspends 3-year around-the-world voyage in Cambodia due to fuel costs",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVmY3VmhTZnM2Q3VHT3dpSGoySGw4S2lBUzM5c1FmMVRJTjJoUkMxTktuaGdYbjlrTGpZcmNwOWVtMkV0S0JoSm5PRzJrSU9zVWViRWRtYXNaeXpmbmc4NFBFbTYwWUxWdG5aWFdhamY3Z0NVRmFiM3lrckNFUWtrOGR0SHBhQVdCQVFrcDRtc1JSVG1kNFEtempfQnhUczhHcFNyZkxEdw?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
           "neutralHeadline": "Exit Polls Suggest No Clear Winner In Israel's Election, But Netanyahu Is Far From Defeated",
           "neutralSummary": "An inconclusive result would leave Israel in political limbo after the country’s first national election since Hamas’ Oct. 7, 2023, attack.",
           "versions": [
@@ -148,11 +182,45 @@
               "domain": "npr.org",
               "headline": "Partial results from Israel's contentious election show no clear winner",
               "url": "https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "No clear winner in Israel election with nearly 90 percent of votes counted",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmJRN2dyY3FpN29wU2ZnR3hiUVBhbElKY2hmcGZ0X1FVM3NnNGV3elViN2NXNFJlOWFWQ2hMOExrQWpqdTZ0R0lGOTV1ekpXd3d1UDZVdXJqSGJ6M1puTGhPMFRnUFhQQjAtVzBPUW94dzJaODRObjV6M2dLMXNjYjNYOTc5Wk4xWmx0YmtxUS1TZEt6c1NzV1huS28xVU9ld1NpaVRYQUFScXIwbS1rdVJvRGZKOVV50gG-AUFVX3lxTE43aGZvSkdlUkZWeVp4czVqLUNtaDVicE9xQjhOOXo4MV94aHdHeFBVOXlOS3hDSExEOTJFbUM2RlZTT015aU5RRUxtdFpwWDd2OHNiWkstcTVnbXpsRFdZNkFEeGNxNzVYLW1XWGtnMzlRaHp6N3VJRzRBOV9MbXNEdjJhTTdrYXF3bU5zRTlSdmZXXzBTRF9uSHZtejNvOXNFSEhNUjVtQzcwUU5mUHFRQjk3VldLN3puM3p3OEE?oc=5"
             }
           ]
         },
         {
-          "id": "global-4",
+          "id": "global-5",
+          "neutralHeadline": "Live: Israelis await final election results, with no majority in sight",
+          "neutralSummary": "With more than 90% of the ballots counted on Thursday, Israeli Prime Minister Benjamin Netanyahu's bloc has gained 53 seats, with the opposition at 67, including 48 for Gadi Eisenkot's centrist bloc and 19 for the Arab-majority parties. The Israeli president called on the parties on Wednesday to \"do",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Israelis Await Final Election Results As Netanyahu Rivals Weigh Joining Forces With Arab Parties",
+              "url": "https://www.huffpost.com/entry/ap-ml-israel-elections_n_6ae1f987e4b0a2cccd443e88"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Live: Israelis await final election results, with no majority in sight",
+              "url": "https://www.france24.com/en/middle-east/20261029-live-israeli-elections-are-coming-to-a-close-with-no-majority-to-be-seen"
+            }
+          ]
+        },
+        {
+          "id": "global-6",
           "neutralHeadline": "Leaders Of Norway, Finland Hold Rare Call With Vladimir Putin",
           "neutralSummary": "Western European leaders have mostly shunned contact with Putin since Russia launched its full-scale war in Ukraine in February 2022.",
           "versions": [
@@ -173,65 +241,6 @@
               "domain": "bbc.co.uk",
               "headline": "Norway and Finland leaders hold rare call with Putin",
               "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Politico",
-              "initials": "POL",
-              "domain": "news.google.com",
-              "headline": "Zelenskyy defends leaders of Finland and Norway over Putin talks",
-              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNzk3eDZ2cXBPb0xmVlFwZnVId2JjTmF1RFRUdWlSUnBDbzlOTEVMV2FZWEdqTmVTODBzUlRVRVdZV24zcVNjNU5JWkFpMGRrQ29tNFluM3RSODFnT3o5LWQ5cnBKNW92LUYzRVlCX3pvNlhXT2NQcVBDSUx1VDZaWG9IZExlLXpPZ181emZhQjl0Ymt1SzVUQkdjYUxDdlItNFJCbWYyMlI3OG9ERWRxWGstMER3S1NrY00zWF8yVGZxQmZLV2RoWVA3OGZRM05PVlVN?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Polls Open In Israel For Tense National Election",
-          "neutralSummary": "The election is widely seen as a referendum on Prime Minister Benjamin Netanyahu's leadership.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Polls Open In Israel For Tense National Election",
-              "url": "https://www.huffpost.com/entry/israel-election_n_6ae0313ee4b059999c6296bf"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Israel's election result is messy - here's why",
-              "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-6",
-          "neutralHeadline": "Serbia’s Strongman Leader Vucic Concedes Defeat To Student-led Movement In Seismic Political Shift",
-          "neutralSummary": "Serbia's long-serving strongman leader, Aleksandar Vucic, has conceded defeat.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Serbia’s Strongman Leader Vucic Concedes Defeat To Student-led Movement In Seismic Political Shift",
-              "url": "https://www.huffpost.com/entry/serbia-election-vucic-defeat_n_6ade6ae3e4b06b41b48d5c8e"
-            },
-            {
-              "political": "right",
-              "tone": "optimistic",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Serbia’s student movement topples Vucic’s party after 14 years, but political agenda remains unclear",
-              "url": "https://www.foxnews.com/world/serbias-student-movement-topples-vucics-party-after-14-years-political-agenda-remains-unclear"
             }
           ]
         },
@@ -262,51 +271,51 @@
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-          "neutralSummary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+          "neutralHeadline": "Historic gains for Arab-majority parties in Israeli election",
+          "neutralSummary": "Two Arab-majority parties are set to win a historic 19 seats in total, amid a record turnout at the polls in Israel on Tuesday. Voters from the community, descendants of Palestinians who stayed after Israel's creation and who make up around 20 percent of the population, have been enraged by the Neta",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-              "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes",
-              "url": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes"
+              "headline": "Ex-Israeli diplomat calls opposition's refusal to work with Arab parties 'reckless'",
+              "url": "https://www.npr.org/2026/10/28/nx-s1-6019328/israel-election-arab-parties-government"
+            },
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Historic gains for Arab-majority parties in Israeli election",
+              "url": "https://www.france24.com/en/historic-gains-for-arab-majority-parties-in-israeli-election"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Serbian police say assailant killed after attacking officer outside the Israeli Embassy in Belgrade",
-          "neutralSummary": "Serbian police say assailant killed after attacking officer outside the Israeli Embassy in Belgrade&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+          "neutralHeadline": "Two in court over alleged Iran-linked plot at RAF Fairford",
+          "neutralSummary": "Two in court over alleged Iran-linked plot at RAF Fairford&nbsp;&nbsp;BBCOverseas Handler Linked to Iran Behind Foiled RAF Air Base Attack&nbsp;&nbsp;WSJ2 men charged with national security offenses in suspected U.K. air base plot&nbsp;&nbsp;The Washington Post2 men charged with helping Iran over in",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-              "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
+              "domain": "news.google.com",
+              "headline": "Two in court over alleged Iran-linked plot at RAF Fairford",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kbUp1Y205Z0IwQ3lJaDk4U2dwREEwd0p2M2xoazZCcVBmX2ttWWF0Q2ZYZkYtcXpHd0tOQ213UUNmRGhLSjZoYkJ2andLYUg2bVV1WE02VUhyZjg?oc=5"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Serbian police say assailant killed after attacking officer outside the Israeli Embassy in Belgrade",
-              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1hja3hGcG1XTFEyajJxMVdPaUZZdkVnd1hMOUlEUDU1Z091NHlvR3FmelozWjhFc2Z6YjVsZWJBR1FoS3F2OU1QU0g0T3ZkWmVqSkFkYXhhMEludXdlaTJNdnU1bE5zNVFVYTZLeURJWUtNY0hSTWJ3ZUt4cWJ1dlVjMi1nWGtNc3Q1RlNJSGFjdw?oc=5"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "UK charges 2 men in suspected Iran-linked incident at RAF Fairford after US bombers pulled",
+              "url": "https://www.foxnews.com/world/uk-charges-2-men-suspected-iran-linked-incident-raf-fairford-us-bombers-pulled"
             }
           ]
         }
@@ -317,8 +326,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Watch live: Warsh speaks after Fed votes to keep interest rates steady",
-          "neutralSummary": "Federal Reserve Chair Kevin Warsh will speak to reporters Wednesday after the central bank voted to hold interest rates steady at 3.75 percent to 4 percent, despite persistent inflation and mounting economic pressures ahead of the midterm elections. The decision comes six weeks after the Fed raised",
+          "neutralHeadline": "Judge denies the Justice Department's bid to stop processing California ballots",
+          "neutralSummary": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet. The federal government immediately filed notice that it will appeal.",
           "versions": [
             {
               "political": "left",
@@ -326,126 +335,8 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Fed holds interest rates steady even as inflation remains stubborn",
-              "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Watch live: Warsh speaks after Fed votes to keep interest rates steady",
-              "url": "https://thehill.com/video-clips/6178674-watch-live-kevin-warsh-federal-reserve-rate-decision-midterms/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Fed holds interest rates steady before elections, with two dissents",
-              "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4782688/fed-interest-rates-highly-anticipated-election-meeting/"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Right-wing activist James O’Keefe charged with unlawful voting, identity theft",
-          "neutralSummary": "Conservative influencer James O’Keefe was charged in Minnesota Wednesday after he and fellow right-leaning commentator Cam Higby misrepresented themselves using registered voters&#8217; names at polling places during the state’s primary election earlier this year.  Hennepin County Attorney Mary Mori",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Right-Wing Provocateur James O’Keefe Charged in Minnesota Voting Stunt",
-              "url": "https://www.nytimes.com/2026/10/28/us/james-okeefe-charged-minnesota-voting-cam-higby.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Right-wing activist James O’Keefe charged with unlawful voting, identity theft",
-              "url": "https://thehill.com/policy/technology/6178839-james-okeefe-voter-fraud-charges/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Minnesota prosecutors charge two right-wing influencers for posing as voters",
-              "url": "https://www.washingtonexaminer.com/news/justice/4782964/minnesota-prosecutors-charge-james-okeefe-cam-higby-posing-voters/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Dozens are dead in a high-speed train crash in Spain",
-          "neutralSummary": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Dozens are dead in a high-speed train crash in Spain",
-              "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "Spain Train Crash Live Updates: At Least 68 Killed in High-Speed Train Collision, Officials Say",
-              "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wZzBvVXBCSW9TcEkyamF0VHFVN1B0UTE4N1lnS05oSW5CZzU1YjhQV1J1TzRsb0dZSTg1STh5WjdXY0VoWTR2UXlCRWpGRk4tblkyaU03Q2Rrd3BrOGNCVklQLWpfc3hsbU55ODdMOURQemE1YUtVelRB?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "‘Inexplicable’ High-Speed Train Crash Leaves Dozens Dead",
-              "url": "https://www.dailywire.com/news/inexplicable-high-speed-train-crash-leaves-dozens-dead"
-            }
-          ]
-        },
-        {
-          "id": "us-4",
-          "neutralHeadline": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
-          "neutralSummary": "Huerta co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
-              "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Judge overseeing Maduro trial dies",
-          "neutralSummary": "Alvin Hellerstein, a longtime federal judge who was set to oversee the criminal trial of deposed Venezuelan leader Nicolás Maduro died on Wednesday. He was 92. Hellerstein&#8217;s death was confirmed by the court&#8217;s chief judge, Laura Taylor Swain, who called him an &#8220;insightful and dedica",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Judge overseeing Maduro trial dies",
-              "url": "https://thehill.com/regulation/court-battles/6178639-judge-alvin-hellerstein-dies/"
+              "headline": "Judge denies the Justice Department's bid to stop processing California ballots",
+              "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied"
             },
             {
               "political": "right",
@@ -453,15 +344,142 @@
               "source": "NY Post",
               "initials": "NYP",
               "domain": "nypost.com",
-              "headline": "Alvin K. Hellerstein, federal judge who presided over Trump, Maduro and 9/11 cases, dies of at 92",
-              "url": "https://nypost.com/2026/10/28/us-news/alvin-k-hellerstein-judge-who-handled-trump-maduro-and-9-11-cases-dies-at-92/"
+              "headline": "Feds launch immediate appeal after judge rejects bid to stop California from counting 20K disputed ballots",
+              "url": "https://nypost.com/2026/10/28/us-news/doj-appeals-ruling-rejecting-bid-to-block-20000-disputed-california-ballots/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Judge denies DOJ effort to isolate 20,000 California mail ballots",
+              "url": "https://www.washingtonexaminer.com/news/justice/4783689/judge-denies-doj-effort-isolate-california-mail-ballots/"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "Trump Demands Mary Peltola Be Taken Off Alaska Senate Race Ballot After NYT Report",
+          "neutralSummary": "The New York Times reported that Peltola’s campaign recruited other candidates to run against GOP Sen. Dan Sullivan.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Demands Mary Peltola Be Taken Off Alaska Senate Race Ballot After NYT Report",
+              "url": "https://www.huffpost.com/entry/donald-trump-mary-peltola-alaska_n_6ae25627e4b09cd24b6b95c7"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "news.google.com",
+              "headline": "Report on recruiting a ‘spoiler’ shakes up Senate race in Alaska",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDM5UFczdUxtS0llTnRxQjJPWHdTTWtFVVVyMXdUY0ZGWDlkVThnUjRjSWM2QmFiQTVFVV9tNFhkb3gybjhqYzVjTGZjX2Y4Tjd1UzZUOVVPV09PZGIxTkxXTnVaMGNYY25TeEtoMldydVJjMnJxSk93N2UyUWNvWWVvUVVxellJcHdmdVA2YWFCa1AydmZ0cHVQWGFnUmcxVU1R?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Mary Peltola's campaign, Dems backed covert scheme to field spoiler candidates in Alaska Senate race: report",
+              "url": "https://www.foxnews.com/politics/mary-peltola-campaign-dems-backed-covert-scheme-field-spoiler-candidates-alaska-senate-race-report"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Obama knocks White House’s response to Cheesecake Factory jab: ‘These are not serious people’",
+          "neutralSummary": "Obama knocks White House’s response to Cheesecake Factory jab: ‘These are not serious people’&nbsp;&nbsp;The HillMidterm election updates: Obama and Trump’s Cheesecake Factory feud continues at dueling campaign events&nbsp;&nbsp;CNNObama’s ‘Cheesecake Factory’ Jab Rankles Trump on Mississippi Campai",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Obama knocks White House’s response to Cheesecake Factory jab: ‘These are not serious people’",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZkVXNlZyWFZUVE9Rd193NWM1MTVQd25nNnJPaFYyTy1KLWtvMWhkazR3UXpqdW5Celd1MUhQbTFhdi1wV2RWSkxWSlRfVWdUN0hhY3RjZ3JiOTlUWnBGc0Z3U2lPU0tqdVRtcnJWSmx5akNlSkFTZ1BkelNrenV2ZWV2TERCTEU3c0HSAY8BQVVfeXFMTXVGXzVwQWpiLTVjTTl3akVUeHd4REZUS3A4Y1lnWURRWDI1SHNNVkNsVXFseDJvM3ZUT0pQZXNzVXg5cXUtQ0FxQ1FmdVJJUFFEQnVtN3NodEpvMU83UFlsTlE0MHR0MXF0LW96LUg4NFZZYnQxdFZaWTdhNGJaZmpWa1ZOWm45dTluX0dKbjA?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Obama says he was a Cheesecake Factory regular for a decade in retort to Trump",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4783787/obama-cheesecake-factory-regular-trump/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
+          "neutralHeadline": "Hegseth ousted top military strategist from Pentagon, sources say",
+          "neutralSummary": "Defense Secretary Pete Hegseth ousted a top military strategist from the Pentagon, The Hill has learned, marking another senior officer who has been removed from the department since Hegseth took the helm close to two years ago.&#160; Hegseth fired Army Lt. Gen. Brett Sylvia, who was the Director fo",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Hegseth ousted top military strategist from Pentagon, sources say",
+              "url": "https://thehill.com/policy/defense/6180055-hegseth-ousted-military-strategist-syllia/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Hegseth fires top Pentagon war planner Brett Sylvia in latest military shake-up",
+              "url": "https://nypost.com/2026/10/29/us-news/hegseth-fires-top-pentagon-war-planner-brett-sylvia-in-latest-military-shake-up/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Hegseth dismisses top military strategist from Joint Chiefs as Trump contemplates further Iran strikes",
+              "url": "https://www.washingtonexaminer.com/policy/defense/4783821/hegseth-dismisses-top-military-strategist-army-joint-staff/"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Federal Judge Rules Against Trump Admin In Dispute With California Over Alleged Noncitizen Ballots",
+          "neutralSummary": "The Justice Department's request marked an unprecedented attempt to get involved in the state's elections.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Federal Judge Rules Against Trump Admin In Dispute With California Over Alleged Noncitizen Ballots",
+              "url": "https://www.huffpost.com/entry/ruling-trump-california-alleged-noncitizen-ballots_n_6ae133dee4b059999c636bf3"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Judge Rejects Trump Officials’ Bid to Set Aside California Ballots",
+              "url": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html"
             }
           ]
         },
         {
           "id": "us-6",
-          "neutralHeadline": "Trump Gives Ted Cruz 1 Brutal Reason He Could Join Supreme Court: 'I Shouldn't Tell This'",
-          "neutralSummary": "The MAGA leader delivered the backhanded compliment Tuesday during a midterms rally in Lubbock, Texas.",
+          "neutralHeadline": "President Trump returns to Ohio for midterm rally",
+          "neutralSummary": "President Trump returns to Ohio for midterm rally&nbsp;&nbsp;The Columbus DispatchTrump rallies in Chillicothe, touts Husted, Ramaswamy ahead of Tuesday election&nbsp;&nbsp;NBC4 WCMH-TVTrump returns to headline Ohio GOP rally as Democrats campaign in Cincinnati&nbsp;&nbsp;WLWTTrump returns to Ohio W",
           "versions": [
             {
               "political": "left",
@@ -469,56 +487,83 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Trump Gives Ted Cruz 1 Brutal Reason He Could Join Supreme Court: 'I Shouldn't Tell This'",
-              "url": "https://www.huffpost.com/entry/trump-ted-cruz-backhanded-compliment-supreme-court-justice_n_6ae21aafe4b0a2cccd44697f"
+              "headline": "Reporter Spots 1 Key Detail At Trump's Recent Rally That The President Won't Like",
+              "url": "https://www.huffpost.com/entry/donald-trump-ohio-rally-small-venue_n_6ae27418e4b0a2cccd462f74"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Columbus Dispatch",
+              "initials": "TC",
+              "domain": "news.google.com",
+              "headline": "President Trump returns to Ohio for midterm rally",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcGJ1UDB3OFZhODc4R2FKRG92MTBEWmZXMzlpYUo4bHNjaG1NTEgtb2liclJNUjdSWlRxV0VGVlhsLVY4UG5faDNpeG40UTBmZjRCcXd4UXJ0MFppdmRBZktwVTFvQkstNkQyTjJtNjBPcVZPcUZGelUzZkVsbTVsMUpjbW15UGo4aVlZem1hMGtYZXZtVHlvNG91ZHdnOHVQNWZOak9KQ2stV2xfSmd1UXNnS2Q0R1ZKaGxMVVltdUhObjR0bGZ2TTBxVEZqSXhfbmJ6N1dIYVR2akRMNEtjMDlqQjYzdw?oc=5"
             }
           ]
         },
         {
           "id": "us-7",
-          "neutralHeadline": "Katie Zacharia Still Baffled By Hannity Interview Gone Wrong: ‘Not Prepared For The Hostility’",
-          "neutralSummary": "The former press secretary took issue with the way her chat with the Fox News host went down.",
+          "neutralHeadline": "Fire Breaks Out at South Carolina Nuclear Site",
+          "neutralSummary": "The fire at the Savannah River National Laboratory prompted officials to limit air traffic in the area. One person was hospitalized with minor injuries, officials said.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Katie Zacharia Still Baffled By Hannity Interview Gone Wrong: ‘Not Prepared For The Hostility’",
-              "url": "https://www.huffpost.com/entry/katie-zacharia-surprised-by-hannity-hostility_n_6ae1fdeee4b0a2cccd44410f"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Fire Breaks Out at South Carolina Nuclear Site",
+              "url": "https://www.nytimes.com/2026/10/28/us/nuclear-site-south-carolina-emergency.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Emergency declared at South Carolina nuclear site after lab fire",
+              "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4783678/emergency-south-carolina-nuclear-site-savannah-river-site/"
             }
           ]
         },
         {
           "id": "us-8",
-          "neutralHeadline": "Ex-RNC Chair Issues Dire Midterms Warning For Republicans: 'It's A Tough Environment'",
-          "neutralSummary": "Ronna McDaniel on Tuesday also decried her party spending hundreds of millions of dollars to back Texas Senate candidate Ken Paxton.",
+          "neutralHeadline": "Vance Proposes Restarting Peace Talks in Outreach to Iranian Official",
+          "neutralSummary": "In his letter, the vice president suggested an immediate resumption of comprehensive talks, including about Iran’s nuclear program.",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Ex-RNC Chair Issues Dire Midterms Warning For Republicans: 'It's A Tough Environment'",
-              "url": "https://www.huffpost.com/entry/ronna-mcdaniel-former-rnc-chair-midterms-warning-for-republicans-tough-environment_n_6ae1e258e4b0a43862444bb2"
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Vance Proposes Restarting Peace Talks in Outreach to Iranian Official",
+              "url": "https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Trump rejects reports he directed Vance to initiate peace talks with Iran",
+              "url": "https://www.washingtonexaminer.com/news/white-house/4783651/trump-vance-peace-talks-iran-war/"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Voters Care About Gas Prices. Trump Thinks They Should Care About Jon Husted’s Ass.",
-          "neutralSummary": "The president’s final month of pre-midterm rallies have sounded more like a lounge act than an election closing argument.",
+          "neutralHeadline": "She Was Arrested After Leaving Her Kids for Days. It Sparked a Debate.",
+          "neutralSummary": "A Florida sheriff’s office arrested a mother who had left her children home alone for days to go on a work trip, reigniting the debate over when parents act irresponsibly.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Voters Care About Gas Prices. Trump Thinks They Should Care About Jon Husted’s Ass.",
-              "url": "https://www.huffpost.com/entry/trump-husteds-ass_n_6adfa495e4b065fbf4c15b59"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "She Was Arrested After Leaving Her Kids for Days. It Sparked a Debate.",
+              "url": "https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html"
             }
           ]
         }
@@ -529,8 +574,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Better balance between development and conservation with revised Maju, Gillman plans: Nature groups",
-          "neutralSummary": "But they said biodiversity and habitats would still be negatively affected.",
+          "neutralHeadline": "Woman fined $2,500 for molesting female nightspot worker",
+          "neutralSummary": "Sonik Archana Susheel committed the offence in a downtown nightspot in the wee hours of March 14.",
           "versions": [
             {
               "political": "center",
@@ -538,15 +583,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Better balance between development and conservation with revised Maju, Gillman plans: Nature groups",
-              "url": "https://www.straitstimes.com/singapore/better-balance-between-development-and-conservation-with-revised-maju-gillman-plans-nature-groups"
+              "headline": "Woman fined $2,500 for molesting female nightspot worker",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/woman-fined-2500-for-molesting-female-nightspot-worker"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Woman fined for molesting female server at nightclub, victim asks for compensation",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2lYQ282V3gtZUJxak9SX3A5V0RCdU1JSzFaQWFJcUpiUlVRS2t6MHhpUTVYV1QyWnVXbnI4WW9MSWd1alB1TGtKamRjWmFKUFpVQXBLNlJ2XzBiYXczcTBEV2tScTh2VnlteUdiYzdzODZpTEx1RUFrcjUtZlpMOGhZRWtEY1NrczRvR2hqZjlvZVA5ZUdiUFpBZEFuZlU?oc=5"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Singapore, Indonesia committed at highest level to resolving bilateral issues: Vivian Balakrishnan",
-          "neutralSummary": "Both sides grappling with issues such as gas cuts, power exports and haze.",
+          "neutralHeadline": "Construction firm charged with operating unlicensed foreign worker dormitory",
+          "neutralSummary": "LBD Engineering and Alvin Lim Yee Hong are each accused of an offence linked to a Sungei Kadut Loop property.",
           "versions": [
             {
               "political": "center",
@@ -554,15 +608,56 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Singapore, Indonesia committed at highest level to resolving bilateral issues: Vivian Balakrishnan",
-              "url": "https://www.straitstimes.com/singapore/singapore-indonesia-committed-at-highest-level-to-resolving-bilateral-issues-vivian-balakrishnan"
+              "headline": "Construction firm charged with operating unlicensed foreign worker dormitory",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/construction-firm-charged-with-operating-unlicensed-foreign-worker-dormitory"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AsiaOne.com",
+              "initials": "A",
+              "domain": "news.google.com",
+              "headline": "Construction firm, general manager charged for operating illegal dormitory in Sungei Kadut, Singapore News",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWFTRVRPaUpiQnZyQnM4OVl5cXdhTkVXR2JMOXRVblFfVE12MUJUWGJwLUwxQ3R1N1cyZ3Y1R1I5R3RrdWQ0ZUFkMGh1WU9lWHNraHZxakpXYjY2SkVrVURLb0RlUkhEU08yUTJSR1R5ZEhydmgwZEM3ejVtTXZvVEdmTXJYNG9ER29mZGJ3RktIZFdUUEFQcFhrRTQ?oc=5"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Singapore, Malaysia test emergency response to simulated fire on stranded RTS Link train",
-          "neutralSummary": "The joint field training exercise involved a firefighting operation and casualty evacuation. It comes ahead of the cross-border rail service’s opening in February 2027.",
+          "neutralHeadline": "Haze in S’pore: PM2.5 reading in the west returns to normal zone after entering elevated range",
+          "neutralSummary": "The one-hour PM2.5 readings for all five regions are between 24 and 47 at 12pm, in the normal range.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Haze in S’pore: PM2.5 reading in the west returns to normal zone after entering elevated range",
+              "url": "https://www.straitstimes.com/singapore/haze-in-spore-pm2-5-reading-in-elevated-zone-for-1st-time-since-oct-27-at-57-in-the-west"
+            }
+          ]
+        },
+        {
+          "id": "singapore-4",
+          "neutralHeadline": "Battles, bots and breakthroughs: Inside the ST/Statista 2027 list of Singapore’s 100 best law firms",
+          "neutralSummary": "Battles, bots and breakthroughs: Inside the ST/Statista 2027 list of Singapore’s 100 best law firms",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Battles, bots and breakthroughs: Inside the ST/Statista 2027 list of Singapore’s 100 best law firms",
+              "url": "https://www.straitstimes.com/singapore/battles-bots-and-breakthroughs-inside-the-ststatista-2027-list-of-singapores-100-best-law-firms"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Asian shares fall as Alphabet earnings miss drags Wall St futures lower",
+          "neutralSummary": "Asian shares fall as Alphabet earnings miss drags Wall St futures lower",
           "versions": [
             {
               "political": "center",
@@ -570,13 +665,13 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Singapore, Malaysia test emergency response to simulated fire on stranded RTS Link train",
-              "url": "https://www.channelnewsasia.com/singapore/rts-link-train-fire-cross-border-exercise-6498921"
+              "headline": "Asian shares fall as Alphabet earnings miss drags Wall St futures lower",
+              "url": "https://www.channelnewsasia.com/business/asian-shares-fall-alphabet-earnings-miss-drags-wall-st-futures-lower-6502046"
             }
           ]
         },
         {
-          "id": "singapore-4",
+          "id": "singapore-6",
           "neutralHeadline": "Two hundred 'cruise for life' passengers stranded in Cambodia",
           "neutralSummary": "More than 200 passengers leave Villa Vie Residences’ Odyssey in Sihanoukville after the company suspends Cambodia operations and cites surging fuel costs.",
           "versions": [
@@ -601,41 +696,9 @@
           ]
         },
         {
-          "id": "singapore-5",
-          "neutralHeadline": "Singapore proposes incident reporting initiative for boosting AI safety",
-          "neutralSummary": "It would lay the groundwork for a more systematic way of sharing and learning from these incidents.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Singapore proposes incident reporting initiative for boosting AI safety",
-              "url": "https://www.straitstimes.com/tech/singapore-proposes-ai-incident-reporting-pilot-to-boost-ai-safety"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "Uncertainties in approvals and laws can significantly delay subsea cables for ASEAN Power Grid",
-          "neutralSummary": "Streamlining regulatory frameworks that build on existing international laws can help reduce friction or disputes: US expert",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Uncertainties in approvals and laws can significantly delay subsea cables for ASEAN Power Grid",
-              "url": "https://www.straitstimes.com/singapore/environment/uncertainties-in-approvals-and-laws-can-significantly-delay-subsea-cables-for-asean-power-grid"
-            }
-          ]
-        },
-        {
           "id": "singapore-7",
-          "neutralHeadline": "Singapore, Indonesia to move quickly on joint haze task force, says Vivian Balakrishnan",
-          "neutralSummary": "The task force will facilitate information-sharing and help the authorities in their work.",
+          "neutralHeadline": "Visiting hours at Tan Tock Seng, Khoo Teck Puat, Yishun hospitals extended to 10am-9pm from Nov",
+          "neutralSummary": "The extended hours include weekends and public holidays.",
           "versions": [
             {
               "political": "center",
@@ -643,15 +706,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Singapore, Indonesia to move quickly on joint haze task force, says Vivian Balakrishnan",
-              "url": "https://www.straitstimes.com/singapore/singapore-indonesia-to-move-quickly-on-joint-haze-task-force-says-vivian-balakrishnan"
+              "headline": "Visiting hours at Tan Tock Seng, Khoo Teck Puat, Yishun hospitals extended to 10am-9pm from Nov",
+              "url": "https://www.straitstimes.com/singapore/visiting-hours-at-tan-tock-seng-khoo-teck-puat-yishun-hospitals-extended-to-10am-9pm-from-nov"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Quantedge Foundation pledges $50m more to boost social mobility, including new Bukit Merah collaboration space",
-          "neutralSummary": "It will also study more than 3,000 lower-income households to see how social networks influence mobility.",
+          "neutralHeadline": "Inside the world of live-sellers: Banned words and supervised by AI",
+          "neutralSummary": "Inside the world of live-sellers: Banned words and supervised by AI",
           "versions": [
             {
               "political": "center",
@@ -659,15 +722,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Quantedge Foundation pledges $50m more to boost social mobility, including new Bukit Merah collaboration space",
-              "url": "https://www.straitstimes.com/singapore/quantedge-foundation-pledges-50m-to-social-mobility-including-new-bukit-merah-collaboration-space"
+              "headline": "Inside the world of live-sellers: Banned words and supervised by AI",
+              "url": "https://www.straitstimes.com/singapore/inside-the-world-of-live-sellers-banned-words-and-supervised-by-ai"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Vending machines selling local veggies under $2 to be rolled out; support for fish farms to scale up",
-          "neutralSummary": "The aim is to roll out 30 to 40 pairs of seafood and vegetable vending machines within the next six months.",
+          "neutralHeadline": "At least $1.3m lost in October to scammers posing as Simba staff and government officials",
+          "neutralSummary": "In one instance, a victim transferred a total of $285,000 to the scammers.",
           "versions": [
             {
               "political": "center",
@@ -675,8 +738,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Vending machines selling local veggies under $2 to be rolled out; support for fish farms to scale up",
-              "url": "https://www.straitstimes.com/singapore/environment/vending-machines-selling-local-veggies-under-2-to-be-rolled-out-support-for-fish-farms-to-scale-up"
+              "headline": "At least $1.3m lost in October to scammers posing as Simba staff and government officials",
+              "url": "https://www.straitstimes.com/singapore/at-least-1-3m-lost-in-october-to-scammers-posing-as-simba-staff-and-government-officials"
             }
           ]
         }
@@ -687,17 +750,17 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "MLC election results: NDA wins 16, Congress draws blank; SP gets 5 in UP",
-          "neutralSummary": "MLC election results: NDA wins 16, Congress draws blank; SP gets 5 in UP",
+          "neutralHeadline": "India ready to share 'battle-tested' anti-terror expertise with ASEAN,  its dialogue partners: Rajnath Singh",
+          "neutralSummary": "India ready to share 'battle-tested' anti-terror expertise with ASEAN,  its dialogue partners: Rajnath Singh",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "MLC election results: NDA wins 16, Congress draws blank; SP gets 5 in UP",
-              "url": "https://timesofindia.indiatimes.com/india/mlc-election-results-bjp-sp-trade-wins-as-congress-faces-setback-in-four-states-top-development/articleshow/135258597.cms"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners: Rajnath Singh",
+              "url": "https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece"
             },
             {
               "political": "center",
@@ -705,8 +768,65 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "UP MLC election results: BJP suffers setback in strongholds Varanasi and Lucknow, SP gets shot in the arm",
-              "url": "https://www.hindustantimes.com/india-news/up-mlc-election-results-bjp-suffers-setback-in-strongholds-varanasi-and-lucknow-sp-gets-shot-in-the-arm-101793205519151.html"
+              "headline": "India ready to share 'battle-tested' anti-terror expertise with ASEAN,  its dialogue partners: Rajnath Singh",
+              "url": "https://www.hindustantimes.com/india-news/india-ready-to-share-battle-tested-anti-terror-expertise-with-asean-its-dialogue-partners-rajnath-singh-101793252705574.html"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "Decoys, Italian Passport And A Private Jet: How Brazil's Bolsonaro Fled To US",
+          "neutralSummary": "Bolsonaro and his family landed in US on Wednesday",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Decoys, Italian Passport And A Private Jet: How Brazil's Bolsonaro Fled To US",
+              "url": "https://www.ndtv.com/world-news/brazil-election-2026-decoys-italian-passport-and-a-private-jet-how-brazils-flavio-bolsonaro-fled-to-us-12252171#publisher=newsstand"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Cyclone Arnab: Andhra CM orders fast-track relief, power restoration, early compensation",
+          "neutralSummary": "Cyclone Arnab: Andhra CM orders fast-track relief, power restoration, early compensation",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Cyclone Arnab: Andhra CM orders fast-track relief, power restoration, early compensation",
+              "url": "https://www.hindustantimes.com/india-news/cyclone-arnab-andhra-cm-orders-fast-track-relief-power-restoration-early-compensation-101793257366106.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
+              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYndjRXNBX1gwWFAxNkhMX0JZVm9fNnFHQjB0ZVBpVEdacjM5dGVLNEZ5SVVkUnNVT0FDV2xIRnJ0UnRTS2ZyZ3p1R0dWM1V1WnFta0FTdFA3ZmtlZ1UyTUxFX2gxOFJTWlhHbFB6RS1MczJ2dU1hR0VqTFhMS3ljQ29xNVR0QnB6aDk5TXZFVG9QMjhwY3JiT0FmVUhmcE9FVllEMDFRU3VtRERYLTZFQ3B3VHVQWjI3ZHBwUGt4YXNoWV9xWVlSbEV1UTlValpMcWt6MTF6SVA3Rzlxal9xYUVUMTdSaFZLNlo5cGkzTWXSAfcBQVVfeXFMTlQxWENwZFdka2ViWDlDcGRjRFJXamlMRUZuWWFJMFhqUC1JdUJQQlM5N2k2bDlfbWkxbEcxdm52TWo0ZmRxR0NzbzJJdVFEcU9XUlNMeEJ5WGQ0OFh6cTJjZWhMWmt6ckhYRWlsRmdFMW1yU0sxeXduWmlETEJYbU5UWTZUanp0bmUtTVRvNGJyamVFSWc4SWJ0anVyVWJMUTB0Rm05SGVVTVlieDRaQ3hSQWp1TVVXLWVvZHhtckR5dnhKdi04bXRzN1h1U054WXZVaDBLMmpsVEVpZkdfUmVpc3JON25wNWFNbGVNY0VXY1FwY0thUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "BJP's Kiren Rijiju calls Naseeruddin Shah ‘dangerous urban Dimagi Naxal’ after actor backs Jamia students",
+          "neutralSummary": "Naseeruddin Shah backed protesting students at Jamia Millia Islamia and called himself a proud “Dimagi Naxal”",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "BJP's Kiren Rijiju calls Naseeruddin Shah ‘dangerous urban Dimagi Naxal’ after actor backs Jamia students",
+              "url": "https://www.hindustantimes.com/india-news/bjps-kiren-rijiju-calls-naseeruddin-shah-dangerous-urban-dimagi-naxal-after-actor-backs-jamia-students-101793249676180.html"
             },
             {
               "political": "center",
@@ -714,147 +834,63 @@
               "source": "Economic Times",
               "initials": "ET",
               "domain": "economictimes.indiatimes.com",
-              "headline": "NDA wins 16 MLC seats in 4 states, Congress blank",
-              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/mlc-polls-in-4-states-nda-victorious-in-16-congress-draws-blank-samajwadi-party-bags-5-seats-in-uttar-pradesh-including-2-in-varanasi/articleshow/135273760.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "MLC polls: In Maharashtra, ruling Mahayuti gets 2 seats, counting continues for other seats",
-          "neutralSummary": "In Maha Vikas Aghadi, NCP SP leads on two seats; setback for ruling NCP prompts senior leader Praful Patel to call for introspection",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "MLC polls: In Maharashtra, ruling Mahayuti gets 2 seats, counting continues for other seats",
-              "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-polls/article71637475.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Cyclone ‘Arnab’ LIVE updates | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
-          "neutralSummary": "The storm now heads for Odisha, Chhattisgarh, Jharkhand and West Bengal, where heavy rain is forecast",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Cyclone ‘Arnab’ LIVE updates | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
-              "url": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Spanish Train Crash Kills at Least 68 People South of Madrid",
-          "neutralSummary": "A high-speed rail service slammed into another train about 60 miles south of Madrid on Wednesday, killing at least 68 people — the second major accident on Spain’s rail network this year and the deadliest crash in over a decade. (Source: Bloomberg)",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Indians In Madrid Asked To Contact Embassy For Help After Train Crash",
-              "url": "https://www.ndtv.com/world-news/indians-in-madrid-asked-to-contact-embassy-for-help-after-train-crash-12250821#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Spanish Train Crash Kills at Least 68 People South of Madrid",
-              "url": "https://www.bloomberg.com/news/videos/2026-10-28/spanish-train-crash-kills-at-least-64-people-south-of-madrid"
+              "headline": "Rijiju slams Naseeruddin Shah's 'dimagi naxal' video",
+              "url": "https://economictimes.indiatimes.com/news/politics-and-nation/kiren-rijiju-calls-naseeruddin-shah-dangerous-urban-dimagi-naxal-amid-education-system-critique/articleshow/135292601.cms"
             }
           ]
         },
         {
           "id": "india-5",
-          "neutralHeadline": "Airlines seek more time to shift international flights to Navi Mumbai airport",
-          "neutralSummary": "MIAL presented its redevelopment plans and proposed temporarily shifting international traffic accounting for five million passengers per annum (MPPA) to NMIA.",
+          "neutralHeadline": "Congress-led Keralam govt firm on anti-corruption probe against Gyanesh Kumar over 2006 road project",
+          "neutralSummary": "State Public Works Minister tells Assembly that a fresh preliminary inquiry has been ordered into the allegations, though the report is yet to be received",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Mumbai Airport, Airlines Work Out Plan To Shift Traffic To Navi Mumbai",
-              "url": "https://www.ndtv.com/india-news/mumbai-airport-airlines-work-out-plan-to-shift-traffic-to-navi-mumbai-12250714#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Airlines seek more time to shift international flights to Navi Mumbai airport",
-              "url": "https://www.hindustantimes.com/india-news/airlines-seek-more-time-to-shift-international-flights-to-navi-mumbai-airport-101793208874252.html"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Congress-led Keralam govt firm on anti-corruption probe against Gyanesh Kumar over 2006 road project",
+              "url": "https://www.thehindu.com/news/national/kerala/congress-led-keralam-govt-firm-on-anti-corruption-probe-against-gyanesh-kumar-over-2006-road-project/article71639377.ece"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "'There was mangled mess of metal': Eyewitnesses recount Spain train crash",
-          "neutralSummary": "'There was mangled mess of metal': Eyewitnesses recount Spain train crash",
+          "neutralHeadline": "17 two-wheelers, four four-wheelers gutted in fire near Pune; one injured",
+          "neutralSummary": "An official from the Pimpri-Chinchwad fire brigade said the main fire station received a call about the blaze at 1.59 a.m. Subsequently, two fire tenders were sent to the spot",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'There was mangled mess of metal': Eyewitnesses recount Spain train crash",
-              "url": "https://timesofindia.indiatimes.com/world/europe/there-was-mangled-mess-of-metal-eyewitnesses-recount-spain-train-crash/articleshow/135262141.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Reuters",
-              "initials": "R",
-              "domain": "news.google.com",
-              "headline": "At least 68 people dead in Spain's second major train crash this year",
-              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "17 two-wheelers, four four-wheelers gutted in fire near Pune; one injured",
+              "url": "https://www.thehindu.com/news/national/maharashtra/17-two-wheelers-four-four-wheelers-gutted-in-fire-near-pune-one-injured/article71639431.ece"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "NCP appoints Zeeshan Siddique as Mumbai chief as Parth Pawar pushes organisational changes amid dissent",
-          "neutralSummary": "Siddique is considered close to Parth, and his appointment marked Siddique’s second significant political milestone in just five months within the organization.",
+          "neutralHeadline": "Mandal level committees to oversee El Niño mitigation measures in Telangana",
+          "neutralSummary": "The committees are formed to mitigate the impact on water availability, agriculture, livestock and rural livelihoods",
           "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "NCP appoints Zeeshan Siddique as Mumbai chief as Parth Pawar pushes organisational changes amid dissent",
-              "url": "https://www.hindustantimes.com/india-news/ncp-appoints-zeeshan-siddique-as-mumbai-chief-as-parth-pawar-pushes-organisational-changes-amid-dissent-101793207254011.html"
-            },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "news.google.com",
-              "headline": "‘Outsider’ Zeeshan Siddique is new Mumbai NCP chief, tasked with expanding footprint",
-              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVnZRamlRdUdCSldwc1UzLUt5THQ2M01Oa0l2QmxsdVMwOUVFSnlBSV9nSVVRYmtRTHk0YXN2dEVxajFSdC00XzN4dVQ0SkNocGJ1QkZOeWg0U0c5N0RrTmJGbjdaM1JfVjBZTXlVM2lZMGE1dXgwU19iV1NscE9uWmpPei1Hek1WNERBVEJGRkd0SnI4Rl9vc1BodHLSAaMBQVVfeXFMTUNFX1RsRU0yWDNHQlFxQjhEd2hsYUZZUmJFUGc3Znp3NVJabnFxWVh5NEdWSGdYVlFGYjJfS2Y4WG5zS2wyR2pHclFhMWZ3TVZfdEVYRHE5TzlzcVhIU3FZSU1rOE9rVlZtcnpka0FBWEFVYi0wMzd6Uk5uUFZheHlfVEZkS01TY01BWWo5eVRtVjBDOEpKQUg0ci1WS1FLVVZkUQ?oc=5"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Mandal level committees to oversee El Niño mitigation measures in Telangana",
+              "url": "https://www.thehindu.com/news/national/telangana/mandal-level-committees-to-oversee-el-nino-mitigation-measures-in-telangana/article71639116.ece"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Integrated village development programme inaugurated in Nanjangud",
-          "neutralSummary": "Integrated village development programme inaugurated in Nanjangud",
+          "neutralHeadline": "Rivers in spate in north Andhra after Cyclone Arnab; flood water enters Ichchapuram",
+          "neutralSummary": "A junior lineman dies after falling from an electric pole during repairs in Vizianagaram district",
           "versions": [
             {
               "political": "left",
@@ -862,15 +898,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Integrated village development programme inaugurated in Nanjangud",
-              "url": "https://www.thehindu.com/news/national/karnataka/integrated-village-development-programme-inaugurated-in-nanjangud/article71636988.ece"
+              "headline": "Rivers in spate in north Andhra after Cyclone Arnab; flood water enters Ichchapuram",
+              "url": "https://www.thehindu.com/news/national/andhra-pradesh/rivers-in-spate-in-north-andhra-after-cyclone-arnab-flood-water-enters-ichchapuram/article71638931.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "UNESCO expert committee seeks stronger community participation in Hampi conservation",
-          "neutralSummary": "UNESCO expert committee seeks stronger community participation in Hampi conservation",
+          "neutralHeadline": "Maharashtra MLC polls: Blame game begins in Mahayuti as BJP accuses Shiv Sena for defeat",
+          "neutralSummary": "BJP calls Sena ‘greedy’; Sena blames BJP for unfair seat distribution",
           "versions": [
             {
               "political": "left",
@@ -878,8 +914,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "UNESCO expert committee seeks stronger community participation in Hampi conservation",
-              "url": "https://www.thehindu.com/news/national/karnataka/unesco-expert-committee-seek-stronger-community-participation-in-hampi-conservation/article71636511.ece"
+              "headline": "Maharashtra MLC polls: Blame game begins in Mahayuti as BJP accuses Shiv Sena for defeat",
+              "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-polls-blame-game-begins-in-mahayuti-as-bjp-accuses-shiv-sena-for-defeat/article71639270.ece"
             }
           ]
         }
