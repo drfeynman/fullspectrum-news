@@ -1,11 +1,86 @@
 {
-  "generatedAt": "2026-11-02T22:13:47.675465+00:00",
+  "generatedAt": "2026-11-03T08:47:41.144290+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
+          "neutralHeadline": "US strikes Iran ahead of midterm elections",
+          "neutralSummary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "US strikes Iran ahead of midterm elections",
+              "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "California’s Bay Area debates data centres ahead of US midterm elections",
+              "url": "https://www.aljazeera.com/news/2026/11/3/californias-bay-area-debates-data-centres-ahead-of-us-midterm-elections?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Binance resumes customer withdrawals after record $6.3bn hack",
+          "neutralSummary": "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitorThe cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack.The exchange was hit by",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Binance resumes customer withdrawals after record $6.3bn hack",
+              "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "North Korea denies being behind record $6.3bn Binance hack",
+              "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "North Korea rejects US allegations over $6 billion Binance crypto heist",
+          "neutralSummary": "North Korea on Tuesday dismissed US allegations that it was behind a $6 billion cryptocurrency theft from Binance as \"absurd rhetoric\", accusing Washington of seeking to portray the country as a cybercriminal state and warning that US hostility could affect future diplomatic engagement.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "How crypto hacking funds isolated North Korea’s nuclear programme",
+              "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "North Korea rejects US allegations over $6 billion Binance crypto heist",
+              "url": "https://www.france24.com/en/asia-pacific/20261102-north-korea-rejects-us-allegations-over-6-billion-binance-crypto-heist"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
           "neutralHeadline": "A Third Weekend Of Protests In France As Youth-Led Rallies Sweep Europe",
           "neutralSummary": "About 70,000 police and gendarmes were deployed across the country after French Interior Minister Laurent Nuñez warned of a “very high risk” of disorder.",
           "versions": [
@@ -30,43 +105,18 @@
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
-          "neutralSummary": "US air safety investigators said there are early indications the Learjet 60 that crashed in Palm Beach, Florida, on Sunday had broken up before impacting the ground, killing all nine people on board and injuring at least one person on the ground. (Source: Bloomberg)",
+          "id": "global-5",
+          "neutralHeadline": "U.K. Leader Burnham Hints At Apology For Country's Role In Slave Trade But Rejects Reparations",
+          "neutralSummary": "The prime minister said his government will consider apologizing for the first time for its role in the trans-Atlantic slave trade as it seeks to strengthen relations with nations in Africa and the Caribbean.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-              "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Learjet May Have Broken Up Before Fatal Florida Crash, NTSB Says",
-              "url": "https://www.bloomberg.com/news/videos/2026-11-02/learjet-may-have-broken-up-before-fatal-florida-crash-ntsb-says"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Trump to remove Rwanda and South Africa from US trade deal",
-          "neutralSummary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Trump to remove Rwanda and South Africa from US trade deal",
-              "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "U.K. Leader Burnham Hints At Apology For Country's Role In Slave Trade But Rejects Reparations",
+              "url": "https://www.huffpost.com/entry/britain-slavery-burnham_n_6ae601eae4b0b1f508d4d5b8"
             },
             {
               "political": "left",
@@ -74,74 +124,99 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "US to suspend South Africa and Rwanda from duty-free trade access",
-              "url": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-          "neutralSummary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-              "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "right",
-              "tone": "pessimistic",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Ukraine says air alert system hacked after false radiation warning in Kyiv",
-              "url": "https://www.foxnews.com/world/ukraine-air-alert-system-hacked-false-radiation-warning-kyiv"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Uganda withdrawing troops from peacekeeping mission in Somalia",
-          "neutralSummary": "In tonight's edition,  Uganda starts drawing down troops just days after the UN ends its political mission in Somalia. Also, upcoming municipal elections in South Africa risk solidifying growing political fragmentation.  And the drought gripping Chad could be the country’s worst in more than 40 year",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Uganda begins withdrawing troops from Somalia after 20 years",
-              "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Uganda withdrawing troops from peacekeeping mission in Somalia",
-              "url": "https://www.france24.com/en/uganda-withdrawing-troops-from-peacekeeping-mission-in-somalia"
+              "headline": "A response to Andy Burnham: We need an apology and reparations",
+              "url": "https://www.aljazeera.com/opinions/2026/11/3/a-response-to-andy-burnham-we-need-an-apology-and-reparations?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
-          "neutralSummary": "The U.N.'s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence Polisario Front.",
+          "neutralHeadline": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+          "neutralSummary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
-              "url": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+              "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "news.google.com",
+              "headline": "Russian attack on Ukraine aid hub kills 26 as US announces new peace talks",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "global-7",
+          "neutralHeadline": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+          "neutralSummary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict",
+              "url": "https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-8",
+          "neutralHeadline": "Russian strikes kill at least 26 in Ukraine after war's longest ceasefire ends",
+          "neutralSummary": "Russia killed at least 26 people in strikes on a village in southern Ukraine on Monday, including civilians collecting humanitarian aid, emergency workers and police officers. The attack came hours after a rare ceasefire ended, extinguishing hopes of progress towards peace.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+              "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Russian strikes kill at least 26 in Ukraine after war's longest ceasefire ends",
+              "url": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Major test for Australia's social media ban begins in High Court",
+          "neutralSummary": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Major test for Australia's social media ban begins in High Court",
+              "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
@@ -149,56 +224,8 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "What’s the future of the Western Sahara conflict?",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-7",
-          "neutralHeadline": "Poland's constitutional crisis deepens as Prime Minister Tusk faces accusations of power grab",
-          "neutralSummary": "Poland's constitutional crisis deepens as Prime Minister Tusk faces accusations of power grab&nbsp;&nbsp;Fox NewsRussia Senses Opportunity in Polish Political Turmoil&nbsp;&nbsp;The New York TimesOpinion | Poland’s Constitutional Crisis Is Also Europe’s&nbsp;&nbsp;WSJBitter spat between Poland’s pro",
-          "versions": [
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "news.google.com",
-              "headline": "Poland's constitutional crisis deepens as Prime Minister Tusk faces accusations of power grab",
-              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcjBrd3FTdWlWY1A1aU5LUERrSHlYdUFVcnBzZVZSSVV0cnlMcG5naTY2WW1rRkVtcnZHa2tqNkkzYmc1d2tLZDJ0WlRIZS1PdUpuMWlxYUJXRk1CWFZnSW5iLXN3WGlFUU4wVXJPUHBmaGswTzhjMTlTYkFCbjNPcU9vdS1BampBbGs0WFp6WmJOTVpBaERMbENpVnl2T3g0dWxVeW4zbF9JVTZWbXdlVTFaOUJQc1XSAbwBQVVfeXFMTnZOZFpGMVJqQUsyNUwzWnVjYl9laFkyNHpkcWVmNkstdlZ1VlNuZkx2T1pHVU1EdGQyT2p4NWZRTHpPeWNzZmJtZVNKdXppN1RMNlFUTThON3JNREdLTWVPLXlzTjRGM1pZU2tMVE9TT2lPMWVMVklUb1pjdjhvMVk0bFJLaE14dU5tT0g5WVQ5UExGVFViSWlWeWRRd1NNcHZ6MGNFV0hPcUlORXFaZmUtVkZDYXNDNjJ1QjY?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "global-8",
-          "neutralHeadline": "The Long Hull: Karl Bushby reflects on perseverance & 'best of humanity' on his 28-year journey home",
-          "neutralSummary": "“They say it takes a village. In this case, it took a world.” After 28 years and some 50,000 kilometres, British explorer and adventurer Karl Bushby has returned to his hometown of Hull, completing an extraordinary life journey across four continents that illustrates not only the limits of human end",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "The Long Hull: Karl Bushby reflects on perseverance & 'best of humanity' on his 28-year journey home",
-              "url": "https://www.france24.com/en/tv-shows/spotlight/20261102-the-long-hull-karl-bushby-reflects-on-perseverance-best-of-humanity-on-his-28-year-journey-home"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-          "neutralSummary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffectiveCora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has so",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-              "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg"
+              "headline": "Australia’s High Court hears bid to overturn under-16s social media ban",
+              "url": "https://www.aljazeera.com/news/2026/11/3/australias-high-court-hears-bid-to-overturn-under-16s-social-media-ban?traffic_source=rss"
             }
           ]
         }
@@ -209,8 +236,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Haley Stevens on Mike Rogers: ‘Maybe he can be a McCain-type person or a Lisa Murkowski’",
-          "neutralSummary": "Rep. Haley Stevens (D-Mich.) suggested former Rep. Mike Rogers (R-Mich.), whom she recently endorsed for the Senate seat in Michigan over Democratic nominee Abdul El-Sayed, could be similar to two Republican senators known to buck their party. In an interview released Monday by The Free Press, Steve",
+          "neutralHeadline": "Haley Stevens' Chief Of Staff And Others Resign Amid Mike Rogers Endorsement",
+          "neutralSummary": "The Michigan lawmaker was originally supposed to attend an event with Abdul El-Sayed.",
           "versions": [
             {
               "political": "left",
@@ -231,22 +258,13 @@
               "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church"
             },
             {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Haley Stevens on Mike Rogers: ‘Maybe he can be a McCain-type person or a Lisa Murkowski’",
-              "url": "https://thehill.com/homenews/campaign/6189975-stevens-rogers-mccain-murkowski/"
-            },
-            {
               "political": "right",
               "tone": "neutral",
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "Mike Rogers dishes on how shock Haley Stevens endorsement unfolded hours before Election Day",
-              "url": "https://www.foxnews.com/politics/mike-rogers-dishes-shock-haley-stevens-endorsement-unfolded-hours-election-day"
+              "headline": "JD Vance says Haley Stevens' endorsement of GOP's Mike Rogers will 'certainly' help Michigan Senate race",
+              "url": "https://www.foxnews.com/politics/jd-vance-says-haley-stevens-endorsement-gops-mike-rogers-certainly-help-michigan-senate-race"
             },
             {
               "political": "right",
@@ -254,15 +272,15 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "Mike Rogers Picks Up Another Democrat Endorsement On Election Eve",
-              "url": "https://www.dailywire.com/news/mike-rogers-picks-up-another-democrat-endorsement-on-election-eve"
+              "headline": "READ IT: Haley Stevens Responds Directly To Dems Angry About Her Rogers Endorsement",
+              "url": "https://www.dailywire.com/news/read-it-haley-stevens-responds-directly-to-dems-angry-about-her-rogers-endorsement"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "Reflecting Pool dominates Trump’s closing midterm speech",
-          "neutralSummary": "President Trump’s closing speech a day before the midterm elections focused on the reopening of the Lincoln Memorial Reflecting Pool and other changes around Washington, D.C. Trump in remarks at the Reflecting Pool announced its reopening. He showed pictures of what was replaced and said it should b",
+          "neutralHeadline": "US military strikes Iran’s Qeshm Island day before midterms",
+          "neutralSummary": "The U.S. military struck radar detectors and missile launchers on Iran’s Qeshm Island on Monday, a day before the U.S. midterm elections as mediators continue to push the two sides to reach a peace deal.  The Monday attack is a continuation of strikes against Iran and was defensive in nature, a U.S.",
           "versions": [
             {
               "political": "left",
@@ -270,17 +288,17 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Trump Returns to Reflecting Pool, Now Refilled After Botched Renovation",
-              "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-refilled-botched-repairs.html"
+              "headline": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
+              "url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
+              "source": "Al Jazeera",
+              "initials": "AJ",
               "domain": "news.google.com",
-              "headline": "Trump unveils results of $14m reflecting pool makeover in final appeal before midterms",
-              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUt1cmdTV3B4RFo4M216VzlOUmpNWnRhb0dOQnp4RWFjYXcwTUVsd1V0Z0xVekgwM0IxbVdhUXFhSW5nSzRuVEV2Q1dwRkJNR09KTDZFSEpLMGZYMld1VVE3UmVKS180Zkt3ZWJhOUlGZGNwV0tkNGF0RzF6N21yOVVuU0tVU1BHZ1J1YzVSbG5OZ2c?oc=5"
+              "headline": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQazFFTTMzNUJ2SzhZblQxcGowTm9WbTNqa2lSYUJLckNuRkRvZmEyaVJrSlhsNkRQN1ZUbGFjZ0lFUVFtak5jOFppMFVGVHh0UUlOVFdKeWNHR2d4Tjh1ZXkyZ25iUVNJSFI0amw3cjdVOUEtMElHRnZ1UURVSDFRcTk1enNOSEk4RmE2ZUw1RVVXTXNVQmg1Rm1LMEk3UUJjRHF3bWtLUHl1UXhpVFJya1dYMkfSAboBQVVfeXFMUG52WkRoZDlGSHAxZ3BwOGhOUEp1SWJuTVNxZHJnSzBmaWEwSk55NUJqV0Y1cWplUkJtdV9OUjl6TUFqeXF2Um00RElDaVg2R2lHbjN1b2s1RFBvX3lDS1dMQlZrVVVlTk0ydno0OWZXU3M1eUlLa2dUMHMxRGRQNlBuWW9FeUdyb3c2Z2s1dXdjd2V6ajVLRGxyNDNzYWVod1p3X1prOWMzNDJqLWpDckN0S3NlbjI5QkFR?oc=5"
             },
             {
               "political": "center",
@@ -288,8 +306,8 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Reflecting Pool dominates Trump’s closing midterm speech",
-              "url": "https://thehill.com/homenews/administration/6190138-trump-midterm-election-speech-reflecting-pool/"
+              "headline": "US military strikes Iran’s Qeshm Island day before midterms",
+              "url": "https://thehill.com/policy/defense/6190947-us-strikes-iranian-radar-missiles/"
             },
             {
               "political": "right",
@@ -297,15 +315,15 @@
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Trump teases ‘Trump Reflecting Pool’ at final midterm elections event, says he’s joking",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4788627/trump-teases-reflecting-pool-name-change-joke/"
+              "headline": "US says it conducted defensive strikes against Iran on eve of midterm elections",
+              "url": "https://www.washingtonexaminer.com/policy/defense/4788963/us-defensive-strikes-iran-qeshm-island/"
             }
           ]
         },
         {
           "id": "us-3",
-          "neutralHeadline": "Trump makes one last attempt to get the Supreme Court to interfere with the midterms",
-          "neutralSummary": "Here’s a hot take: The outcome of the 2026 midterms is unlikely to turn on close races in California. California has no statewide races that are expected to be close, and it is a solid blue state that recently redrew its US House maps to maximize Democratic gains. So it’s a bit baffling that the [&#",
+          "neutralHeadline": "Supreme Court rejects Trump administration’s bid to set aside 20,000 California ballots",
+          "neutralSummary": "The Supreme Court on Monday quickly rejected the Trump administration’s effort to force California officials to set aside 20,000 ballots it claims belong to likely noncitizens and must be investigated.&#160; The court’s one-sentence order contained no explanation and had no noted dissents. Californi",
           "versions": [
             {
               "political": "left",
@@ -317,152 +335,61 @@
               "url": "https://www.vox.com/politics/508667/trump-supreme-court-california-ballots"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Trump Administration Asks Supreme Court to Intervene in California Ballot Case",
-              "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html"
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Supreme Court rejects Trump administration’s bid to set aside 20,000 California ballots",
+              "url": "https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/"
             },
             {
-              "political": "left",
+              "political": "right",
               "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "Trump administration asks Supreme Court to set aside 20,000 California ballots for now",
-              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbnI1MW1IejNwVy02SWpZOGszV25CNzRkdmViZkhrRWRKODBYdkVyODZSVHhpRnRLRlg5Nm84QkNYbEZGT2h1WWN6QXlHSV9TemRpYy1tQ09nTnJ6U09kNWlYRk10ZXZzU0FvbnBZY2wtNVYxc3h6N2Q1VVM4TkM2dUpZdVZsOTdDdnBUX3FRTFNzbW5XcU1UazNHa2lSOVdUTFgwZ0dfXy00amlSWDFQWThfX1VDeVpJM2Y5djF0dklPcnNyWHNKektB?oc=5"
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Supreme Court Makes Key Ruling In Trump Admin’s Ballot Fight On Election Eve",
+              "url": "https://www.dailywire.com/news/supreme-court-makes-key-ruling-in-trump-admins-ballot-fight-on-election-eve"
             }
           ]
         },
         {
           "id": "us-4",
-          "neutralHeadline": "Trump touts oil price drop on day before election",
-          "neutralSummary": "President Trump on Monday touted a new drop in oil prices during his closing pitch to voters ahead of Tuesday’s midterm elections. International benchmark Brent crude was trading at $104 Monday afternoon, down from $112 earlier in the day. U.S. benchmark WTI was trading at about $96 per barrel, down",
+          "neutralHeadline": "SCOTUS rejects Trump's bid over disputed California ballots",
+          "neutralSummary": "SCOTUS rejects Trump's bid over disputed California ballots&nbsp;&nbsp;AxiosSupreme court rules against Trump over bid to force California to set aside ballots&nbsp;&nbsp;The GuardianJudge Declines to Halt D.H.S. Demands for States to Screen Ballots&nbsp;&nbsp;The New York TimesSupreme Court rejects",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Trump Mounted A Coup The Last Time An Election Didn’t Go His Way. What Will He Do This Time?",
-              "url": "https://www.huffpost.com/entry/trump-midterm-threat_n_6adfbea7e4b059999c626f78"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "The Supreme Court rejects a DOJ push to separate California ballots",
+              "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump touts oil price drop on day before election",
-              "url": "https://thehill.com/policy/energy-environment/6190118-midterms-oil-prices-fall/"
+              "source": "Axios",
+              "initials": "AX",
+              "domain": "news.google.com",
+              "headline": "SCOTUS rejects Trump's bid over disputed California ballots",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQVGduRmpYTnVpTDV3OWRVaHQyN1RTblRjNkhCWUZEak5vUkhfMHVla0RtSUhlRHIxVm9yOG43Z09fX1RCYkF4MUJJdU5uTGwxWnJfM3MxWlRQWnVteTNQZW9yeTl1UlpUYWZZVTNiRFZuVUJLdDRrOGhETTFhZw?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Supreme Court denies Trump admin request to reverse block on segregating 20K California ballots",
+              "url": "https://www.foxnews.com/politics/supreme-court-denies-trump-admin-request-reverse-block-segregating-20k-california-ballots"
             }
           ]
         },
         {
           "id": "us-5",
-          "neutralHeadline": "Ex-FBI leader in Chicago sues DOJ, Blanche, Patel over ‘politically motivated’ Broadview Six case",
-          "neutralSummary": "Former Chicago FBI chief Douglas DePodesta sued President Trump and other top administration officials, alleging he was forced to resign after a federal prosecutor sought to blame him for the collapse of a controversial case against six protesters opposing the federal immigration crackdown. DePodest",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Former Chicago FBI Chief Sues DOJ, Says He Was Wrongly Blamed for Botched Broadview Six Case",
-              "url": "https://www.nytimes.com/2026/11/02/us/chicago-fbi-broadview-six-lawsuit.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Ex-FBI leader in Chicago sues DOJ, Blanche, Patel over ‘politically motivated’ Broadview Six case",
-              "url": "https://thehill.com/homenews/state-watch/6190100-broadview-six-prosecution-fallout/"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "Who is Jason Turkish, Haley Stevens’s El-Sayed-bashing fiancé?",
-          "neutralSummary": "Jason Turkish, the fiancé of Rep. Haley Stevens (D-Mich.), has divided Michigan Democrats after the pair endorsed Republican candidate Mike Rogers over Democratic nominee Abdul El-Sayed in the state’s Senate race. Turkish’s pledge to vote for Rogers followed attacks against El-Sayed for using “antis",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Who Is Jason Turkish, Haley Stevens’s Fiancé?",
-              "url": "https://www.nytimes.com/2026/11/02/us/politics/jason-turkish-haley-stevens-fiance.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Who is Jason Turkish, Haley Stevens’s El-Sayed-bashing fiancé?",
-              "url": "https://thehill.com/homenews/campaign/6189925-haley-stevens-fiance-endorses-rogers/"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
-          "neutralSummary": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
-              "url": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Judge tosses case against ex-FBI officials accused of lying to Congress about Hunter Biden investigation",
-              "url": "https://www.foxnews.com/politics/judge-tosses-case-against-ex-fbi-officials-accused-lying-congress-hunter-biden-investigation"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "DOJ asks for Supreme Court to intervene on California ballot demands",
-          "neutralSummary": "On the eve of the Nov. 3 election, the Trump administration is hoping the Supreme Court will reverse lower courts that rejected its request to order California to set aside the ballots of thousands of people it says are \"likely\" noncitizens.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "DOJ asks for Supreme Court to intervene on California ballot demands",
-              "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "DOJ appeals to Supreme Court to reverse block on segregating 20K California ballots",
-              "url": "https://www.foxnews.com/politics/doj-appeals-supreme-court-reverse-block-segregating-20k-california-ballots"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
           "neutralHeadline": "Watch live: The Hill’s Decision Desk ’26 — Election Night in America",
           "neutralSummary": "The Hill&#8217;s Decision Desk &#8217;26: Election Night in America will feature five hours of live election coverage moderated by Cory Smith an​​d Drew Petrimoulx, with further contributions from Chris Stirewalt and a few special guests. As the go-to powerhouse covering politics and policy, and The",
           "versions": [
@@ -483,6 +410,124 @@
               "domain": "thehill.com",
               "headline": "Watch live: The Hill’s Decision Desk ’26 — Election Night in America",
               "url": "https://thehill.com/video-clips/6188596-watch-live-the-hills-decision-desk-26-election-night-in-america/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "The Snacks, Sips, And Games You Need To Survive Election Night",
+              "url": "https://www.dailywire.com/news/the-snacks-sips-and-games-you-need-to-survive-election-night"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Talarico says he wants to work with Trump on bipartisan MAGA agenda",
+          "neutralSummary": "Democratic Texas Senate candidate James Talarico said he would want to work with President Trump on a bipartisan “Make America Great Again” agenda. “I would love, as the next U.S. senator from Texas, to work with Donald Trump to actually fulfill some of the promises of his political project,” Talari",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Talarico says he wants to work with Trump on bipartisan MAGA agenda",
+              "url": "https://thehill.com/homenews/campaign/6190917-james-talarico-donald-trump-maga/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Battleground Dem touts bipartisan record, but can’t name single issue she’d work with Trump on",
+              "url": "https://www.foxnews.com/politics/battleground-dem-touts-bipartisan-record-cant-name-single-issue-shed-work-trump"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Talarico says he’d work with Trump to fulfill ‘promise’ of MAGA: ‘There’s still time’",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4788790/james-talarico-trump-maga-promise-texas/"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
+          "neutralHeadline": "Trump’s final midterms pitch: Look at my pool",
+          "neutralSummary": "This story appeared in&#160;The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life.&#160;Subscribe here. Welcome to The Logoff: Donald Trump is closing out the midterms by talking about anything but.&#160; What’s",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Trump’s final midterms pitch: Look at my pool",
+              "url": "https://www.vox.com/the-logoff-newsletter-trump/508686/trump-midterms-reflecting-pool-washington-dc-renovations"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Trump says Republicans should ‘win in a landslide’ in final pitch to midterm election voters",
+              "url": "https://nypost.com/2026/11/02/us-news/trump-says-gop-should-win-in-a-landslide-in-final-pitch-to-midterm-election-voters/"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Former Chicago FBI Chief Sues DOJ, Says He Was Wrongly Blamed for Botched Broadview Six Case",
+          "neutralSummary": "Douglas DePodesta says he was forced out of his job after U.S. Attorney Andrew S. Boutros’s prosecutions of protesters known as the Broadview Six fell apart.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Former Chicago FBI Chief Sues DOJ, Says He Was Wrongly Blamed for Botched Broadview Six Case",
+              "url": "https://www.nytimes.com/2026/11/02/us/chicago-fbi-broadview-six-lawsuit.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Ex-Chicago FBI chief sues DOJ, claims he was ousted over failed anti-ICE prosecutions",
+              "url": "https://www.foxnews.com/politics/ex-chicago-fbi-chief-sues-doj-claims-he-ousted-over-failed-anti-ice-prosecutions"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "NY child dies of measles, marking state’s first death from the disease in 30 years",
+          "neutralSummary": "The measles death marks the first in the Empire State in over 30 years, and comes just four weeks after Gov. Kathy Hochul declared a State Disaster Emergency in response to a surge in cases.",
+          "versions": [
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "NY child dies of measles, marking state’s first death from the disease in 30 years",
+              "url": "https://nypost.com/2026/11/03/us-news/ny-child-dies-of-measles-marking-states-first-death-from-the-disease-in-30-years/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "New York reports first measles death in 30 years, Hochul says",
+              "url": "https://www.washingtonexaminer.com/policy/healthcare/4788960/new-york-first-measles-death-child-hochul/"
             }
           ]
         }
@@ -493,33 +538,24 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Johor-S’pore SEZ records $28b of approved projects, ministers note ‘good progress’ on various fronts",
-          "neutralSummary": "These projects are associated with more than 28,700 potential jobs, the ministers said in a statement.",
+          "neutralHeadline": "Man in fatal Tampines crash that killed 2 drove despite being disqualified from driving until 2032",
+          "neutralSummary": "He had also been convicted on two occasions of driving while under disqualification – in November 2021 and July 2025.",
           "versions": [
             {
               "political": "center",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Johor-S’pore SEZ records $28b of approved projects, ministers note ‘good progress’ on various fronts",
-              "url": "https://www.straitstimes.com/singapore/johor-spore-sez-records-28b-of-approved-projects-ministers-note-good-progress-on-various-fronts"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Johor-Singapore SEZ records RM88.83 billion in approved investments",
-              "url": "https://www.channelnewsasia.com/singapore/johor-singapore-cooperation-special-economic-zone-meeting-6512446"
+              "headline": "Man in fatal Tampines crash that killed 2 drove despite being disqualified from driving until 2032",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/man-in-fatal-tampines-crash-that-killed-2-drove-despite-being-disqualified-from-driving-until-2032"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Singaporean driver who killed cyclist in Perth sentenced to over 5 years’ jail in Australia",
-          "neutralSummary": "Ng Jing Kai had earlier pleaded guilty to manslaughter in August.",
+          "neutralHeadline": "Proposed law seeks jail or reformative training for young scam offenders after High Court ruling",
+          "neutralSummary": "The Sentencing (Scams) Bill was introduced in Parliament on Nov 3.",
           "versions": [
             {
               "political": "center",
@@ -527,15 +563,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Singaporean driver who killed cyclist in Perth sentenced to over 5 years’ jail in Australia",
-              "url": "https://www.straitstimes.com/singapore/singaporean-man-who-ran-over-cyclist-in-perth-sentenced-to-jail-for-5-years-9-months"
+              "headline": "Proposed law seeks jail or reformative training for young scam offenders after High Court ruling",
+              "url": "https://www.straitstimes.com/singapore/politics/proposed-law-seeks-jail-or-reformative-training-for-young-scam-offenders-after-high-court-ruling"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "Jail or reformative training to be default for young scam offenders under proposed law",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVEctbWdnNE1CLXBlMFY0MUdZTldacnhfRjdCTjIyaVE3bHltbm9QMHZ1OWdkcG4tSVpPbno1b2drS0NJUjVJdl84RXpKMzA5d0UtV1F3TnNNZ0F0VDVTblhTQXNtZGg5QTVVTTdocUhxUXJ5cVVLck9rNXBFRW9oQ0pNdnpncGxPeEg3UlFQVVNRTlMwdTJF?oc=5"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Man who assaulted stranger wearing cap with Israeli emblem gets 3 weeks’ jail",
-          "neutralSummary": "Muhammad Asyraf Said committed the offence on Oct 27, 2025.",
+          "neutralHeadline": "Missed security update led to 9½ hours public healthcare service outage on Oct 13",
+          "neutralSummary": "About 4,000 outpatient appointments were rescheduled and some patients experienced delays of up to two hours.",
           "versions": [
             {
               "political": "center",
@@ -543,15 +588,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Man who assaulted stranger wearing cap with Israeli emblem gets 3 weeks’ jail",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/man-who-assaulted-stranger-wearing-cap-with-israeli-emblem-gets-3-weeks-jail"
+              "headline": "Missed security update led to 9½ hours public healthcare service outage on Oct 13",
+              "url": "https://www.straitstimes.com/singapore/politics/missed-security-update-led-to-9-1-2-hours-public-healthcare-service-outage-on-oct-13"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "news.google.com",
+              "headline": "'Preventable lapse' by service provider caused 9.5-hour public healthcare IT outage on Oct 13: Tan Kiat How",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOREo4REEwbHdMNTRTTVZzYmNMbFJITU5JQ1g0b0ZaZDdVSU5JUnhacy1Ucm1vVnQ3ci1BVEVqMFJKSW1XTldKeFRwWnp0NVQ3RUJNay04SE5WajUxcmR3bXh2MTNMTVBxMGN3VjFPVmt6UHJEVTFEekhYbDRPbmVFVExONU43V3JDTlVNbVV3YjNsakpGWERublJNcmJtcVMzODcxMThWM25PbUNIbEExUA?oc=5"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "MOM probes 45 firms involved in Changi Airport operations for work pass offences",
-          "neutralSummary": "Around 270 workers have been identified so far for deployments that may have breached regulations.",
+          "neutralHeadline": "Too many air quality indicators may complicate public messaging for haze: Grace Fu",
+          "neutralSummary": "Fu also fielded questions on the Government’s response to the haze situation.",
           "versions": [
             {
               "political": "center",
@@ -559,40 +613,40 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "MOM probes 45 firms involved in Changi Airport operations for work pass offences",
-              "url": "https://www.straitstimes.com/singapore/mom-probes-45-firms-involved-in-changi-airport-operations-for-work-pass-offences"
+              "headline": "Too many air quality indicators may complicate public messaging for haze: Grace Fu",
+              "url": "https://www.straitstimes.com/singapore/politics/too-many-air-quality-indicators-may-complicate-public-messaging-for-haze-grace-fu"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
+              "source": "CNA",
+              "initials": "CNA",
               "domain": "news.google.com",
-              "headline": "MOM probes 45 firms involved in Changi Airport operations for work pass offences",
-              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvZ3hEaG9tRzhkWlNpZndjdV9TNHNIZjRXWFNtTHhGVG1JS3JyNGl1RDFVSExRVTN3UFMwcC00N09CRlVOQXQtMmNIX3R2bWhsWVh5V1ZmWm1yQXU3Z3NLT3VqTjNwRENxZjdtWnZPOGZ5NUFrcGh5TQ?oc=5"
+              "headline": "No need for more PM2.5 forecasts as too many indicators may confuse public: Grace Fu",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOem1HcHI4NG9qSExxb0RWRXNLVmJMRXpBMWNTSXJiMDB2N1Brc3Jua05iaGNXb1BkaF9oaGM4bzhLSDZ0U3hLUXBUMGZIM3VNdXhrVjNNMGV1UHN3MWsxbV9Vc3RITmdRUjBET0V0c19ZZTRzejZjTFlRaEZJdDhZbV90S0Y?oc=5"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "CNA Explains: What happens to carbon credits when the forests protecting them burn?",
-          "neutralSummary": "Wildfires in Indonesia are threatening forests linked to carbon credit projects. What does this mean for companies that have paid to offset their emissions, and are the safeguards enough?",
+          "neutralHeadline": "Live: MPs discuss haze, COE system changes in Parliament",
+          "neutralSummary": "Earlier, SMS Tan Kiat How apologised for October public healthcare disruption.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "CNA Explains: What happens to carbon credits when the forests protecting them burn?",
-              "url": "https://www.channelnewsasia.com/singapore/cna-explains-carbon-credits-offset-emissions-forest-fires-6512761"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Live: MPs discuss haze, COE system changes in Parliament",
+              "url": "https://www.straitstimes.com/singapore/politics/live-singapores-haze-response-on-the-agenda-in-parliament"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt",
-          "neutralSummary": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt",
+          "neutralHeadline": "Bangladesh garment workers stage fourth day of wage protests",
+          "neutralSummary": "Clashes were reported across industrial belts around Dhaka, including Ashulia, Gazipur and the capital's Mirpur area, as workers staged fresh demonstrations and attempted to block major highways.",
           "versions": [
             {
               "political": "center",
@@ -600,65 +654,65 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt",
-              "url": "https://www.channelnewsasia.com/business/alphabet-kicks-eu6-billion-bond-sale-tests-appetite-tech-debt-6513456"
+              "headline": "Bangladesh garment workers stage fourth day of wage protests",
+              "url": "https://www.channelnewsasia.com/asia/bangladesh-garment-workers-protest-wages-6516186"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Romania Raises €4.5 Billion in New Government’s First Bond Sale",
-              "url": "https://www.bloomberg.com/news/articles/2026-11-02/romania-is-offering-eurobonds-after-new-government-takes-office"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Wage protests force hundreds of Bangladesh garment factories to close",
+              "url": "https://www.bbc.co.uk/news/articles/c3pwg91qjpq7o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "Finding a sounding board, stress-testing solutions: The network preparing S’pore tech leaders for global roles",
-          "neutralSummary": "Finding a sounding board, stress-testing solutions: The network preparing S’pore tech leaders for global roles",
+          "neutralHeadline": "Indonesia unlikely to export electricity in the near future, citing domestic demand: Minister",
+          "neutralSummary": "Indonesia's Coordinating Minister for Downstreaming and Energy Transition Bahlil Lahadalia did not name any country specifically, but Singapore&nbsp;had previously granted conditional approvals for firms to import low-carbon electricity from Indonesia. &nbsp;",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Finding a sounding board, stress-testing solutions: The network preparing S’pore tech leaders for global roles",
-              "url": "https://www.straitstimes.com/singapore/sgln-tech-leadership-programme-global-roles-edb"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Indonesia unlikely to export electricity in the near future, citing domestic demand: Minister",
+              "url": "https://www.channelnewsasia.com/asia/indonesia-unlikely-export-electricity-near-future-domestic-demand-6515631"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Woman, 73, dies after accident with SMRT bus in Chinatown",
-          "neutralSummary": "The 41-year-old driver is assisting with police investigations.",
+          "neutralHeadline": "China rolls out support measures to aid struggling stocks",
+          "neutralSummary": "Persistent weakness in the world's second-largest economy, reeling from sluggish consumption and a prolonged property sector debt crisis, and sharp falls in tech stocks have hit investor confidence.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Woman, 73, dies after accident with SMRT bus in Chinatown",
-              "url": "https://www.straitstimes.com/singapore/woman-73-dies-after-accident-with-smrt-bus-in-chinatown"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "China rolls out support measures to aid struggling stocks",
+              "url": "https://www.channelnewsasia.com/business/china-support-measures-struggling-stocks-6514741"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "With my rifle, buddy and mee: So Drama! serves up new animated series on ‘noodle’ recruits doing BMT",
-          "neutralSummary": "A six-episode micro-series retells basic military training into something… palatable.",
+          "neutralHeadline": "North Korea rejects US allegation over Binance crypto heist as 'grave political provocation'",
+          "neutralSummary": "The FBI said on Saturday (Oct 31) that a North Korea-affiliated hacking group called TraderTraitor was behind the attack.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "With my rifle, buddy and mee: So Drama! serves up new animated series on ‘noodle’ recruits doing BMT",
-              "url": "https://www.straitstimes.com/singapore/community/with-my-rifle-buddy-and-mee-so-drama-serves-up-new-animated-series-on-noodle-recruits-doing-bmt"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "North Korea rejects US allegation over Binance crypto heist as 'grave political provocation'",
+              "url": "https://www.channelnewsasia.com/east-asia/north-korea-binance-hack-fbi-grave-provocation-6514311"
             }
           ]
         }
@@ -669,67 +723,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Cyclone Murasu makes landfall in Andhra Pradesh, triggers heavy rain; thousands evacuated, coastal areas on alert",
-          "neutralSummary": "Andhra Pradesh had stepped up evacuation and disaster management measures ahead of the cyclone's arrival.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Cyclone Murasu Live updates: Landfall commences over south coastal Andhra Pradesh",
-              "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Cyclone Murasu Landfall Begins, Heavy Rain Batters Andhra Coast",
-              "url": "https://www.ndtv.com/india-news/cyclone-murasu-landfall-begins-heavy-rain-120-kmph-winds-batter-andhra-coast-12273713#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Cyclone Murasu makes landfall in Andhra Pradesh, triggers heavy rain; thousands evacuated, coastal areas on alert",
-              "url": "https://www.hindustantimes.com/india-news/cyclone-murasu-makes-landfall-in-andhra-pradesh-triggers-heavy-rain-thousands-evacuated-coastal-areas-on-alert-101793641721774.html"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "'3 crore Bangladeshi infiltrators don't exist on voters' list': Amit Shah counters Rahul's anti-SIR pitch",
-          "neutralSummary": "'3 crore Bangladeshi infiltrators don't exist on voters' list': Amit Shah counters Rahul's anti-SIR pitch&nbsp;&nbsp;The Times of IndiaAmit Shah dares Rahul Gandhi to debate SIR issue, says government is ready to convene special session of Parliament&nbsp;&nbsp;The HinduAmit Shah calls 3 crore votes",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Amit Shah backs SIR, alleges 3 crore ‘illegal infiltrators’ identified in 13 crore deleted voters",
-              "url": "https://www.thehindu.com/news/national/telangana/amit-shah-backs-sir-alleges-three-crore-illegal-infiltrators-identified-in-13-crore-deleted-voters/article71656858.ece"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "'3 crore Bangladeshi infiltrators don't exist on voters' list': Amit Shah counters Rahul's anti-SIR pitch",
-              "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaWpuM3puVWpXMERmck9hbEF5RXZiSjR1QTh0WmhyQVZkSHhwci0wXzBCZ0RWWkxiMjV4SnVXeFJ2NTFxVGppT0RnaGJ4bFQ1aFk3ZF80QU9pVWQwTWQ1WmV6bXFaY2RDanNoLTBxZGtXZE9Sd0F4Q0s0TFptVzlGMk5iRy1BX2pmTzFTbUNwSXBJUDRIV1I5X2MyQm5kaE9xdWVCMHVvZzRTYTRuUWp5WV96SjhZbG1DOG1KY3RELXo4WjFwWkVlSklnaWFydFpwRXdFR3NneGpvcGFlVnVpdkxBbnhiYW9tdlc4ejk2M1lWUVdWZU1sSnZYZw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "Meghalaya: Paul Lyngdoh returns as minister; Metbah quits cabinet after UDP collapse",
-          "neutralSummary": "The development marks a major reversal for the UDP, which won 12 seats in the 2023 assembly elections and emerged as a significant regional force",
+          "neutralHeadline": "Stock market today: Why are BSE Sensex, Nifty50 rallying? Top 5 reasons",
+          "neutralSummary": "Stock market rally today: At 1:30 PM, Nifty50 was trading at 23,724.00, up 283 points or 1.21%. BSE Sensex was at 76,722.16, up 1,029 points or 1.36%. The rally added nearly Rs 4 lakh crore to the combined market capitalisation of companies listed on the BSE, taking the total to Rs 486 lakh crore.",
           "versions": [
             {
               "political": "left",
@@ -737,115 +732,147 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "'12th Man' Of Meghalaya Politics Paul Lyngdoh Back In Conrad Sangma Cabinet",
-              "url": "https://www.ndtv.com/india-news/12th-man-of-meghalaya-politics-paul-lyngdoh-back-in-conrad-sangma-cabinet-12273432#publisher=newsstand"
+              "headline": "Stock Market LIVE Updates, Sensex Today: Sensex Jumps 820 Points Higher Amid Fresh US Strikes On Iran",
+              "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-3-november-us-iran-war-oil-price-12274200#publisher=newsstand"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Meghalaya: Paul Lyngdoh returns as minister; Metbah quits cabinet after UDP collapse",
-              "url": "https://www.hindustantimes.com/india-news/meghalaya-paul-lyngdoh-returns-as-minister-metbah-quits-cabinet-after-udp-collapse-101793637377106.html"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Rs 94,000-Cr Mahadev Betting Empire: Dubai Properties, Chhattisgarh Links And Saurabh Chandrakar's Extradit",
-          "neutralSummary": "Rs 94,000-Cr Mahadev Betting Empire: Dubai Properties, Chhattisgarh Links And Saurabh Chandrakar's Extradit&nbsp;&nbsp;News18Rs 200-Crore Wedding That Unravelled Rs 90,000-Crore Mahadev Betting Empire&nbsp;&nbsp;NDTVDelhi court reserves order on CBI's plea seeking transit remand of Sourabh Chandraka",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Rs 200-Crore Wedding That Unravelled Rs 90,000-Crore Mahadev Betting Empire",
-              "url": "https://www.ndtv.com/india-news/mahadev-online-book-saurabh-chandrakar-rs-200-crore-wedding-that-unravelled-rs-90-000-crore-mahadev-betting-empire-12273098#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "News18",
-              "initials": "N18",
-              "domain": "news.google.com",
-              "headline": "Rs 94,000-Cr Mahadev Betting Empire: Dubai Properties, Chhattisgarh Links And Saurabh Chandrakar's Extradit",
-              "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWkJvY0xPaFduRlo5TW5hZHJ0eDBkcW9zMDBUR3JyYmZGdno0TkQ2Z3Jvc0ZmSUd4dDR1MGJWQ0tpZlRtc3p1bnBBakR3N3lPZmp2VnplOG41SHc2dnJGbDhJZmlUOUg2Z2tlZ0pYS0FjM004Q0t5dHJpWjd2VGwyb005VVl4dWtEMl9pcng0ZW1Ka0R5czAyMUk2WW1JanNqV0pOMTJJRkM1Y1FUby1yamw0REdyaHB5dWs2NFZtdWtkUU9UT3Utb242VmwtWDhqZS01TkltRTdvZjRiYjRESkpYaXlPMWpwWWh3ZmNSUGZfeXUwczZqd9IB_gFBVV95cUxPb3RGbTlPa3c2bUQ1Rm9mQ3dXb3pPZ0txOHNVenBNZ2kwUXoxbVNXUHV3LVBQTVNRMUxxeEtfQVFVcnRUa0wzWTk4TUItVWhJbmVKQ1hqRnE2bElwV25Dd1N4SV9WRUVFelZiV3M0X3R0MlFhM1NnZFlTUEt2ZklXUXBDeExqcThtWTQtV1BNTEFYV1RhYjBQS3hybk81NVlyaENIX2wxUzhtV0x4MmhGcUtPUWRBakxSbEFiWmVnaHN3S3ltX2J3SFRQS2hZR3RvSG1ZMW9vcFUxYUVSNEFoaUI1cE40NExQajlDb3FoaVlLLVBzOUFKSzVMTGtydw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Explosion Sparks Major Fire at HPCL Visakhapatnam Refinery",
-          "neutralSummary": "Explosion Sparks Major Fire at HPCL Visakhapatnam Refinery&nbsp;&nbsp;Deccan ChronicleMassive Fire At Andhra Pradesh Oil Refinery After Explosion&nbsp;&nbsp;NDTVFire breaks out at HPCL facility in Vizag, no deaths reported&nbsp;&nbsp;BusinessLineMajor fire at HPCL Visakhapatnam refinery triggers pan",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Massive Fire At Andhra Pradesh Oil Refinery After Explosion",
-              "url": "https://www.ndtv.com/india-news/massive-fire-at-andhra-pradesh-oil-refinery-after-explosion-12273295#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Deccan Chronicle",
-              "initials": "DC",
-              "domain": "news.google.com",
-              "headline": "Explosion Sparks Major Fire at HPCL Visakhapatnam Refinery",
-              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWFVZRDdRb01kclVSRUZfcHRFM0Q5RnpuWk9JVHRuN3BmRVZOWGtoblNWdDVhNHJRQkpwOFVtR0czNm9mcDlOLTZ1QUxuWm5uN0ZGNVVSanhzZFNpeUdkemJwek9oc3RWcUZocDMyNmNGaEhfQ1Q3UWJaVjV2WDZHYnluRG55V2x6YUtiV3ByVDZxSTVkT2l3c19RX3h6dXBsMWpCdDVfTmxvRGRtTWxsMnhhLVk4MDU2ZnItSWJhWUt4ZXJjejR1MjBDbWtmb25vYld1Wk5tbUxLbnNWWFo5UzJQb3I?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Navy rescues 20 crew members of fishing vessel from pirates over 3,000 km from Mumbai",
-          "neutralSummary": "Navy rescues 20 crew members of fishing vessel from pirates over 3,000 km from Mumbai",
-          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "Navy rescues 20 crew members of fishing vessel from pirates over 3,000 km from Mumbai",
-              "url": "https://timesofindia.indiatimes.com/india/navy-rescues-20-crew-members-of-fishing-vessel-from-armed-pirates-over-3000km-from-mumbai-rajnath-praises-48-hr-op/articleshow/135473804.cms"
+              "headline": "Stock market today: Why are BSE Sensex, Nifty50 rallying? Top 5 reasons",
+              "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-why-bse-sensex-nifty50-are-rallying-on-november-03-2026-top-reasons-for-bull-run-ltcg-tax-rupee-oil-prices/articleshow/135488376.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "Indian seafarer killed in attack on ship near Oman; 13 others rescued: MEA",
+          "neutralSummary": "The deceased seafarer was identified as Gandhar Nahim Ajij from Gujarat; India reiterates call for immediate de-escalation of tensions in the region",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Indian seafarer killed in attack on ship near Oman; 13 others rescued: MEA",
+              "url": "https://www.thehindu.com/news/national/india-seafarer-killed-in-attack-on-ship-near-oman-mea-west-asia-conflict/article71659910.ece"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "news.google.com",
+              "headline": "Indian Sailor Killed In Attack On Cargo Vessel 'Al Jusufi' Off Oman Coast",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNakdsME5pNS1HaDk1UWRQUFAyamJidERjVTM5YVdDaEY3dHgyV1lBU1drZm5YOFJ0SGVPS0RKZkExWW5ITmFDV2NzVDRnOFBEcjVUTW50d1I3dkV1MnhwN0MzOW1QNjRTWk84Q0I0eUVZR1I5aTZWa2stRTlnWGJYcnlYaUM5UklpNkcwRnFjMjV4OU9QVXIyOUZiXzM5clZmcWEycDE4LXFXZV9yVDUwVTRn?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-3",
+          "neutralHeadline": "Dia Mirza Diwali appeal row: Deeply pained, says HC; asks BMC to re-upload video",
+          "neutralSummary": "The Bombay high court found the Brihanmumbai Municipal Corporation's removal of Dia Mirza's video unfortunate and requested its restoration. This action followed objections from BJP's Mumbai unit chief Ameet Satam, linking the video to anti-India sentiments. Mirza's video urged citizens to avoid fir",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Bombay HC asks BMC to re-upload Dia Mirza’s firecracker appeal, says ‘deeply pained’ by controversy",
+              "url": "https://www.thehindu.com/news/national/maharashtra/bombay-hc-asks-bmc-to-re-upload-dia-mirzas-firecracker-appeal-says-deeply-pained-by-controversy/article71659945.ece"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Indian Navy rescues 20 crew members from hijacked Iranian vessel after 48-hour operation",
-              "url": "https://www.hindustantimes.com/india-news/navy-rescues-20-crew-members-from-hijacked-iranian-vessel-101793645270343.html"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Dia Mirza Diwali appeal row: Deeply pained, says HC; asks BMC to re-upload video",
+              "url": "https://timesofindia.indiatimes.com/city/mumbai/unfortunate-bombay-hc-pulls-up-bmc-over-removal-of-dia-mirzas-eco-friendly-diwali-video-seeks-restoration/articleshow/135486372.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Delhi Senior Cop Suspended After Leading Protest Over Officers' Transfer",
+          "neutralSummary": "The discontent within the Delhi Police followed the transfer of ACP Manasvi Vashisht",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Delhi Senior Cop Suspended After Leading Protest Over Officers' Transfer",
+              "url": "https://www.ndtv.com/delhi-news/delhi-acp-manasvi-vashisht-suspended-after-leading-protest-over-officers-transfer-12275311#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "ACP Manasvi Vashishta, who led protest outside Delhi Police headquarters, suspended for ‘violation of discipline’",
+              "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbVJnUkRIM0dTNUN5VTc2UkNhSWhfQkZGMlYwNUxVU0RCemNrck9NckJZMzhlSi1memRXRExkbnhrazBnMzlWUHlGS1otZmtnMUVKcnVnZlRxZ2plYkRTaExYX0QyZHllS1VNV0lzU0FoM3c5N3U4Zkh0TVpWYks3Wk45RGxjS3VfM3JfaWU4Z1IwOGNHcW1IeVVZUm9SNjRKeHIySEZwY2pmOWtpQTRjTWFBWm1tN251LTJJY3lOLU9pSmxKcXNmMU5xQ1B1bXNuT3IzdG02VXlBaTFnWEVNOU9IcVBSc2F4bzRLOXJqOUdpR3pNUjZXb1pqWGZBazl0dGfSAYgCQVVfeXFMUHlRV2xsc1FOSEtLdHpsNW1qcUQ3V1VPaDhjc2x1NVRMSU9JanVseDB0NjNtVUZCSjY1UV80NFRKNVlJS3FVREtJLUdnamRsTFozQWE1Ymt6S2NhSlRUdGpuemZ4NDQ2UVJTREF0ZThxc05KNWdRMVQ1VzVYN3l2YXRYSndRV1YybVVvY2RwcHFlUW10aVZNbnA5SG9abzkxczVsektPTmdTMW9UQW1pQ0ZvdUZyVUNkcEYyN2RjYmpCVy1wYmt6Wlc4ekd2TTlZS1JkWTRBc3pmU1V2bHQ3YmFPNG80N01IekdmN3NZWElJcEJtamExemlkN3pvX2kzMGh3S0FDMHQt?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Mamata, Rahul fighting for infiltrators to keep them in India: Bengal CM",
+          "neutralSummary": "\"The ECI and the Centre have taken up the task of driving out infiltrators from the country, whereas Mamata Banerjee and Rahul Gandhi are fighting together to keep them in India,\" says Mr. Adhikari",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Mamata, Rahul fighting for infiltrators to keep them in India: Bengal CM",
+              "url": "https://www.thehindu.com/news/national/west-bengal/mamata-rahul-fighting-for-infiltrators-to-keep-them-in-india-bengal-cm/article71660098.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Fire at three-storey house in East Delhi, two admitted to hospital",
+          "neutralSummary": "The fire was confined to domestic articles on the first floor of the building, spread over 235 square yards, which comprises a ground floor and three upper floors",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Fire at three-storey house in East Delhi, two admitted to hospital",
+              "url": "https://www.thehindu.com/news/cities/Delhi/fire-at-three-storey-house-in-east-delhi-two-admitted-to-hospital/article71659749.ece"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "Delhi's smog came from farm fires lit after NASA's satellite passed",
-          "neutralSummary": "On two Oct nights with the same weather, Delhi's air was far cleaner. India's weather satellite shows surge in evening crop burning in the 4 days before Nov 1.",
+          "neutralHeadline": "Man who escaped from Coimbatore district police’s custody arrested",
+          "neutralSummary": "On November 2, a special team arrested Raghavan, who escaped from the custody of police who were escorting him to Coimbatore Central Prison for judicial remand on October 31, reportedly from his native at Bhavani in Erode district.",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Delhi's smog came from farm fires lit after NASA's satellite passed",
-              "url": "https://www.hindustantimes.com/india-news/delhi-smog-came-from-farm-fires-lit-after-nasa-satellite-passed-punjab-haryana-stubble-burning-air-quality-101793628039130.html"
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Man who escaped from Coimbatore district police’s custody arrested",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/man-escaped-from-coimbatore-district-police-custody-arrested/article71658193.ece"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Maharashtra sets up drought mitigation panel, approves ₹291.91 crore relief for flood-hit farmers",
-          "neutralSummary": "The measures follow deficient rainfall in parts of Maharashtra during 2026, prompting the government to declare drought in talukas identified under the Kharif season’s Trigger-1 assessment",
+          "neutralHeadline": "Who is NC MP Aga Syed Ruhullah set to resign from party, seat?",
+          "neutralSummary": "National Conference MP Aga Syed Ruhullah is likely to announce his next political move. The posters, pasted in parts of Budgam, asked the public to attend the gathering of a leader who is the “Voice of the Voiceless”",
           "versions": [
             {
               "political": "left",
@@ -853,15 +880,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Maharashtra sets up drought mitigation panel, approves ₹291.91 crore relief for flood-hit farmers",
-              "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sets-up-drought-mitigation-panel-approves-29191-crore-relief-for-flood-hit-farmers/article71657940.ece"
+              "headline": "Who is NC MP Aga Syed Ruhullah set to resign from party, seat?",
+              "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/nc-mp-aga-syed-ruhullah-resignation/article71657634.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin",
-          "neutralSummary": "Targeting the Congress for “trying to spread anarchy in the entire country, by targeting constitutional institutions of the country”  BJP president Nitin Nabin said had the Congress fought for the issues of the people, the people would have not rejected the party",
+          "neutralHeadline": "Runners from Belagavi finish Goa Ironman event",
+          "neutralSummary": "Tejas Patil recorded the fastest finish among participants from Belagavi, completing the event in 6 hours, 20 minutes, and 8 seconds",
           "versions": [
             {
               "political": "left",
@@ -869,8 +896,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Rahul Gandhi acting as a ‘toolkit’ for foreign forces says Nitin Nabin",
-              "url": "https://www.thehindu.com/news/national/west-bengal/rahul-gandhi-acting-as-a-toolkit-for-foreign-forces-says-nitin-nabin/article71657905.ece"
+              "headline": "Runners from Belagavi finish Goa Ironman event",
+              "url": "https://www.thehindu.com/news/national/karnataka/runners-from-belagavi-finish-goa-ironman-event/article71660062.ece"
             }
           ]
         }
