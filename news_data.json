@@ -1,13 +1,56 @@
 {
-  "generatedAt": "2026-11-05T08:41:40.774485+00:00",
+  "generatedAt": "2026-11-05T20:31:11.509081+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion",
-          "neutralSummary": "Hong Kong democracy activist Joshua Wong was sentenced to 10 more years in prison on Thursday for colluding with foreign powers, a court summary said. Wong, 30, pleaded guilty in September to seeking foreign sanctions against Hong Kong and China under Beijing’s national security law, having spent ne",
+          "neutralHeadline": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+          "neutralSummary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapseParaguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days.At the cen",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+              "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Paraguay President Santiago Peña resigns after bank collapse",
+              "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+              "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Paraguay President Pena resigns in wake of bank collapse",
+              "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+          "neutralSummary": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security lawExclusive: Joshua Wong laments city’s fate from inside maximum security prisonThe Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreig",
           "versions": [
             {
               "political": "left",
@@ -21,11 +64,11 @@
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-              "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Hong Kong Activist Joshua Wong Sentenced To 10 More Years In Prison",
+              "url": "https://www.huffpost.com/entry/hong-kong-joshua-wong-sentencing_n_6aec489ae4b0dcee62e2d8b5"
             },
             {
               "political": "left",
@@ -33,26 +76,42 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+              "headline": "Hong Kong activist Joshua Wong is sentenced to 10 more years in prison",
               "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
+          "neutralHeadline": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults",
+          "neutralSummary": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults&nbsp;&nbsp;ReutersRussell Brand is convicted of rape, and judge says he'll get a prison term&nbsp;&nbsp;NPRRussell Brand: From Hollywood Fame To Criminal Conviction&nbsp;&nbsp;Channel 3000Exclusive | See Russell Brand's chil",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Russell Brand is being investigated over two new rape complaints, police say",
+              "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+              "url": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Reuters",
+              "initials": "R",
               "domain": "news.google.com",
-              "headline": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
-              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2liS1VZcERBcGdsLWxMTlpHMllXeVVsdEJvbEMyUEtJSHZ4SmkyX1hMdDNoQVJVd0prVGd2M1h4X3pzdmVxUnZfbTRPODNJbVhGbU05Sy1RY2R6SXVMUzRYVU1sU2ZlSHBhLWxQd21PTGQ3Y1dHczJmM1I0bjFpVlNtbWdHeWJVRmc?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
-              "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss"
+              "headline": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDhxQVI1Z010dTJVSjdqZHdheWxsSFpDVk05T1pJZzVPa2FYeHF5cE5DeUk4SVhtbmtBbGJ3UTJsdmlkeXhPb3NJY18wV3NfaGdGbDBJV1FWLW0zc0NLY2VWS0FROC10dTQzWlZUcHRMSkJhSmZnSlRtN1dfV0FCNHdtMTZvOUhteVE?oc=5"
             },
             {
               "political": "center",
@@ -60,15 +119,15 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion",
-              "url": "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion"
+              "headline": "British comedian Russell Brand found guilty of rape, sexual assault",
+              "url": "https://www.france24.com/en/europe/20261105-british-comedian-russell-brand-found-guilty-of-rape-sexual-assault"
             }
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead - ABC News",
-          "neutralSummary": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosMother and daughter die after suspected grizzly bear attack in Canada&nbsp;&nbsp;BBCSuspected grizzly bear attack kills mother and daughter during s",
+          "id": "global-4",
+          "neutralHeadline": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+          "neutralSummary": "Conservation officers say more than one bear may have been involved in attack on women near their homeSearch teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved",
           "versions": [
             {
               "political": "left",
@@ -82,20 +141,11 @@
             {
               "political": "left",
               "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Mother and daughter die after suspected grizzly bear attack in Canada",
-              "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "Breaking News, Latest News and Videos",
-              "initials": "BN",
+              "source": "USA Today",
+              "initials": "USA",
               "domain": "news.google.com",
-              "headline": "Canadian authorities say multiple grizzlies may have attacked mother and daughter found dead - ABC News",
-              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRGxyVjZxSTVDQzVtR214MHZjWmNfUnlvdDFBaENtYzNBTzVydzF1MUNTdU9aZk4xWFFKOG5EeXpFNzVFdXdwbUF0ODZlUE1tdlVuRGxVbEtLYUFyS2hFdXVfMVhSelZvbU5SQzNzV2VYQzdoR2t1d1RxUk1yWnZMU0ZqekdUTktYMy1lMjRtZDRPU3YxZHh5NllzNG13d1hKc3ZKV3NsVExMTHF0XzViU3ZUQjROZXpZalhHQ1lZSGhad9IBxwFBVV95cUxOSnNxOTQ0elJBTmFVT01kV3V1TzJvcGd5ZGhmbjZKS3lyVVVLU0RaNDNvODN3eE5WZzFSOW9oSlAzc1pTTTVxV3JIaGdDZ1BmTWVYMXpPLVlZOHNHQXROZWRuc0FQRkxrbTVsQVdXNmJuZlZSU1hTbWZYSEdfWU0xOXFQNnBRU2VqbkVJNDF0ZFlqdGZSSWZBek5wZWVMZ0lJcjh6dUY4MDlqNnduZnZ0VGpsOS1PQ3VEb1AyRUN2OGl6WC1GejhB?oc=5"
+              "headline": "Mother, daughter found dead after suspected grizzly attack",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVYwd2syWTdsNndCWDlPTjZKWkdhemVaZ0RNUWFkVjVRTnBjR1N5SWRsRVMwbV9GTlM0QnpwOUY3UkZySTJ2RHFIbGExajlyeHhyU2VqYlQ3OWZYWW9HRWN5NUZma1F1YXNvNTA5QTlPS2NXOTN3QkdyOFhhSGdmdElvaFJHTHhETE5QY05tUldwMWoweFhJZk5laGN5ODRTcW1j?oc=5"
             },
             {
               "political": "right",
@@ -109,52 +159,27 @@
           ]
         },
         {
-          "id": "global-3",
-          "neutralHeadline": "South Africans vote in local elections that could continue the decline of the once-mighty ANC",
-          "neutralSummary": "South Africans vote in local elections that could continue the decline of the once-mighty ANC&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+          "id": "global-5",
+          "neutralHeadline": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+          "neutralSummary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "ANC faces anger over poor services as South Africans vote in local elections",
-              "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+              "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
+              "source": "New York Times",
+              "initials": "NYT",
               "domain": "news.google.com",
-              "headline": "South Africans vote in local elections that could continue the decline of the once-mighty ANC",
-              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeGc1LWRVNkE1OThmTUs3aGY5OFlVZkZFV1h2R0VwY28wcHRXWXM0d3Vsd0JnS29YNk52VVVUTW02YURuakNHdUtsNHpXSUhGdWd6eDdRTWNaaTY2NVpqU2MwWVhyTGZUS2NNcEtoSkJlOFVHRGJ5SjlzREltc3hGM1NFRUw0UHZhUVRXcExYZ0huY3pGX0pad0tCYjI5c0dWcGVibw?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "South Africans vote in key municipal elections",
-              "url": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "South Korea to deploy military mission to keep Strait of Hormuz open",
-          "neutralSummary": "South Korea will deploy maritime patrol aircraft and an explosive ordnance disposal team near the Strait of Hormuz to help keep the waterway open, its defence ministry said Thursday. Seoul said it would protect commercial shipping and energy supplies while ruling out military intervention in the ong",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "South Korea says it will expand naval operations closer to strait of Hormuz",
-              "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz"
+              "headline": "How Melania Trump Became a Dark Horse Diplomat on Ukraine",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbklOZWg3TjlfY1c4aHE3aFhWZldaMnZuVEs1U01iVXVlREM1ZmV3d1I4b2c4THJXcFNrc0FGQ1hEb1c2VUM4d2xtdElEQnkwZFVhY0xVckJDZmxkM3pGdmdqM2ZEVm9wdEdIczNJakxSWmN3c2N6ZGFJS2NrZDhxX2hoLTNsSFUwcDZWdm5BZDEzTHBNcy1R?oc=5"
             },
             {
               "political": "left",
@@ -162,74 +187,49 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
-              "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "South Korea to deploy military mission to keep Strait of Hormuz open",
-              "url": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "Israel’s President Accepts Certified Election Results Ahead Of Talks On Forming Of New Government",
-          "neutralSummary": "Israel’s election commission said it has found no fraud in last week’s vote, dealing a blow to Benjamin Netanyahu’s attempts to discredit the results.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Israel’s President Accepts Certified Election Results Ahead Of Talks On Forming Of New Government",
-              "url": "https://www.huffpost.com/entry/herzog-accepts-certified-election-results-israel_n_6aeb0d2de4b0dcee62e189a9"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Israel's president begins consultations with parties after election deadlock",
-              "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "Israel’s Herzog accepts vote results, opens talks on forming a government",
-              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV004NGVpUkpHZGJjd1ByTGZFZ0dXdjlNWmtqcEJMUjlURmFvTVFDVVUyRWRyTGRYNm02MmpldWptUzdDWV8zZTM1bGMwQW1PM3VHYk8zbVFMTFNkWUhRRUdPLXBBT1pSdmR2XzhGRDl5MFg0TmJTYjFoS0ZOS29uZDcxWHAwRnFoeF8xYUdNRjBIdkhNeXVuRmh0V3lnc3BQSlVBWDA4bkNLT0E5dnJqYzN30gG3AUFVX3lxTE1wb09hUVRJUjZtVFJheVdJVkJVTV8zcFo2VkgzczVDMlpjMU5fUlZIS3M5Y0VOT3k3cklrV0kyd0l6RjBzVFc0ZGVwSEQ3Q1Vza1J5VUVDdUU5bW1lU0ptLUlXZTlTTHlTN2FFaDh1dUJRYm1fWjNtRDFLN29MZFE1MkRpS2F4NlllZ2dTUVB4Q2JLX2ZEUWhidlZ5c215a3F1dXhvNW9vZU8xUENtZ1VRY1NibXZMcw?oc=5"
+              "headline": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
+              "url": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "Live: France braces for nationwide strikes in fresh test for Macron’s policies",
-          "neutralSummary": "Strikes and demonstrations are planned across France on Thursday, with trade unions urging the government to support households struggling with rising living costs. The nationwide protests follow weeks of social unrest. Follow our liveblog for the latest updates.",
+          "neutralHeadline": "Israel's Arab list backs Eisenkot as Netanyahu loses ultra-Orthodox support",
+          "neutralSummary": "Israel's largest Arab party grouping said Thursday it would recommend opposition leader Gadi Eisenkot to form the next government, potentially bolstering his bid after Arab-majority lists won a record 19 seats in last week's election and Prime Minister Benjamin Netanyahu lost the support of an allie",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Arab party backs Eisenkot in bid to form Israel’s next government",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Live: France braces for nationwide strikes in fresh test for Macron’s policies",
-              "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs"
+              "headline": "Israel's Arab list backs Eisenkot as Netanyahu loses ultra-Orthodox support",
+              "url": "https://www.france24.com/en/middle-east/20261105-israel-main-arab-list-backs-eisenkot-to-form-government-after-election"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Netanyahu faces coalition showdown as rivals maneuver to form Israel's next government",
+              "url": "https://www.foxnews.com/world/netanyahu-faces-coalition-showdown-rivals-maneuver-form-israels-next-government"
             }
           ]
         },
         {
           "id": "global-7",
-          "neutralHeadline": "What Democrats can and can't do with their new power after taking Congress",
-          "neutralSummary": "Democrats can vote legislation through. But Trump still has veto power.",
+          "neutralHeadline": "Wave of bomb threats against European airliners triggers diversions and tarmac searches",
+          "neutralSummary": "Wave of bomb threats against European airliners triggers diversions and tarmac searches&nbsp;&nbsp;NBC NewsBomb threats disrupt at least 25 flights across Europe, raising hybrid war fears&nbsp;&nbsp;The GuardianWho could be behind hoax bomb threats to European air travel?&nbsp;&nbsp;BBCNew wave of b",
           "versions": [
             {
               "political": "left",
@@ -237,49 +237,33 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "What Democrats can and can't do with their new power after taking Congress",
-              "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
+              "headline": "Who could be behind hoax bomb threats to European air travel?",
+              "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
-              "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss"
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "NBC News",
+              "initials": "NN",
+              "domain": "news.google.com",
+              "headline": "Wave of bomb threats against European airliners triggers diversions and tarmac searches",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWVpLMmJDWHZCNXVFbGswN0Y1bTItQW5na2dweEItVTQ0Q1ZBTWltV1VDVTI0c1ZJTERYMkVXbTJ1UHhUV2owQzc2TEFzUnEyOF9aRXI5b2otNzFVRXN2d0ZtMU1vaGRzV2ZlRk9CM3ZaSTcxazBabHZsMjZUalVGZjl0X0hDQnVqYmROcWluUEhsQlVyamxNUGhiV2Q1b01keWZ4VzdOOA?oc=5"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-          "neutralSummary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-              "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Champions League: Real Madrid seal late comeback as Liverpool lose to Fenerbahce",
-          "neutralSummary": "Real Madrid maintained their perfect Champions League record as Federico Valverde’s stoppage-time strike secured a 3-2 comeback win at AEK Athens on Wednesday. Madrid twice trailed before Valverde scored from long range in the 92nd minute. Liverpool’s winning start ended with a surprise 3-2 defeat a",
+          "neutralHeadline": "'Inhumane punishment': California governor Gavin Newsom to commute 548 death sentences",
+          "neutralSummary": "California Governor Gavin Newsom on Thursday said he would commute all 548 death sentences in the state to life in prison without parole, marking a major step away from capital punishment as he prepares to leave office after eight years.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens",
-              "url": "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss"
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "California governor commutes death sentences for all 548 people on death row",
+              "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
@@ -287,8 +271,33 @@
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "Champions League: Real Madrid seal late comeback as Liverpool lose to Fenerbahce",
-              "url": "https://www.france24.com/en/sport/20261104-champions-league-real-madrid-comeback-liverpool-fenerbahce"
+              "headline": "'Inhumane punishment': California governor Gavin Newsom to commute 548 death sentences",
+              "url": "https://www.france24.com/en/americas/20261105-inhumane-punishment-california-governor-gavin-newsom-to-commute-548-death-sentences"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Europe: Dozens of flights diverted following bomb threats",
+          "neutralSummary": "Hoax bomb threats hit at least 27 affected flights around Europe this week.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Europe: Dozens of flights diverted following bomb threats",
+              "url": "https://www.france24.com/en/video/20261105-europe-dozens-of-flights-diverted-following-bomb-threats"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Multiple flights in Europe diverted because of bomb threats",
+              "url": "https://www.foxnews.com/world/multiple-flights-europe-diverted-bomb-threats"
             }
           ]
         }
@@ -299,42 +308,112 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Democratic leaders reflect on midterm results and what's next for the party",
-          "neutralSummary": "Democratic party leaders and political analysts spoke with Morning Edition about the results of the midterm elections, the effects of mid-decade redistricting efforts, and the next steps for the party.",
+          "neutralHeadline": "Democratic socialist Nithya Raman defeats Karen Bass in the Los Angeles mayor’s race",
+          "neutralSummary": "Democratic socialist Nithya Raman defeats Karen Bass in the Los Angeles mayor’s race&nbsp;&nbsp;NBC NewsRaman widens lead to 4 points over Bass, projected to win L.A. mayor’s race&nbsp;&nbsp;KTLALos Angeles mayor race: Nithya Raman ousts Karen Bass&nbsp;&nbsp;The Mercury NewsAs Nithya Raman widens l",
           "versions": [
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass",
+              "url": "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "NBC News",
+              "initials": "NN",
+              "domain": "news.google.com",
+              "headline": "Democratic socialist Nithya Raman defeats Karen Bass in the Los Angeles mayor’s race",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUNzeXA3RjZvNHE2OVQxZ19oUjEwdG4wbm40SVNLalFUVlY5amgyVHItTFdqT1IxaXFIUkM1cjZtTjVVdXpkbWg4RnZkTXJQcXpTZnF1ajE3WTZpVUtnam1iRlFMNXg0bmZmNGRfTzVUdDhfNWZpRENNaDJlVTZUaEJ5aDFMeUFuZ3Y4eGthbC1YbEZaV1NJMlhuVnBUdk5PZks0dVdqT29WbkpOOExJUVdGbTB2TkVxMW5FWWt1U2duUQ?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Karen Bass calls Nithya Raman to concede LA mayor’s race: ‘this is not the outcome we had hoped for’",
+              "url": "https://nypost.com/2026/11/05/us-news/karen-bass-calls-nithya-raman-to-concede-la-mayors-race/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Karen Bass loses to onetime ally Nithya Raman for Los Angeles mayor",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/state/4773135/karen-bass-nithya-raman-los-angeles-mayoral-result/"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "California Gov. Gavin Newsom to commute all death sentences in state",
+          "neutralSummary": "Newsom said he is changing the penalty for all 548 death row inmates to life without parole.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
+              "url": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "news.google.com",
+              "headline": "Gavin Newsom commutes more than 500 death sentences in California",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGNya1ZEYWJfUmVFNWs5Zk5laXk1TkluS1ZnQ3lrbUtZZWg0TGxpaVdPNUdxTjNJbkdNcWZFSXRiRWVQWGphVk8yQTNGWFlIR0M5VTU0STRqWE4wM1VCSXNhOFNOMmdpeXFkODBDdHpXWk83Z2xBS2ZxUnZvMzdhM3dKQmlkVjZWTTU0ZTN4ZmZqNW8ya0t5S21Va3Q?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "California Gov. Gavin Newsom to commute all death sentences in state",
+              "url": "https://thehill.com/homenews/state-watch/6202199-california-gov-gavin-newsom-to-commute-all-death-sentences-in-state/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Gavin Newsom lets all of California’s 548 death row inmates escape ultimate punishment",
+              "url": "https://nypost.com/2026/11/05/us-news/gavin-newsom-changes-california-death-sentences-to-life-in-prison/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
+          "neutralSummary": "The move came after conflicts with Justice Department leaders, including disagreements over legal strategy in the midterm elections, people familiar with the matter said.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
+              "url": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Democratic leaders reflect on midterm results and what's next for the party",
-              "url": "https://www.npr.org/2026/11/04/g-s1-151868/democratic-leaders-election-results-reactions-takeaways"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "What The Midterm Results Mean For Your Taxes",
-              "url": "https://www.dailywire.com/news/what-the-midterm-results-mean-for-your-taxes"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Abdul El-Sayed Hits JD Vance With Some ‘Delicious Irony’ After Declaring Victory",
-          "neutralSummary": "The Michigan progressive trolled the veep following his string of personal attacks over the course of the campaign.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Abdul El-Sayed Hits JD Vance With Some ‘Delicious Irony’ After Declaring Victory",
-              "url": "https://www.huffpost.com/entry/abdul-el-sayed-jd-vance-swear-in-senate_n_6aeb17aae4b0f78622d7c063"
+              "headline": "Head of Justice Department office on Civil Rights resigns",
+              "url": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns"
             },
             {
               "political": "right",
@@ -342,90 +421,83 @@
               "source": "Fox News",
               "initials": "FN",
               "domain": "foxnews.com",
-              "headline": "NYC's Mamdani says Abdul El-Sayed's Senate victory in Michigan 'means so much to so many'",
-              "url": "https://www.foxnews.com/politics/nyc-mamdani-abdul-el-sayed-senate-victory-michigan-means-so-much-so-many"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "Drudge Report’s 2-Word Verdict On Donald Trump’s Midterms Disaster Says It All",
-          "neutralSummary": "The Matt Drudge-founded website wasn’t the only conservative outlet to offer a sharp assessment of GOP losses.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Drudge Report’s 2-Word Verdict On Donald Trump’s Midterms Disaster Says It All",
-              "url": "https://www.huffpost.com/entry/drudge-report-donald-trump-midterms_n_6aeafe82e4b0dcee62e17dce"
+              "headline": "DOJ civil rights chief Harmeet Dhillon resigns, says White House asked her to wait until after midterms",
+              "url": "https://www.foxnews.com/politics/doj-civil-rights-chief-harmeet-dhillon-resigns-says-white-house-asked-her-wait-until-after-midterms"
             },
             {
-              "political": "left",
+              "political": "right",
               "tone": "neutral",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Donald Trump would like to change the subject",
-              "url": "https://www.vox.com/the-logoff-newsletter-trump/509311/donald-trump-midterms-defeat-ballroom-iran"
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Harmeet Dhillon, Crusader Of Trump’s Civil Rights Enforcement, Resigns From DOJ",
+              "url": "https://www.dailywire.com/news/harmeet-dhillon-crusader-of-trumps-civil-rights-enforcement-resigns-from-doj"
             }
           ]
         },
         {
           "id": "us-4",
-          "neutralHeadline": "Abdul El-Sayed Defeats Mike Rogers To Win Michigan Senate Race",
-          "neutralSummary": "El-Sayed’s issue-focused message stood out against harsh and, at times, racially charged Republican opposition.",
+          "neutralHeadline": "Postal employee arrested minutes after shooting coworkers at Des Moines post office, police say",
+          "neutralSummary": "Postal employee arrested minutes after shooting coworkers at Des Moines post office, police say&nbsp;&nbsp;KCCI3 injured in shooting at Iowa post office, suspect detained&nbsp;&nbsp;KCRGSuspect in Des Moines post office shooting was an employee, police say&nbsp;&nbsp;The Des Moines RegisterPostal em",
           "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Abdul El-Sayed Defeats Mike Rogers To Win Michigan Senate Race",
-              "url": "https://www.huffpost.com/entry/abdul-el-sayed-claims-victory-in-nail-biting-michigan-senate-race_n_6ad1426ce4b0f62da4482a53"
-            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Abdul El-Sayed’s Senate Win Is Big to Muslim Americans, but Not Because of Faith",
-              "url": "https://www.nytimes.com/2026/11/04/us/muslim-americans-el-sayed.html"
+              "headline": "3 Are Injured in Shooting at Des Moines Post Office",
+              "url": "https://www.nytimes.com/2026/11/05/us/des-moines-post-office-shooting-iowa.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "KCCI",
+              "initials": "K",
+              "domain": "news.google.com",
+              "headline": "Postal employee arrested minutes after shooting coworkers at Des Moines post office, police say",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZG4yZHZtZTUtaHY2WExqNkFjUlFtclVlZXIxcXFTUmp4Qzh2ZVkxUnUxVndTTC1vRkh6V09ad3cwWV9VSWpucTlFZVZMZGJ3SWJHV3dmb0I4RzJfZ3BzN1BKWjZiMEJmOUZaeUg4WGRLY3F3VWNka29TRUJXUE9qZ2VlUzJfWFp0V3NseWRtUm1uUmNiUzRWTUZCTlZvXzMxaTB0UHVEOUxzZWJMY204Zi1Iem0?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Gunman Opens Fire At Iowa Post Office",
+              "url": "https://www.dailywire.com/news/gunman-opens-fire-at-iowa-post-office"
             }
           ]
         },
         {
           "id": "us-5",
-          "neutralHeadline": "Iowa Democrat who quit race wins seat anyway",
-          "neutralSummary": "The Democratic nominee in an Iowa state House District race won his race on Wednesday afternoon, despite suspending his bid in September for health reasons, amid a historic election night Democrats have declared a “blue tsunami.” Eric Armstrong, a retired railroad executive, defeated GOP candidate K",
+          "neutralHeadline": "Trump's European Far-Right Allies Suddenly Have A Problem With Him",
+          "neutralSummary": "The far-right politicians began to distance themselves from Donald Trump following the midterms rout, but mostly avoided direct criticism.",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Democrat Jocelyn Benson Wins Race For Governor Of Michigan",
-              "url": "https://www.huffpost.com/entry/michigan-governors-race_n_6aead615e4b0f78622d787ef"
+              "headline": "Trump's European Far-Right Allies Suddenly Have A Problem With Him",
+              "url": "https://www.huffpost.com/entry/europe-far-right-donald-trump-midterms_n_6aec6fbde4b0f78622d909d9"
             },
             {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Iowa Democrat who quit race wins seat anyway",
-              "url": "https://thehill.com/homenews/state-watch/6199864-eric-armstrong-iowa-house-win/"
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "The Democrats have a Christianity problem — Trump’s GOP is just as lost",
+              "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4794189/democrats-christianity-trump-gop-false-gospel/"
             }
           ]
         },
         {
           "id": "us-6",
-          "neutralHeadline": "Cruz warns ‘Texans will be hurt’ after ‘blue tsunami’",
-          "neutralSummary": "Texas Sen. Ted Cruz (R) issued a stark warning on Wednesday evening after Democrats flipped a Texas Senate seat and the governor’s mansion in the midterm elections.&#160; In a lengthy statement shared on social media, the GOP senator said that “Texans will be hurt” by the blue tsunami that swept acr",
+          "neutralHeadline": "Cruz on midterms: ‘It was an a‑‑ kicking’",
+          "neutralSummary": "Texas Sen. Ted Cruz (R) reflected on the results of the midterm elections in his home state and nationwide, calling the Democrats’ win a “blue tsunami.” “2026 was not simply a blue wave. It was a blue tsunami. It was an a‑‑ kicking,” Cruz said in an episode of his podcast, &#8220;Verdict with Ted Cr",
           "versions": [
             {
               "political": "left",
@@ -433,24 +505,49 @@
               "source": "Vox",
               "initials": "VOX",
               "domain": "vox.com",
-              "headline": "Five lessons from the blue tsunami",
+              "headline": "What the midterms mean for 2028",
               "url": "https://www.vox.com/politics/509132/midterm-results-five-lessons-from-blue-tsunami"
             },
             {
               "political": "center",
-              "tone": "pessimistic",
+              "tone": "neutral",
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Cruz warns ‘Texans will be hurt’ after ‘blue tsunami’",
-              "url": "https://thehill.com/homenews/senate/6199935-cruz-warns-democrat-texas-wins/"
+              "headline": "Cruz on midterms: ‘It was an a‑‑ kicking’",
+              "url": "https://thehill.com/homenews/campaign/6201759-democrats-flip-texas-statewide-races/"
             }
           ]
         },
         {
           "id": "us-7",
-          "neutralHeadline": "Inside the GOP’s midterm bloodbath",
-          "neutralSummary": "It’s hard to put into words how good Tuesday night was for Democrats: “Blue wave” falls short, and even “bluenami” may not be apt for an election in which Republicans lost Senate races in Kansas and South Carolina, along with every major statewide race in Texas and too many more to count across the",
+          "neutralHeadline": "DeSantis: ‘No question’ midterms a ‘rebuke’ of Trump, Congress",
+          "neutralSummary": "DeSantis: ‘No question’ midterms a ‘rebuke’ of Trump, Congress&nbsp;&nbsp;The Hill‘Florida Is the Last Main Anchor Standing’ for Republicans&nbsp;&nbsp;The New York TimesDeSantis’ election post-mortem: ‘Extinction-level event’ if not for Florida&nbsp;&nbsp;Tampa Bay TimesDeSantis Calls GOP’s Midterm",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "The moment Donald Trump blew the midterms",
+              "url": "https://www.vox.com/politics/509476/midterm-elections-2026-trump-democrats-david-shor-iran"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "DeSantis: ‘No question’ midterms a ‘rebuke’ of Trump, Congress",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY3NZeE4wZUtXclpoUkVtdzFWUWllbmRielY3aXhJTmtBRTNCVEVGU2xPb3ZTT0NYWVMtbFpubUFOTWN2SzJJYWZNNUJocWtZY2xDekVLT2JEaE1Kc1pkaHkwT09TZkxESDJXYmYzZGJCaE9IMWN0Z20xR3RZanEtcUtJQVNPR2RWTTFQTmRiMmZjaS1BYV94dUlqMGtiUUdseWttM9IBqgFBVV95cUxQSXRQWERrMHVUZTFoUnJtVVVRdXlkUVlyX2JFSzhsLUZfY1ZLTTExcWYtbWVQNmpsTFRTYnpQbFNXczhaWkVkV2RwNlFQTGVRZ0d3anhKV0lRM1VBdVU3cUozNFB1MTNVeWMxd09VU3pEelg3WEJUVFEyMy1iYU9JSFRHWktTcm9heS15UjVNUXg0Q3FpZl9wNzk5MmtHUlRaZ3F2OHI3SDg0UQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "How Democrats won the Deep South",
+          "neutralSummary": "This story appeared in&#160;Today, Explained,&#160;a daily newsletter that helps you understand the most compelling news and stories of the day.&#160;Subscribe here. Many a pundit spent this morning with his or her thesaurus, seeking aquatic metaphors more portentous than “wave.” Call it a blue delu",
           "versions": [
             {
               "political": "left",
@@ -458,8 +555,8 @@
               "source": "Vox",
               "initials": "VOX",
               "domain": "vox.com",
-              "headline": "Inside the GOP’s midterm bloodbath",
-              "url": "https://www.vox.com/podcasts/508858/2026-midterms-house-senate-blue-tsunami"
+              "headline": "How Democrats won the Deep South",
+              "url": "https://www.vox.com/today-explained-newsletter/508833/2026-midterms-democrats-won-deep-south"
             },
             {
               "political": "left",
@@ -467,40 +564,15 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
-              "url": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "None of the House Republicans who voted to impeach Trump will be in the next Congress",
-          "neutralSummary": "None of the House Republicans who voted to impeach President Trump over the Jan. 6, 2021, attack on the Capitol will be in Congress after this year, following Tuesday’s midterm elections. The last Republicans still in the House are outgoing Rep. David Valadao (Calif.), who was defeated by Democrat R",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "These Republicans Bet Big on Trump. It Didn’t Pay Off.",
-              "url": "https://www.nytimes.com/2026/11/04/us/trump-allies-defeated-midterms.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "None of the House Republicans who voted to impeach Trump will be in the next Congress",
-              "url": "https://thehill.com/homenews/house/6199833-trump-impeachment-vote-republicans-exit/"
+              "headline": "How Democrats Won Across the South",
+              "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html"
             }
           ]
         },
         {
           "id": "us-9",
-          "neutralHeadline": "Trump Emerges After the Midterms: ‘Did You Guys See the Helipad?’",
-          "neutralSummary": "His party just suffered a drubbing unseen in decades. But the president, leading a tour of his ballroom project, was placid and eager to wax on about construction instead.",
+          "neutralHeadline": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
+          "neutralSummary": "Investigators, using subpoenas and other law enforcement powers, are accelerating an inquiry that takes the Trump administration into the inner workings of the court.",
           "versions": [
             {
               "political": "left",
@@ -508,8 +580,17 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Trump Emerges After the Midterms: ‘Did You Guys See the Helipad?’",
-              "url": "https://www.nytimes.com/2026/11/04/us/trump-midterms-ballroom.html"
+              "headline": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
+              "url": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "DOJ launches criminal probe into Supreme Court leak that exposed ruling overturning Roe v Wade",
+              "url": "https://www.foxnews.com/politics/doj-launches-criminal-probe-supreme-court-leak-exposed-ruling-overturning-roe-v-wade"
             }
           ]
         }
@@ -520,8 +601,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "Hong Kong activist Joshua Wong sentenced to 10 more years for collusion",
-          "neutralSummary": "Rights groups have decried the collusion charge against Joshua Wong as a deliberate attempt by authorities to keep him incarcerated.",
+          "neutralHeadline": "Hong Kong's Joshua Wong: From teenage protest leader to a decade behind bars",
+          "neutralSummary": "Jailed since 2020, Joshua Wong will be 40 when he is released under his latest sentence.",
           "versions": [
             {
               "political": "center",
@@ -529,8 +610,8 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Hong Kong activist Joshua Wong sentenced to 10 more years for collusion",
-              "url": "https://www.channelnewsasia.com/asia/hong-kong-activist-joshua-wong-sentenced-jail-collusion-6525981"
+              "headline": "Hong Kong's Joshua Wong: From teenage protest leader to a decade behind bars",
+              "url": "https://www.channelnewsasia.com/asia/hong-kong-joshua-wong-teenage-protest-leader-jail-6526956"
             },
             {
               "political": "center",
@@ -554,8 +635,8 @@
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "Man arrested after 2½-hour stand-off with police in Ang Mo Kio flat",
-          "neutralSummary": "A knife was seized.",
+          "neutralHeadline": "IHH Healthcare to cut close to 400 jobs across S’pore, Hong Kong and Malaysia",
+          "neutralSummary": "Affected IHH employees were informed of the consolidation exercise on Nov 4.",
           "versions": [
             {
               "political": "center",
@@ -563,24 +644,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Man arrested after 2½-hour stand-off with police in Ang Mo Kio flat",
-              "url": "https://www.straitstimes.com/singapore/man-arrested-after-21-2-hour-stand-off-with-police-in-ang-mo-kio-flat"
+              "headline": "IHH Healthcare to cut close to 400 jobs across S’pore, Hong Kong and Malaysia",
+              "url": "https://www.straitstimes.com/singapore/ihh-healthcare-to-cut-close-to-400-jobs-across-spore-hong-kong-and-malaysia"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "AsiaOne.com",
-              "initials": "A",
-              "domain": "news.google.com",
-              "headline": "Man locks himself in Ang Mo Kio flat; triggers 2.5-hour police standoff, Singapore News",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUVlMNktVM0JINWZfY29rUWV1WjRMdWVKU3ota0xmalFWZkpwRE1KUmZ3TTVMRHJ0NXZMWDNqTWZhV0NsZ1JuTHlrN0xMYXcyVUdISlUzOHRrcWhfeGdfV0Zjb1BockJpSHA3SG44Z01QS005YlZwTl9fT3NidFJUSHZuNA?oc=5"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "IHH Healthcare to shed over 300 employees across Singapore, Hong Kong and Malaysia",
+              "url": "https://www.channelnewsasia.com/singapore/ihh-healthcare-hong-kong-malaysia-employees-leaving-6526861"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Mastermind of conspiracy to cheat victims in rigged mahjong games gets 2 years’ jail, $15k fine",
-          "neutralSummary": "Marcus Ang Yi Sheng also threatened to throw an alleged accomplice from the balcony of her eighth-floor condo unit.",
+          "neutralHeadline": "PAP co-opts Jeffrey Siow to top leadership body, along with Ng Chee Meng, Sim Ann and Chan Hui Yuh",
+          "neutralSummary": "The four join another 14 members previously elected and co-opted into the CEC at the party’s internal election on Oct 25.",
           "versions": [
             {
               "political": "center",
@@ -588,24 +669,47 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Mastermind of conspiracy to cheat victims in rigged mahjong games gets 2 years’ jail, $15k fine",
-              "url": "https://www.straitstimes.com/singapore/courts-crime/mastermind-of-conspiracy-to-cheat-victims-in-rigged-mahjong-games-gets-2-years-jail-15k-fine"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Man who devised scheme to cheat dates in rigged mahjong games gets jail",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPazRSZnowNTVRRmt5NUl6SS1lNjJTc2dPS2xHazI5SDVFeUlDRTJ1OTZ1QVVsX2FSQUIwazIyQ2VYemNua3ZiTnRxQ29PUkRnSWFscUp4RkFUVUMzeURiZmxqMFdIblYxQThHM1pxZEc2MV9wQnVINDJQZWY0ZGVka2p2NGd5d2JTaVZveXNhTldWNmxnWHZTVA?oc=5"
+              "headline": "PAP co-opts Jeffrey Siow to top leadership body, along with Ng Chee Meng, Sim Ann and Chan Hui Yuh",
+              "url": "https://www.straitstimes.com/singapore/politics/pap-co-opts-jeffrey-siow-to-top-leadership-body-along-with-ng-chee-meng-sim-ann-and-chan-hui-yuh"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "New humanitarian network brings together aid groups, Govt to strengthen aid efforts in Gaza",
-          "neutralSummary": "SG for Humanity will identify ways for local groups to connect with overseas humanitarian partners.",
+          "neutralHeadline": "From Habibie to Prabowo: A history of wiretapping controversies involving Indonesian presidents",
+          "neutralSummary": "The communication surveillance scandal involving President Prabowo Subianto is the latest in a line of such incidents that have targeted his predecessors.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "From Habibie to Prabowo: A history of wiretapping controversies involving Indonesian presidents",
+              "url": "https://www.channelnewsasia.com/asia/indonesia-surveillance-wiretapping-involving-presidents-6527026"
+            }
+          ]
+        },
+        {
+          "id": "singapore-5",
+          "neutralHeadline": "Italian chef fired after refusing to put pineapple on pizza",
+          "neutralSummary": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Italian chef fired after refusing to put pineapple on pizza",
+              "url": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "singapore-6",
+          "neutralHeadline": "Her paycheck stopped when cancer hit, her insurance payout didn’t: Now she’s planning a baby and her dream bistro",
+          "neutralSummary": "Her paycheck stopped when cancer hit, her insurance payout didn’t: Now she’s planning a baby and her dream bistro",
           "versions": [
             {
               "political": "center",
@@ -613,115 +717,56 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "New humanitarian network brings together aid groups, Govt to strengthen aid efforts in Gaza",
-              "url": "https://www.straitstimes.com/singapore/politics/new-humanitarian-network-brings-together-aid-groups-govt-to-strengthen-aid-efforts-in-gaza"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "news.google.com",
-              "headline": "Singapore launches SG for Humanity network in bid to strengthen Gaza humanitarian aid efforts",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYXU4RWhxd2JTckgxbTJ5ZkNzNE5BcXQ0ajd1ZkxQdUV0TTlUY2xqeWVmZVBhc04wejJBWmVFcFhsRWtNNWdub1lqei1uRVhxc3JqN0o0Wnl6MzFhSldCOHFKMzVXbzdkeWlUQ0I1YldGT1NyTDVrTFNQX1ZFYTZmNlpVcy1JMTZ4UDRsNW1TV0U1M3ZMbWxPbg?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "singapore-5",
-          "neutralHeadline": "Indonesia Q3 GDP growth at 5.47%, beats expectations",
-          "neutralSummary": "Indonesia has contended with weaker investor sentiment this year amid heightened scrutiny of the government's fiscal plans and its broader policy directions.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Indonesia Q3 GDP growth at 5.47%, beats expectations",
-              "url": "https://www.channelnewsasia.com/asia/indonesia-q3-gdp-growth-beats-expectations-6526346"
-            }
-          ]
-        },
-        {
-          "id": "singapore-6",
-          "neutralHeadline": "JB developer ordered to pay US$2.58 million to condo owners, including Singaporeans, over delays",
-          "neutralSummary": "The owners of 84 units in R&amp;F Princess Cove, a waterfront development overlooking the Woodlands Causeway, were awarded compensation for delays involving their units and shared facilities. The developer intends to appeal the decision, its lawyer told CNA.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "JB developer ordered to pay US$2.58 million to condo owners, including Singaporeans, over delays",
-              "url": "https://www.channelnewsasia.com/asia/johor-bahru-princess-cove-condominium-court-ruling-6523391"
+              "headline": "Her paycheck stopped when cancer hit, her insurance payout didn’t: Now she’s planning a baby and her dream bistro",
+              "url": "https://www.straitstimes.com/singapore/health/cancer-insurance-critical-illness-prulady-prudential"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "US midterms: Democrats' victory puts Trump's China diplomacy to the test",
-          "neutralSummary": "Democrats have seized both chambers of Congress in a major blow to US President Donald Trump, shifting the balance of power in Washington as Asia watches for signs of policy change.",
+          "neutralHeadline": "Old but not frail: Seniors share how exercise and friendships keep them strong",
+          "neutralSummary": "Staying active and connected can help keep frailty at bay.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "US midterms: Democrats' victory puts Trump's China diplomacy to the test",
-              "url": "https://www.channelnewsasia.com/asia/us-democrats-midterm-results-asia-impact-china-6523456"
-            },
-            {
-              "political": "center",
-              "tone": "optimistic",
               "source": "Straits Times",
               "initials": "ST",
-              "domain": "news.google.com",
-              "headline": "US midterms: Democrats seize Congress in thundering midterm rebuke of Trump",
-              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRE1rdWZnaFVzek9veE1YOXdkSzBDRVhjMFdZNHAwck5LejZvaC1sSDhrYlV0Ykx4VHk2SExsbUJjVi1jbUo3SnN5NzdLWVpGa0ZhemZvUExmUVZTaTZkX255UlR0bkZrVHFCVjFaeUVYTUZHU0w0cVFCSFhPWW1sazEwR2MzdUJZdXlYOVd0ODhrX3dXeWFjMWV1OUk0UlQ0aUgxaXdJeHV0eHBVUWVMOEZCUTduQzhYMDhFUDhaME8?oc=5"
+              "domain": "straitstimes.com",
+              "headline": "Old but not frail: Seniors share how exercise and friendships keep them strong",
+              "url": "https://www.straitstimes.com/singapore/old-but-not-frail-seniors-share-how-exercise-and-friendships-keep-them-strong"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "Indonesia deploys over 20,000 troops to Jakarta amid wiretapping probe",
-          "neutralSummary": "Authorities have not confirmed that the military deployment in Jakarta is connected to the arrests of two senior police officers and former national police chief Listyo Sigit Prabowo.&nbsp;",
+          "neutralHeadline": "S’pore media must be credible and trusted observer, interpreter of developments: President Tharman",
+          "neutralSummary": "This means being fact-based, thorough, impartial, and looking below the surface, he said.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Indonesia deploys over 20,000 troops to Jakarta amid wiretapping probe",
-              "url": "https://www.channelnewsasia.com/asia/indonesia-deploys-troops-jakarta-wiretapping-arrests-6523396"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Indonesia Deploys Troops Amid Wiretapping Scandal",
-              "url": "https://www.bloomberg.com/news/videos/2026-11-05/indonesia-deploys-troops-amid-wiretapping-scandal-video"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "S’pore media must be credible and trusted observer, interpreter of developments: President Tharman",
+              "url": "https://www.straitstimes.com/singapore/politics/spore-media-must-be-credible-and-trusted-observer-interpreter-of-developments-president-tharman"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
-          "neutralSummary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
+          "neutralHeadline": "Woman linked to Cambodia-based scam syndicate Prince Holding Group to be charged",
+          "neutralSummary": "Chen Xiuling, also known as Karen Chen, was arrested at Changi Airport on Nov 5.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
-              "url": "https://www.bloomberg.com/news/videos/2026-11-05/insight-with-haslinda-amin-11-5-2026-video"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Woman linked to Cambodia-based scam syndicate Prince Holding Group to be charged",
+              "url": "https://www.straitstimes.com/singapore/woman-linked-to-cambodia-based-scam-syndicate-prince-holding-group-to-be-charged"
             }
           ]
         }
@@ -732,8 +777,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "'Let's face each other head-on! Inside Parliament': Shah's challenge to Rahul Gandhi",
-          "neutralSummary": "'Let's face each other head-on! Inside Parliament': Shah's challenge to Rahul Gandhi",
+          "neutralHeadline": "India successfully test-fires indigenously developed quasi-ballistic missile Pralay | Watch",
+          "neutralSummary": "Pralay, developed by the DRDO, is a short-range surface-to-surface missile with a payload capacity of 500-1,000 kg.",
           "versions": [
             {
               "political": "left",
@@ -741,67 +786,117 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "\"No SIR In 2014, 2019 Or 2024, You Still Lost\": Amit Shah To Rahul Gandhi",
-              "url": "https://www.ndtv.com/india-news/no-sir-in-2014-2019-or-2024-you-still-lost-amit-shah-to-rahul-gandhi-12286427#publisher=newsstand"
+              "headline": "India Tests Indigenous Quasi-Ballistic Pralay Missile Off Odisha Coast",
+              "url": "https://www.ndtv.com/india-news/india-tests-indigenous-quasi-ballistic-pralay-missile-off-odisha-coast-12289032#publisher=newsstand"
             },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "India successfully test-fires indigenously developed quasi-ballistic missile Pralay | Watch",
+              "url": "https://www.hindustantimes.com/india-news/india-successfully-test-fires-indigenously-developed-quasi-ballistic-missile-pralay-odisha-coast-watch-video-101793893318583.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "India's Pralay missile clears a fresh test hurdle",
+              "url": "https://economictimes.indiatimes.com/news/defence/drdo-successfully-tests-indigenously-developed-pralay-missile-off-odisha-coast-rajnath-singh/articleshow/135577017.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Moneycontrol.com",
+              "initials": "M",
+              "domain": "news.google.com",
+              "headline": "India successfully tests indigenous Pralay missile off Odisha coast | Watch",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFFtWlB2bm9ndjhVYmtSTHhxUWdHdGZjTXhSR1hHVjBpUE51ZDQ3bklVbVZlRlVhUC1VWEtZR0tjNWRvUE53WVo4bUtWVG9SYW1iMjRKRWd0eExGc0pNTW04UTdKTmVzTFh3bWJ1SVA1VjNWdXI0UFV5RDBTVXZxSmh4OVMyZFQ3RkpVdzBQa0pMS1JrcEdkVzFJbzNHcU9ULWlRQ2N0bUNwNDNkRWl3aFlJT0ZwODI2LXVrN3p5c0RjMXYxUEE?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "'Trump won't stop fighting': White House warns Democrats against impeachment bid",
+          "neutralSummary": "'Trump won't stop fighting': White House warns Democrats against impeachment bid",
+          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "'Let's face each other head-on! Inside Parliament': Shah's challenge to Rahul Gandhi",
-              "url": "https://timesofindia.indiatimes.com/india/spreading-anarchy-amit-shah-hits-out-at-rahuls-tactics-warns-of-fitting-reply-amid-vote-chori-row/articleshow/135564648.cms"
+              "headline": "'Trump won't stop fighting': White House warns Democrats against impeachment bid",
+              "url": "https://timesofindia.indiatimes.com/world/us/president-trump-will-never-stop-fighting-white-house-defiant-warns-democrats-against-impeachment-bid/articleshow/135582447.cms"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "‘Parliament is supreme forum’: Amit Shah counters Rahul Gandhi’s public debate call, accuses Congress of disrupting proceedings",
-              "url": "https://www.hindustantimes.com/india-news/amit-shah-counters-rahul-gandhi-s-public-debate-call-says-parliament-is-supreme-forum-accuses-congress-of-disrupting-proceedings-101793867010871.html"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "SC rules 24-hour arrest deadline begins from detention, not formal arrest",
-          "neutralSummary": "SC rules 24-hour arrest deadline begins from detention, not formal arrest",
-          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "The Hindu",
               "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "24-hour to produce before Magistrate starts from detention, not ‘formal arrest’: Supreme Court",
-              "url": "https://www.thehindu.com/news/national/24-hour-to-produce-before-magistrate-starts-from-detention-not-formal-arrest-supreme-court/article71668833.ece"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "SC rules 24-hour arrest deadline begins from detention, not formal arrest",
-              "url": "https://www.hindustantimes.com/india-news/sc-rules-24-hour-arrest-deadline-begins-from-detention-not-formal-arrest-101793861000408.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Live Law",
-              "initials": "LL",
               "domain": "news.google.com",
-              "headline": "BREAKING| 24-Hour Period For Production Before Magistrate Runs From Time Of Detention & Not From Formal...",
-              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNTh2N2VKRzJ0WDhkakJMUkxrckNvc0E4VjVSVXNNeG1hcG4ySTZMYkpXSDVNUlgwUzlkcTQxWUNJYVZXelpfb2FoRnRsTWZlNjNmTlVhSWp1emJYaVp4YWFKN01fN1EwWjFRbzZoOU96dG1BcHVpX1dDeGFOckZrZXpVVlJ5bE1Td3FqWGdMRjFkMGVPVXFUaGRUbVktUGxLM2hsVG1zcGVmX25pTGFlOF9rcHRQaWpJYUZaVkx4XzBTazhIZUtya2R5cDNCVUtTOGJ5Um9wd3pxMDJVOTJPbkhIcFItb2p4aEZZUNIB8gFBVV95cUxQTFhEcWF5YUZueFJoTjgtV29oRk1GVWY1SUdzaGw3VHhFeHB1Ql9jb1NhVkxOdW1ZaFNsNFEyUjJoVmxpUElJRHFDUmwzSkVQXzVUSjZBbTF1Q1g0Qk5qSXh2U2VYeVU1QmlIQ181MmZhNHRsSWxyMURuenJrNFA0cDN2LXpaTjBaLXhqbWpuTTE3VkdqVERsX0hqbGhJUWlWakI4RnczQ29RNV9QMDNTYVptUlJCVXhJNWlERmxxUm0xTklMSVNpU1JIbERGVE5RN1Zta1hzdGdfU1FyX2FKcmJwUDE4ekxuaUw3MUVLZldHdw?oc=5"
+              "headline": "U.S. midterm elections 2026 updates: Democrats vow to rein in Trump as he shows off White House ballroom",
+              "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOd2dzTGNyR0pZVHVVMS00c3JMR1p1RVZBeDljUFctczYwNGNqN3k3MDV1MTlHaUhWLWFXVmlVWHZ0TnlGaEduNUdtMmhVVklhbzk5UGJ0enQtd0k0TVFBS2RyRUU1aFg3aW4wb21oeDQycFZNUHVpSElPLVZRNmR5dS1idjRkeUVvTVBwMnhHUldQMVVkSXhRd2hlUVVWeDNFU1B1QktwRFhoZnQwX0p1Ri1sTVBGQjUwbGVmWVdJOWUxS3p0blZhc0U0bkk0Vl9pZVhjVVROTEU2Yy1NSXJTWWpyOGs1QXU5YTkzZXVodkJHc2NLWlJFb2FGbHBGUnRhYUNwMHhR0gGMAkFVX3lxTE5PSzQ3OGxLeEhybUFKWkcxN3NpUlZ5QVEycEk1MUlubE1PT2MzNUp5ZVJXR2lKNG4zdG15M3lXZ3lVZ2FfREFfUFRKcTFfdlZhRjVfanMyNjJiX0JQdUVsVWhnb1FsSGNUNEZ3MzJSTXJrMTlOZmdka3FkYlVDcjA1NGxfcm43WllweFY0THB2ZjNzaHZvYjUxcm9fSGN6bFZmalhUNWFhN0VkNXRBTVlNSWk4ZTc3VkZfdTNPZG8yUXdwZFhSQmswd2FuVVVLeGdKVkJaN2U2bzQ5RnVDNTZKOXdpclh6MVQyeHVDUTUzRlhCekdSZ0tuQzI4V1RUWklnUDY5SFdDXzhRZHE?oc=5"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Supreme Court asks Allahabad HC to give Azam Khan priority hearing",
-          "neutralSummary": "The Supreme Court has asked the High Court to hear the case on November 16; Azam Khan alleges “series of politically motivated cases”",
+          "neutralHeadline": "Former Supreme Court Justice Rajesh Bindal appointed NCLAT chairperson",
+          "neutralSummary": "Bindal retired from the Supreme Court on April 15 this year after serving at the top court for over three years.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Former Supreme Court Justice Rajesh Bindal appointed NCLAT chairperson",
+              "url": "https://www.hindustantimes.com/india-news/former-supreme-court-justice-rajesh-bindal-appointed-nclat-chairperson-101793897964121.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bar and Bench",
+              "initials": "BA",
+              "domain": "news.google.com",
+              "headline": "Former Supreme Court Justice Rajesh Bindal appointed NCLAT Chairperson",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemVBN0NBN0htY0pEbWFvZWYtQ3dERnJZWjgwenFnM3E3Ri1hRXoxd01HaUI2a1c4U0V4T1RFTXdEc0x3ZlAyNEdVdTc2aGsxNDkwRm13ekVKVHhyUkJtbHhBNjdmSTBlZXJaM2FjelZJcmpydjRwSV8xTklSM0N2WGpDaEVWdEwwNlZUNnFJRS1MUXhUWmVHSVhvOXpuZXktWUVFZmdEU1o5SVVCSTM0SDcyOGxoS0dYSTctONIBygFBVV95cUxQZTlMa084YTNRb0Vka1NMa05mdWc1VXBoVHg1VHNtX0VKYi1EM2I0MXdVcXlzejZaRmFwSVJVZnNPVzZ0OFVnWWEzN2dkYVNnb3VMQ2NuMTNPeEVYcEJLY2JXWXV0QUZMYUlkU0UzOXFQNVd5U2xCR0sxWG91UnpZNHFyRDROYUoyLTN3X0E3Vm9PNEp6d2FCazFlejl5VmFRa1FKejBUN19PcVg4bnNXbk1ZSjgxWVJJdDllV0l6VDRFWW1fOGg4R1pB?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "‘Jantar Mantar at Kochi’: CJP announces anti-SIR stir on November 7; Dipke to attend",
+          "neutralSummary": "Along with Dipke, Vijay Mallangi, the party's south zone lead, and Aafreen Nawaz, its national secretary, will also attend the anti-SIR protest in Kochi",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "‘Jantar Mantar at Kochi’: CJP announces anti-SIR stir on November 7; Dipke to attend",
+              "url": "https://www.hindustantimes.com/india-news/jantar-mantar-at-kochi-cjp-announces-anti-sir-stir-on-november-7-abhijeet-dipke-to-attend-ashutosh-ranka-saurav-das-101793882590720.html"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "ABP Live English",
+              "initials": "AL",
+              "domain": "news.google.com",
+              "headline": "CJP Announces Kochi Anti-SIR Protest On November 7 After Delhi Crackdown",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUTd2dGtsN1h6dDFDZHItUmdXV0VvdVhhM000VnUtQURWQm9ud2NBUWtzc2MxZGZlRGdpTktaU3lfR0FGYTlUckxLLXdQNi1Obi04aERqOERfNDZISXIxbFhCRUZzWGVzME5aRDlPd3hyR2kzeHpCTmtybmRsd19xd1pESDUyOW9mRGJBYTRtM1BWRHFrUDFueGxkTGhicVlRV2lVb29MaTctYnUyTkVhQnlWR0Z3aVXSAbwBQVVfeXFMTzh0OE5SQTc4TDdyUWZHY1RJbzdkX29yQkJNc05TMnFrOVBuVmotZWdFMFNFbkhmWU0xU05kN3l1c21qbXJuaGdDR21vV2RocV9hWFlSNWtzLWxHaDhFUkUwdGpjVmtXMm50d29haTdFVFNWa09wQnJqSGYtYUF0VDNzTVRTYjI4cFJqSEhxN2IwNEpMOFlnYWM4dF95ZDNXUm81aVB6Sjc2MFNLTE9lajlocjE3ZUdoYU9EcHg?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Jharkhand CM Hemant Soren calls of strengthening the tribal community",
+          "neutralSummary": "Hemant Soren said that collective participation and mutual cooperation are essential for the holistic development of the tribal society",
           "versions": [
             {
               "political": "left",
@@ -809,81 +904,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Supreme Court asks Allahabad HC to give Azam Khan priority hearing",
-              "url": "https://www.thehindu.com/news/national/sc-asks-allahabad-hc-to-give-azam-khan-priority-hearing/article71669069.ece"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "No Relief For Azam Khan From Supreme Court In Money Laundering Case",
-              "url": "https://www.ndtv.com/india-news/no-relief-for-azam-khan-from-supreme-court-in-money-laundering-case-12286256#publisher=newsstand"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Must give JNU prof 7 days’ notice before arrest in sexual harassment case: Court",
-          "neutralSummary": "The case stems from complaints by 16 students in May this year, who alleged that the professor made inappropriate remarks with sexual connotations during viva exams",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Court Relief For Congress MP In JNU Sexual Harassment Case",
-              "url": "https://www.ndtv.com/india-news/court-relief-for-congress-mp-angomcha-bimol-akoijam-in-jnu-sexual-harassment-case-12285977#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Must give JNU prof 7 days’ notice before arrest in sexual harassment case: Court",
-              "url": "https://www.hindustantimes.com/india-news/must-give-jnu-prof-7-days-notice-before-arrest-in-sexual-harassment-case-court-101793866523793.html"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Dalal Street Gets A Rs 7 Lakh Crore Diwali Gift After US Election Shock",
-          "neutralSummary": "Stock Market News: Democrats' victory in US midterms have implications extending beyond Wall Street.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Dalal Street Gets A Rs 7 Lakh Crore Diwali Gift After US Election Shock",
-              "url": "https://www.ndtv.com/business-news/stock-market-news-dalal-street-gets-a-rs-7-lakh-crore-diwali-gift-after-us-election-shock-12285545#publisher=newsstand"
+              "headline": "Jharkhand CM Hemant Soren calls of strengthening the tribal community",
+              "url": "https://www.thehindu.com/news/national/bihar/jharkhand-cm-hemant-soren-calls-of-strengthening-the-tribal-community/article71670760.ece"
             }
           ]
         },
         {
           "id": "india-6",
-          "neutralHeadline": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
-          "neutralSummary": "\"Insight with Haslinda Amin\" is a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "China Stocks Surge As Blue Wave Sinks Korea's Heavyweights",
-              "url": "https://www.bloomberg.com/news/videos/2026-11-05/insight-with-haslinda-amin-11-5-2026-video"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Christian representatives meet West Bengal RSS leader over mob attacks on congregations and churches",
-          "neutralSummary": "Senior RSS functionary from West Bengal Jishnu Basu, the Saha Khetra Prachar Pramukh of South Bengal, said that dialogue will continue with the representatives of Christian organisations but there are genuine concerns about forced conversion",
+          "neutralHeadline": "Danger in the sewer: On India’s sewer cleaning deaths",
+          "neutralSummary": "India must eliminate situations that lead to sewer cleaning deaths",
           "versions": [
             {
               "political": "left",
@@ -891,15 +920,31 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Christian representatives meet West Bengal RSS leader over mob attacks on congregations and churches",
-              "url": "https://www.thehindu.com/news/cities/kolkata/christian-representatives-meet-west-bengal-rss-leader-over-mob-attacks-on-congregations-and-churches/article71666628.ece"
+              "headline": "Danger in the sewer: On India’s sewer cleaning deaths",
+              "url": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Bihar NDA leaders led by CM Samrat Choudhary review the council results",
+          "neutralSummary": "Sources said that in the meeting, JD(U) levelled charges against the alliance partner for failing to cooperate and also tried to sabotage their candidate.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Bihar NDA leaders led by CM Samrat Choudhary review the council results",
+              "url": "https://www.thehindu.com/news/national/bihar/bihar-nda-leaders-led-by-cm-samrat-choudhary-review-the-council-results/article71671111.ece"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "APTRT–2026 notification released; applications from November 11, exams from December 20",
-          "neutralSummary": "2,721 teacher posts are expected to be filled up",
+          "neutralHeadline": "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Pradesh polls",
+          "neutralSummary": "Odisha political parties accuse A.P. of bribing people to secure their votes in MPTC and ZPTC elections",
           "versions": [
             {
               "political": "left",
@@ -907,15 +952,15 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "APTRT–2026 notification released; applications from November 11, exams from December 20",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/aptrt2026-notification-released-applications-from-november-11-exams-from-december-20/article71668498.ece"
+              "headline": "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Pradesh polls",
+              "url": "https://www.thehindu.com/news/national/odisha/residents-of-disputed-villages-inkotiacross-odisha-border-to-vote-in-andhra-pradesh-polls/article71669873.ece"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Cheranalloor crash case: court seeks data on BNS Section 105 invocations in accidents involving juvenile drivers",
-          "neutralSummary": "Judge Kavitha Gangadharan seeks data to append it to order on appeals filed by prosecution and family of the deceased against the bail granted to teenager by Juvenile Justice Board, warns investigation officer that he will be held answerable if no FIRs had been registered elsewhere invoking BNS Sect",
+          "neutralHeadline": "Kochi police yet to complete verification of private bus employees",
+          "neutralSummary": "The police launched the background verification drive following a series of incidents of criminal behaviour involving private bus crew",
           "versions": [
             {
               "political": "left",
@@ -923,8 +968,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Cheranalloor crash case: court seeks data on BNS Section 105 invocations in accidents involving juvenile drivers",
-              "url": "https://www.thehindu.com/news/national/kerala/cheranalloor-crash-case-court-seeks-data-on-bns-section-105-invocations-in-accidents-involving-juvenile-drivers/article71669022.ece"
+              "headline": "Kochi police yet to complete verification of private bus employees",
+              "url": "https://www.thehindu.com/news/national/kerala/kochi-police-yet-to-complete-verification-of-private-bus-employees/article71666851.ece"
             }
           ]
         }
