@@ -1,23 +1,48 @@
 {
-  "generatedAt": "2026-11-08T08:15:50.170096+00:00",
+  "generatedAt": "2026-11-08T18:16:12.422659+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
-          "neutralHeadline": "🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government",
-          "neutralSummary": "🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+          "neutralHeadline": "Collision of two trains in Egypt kills at least seven",
+          "neutralSummary": "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from CairoSeven people were killed and more than 100 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said.The crash occurred in al-Ayyat district in Giza p",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "Collision of two trains in Egypt kills at least seven",
+              "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Israel's president tasks opposition leader Eisenkot with forming government",
-              "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+              "headline": "Seven dead and more than 100 injured after trains collide in Egypt",
+              "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
             },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Train crash kills seven, injures dozens near Egypt’s Cairo city",
+              "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Netanyahu rival Eisenkot tapped to form Israeli government",
+          "neutralSummary": "Netanyahu rival Eisenkot tapped to form Israeli government&nbsp;&nbsp;AxiosWho Is Gadi Eisenkot, the Israeli Tasked With Forming a Government?&nbsp;&nbsp;The New York TimesGadi Eisenkot reaches out to Netanyahu allies as he strives to form government&nbsp;&nbsp;The GuardianA veteran Arab lawmaker in",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
@@ -28,54 +53,38 @@
               "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government"
             },
             {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Axios",
+              "initials": "AX",
+              "domain": "news.google.com",
+              "headline": "Netanyahu rival Eisenkot tapped to form Israeli government",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmlUTjlyRlZYWGxKSWtiSE42dVl5N1QtdFlhS3ZKWFQ1cGVwU3dFZDFmUHRFZGYxak9jOVFteVVPcy1SUGVURGFVVnQ2QlIxYUJRbkg5bFZVN3l5NEZDSEs3RFllcFF0aXF4LVRGWTA2NE9LZ3ZraWtzdkl4dm1MRWJn?oc=5"
+            },
+            {
               "political": "left",
               "tone": "neutral",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Eisenkot chosen over Netanyahu to form Israel’s next government",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss"
+              "headline": "Israeli opposition leader warns of ‘point of no return’ for democracy",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss"
             },
             {
-              "political": "center",
+              "political": "right",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government",
-              "url": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government"
-            }
-          ]
-        },
-        {
-          "id": "global-2",
-          "neutralHeadline": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-          "neutralSummary": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their familiesThe leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 children and one adult in one of the world’s worst cult disasters i",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "theguardian.com",
-              "headline": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-              "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
-              "url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder"
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Israeli president taps Netanyahu rival to form government as coalition battle looms",
+              "url": "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms"
             }
           ]
         },
         {
           "id": "global-3",
-          "neutralHeadline": "European Air Traffic Targeted By Yet More Threats",
-          "neutralSummary": "It follows a string of hoaxes targeting flights across Europe this week.",
+          "neutralHeadline": "Missile Attacks Wound 9 As Ukraine Prepares For Talks With Russia And The U.S.",
+          "neutralSummary": "The new round of negotiations would be the fourth brokered by the Trump administration, the most recent having been in Geneva in February.",
           "versions": [
             {
               "political": "left",
@@ -83,8 +92,8 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "European Air Traffic Targeted By Yet More Threats",
-              "url": "https://www.huffpost.com/entry/europe-air-traffic-threats_n_6aedb72be4b043b6d4e15697"
+              "headline": "Missile Attacks Wound 9 As Ukraine Prepares For Talks With Russia And The U.S.",
+              "url": "https://www.huffpost.com/entry/missile-attacks-wound-9-ukraine-prepares-talks-ussia-united-states_n_6aef259ce4b043b6d4e2e14d"
             },
             {
               "political": "left",
@@ -92,83 +101,83 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "New wave of bomb threats hit European airlines",
-              "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
+              "headline": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+              "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
             },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "US will mediate upcoming Ukraine-Russia talks in Abu Dhabi, Witkoff says",
+              "url": "https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says"
+            }
+          ]
+        },
+        {
+          "id": "global-4",
+          "neutralHeadline": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+          "neutralSummary": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel's main parties have recommended Eisenkot form a new government.",
+          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "European flights and broadcasters are targeted with another wave of bomb threats",
-              "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Polish gunman who killed 6 people in Krakow has ‘ultranationalistic’ views, authorities say",
-          "neutralSummary": "Polish gunman who killed 6 people in Krakow has ‘ultranationalistic’ views, authorities say&nbsp;&nbsp;AP NewsSix killed in Krakow 'far-right' shooting, as three more bodies found in attacker's home&nbsp;&nbsp;BBCMilitary cadet, far-right obsession: What we know about 25-year-old Poland shooter&nbsp",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Polish gunman who killed 6 people in Krakow has ‘ultranationalistic’ views, authorities say",
-              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3JpbnhmUWhOUkNrNkUwYVdXYkk1cDFHbEVsVGlsOElHU1dkOUNWa3JVLUdsWkdlQ1A1aWlqbkRQMmVxMk1iRko4Vng5cWdKWTA2cVdBR0xaVUVWU3pQbjJveEFwbzhmTktUX0dyQWFxX3R4eU9zbFFaWTBBM3FRaDE1TW1pZFJHUlBJbVpGMHZCVnpZVV9FUGVn?oc=5"
+              "headline": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+              "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
             },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
-              "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say"
-            }
-          ]
-        },
-        {
-          "id": "global-5",
-          "neutralHeadline": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
-          "neutralSummary": "US President Donald Trump on Saturday said he was asking mixed martial arts promoter Dana White to be the new White House press secretary. Trump has repeatedly tried to hitch his MAGA brand of politics to White's enormously successful Ultimate Fighting Championship.",
-          "versions": [
             {
               "political": "left",
               "tone": "neutral",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "Trump asks UFC chief Dana White to be White House press secretary",
-              "url": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss"
+              "headline": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss"
             },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Netanyahu faces coalition showdown as rivals maneuver to form Israel's next government",
+              "url": "https://www.foxnews.com/world/netanyahu-faces-coalition-showdown-rivals-maneuver-form-israels-next-government"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "Mourning in Poland after mass shooting",
+          "neutralSummary": "Poland has launched a terrorism investigation after a deadly shooting left six people dead and 16 injured. The 24-year-old Polish suspect was reportedly fascinated by far-right ideologies. Authorities are investigating the possible extremist motive as Krakow's main square remains sealed. Two days of",
+          "versions": [
             {
               "political": "center",
               "tone": "neutral",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
-              "url": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white"
+              "headline": "Mourning in Poland after mass shooting",
+              "url": "https://www.france24.com/en/mourning-in-poland-after-mass-shooting"
             },
             {
-              "political": "right",
+              "political": "center",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Dana White reveals he’s flying to DC ‘right now’ after Trump offered him press secretary gig",
-              "url": "https://nypost.com/2026/11/07/us-news/dana-white-reveals-hes-flying-to-dc-right-now-after-trump-offered-him-press-secretary-gig/"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave",
+              "url": "https://www.bloomberg.com/news/videos/2026-11-08/bloomberg-this-weekend-11-8-2026-video"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "South Africa's ANC facing worst-ever performance in local elections",
-          "neutralSummary": "South Africa's ANC facing worst-ever performance in local elections&nbsp;&nbsp;DW.comSouth Africa's ANC at 32%, DA 24% as municipal vote count enters final stretch&nbsp;&nbsp;ReutersANC faces bruising defeat in South African local elections with 80% of ballots counted&nbsp;&nbsp;The GuardianANC face",
+          "neutralHeadline": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran",
+          "neutralSummary": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran&nbsp;&nbsp;ReutersIn Argentina, Pope Leo to Meet Church at Odds With President Milei&nbsp;&nbsp;The New York TimesPope in Uruguay: Never settle for mediocrity, find joy and fulfillment in Christ&nbsp;&nbsp;Vatican NewsPope Leo",
           "versions": [
             {
               "political": "left",
@@ -176,47 +185,72 @@
               "source": "The Guardian",
               "initials": "TG",
               "domain": "theguardian.com",
-              "headline": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-              "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections"
+              "headline": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+              "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "DW.com",
-              "initials": "D",
+              "source": "Reuters",
+              "initials": "R",
               "domain": "news.google.com",
-              "headline": "South Africa's ANC facing worst-ever performance in local elections",
-              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2s2SDZWT3FaYXpQYmc3MDk3R1JuajMyYkMteGNJNTVvdVRFY1Nmc1QxMFVZU0lBTU50RmdQRkdrYnBWcTZGRmpIN3BHREhsUndpVHRuSEppYjdMdXkzUnJ3ajJlOGdqcjZtZnZmN1J0LTJpSHlEM1BXeGoyRUxSdWFyRmRxdnU2cFZhdmRrdElxVUNuT3M2eFpSakFVbG4t0gGgAUFVX3lxTE9hWUEyWDh0TTFSWlUtRXRBZWV5S0ZBdnU1bUdvYVlzTGtXOGV6YmFOTDk0TUpYclU5ZWY2VzU5WmtuRVlUWGFOMFUtWkZ2RTdJR29NVk9GVUt3TVJNc1RDeFBGaW9YMENHLVJlRTZ0VXpQVVlYTmFPVVBOa1pET0l5V1dzeWNOdjE0R2gwTGFybHJwSnl0aXZxX0gteHpBVzU?oc=5"
+              "headline": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5"
             }
           ]
         },
         {
           "id": "global-7",
-          "neutralHeadline": "Paraguay’s impeached president charged over bank collapse",
-          "neutralSummary": "Paraguay’s impeached president Santiago Pena was on Saturday charged over his business links to a major online bank whose sudden collapse has locked millions of people out of their money and sparked angry protests.",
+          "neutralHeadline": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+          "neutralSummary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some timeNew Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing",
           "versions": [
             {
               "political": "left",
-              "tone": "pessimistic",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Paraguay's former president charged after bank collapse",
-              "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+              "tone": "neutral",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+              "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Paraguay’s impeached president charged over bank collapse",
-              "url": "https://www.france24.com/en/americas/20261107-paraguay-s-impeached-president-charged-over-bank-collapse"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+              "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks"
             }
           ]
         },
         {
           "id": "global-8",
+          "neutralHeadline": "Trump Ally Gianni Infantino Faces Serious Challenger To His FIFA Presidency",
+          "neutralSummary": "Kohzo Tashima intends to run for FIFA president against Gianni Infantino, according to Japanese media.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Trump Ally Gianni Infantino Faces Serious Challenger To His FIFA Presidency",
+              "url": "https://www.huffpost.com/entry/fifa-infantino-challenger_n_6aedb582e4b00ab0613d3ebb"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Infantino’s Japanese challenger claims he could unseat FIFA president",
+              "url": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
           "neutralHeadline": "Pope in 'pretty good health' as he starts Latin America tour",
           "neutralSummary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
           "versions": [
@@ -239,31 +273,6 @@
               "url": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery"
             }
           ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "Strong earthquake shakes central Japan, shattering store windows and injuring at least 22",
-          "neutralSummary": "Strong earthquake shakes central Japan, shattering store windows and injuring at least 22&nbsp;&nbsp;AP NewsA strong earthquake with a preliminary magnitude of 5.7 strikes Japan, meteorological agency says&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosEarthquake shakes central Japan, sh",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
-              "domain": "news.google.com",
-              "headline": "Strong earthquake shakes central Japan, shattering store windows and injuring at least 22",
-              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWUdHZWFQdzh4U25aT0hXNC16czN1X1NmMzFMYXZleGZ6SWU1bWswdzktZ0pFbXRXQTBTajJTRGg3MFhMMzE5Q1NzMHIwU1dKMW1vUE5LTGdBU2dZa2NqN2J4TjN2aVU0ZDZaLWRaVjhqTjFqMXl3M0dRNUJrY3NSNnhB?oc=5"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Earthquake hits central Japan, injuring more than 20 people",
-              "url": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss"
-            }
-          ]
         }
       ]
     },
@@ -272,8 +281,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Live: First lady at LSU game; Trump taps UFC CEO for press secretary",
-          "neutralSummary": "Live: First lady at LSU game; Trump taps UFC CEO for press secretary&nbsp;&nbsp;The HillMelania Trump announces $7.2M LSU scholarship fund for students who were in foster care&nbsp;&nbsp;WWLTV.comHeightened security, gameday changes set for LSU-Alabama game ahead of Melania Trump's visit&nbsp;&nbsp;",
+          "neutralHeadline": "Trump shares cartoon of Dana White as press secretary",
+          "neutralSummary": "President Trump on Sunday shared a cartoon of UFC CEO Dana White as White House press secretary after announcing that White had been proposed as a candidate for the role. The president posted a cartoon video with the same animation style as “Family Guy.” In the video, White is in the White House bri",
           "versions": [
             {
               "political": "left",
@@ -303,90 +312,20 @@
               "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary"
             },
             {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "news.google.com",
-              "headline": "Trump says he offered White House press secretary role to UFC’s Dana White",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDk3dmNRMjFNZWFHWWtoOWFCeDVLXzB1WnlKVEljUk01NXhRX20zcllRMjJETzMzZElwYVE5ZXN5QVpfTWJELXlkMFk3SktkX1NmNjFqYkgxbFhNM2xzVVQtODAyaUstRGlGamNqbmtJOG42bU5WVFpVTC1Kd3FQV3VrVGRmQWlKVWR6UnJ4Y2ZCTDJTYzVpRDJLbElpVEVuQzlPUm9ndkp6RGxZNWlaTjlweTcyVm5odHc?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "news.google.com",
-              "headline": "Live: First lady at LSU game; Trump taps UFC CEO for press secretary",
-              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUZYUW1USTc1X19wZG5xdDM2c3ZROHFHWVFNckktN3lkeWVlbjFCb3MxZHl5ZFRTaGtHNmQtS2dlTl9QanB1YWlWWFBJRjctRGEwLXpxN3EyczhxWnNOOHNGTUN6dFpLVml3WWFtM3h4VXppVTR3WG1sendIYTFkZllQZVRvbWd4U05xakx6bEM1cHAxenfSAZsBQVVfeXFMTjhJRUU5U0xlcUdyeDUtRDctZ1BpY0JOdDRWbEZnblV1YTRuR01zWmR6N09vUkFPT2JrVDJvbVNSQU9EbXMyTFdxWWR1UUNWZHhpX25xSWlCbENEZ3gtRnVWbU9HYkZERzc2Q21UenUxM3Jvck1hWjh0UXlPU2NhSGJaZ29DRXluaFpLMmo2MGJvUURjLXRTaTk2ODA?oc=5"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Dana White reveals he’s flying to DC ‘right now’ after Trump offered him press secretary gig",
-              "url": "https://nypost.com/2026/11/07/us-news/dana-white-reveals-hes-flying-to-dc-right-now-after-trump-offered-him-press-secretary-gig/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Dana White responds to question about Trump’s White House press secretary request",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4796653/dana-white-responds-question-trump-white-house-press-secretary-request/"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "Israeli president picks Netanyahu’s rival Eisenkot to form new government",
-          "neutralSummary": "Israeli President Isaac Herzog has selected Gadi Eisenkot, Prime Minister Benjamin Netanyahu’s main rival, to try to form a new government following the parliamentary elections last month. Netanyahu’s coalition lost its majority in the Oct. 27 elections, and no party received enough seats in the Kne",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-              "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "news.google.com",
-              "headline": "Israel's president tasks opposition leader Eisenkot with forming government",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PclN5c1YzaHVSZWZTMGRQWjlwU0h3aFZlMmw4eHhENktZWkJIYmlYS05Ea1lEM3hJakR0M3hINmxGSU5MSTJubkRmbEhuOXpiZzNQRHF1SGZPTW8?oc=5"
-            },
-            {
               "political": "center",
               "tone": "neutral",
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Israeli president picks Netanyahu’s rival Eisenkot to form new government",
-              "url": "https://thehill.com/policy/international/6206234-herzog-appoints-eisenkot-form-government/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Herzog picks Israeli opposition leader to form coalition government",
-              "url": "https://www.washingtonexaminer.com/news/world/4796596/herzog-pick-israel-opposition-leader-coalition-gadi-eisenkot/"
+              "headline": "Trump shares cartoon of Dana White as press secretary",
+              "url": "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/"
             }
           ]
         },
         {
-          "id": "us-3",
-          "neutralHeadline": "Meet Stephen Miller, Trump’s new chief of staff: 5 things to know",
-          "neutralSummary": "President Trump announced Friday that longtime White House aide Stephen Miller would be his next chief of staff, replacing Susie Wiles — who has served in the role since Trump returned to office. Miller is an immigration hardliner and Trump loyalist who has been with the president since he launched",
+          "id": "us-2",
+          "neutralHeadline": "GOP lawmaker calls Trump’s promotion of Stephen Miller ‘a mistake’",
+          "neutralSummary": "Rep. Marlin Stutzman (R-Ind.) on Sunday decried President Trump’s promotion of Stephen Miller to White House chief of staff. “I come from the business world, just like President Trump does. And you know what? If your team takes a beating as badly as we took this last week, you have to fire people,”",
           "versions": [
             {
               "political": "left",
@@ -403,8 +342,8 @@
               "source": "The Hill",
               "initials": "TH",
               "domain": "thehill.com",
-              "headline": "Meet Stephen Miller, Trump’s new chief of staff: 5 things to know",
-              "url": "https://thehill.com/homenews/administration/6206059-stephen-miller-chief-of-staff-info/"
+              "headline": "GOP lawmaker calls Trump’s promotion of Stephen Miller ‘a mistake’",
+              "url": "https://thehill.com/homenews/house/6206725-stutzman-decries-miller-promotion/"
             },
             {
               "political": "right",
@@ -418,116 +357,7 @@
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "Trump asks DOJ to investigate Democrats calling for impeachment of cabinet officials",
-          "neutralSummary": "President Trump raised concerns Saturday about some Democrats calling for the impeachment of Republican officials, referring to the threats as “extortion at the highest level” and asking the Justice Department to “look into this.” “The Democrats are going around threatening a lot of people … with Im",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Trump asks DOJ to investigate Democrats calling for impeachment of cabinet officials",
-              "url": "https://thehill.com/homenews/administration/6206168-trump-democrats-impeachment-threats-extortion-doj/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Trump orders DOJ probe into Democrats over alleged threats against administration officials",
-              "url": "https://www.foxnews.com/politics/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Trump orders DOJ to investigate Democrats over ‘extortion’ and calls out Slotkin by name",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4796578/trump-order-doj-investigate-democrat-extortion-slotkin/"
-            }
-          ]
-        },
-        {
-          "id": "us-5",
-          "neutralHeadline": "Progressives Probably Can't Stop Chuck Schumer From Becoming Senate Majority Leader",
-          "neutralSummary": "The process of picking a Senate majority leader is an inside game, and no serious challenger has emerged yet.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Progressives Probably Can't Stop Chuck Schumer From Becoming Senate Majority Leader",
-              "url": "https://www.huffpost.com/entry/dont-count-on-progressives-to-actually-block-chuck-schumer-and-hakeem-jeffries_n_6aecbbede4b00ab0613ba646"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout",
-              "url": "https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html"
-            }
-          ]
-        },
-        {
-          "id": "us-6",
-          "neutralHeadline": "White House Recasts Trump Arch As Military Tribute",
-          "neutralSummary": "The arch and Trump’s other signature projects have drawn significant political and legal opposition.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "White House Recasts Trump Arch As Military Tribute",
-              "url": "https://www.huffpost.com/entry/white-house-trump-arch-military-tribute-rebrand_n_6aee7ac3e4b037ca1034cd19"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "Armed Illegal Immigrant Near White House Said Voices Told Him To Kill Trump",
-              "url": "https://www.dailywire.com/news/armed-illegal-immigrant-near-white-house-said-voices-told-him-to-kill-trump"
-            }
-          ]
-        },
-        {
-          "id": "us-7",
-          "neutralHeadline": "Two Blue States Voted Against Trans Youth In Sports",
-          "neutralSummary": "The results in Colorado and Washington were startling due to how reliably blue and LGBTQ-friendly both states have run in recent years.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Two Blue States Voted Against Trans Youth In Sports",
-              "url": "https://www.huffpost.com/entry/trans-youth-sports-ballot-initiatives-2026-elections_n_6ae8d3a1e4b0b1f508d5c3d2"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Anti-trans measures on youth sports, treatment pass despite blue wave",
-              "url": "https://www.washingtonpost.com/nation/2026/11/06/bans-transgender-athletes-girls-sports-pass-colorado-washington-state/"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
+          "id": "us-3",
           "neutralHeadline": "Stephen Miller Will Replace Susie Wiles As Trump's Chief Of Staff",
           "neutralSummary": "Miller will take over next week for Wiles, who the president said is moving to his political operation.",
           "versions": [
@@ -543,6 +373,15 @@
             {
               "political": "right",
               "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "House leader Hakeem Jeffries says Dems will refuse to work with Trump’s new chief of staff Stephen Miller",
+              "url": "https://nypost.com/2026/11/08/us-news/hakeem-jeffries-says-dems-will-refuse-to-work-with-trumps-chief-of-staff-stephen-miller/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
@@ -552,7 +391,82 @@
           ]
         },
         {
-          "id": "us-9",
+          "id": "us-4",
+          "neutralHeadline": "White House Recasts Trump Arch As Military Tribute",
+          "neutralSummary": "The arch and Trump’s other signature projects have drawn significant political and legal opposition.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "White House Recasts Trump Arch As Military Tribute",
+              "url": "https://www.huffpost.com/entry/white-house-trump-arch-military-tribute-rebrand_n_6aee7ac3e4b037ca1034cd19"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Trump ‘holds all the cards’ in war against Iran’s regime, White House says",
+              "url": "https://www.foxnews.com/politics/trump-holds-all-cards-war-against-irans-regime-white-house-says"
+            }
+          ]
+        },
+        {
+          "id": "us-5",
+          "neutralHeadline": "Donald Trump Trades His Best Angel For His Worst Devil In Chief Of Staff Swap",
+          "neutralSummary": "Stephen Miller is the most strident, racist, radical voice in Trump’s orbit, and will now have the top job in his White House.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Donald Trump Trades His Best Angel For His Worst Devil In Chief Of Staff Swap",
+              "url": "https://www.huffpost.com/entry/donald-trump-susie-wiles-stephen-miller_n_6aee2b8ce4b037ca1034b0d9"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Daily Wire",
+              "initials": "DW",
+              "domain": "dailywire.com",
+              "headline": "Top Dem Shuts Out Trump’s New Chief Of Staff Before He Even Gets The Gavel",
+              "url": "https://www.dailywire.com/news/top-dem-shuts-out-trumps-new-chief-of-staff-before-he-even-gets-the-gavel"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Dems won the midterms. How should they work with Trump?",
+          "neutralSummary": "Just days after big wins in the midterms, Democrats are celebrating historic victories. But what can we actually learn from these wins?&#160; David Axelrod is a Democratic strategist and the man behind Barack Obama’s two presidential victories. He’s not a senior political commentator at CNN. He’s sp",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Dems won the midterms. How should they work with Trump?",
+              "url": "https://www.vox.com/america-actually/509818/dems-won-the-midterms-how-should-they-work-with-trump"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "NY Post",
+              "initials": "NYP",
+              "domain": "nypost.com",
+              "headline": "Dems will fail in 2028 if they go hard left and don’t work with Trump, Newt Gingrich warns",
+              "url": "https://nypost.com/2026/11/08/us-news/dems-will-fail-in-2028-if-they-go-hard-left-and-dont-work-with-president-trump-gingrich-warns/"
+            }
+          ]
+        },
+        {
+          "id": "us-7",
           "neutralHeadline": "Father Calls Daughter, the Co-Pilot Killed in Florida Crash, ‘a Hero’",
           "neutralSummary": "Allan Filgueiras said during a news conference that his daughter, Nathalia, 20, fought to the final seconds as a private jet carrying nine people crashed near Palm Beach, Fla.",
           "versions": [
@@ -575,6 +489,56 @@
               "url": "https://www.washingtonpost.com/nation/2026/11/07/tearful-father-young-florida-crash-co-pilot-aims-protect-her-legacy/"
             }
           ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "New Zealanders won't know for weeks who won the election as neither side secures clear victory",
+          "neutralSummary": "New Zealanders won't know for weeks who won the election as neither side secures clear victory&nbsp;&nbsp;AP NewsWho won New Zealand’s photo-finish election and why special votes could change everything&nbsp;&nbsp;The GuardianNo clear winner in New Zealand election, as leaders prepare for weeks of t",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+              "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "New Zealanders won't know for weeks who won the election as neither side secures clear victory",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFZtYUlOcl9TejR2aTRaRW5xVnZiM05kZzVuQ1lTNGJrOWt5VEVxeWhWQXVoeHpDMmdPbTBzSHpLQ3NVX0RCc2xscjBUUlp1RTgzT0VFeV9QVnlZQTVNSHBZRy1PTkRxa3Z5S19FOVExT09jS1o1b1BOOVB1cHhMUERTNDZ2bTByclFJZWtZbGJ2aGNJeno0dWJGblh2V1RpWWc?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran",
+          "neutralSummary": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran&nbsp;&nbsp;ReutersIn Argentina, Pope Leo to Meet Church at Odds With President Milei&nbsp;&nbsp;The New York TimesPope in Uruguay: Never settle for mediocrity, find joy and fulfillment in Christ&nbsp;&nbsp;Vatican NewsPope Leo",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+              "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "Pope Leo heads to Milei's Argentina as tensions loom over austerity, Iran",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5"
+            }
+          ]
         }
       ]
     },
@@ -583,6 +547,38 @@
       "stories": [
         {
           "id": "singapore-1",
+          "neutralHeadline": "ComfortDelGro to stop U-turn testing for AVs at Punggol junction after near miss; LTA investigating",
+          "neutralSummary": "The development follows a near-miss accident between a Grab AV and a girl on Nov 5.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "ComfortDelGro to stop U-turn testing for AVs at Punggol junction after near miss; LTA investigating",
+              "url": "https://www.straitstimes.com/singapore/comfortdelgro-to-stop-u-turn-testing-for-avs-at-punggol-junction-after-near-miss-lta-investigating"
+            }
+          ]
+        },
+        {
+          "id": "singapore-2",
+          "neutralHeadline": "Haze in 2026 estimated to cost Singapore $2.32 billion, up 4% from 2015: Experts",
+          "neutralSummary": "The rise is attributed to factors such as a larger population, higher incomes and visitor spending.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Haze in 2026 estimated to cost Singapore $2.32 billion, up 4% from 2015: Experts",
+              "url": "https://www.straitstimes.com/singapore/haze-in-2026-estimated-to-cost-singapore-2-32-billion-up-4-from-2015-experts"
+            }
+          ]
+        },
+        {
+          "id": "singapore-3",
           "neutralHeadline": "Old trades, new cafes: Can Jalan Besar keep its charm?",
           "neutralSummary": "Old trades, new cafes: Can Jalan Besar keep its charm?",
           "versions": [
@@ -594,11 +590,20 @@
               "domain": "straitstimes.com",
               "headline": "Old trades, new cafes: Can Jalan Besar keep its charm?",
               "url": "https://www.straitstimes.com/singapore/old-trades-new-cafes-can-jalan-besar-keep-its-charm"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Old trades, new cafes: Can Jalan Besar keep its charm?",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yUDNad05oT1BURVNLb3YzQ0tneFdURWtpVTY4WjZhaTlCUlhwYVlWN1loZmxYTUo5R3VEdndaM0wyQVJwd0xQbWtFVE5Cbi1wSmNzZzdlNERVcDVVSl8zallaUGpFdjc1STM0TXBSdWJyZy1KcTVUSQ?oc=5"
             }
           ]
         },
         {
-          "id": "singapore-2",
+          "id": "singapore-4",
           "neutralHeadline": "195 arrested for vice-related activities in islandwide raids",
           "neutralSummary": "Mobile phones, computers, vice-related paraphernalia and cash worth over $150,000 were seized during the raids.",
           "versions": [
@@ -610,47 +615,15 @@
               "domain": "straitstimes.com",
               "headline": "195 arrested for vice-related activities in islandwide raids",
               "url": "https://www.straitstimes.com/singapore/195-arrested-for-vice-related-activities-in-islandwide-raids"
-            }
-          ]
-        },
-        {
-          "id": "singapore-3",
-          "neutralHeadline": "Four taken to hospital after four-vehicle crash on TPE",
-          "neutralSummary": "They were all conscious, the police said, adding that the accident is under investigation.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Four taken to hospital after four-vehicle crash on TPE",
-              "url": "https://www.straitstimes.com/singapore/four-taken-to-hospital-after-four-vehicle-crash-on-tpe"
-            }
-          ]
-        },
-        {
-          "id": "singapore-4",
-          "neutralHeadline": "Australia should deepen ties with Asia to give itself more room to pursue its interests: SM Lee",
-          "neutralSummary": "He pointed to opportunities for cooperation that would help countries “see each other as partners in development, and not solely through the prism of US-China rivalry”.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "Australia should deepen ties with Asia to give itself more room to pursue its interests: SM Lee",
-              "url": "https://www.straitstimes.com/singapore/australia-should-deepen-ties-with-asia-to-give-itself-more-room-to-pursue-its-interests-sm-lee"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
+              "source": "The Star",
+              "initials": "TS",
               "domain": "news.google.com",
-              "headline": "Australia should deepen economic, security ties with Southeast Asia to advance national interests amid intense global rivalry: SM Lee",
-              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUhtaVNFby1qUTBOQWN5cTdsc0twRWkxc2NpQTRJUFFtWUxQcFRpdDUzaFo0dmR0cmI0QVBvdW8yNU1ORThpb0lNT1BVbnkzX0FpM3RKSmNkSkN5WFFOTFVXQVBsdk1zZkN2eTNLTFkwaFhNZnVhRjZEUm80WlVTX0JhR0tfZUNPZjE3X2VCNERHTjZYbjVr?oc=5"
+              "headline": "Singapore arrests 195 for vice-related activities in islandwide raids",
+              "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdnQzTzY2U1ZkRHpfOTVFQlFkNllEUTVKTTZVbXdEVWczb20xUmNUbzI3dWhxWUhreTF4X1p4ZUFLX05TSTIzOFliQ0ZCNW9JQ0pQWkRZci1XWlhoZkVEalJ6a05WVGI5ZVRyR0RtNVdlTldndlV4cC1heldTcm1VUXhVaktCdjlzNzZXNXhXRTVUajQ0RXBMZjduUWtqWVFFRU5ESkxPS3VkVUdzTk5mSVdWZ2pOeWpUNE9wcm11Y1E2ZmluYUJJc1JEcnM?oc=5"
             }
           ]
         },
@@ -671,18 +644,18 @@
             {
               "political": "center",
               "tone": "neutral",
-              "source": "AP",
-              "initials": "AP",
+              "source": "Straits Times",
+              "initials": "ST",
               "domain": "news.google.com",
-              "headline": "M5.7 quake strikes central Japan; over 20 injured",
-              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmtsSkpUR1NwMFdkUG1WaXY1MUpTMjdFeVpQNkxHc2c1TDBfWURlNkZEN0pOXzA3WWw4WHRTbV9TcFhpQTlDd2VsLU1Cd2owMTU2RXNDSkRKYk0zN2xhZ0NkSGtyVy1yck9kUm9IUGZNU0F3Rm5lQjVlMFRLMllBQnBwbHdqWnNNSzRzbkhWZVo3REk?oc=5"
+              "headline": "5.7-magnitude quake strikes central Japan, over 20 injured in Aichi and Shizuoka prefectures",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVnNuX1A1UnlJUzhoLVRZWi0xemJPWWtuUGNoRnMwc2tUUGxreU1ZUXk3bFZPbkMxN0tYdVBqc0ZHSEY5R3FCbXA2S1JoTEx0Vi1VaWRkVFBjTTUwVTE0NlhpeVBQZmw3VjVxc3ZOa1hvcl9nVXVWRHV0VlZ4UFNsOFpMNE1MdnNGenM4dnFpa3lnQmEwOERKR0NBQTdlOHB3UzVNcnF2M1ZWTl9DNnVYRTgzSExQdDd4V01MZTJhajJXYUU?oc=5"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "Malaysia's king says Najib's conditional pardon is unambiguous, warns against disputing it",
-          "neutralSummary": "The royal decree comes a day after the Attorney-General's Chambers called for a temporary suspension of Najib Razak's house arrest, citing legal questions over the implementation of his pardon and its implications for a separate prison sentence.",
+          "neutralHeadline": "China's 'potato capital' cultivates new crop of data centres as AI boom takes root",
+          "neutralSummary": "On the windswept plains of China's Inner Mongolia, potato farms are making way for sprawling AI data centres. CNA visited Ulanqab, where the boom is transforming livelihoods and raising questions about water sustainability in a drought-prone region.",
           "versions": [
             {
               "political": "center",
@@ -690,47 +663,13 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Malaysia's king says Najib's conditional pardon is unambiguous, warns against disputing it",
-              "url": "https://www.channelnewsasia.com/asia/najib-razak-pardon-house-arrest-king-warning-6532831"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "NST Online",
-              "initials": "NO",
-              "domain": "news.google.com",
-              "headline": "King's prerogative to pardon Najib cannot be questioned, says Anwar",
-              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGRSUjNRa2FhazBod0Vnbk9GaGZWTGI1M1g1Vk1wQ2tMb1RxWWVFejg4LTBEOHlxcF9CdEpCUlhTZzFoUTl2ZVRldk53SUZDZ1hyVWNGQ19jSFNXTGhaeEtpaEhjSGRLa1hXSFJCZlJvX2J0MTczcXR5N1dxbl9WNmVRb1otOUVSd0l2cW94dzljSEpvRXVwa1kyMW5rRWwyQjQ2R2pGNXV1NnhjaGR6czFyb9IBuAFBVV95cUxOdHROU25KbGxnY093R1FIZjJ3cVFhczdqLXUtS2NLNHowXzFlREx1cnR2bTRJc0lfZldwNGVtUzRlQmJvTzhNMnBjNjRjVkJNbjlnRUZiS0tZMnREYkltY1hYMzQ2YTRRN1FtRF9jOUpaTVBQSXd2VG1tVGZXOGpmbzR3TW5GNHhjcnY0TWVuNGRBdFFxd0F4OXB4eUZ4QkNReXhUZ0g1X04ydnVRNzV1czlPaU11V3VC?oc=5"
+              "headline": "China's 'potato capital' cultivates new crop of data centres as AI boom takes root",
+              "url": "https://www.channelnewsasia.com/east-asia/china-ai-data-centre-boom-inner-mongolia-6526706"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "Macau ex-lawmaker sentenced to 12.5 years in prison in city's first national security trial",
-          "neutralSummary": "Au Kam San was arrested in July 2025 for collusion with foreign forces to endanger national security and tried behind closed doors.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Macau ex-lawmaker sentenced to 12.5 years in prison in city's first national security trial",
-              "url": "https://www.channelnewsasia.com/asia/macau-ex-lawmaker-125-years-prison-first-national-security-trial-6530286"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Macau jails pro-democracy campaigner in city's first national security case",
-              "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
           "neutralHeadline": "Google executive Donald Harrison resigns from SpaceX board",
           "neutralSummary": "Google executive Donald Harrison resigns from SpaceX board",
           "versions": [
@@ -746,9 +685,9 @@
           ]
         },
         {
-          "id": "singapore-9",
-          "neutralHeadline": "School Spotlight: Students gain confidence and find purpose at NorthLight School",
-          "neutralSummary": "Stigma has eased for the school for children who cannot access mainstream secondary education.",
+          "id": "singapore-8",
+          "neutralHeadline": "2 men arrested after fight at Chinatown; police looking for third person involved",
+          "neutralSummary": "A 37-year-old man hurled vulgarities and threats at the police when they arrived.",
           "versions": [
             {
               "political": "center",
@@ -756,8 +695,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "School Spotlight: Students gain confidence and find purpose at NorthLight School",
-              "url": "https://www.straitstimes.com/singapore/parenting-education/school-spotlight-students-gain-confidence-and-find-purpose-at-northlight-school"
+              "headline": "2 men arrested after fight at Chinatown; police looking for third person involved",
+              "url": "https://www.straitstimes.com/singapore/2-men-arrested-after-fight-at-chinatown-police-looking-for-third-person-involved"
+            }
+          ]
+        },
+        {
+          "id": "singapore-9",
+          "neutralHeadline": "Missing: Man last seen near Yishun Ave 2 on Nov 8",
+          "neutralSummary": "He was last seen in a blue cap, a light green shirt and blue shorts.",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "Missing: Man last seen near Yishun Ave 2 on Nov 8",
+              "url": "https://www.straitstimes.com/singapore/missing-man-last-seen-near-yishun-ave-2-on-nov-8"
             }
           ]
         }
@@ -768,8 +723,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "PM Modi to celebrate Diwali in Naxal-hit Bastar",
-          "neutralSummary": "PM Modi to celebrate Diwali in Naxal-hit Bastar",
+          "neutralHeadline": "Armed Maoists eliminated, but ‘dimagi Naxals’ remain a threat: PM Modi",
+          "neutralSummary": "He described the elimination of armed Maoists as a victory for the government’s policies and strong political will",
           "versions": [
             {
               "political": "left",
@@ -777,8 +732,33 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "PM Modi to celebrate Deepavali with forces in Bastar that was once den of Maoists",
+              "headline": "‘Dimagi Naxals’ instigating people against Constitution: PM Modi as Maoists eliminated",
               "url": "https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Armed Maoists eliminated, but ‘dimagi Naxals’ remain a threat: PM Modi",
+              "url": "https://www.hindustantimes.com/india-news/armed-maoists-eliminated-but-dimagi-naxals-remain-a-threat-pm-modi-101794131447721.html"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "Delhi’s air quality ‘very poor’ on Diwali, expected to worsen",
+          "neutralSummary": "Of the 59 monitoring stations that recorded data on Sunday, air quality was in the 'severe' category at 12 and in the 'very poor' category at 22.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Delhi records ‘very poor’ air quality on Diwali with 376 AQI",
+              "url": "https://www.thehindu.com/news/cities/Delhi/delhi-wakes-up-to-toxic-haze-on-deepavali-close-to-severe-aqi-at-383/article71680540.ece"
             },
             {
               "political": "left",
@@ -786,24 +766,24 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "PM Modi To Celebrate Diwali In Bastar, Where \"Naxalism Once Held Sway\"",
-              "url": "https://www.ndtv.com/india-news/pm-modi-to-celebrate-diwali-in-bastar-where-naxalism-once-held-sway-12299379#publisher=newsstand"
+              "headline": "Delhi Air Quality Turns 'Very Poor' On Diwali, To Turn 'Severe'",
+              "url": "https://www.ndtv.com/india-news/delhi-air-quality-turns-very-poor-on-diwali-to-turn-severe-tomorrow-12300486#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "PM Modi to celebrate Diwali in Naxal-hit Bastar",
-              "url": "https://economictimes.indiatimes.com/news/india/pm-modi-to-celebrate-diwali-with-security-personnel-in-naxal-hit-bastar/articleshow/135651673.cms"
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Delhi’s air quality ‘very poor’ on Diwali, expected to worsen",
+              "url": "https://www.hindustantimes.com/india-news/delhis-air-struggle-begins-ahead-of-diwali-firecrackers-records-very-poor-air-quality-with-376-aqi-101794143976910.html"
             }
           ]
         },
         {
-          "id": "india-2",
-          "neutralHeadline": "The great White mix-up: Did Trump offer White House job to the wrong Dana?",
-          "neutralSummary": "The great White mix-up: Did Trump offer White House job to the wrong Dana?",
+          "id": "india-3",
+          "neutralHeadline": "Trump says US took ‘giant step back in history’ after Democrats’ midterm victory",
+          "neutralSummary": "Trump says US took ‘giant step back in history’ after Democrats’ midterm victory",
           "versions": [
             {
               "political": "left",
@@ -811,8 +791,8 @@
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Trump's Job Offer To Dana White Puts Spotlight On Their 25-Year Friendship",
-              "url": "https://www.ndtv.com/world-news/friends-for-25-years-ufc-chief-dana-white-never-forgot-donald-trumps-backing-mma-in-2001-12299361#publisher=newsstand"
+              "headline": "Trump Says US Took 'Giant Step Back In History' After Midterm Election Loss",
+              "url": "https://www.ndtv.com/world-news/trump-says-us-took-giant-step-back-in-history-after-midterm-election-loss-12300660#publisher=newsstand"
             },
             {
               "political": "center",
@@ -820,8 +800,81 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "The great White mix-up: Did Trump offer White House job to the wrong Dana?",
-              "url": "https://timesofindia.indiatimes.com/world/us/the-great-white-mix-up-did-trump-offer-white-house-job-to-the-wrong-dana-white/articleshow/135653662.cms"
+              "headline": "Trump says US took ‘giant step back in history’ after Democrats’ midterm victory",
+              "url": "https://timesofindia.indiatimes.com/world/us/giant-step-back-in-history-trump-blames-democrats-midterm-sweep-for-3-trillion-market-loss/articleshow/135661310.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Portion of false ceiling collapses outside Mumbai airport terminal, one hurt",
+          "neutralSummary": "The airport's emergency medical team rushed to the spot immediately after the incident outside the terminal building and provided first aid to the injured individual",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Portion of false ceiling collapses outside Mumbai airport terminal, one hurt",
+              "url": "https://www.thehindu.com/news/national/maharashtra/portion-of-false-ceiling-collapses-outside-mumbai-airport-terminal-one-hurt/article71680978.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "One child dead, 269 people treated for firecracker-related burn injuries across Tamil Nadu during Diwali",
+          "neutralSummary": "As per the official bulletin, the state 108 emergency ambulance network received 16,079 calls between 7 am on November 7 and 7 am on November 8.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "One child dead, 269 treated for burn injuries in T.N. during Deepavali",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/one-child-dead-269-treated-for-burn-injuries-in-tn-during-deepavali/article71680951.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "One child dead, 269 people treated for firecracker-related burn injuries across Tamil Nadu during Diwali",
+              "url": "https://www.hindustantimes.com/india-news/one-child-dead-269-treated-for-burn-injuries-in-tn-during-deepavali-101794140352435.html"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "HD Kumaraswamy Claims IAS Officer Paid Bribe To Stop Transfer, Points To Minister",
+          "neutralSummary": "HD Kumaraswamy claimed the Deputy Commissioner's office was involved in collecting bribes.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "HD Kumaraswamy Claims IAS Officer Paid Bribe To Stop Transfer, Points To Minister",
+              "url": "https://www.ndtv.com/india-news/hd-kumaraswamy-claims-ias-officer-paid-bribe-to-stop-transfer-points-to-minister-12300676#publisher=newsstand"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Dana White turns down Donald Trump's WH job offer",
+          "neutralSummary": "Dana White turns down Donald Trump's WH job offer",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Before Trump's Dana White \"Mix-Up\", There Was A 2020 Four Seasons Slip-Up",
+              "url": "https://www.ndtv.com/world-news/donald-trump-dana-white-ufc-white-house-mix-up-there-was-a-2020-four-seasons-slip-up-12300380#publisher=newsstand"
             },
             {
               "political": "center",
@@ -831,6 +884,22 @@
               "domain": "economictimes.indiatimes.com",
               "headline": "Dana White turns down Donald Trump's WH job offer",
               "url": "https://economictimes.indiatimes.com/news/international/world-news/ufc-chief-dana-white-turns-down-donald-trumps-offer-to-become-white-house-press-secretary/articleshow/135650601.cms"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Aramco Skyscraper In Riyadh Damaged In \"Attempted Attack\"",
+          "neutralSummary": "Witnesses confirmed seeing damage to the building.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Aramco Skyscraper In Riyadh Damaged In \"Attempted Attack\"",
+              "url": "https://www.ndtv.com/world-news/aramco-skyscraper-in-riyadh-damaged-in-attempted-attack-12300454#publisher=newsstand"
             },
             {
               "political": "left",
@@ -838,192 +907,33 @@
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "news.google.com",
-              "headline": "Trump asks UFC chief Dana White to be White House press secretary",
-              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXdtN3cwTV9vVWVSSE5LNl8yMEowcG5fc2tzbzlnQi14bHBUZjVQMzQxLVQxMEhRUktZVjVzLU5xOWxrSUsxblZmR3hENGh0UnNKTGRwUmt0bUdvd0FmdHFTRG1XZlgyR1B6U2FwZlJRdE96UDVJQ1BwT05CRXVpamFHbkdBajNwRlZ1U0VndjFkdnN5Q3ZLTVUyY1poZkxQckEtWFRFbUVsd9IBrwFBVV95cUxQb2pqUzMweVBZVnJ4NTVhQ3ExVWF0OUlYbjRDdTR5cEF6QTR1ZlhwYlFoSEUtdUFITEZ6b0tLMlFKYnkydG1jTTEycEdPTkVKdDJUU3NVd3dJWjl1aUcxOW04cHdzYm1XLWFDZV85cDkxV0ZYVkZYMTNnUVdwZkVJWjNrYklpbGVqOTR6UHFsQzd0Sk1QcjBfV3BNbmJ1V0xJVWZuR3FqdlJpUmRFQ3VF?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-3",
-          "neutralHeadline": "'First since end of Naxalism': PM Modi celebrates Diwali with security personnel in Bastar",
-          "neutralSummary": "'First since end of Naxalism': PM Modi celebrates Diwali with security personnel in Bastar",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Naxals Wiped Out In Forests But 'Dimagi Naxals Hide Among Us': PM Modi In Bastar On Diwali",
-              "url": "https://www.ndtv.com/india-news/while-naxalites-have-been-wiped-out-from-the-forests-dimagi-naxals-have-infiltrated-various-organisations-pm-modi-12299676#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'First since end of Naxalism': PM Modi celebrates Diwali with security personnel in Bastar",
-              "url": "https://timesofindia.indiatimes.com/india/first-since-end-of-naxalism-pm-modi-celebrates-diwali-with-security-personnel-in-bastar-video/articleshow/135653522.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "'First Diwali when India is free from Naxalism': PM Modi marks festival in Bastar",
-              "url": "https://www.hindustantimes.com/india-news/pm-modi-celebrates-diwali-with-secuirty-person-in-bastar-says-first-diwali-when-india-is-free-from-naxalism-101794121403665.html"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Magnitude 5.7 earthquake hits central Japan, dozens injured",
-          "neutralSummary": "Magnitude 5.7 earthquake hits central Japan, dozens injured&nbsp;&nbsp;The Times of India22 Injured, Windows Shattered As 5.7-Magnitude Earthquake Hits Japan&nbsp;&nbsp;NDTVM5.7 quake strikes central Japan; over 20 injured&nbsp;&nbsp;Japan TodayEarthquake hits central Japan, injuring more than 20 pe",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "22 Injured, Windows Shattered As 5.7-Magnitude Earthquake Hits Japan",
-              "url": "https://www.ndtv.com/world-news/japan-earthquake-news-22-injured-windows-shattered-as-5-7-magnitude-earthquake-hits-japan-12299647#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "Magnitude 5.7 earthquake hits central Japan, dozens injured",
-              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYUhMTDY4SkVzLXV1dWlHMzlIRFFaSVBITnZUSE5FWGFEaTRTWFNoYmFsMkx0M296bHJpaGMtSEUwQl9JVGJzWEZLa0RNTWoyWjRheVBWXzlvMVNjNU1ldkladU9lUS1sUmFtWWl2bnV0NzlieUl5RU54SzZVSDV0dnhNNmdZeUs3UmdNRy1xWkEyQTZmVW1vOF94aDlrMURnMmo3UDZTb0NTZ2xxRGp2R2ZWY1JRZHhMZVpWYW5RamQwV3pRRTgwakh4V0p5b2pKS1d5MXI0aTN3RlVtOVBPVUFzNWM1QQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Gold, Muhurat trading &amp; big business: The economics of Diwali and how they've changed",
-          "neutralSummary": "Diwali presents a vital chance for Indian families to reassess their financial strategies and explore new investment avenues. While traditional customs like gold purchases prevail, there is also a surge in modern investment tools such as mutual funds and stocks. Additionally, this festival signals a",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Diwali Muhurat Trading 2026: 3 Stocks With 25% Potential Upside",
-              "url": "https://www.ndtv.com/business-news/diwali-muhurat-trading-2026-samvat-2083-three-best-stock-picks-share-market-nse-bse-news-12299561#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Gold, Muhurat trading &amp; big business: The economics of Diwali and how they've changed",
-              "url": "https://timesofindia.indiatimes.com/business/india-business/gold-muhurat-trading-and-big-business-the-economics-of-diwali-and-how-theyve-changed/articleshow/135653731.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Diwali eve crackers leave Delhi under a toxic haze, air quality nears ‘severe’",
-          "neutralSummary": "Twenty-four of the 54 monitoring stations across the city recorded “severe” air quality while the remaining stations stood in the “very poor” category.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Delhi Pollution Worsens On Diwali, Air Quality 'Severe' In Many Areas",
-              "url": "https://www.ndtv.com/india-news/delhi-pollution-worsens-on-diwali-air-quality-aqi-severe-in-many-areas-12299481#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Diwali eve crackers leave Delhi under a toxic haze, air quality nears ‘severe’",
-              "url": "https://www.hindustantimes.com/india-news/delhi-ncr-pollution-aqi-today-firecrackers-smog-haze-supreme-court-news-air-quality-101794111465710.html"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Houthi attacks target Aramco facilities in Saudi Arabia as explosions rock Riyadh",
-          "neutralSummary": "Houthi attacks target Aramco facilities in Saudi Arabia as explosions rock Riyadh",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Houthi attacks target Aramco facilities in Saudi Arabia as explosions rock Riyadh",
-              "url": "https://timesofindia.indiatimes.com/world/middle-east/houthi-attacks-target-aramco-facilities-in-saudi-arabia-as-explosions-rock-riyadh/articleshow/135653867.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Saudi Arabia issues alert as booms rock Riyadh",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-issues-early-warning-alert-in-riyadh-multiple-loud-booms-heard-in-capital/articleshow/135652504.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "Kanpur man killed as Thar rams his scooter and drags him along for 20 metres; driver flees",
-          "neutralSummary": "DCP West Qasim Abidi said the vehicle had been seized and further action was underway.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Kanpur man killed as Thar rams his scooter and drags him along for 20 metres; driver flees",
-              "url": "https://www.hindustantimes.com/india-news/kanpur-man-61-killed-as-speeding-thar-drags-scooter-rider-for-20-metres-uttar-pradesh-101794118820258.html"
-            },
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "news.google.com",
-              "headline": "Woman Thar Driver Rams Scooter, Kills Man In Kanpur On Diwali Eve, Flees",
-              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeWhFTGFyRWNrZjV4bDYyU2J3Sjh1WGpnNEtrWnVUMEpfRENTa2tWcWFUU05pak5yZThWYS1JeHVidUE2WHl4bURLQndMTzA1NV9xelhmSTM5R3c2VFkxdmNGamZnV1J4TXlvQWpSTlEzbkYxX1RzcjgwUkRvM044RFpiX3EtdmF6MC1CYV8zRGNKQWp0ckI3TlgwUGtoTTVuNWJ0aXJPWkdGdHNPbWxVdzhCdGdlMTBfUUhaazNDZEZxbFh2ZHM5ZWZubS1kajZzRUp3RHJ4bEV0X3hjcTRxUQ?oc=5"
+              "headline": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOam9zc1FkUTVXSWFQS0FvbG5pRlRaTjVyRDNrU0pubVYtU1Q2SUM3T0NuVWltenY4VUNXRGh6LW1fLWRxcFVKWEhyY2ZlODZHdEV5UkJiNkhBOHpYUUY2U3FLNnM3RHpkS3o3Tm9jNnEzUEg1VGdCdmlHV0trMDdEX3p5UWp6XzJFTEtyWlBTUFhocldQcXlJeTg1N3d6d0FSMGk4WVdwZW16Q3Q4dlZTdDVoSm_SAboBQVVfeXFMTnlpdEw5V3RCT3NRU2pOUUdmSExLODRyNVY5US1jTnkyWG9POFRpM3JGMVFEb0ZpZ2ZieFBWd1Brd0kyQll0dlBtenRZQjVoQ2J6UDBQSFlCVDhfNU5obnpHM0lLYkpRVHJvUmt6YkRzc3loMnpiSnUtczlrOHdFTm5rNWVmdlJGbWt2RXhnbUxyaDBoRkN2dXBmM3R1T2JTczhaUEpiV3hZbmpVV1ZSSjh3ZUNQRXFNOVJn?oc=5"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "HT Morning News Brief November 8: Delhi’s worst Diwali eve air in 10 years; Israel Prez picks Netanyahu rival Eisenkot, and more",
-          "neutralSummary": "Here are today's top headlines from politics, national and global events, sports, and entertainment.",
+          "neutralHeadline": "Video: Jaipur cafe owner beaten after objecting to employee's friend's frequent visits",
+          "neutralSummary": "A cafe owner named Mayank Gopalia was attacked by unidentified assailants in Jaipur on November 5. He was ambushed while walking home after closing his cafe, Oven The Bakery Cafe. The attackers repeatedly struck him with sticks, leaving him severely injured and unconscious. A preliminary investigati",
           "versions": [
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "HT Morning News Brief November 8: Delhi’s worst Diwali eve air in 10 years; Israel Prez picks Netanyahu rival Eisenkot, and more",
-              "url": "https://www.hindustantimes.com/india-news/ht-morning-news-brief-november-8-delhi-s-worst-diwali-eve-air-in-10-years-israel-prez-picks-netanyahu-rival-eisenkot-and-more-101794104992289.html"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Jaipur Cafe Owner Ambushed, Beaten With Iron Rods By Attackers",
+              "url": "https://www.ndtv.com/india-news/jaipur-cafe-owner-ambushed-beaten-with-iron-rods-by-attackers-12300333#publisher=newsstand"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Arab News",
-              "initials": "AN",
-              "domain": "news.google.com",
-              "headline": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to form government",
-              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnYzdGFmOFpqOFgwMmpZVXlSQXRvdGdkc2JzZUVqWVpzdVlWaWtNVjRlaDk0aXZOSlhjSkIzSmZySjE2aUM4V0w3VFdtenVFeXNacFpkV3NabUpxS3N5Z01hU0paR0JJcHV5ZFdKd0RkVVhkNlFDclNUbFZvX294NWQ2YUUtX2d1YUlNb3dJaUNZTmlsZGF0bGc5S0VWc2dXRlJaTklvSHYxbThIZ282ZGtPWklxUUhn?oc=5"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "Video: Jaipur cafe owner beaten after objecting to employee's friend's frequent visits",
+              "url": "https://timesofindia.indiatimes.com/city/jaipur/threatened-to-kill-him-jaipur-cafe-owner-ambushed-beaten-after-objecting-to-employees-friends-frequent-visits-video/articleshow/135660046.cms"
             }
           ]
         }
