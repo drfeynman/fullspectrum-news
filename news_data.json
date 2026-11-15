@@ -1,11 +1,54 @@
 {
-  "generatedAt": "2026-11-15T08:35:48.750448+00:00",
+  "generatedAt": "2026-11-15T19:17:58.260846+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
+          "neutralHeadline": "Iran claims drone attack on US military base in Bahrain",
+          "neutralSummary": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September as blasts rocked the capital, Manama. It comes after Iran targeted an airbase in the US-allied island state, ending a long lull in strikes during the Middle East War and comes as negotiations to end the",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "U.S. Military Downs 2 Iranian Attack Drones As Iran Claims A Strike On U.S. Radar In Bahrain",
+              "url": "https://www.huffpost.com/entry/united-states-military-downs-2-iranian-attack-drones-iran-claims-strike-american-radar-bahrain_n_6af71b02e4b065342906cbdd"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Iran targets US military base in Bahrain with drone attack",
+              "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Iran claims drone attack on US military base in Bahrain",
+              "url": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
+              "url": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
           "neutralHeadline": "U.S. Envoys Meet With Putin In Moscow On Ukraine Talks, Then See Zelenskyy In Dublin",
           "neutralSummary": "Negotiators may be looking to grant Russia concessions on NATO’s strategy in return for peace in Ukraine — a possibility that alarms European leaders.",
           "versions": [
@@ -30,43 +73,9 @@
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "Ukraine Peace Push Turns to NATO and Donbas",
-          "neutralSummary": "Bloomberg Economics defense lead Becca Wasser tells Bloomberg This Weekend that a US proposal linking NATO membership to Ukrainian concessions in the Donbas represents movement in peace talks but faces significant political and security hurdles. Speaking with hosts David Gura and Christina Ruffini,",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-              "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Guardian",
-              "initials": "TG",
-              "domain": "news.google.com",
-              "headline": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says",
-              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDZhdzBhLVdGZk1vZFdVY1E5MmhQMWVMWjAyRFJ4RzB6NUlfLWVBbmdsb1BQMFpLbnNlQ2J4bUdWNVpuUE1jbzNseWhuREhsYkRUWm1oRTNLUVhMLVNWWEE5ejh0OVpZakN3YkNjWDNvYUUybUtMVVhsVmladkljQ2h6ZDNvUWREdUVaNkpBclpHTkY2Uktzd3lYMnltNmZEeUh4MUV2RllDSWZPUWNlZjJsaEJ0T29BeDVfLTJydUV2aVVlbncwVTVKc3pEZEJ4YzY3LQ?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Ukraine Peace Push Turns to NATO and Donbas",
-              "url": "https://www.bloomberg.com/news/videos/2026-11-14/ukraine-peace-push-turns-to-nato-and-donbas-video"
-            }
-          ]
-        },
-        {
           "id": "global-3",
-          "neutralHeadline": "SpaceX's Starship completes first-ever mid-air catch after return from orbit",
-          "neutralSummary": "SpaceX's Starship spacecraft made a successful return to Earth on Saturday, completing its first mid-air catch by giant robot arms in Texas, after an aborted recovery attempt.",
+          "neutralHeadline": "Israel kills senior member of Hamas's military wing in Gaza strike",
+          "neutralSummary": "The Israeli military said on Sunday its forces had killed a senior member of Hamas's military wing in Gaza. The militant group confirmed the death of Samir Abu Younis, the commander of its Rafah brigade, adding that he played a prominent role in planning the October 7, 2023 attacks.",
           "versions": [
             {
               "political": "left",
@@ -74,65 +83,81 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-              "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+              "headline": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+              "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Israel kills Hamas commander in Gaza strike",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMHFqU3F4OHlZV1UtN1pWT2NnU09ZRFoxUmItWTV6VHlIS2ZINzZXdVQxN3NaVUQwTERPUnRpb1JST3dMZzNZNFpFSWNXMjNhVktPekZJTV9iX21yQ21pZWQxZlV6ZzhfZ2ZaY3BxNFBDOW0xd2FLVW9uNjZXdVN3ZGVB?oc=5"
             },
             {
               "political": "center",
-              "tone": "optimistic",
+              "tone": "pessimistic",
               "source": "France 24",
               "initials": "F24",
               "domain": "france24.com",
-              "headline": "SpaceX's Starship completes first-ever mid-air catch after return from orbit",
-              "url": "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "(Digital) SpaceX Catches Starship in Novel Landing",
-              "url": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing"
+              "headline": "Israel kills senior member of Hamas's military wing in Gaza strike",
+              "url": "https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike"
             }
           ]
         },
         {
           "id": "global-4",
-          "neutralHeadline": "Trump, Xi and Putin to meet in China, White House says",
-          "neutralSummary": "Trump, Xi and Putin to meet in China, White House says&nbsp;&nbsp;EuronewsTrump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation&nbsp;&nbsp;CNNAnthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations&nbsp;&",
+          "neutralHeadline": "Nearly 1,500 migrants arrive in Canary Islands in one day",
+          "neutralSummary": "Nearly 1,500 migrants arrive in Canary Islands in one day&nbsp;&nbsp;ReutersNearly 2,200 migrants reach Canary Islands in 2 days, Spain says&nbsp;&nbsp;AP NewsRecord number of migrants arrive in Spain’s Canary Islands&nbsp;&nbsp;Al JazeeraSpain says nearly 2,200 migrants have reached Canary Islands",
           "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Reuters",
+              "initials": "R",
+              "domain": "news.google.com",
+              "headline": "Nearly 1,500 migrants arrive in Canary Islands in one day",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNV80Q09DeEFLU2dxNDdvQTZZeWkyQkVmZUoxbEpNY2RHTHJhY2ZpRTRxT1N4QXFZaGNmWWdOV0thQ3ZLdml4cmpDdmZVTElvaWdGTG1JZUNnNUJFMFZuS2pDYTRDNEd0LUV3eUc5ZlVSU3ZmelZWT28yQm9OOF9zeXdKbnN5bWtrWURSNV9TSGhyOXN1c2J1RWhVV05MTV9o?oc=5"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss"
+            }
+          ]
+        },
+        {
+          "id": "global-5",
+          "neutralHeadline": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+          "neutralSummary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confes",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Guardian",
+              "initials": "TG",
+              "domain": "theguardian.com",
+              "headline": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+              "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-              "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Euronews",
-              "initials": "E",
-              "domain": "news.google.com",
-              "headline": "Trump, Xi and Putin to meet in China, White House says",
-              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeHprMDZOSFVJbjlUVk9oYVl0czEzcHk0eHFpR3NBUGhRMWpDU1BvdTlQLVFTdE9EOXdYRVpWT1hfVzg4dkljS2NLYmVOUm9vcWs0QVRiRTVQdkttOFZXT0xPUFZwazJmQzhVWEpzZzdrX2kydUF4T2owbDIyU0trMnlmV1EzbXJJY21HSWdKS3Vhdw?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "Trump Heads to China for Talks With Xi and Putin",
-              "url": "https://www.bloomberg.com/news/videos/2026-11-14/trump-heads-to-china-for-talks-with-xi-and-putin-video"
+              "headline": "South Korea's top scorer in tax accountancy exam admits cheating",
+              "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
-          "id": "global-5",
+          "id": "global-6",
           "neutralHeadline": "Philippines’ Carmelle wins first Eurovision contest in Asia",
           "neutralSummary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in BangkokCarmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra, to victory in Bangkok on Saturday night, at the first regional edition of the contest to be",
           "versions": [
@@ -157,59 +182,34 @@
           ]
         },
         {
-          "id": "global-6",
-          "neutralHeadline": "U.S. Military Downs 2 Iranian Attack Drones As Iran Claims A Strike On U.S. Radar In Bahrain",
-          "neutralSummary": "Neither Iran’s claim of striking the radar nor its account of the tanker incident could be independently verified.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "U.S. Military Downs 2 Iranian Attack Drones As Iran Claims A Strike On U.S. Radar In Bahrain",
-              "url": "https://www.huffpost.com/entry/united-states-military-downs-2-iranian-attack-drones-iran-claims-strike-american-radar-bahrain_n_6af71b02e4b065342906cbdd"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
-              "url": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops"
-            }
-          ]
-        },
-        {
           "id": "global-7",
-          "neutralHeadline": "US Transport Secretary asks Congress for $30 bn to upgrade aviation infrastructure",
-          "neutralSummary": "A failure in aging telecommunications equipment Friday forced a nationwide halt to departures from US airports. Homeland Security Secretary Markwayne Mullin says officials have found no evidence so far of a cyberattack, but that they're not ruling it out. Details by Jack Pownall.",
+          "neutralHeadline": "Czechs rally against plan to switch funding of public media",
+          "neutralSummary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "optimistic",
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Copper wire upgrade behind US flight suspension, transport secretary says",
-              "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+              "headline": "Czechs rally against plan to switch funding of public media",
+              "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "political": "center",
-              "tone": "pessimistic",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "US Transport Secretary asks Congress for $30 bn to upgrade aviation infrastructure",
-              "url": "https://www.france24.com/en/us-transport-secretary-asks-congress-for-30-bn-to-upgrade-aviation-infrastructure"
+              "political": "left",
+              "tone": "optimistic",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Thousands rally in Czech Republic against state media funding changes",
+              "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-          "neutralSummary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+          "neutralHeadline": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+          "neutralSummary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
           "versions": [
             {
               "political": "left",
@@ -217,33 +217,33 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-              "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss"
+              "headline": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+              "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss"
             }
           ]
         },
         {
           "id": "global-9",
-          "neutralHeadline": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-          "neutralSummary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+          "neutralHeadline": "Estonia to shut its border with Russia, blaming Moscow for failed arson attack",
+          "neutralSummary": "Estonia to shut its border with Russia, blaming Moscow for failed arson attack&nbsp;&nbsp;CNNEstonia to close all border crossings with Russia after attack on drone maker&nbsp;&nbsp;The GuardianEstonia to close Russian border crossings after attempted arson attack&nbsp;&nbsp;Reuters8 detained after",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-              "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
+              "source": "CNN",
+              "initials": "CNN",
+              "domain": "news.google.com",
+              "headline": "Estonia to shut its border with Russia, blaming Moscow for failed arson attack",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUtINm83UmtnLXFTVERsOFhuYnRMODFLOWdNcDEtYmhBR1JTVDhtb1ZYSnFVTWZkR1E1ckxEWXR5WGp4TExCWTBoSkM5eUtlZzNobFpwblJfeV83Tk5CNnlYOXd6dW16WHk3UFRJX1UtYVZXdEZDN0JxQ0NPbVdfS05lMTk?oc=5"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Federal judge blocks Trump from moving ahead on Washington public golf course redevelopment",
-              "url": "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Estonia to close border crossings with Russia after attack on drone maker",
+              "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss"
             }
           ]
         }
@@ -254,8 +254,8 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Trump Offers Little Public Response More Than 24 Hours After Nationwide Ground Stop",
-          "neutralSummary": "The president instead chose to focus his attention on golf course renovations and attacking Gavin Newsom.",
+          "neutralHeadline": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+          "neutralSummary": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration&nbsp;&nbsp;CNBCTrump breaks silence on nationwide ground stop and demands more money from Congress&nbsp;&nbsp;NBC4 WashingtonTransportation head vows to find ‘root cause’ of ground stop. Trump breaks his silence on sh",
           "versions": [
             {
               "political": "left",
@@ -272,8 +272,8 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
-              "url": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html"
+              "headline": "Sean Duffy Offers New Details on How One Fix Spiraled Into Nationwide Ground Stop",
+              "url": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html"
             },
             {
               "political": "left",
@@ -285,20 +285,90 @@
               "url": "https://www.washingtonpost.com/transportation/2026/11/14/faa-was-warned-years-about-repair-risks-leading-nationwide-ground-stop/"
             },
             {
+              "political": "center",
+              "tone": "neutral",
+              "source": "CNBC",
+              "initials": "C",
+              "domain": "news.google.com",
+              "headline": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0JHamlpci1jZWNpaGxNeDgwXzlyd29tcWF2Rm1IVHNqUkZ0aGd4U2RxSlgtTG1wdENnek9sQm14cWlkRXFYdVJrV2cwT0dMcDUtUDFMMUVSQ2huRTNwR1pJYnNxaDNpZFNCNXhMWkI4ZkdaVm0zMnlHc1FtNEVhT2JrTmdQdjhwUnpwZ1JmdjRmOXBZZldEVTNuT1l2eFlPOEpj0gGoAUFVX3lxTE84M180RjBudmtFRjJVcEo0Z09maUxrR2FZUnVRUWJIcWhHMFQ0dEFkZWpYZjI2N3dWSlBqa1kwY3hIUmhkcUh1bjd0NERfdjdfSWUtallINmRvQzBVa0pfQWxvcW5GSWN6SHJJd1ptQjAzaldmUEswdE5fc1E4SVNHbnZ1YXhuanVqM05wX3VXRGpieVMwMFo2NWs3Z1dGU1VHVmZsQXN6aw?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "NBC News",
+              "initials": "NN",
+              "domain": "news.google.com",
+              "headline": "Transportation secretary says he doesn’t apologize for FAA’s nationwide ground stop",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa3RIWXBhc1Z1ZzBMWXZHTG5qYkx3dVh2VGFHbmdiMUNvbjFLM2hsaHNWNlZfdDlMZ0VmNERIVWRoekF0Y0gwLXA5ZmtjYkpvTkVwOFNvdERGSlRGZkZXNUpHS2NVWGlMM0dnSTZUSHJsSVJMSERUUlV4Wjg2eW1GX2kzQnVZTGJSSm1RWEJxODVkNGxpNG9RNUtOY1A3YWVKU3VoYS1MOTVkYnpoaFNDX3A0MmNZQ3lfSVlFV2ZBRGRHUDJzWlRHSEtUYw?oc=5"
+            },
+            {
               "political": "right",
               "tone": "neutral",
               "source": "Washington Examiner",
               "initials": "WE",
               "domain": "washingtonexaminer.com",
-              "headline": "Nationwide ground stop spills into partisan politics",
-              "url": "https://www.washingtonexaminer.com/policy/infrastructure/4804068/nationwide-ground-stop-partisan-politics/"
+              "headline": "Root cause of nationwide ground stop still unknown, Duffy says",
+              "url": "https://www.washingtonexaminer.com/policy/infrastructure/4804173/cause-of-nationwide-ground-stop-sean-duffy/"
             }
           ]
         },
         {
           "id": "us-2",
-          "neutralHeadline": "Federal judge temporarily blocks Trump administration from closing East Potomac Park",
-          "neutralSummary": "A federal judge barred the Trump administration Saturday from closing East Potomac Park this weekend, ruling the closure could not go forward for at least another two weeks. It&#8217;s a setback for President Trump, who said the park would close on Sunday so construction of an 18-hole, championship-",
+          "neutralHeadline": "Van Hollen: Senators who pledged to support Schumer will switch vote",
+          "neutralSummary": "Sen. Chris Van Hollen (D-Md.) said that several senators whom Senate Minority Leader Chuck Schumer’s (D-N.Y.) team claimed would vote for him have privately pledged to back Van Hollen instead for majority leader.  The Hill reported on Saturday that Schumer’s allies expect him to win more than 40 vot",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
+              "url": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Chris Van Hollen revs up his public campaign to replace Chuck Schumer",
+              "url": "https://www.washingtonpost.com/politics/2026/11/14/chris-van-hollen-revs-up-his-public-campaign-replace-chuck-schumer/"
+            },
+            {
+              "political": "left",
+              "tone": "optimistic",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Van Hollen disputes Schumer’s claim that he has the votes to stay leader",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0lDcDcyT1V1WFBFc2hWM1B1aXZpb3pfaVc1aGhZSkJYQXkwWG1DLWtzVUJmZDRPMGZGYld3VGwwRVJwdHdXQS1zMkNKMEt6TWExQjVLRmVpSHBXV1Bid0ptOHViUDZKUU9rRWpyN0hZMUFMUkhtZS1FUVVjMTFxX1FVdFkxdHZhQmdNNFRiNVg2WnQ4YzVERExHSWI?oc=5"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Van Hollen: Senators who pledged to support Schumer will switch vote",
+              "url": "https://thehill.com/homenews/senate/6221394-van-hollen-challenges-schumer/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Van Hollen says Schumer spreading ‘misinformation’ about majority leader vote tally",
+              "url": "https://www.washingtonexaminer.com/news/senate/4804139/van-hollen-schumer-misinformation-senate-majority-leader-votes/"
+            }
+          ]
+        },
+        {
+          "id": "us-3",
+          "neutralHeadline": "Judge Temporarily Blocks Trump From Moving Ahead On Washington Public Golf Course Redevelopment",
+          "neutralSummary": "A federal judge has ordered a temporary stop to any work at a historic Washington public golf course not far from the White House.",
           "versions": [
             {
               "political": "left",
@@ -324,7 +394,7 @@
               "source": "NPR",
               "initials": "NPR",
               "domain": "npr.org",
-              "headline": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+              "headline": "Trump blasts judge for halting his Washington golf project and says he will appeal",
               "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks"
             },
             {
@@ -335,74 +405,13 @@
               "domain": "news.google.com",
               "headline": "US judge blocks Trump’s plan to renovate historic DC golf course",
               "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTU1hZmdOTzU0Z2o1bHlDb01wcDNMU3h1R1B4RGpiRm9PamRydUF4cjd3dkV6ZmE1WVp1MU1WZXU0N1JnUVlqbjFYUjE3RWFuRm02Q1hYSEtkWUw2OF9EcFhYUWk4Rk5janRtaDNTWXJOYVFqTnc0UHJMNThxQzV3NjFHV1dxdWJNOV96eE9zbDJmS0dWNmFkaG1PRklTVGZ1c05LNGVpaWlMaGFFVGs1aA?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Federal judge temporarily blocks Trump administration from closing East Potomac Park",
-              "url": "https://thehill.com/regulation/court-battles/6221069-judge-blocks-east-potomac-park-closure/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Federal judge blocks Trump from moving ahead on Washington public golf course redevelopment",
-              "url": "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/"
-            }
-          ]
-        },
-        {
-          "id": "us-3",
-          "neutralHeadline": "SpaceX catches Starship for first time, drawing praise in Washington",
-          "neutralSummary": "SpaceX’s Starship aircraft successfully touched back down at a South Texas launch site Saturday afternoon — marking a historic milestone in the aerospace giant&#8217;s effort to build reusable rockets.  The 170-foot-long spacecraft launched from Starbase, Texas, on Friday for its 15th flight, the El",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "SpaceX successfully catches Starship and makes history",
-              "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history"
-            },
-            {
-              "political": "left",
-              "tone": "optimistic",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "news.google.com",
-              "headline": "SpaceX Makes History With Successful Rocket Catch in Texas",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVlRV21FMHRaYk1jOFJ1M2lId2dOaVgyb292em1yUFlLcjJiQnlEOHhzVHVFZzh4TjczMm5aeURpYTZid3FFdS1mQURxRDhGRlVxQWs2UVZ2NEhBS1dvaTdVbDMySTVLeEx3dDhSMEZpWHluWHJtak1kVWFuWHdzTw?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "SpaceX catches Starship for first time, drawing praise in Washington",
-              "url": "https://thehill.com/policy/technology/6221123-spacex-starship-historic-landing-lawmakers-react/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "SpaceX Catches Starship With Giant Launchpad Arms In Dramatic First",
-              "url": "https://www.dailywire.com/news/spacex-makes-history-with-starship-catch-after-booster-bails-on-landing"
             }
           ]
         },
         {
           "id": "us-4",
-          "neutralHeadline": "Defense Contractor L3Harris Was Behind Upgrade That Led to Ground Stop",
-          "neutralSummary": "The little-known defense giant does a lot of work for the Federal Aviation Administration and owns the equipment for the agency’s telecommunications network.",
+          "neutralHeadline": "UPS cargo plane, Copa Airlines jet carrying 172 people collide while taxiing at Miami International Airport",
+          "neutralSummary": "UPS cargo plane, Copa Airlines jet carrying 172 people collide while taxiing at Miami International Airport&nbsp;&nbsp;CBS NewsPlanes collide at Miami runway crossing a day after national grounding&nbsp;&nbsp;CNN2 planes collide on the ground in Miami, only minor injuries reported&nbsp;&nbsp;AP News",
           "versions": [
             {
               "political": "left",
@@ -410,124 +419,83 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Defense Contractor L3Harris Was Behind Upgrade That Led to Ground Stop",
-              "url": "https://www.nytimes.com/2026/11/14/us/l3harris-ground-stop.html"
+              "headline": "Two Planes Collide on a Taxiway at Miami International Airport",
+              "url": "https://www.nytimes.com/2026/11/15/us/miami-airport-plane-collision-copa-ups.html"
             },
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "FAA ground stop disrupts college football",
-              "url": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays"
+              "source": "CBS News",
+              "initials": "CN",
+              "domain": "news.google.com",
+              "headline": "UPS cargo plane, Copa Airlines jet carrying 172 people collide while taxiing at Miami International Airport",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPekEzQ21XR2ljd25BdEtWV0Q2dHUyc1RGRllwS2l1NEllVV96Y0UyVHptaFd1cGlzbk1TZndqc3RIOWFoSnNZVWg2X0xSSEFmVXU5RXY3QkEyUm5OWXBlQzJSZVQ3YlVIT2M3eGlFazZBSTNIS1dhSEhleUdFejlPRUNtOEpZNUlVVDJMRFU3QldXNGpyWVJkMUdjcDJyaWtE?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "Two planes collide on Miami runway one day after full ground stop",
+              "url": "https://www.washingtonexaminer.com/policy/infrastructure/4804126/plane-collision-miami-international-airport-runway/"
             }
           ]
         },
         {
           "id": "us-5",
-          "neutralHeadline": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
-          "neutralSummary": "Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections.",
+          "neutralHeadline": "Democrats’ First Big 2028 Gathering Dodges The Fights To Come",
+          "neutralSummary": "Potential 2028 Democratic presidential candidates pitched their vision but largely sidestepped the ideological red lines likely to dominate a crowded primary, opting for unity messaging.",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
-              "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference"
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Democrats’ First Big 2028 Gathering Dodges The Fights To Come",
+              "url": "https://www.huffpost.com/entry/tk-dem-convention-in-denver-2028-party-future_n_6af88082e4b0016f2eb7d6f6"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Democrats seize on midterm wins to push massive minimum wage hikes, but economists see trouble ahead",
-              "url": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "8 Takeaways From a Big Democratic Gathering in Denver: Democrats in Array",
+              "url": "https://www.nytimes.com/2026/11/15/us/politics/democrats-denver-gathering-takeaways.html"
             }
           ]
         },
         {
           "id": "us-6",
-          "neutralHeadline": "Mamdani Announces Major SNAP Win After Conversation With Trump: ‘And He Agreed’",
-          "neutralSummary": "New York City Mayor Zohran Mamdani has developed an unexpectedly warm relationship with the president and once again used it to help people.",
+          "neutralHeadline": "Preventing campus sexual assault could start in kindergarten",
+          "neutralSummary": "In the weeks since Jane Doe alleged she was gang-raped at a Cornell University fraternity party in 2024, the plague of campus sexual assault has once again become the topic of a heated national debate. Those discussions inevitably land on familiar solutions. Experts, pundits, and parents argue for s",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "Mamdani Announces Major SNAP Win After Conversation With Trump: ‘And He Agreed’",
-              "url": "https://www.huffpost.com/entry/mamdani-announces-trump-deal-conversation-snap-rules-extension_n_6af897dfe4b0b6f4a9577ef2"
+              "source": "Vox",
+              "initials": "VOX",
+              "domain": "vox.com",
+              "headline": "Preventing campus sexual assault could start in kindergarten",
+              "url": "https://www.vox.com/policy/510381/cornell-campus-assault-better-sex-education"
             },
             {
-              "political": "right",
+              "political": "left",
               "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Mamdani says he and Trump made deal over SNAP rule affecting small businesses nationwide",
-              "url": "https://www.washingtonexaminer.com/news/white-house/4804056/mamdani-trump-deal-snap-rule-nyc-small-businesses/"
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "A Campus Sexual Assault Lawsuit Tests an Unusual Legal Strategy",
+              "url": "https://www.nytimes.com/2026/11/15/us/sexual-assault-lawsuit-texas-christian-university-consumer-protection.html"
             }
           ]
         },
         {
           "id": "us-7",
-          "neutralHeadline": "FAA Lifts Nationwide Ground Stoppage After 4+ Hours Without Flights",
-          "neutralSummary": "Secretary of Transportation Sean Duffy blamed Congress for not funding FAA projects.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "HuffPost",
-              "initials": "HP",
-              "domain": "huffpost.com",
-              "headline": "FAA Lifts Nationwide Ground Stoppage After 4+ Hours Without Flights",
-              "url": "https://www.huffpost.com/entry/flights-halted-faa-extraordinary-circumstances_n_6af78492e4b043423791e578"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Daily Wire",
-              "initials": "DW",
-              "domain": "dailywire.com",
-              "headline": "LIVE UPDATES: FAA Lifts Nationwide Ground Stop After Four-Hour Travel Chaos",
-              "url": "https://www.dailywire.com/news/live-updates-nationwide-groundstop-shuts-down-all-flights-for-first-time-since-9-11"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Jensen Huang is out. What now?",
-          "neutralSummary": "The first big sex scandal of the AI era has taken down Jensen Huang, Nvidia’s co-founder and longtime CEO. Nvidia&#8217;s board of directors announced his resignation on Thursday morning and named CFO Colette Kress as interim CEO. Huang has been making headlines all week after news broke Friday that",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "pessimistic",
-              "source": "Vox",
-              "initials": "VOX",
-              "domain": "vox.com",
-              "headline": "Jensen Huang is out. What now?",
-              "url": "https://www.vox.com/podcasts/510560/jensen-huang-nvidia-ceo-china-spying-ai-national-security"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "Investors push for Jensen Huang to be reinstated as Nvidia CEO after affair with suspected spy",
-              "url": "https://www.washingtonexaminer.com/news/business/4804015/investors-push-jensen-huang-reinstate-nvidia-ceo/"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "After Her Baby Was Buried Alive, a South Carolina Mother Wonders Why",
-          "neutralSummary": "Koah Sharp, nearly 1, was rescued alive this week in a rural patch of central South Carolina. In her first interview, Koah’s mother explains what happened.",
+          "neutralHeadline": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
+          "neutralSummary": "Operations are returning to normal after air traffic was shut down for more than 4 hours on Friday following a maintenance upgrade that crippled communications.",
           "versions": [
             {
               "political": "left",
@@ -535,8 +503,58 @@
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "After Her Baby Was Buried Alive, a South Carolina Mother Wonders Why",
-              "url": "https://www.nytimes.com/2026/11/14/us/south-carolina-boy-buried-alive.html"
+              "headline": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
+              "url": "https://www.nytimes.com/2026/11/15/us/faa-groundstop-flights-status-delays-canceled.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Airlines scramble to resume flights after ground stop as cancellations continue",
+              "url": "https://www.washingtonpost.com/transportation/2026/11/15/airlines-scramble-resume-flights-after-ground-stop-cancellations-continue/"
+            }
+          ]
+        },
+        {
+          "id": "us-8",
+          "neutralHeadline": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+          "neutralSummary": "The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "New York Times",
+              "initials": "NYT",
+              "domain": "nytimes.com",
+              "headline": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+              "url": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html"
+            }
+          ]
+        },
+        {
+          "id": "us-9",
+          "neutralHeadline": "Florida city cancels St. Patrick’s Day event, citing DeSantis’s anti-DEI law",
+          "neutralSummary": "Gov. Ron DeSantis called it a ‘stunt,’ insisting Delray Beach is misinterpreting the Florida law.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Florida city cancels St. Patrick’s Day event, citing DeSantis’s anti-DEI law",
+              "url": "https://www.washingtonpost.com/nation/2026/11/14/florida-city-cancels-st-patricks-day-event-citing-desantiss-anti-dei-law/"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+              "url": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei"
             }
           ]
         }
@@ -547,33 +565,24 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
-          "neutralSummary": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
+          "neutralHeadline": "ASEAN must deepen integration to navigate uncertain world: PM Wong",
+          "neutralSummary": "Singapore, as incoming chair, will build on the progress in deepening integration and broadening partnerships.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "SpaceX Starship returns to landing pad from orbit, acing test for reusable rockets",
-              "url": "https://www.channelnewsasia.com/world/spacex-starship-returns-landing-pad-orbit-acing-test-reusable-rockets-6552211"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "(Digital) SpaceX Catches Starship in Novel Landing",
-              "url": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing"
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "ASEAN must deepen integration to navigate uncertain world: PM Wong",
+              "url": "https://www.straitstimes.com/singapore/politics/deepen-integration-to-navigate-an-uncertain-world-pm-wong-tells-asean-leaders"
             }
           ]
         },
         {
           "id": "singapore-2",
           "neutralHeadline": "More ‘Singapore sakura’, golden bells trees for Pasir Ris under new effort to plant up coastal town",
-          "neutralSummary": "The over 6km of nature ways will bring shade, nature to residents when completed.",
+          "neutralSummary": "The more than 6km of nature ways will bring shade and nature to residents when completed.",
           "versions": [
             {
               "political": "center",
@@ -588,24 +597,24 @@
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "From bird corners to MRT stations: How seniors in Singapore find community in everyday spaces",
-          "neutralSummary": "Informal gathering spots can play an important role in helping seniors stay socially connected as they age.",
+          "neutralHeadline": "Indonesia President Prabowo apologises to Singapore, Malaysia over transboundary haze",
+          "neutralSummary": "According to a statement from the Indonesian Presidential Secretariat, Prabowo also said 16 firefighters had died and two helicopters were lost battling forest fires that had raged for nearly four months.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "From bird corners to MRT stations: How seniors in Singapore find community in everyday spaces",
-              "url": "https://www.straitstimes.com/singapore/a-bird-corner-a-cup-of-kopi-a-hundred-friends"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Indonesia President Prabowo apologises to Singapore, Malaysia over transboundary haze",
+              "url": "https://www.channelnewsasia.com/asia/indonesia-prabowo-apology-haze-6553166"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "World leaders are coming to Shenzhen. What is China’s APEC message?",
-          "neutralSummary": "Analysts say the city’s transformation into a global tech hub makes it a fitting stage for next week’s APEC summit - showcasing China’s economic ambitions and push for deeper regional cooperation.&nbsp;",
+          "neutralHeadline": "New World Development proposes US$3.2 billion rights issue",
+          "neutralSummary": "New World Development proposes US$3.2 billion rights issue",
           "versions": [
             {
               "political": "center",
@@ -613,15 +622,15 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "World leaders are coming to Shenzhen. What is China’s APEC message?",
-              "url": "https://www.channelnewsasia.com/east-asia/china-apec-2026-shenzhen-transformation-6541996"
+              "headline": "New World Development proposes US$3.2 billion rights issue",
+              "url": "https://www.channelnewsasia.com/business/new-world-development-rights-issue-hong-kong-property-6553051"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "PM Wong to visit Manila for ASEAN Summit, related meetings from Nov 15",
-          "neutralSummary": "This is the final edition of the ASEAN Summit before Singapore takes over the chairmanship of the regional bloc next year.",
+          "neutralHeadline": "Singapore-Indonesia haze task force should become ASEAN-wide platform: PM Wong",
+          "neutralSummary": "He also urged restraint over Thailand-Cambodia border tensions and said Myanmar must show \"concrete actions\" before returning fully to the regional bloc.",
           "versions": [
             {
               "political": "center",
@@ -629,15 +638,15 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "PM Wong to visit Manila for ASEAN Summit, related meetings from Nov 15",
-              "url": "https://www.channelnewsasia.com/singapore/pm-wong-asean-summit-chairmanship-manila-6547156"
+              "headline": "Singapore-Indonesia haze task force should become ASEAN-wide platform: PM Wong",
+              "url": "https://www.channelnewsasia.com/singapore/lawrence-wong-asean-summit-manila-haze-indonesia-6552421"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "ASEAN countries sign world's first region-wide digital economy pact, laying foundation for collaboration",
-          "neutralSummary": "Singapore Deputy Prime Minister Gan Kim Yong said the pact took several years to negotiate and reflects the diverse state of readiness among member countries.",
+          "neutralHeadline": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+          "neutralSummary": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
           "versions": [
             {
               "political": "center",
@@ -645,31 +654,24 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "ASEAN countries sign world's first region-wide digital economy pact, laying foundation for collaboration",
-              "url": "https://www.channelnewsasia.com/singapore/asean-digital-economy-framework-agreement-6551526"
+              "headline": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
+              "url": "https://www.channelnewsasia.com/business/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-6551936"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Business Times",
+              "initials": "BT",
+              "domain": "news.google.com",
+              "headline": "Ex-Nvidia CEO Jensen Huang carried a secret for more than a year. It led to his downfall",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb3ZnNmdEVkgwMHM3Ml9oWU9ZWEdwT0E3MEx4Rk05dndPVlU5M1djVFdrX2xHNGRSeURiTktDOG96YVlmNHpRMHAxUHZBYVZvdm5fUmVzZDVpM2xwNklkQ05qcXFSMTNtUkVndlFNUm14Tm5YYjVpaVVMakVJVk5oQnAxUm9MOEVhNkdWcXk1dHpseVJNd2hDMHlRNERyRjdqWHJpSGlSSDFlMFU5cVN3YkJsbU85dmlXRXhIX1g5TWREc3M?oc=5"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "Philippines wins first Eurovision Song Contest Asia",
-          "neutralSummary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Philippines wins first Eurovision Song Contest Asia",
-              "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "singapore-8",
-          "neutralHeadline": "Deepen integration to navigate an uncertain world, PM Wong tells ASEAN leaders",
-          "neutralSummary": "Singapore, as incoming chair, will build on the progress in deepening integration and broadening partnerships.",
+          "neutralHeadline": "14 people arrested over illegal online gambling activities following police raids",
+          "neutralSummary": "Twenty-three people, aged 23 to 75, are under investigation.",
           "versions": [
             {
               "political": "center",
@@ -677,8 +679,24 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Deepen integration to navigate an uncertain world, PM Wong tells ASEAN leaders",
-              "url": "https://www.straitstimes.com/singapore/politics/deepen-integration-to-navigate-an-uncertain-world-pm-wong-tells-asean-leaders"
+              "headline": "14 people arrested over illegal online gambling activities following police raids",
+              "url": "https://www.straitstimes.com/singapore/14-people-arrested-over-illegal-online-gambling-activities-following-police-raids"
+            }
+          ]
+        },
+        {
+          "id": "singapore-8",
+          "neutralHeadline": "PM Wong calls for setting up of regional platform to tackle haze issue",
+          "neutralSummary": "PM Wong was speaking during the retreat session of the ASEAN Summit in Manila",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "PM Wong calls for setting up of regional platform to tackle haze issue",
+              "url": "https://www.straitstimes.com/singapore/politics/regional-platform-to-tackle-haze-among-ways-for-asean-to-manage-differences-amicably-pm-wong"
             }
           ]
         },
@@ -705,33 +723,42 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Bay of Bengal storm may turn severe by Nov 17",
-          "neutralSummary": "Bay of Bengal storm may turn severe by Nov 17",
+          "neutralHeadline": "5 killed, 11 injured as car collides with pickup in Punjab",
+          "neutralSummary": "A devastating road mishap took place on Sunday evening near Theh Kalandar village in Fazilka district, claiming the lives of five people, including three young ones. The victims were on their way home from a wedding when tragedy struck. Additionally, eleven others sustained injuries; two of them are",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Rainfall expected in Tamil Nadu as depression to turn severe cyclonic storm over Bay of Bengal by November 17",
-              "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece"
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "5 Killed, 11 Injured As Car Collides With Truck In Punjab's Fazilka",
+              "url": "https://www.ndtv.com/india-news/5-killed-11-injured-as-car-collides-with-truck-in-punjabs-fazilka-12331045#publisher=newsstand"
             },
             {
               "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Bay of Bengal storm may turn severe by Nov 17",
-              "url": "https://economictimes.indiatimes.com/news/india/cyclonic-storm-brewing-over-bay-of-bengal-may-intensify-into-severe-storm-by-november-17/articleshow/135848188.cms"
+              "tone": "pessimistic",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "5 killed, 11 injured as car collides with pickup in Punjab",
+              "url": "https://timesofindia.indiatimes.com/city/chandigarh/5-killed-11-injured-as-car-collides-with-pickup-in-punjab/articleshow/135861869.cms"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "news.google.com",
+              "headline": "At least 24 killed after bus collides with truck in north-east India",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJMjNEWFN2S0h6dFFVUFhOSG5uZEkxa2txYkJzOU1oNnpQVjEwd0hKRW5UeUV4Ri02aHltaWJFb3JHeHBpLTdHN2hLYU01Vlhiai1DUWNEMFBRZWc?oc=5"
             }
           ]
         },
         {
           "id": "india-2",
-          "neutralHeadline": "Guwahati-bound IndiGo flight carrying 193 passengers returns to Pune after landing gear malfunction",
-          "neutralSummary": "The pilot alerted Air Traffic Control (ATC) about the technical issue.",
+          "neutralHeadline": "'Kisi ke baap ka Hindustan thodi hai’: Diljit Dosanjh takes stage despite threats",
+          "neutralSummary": "Despite facing threats and considerable opposition, Diljit Dosanjh took the stage in Indore to celebrate culture with his loyal fans. His performance included powerful couplets that highlighted resilience and strength, emphasizing that nothing would deter them from their cherished traditions. Althou",
           "versions": [
             {
               "political": "left",
@@ -739,174 +766,24 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Guwahati-bound IndiGo flight returns to Pune due to technical issue; all 192 persons onboard safe",
-              "url": "https://www.thehindu.com/news/national/guwahati-bound-indigo-flight-returns-to-pune-due-to-technical-issue-all-192-persons-onboard-safe/article71704295.ece"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Guwahati-bound IndiGo flight carrying 193 passengers returns to Pune after landing gear malfunction",
-              "url": "https://www.hindustantimes.com/india-news/guwahatibound-indigo-flight-carrying-193-passengers-returns-to-pune-after-landing-gear-malfunction-101794723897032.html"
+              "headline": "Diljit says attempts made to stop his Indore concert, recites ‘kisi ke baap ka Hindostan thodi hai’",
+              "url": "https://www.thehindu.com/entertainment/music/diljit-says-attempts-made-to-stop-his-indore-concert-recites-kisi-ke-baap-ka-hindostan-thodi-hai/article71705785.ece"
             },
             {
               "political": "center",
               "tone": "neutral",
               "source": "Times of India",
               "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "IndiGo flight’s landing gear fails to retract after take-off, makes safe emergency landing in Pune",
-              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS0RnM3ktQWZhM0xOSGdQZGt6YTBnMnJrN2dDVVg5VGo5MndkQmJWZjR2YzhRRUpDVnFCQm1LeHM2Z1pHNXhJMmxMRFN5cmxzMENGV20zNVRSdXo1UkkyMHZpMWU5Nzc4eFo3MVo1SnlvRUdHUTQ1cGNxREo4UmIzaHlJc2wxZnZsLXdXaF94VElfT09vZnpJYzRqQk5fUFB4cTBxSUFKSG5JT1A4ZDBfM1BySFpFZjcxdVV6LTZIeGlXU3BRdkdxT19lUFhYVEp4c0Fkb3R2U2lMUVNFZmpiZGhNV2ZmOTJFWnNBb3R0dlVNQzNUdFdz?oc=5"
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "'Kisi ke baap ka Hindustan thodi hai’: Diljit Dosanjh takes stage despite threats",
+              "url": "https://timesofindia.indiatimes.com/city/indore/agar-khilaaf-hain-hone-do-kisi-ke-baap-ka-hindustan-thodi-hai-diljit-dosanjh-takes-stage-in-indore-despite-threats-opposition/articleshow/135860821.cms"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "‘These tricks don’t work on me’: Eisenkot rejects Netanyahu’s 'unity government' appeal",
-          "neutralSummary": "‘These tricks don’t work on me’: Eisenkot rejects Netanyahu’s 'unity government' appeal&nbsp;&nbsp;The Times of IndiaNetanyahu says only a unity government can guarantee Israel’s security&nbsp;&nbsp;Al JazeeraNetanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘s",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Netanyahu Calls For \"Unity Government\", Eisenkot Says He's \"Playing Tricks\"",
-              "url": "https://www.ndtv.com/world-news/israel-netanyahu-calls-for-unity-government-eisenkot-says-hes-playing-tricks-12329262#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "‘These tricks don’t work on me’: Eisenkot rejects Netanyahu’s 'unity government' appeal",
-              "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN2V6SmxETVpCaWJkTEFaZzZtNTU0Umk5eExMakFKVElsUWJrWFZzSzFfWjl1aFFRem1leU53b3V0bkN6UXZDMHhBOE5VUjhFdGZmVW40TGh3RTladlhxUF9pejg4bzJER1EtZWk5OEJUUnFRVEg5emlRU0hYMFJTSHl3eXRuMkhVWUpiUF9uekFwUlFDUDBuWnVzRjdRSUJrZ19yNVJVSXdOeV9RTXNldkhTa0VLLUE1ekh1MjR2OFZ5NzFaR0JSQ2J2RTRkRG85YUZ6Q0cza2dLZDgzeDJ4ZHRxQ0FvdS1fcFRzamF2R0FoQdIB9wFBVV95cUxNUWlVYWxfamZsNmdqRUd0Yk1xU3VNZEdmWEdCNUZoZXZCeEIwdFFFeEhoOEhxS2NMVXVzcUJ4Ymw1QkRzSmtVcDVsM0dZN0kxZ0tyZnNFRWRXZlk0UGxhVEg5YWxjNkZTT2RSNlBsSXBvN09QekFYNm5mQmF4aEJ6Nko1cENETU1helNLY1NwWkR0OEZYSDRqUXY4VDh1QUZFMHJWcklXelhRRmxRbHQ4bmV4QmpJMWl4UzNSTjBYamYtSEptdnVNTEE3U0NsWlVXVm8wcUpZV1BELUEwYkMzSHhabjNUMTk5RWxEUl8wbUUzQUFERWlj?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Two planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
-          "neutralSummary": "Two planes collide at Miami airport; passenger shares footage of crushed aircraft nose&nbsp;&nbsp;The Times of India\"Somebody Hit Us\": Pilot's Chilling Audio After Miami Airport Collision&nbsp;&nbsp;NDTVPlanes collide at Miami runway crossing a day after national grounding&nbsp;&nbsp;CNNUPS plane, C",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Boeing Aircraft, Cargo Plane Collide At Miami Airport, 2 Passengers Injured",
-              "url": "https://www.ndtv.com/world-news/2-planes-collided-at-miami-airport-day-after-flight-chaos-across-us-copa-airlines-boeing-12329046#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "news.google.com",
-              "headline": "Two planes collide at Miami airport; passenger shares footage of crushed aircraft nose",
-              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONmN4VkNPZmpmUFJWcXVtaU5kS3FZM1plODgybXN4X3VVekJXeVM1aE9VMDdDMER0VHl6YUNqOXU5WnFIR2QxQ0VZYU1OSFVCd1ZLcU9qRjJlcGo0QWJJQ1ZvbWI4LTlaWHBPZmRWbERNNngyeDV3YnhSSWoxV0lmMktBOHp6eW1ldXpqaW5ZcWlSbWwtTlVJcmYwQ3hkcHF3a1Bjb3FtUDJSaGhjQTlQVldKYTd6RlZQOHJodlBzelZRX0xaTC1RRWozRXZVM1BtSEpkYkpCUTVNN2NKcWRKc1RScTB3UVgxR0ZKLQ?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "'560% above known income': Lokayukta uncovers Rs 7.6 crore 'empire' of forest officer",
-          "neutralSummary": "Lokayukta's Special Police Establishment conducted raids on government official Sanjeev Kumar Sharma's properties after receiving information. They discovered assets valued at approximately Rs 7.6 crore, exceeding known income by 560%. The operation led to the recovery of significant amounts of cash",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "optimistic",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'560% above known income': Lokayukta uncovers Rs 7.6 crore 'empire' of forest officer",
-              "url": "https://timesofindia.indiatimes.com/city/bhopal/2-resorts-villa-2-5kg-gold-lokayukta-unearths-rs-7-6-crore-assets-of-mp-forest-officer/articleshow/135839937.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "'I hope you die': Jensen Huang told Indian-origin Nvidia VP during a meeting",
-          "neutralSummary": "Jensen Huang, former CEO of Nvidia, sparked varied responses to his leadership approach and workplace interactions. Some employees advocated for his return, whereas many highlighted a pervasive culture of apprehension linked to his temper. Reports recount episodes of verbal outbursts aimed at senior",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "'I hope you die': Jensen Huang told Indian-origin Nvidia VP during a meeting",
-              "url": "https://timesofindia.indiatimes.com/technology/tech-news/when-nvidias-ex-ceo-jensen-huang-in-a-closed-door-meeting-with-more-than-30-company-executives-reportedly-told-a-senior-vp-i-hope-you-die-and-put-us-all-/articleshow/135846614.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "I hope you die: What Huang told Nvidia's Jay Puri",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/jensen-huang-told-nvidia-exec-jay-puri-i-hope-you-die-in-front-of-30-executives-heres-what-happened/articleshow/135848612.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-7",
-          "neutralHeadline": "Princess Kate to join husband William on India visit in biggest foreign trip since chemo",
-          "neutralSummary": "The trip will also mark the couple's return to India nearly a decade after their previous joint visit in 2016.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Hindustan Times",
-              "initials": "HT",
-              "domain": "hindustantimes.com",
-              "headline": "Princess Kate to join husband William on India visit in biggest foreign trip since chemo",
-              "url": "https://www.hindustantimes.com/india-news/princess-kate-to-join-husband-william-on-india-visit-in-biggest-foreign-trip-since-chemo-101794720652256.html"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Prince William, Kate to visit India this week",
-              "url": "https://economictimes.indiatimes.com/news/india/uks-prince-william-to-be-joined-by-wife-kate-for-india-visit-this-week/articleshow/135845054.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-8",
-          "neutralHeadline": "SpaceX Pushes Starship Reusability to New Test",
-          "neutralSummary": "Space Network co-founder Ross Hamilton tells Bloomberg This Weekend why SpaceX’s attempt to catch Starship after its return from orbit could mark a major step toward making the rocket system fully reusable. Speaking with hosts David Gura and Christina Ruffini, Hamilton explains how more frequent and",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "news.google.com",
-              "headline": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ3pDcjZESTJxUDB0bndxZWtKSUhKa3praWV6SFFuT2htZEhlWmJuZGVkME9obTRWUTc4cW5xLXpzQUw5bldDazlSMXljLXh0Y1J3LWNhTHBkSXg1bjlqQlhTZ0MzcTFDUXc2cE9FUGRjT0Y2VUZ0ZVJLOXB4R3ZWemRMNHQ4Y29feTFXMnY2RmFqQ3B5WnRVRnlfMXhXTjNQdjEyaC1B0gGrAUFVX3lxTE0yRktOVWpBQ3lJdExfOUs2Rl9hM0htdV82MWlsMUkyWS15eVd1WDN5RFhfd2J2U0Y0NlVFXzZ6c21vaWNNVTV2cERDVFhqY01lUWpTOURDT1hCVnlQdE43clZNZXR4NWVubmlCRHpZOURSbzRoSHFkQnRDbkl6YmlfNDhwUW5nWFpYY0pRYUY2c0R0anY4cU1qM1FkazNqUlB1N19aSFZEZ3puZw?oc=5"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Bloomberg",
-              "initials": "BB",
-              "domain": "bloomberg.com",
-              "headline": "SpaceX Pushes Starship Reusability to New Test",
-              "url": "https://www.bloomberg.com/news/videos/2026-11-14/spacex-pushes-starship-reusability-to-new-test-video"
-            }
-          ]
-        },
-        {
-          "id": "india-9",
-          "neutralHeadline": "Statewide vaccination drive to protect children aged 10 and 16 against tetanus and diphtheria",
-          "neutralSummary": "Children receive Pentavalent vaccines when very young as part of the immunisation programme, and the TD vaccine is administered to provide additional protection",
+          "neutralHeadline": "Depression over Bay of Bengal likely to intensify into severe cyclonic storm by Nov 17, move towards Andhra Pradesh coast: IMD",
+          "neutralSummary": "The weather system is likely to become a Severe Cyclonic Storm over the westcentral Bay of Bengal by the evening of November 17, the IMD said.",
           "versions": [
             {
               "political": "left",
@@ -914,8 +791,158 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Statewide vaccination drive to protect children aged 10 and 16 against tetanus and diphtheria",
-              "url": "https://www.thehindu.com/news/national/andhra-pradesh/statewide-vaccination-drive-to-protect-children-aged-10-and-16-against-tetanus-and-diphtheria/article71704354.ece"
+              "headline": "Depression likely to become cyclone, move towards A.P.; Tamil Nadu, Odisha to get rain: IMD",
+              "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Depression over Bay of Bengal likely to intensify into severe cyclonic storm by Nov 17, move towards Andhra Pradesh coast: IMD",
+              "url": "https://www.hindustantimes.com/india-news/depression-over-bay-of-bengal-to-intensify-into-severe-cyclonic-storm-by-nov-17-move-towards-andhra-pradesh-coast-imd-101794761096139.html"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Video: Himachal woman injured as speeding car sends parked vehicle hurtling into her",
+          "neutralSummary": "Video: Himachal woman injured as speeding car sends parked vehicle hurtling into her&nbsp;&nbsp;India TodayVideo: Speeding Car Rams Parked Jeep, Injures Woman In Himachal's Solan&nbsp;&nbsp;NDTVWoman critical as speeding car flips parked jeep in Himachal | Tap to know more | Inshorts&nbsp;&nbsp;Insh",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Video: Speeding Car Rams Parked Jeep, Injures Woman In Himachal's Solan",
+              "url": "https://www.ndtv.com/india-news/video-speeding-car-rams-parked-jeep-injures-woman-in-himachals-solan-12331062#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "pessimistic",
+              "source": "Today",
+              "initials": "TD",
+              "domain": "news.google.com",
+              "headline": "Video: Himachal woman injured as speeding car sends parked vehicle hurtling into her",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMlNoSmpDemNQd0lWMXJqMnVYUGZuWVdfRlFSWE9kRFJRYVdDczI1RzQ1UjVMYnRiWHJzTnoyOW12aXBVVWMyVV96UGtqTTRSbmRnNngwQnV1S1dvR0t5T0tXZU1yeVRQUkYwNDNzdGxxVmdzWmdmMkd5bnZlbG85WkxMNHk5VE50NFJTamIyVzgyb0ZXVUM1Z3ZFeEJDRGV4UnBiZDlYbC1qa2JWRzVZOHZ4YkdXRFBIWFhtWWV30gHDAUFVX3lxTE80bmF0VWVweXRINlIwS3RGR0VGdlo4QmVvcERIV3AzalNiTzFzTkVkbWN1R0lCZnRNOWxfZUZtRHN5dUVtdFlhV3RHb2xJWlBUVU9naDhhTHhUZzNXZi1sdlh5cUpYa2wxLUxQczI5V19JMXdvMVhSMm1SemlpMTczZThCWkM5NC1JeXZVVThpajU0RUUtMWc0ckVFRFUwU21FY29EblpVcjNTcGZnTzlpQXZVM2NtNkFyN2xLNGE2d3hVMA?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Man Accused Of Shooting Cop Killed In Bengal. 5th Encounter In 6 Months",
+          "neutralSummary": "This was the fifth police encounter in West Bengal in six months.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Man Accused Of Shooting Cop Killed In Bengal. 5th Encounter In 6 Months",
+              "url": "https://www.ndtv.com/india-news/man-accused-of-shooting-cop-killed-in-bengal-5th-encounter-in-6-months-12331041#publisher=newsstand"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "news.google.com",
+              "headline": "Man accused of opening fire at cop in Bengal’s Santiniketan killed in police encounter",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMVNZUHF0NHk2UUZrWloxS1p3WXZMS3hIb0pHSEQySGQwMm03RG52cDIwU0FweERiSE1qUjduQ0tHWGNJdVJxdGlBbVZXQ25XSWJiS2gwVXhxQzdPRjEtM3V6Y2NCX3pyRW8zUDFEaXdLdlliWTBFT1hMOWNzZDAzd1hHQjcta1F4aWlULVhWc0dHS0J1akVESzhaTE5KZ0tlS2ZXcW9OcEFZcERZZ0VuN0xHeHNUeGlKdHNHYThuVG9hcnZFd25rU2ZtMEl5azRhWkl2Y3BBVWlUb0d3QlRSaF9TVTN2UjJnRlRfWNIB8wFBVV95cUxQZ2V1U3BIYU1RQllMOFRxRjNJa3NSSjdfeld0cXg5N1hVV25yT3hNNFpDWl9TdUlHSjhaRmZMdHBHdWJ6Zk5JbzlVa3ZyWkRCYTR0SjJMN3RqT3NUblZfV3FHOTVIWWh2YjRJOFhzRlo5S1dmaGNpd2ZYX2ZzdVhNOXRteUZWazRLbUhUeXZWSFE5ZmxpZkRmeXNnRTZBMlhIODNMdDRzUklVWGpyOU1JT3ROcG9IQlVCOHRZNkNjM2JFalBPWkttQmRvWlYzaXM0eEtWNzU1dTlVa1JraWhWWmwzaUhDRGVLaFBpSmVzMWJkeDA?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "Punjab woman, accomplice held in Rajasthan train track blast; police suspect ISI's 'romance' strategy to recruit women",
+          "neutralSummary": "Police said the woman is a resident of Gurdaspur and is separated from her husband who is lodged in jail in Punjab in a drug trafficking case.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "ndtv.com",
+              "headline": "Love, Drugs, Pak Link: How Punjab Woman Got Involved In Rajasthan Blast Plot",
+              "url": "https://www.ndtv.com/india-news/love-drugs-pak-link-how-punjab-woman-got-involved-in-rajasthan-blast-plot-12330755#publisher=newsstand"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Punjab woman, accomplice held in Rajasthan train track blast; police suspect ISI's 'romance' strategy to recruit women",
+              "url": "https://www.hindustantimes.com/india-news/punjab-woman-accomplice-held-in-rajasthan-train-track-blast-police-suspect-isis-romance-strategy-to-recruit-women-101794756092207.html"
+            }
+          ]
+        },
+        {
+          "id": "india-7",
+          "neutralHeadline": "Rajasthan teacher arrested after refusing to marry 61-year-old Canadian woman he met on dating app",
+          "neutralSummary": "Two days after the woman's arrival, the teacher told her he would not go ahead with the marriage because of their age difference",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Rajasthan teacher arrested after refusing to marry 61-year-old Canadian woman he met on dating app",
+              "url": "https://www.hindustantimes.com/india-news/canadian-woman-travels-to-rajasthan-to-marry-dating-app-match-he-backs-out-101794752687257.html"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "news.google.com",
+              "headline": "Canadian Woman Flies To India To Marry Dating App Match. He Refuses Over Age",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUVUVWh1MnBJNkdTbjY4SldCRnNfb1otWHB0TVIxOUpQNEJBLUh1ZGJyLS1uWGRHNm55UEhudGwwaXNFY1g2TF9sazVfai11QkdwOFlsSnZFZThtVHZOUmxrQjB3b3lBbnpiUFJ3cVlTUHZCUDNzdkhHa25keGtZX1ZRS01JNDZQRFVlNWRZYl9VOWVPMjJ6RkE0aTM1Z0ZkU2FtUW9kQ3lVN0x5RXBkaFBiWFhIWTRLQVRwWU9BQjhLMFXSAcsBQVVfeXFMTVBtaXo4bDVsV2dSdUJuZ1VIbXR5Z2VXUU1tRDhQM3VpMGxmbkl6UmZQUW1tS3U3bThHTGdIRWVnUXBtYU1PWWJldFgtaUNfQjJxSUlnS2lTaDNDOFR0MGVFNGdGeVlLcm5zZnQ4bUZ6a2tKakUyT0VFaXZtU196d1lLZGxfZ2pEdVdjQXdLVGZsQTBPblduMWVVNzBkdjdWVDM5cXpiWGwwak9GVUtsZWJIcGlYQlVFUHhZeHRzaVFYYW5fNGQ3S05ITXc?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-8",
+          "neutralHeadline": "Parl Winter Session in Dec; Women's bill on agenda",
+          "neutralSummary": "Parl Winter Session in Dec; Women's bill on agenda",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Economic Times",
+              "initials": "ET",
+              "domain": "economictimes.indiatimes.com",
+              "headline": "Parl Winter Session in Dec; Women's bill on agenda",
+              "url": "https://economictimes.indiatimes.com/news/india/winter-session-likely-in-first-week-of-december-govt-may-push-womens-quota-bill/articleshow/135852937.cms"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "news.google.com",
+              "headline": "Parliament winter session likely in 1st week of December; delimitation bill to be in focus",
+              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONURXVG5ZaVFZMEF0cGJVTHlNV1dOSUdreWxOS0dibV9TQlhoNWtONXpBV2hlbjhhaUdqZ1BTMl9Dem5zVWdIR3N0Nnl6ZUZCb1RmVmtJWGx0NnlHcDNINGZhR3hjS0RLNXZVSmdjd3diRGV1QkU2RFpGd0VFSGliQjBzSTIxTk5WdmxoMnZTMXNfdlhNOENoY2hVYTdKYmc0WkVyUFRhc3laM1hwUTRLZHB5eUdUckFkeUxYOHFCSVpYY3dGdmFJeExCSmJoNU5sTVNsSml4TXAyMmFXNWZCSXNHUVEyNjZDTHhoOTgxdXpJOVVlbGdv?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-9",
+          "neutralHeadline": "Anbumani seeks pay hike for guest lecturers from Sept. 1",
+          "neutralSummary": "Anbumani seeks pay hike for guest lecturers from Sept. 1",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Anbumani seeks pay hike for guest lecturers from Sept. 1",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/anbumani-seeks-pay-hike-for-guest-lecturers-from-sept-1/article71705798.ece"
             }
           ]
         }
