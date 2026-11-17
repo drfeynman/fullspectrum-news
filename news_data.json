@@ -1,11 +1,79 @@
 {
-  "generatedAt": "2026-11-16T22:48:15.125185+00:00",
+  "generatedAt": "2026-11-17T09:52:37.578454+00:00",
   "regions": {
     "global": {
       "name": "Global",
       "stories": [
         {
           "id": "global-1",
+          "neutralHeadline": "Ukraine hits key Crimea bridge with drones",
+          "neutralSummary": "\"I think the Ukrainians are trying to send a message to the Russians with this - 'If you hit our bridges we can hit yours,'\" reports Gulliver Cragg from Kyiv.",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "BBC",
+              "initials": "BBC",
+              "domain": "bbc.co.uk",
+              "headline": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
+              "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+              "url": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Ukraine hits key Crimea bridge with drones",
+              "url": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones"
+            }
+          ]
+        },
+        {
+          "id": "global-2",
+          "neutralHeadline": "Trump heads to Asia for historic nuclear talks with China and Russia",
+          "neutralSummary": "US President Donald Trump headed to Asia on Monday for economic talks and a planned trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin on nuclear issues and the war in Ukraine. Trump also raised the possibility of meeting North Korean leader Kim Jong Un during",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+              "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Trump heads to Asia for historic nuclear talks with China and Russia",
+              "url": "https://www.france24.com/en/asia-pacific/20261117-trump-asia-nuclear-talks-china-russia"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Nvidia Fallout Hits Southeast Asia Hard",
+              "url": "https://www.bloomberg.com/news/videos/2026-11-17/insight-with-haslinda-amin-11-17-2026-video"
+            }
+          ]
+        },
+        {
+          "id": "global-3",
           "neutralHeadline": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
           "neutralSummary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face lega",
           "versions": [
@@ -26,47 +94,13 @@
               "domain": "bbc.co.uk",
               "headline": "Five EU countries announce migrant deportation centre in Rwanda",
               "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
-              "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss"
             }
           ]
         },
         {
-          "id": "global-2",
-          "neutralHeadline": "Robert Pattinson: British actor will be the next James Bond",
-          "neutralSummary": "British actor Robert Pattinson is set to become the next James Bond in the long-running 007 spy franchise.\n \nDiscussions over the casting of the new James Bond had been going on for months, with Pattinson emerging as one of the frontrunners from the outset.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "When will we see Robert Pattinson as Bond in cinemas?",
-              "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Robert Pattinson: British actor will be the next James Bond",
-              "url": "https://www.france24.com/en/video/20261116-robert-pattinson-british-actor-will-be-the-next-james-bond"
-            }
-          ]
-        },
-        {
-          "id": "global-3",
-          "neutralHeadline": "Russia Says Its Air Defenses Intercept Over 1,300 Ukrainian Drones In Massive Aerial Attack",
-          "neutralSummary": "Ukraine has scaled up its long-range aerial assaults on Russia, as well as illegally annexed Crimea, the Black and the Azov seas.",
+          "id": "global-4",
+          "neutralHeadline": "U.S. Military Downs 2 Iranian Attack Drones As Iran Claims A Strike On U.S. Radar In Bahrain",
+          "neutralSummary": "Neither Iran’s claim of striking the radar nor its account of the tanker incident could be independently verified.",
           "versions": [
             {
               "political": "left",
@@ -74,49 +108,24 @@
               "source": "HuffPost",
               "initials": "HP",
               "domain": "huffpost.com",
-              "headline": "Russia Says Its Air Defenses Intercept Over 1,300 Ukrainian Drones In Massive Aerial Attack",
-              "url": "https://www.huffpost.com/entry/ukraine-aerial-attack-russia_n_6afad305e4b0e2644ec89b52"
+              "headline": "U.S. Military Downs 2 Iranian Attack Drones As Iran Claims A Strike On U.S. Radar In Bahrain",
+              "url": "https://www.huffpost.com/entry/united-states-military-downs-2-iranian-attack-drones-iran-claims-strike-american-radar-bahrain_n_6af71b02e4b065342906cbdd"
             },
             {
               "political": "left",
               "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-              "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
-            }
-          ]
-        },
-        {
-          "id": "global-4",
-          "neutralHeadline": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-          "neutralSummary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-              "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "Forensic expert stunningly claims Jeffrey Epstein didn’t kill himself after reviewing autopsy",
-              "url": "https://nypost.com/2026/11/16/us-news/forensic-expert-stunningly-claims-jeffrey-epstein-didnt-kill-himself-after-reviewing-autopsy/"
+              "source": "Al Jazeera",
+              "initials": "AJ",
+              "domain": "aljazeera.com",
+              "headline": "Bahrain thwarts drone attack; Iran claims targeting US radar",
+              "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss"
             }
           ]
         },
         {
           "id": "global-5",
-          "neutralHeadline": "French film star Depardieu drops appeal against sexual conviction",
-          "neutralSummary": "French film star Gérard Depardieu on Monday dropped his appeal against a conviction for sexually assaulting two women during the filming of a movie in 2021 and issued \"sincere apologies\" for his past behaviour on set. \"For a long time on film sets, I hid behind provocation and ribald humour,\" Depard",
+          "neutralHeadline": "Japan scrambles fighters after suspected Russian military planes enter airspace",
+          "neutralSummary": "Japan scrambles fighters after suspected Russian military planes enter airspace&nbsp;&nbsp;The Japan TimesJapan scrambles jets to counter suspected Russian aircraft&nbsp;&nbsp;DW.comTokyo protests after two suspected Russian aircraft violate Japanese airspace in southwestern Japan&nbsp;&nbsp;AP News",
           "versions": [
             {
               "political": "left",
@@ -124,24 +133,24 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Gérard Depardieu drops appeal against sexual assault conviction",
-              "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss"
+              "headline": "Japan sends up jets after alleged Russian incursion of its airspace",
+              "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "French film star Depardieu drops appeal against sexual conviction",
-              "url": "https://www.france24.com/en/video/20261116-french-film-star-depardieu-drops-appeal-against-sexual-conviction"
+              "source": "AP",
+              "initials": "AP",
+              "domain": "news.google.com",
+              "headline": "Japan scrambles fighters after suspected Russian military planes enter airspace",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmtCLVRFdzBjenpMLTgyYlNERFZYUHRJdVJxZ1FLcjg0OW5STExmTUtwMkppRU5lY1UycnJHV01jXzBCSWdVOFdpbURCYlNzRWtzeG1KT2JkMEgzbkVxX3cxN0V5bmJ4TUZJbGV0eUxvNTRDNUdEZDJ0YkdLb01ubTBSMDI1UUJGNmh2MFJmNzJnTDVmQWc?oc=5"
             }
           ]
         },
         {
           "id": "global-6",
-          "neutralHeadline": "Pope Leo rides in helicopter cockpit during Peru trip",
-          "neutralSummary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+          "neutralHeadline": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+          "neutralSummary": "The pontiff was struck in the face by what is thought to be prayer beads while travelling aboard the popemobile to deliver a farewell Mass.",
           "versions": [
             {
               "political": "left",
@@ -149,8 +158,8 @@
               "source": "BBC",
               "initials": "BBC",
               "domain": "bbc.co.uk",
-              "headline": "Pope Leo rides in helicopter cockpit during Peru trip",
-              "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss"
+              "headline": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+              "url": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss"
             },
             {
               "political": "right",
@@ -165,76 +174,76 @@
         },
         {
           "id": "global-7",
-          "neutralHeadline": "UEFA backs France's Diallo to stand against Infantino in FIFA election",
-          "neutralSummary": "European football's governing body UEFA has given its \"unanimous\" backing to French Football Federation chief Philippe Diallo to stand against incumbent Gianni Infantino in March's FIFA presidential election, it said in a statement Monday. Under its Slovenian president Aleksander Ceferin, UEFA has l",
+          "neutralHeadline": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
+          "neutralSummary": "Russia aims for ‘joint statement’ from trilateral summit with US and China&nbsp;&nbsp;Financial TimesChip tensions loom over Trump-Xi summit, as US and China push AI safety steps&nbsp;&nbsp;ReutersLive updates: Trump heads to Asia ahead of meeting with Xi and Putin&nbsp;&nbsp;NBC NewsOpinion | Trump",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "Al Jazeera",
-              "initials": "AJ",
-              "domain": "aljazeera.com",
-              "headline": "UEFA backs Diallo to challenge Infantino for FIFA presidency",
-              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+              "url": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "UEFA backs France's Diallo to stand against Infantino in FIFA election",
-              "url": "https://www.france24.com/en/uefa-backs-france-s-diallo-to-stand-against-infantino-in-fifa-election"
+              "source": "Financial Times",
+              "initials": "FT",
+              "domain": "news.google.com",
+              "headline": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONklWdmIweGtoTGtJLTRqbWlZcFhFaUMwSEpDaXlEa0NKR3R1eUttTllfZUI5dHZfRzRMSFZ6U3lPX1NsMFBuNzBrUU9Pa0hqRXprME5VQ0pTak9OQl9PVWw3MmZOU1JMQ2RFRkVqZGJDU3l5SjltbFo2TGRUdE5DRjlZVlM?oc=5"
             }
           ]
         },
         {
           "id": "global-8",
-          "neutralHeadline": "Russia's war on Ukraine: 'Americans want to have a deal whatever the cost for both Ukraine & Europe'",
-          "neutralSummary": "Delano D'Souza is pleased to welcome Grégoire Roos, Director of the Europe and Russia and Eurasia Programmes at Chatham House. As European countries prepare to take part in the next round of Ukraine peace talks, Roos questions whether having five European representatives could weaken their negotiati",
+          "neutralHeadline": "Trump says he needs funding for air traffic control after ground stop",
+          "neutralSummary": "US ​President ​Donald Trump, pressed on a ​technology ‌failure ⁠that ‌grounded thousands of ⁠flights last week, ​on ‌Monday told reporters ‌that ​the government needed funding for upgrade ​to ​air traffic ​control equipment. FRANCE 24's Monte Francis speaks with Sheldon Jacobson, Professor of Comput",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "npr.org",
+              "headline": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+              "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "France 24",
+              "initials": "F24",
+              "domain": "france24.com",
+              "headline": "Trump says he needs funding for air traffic control after ground stop",
+              "url": "https://www.france24.com/en/trump-says-he-needs-funding-for-air-traffic-control-after-ground-stop"
+            }
+          ]
+        },
+        {
+          "id": "global-9",
+          "neutralHeadline": "Brexit diminished us, Burnham says as he tees up closer EU ties",
+          "neutralSummary": "Brexit diminished us, Burnham says as he tees up closer EU ties&nbsp;&nbsp;POLITICO.euBurnham says Brexit has dramatically diminished Britain’s global standing&nbsp;&nbsp;The GuardianWhat Britain and the EU still don’t understand about each other&nbsp;&nbsp;POLITICO.euUK lost more than it gained fro",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Politico",
+              "initials": "POL",
+              "domain": "news.google.com",
+              "headline": "Brexit diminished us, Burnham says as he tees up closer EU ties",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDk0RllKODNYcWtIaDhfZlltaVYwd2toNEtDaC1sY1FrMHBaOUJaWE0wdU1xSVA3NEhTTF9zWjZ2SkYzY0xGWUJRUUwxU1psY3lWQm1XN28zR2lNOU1GcWUtZXRmNjJlUVZoNDYwbW1QSlhRTEJoczBXR0szc2lUd0RpSUdLcVlkdm5oWHkzMmZ3LTRyRU1IdURaSmx0ZlcyUjQ1MnJfZnlLNWt5TFEtai1R?oc=5"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "Al Jazeera",
               "initials": "AJ",
               "domain": "aljazeera.com",
-              "headline": "What will Europe do next in Ukraine?",
-              "url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "Russia's war on Ukraine: 'Americans want to have a deal whatever the cost for both Ukraine & Europe'",
-              "url": "https://www.france24.com/en/russia-s-war-on-ukraine-americans-want-to-have-a-deal-whatever-the-cost-for-both-ukraine-europe"
-            }
-          ]
-        },
-        {
-          "id": "global-9",
-          "neutralHeadline": "French troops in Ukraine 'wouldn't be a surprise'",
-          "neutralSummary": "French soldiers have been operating in Ukraine for several months, training Ukrainian troops and helping maintain military equipment, France 24's sister radio network Radio France Internationale (RFI) reported on Monday. While the deployment has not been confirmed, such a mission would not come as a",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "France 24",
-              "initials": "F24",
-              "domain": "france24.com",
-              "headline": "French troops in Ukraine 'wouldn't be a surprise'",
-              "url": "https://www.france24.com/en/video/20261116-french-troops-in-ukraine-wouldn-t-be-a-surprise"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "French troops secretly deployed inside Ukraine as ex-NATO chief praises Macron's 'guts'",
-              "url": "https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts"
+              "headline": "Andy Burnham says Brexit is what the UK’s ‘enemies’ wanted",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/andy-burnham-says-brexit-is-what-the-uks-enemies-wanted?traffic_source=rss"
             }
           ]
         }
@@ -245,60 +254,35 @@
       "stories": [
         {
           "id": "us-1",
-          "neutralHeadline": "Judge sets retrial date for Lindsay Clancy",
-          "neutralSummary": "Lindsay Clancy appeared Monday in a Massachusetts courtroom, where she learned she will face a retrial in connection with the deaths of her three young children.",
+          "neutralHeadline": "What we know about what caused the FAA's nationwide ground stop",
+          "neutralSummary": "What we know about what caused the FAA's nationwide ground stop&nbsp;&nbsp;AxiosExclusive | The Single Router in Southern Arkansas That Ground Air Travel to a Halt&nbsp;&nbsp;WSJ‘Working on floppy disks’: FAA has fielded years of warnings about old systems&nbsp;&nbsp;CNNFlight disruptions expected t",
           "versions": [
             {
               "political": "left",
               "tone": "neutral",
-              "source": "New York Times",
-              "initials": "NYT",
-              "domain": "nytimes.com",
-              "headline": "Judge Sets Spring Retrial for Lindsay Clancy",
-              "url": "https://www.nytimes.com/2026/11/16/us/lindsay-clancy-trial-hearing.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NPR",
-              "initials": "NPR",
-              "domain": "npr.org",
-              "headline": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
-              "url": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges"
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "United Airlines hit by tech issues days after nationwide ground stop",
+              "url": "https://www.washingtonpost.com/transportation/2026/11/16/united-airlines-hit-by-tech-issues-days-after-nationwide-ground-stop/"
             },
             {
               "political": "center",
               "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Judge sets retrial date for Lindsay Clancy",
-              "url": "https://thehill.com/regulation/court-battles/6222591-lindsey-clancy-massachusetts-case-retrial-set-march-2027/"
-            }
-          ]
-        },
-        {
-          "id": "us-2",
-          "neutralHeadline": "United Airlines suffers ‘widespread system outage’ — just days after all US flights were grounded due to faulty router",
-          "neutralSummary": "United Airlines reported a “widespread system outage” on Monday – as customers at major US banks reported outages days after nationwide flights were grounded due to technical problems.",
-          "versions": [
+              "source": "Axios",
+              "initials": "AX",
+              "domain": "news.google.com",
+              "headline": "What we know about what caused the FAA's nationwide ground stop",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaW8xRjJ5aVF4T09CZHdOUjd1eGpPZDY4NHFsLW9FVHc3NXl4M0hLV1dWMGlpeTlseFZzZ2dUUEZWRXF0dUhmaTZwTnVLWjFST3pqdUtmdlduTjZpNGpTLWVSUFR6ZnRFV1REQmF5dTdPMXlUOVBrWE1rNnNEblNFSlhXWQ?oc=5"
+            },
             {
               "political": "right",
               "tone": "neutral",
               "source": "NY Post",
               "initials": "NYP",
               "domain": "nypost.com",
-              "headline": "United Airlines suffers ‘widespread system outage’ — just days after all US flights were grounded due to faulty router",
-              "url": "https://nypost.com/2026/11/16/us-news/united-airlines-suffers-widespread-system-outage-just-days-after-all-us-flights-were-grounded-due-to-faulty-router/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Washington Examiner",
-              "initials": "WE",
-              "domain": "washingtonexaminer.com",
-              "headline": "United Airlines reports ‘widespread system outage’ days after FAA ground stop",
-              "url": "https://www.washingtonexaminer.com/policy/infrastructure/4805404/united-airlines-widespread-system-outage/"
+              "headline": "Duffy vows to modernize aging air traffic system after nationwide ground stop",
+              "url": "https://nypost.com/2026/11/17/us-news/sean-duffy-vows-to-modernize-aging-air-traffic-system-after-nationwide-ground-stop/"
             },
             {
               "political": "right",
@@ -306,13 +290,81 @@
               "source": "Daily Wire",
               "initials": "DW",
               "domain": "dailywire.com",
-              "headline": "BREAKING: United Airlines Hit By ‘Widespread System Outage’ Again",
-              "url": "https://www.dailywire.com/news/breaking-united-airlines-hit-by-widespread-system-outage-again"
+              "headline": "The Disturbing Truth About The Nationwide Ground Stop",
+              "url": "https://www.dailywire.com/news/the-disturbing-truth-about-the-nationwide-ground-stop"
+            }
+          ]
+        },
+        {
+          "id": "us-2",
+          "neutralHeadline": "NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit",
+          "neutralSummary": "NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit&nbsp;&nbsp;ABC7 New YorkSRG: Mamdani disbands controversial NYPD unit, fulfilling campaign promise&nbsp;&nbsp;CNNNew York Mayor Mamdani disbands divisive NYPD unit&nbsp;&nbsp;NBC NewsNew York Mayor Mamdani disbands 'notorious' police unit that u",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "Washington Post",
+              "initials": "WP",
+              "domain": "washingtonpost.com",
+              "headline": "Mamdani disbands NYPD unit criticized for aggressive tactics at protests",
+              "url": "https://www.washingtonpost.com/nation/2026/11/16/mamdani-disbands-nypd-unit-criticized-aggressive-tactics-protests/"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "ABC7 New York",
+              "initials": "AN",
+              "domain": "news.google.com",
+              "headline": "NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGNVVk40aXN4dlBjQUhaSnFvQkxvUWxOZXY3dHBycWRheDh3cEFsQXVWMU81R2xrUzlNTndnRE5YWjQwWEtfUFB3bkZBUzRwQjlVSjU5bHFKaUF3STdBaUxndUN1V2s1R1lldXhGbnZEN29vRHJsTmhlbVdIR0cwSFprdDNsQjc1YkJGSDQ4QmV2dDNlTktiV29UOWdSNm5HYnpTa0ZURUwtdk81ZGppNHJnd3Q5R0tXTWlndmpwSlB0RWZvSWVYX2V4TFRGcTc5TUY2U1RBTHA2VE5N0gHiAUFVX3lxTE9wWER3dDRBZXZLb1pXUWl2cHNLRkVtc2diU29Xd3pneXJBMm4xTWVfQVMxVm9jR2lVYW8waEtLTG9KNHFIamdyOUJIc1JzRm9ZSGE3RDIzVFVYUWJ4Z3p6bXlpRmRHdTF5Ulp5QjFXUGdTdjZzcjdxLVFrSlV6a2tZRnl0cExva1FGenBTblRXOXRGRjhPamZGc0dmOEE1R0tpWG9rdFd6SHR1cTE2ZEl1NnBuYmhGejNqZDl2cjRKU2VxNlRxcUdEdWVxeTBhQTBWdlFKNGVScUh4SmhvenJ4cUE?oc=5"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "Police groups condemn Mamdani over axing elite NYPD unit",
+              "url": "https://www.foxnews.com/politics/police-groups-condemn-mamdani-axing-elite-nypd-unit"
             }
           ]
         },
         {
           "id": "us-3",
+          "neutralHeadline": "Comer announces bid for Kentucky governor",
+          "neutralSummary": "Rep. James Comer (R-Ky.) announced a bid for Kentucky’s governor’s mansion following an election cycle where Democrats took control of Congress and a historic number of state legislatures.  &#8220;Serving this state is a calling for me,&#8221; Comer said while unveiling his campaign Monday. “Kentuck",
+          "versions": [
+            {
+              "political": "center",
+              "tone": "optimistic",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Comer announces bid for Kentucky governor",
+              "url": "https://thehill.com/homenews/campaign/6224056-james-comer-kentucky-governor-run/"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Fox News",
+              "initials": "FN",
+              "domain": "foxnews.com",
+              "headline": "James Comer launches bid for Kentucky governor",
+              "url": "https://www.foxnews.com/politics/james-comer-launches-bid-kentucky-governor"
+            },
+            {
+              "political": "right",
+              "tone": "neutral",
+              "source": "Washington Examiner",
+              "initials": "WE",
+              "domain": "washingtonexaminer.com",
+              "headline": "James Comer launches campaign to succeed Andy Beshear as Kentucky governor",
+              "url": "https://www.washingtonexaminer.com/news/campaigns/state/4805073/james-comer-launches-campaign-governor-andy-beshear-kentucky/"
+            }
+          ]
+        },
+        {
+          "id": "us-4",
           "neutralHeadline": "Trump’s Stake In Nvidia Is Much Bigger Than Previously Known: Report",
           "neutralSummary": "The Trump administration reportedly plans to designate Nvidia and more than two dozen other AI companies as “national champions.”",
           "versions": [
@@ -337,9 +389,34 @@
           ]
         },
         {
-          "id": "us-4",
-          "neutralHeadline": "Live updates: Trump en route to Asia; Nvidia scandal, national ground stop fallout loom large",
-          "neutralSummary": "President Trump is en route to Asia where he will meet with world leaders, including Chinese President Xi Jinping and Russian President Vladimir Putin, this week.&#160; He will first attend the ASEAN summit in the Philippines before heading to China for the&#160;Asia-Pacific Economic Cooperation sum",
+          "id": "us-5",
+          "neutralHeadline": "Incoming House Democrat accuses Hegseth of ‘war crimes’",
+          "neutralSummary": "Rep.-elect Fred Wellman (D-Mo.) accused Defense Secretary Pete Hegseth of committing “war crimes” during his tenure as head of the Pentagon. “Actually, I believe he&#8217;s committed crimes,” Wellman said during an appearance on MS NOW. “And let&#8217;s be very clear: we&#8217;re not at war with any",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "HuffPost",
+              "initials": "HP",
+              "domain": "huffpost.com",
+              "headline": "Incoming Rep Accuses Pete Hegseth Of 'War Crimes' And 'Murder' In Damning Interview",
+              "url": "https://www.huffpost.com/entry/fred-wellman-pete-hegseth_n_6afabbe3e4b0b6f4a957e92d"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "The Hill",
+              "initials": "TH",
+              "domain": "thehill.com",
+              "headline": "Incoming House Democrat accuses Hegseth of ‘war crimes’",
+              "url": "https://thehill.com/homenews/house/6223902-wellman-accuses-hegseth-crimes/"
+            }
+          ]
+        },
+        {
+          "id": "us-6",
+          "neutralHeadline": "Trump Heads To Asia Amid Nvidia Scandal, 2027 Grammy Nominations Released: Live Updates",
+          "neutralSummary": "Follow the latest news on the major headlines of the day.",
           "versions": [
             {
               "political": "left",
@@ -351,18 +428,18 @@
               "url": "https://www.huffpost.com/entry/live-updates_n_6afac912e4b04eba4d44b5f2"
             },
             {
-              "political": "center",
+              "political": "left",
               "tone": "neutral",
-              "source": "The Hill",
-              "initials": "TH",
-              "domain": "thehill.com",
-              "headline": "Live updates: Trump en route to Asia; Nvidia scandal, national ground stop fallout loom large",
-              "url": "https://thehill.com/policy/transportation/6221658-live-updates-duffy-faa-outage-nvidia-trump-democrats-senate-leadership-battle/"
+              "source": "NPR",
+              "initials": "NPR",
+              "domain": "news.google.com",
+              "headline": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR2R4Mk1GZlJvb3J6YksyYXpGWmxUN2VpRWV5R1dlYndlaTYtcDdUaFlOZXV1aHlFOTJ4TElxMkdEMWROV0xaV05LUGhfZ2RzYmdaMmZVY1lQS1F3ZVpUQVpiMHphZy1mbFVfQ2lMS0NwTXBlU1hJMmlvR2V6S0dPZDFR?oc=5"
             }
           ]
         },
         {
-          "id": "us-5",
+          "id": "us-7",
           "neutralHeadline": "Mike Pence Says Trump Administration Has An ‘Air Of Corruption’",
           "neutralSummary": "The former vice president pointed to the profits Trump and his family have made through cryptocurrency ventures as a troubling concern for Americans.",
           "versions": [
@@ -387,7 +464,7 @@
           ]
         },
         {
-          "id": "us-6",
+          "id": "us-8",
           "neutralHeadline": "Donald Trump loves Jensen Huang. Everyone else…",
           "neutralSummary": "Former Nvidia CEO Jensen Huang’s sudden downfall is in a sense shocking, considering his wealth, global fame, and role leading what was until recently the world’s most valuable company. But Huang’s immense influence in Washington — and particularly in President Donald Trump’s Washington — has long b",
           "versions": [
@@ -412,77 +489,18 @@
           ]
         },
         {
-          "id": "us-7",
-          "neutralHeadline": "Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports",
-          "neutralSummary": "After technical problems grounded flights nationwide and Microsoft products failed, the banking issues added to a sense of doom about the systems underpinning daily life.",
+          "id": "us-9",
+          "neutralHeadline": "Trump Administration Divide on China Policy Breaks Into Public View",
+          "neutralSummary": "The airing of a fight over advanced A.I. chips shows how much the Nvidia scandal has deepened fissures inside the government, just as President Trump heads to a critical meeting with his Chinese counterpart.",
           "versions": [
             {
               "political": "left",
-              "tone": "neutral",
+              "tone": "pessimistic",
               "source": "New York Times",
               "initials": "NYT",
               "domain": "nytimes.com",
-              "headline": "Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports",
-              "url": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Chase Bank reports technical issue affecting users",
-              "url": "https://www.washingtonpost.com/nation/2026/11/16/chase-bank-reports-technical-issue-affecting-users/"
-            }
-          ]
-        },
-        {
-          "id": "us-8",
-          "neutralHeadline": "Mamdani disbands NYPD unit criticized for aggressive tactics at protests",
-          "neutralSummary": "The Strategic Response Group (SRG) will be partially replaced by a new Community Dialogue and De-escalation Division (CDDD).",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Mamdani disbands NYPD unit criticized for aggressive tactics at protests",
-              "url": "https://www.washingtonpost.com/nation/2026/11/16/mamdani-disbands-nypd-unit-criticized-aggressive-tactics-protests/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "Fox News",
-              "initials": "FN",
-              "domain": "foxnews.com",
-              "headline": "Police groups condemn Mamdani over axing elite NYPD unit",
-              "url": "https://www.foxnews.com/politics/police-groups-condemn-mamdani-axing-elite-nypd-unit"
-            }
-          ]
-        },
-        {
-          "id": "us-9",
-          "neutralHeadline": "Teen reunited with cat after Brooklyn building collapse",
-          "neutralSummary": "A 13-year-old had pleaded for the return of her missing cat after the collapse last week.",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Washington Post",
-              "initials": "WP",
-              "domain": "washingtonpost.com",
-              "headline": "Teen reunited with cat after Brooklyn building collapse",
-              "url": "https://www.washingtonpost.com/nation/2026/11/16/teenager-reunited-with-missing-cat-after-brooklyn-building-collapse/"
-            },
-            {
-              "political": "right",
-              "tone": "neutral",
-              "source": "NY Post",
-              "initials": "NYP",
-              "domain": "nypost.com",
-              "headline": "DJ’s $100K ‘impossible to duplicate’ record collection destroyed in Brooklyn building collapse",
-              "url": "https://nypost.com/2026/11/16/us-news/djs-100k-impossible-to-duplicate-record-collection-destroyed-in-brooklyn-building-collapse/"
+              "headline": "Trump Administration Divide on China Policy Breaks Into Public View",
+              "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
             }
           ]
         }
@@ -493,8 +511,8 @@
       "stories": [
         {
           "id": "singapore-1",
-          "neutralHeadline": "PM Wong calls for closer ASEAN cooperation with Australia, South Korea",
-          "neutralSummary": "Singapore will work with both countries as ASEAN chair to build a more resilient and prosperous region.",
+          "neutralHeadline": "S’pore rethinking how vulnerable families get help, with agencies to work more closely together",
+          "neutralSummary": "Instead of individual programmes, social support will be centred around each family's needs.",
           "versions": [
             {
               "political": "center",
@@ -502,49 +520,40 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "PM Wong calls for closer ASEAN cooperation with Australia, South Korea",
-              "url": "https://www.straitstimes.com/singapore/politics/pm-wong-calls-for-closer-asean-cooperation-with-australia-south-korea"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "CNA",
-              "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "Practical cooperation in digital domain, AI can unlock opportunities for ASEAN, China: PM Wong",
-              "url": "https://www.channelnewsasia.com/singapore/asean-china-summit-lawrence-wong-6553926"
+              "headline": "S’pore rethinking how vulnerable families get help, with agencies to work more closely together",
+              "url": "https://www.straitstimes.com/singapore/community/spore-rethinking-how-vulnerable-families-get-help-with-agencies-to-work-more-closely-together"
             }
           ]
         },
         {
           "id": "singapore-2",
-          "neutralHeadline": "South Korea to inspect glasses worn by exam candidates after AI cheating scandal",
-          "neutralSummary": "South Korea adds glasses inspections, smart device monitoring and tougher penalties to protect this week’s college entrance exam from AI-assisted cheating.",
+          "neutralHeadline": "PSLE results to be released on Nov 24",
+          "neutralSummary": "Secondary 1 posting results will tentatively be released on Dec 18.",
           "versions": [
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Straits Times",
+              "initials": "ST",
+              "domain": "straitstimes.com",
+              "headline": "PSLE results to be released on Nov 24",
+              "url": "https://www.straitstimes.com/singapore/psle-results-to-be-released-on-nov-24"
+            },
             {
               "political": "center",
               "tone": "neutral",
               "source": "CNA",
               "initials": "CNA",
-              "domain": "channelnewsasia.com",
-              "headline": "South Korea to inspect glasses worn by exam candidates after AI cheating scandal",
-              "url": "https://www.channelnewsasia.com/east-asia/south-korea-national-exam-ai-cheating-scandal-6554101"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "BBC",
-              "initials": "BBC",
-              "domain": "bbc.co.uk",
-              "headline": "South Korea's top scorer in tax accountancy exam admits cheating",
-              "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
+              "domain": "news.google.com",
+              "headline": "PSLE results to be released on Nov 24",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUzg1TVVncDhkVjRDWnVWUk9hYkZtcUpHa3UyRVhTdFVmY19MdnllOHBYMkg0OEVqNDZNdHJXN2tIMjRGX1J6Yy1MR0hsMFdudjl0X3RvVk15R3FBeVR1cHdGNUZFZGxkT0ZTdDI2ZUo1aUkyNWJGRWZ2UjUyV2k4SUh6STJnMWs0R19oSHktcw?oc=5"
             }
           ]
         },
         {
           "id": "singapore-3",
-          "neutralHeadline": "Silicon Valley leaders back call for Jensen Huang's return to Nvidia",
-          "neutralSummary": "Silicon Valley leaders back call for Jensen Huang's return to Nvidia",
+          "neutralHeadline": "ASEAN chief highlights unusually extensive haze talks, hurdles in South China Sea code negotiations",
+          "neutralSummary": "In an interview with CNA at the ASEAN summit, Secretary-General Kao Kim Hourn said leaders discussed tackling companies linked to forest fires, while the geographic scope of a proposed South China Sea code of conduct remains unresolved.",
           "versions": [
             {
               "political": "center",
@@ -552,56 +561,47 @@
               "source": "CNA",
               "initials": "CNA",
               "domain": "channelnewsasia.com",
-              "headline": "Silicon Valley leaders back call for Jensen Huang's return to Nvidia",
-              "url": "https://www.channelnewsasia.com/business/silicon-valley-leaders-back-call-jensen-huangs-return-nvidia-6555861"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Business Times",
-              "initials": "BT",
-              "domain": "news.google.com",
-              "headline": "Jensen Huang discusses comeback as Nvidia CEO with allies: report",
-              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZFRRSDVZU09IQmxKUTFVRGZhWHNXTVFjc1hHYjlVX2pvSzJXNHp2TjRaVEJfMmJRSWUyclUxc2F0TENEWW1xbmRfTkxoTTZIZEJ2Qm5aaHlYMXdzX19nb2Q4LXNaTU16OVJQM0NUM2FXMDltMXFyaTdXblN5MmpsblhfdHNEWW56UWlVY0ZDRFhDSS04ems5a0YyUWFqUGZWb3FjMnpTLW9nU3hNUmxv?oc=5"
+              "headline": "ASEAN chief highlights unusually extensive haze talks, hurdles in South China Sea code negotiations",
+              "url": "https://www.channelnewsasia.com/asia/asean-south-china-sea-haze-sec-gen-kao-kim-hourn-6557346"
             }
           ]
         },
         {
           "id": "singapore-4",
-          "neutralHeadline": "From salmon to kanagashira: How Sushiro is helping S’pore diners discover a wider world of Japanese flavours",
-          "neutralSummary": "From salmon to kanagashira: How Sushiro is helping S’pore diners discover a wider world of Japanese flavours",
+          "neutralHeadline": "Trump-Xi talks, first Putin trilateral put spotlight on diplomacy at China’s APEC summit",
+          "neutralSummary": "China hosts APEC for the first time in 12 years. High-profile sideline diplomacy is drawing attention amid questions over whether the forum in Shenzhen can deliver more than symbolism.",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "From salmon to kanagashira: How Sushiro is helping S’pore diners discover a wider world of Japanese flavours",
-              "url": "https://www.straitstimes.com/singapore/from-salmon-to-kanagashira-helping-spore-diners-discover-japanese-flavours-sushiro"
+              "source": "CNA",
+              "initials": "CNA",
+              "domain": "channelnewsasia.com",
+              "headline": "Trump-Xi talks, first Putin trilateral put spotlight on diplomacy at China’s APEC summit",
+              "url": "https://www.channelnewsasia.com/east-asia/apec-summit-2026-china-shenzhen-trump-xi-putin-6545366"
             }
           ]
         },
         {
           "id": "singapore-5",
-          "neutralHeadline": "One insurer, two cultures: How shared values shape the Japanese firm’s approach to customers",
-          "neutralSummary": "One insurer, two cultures: How shared values shape the Japanese firm’s approach to customers",
+          "neutralHeadline": "Deutsche Bank Processed Payments Linked to Epstein: FT (Video)",
+          "neutralSummary": "Deutsche Bank Processed Payments Linked to Epstein: FT (Video)",
           "versions": [
             {
               "political": "center",
               "tone": "neutral",
-              "source": "Straits Times",
-              "initials": "ST",
-              "domain": "straitstimes.com",
-              "headline": "One insurer, two cultures: How shared values shape the Japanese firm’s approach to customers",
-              "url": "https://www.straitstimes.com/singapore/tokio-marine-life-insurance-singapore-japanese-firm-commitment-to-customers"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Deutsche Bank Processed Payments Linked to Epstein: FT (Video)",
+              "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-payments-linked-to-epstein-ft-video"
             }
           ]
         },
         {
           "id": "singapore-6",
-          "neutralHeadline": "From satellite links to passport-free crossings: How this Japanese tech firm builds on its Singapore partnership",
-          "neutralSummary": "NEC’s teams in Singapore and Japan have been building technology side by side, from satellite communications to digital identity solutions",
+          "neutralHeadline": "Man behind ruse to unlawfully claim over $588k in GST refunds gets more than 2 years’ jail",
+          "neutralSummary": "Lim Chit Foo was earlier sent to jail in 2022 after cheating the Inland Revenue Authority of Singapore of over $11.8 million.",
           "versions": [
             {
               "political": "center",
@@ -609,15 +609,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "From satellite links to passport-free crossings: How this Japanese tech firm builds on its Singapore partnership",
-              "url": "https://www.straitstimes.com/singapore/from-satellite-links-to-passport-free-crossings-how-this-japanese-tech-firm-builds-on-its-singapore"
+              "headline": "Man behind ruse to unlawfully claim over $588k in GST refunds gets more than 2 years’ jail",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/man-behind-ruse-to-unlawfully-claim-over-588k-in-gst-refunds-gets-more-than-2-years-jail"
             }
           ]
         },
         {
           "id": "singapore-7",
-          "neutralHeadline": "From autonomous excavators to energy-efficient buildings: How Japanese tech is helping Singapore build smarter",
-          "neutralSummary": "By adapting construction technologies for Singapore’s needs and environment, Kajima Overseas Asia Singapore is exploring new ways to improve productivity and efficiency.",
+          "neutralHeadline": "The Straits Times takes home six prizes, including three first-place finishes, at global Eppy Awards",
+          "neutralSummary": "The wins also include two second-place finishes and a joint third for ST’s reporting and visual storytelling.",
           "versions": [
             {
               "political": "center",
@@ -625,15 +625,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "From autonomous excavators to energy-efficient buildings: How Japanese tech is helping Singapore build smarter",
-              "url": "https://www.straitstimes.com/singapore/kajima-autonomous-excavators-energy-efficient-buildings-how-japanese-tech-is-helping-singapore"
+              "headline": "The Straits Times takes home six prizes, including three first-place finishes, at global Eppy Awards",
+              "url": "https://www.straitstimes.com/singapore/the-straits-times-takes-home-six-prizes-including-three-first-place-finishes-at-global-eppy-awards"
             }
           ]
         },
         {
           "id": "singapore-8",
-          "neutralHeadline": "From petrochemicals to hydrogen-ready power plants: How a Japanese firm is supporting S’pore’s shift to cleaner energy",
-          "neutralSummary": "From petrochemicals to hydrogen-ready power plants: How a Japanese firm is supporting S’pore’s shift to cleaner energy",
+          "neutralHeadline": "Jail for man who used twin brother’s passport to leave Singapore multiple times",
+          "neutralSummary": "The man believed he was less likely to be directed for biometric screening at the checkpoints because he and his brother look alike.",
           "versions": [
             {
               "political": "center",
@@ -641,15 +641,15 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "From petrochemicals to hydrogen-ready power plants: How a Japanese firm is supporting S’pore’s shift to cleaner energy",
-              "url": "https://www.straitstimes.com/singapore/from-petrochemicals-to-hydrogen-ready-power-plants-how-a-japanese-firm-is-supporting-spores-shift-to"
+              "headline": "Jail for man who used twin brother’s passport to leave Singapore multiple times",
+              "url": "https://www.straitstimes.com/singapore/courts-crime/jail-for-man-who-used-twin-brothers-passport-to-leave-singapore-multiple-times"
             }
           ]
         },
         {
           "id": "singapore-9",
-          "neutralHeadline": "Stand a chance to win a pair of Oceanarium tickets",
-          "neutralSummary": "A pair of Oceanarium tickets worth $110 is up for grabs for eligible polytechnic and ITE students.",
+          "neutralHeadline": "Young people can be part of Singapore’s best defence against online extremism: Zaqy Mohamad",
+          "neutralSummary": "He spoke at a forum about radicalisation that brought together about 150 students.",
           "versions": [
             {
               "political": "center",
@@ -657,8 +657,8 @@
               "source": "Straits Times",
               "initials": "ST",
               "domain": "straitstimes.com",
-              "headline": "Stand a chance to win a pair of Oceanarium tickets",
-              "url": "https://www.straitstimes.com/singapore/stand-a-chance-to-win-a-pair-of-oceanarium-tickets"
+              "headline": "Young people can be part of Singapore’s best defence against online extremism: Zaqy Mohamad",
+              "url": "https://www.straitstimes.com/singapore/young-people-can-be-part-of-singapores-best-defence-against-online-extremism-zaqy-mohamad"
             }
           ]
         }
@@ -669,42 +669,8 @@
       "stories": [
         {
           "id": "india-1",
-          "neutralHeadline": "Trump leaves door open for Nvidia CEO's return",
-          "neutralSummary": "Trump leaves door open for Nvidia CEO's return",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "NDTV",
-              "initials": "NDTV",
-              "domain": "ndtv.com",
-              "headline": "Trump's \"Beautiful Woman From China\" Remark As He Backs Jensen Huang's Nvidia Return",
-              "url": "https://www.ndtv.com/world-news/not-a-bad-idea-donald-trump-on-jensen-huangs-return-to-nvidia-12334873#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Economic Times",
-              "initials": "ET",
-              "domain": "economictimes.indiatimes.com",
-              "headline": "Trump leaves door open for Nvidia CEO's return",
-              "url": "https://economictimes.indiatimes.com/news/international/world-news/donald-trump-jensen-huang-nvidia-return-china-spy-allegations-alice-huang-huang-learned-a-lesson-donald-trump-leaves-door-open-for-nvidia-ceos-return/articleshow/135893035.cms"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Korea JoongAng Daily",
-              "initials": "KJ",
-              "domain": "news.google.com",
-              "headline": "Jensen Huang seeks return as Nvidia CEO four days after resignation",
-              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU2lRNTBzb29uRXZjeWduODQ5eTl0TWk4WGptS2luNUNkNkh6cFd5S3liYkVyR0c3a29PaS1LRWdNdjFDWDJPX0dUeWtDaGZoa3YybHNhNGE1MjEtZVZSSUlVTGwxNktqa29tU1A2N2RQank4Uk5BZ3J0T09tTGRDQ0U1ZXE4MWJVWFFscURiNERxcmFxZnhQOXZvUW9nSGVRVU45QlprNVpwcTBhR1JPVTAwMGpsdmwyWFhHRw?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-2",
-          "neutralHeadline": "‘Papa would be proud of you’: Son Rahul Gandhi gets emotional at Sonia’s memoir launch",
-          "neutralSummary": "‘Papa would be proud of you’: Son Rahul Gandhi gets emotional at Sonia’s memoir launch",
+          "neutralHeadline": "'Fresh tears of pain, shock, disbelief': Bilkis Bano after SC grants bail to convicts",
+          "neutralSummary": "'Fresh tears of pain, shock, disbelief': Bilkis Bano after SC grants bail to convicts",
           "versions": [
             {
               "political": "center",
@@ -712,8 +678,8 @@
               "source": "Times of India",
               "initials": "TOI",
               "domain": "timesofindia.indiatimes.com",
-              "headline": "‘Papa would be proud of you’: Son Rahul Gandhi gets emotional at Sonia’s memoir launch",
-              "url": "https://timesofindia.indiatimes.com/india/papa-would-be-proud-of-you-son-rahul-gandhi-gets-emotional-at-sonias-memoir-launch/articleshow/135895746.cms"
+              "headline": "'Fresh tears of pain, shock, disbelief': Bilkis Bano after SC grants bail to convicts",
+              "url": "https://timesofindia.indiatimes.com/india/i-am-scared-once-again-bilkis-bano-releases-statement-after-sc-grants-bail-to-two-convicts/articleshow/135914851.cms"
             },
             {
               "political": "center",
@@ -721,8 +687,8 @@
               "source": "Hindustan Times",
               "initials": "HT",
               "domain": "hindustantimes.com",
-              "headline": "‘My father belonged to her’: Rahul Gandhi’s heartfelt tribute to Sonia Gandhi at memoir launch",
-              "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-tribute-to-sonia-gandhi-at-memoir-launch-rajiv-gandhi-belonged-to-her-101794846053444.html"
+              "headline": "Bilkis Bano expresses shock, disbelief at SC order suspending sentences of 2 convicts",
+              "url": "https://www.hindustantimes.com/india-news/bilkis-bano-expresses-shock-disbelief-at-sc-order-suspending-sentences-of-2-convicts-101794901752700.html"
             },
             {
               "political": "left",
@@ -730,129 +696,154 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "news.google.com",
-              "headline": "Wanted to set the record straight, says Sonia Gandhi at official launch of memoir",
-              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVndpdmtFQkRGLWE5WmFWN3BBT1h6elJDWWRMUklUZ1VQUXdpeW1oX1N4X3JuY0pYTDVmaFJKN2x6UGZEcU1RNzFGWW5WWW1ZQTVNb1p1Q1RHWGRibzdHNnVHVy1uQXJ2V1NBcGpYSXlXLVdNZlZJZnRRWExwcHhrTFdIazdKampJWlJ0OG1zUGUwQ2hDRXFzcHZjQ1JNNGlQUnpPdlRLeFNhUEthVUFVdtIBtwFBVV95cUxQUkhmaElEZFVwQkNUR0llZ1NTNFhqVl9hTmlnY29QbnVJVlRTak13eEtMcTZ0VkVsbDdZd3g0cGVLZnhhMmxITUxSLXB1NXlLVWpBUjMyaGN4SkpSMkV5S2Z2NHZxVS1iUzlmQUxSa2JhQ2NNQV9LTHNfZllxRnpyTmFwVlFlb1R4RHlkdWxCR2h4UnFNOXdpSDczdUJSRTRKTjg1M2JMZDNjSGEwRk00SmxYdWZzMGs?oc=5"
+              "headline": "Bilkis Bano says Supreme Court did not inform or hear her before granting bail to two convicts; vows to fight order",
+              "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxON1pfN1J3My1sblQ4U3JFZTNJV0lCMG5vV055dU52MEphVUwxZmRidTZWQjJsSjRZcWZsdU5WOU9fTXAwd0JRcEVFQnhZa1BSWDh0STlwaE5IeW1sOG5fVV9wN29BdUg4RkJWN1RCd2VjN29PUHdqNXVpUkRJYUpEb1BicU1CZDJ4QWpXaUdrMUVEdy15d0RGNW9qSjFmQzF5QXd4RWY0eHZ4YUN0eWFmSGNnMzFMQThSZEhIUHNvTWJuTVdsU2ZGeWZ5cDhGY3Ria0p0R041d0JhWmFUWFptOVIzSWU4SmlwZjFjWFZrMGVrT2hxYU9LcmUzN2ItaU1SUjFZ0gGKAkFVX3lxTFBIRk1EZHBzNU1xMklyRnRwX2lBSUVLeTh0TTZ3YXlUZ3hJem55U2ZGV3pzTEdKdk8xRmNuZEJfR1BzSVMxRDN0cmNvUTVuc1FhcEVreVY4Mm1jb0U4ODg4VGJ5djV6Vl9nZ3k5UVBOYkRhT2l6TGV3OUlFbmlCWGNJYlNsREJkQkZERmdfdUhoRG5DMTFDcmJPRUV0clZKUUZxQTYtU2UwQTMzNnJCanpxNVRpVGRhNGNnMGZvMmtlRUsxdWVXQktobmhaRWZtX2dSRzBvdng5QzZ6NFNxREwtSTRQVjZOUlh6UFIyUmdMTjJ4T1pPOFZqZUdlc2N5dFR3TmRNb3p2SXRB?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-2",
+          "neutralHeadline": "ASEAN Summit LIVE updates: PM Modi proposes initiatives to strengthen ASEAN-India ties; Quad meeting likely after President Trump arrives",
+          "neutralSummary": "In the first Quad Summit since 2024, PM Modi is expected to meet U.S. President Trump, Japanese PM Takaichi and Australian PM Albanese",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "ASEAN Summit LIVE updates: PM Modi proposes initiatives to strengthen ASEAN-India ties; Quad meeting likely after President Trump arrives",
+              "url": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece"
             }
           ]
         },
         {
           "id": "india-3",
-          "neutralHeadline": "Customers report online access issues at major US banks and Zelle payment service",
-          "neutralSummary": "On November 17, customers faced major hurdles as multiple banks experienced online account access issues. Many reported difficulties with Bank of America, Chase, and Zelle, with around 2000 complaints from Bank of America and close to 5000 from Chase. These banking troubles came right after a Micros",
+          "neutralHeadline": "Bird flu detected at two farms in Kerala’s Alappuzha; 26,000 birds to be culled",
+          "neutralSummary": "According to a preliminary estimate, 10,044 birds in Ambalappuzha North alone will have to be culled as part of the operation.",
           "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Bird flu confirmed at two farms in Keralam’s Alappuzha; 26,000 birds to be culled",
+              "url": "https://www.thehindu.com/news/national/kerala/bird-flu-confirmed-at-two-farms-in-keralams-alappuzha-26000-birds-to-be-culled/article71711086.ece"
+            },
+            {
+              "political": "center",
+              "tone": "neutral",
+              "source": "Hindustan Times",
+              "initials": "HT",
+              "domain": "hindustantimes.com",
+              "headline": "Bird flu detected at two farms in Kerala’s Alappuzha; 26,000 birds to be culled",
+              "url": "https://www.hindustantimes.com/india-news/bird-flu-detected-at-two-farms-in-kerala-s-alappuzha-26-000-birds-to-be-culled-101794902165878.html"
+            }
+          ]
+        },
+        {
+          "id": "india-4",
+          "neutralHeadline": "Cyclone 'Akvan' LIVE updates: Akvan likely to become a severe cyclonic storm by November 19",
+          "neutralSummary": "The clouds associated with the system are projected to bring light to moderate rainfall at some parts of Tamil Nadu, Puducherry, Telangana, Andhra Pradesh, Odisha and West Bengal",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Cyclone 'Akvan' LIVE updates: Akvan likely to become a severe cyclonic storm by November 19",
+              "url": "https://www.thehindu.com/news/national/cyclone-akvan-cyclonic-storm-forms-over-bay-of-bengal-andhra-pradesh-november-17-2026-live-updates/article71710277.ece"
+            }
+          ]
+        },
+        {
+          "id": "india-5",
+          "neutralHeadline": "Two killed, four injured as building collapses in Delhi’s Jwala Nagar",
+          "neutralSummary": "Six tenants were rescued from the debris and taken to Hedgewar Hospital; the collapse comes two days after an under-construction building fell in Paharganj, injuring eight workers",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "Two killed, four injured as building collapses in Delhi’s Jwala Nagar",
+              "url": "https://www.thehindu.com/news/cities/Delhi/two-storey-residential-building-collapsed-in-shahdaras-jwala-nagar-area/article71710607.ece"
+            },
+            {
+              "political": "left",
+              "tone": "pessimistic",
+              "source": "NDTV",
+              "initials": "NDTV",
+              "domain": "news.google.com",
+              "headline": "Child Among 2 Killed After 2-Storey Building Collapses In Delhi",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHZSbGxvRzV6NU1OTXFWbjBXQkVPWmRQcVdyTzBSVV90LTI4SDdYcVlSeVdkTnFVWlhBT3RtWUl3Q21wQVMzcDRiSF82Z0tiY0VQMU1UekZydmExQmMzRGJsR0ZEMkY2dlkySTVMVHJkZFNiYVNreVF4SnpxUllfelBWQ254bVhZZzRWc2V2TUEwX3NqZC1oLWVnNWhYMkpUU1BvTms5RQ?oc=5"
+            }
+          ]
+        },
+        {
+          "id": "india-6",
+          "neutralHeadline": "PM Modi leads foundation stone-laying ceremony for Philippines’ oldest gurudwara’s redevelopment",
+          "neutralSummary": "PM Narendra Modi, who is on a three-day visit to the Philippines, said he felt \"very blessed\" to visit the over a century-old Gurudwara Khalsa Diwan in Manila",
+          "versions": [
+            {
+              "political": "left",
+              "tone": "neutral",
+              "source": "The Hindu",
+              "initials": "TH",
+              "domain": "thehindu.com",
+              "headline": "PM Modi leads foundation stone-laying ceremony for Philippines’ oldest gurudwara’s redevelopment",
+              "url": "https://www.thehindu.com/news/national/pm-modi-leads-foundation-stone-laying-ceremony-for-philippines-oldest-gurudwaras-redevelopment/article71710655.ece"
+            },
             {
               "political": "left",
               "tone": "neutral",
               "source": "NDTV",
               "initials": "NDTV",
               "domain": "ndtv.com",
-              "headline": "Major US Banks Face Widespread Service Outages: Report",
-              "url": "https://www.ndtv.com/world-news/major-us-banks-face-widespread-service-outages-report-12335941#publisher=newsstand"
-            },
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Customers report online access issues at major US banks and Zelle payment service",
-              "url": "https://timesofindia.indiatimes.com/technology/tech-news/customers-of-bank-of-america-chase-jp-morgan-wells-fargo-and-zelle-report-issues-accessing-accounts-online/articleshow/135901095.cms"
-            }
-          ]
-        },
-        {
-          "id": "india-4",
-          "neutralHeadline": "Manipur shuts down over killing of 4 Tangkhul Nagas",
-          "neutralSummary": "The shutdown coincided with the burial of six Liangmai Naga civilians, more than five months after their beheaded bodies were recovered on June 10.",
-          "versions": [
-            {
-              "political": "center",
-              "tone": "neutral",
-              "source": "Times of India",
-              "initials": "TOI",
-              "domain": "timesofindia.indiatimes.com",
-              "headline": "Manipur shuts down over killing of 4 Tangkhul Nagas",
-              "url": "https://timesofindia.indiatimes.com/city/guwahati/manipur-shuts-down-over-killing-of-4-tangkhul-nagas-bodies-of-6-liangmai-nagas-laid-to-rest-after-5-months/articleshow/135894376.cms"
-            },
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "Indian Express",
-              "initials": "IE",
-              "domain": "news.google.com",
-              "headline": "Manipur: Bodies of six Nagas laid to rest months after killing",
-              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUx0NlVOUE1QV2ZJaU9sOFFPWWc5dzQxa09iRjRTYXJZdEpsZW5SbEJsdE4wZXVVSDhHdDhlMXF5a19LTmozbDM4endOUlBGY2tzdld4R29CQ0l2TFdoeWVra0lUaHE3SjQ0SzNsOGVkYWY3cnpqR3pNekVobHhwd2xBU0twaVBqTG5zZVl1N2dWVDBqRkdEeUU5bTl5Y08tVEhZUlhBcWtuaGRxT3F0WV9n?oc=5"
-            }
-          ]
-        },
-        {
-          "id": "india-5",
-          "neutralHeadline": "Kishtwar killings aftermath: Remarks by Congress’ Karra, BJP’s Parihar spark protests in J&K",
-          "neutralSummary": "Mr. Karra said that “two SPOs were killed by the Army in a mistaken-identity case on November 11”, while senior BJP leader Sharma said, “Congress is spreading misleading information to shift blame from terrorists to security forces”",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Kishtwar killings aftermath: Remarks by Congress’ Karra, BJP’s Parihar spark protests in J&K",
-              "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kishtwar-killings-aftermath-remarks-by-congress-karra-bjps-parihar-spark-protests-in-jk/article71709551.ece"
-            }
-          ]
-        },
-        {
-          "id": "india-6",
-          "neutralHeadline": "Christian community seeks West Bengal CM’s intervention over targeted attacks ahead of Christmas",
-          "neutralSummary": "Bishop of Calcutta Reverend Paritosh Canning ruled out claims of religious conversion by institutions affiliated with the Churches of North India",
-          "versions": [
-            {
-              "political": "left",
-              "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Christian community seeks West Bengal CM’s intervention over targeted attacks ahead of Christmas",
-              "url": "https://www.thehindu.com/news/national/west-bengal/christian-community-seeks-west-bengal-cms-intervention-over-targeted-attacks-ahead-of-christmas/article71708936.ece"
+              "headline": "PM Modi Lays Foundation Stone For Philippines' Oldest Gurudwara's Redevelopment",
+              "url": "https://www.ndtv.com/world-news/pm-modi-lays-foundation-stone-for-philippines-oldest-gurudwaras-redevelopment-12336829#publisher=newsstand"
             }
           ]
         },
         {
           "id": "india-7",
-          "neutralHeadline": "West Bengal BJP supporters beating up own party members, says Union Minister as feuds rise in party",
-          "neutralSummary": "“BJP workers are being beaten up, and those beating them are also from the BJP. The police administration has turned a blind eye and is not functioning impartially,” alleged Bongaon MP Santanu Thakur",
+          "neutralHeadline": "‘Stupid’ ideas and ‘goldfish’ staff: How Jensen Huang and daughter Madison ran Nvidia",
+          "neutralSummary": "Ousted Nvidia CEO Jensen Huang often called staff ideas \"stupid\" in meetings, while daughter Madison Huang, his de facto chief of staff, labelled forgetful employees \"goldfish\", a Wall Street Journal report says. A former executive credits that bluntness for Nvidia's success. As Silicon Valley figur",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "West Bengal BJP supporters beating up own party members, says Union Minister as feuds rise in party",
-              "url": "https://www.thehindu.com/news/national/west-bengal/bjp-supporters-beating-up-own-party-members-says-union-minister-as-feuds-rise-in-party/article71709086.ece"
+              "source": "Times of India",
+              "initials": "TOI",
+              "domain": "timesofindia.indiatimes.com",
+              "headline": "‘Stupid’ ideas and ‘goldfish’ staff: How Jensen Huang and daughter Madison ran Nvidia",
+              "url": "https://timesofindia.indiatimes.com/technology/tech-news/ousted-nvidia-ceo-jensen-huang-called-ideas-stupid-in-meetings-daughter-called-staff-goldfish-former-executive-says-one-of-the-reasons-why-i-believe-nvidia-was-successful-was-/articleshow/135916825.cms"
             }
           ]
         },
         {
           "id": "india-8",
-          "neutralHeadline": "Murder of BJP worker by own party members sparks speculation of intra-party feud in West Bengal",
-          "neutralSummary": "Following the death of Arup Saha, the husband of Ruma Saha — the secretary of BJP’s Panihati-1 mandal (zone), Panihati MLA Ratna Debnath said that she feels personally responsible for the death of the BJP worker",
+          "neutralHeadline": "Deutsche Bank Processed Payments Linked to Epstein: FT (Video)",
+          "neutralSummary": "Deutsche Bank Processed Payments Linked to Epstein: FT (Video)",
           "versions": [
             {
-              "political": "left",
+              "political": "center",
               "tone": "neutral",
-              "source": "The Hindu",
-              "initials": "TH",
-              "domain": "thehindu.com",
-              "headline": "Murder of BJP worker by own party members sparks speculation of intra-party feud in West Bengal",
-              "url": "https://www.thehindu.com/news/national/west-bengal/murder-of-bjp-worker-by-own-party-members-sparks-speculation-of-intra-party-feud-in-west-bengal/article71705378.ece"
+              "source": "Bloomberg",
+              "initials": "BB",
+              "domain": "bloomberg.com",
+              "headline": "Deutsche Bank Processed Payments Linked to Epstein: FT (Video)",
+              "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-payments-linked-to-epstein-ft-video"
             }
           ]
         },
         {
           "id": "india-9",
-          "neutralHeadline": "Site inspection held for key Goshree-Mamangalam traffic corridor in Keralam’s Kochi",
-          "neutralSummary": "Developing the stretch into a major traffic corridor is expected to help resolve the city’s persistent traffic bottlenecks to a great extent and ease the existing pressure on several roads",
+          "neutralHeadline": "IND vs NZ Tests: India faces test of character as WTC hopes hang in balance",
+          "neutralSummary": "After winning the T20I and ODI series, India turn their attention to the Tests. With conditions favouring pace, Gill and the team management must balance bowling firepower with batting depth",
           "versions": [
             {
               "political": "left",
@@ -860,8 +851,8 @@
               "source": "The Hindu",
               "initials": "TH",
               "domain": "thehindu.com",
-              "headline": "Site inspection held for key Goshree-Mamangalam traffic corridor in Keralam’s Kochi",
-              "url": "https://www.thehindu.com/news/national/kerala/site-inspection-held-for-key-goshree-mamangalam-traffic-corridor-in-keralams-kochi/article71709043.ece"
+              "headline": "IND vs NZ Tests: India faces test of character as WTC hopes hang in balance",
+              "url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-tests-india-faces-test-of-character-as-wtc-hopes-hang-in-balance/article71710790.ece"
             }
           ]
         }
